@@ -1,0 +1,8 @@
+Following World War I and the dissolution of the Ottoman Empire, the League of Nations awarded Britain the mandate to govern much of the Middle East. Britain demarcated a semi-autonomous region of Transjordan from Palestine in the early 1920s. The area gained its independence in 1946 and thereafter became The Hashemite Kingdom of Jordan. The country's long-time ruler, King HUSSEIN (1953-99), successfully navigated competing pressures from the major powers (US, USSR, and UK), various Arab states, Israel, and a large internal Palestinian population. Jordan lost the West Bank to Israel in the 1967 Six-Day War. King HUSSEIN in 1988 permanently relinquished Jordanian claims to the West Bank; in 1994 he signed a peace treaty with Israel. King ABDALLAH II, King HUSSEIN's eldest son, assumed the throne following his father's death in 1999. He has implemented modest political reforms, including the passage of a new electoral law in early 2016 and an effort to devolve some authority to governorate- and municipal-level councils following subnational elections in 2017. In 2016, the Islamic Action Front, which is the political arm of the Jordanian Muslim Brotherhood, returned to the National Assembly with 15 seats after boycotting the previous two elections in 2010 and 2013.  
+
+---
+country: Jordan
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Jordan/>
+license: public domain (U.S.)
+...

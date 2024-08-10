@@ -1,0 +1,14 @@
+| Precautions | Exercise increased caution due to terrorism. Some areas have increased risk. |
+| | Consult the link below for updates to travel advisories and statements on safety, security, local laws, and special circumstances in this country. |
+| | <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html> |
+| Passport/Visa Requirements | US citizens should make sure their passport is valid at the date of their entering the country. They should also make sure they have at least 1 blank page in their passport for any entry stamp that will be required. A visa is not required as long as you do not stay in the country more than 89 days in a six-month period. |
+| Vaccinations | See WHO recommendations  <http://www.who.int/> |
+| US Embassy/Consulate | +(383) (38) 5959-3000; U S Embassy Pristina, 30 Nazim Hikmet Street, (Dragodan area), Pristina, Kosovo; PristinaACS@state.gov; https://xk.usembassy.gov/ |
+
+---
+country: Kosovo
+date: June 26, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Kosovo/travel-facts>
+license: public domain (U.S.)
+...

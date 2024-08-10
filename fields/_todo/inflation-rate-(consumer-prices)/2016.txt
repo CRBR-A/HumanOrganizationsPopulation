@@ -1,0 +1,234 @@
+CIA - The World Factbook --  INFLATION RATE (CONSUMER PRICES)
+
+Inflation rate (consumer prices) compares the annual percent change in consumer prices with the previous year's consumer prices.
+
+| Rank | Country | (%) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Lebanon | -3.70 | 2015 est. |
+| 2 | Cayman Islands | -2.90 | 2015 est. |
+| 3 | Saint Kitts and Nevis | -2.80 | 2015 est. |
+| 4 | Northern Mariana Islands | -2.50 | 2013 est. |
+| 5 | Zimbabwe | -2.40 | 2015 est. |
+| 6 | Marshall Islands | -2.20 | 2015 est. |
+| 7 | Saint Vincent and the Grenadines | -1.70 | 2015 est. |
+| 8 | Cyprus | -1.50 | 2015 est. |
+| 9 | Afghanistan | -1.50 | 2015 est. |
+| 10 | Bulgaria | -1.10 | 2015 est. |
+| 11 | Barbados | -1.10 | 2015 est. |
+| 12 | Greece | -1.10 | 2015 est. |
+| 13 | Switzerland | -1.10 | 2015 est. |
+| 14 | Montserrat | -1.10 | 2015 est. |
+| 15 | Bosnia and Herzegovina | -1.00 | 2015 est. |
+| 16 | Saint Lucia | -1.00 | 2015 est. |
+| 17 | Anguilla | -1.00 | 2015 est. |
+| 18 | Micronesia, Federated States of | -1.00 | 2015 est. |
+| 19 | Poland | -0.90 | 2015 est. |
+| 20 | Belize | -0.90 | 2015 est. |
+| 21 | Thailand | -0.90 | 2015 est. |
+| 22 | Jordan | -0.90 | 2015 est. |
+| 23 | Dominica | -0.80 | 2015 est. |
+| 24 | Puerto Rico | -0.80 | 2015 est. |
+| 25 | El Salvador | -0.70 | 2015 est. |
+| 26 | Lithuania | -0.70 | 2015 est. |
+| 27 | Israel | -0.60 | 2015 est. |
+| 28 | Grenada | -0.60 | 2015 est. |
+| 29 | Romania | -0.60 | 2015 est. |
+| 30 | Croatia | -0.50 | 2015 est. |
+| 31 | Spain | -0.50 | 2015 est. |
+| 32 | Singapore | -0.50 | 2015 est. |
+| 33 | Kosovo | -0.50 | 2015 est. |
+| 34 | Slovenia | -0.50 | 2015 est. |
+| 35 | Brunei | -0.40 | 2015 est. |
+| 36 | Guyana | -0.30 | 2015 est. |
+| 37 | Slovakia | -0.30 | 2015 est. |
+| 38 | Taiwan | -0.30 | 2015 est. |
+| 39 | Finland | -0.20 | 2015 est. |
+| 40 | Liechtenstein | -0.20 | 2013 |
+| 41 | Macedonia | -0.20 | 2015 est. |
+| 42 | Tonga | -0.10 | 2015 est. |
+| 43 | Hungary | -0.10 | 2015 est. |
+| 44 | Ireland | 0.00 | 2015 est. |
+| 45 | Senegal | 0.10 | 2015 est. |
+| 46 | Germany | 0.10 | 2015 est. |
+| 47 | Oman | 0.10 | 2015 est. |
+| 48 | Panama | 0.10 | 2015 est. |
+| 49 | United States | 0.10 | 2015 est. |
+| 50 | United Kingdom | 0.10 | 2015 est. |
+| 51 | Luxembourg | 0.10 | 2015 est. |
+| 52 | Cabo Verde | 0.10 | 2015 est. |
+| 53 | Italy | 0.10 | 2015 est. |
+| 54 | Gabon | 0.10 | 2015 est. |
+| 55 | San Marino | 0.10 | 2015 est. |
+| 56 | European Union | 0.10 | 2015 est. |
+| 57 | Estonia | 0.10 | 2015 est. |
+| 58 | France | 0.10 | 2015 est. |
+| 59 | Netherlands | 0.20 | 2015 est. |
+| 60 | Latvia | 0.20 | 2015 est. |
+| 61 | Czechia | 0.30 | 2015 est. |
+| 62 | Benin | 0.30 | 2015 est. |
+| 63 | New Zealand | 0.30 | 2015 est. |
+| 64 | Aruba | 0.50 | 2015 est. |
+| 65 | Mauritania | 0.50 | 2015 est. |
+| 66 | Portugal | 0.50 | 2015 est. |
+| 67 | Denmark | 0.50 | 2015 est. |
+| 68 | Vietnam | 0.60 | 2015 est. |
+| 69 | New Caledonia | 0.60 | 2015 est. |
+| 70 | Kiribati | 0.60 | 2015 est. |
+| 71 | Timor-Leste | 0.60 | 2015 est. |
+| 72 | Belgium | 0.60 | 2015 est. |
+| 73 | Korea, South | 0.70 | 2015 est. |
+| 74 | Sweden | 0.70 | 2015 est. |
+| 75 | Japan | 0.80 | 2015 est. |
+| 76 | Dominican Republic | 0.80 | 2015 est. |
+| 77 | Costa Rica | 0.80 | 2015 est. |
+| 78 | Austria | 0.80 | 2015 est. |
+| 79 | British Virgin Islands | 0.90 | 2015 est. |
+| 80 | Burkina Faso | 0.90 | 2015 est. |
+| 81 | Samoa | 0.90 | 2015 est. |
+| 82 | Sri Lanka | 0.90 | 2015 est. |
+| 83 | Solomon Islands | 0.90 | 2015 est. |
+| 84 | Antigua and Barbuda | 1.00 | 2015 est. |
+| 85 | Niger | 1.00 | 2015 est. |
+| 86 | Turks and Caicos Islands | 1.00 | 2015 est. |
+| 87 | Congo, Democratic Republic of the | 1.00 | 2015 est. |
+| 88 | French Polynesia | 1.10 | 2013 est. |
+| 89 | Andorra | 1.10 | 2012 est. |
+| 90 | Canada | 1.10 | 2015 est. |
+| 91 | Falkland Islands (Islas Malvinas) | 1.20 | 2003 |
+| 92 | Cote d'Ivoire | 1.20 | 2015 est. |
+| 93 | Malta | 1.20 | 2015 est. |
+| 94 | Cambodia | 1.20 | 2015 est. |
+| 95 | West Bank | 1.20 | 2014 est. |
+| 96 | Mauritius | 1.30 | 2015 est. |
+| 97 | Maldives | 1.40 | 2015 est. |
+| 98 | Mali | 1.40 | 2015 est. |
+| 99 | Iraq | 1.40 | 2015 est. |
+| 100 | Gaza Strip | 1.40 | 2015 est. |
+| 101 | Fiji | 1.40 | 2015 est. |
+| 102 | Bermuda | 1.40 | 2015 est. |
+| 103 | Philippines | 1.40 | 2015 est. |
+| 104 | Serbia | 1.40 | 2015 est. |
+| 105 | China | 1.40 | 2015 est. |
+| 106 | Morocco | 1.50 | 2015 est. |
+| 107 | Guinea-Bissau | 1.50 | 2015 est. |
+| 108 | Australia | 1.50 | 2015 est. |
+| 109 | Monaco | 1.50 | 2010 |
+| 110 | Iceland | 1.60 | 2015 est. |
+| 111 | Montenegro | 1.60 | 2015 est. |
+| 112 | Equatorial Guinea | 1.70 | 2015 est. |
+| 113 | Bahrain | 1.80 | 2015 est. |
+| 114 | Qatar | 1.80 | 2015 est. |
+| 115 | Greenland | 1.80 | 2012 est. |
+| 116 | Guam | 1.80 | 2014 est. |
+| 117 | Togo | 1.80 | 2015 est. |
+| 118 | Albania | 1.90 | 2015 est. |
+| 119 | Bahamas, The | 1.90 | 2015 est. |
+| 120 | Comoros | 2.00 | 2015 est. |
+| 121 | Congo, Republic of the | 2.00 | 2015 est. |
+| 122 | American Samoa | 2.10 | 2013 |
+| 123 | Malaysia | 2.10 | 2015 est. |
+| 124 | Djibouti | 2.10 | 2015 est. |
+| 125 | Palau | 2.20 | 2015 est. |
+| 126 | Saudi Arabia | 2.20 | 2015 est. |
+| 127 | Norway | 2.20 | 2015 est. |
+| 128 | Cook Islands | 2.20 | 2011 est. |
+| 129 | Faroe Islands | 2.30 | 2011 |
+| 130 | Guatemala | 2.40 | 2015 est. |
+| 131 | Mozambique | 2.40 | 2015 est. |
+| 132 | Vanuatu | 2.50 | 2015 est. |
+| 133 | Rwanda | 2.50 | 2015 est. |
+| 134 | Gibraltar | 2.50 | 2013 est. |
+| 135 | Curacao | 2.60 | 2013 est. |
+| 136 | Mexico | 2.70 | 2015 est. |
+| 137 | Wallis and Futuna | 2.80 | 2005 |
+| 138 | Cameroon | 2.80 | 2015 est. |
+| 139 | Hong Kong | 3.00 | 2015 est. |
+| 140 | Botswana | 3.00 | 2015 est. |
+| 141 | Virgin Islands | 3.10 | 2012 |
+| 142 | Paraguay | 3.10 | 2015 est. |
+| 143 | Tuvalu | 3.20 | 2015 est. |
+| 144 | Kuwait | 3.20 | 2015 est. |
+| 145 | Honduras | 3.20 | 2015 est. |
+| 146 | Namibia | 3.40 | 2015 est. |
+| 147 | Guernsey | 3.40 | June 2006 est. |
+| 148 | Peru | 3.50 | 2015 est. |
+| 149 | Jersey | 3.70 | 2006 |
+| 150 | Armenia | 3.70 | 2015 est. |
+| 151 | Chad | 3.70 | 2015 est. |
+| 152 | Jamaica | 3.70 | 2015 est. |
+| 153 | Niue | 4.00 | 2005 |
+| 154 | Georgia | 4.00 | 2015 est. |
+| 155 | Ecuador | 4.00 | 2015 est. |
+| 156 | Azerbaijan | 4.00 | 2015 est. |
+| 157 | Sint Maarten | 4.00 | 2012 est. |
+| 158 | Saint Helena, Ascension, and Tristan da Cunha | 4.00 | 2012 est. |
+| 159 | Seychelles | 4.00 | 2015 est. |
+| 160 | Nicaragua | 4.00 | 2015 est. |
+| 161 | United Arab Emirates | 4.10 | 2015 est. |
+| 162 | Bolivia | 4.10 | 2015 est. |
+| 163 | Chile | 4.30 | 2015 est. |
+| 164 | Central African Republic | 4.50 | 2015 est. |
+| 165 | Pakistan | 4.50 | 2015 est. |
+| 166 | Saint Pierre and Miquelon | 4.50 | 2010 |
+| 167 | Macau | 4.60 | 2015 est. |
+| 168 | South Africa | 4.60 | 2015 est. |
+| 169 | Cuba | 4.60 | 2015 est. |
+| 170 | Trinidad and Tobago | 4.70 | 2015 est. |
+| 171 | Algeria | 4.80 | 2015 est. |
+| 172 | India | 4.90 | 2015 est. |
+| 173 | Tunisia | 4.90 | 2015 est. |
+| 174 | Isle of Man | 5.00 | 2010 est. |
+| 175 | Colombia | 5.00 | 2015 est. |
+| 176 | Swaziland | 5.00 | 2015 est. |
+| 177 | Laos | 5.30 | 2015 est. |
+| 178 | Lesotho | 5.30 | 2015 est. |
+| 179 | Sao Tome and Principe | 5.30 | 2015 est. |
+| 180 | Uganda | 5.50 | 2015 est. |
+| 181 | Burundi | 5.60 | 2015 est. |
+| 182 | Tanzania | 5.60 | 2015 est. |
+| 183 | Tajikistan | 5.80 | 2015 est. |
+| 184 | Mongolia | 5.90 | 2015 est. |
+| 185 | Papua New Guinea | 6.00 | 2015 est. |
+| 186 | Bhutan | 6.30 | 2015 est. |
+| 187 | Turkmenistan | 6.40 | 2015 est. |
+| 188 | Indonesia | 6.40 | 2015 est. |
+| 189 | Bangladesh | 6.40 | 2015 est. |
+| 190 | Kyrgyzstan | 6.50 | 2015 est. |
+| 191 | Kazakhstan | 6.50 | 2015 est. |
+| 192 | Kenya | 6.60 | 2015 est. |
+| 193 | Gambia, The | 6.80 | 2015 est. |
+| 194 | Suriname | 6.90 | 2015 est. |
+| 195 | Nepal | 7.20 | 2015 est. |
+| 196 | Madagascar | 7.40 | 2015 est. |
+| 197 | Haiti | 7.50 | 2015 est. |
+| 198 | Turkey | 7.70 | 2015 est. |
+| 199 | Liberia | 7.70 | 2015 est. |
+| 200 | Nauru | 8.00 | 2015 est. |
+| 201 | Guinea | 8.20 | 2015 est. |
+| 202 | Uzbekistan | 8.50 | 2015 est. |
+| 203 | Uruguay | 8.70 | 2015 est. |
+| 204 | Sierra Leone | 9.00 | 2015 est. |
+| 205 | Nigeria | 9.00 | 2015 est. |
+| 206 | Eritrea | 9.00 | 2015 est. |
+| 207 | Brazil | 9.00 | 2015 est. |
+| 208 | Moldova | 9.60 | 2015 est. |
+| 209 | Zambia | 10.10 | 2015 est. |
+| 210 | Ethiopia | 10.10 | 2015 est. |
+| 211 | Angola | 10.30 | 2015 est. |
+| 212 | Egypt | 11.00 | 2015 est. |
+| 213 | Burma | 11.40 | 2015 est. |
+| 214 | Iran | 11.90 | 2015 est. |
+| 215 | Belarus | 13.50 | 2015 est. |
+| 216 | Libya | 14.10 | 2015 est. |
+| 217 | Russia | 15.50 | 2015 est. |
+| 218 | Sudan | 16.90 | 2015 est. |
+| 219 | Ghana | 17.20 | 2015 est. |
+| 220 | Malawi | 21.90 | 2015 est. |
+| 221 | Argentina | 26.50 | 2015 est. |
+| 222 | Syria | 38.10 | 2015 est. |
+| 223 | Yemen | 39.40 | 2015 est. |
+| 224 | Ukraine | 48.70 | 2015 est. |
+| 225 | South Sudan | 52.80 | 2015 est. |
+  226    Venezuela                                               
+
+

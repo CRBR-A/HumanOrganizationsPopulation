@@ -1,0 +1,27 @@
+Telephone Code: 291
+Local Emergency Phone: Local numbers only
+Climate: Hot, dry desert strip along Red Sea coast; cooler and wetter in the central highlands (up to 61 cm of rainfall annually, heaviest June to September); semiarid in western hills and lowlands
+Currency (Code): Nakfa (ERN)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, L
+Major Languages: Trigrinya, Arabic, English, Tigre, Kunama, Afar, other Cushitic languages
+Major Religions: Sunni Muslim, Coptic Christian, Roman Catholic, Protestant
+Time Difference: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Asmara (includes St. Mariam Cathedral, Our Lady of the Rosary Church, Kulafah Al Rashidin Mosque); Dahlak Marine National Park
+Major Sports: Soccer, cycling, volleyball
+Cultural Practices: Unlike in western countries where raised eyebrows indicate puzzlement, in Eretria they signal affirmation or approval.
+Tipping Guidelines: Tipping up to 10% of the bill in restaurants is appreciated, but not always expected; this amount may sometimes be included as a service charge. Tipping taxi drivers is uncommon.
+Souvenirs: Tigrinya netsela cotton shawls/scarves, gold and silver jewelry, religious artifacts, pottery, baskets
+Traditional Cuisine: Zigini --- a spicy meat stew made with Berbere spices and eaten with a type of flatbread called injera
+
+---
+country: Eritrea
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Eritrea/travel-facts>
+license: public domain (U.S.)
+...

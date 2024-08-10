@@ -1,0 +1,27 @@
+Telephone Code: 58
+Local Emergency Phone: 171
+Climate: Tropical; hot, humid; more moderate in highlands
+Currency (Code): Bolivars (VEB)
+Electricity: 120 V
+Voltage: 60 Hz
+Plug types(s): A, B
+Major Languages: Spanish, numerous indigenous dialects
+Major Religions: Nominally Roman Catholic 96%, Protestant 2%, other 2%
+Time Difference: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested; additionally, if you plan to drive in Venezuela, you will need an Inter-American Driving Permit issued by the AAA
+Road Driving Side: Right
+Tourist Destinations: Los Roques Archipelago; Isla de Margarita; Morrocoy National Park; Canaima National Park (includes Angel Falls, Mount Roraima, Gran Sabana)
+Major Sports: Baseball, basketball, soccer
+Cultural Practices: Offering coffee is a sign of hospitality in Venezuela, so declining a cup from a host may be seen as rude.
+Tipping Guidelines: Most restaurants already add a 10% service charge, but an additional 5-10% tip is still expected. Bellhops expect the equivalent of $1 (USD) per piece of luggage. Taxis do not expect a tip, but do appreciate rounding up the bill.
+Souvenirs: Handwoven baskets, blankets, and hammocks; papier mâché devil masks; musical instruments; jewelry; liquor
+Traditional Cuisine: Pabellón criollo --- black beans, white rice, and slices of steak cooked with tomatoes; often served with fried plantains and arepas (cornbread) and white cheese
+
+---
+country: +58 (212) 975--6411; US Embassy in Caracas; F St. and Suapure St., Urb . Colinas de Valle Arriba, Caracas, Venezuela 1080; ACSBogota@state.gov; https://ve.usembassy.gov/ |
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/+58 (212) 975--6411; US Embassy in Caracas; F St. and Suapure St., Urb . Colinas de Valle Arriba, Caracas, Venezuela 1080; ACSBogota@state.gov; https://ve.usembassy.gov/ |/travel-facts>
+license: public domain (U.S.)
+...

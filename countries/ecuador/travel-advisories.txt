@@ -1,0 +1,14 @@
+| Precautions | Exercise increased caution in Ecuador due to civil unrest, crime, and kidnapping. Some areas have increased risk. |
+| | Consult the link below for updates to travel advisories and statements on safety, security, local laws, and special circumstances in this country. |
+| | <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html> |
+| Passport/Visa Requirements | US citizens should make sure their passport will not expire for at least 6 months after they enter the country even if they do not intend to stay that long. They should also make sure they have at least 1 blank page in their passport for any entry stamp that will be required. A visa is not required as long as you do not stay in the country more than 89 days in a 12-month period. |
+| Vaccinations | An International Certificate of Vaccination for yellow fever is required for travelers arriving from countries with a risk of yellow fever transmission and for travelers having transited through the airport of a country with risk of yellow fever transmission. See WHO recommendations.  <http://www.who.int/> |
+| US Embassy/Consulate | [593] (2) 398-5000; US Embassy Quito, E12-170 Avigiras Ave. and Eloy Alfaro Ave., Quito, Ecuador; https://ec.usembassy.gov/; ACSQuito@state.gov |
+
+---
+country: Ecuador
+date: June 23, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Ecuador/travel-facts>
+license: public domain (U.S.)
+...

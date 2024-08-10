@@ -1,0 +1,237 @@
+CIA - The World Factbook --  Internet hosts   
+
+This entry lists the number of Internet hosts available within a country. An Internet host is a computer connected directly to the Internet; normally an Internet Service Provider's (ISP) computer is a host. Internet users may use either a hard-wired terminal, at an institution with a mainframe computer connected directly to the Internet, or may connect remotely by way of a modem via telephone line, cable, or satellite to the Internet Service Provider's host computer. The number of hosts is one indicator of the extent of Internet connectivity.
+
+| Rank | country | Internet hosts | Date of Information |
+| --- | --- | --- | --- |
+| 1 | United States | 439,000,000 | NA |
+| 2 | Japan | 54,846,000 | 2010 |
+| 3 | Italy | 23,160,000 | 2010 |
+| 4 | Germany | 21,729,000 | 2010 |
+| 5 | Brazil | 19,316,000 | 2010 |
+| 6 | China | 15,251,000 | 2010 |
+| 7 | France | 15,182,001 | 2010 |
+| 8 | Australia | 13,361,000 | 2010 |
+| 9 | Mexico | 12,854,000 | 2010 |
+| 10 | Netherlands | 12,607,000 | 2010 |
+| 11 | Poland | 10,510,000 | 2010 |
+| 12 | Russia | 10,382,000 | 2010 |
+| 13 | Canada | 7,770,000 | 2010 |
+| 14 | United Kingdom | 7,030,000 | 2010 |
+| 15 | Taiwan | 6,336,000 | 2010 |
+| 16 | Argentina | 6,025,000 | 2010 |
+| 17 | Switzerland | 4,816,000 | 2010 |
+| 18 | India | 4,536,000 | 2010 |
+| 19 | Belgium | 4,465,000 | 2010 |
+| 20 | Sweden | 4,396,000 | 2010 |
+| 21 | Finland | 4,394,000 | 2010 |
+| 22 | Denmark | 4,145,000 | 2010 |
+| 23 | Spain | 3,822,000 | 2010 |
+| 24 | South Africa | 3,751,000 | 2010 |
+| 25 | Czech Republic | 3,494,000 | 2010 |
+| 26 | Turkey | 3,433,000 | 2010 |
+| 27 | Norway | 3,352,000 | 2010 |
+| 28 | Portugal | 3,267,000 | 2010 |
+| 29 | Austria | 3,266,000 | 2010 |
+| 30 | Hungary | 2,655,000 | 2010 |
+| 31 | Greece | 2,574,000 | 2010 |
+| 32 | Colombia | 2,527,000 | 2010 |
+| 33 | New Zealand | 2,470,000 | 2010 |
+| 34 | Romania | 2,464,000 | 2010 |
+| 35 | Israel | 1,689,000 | 2010 |
+| 36 | Ireland | 1,339,000 | 2010 |
+| 37 | Thailand | 1,335,000 | 2010 |
+| 38 | Croatia | 1,287,000 | 2010 |
+| 39 | Indonesia | 1,269,000 | 2010 |
+| 40 | Lithuania | 1,170,000 | 2010 |
+| 41 | Slovakia | 1,133,000 | 2010 |
+| 42 | Ukraine | 1,098,000 | 2010 |
+| 43 | Chile | 1,056,000 | 2010 |
+| 44 | Singapore | 992,786 | 2010 |
+| 45 | Hong Kong | 817,701 | 2010 |
+| 46 | Bulgaria | 785,546 | 2010 |
+| 47 | Uruguay | 765,525 | 2010 |
+| 48 | Estonia | 729,534 | 2010 |
+| 49 | Serbia | 528,253 | 2010 |
+| 50 | Moldova | 492,181 | 2010 |
+| 51 | Saudi Arabia | 488,598 | 2010 |
+| 52 | Niue | 397,270 | 2010 |
+| 53 | Philippines | 394,990 | 2010 |
+| 54 | United Arab Emirates | 379,309 | 2010 |
+| 55 | Iceland | 344,748 | 2010 |
+| 56 | Malaysia | 344,452 | 2010 |
+| 57 | Pakistan | 330,466 | 2010 |
+| 58 | Korea, South | 291,329 | 2010 |
+| 59 | Latvia | 289,478 | 2010 |
+| 60 | Dominican Republic | 283,298 | 2010 |
+| 61 | Morocco | 277,793 | 2010 |
+| 62 | Peru | 268,225 | 2010 |
+| 63 | Luxembourg | 244,225 | 2010 |
+| 64 | Venezuela | 238,665 | 2010 |
+| 65 | Guatemala | 196,870 | 2010 |
+| 66 | Cyprus | 187,881 | 2010 |
+| 67 | Egypt | 187,197 | 2010 |
+| 68 | Trinidad and Tobago | 168,876 | 2010 |
+| 69 | Paraguay | 167,281 | 2010 |
+| 70 | Nicaragua | 157,162 | 2010 |
+| 71 | Belarus | 147,311 | 2010 |
+| 72 | Slovenia | 137,494 | 2010 |
+| 73 | Vietnam | 129,318 | 2010 |
+| 74 | Bolivia | 125,462 | 2010 |
+| 75 | Iran | 119,947 | 2010 |
+| 76 | Georgia | 110,680 | 2010 |
+| 77 | Tuvalu | 109,478 | 2010 |
+| 78 | Kyrgyzstan | 97,976 | 2010 |
+| 79 | Bosnia and Herzegovina | 95,234 | 2010 |
+| 80 | Namibia | 76,020 | 2010 |
+| 81 | Bangladesh | 68,224 | 2010 |
+| 82 | Ecuador | 67,975 | 2010 |
+| 83 | Armenia | 65,279 | 2010 |
+| 84 | Macedonia | 60,533 | 2010 |
+| 85 | Kazakhstan | 53,984 | 2010 |
+| 86 | Bahrain | 53,944 | 2010 |
+| 87 | Lebanon | 51,451 | 2010 |
+| 88 | Brunei | 50,997 | 2010 |
+| 89 | Uzbekistan | 47,718 | 2010 |
+| 90 | Kenya | 47,676 | 2010 |
+| 91 | Nepal | 43,928 | 2010 |
+| 92 | Jordan | 42,412 | 2010 |
+| 93 | Ghana | 41,082 | 2010 |
+| 94 | Mauritius | 36,653 | 2010 |
+| 95 | French Polynesia | 36,056 | 2010 |
+| 96 | Cocos (Keeling) Islands | 35,312 | 2010 |
+| 97 | Costa Rica | 34,024 | 2010 |
+| 98 | Zimbabwe | 29,866 | 2010 |
+| 99 | Madagascar | 27,606 | 2010 |
+| 100 | Andorra | 26,773 | 2010 |
+| 101 | Aruba | 25,080 | 2010 |
+| 102 | Malta | 24,941 | 2010 |
+| 103 | Tanzania | 24,182 | 2010 |
+| 104 | Monaco | 23,621 | 2010 |
+| 105 | Azerbaijan | 22,737 | 2010 |
+| 106 | New Caledonia | 22,456 | 2010 |
+| 107 | Bahamas, The | 21,939 | 2010 |
+| 108 | Cayman Islands | 21,910 | 2010 |
+| 109 | Mozambique | 21,172 | 2010 |
+| 110 | Tonga | 20,847 | 2010 |
+| 111 | Uganda | 19,927 | 2010 |
+| 112 | Bermuda | 19,855 | 2010 |
+| 113 | Fiji | 17,088 | 2010 |
+| 114 | Samoa | 17,044 | 2010 |
+| 115 | Honduras | 16,075 | 2010 |
+| 116 | Greenland | 15,668 | 2010 |
+| 117 | Albania | 15,098 | 2010 |
+| 118 | Zambia | 14,771 | 2010 |
+| 119 | El Salvador | 13,849 | 2010 |
+| 120 | Libya | 12,432 | 2010 |
+| 121 | Cote d'Ivoire | 9,865 | 2010 |
+| 122 | Antigua and Barbuda | 9,795 | 2010 |
+| 123 | Panama | 9,585 | 2010 |
+| 124 | Liechtenstein | 9,418 | 2010 |
+| 125 | Bhutan | 9,147 | 2010 |
+| 126 | Oman | 9,114 | 2010 |
+| 127 | Turks and Caicos Islands | 8,969 | 2010 |
+| 128 | Faroe Islands | 8,936 | 2010 |
+| 129 | Virgin Islands | 8,933 | 2010 |
+| 130 | San Marino | 8,895 | 2010 |
+| 131 | Sri Lanka | 8,865 | 2010 |
+| 132 | Guyana | 8,840 | 2010 |
+| 133 | Syria | 8,114 | 2010 |
+| 134 | Mongolia | 7,942 | 2010 |
+| 135 | Antarctica | 7,765 | 2010 |
+| 136 | Saint Helena, Ascension, and Tristan da Cunha | 6,873 | 2010 |
+| 137 | Montenegro | 6,247 | 2010 |
+| 138 | Cambodia | 5,452 | 2010 |
+| 139 | Papua New Guinea | 4,285 | 2010 |
+| 140 | Nauru | 4,158 | 2010 |
+| 141 | Solomon Islands | 4,065 | 2010 |
+| 142 | Angola | 3,717 | 2010 |
+| 143 | Jamaica | 3,099 | 2010 |
+| 144 | Micronesia, Federated States of | 3,097 | 2010 |
+| 145 | Cuba | 3,025 | 2010 |
+| 146 | Congo, Democratic Republic of the | 3,006 | 2010 |
+| 147 | Belize | 2,880 | 2010 |
+| 148 | Botswana | 2,739 | 2010 |
+| 149 | Christmas Island | 2,542 | 2010 |
+| 150 | Cook Islands | 2,521 | 2010 |
+| 151 | Kuwait | 2,485 | 2010 |
+| 152 | Swaziland | 2,335 | 2010 |
+| 153 | Maldives | 2,164 | 2010 |
+| 154 | Gibraltar | 2,053 | 2010 |
+| 155 | Burkina Faso | 1,877 | 2010 |
+| 156 | Wallis and Futuna | 1,734 | 2010 |
+| 157 | American Samoa | 1,676 | 2010 |
+| 158 | Sao Tome and Principe | 1,514 | 2010 |
+| 159 | Barbados | 1,508 | 2010 |
+| 160 | Tajikistan | 1,504 | 2010 |
+| 161 | Laos | 1,468 | 2010 |
+| 162 | Gambia, The | 1,453 | 2010 |
+| 163 | Nigeria | 1,378 | 2010 |
+| 164 | Vanuatu | 1,347 | 2010 |
+| 165 | Benin | 1,286 | 2010 |
+| 166 | Eritrea | 1,241 | 2010 |
+| 167 | Malawi | 870 | 2010 |
+| 168 | Togo | 860 | 2010 |
+| 169 | British Indian Ocean Territory | 827 | 2010 |
+| 170 | Qatar | 822 | 2010 |
+| 171 | Rwanda | 815 | 2010 |
+| 172 | Turkmenistan | 794 | 2010 |
+| 173 | Isle of Man | 765 | 2010 |
+| 174 | Dominica | 718 | 2010 |
+| 175 | Lesotho | 632 | 2010 |
+| 176 | Algeria | 572 | 2010 |
+| 177 | Montserrat | 552 | 2010 |
+| 178 | Tokelau | 526 | 2010 |
+| 179 | Mali | 524 | 2010 |
+| 180 | British Virgin Islands | 497 | 2010 |
+| 181 | Tunisia | 490 | 2010 |
+| 182 | Puerto Rico | 482 | 2010 |
+| 183 | South Georgia and South Sandwich Islands | 320 | 2010 |
+| 184 | Sierra Leone | 281 | 2010 |
+| 185 | Haiti | 273 | 2010 |
+| 186 | Anguilla | 271 | 2010 |
+| 187 | Seychelles | 256 | 2010 |
+| 188 | Yemen | 255 | 2010 |
+| 189 | Macau | 252 | 2010 |
+| 190 | Senegal | 241 | 2010 |
+| 191 | Jersey | 237 | 2010 |
+| 192 | Saint Vincent and the Grenadines | 211 | 2010 |
+| 193 | Timor-Leste | 206 | 2010 |
+| 194 | Burundi | 201 | 2010 |
+| 195 | Guernsey | 197 | 2010 |
+| 196 | Djibouti | 195 | 2010 |
+| 197 | Burma | 172 | 2010 |
+| 198 | Niger | 172 | 2010 |
+| 199 | Suriname | 171 | 2010 |
+| 200 | Ethiopia | 151 | 2010 |
+| 201 | Saint Lucia | 106 | 2010 |
+| 202 | Norfolk Island | 93 | 2010 |
+| 203 | Falkland Islands (Islas Malvinas) | 91 | 2010 |
+| 204 | Gabon | 90 | 2010 |
+| 205 | Cameroon | 90 | 2010 |
+| 206 | Guinea-Bissau | 82 | 2010 |
+| 207 | Sudan | 70 | 2010 |
+| 208 | Holy See (Vatican City) | 68 | 2010 |
+| 209 | Grenada | 52 | 2010 |
+| 210 | Saint Kitts and Nevis | 51 | 2010 |
+| 211 | Afghanistan | 46 | 2010 |
+| 212 | French Southern and Antarctic Lands | 44 | 2010 |
+| 213 | Congo, Republic of the | 42 | 2010 |
+| 214 | Kiribati | 31 | 2010 |
+| 215 | Cape Verde | 26 | 2010 |
+| 216 | Mauritania | 23 | 2010 |
+| 217 | Central African Republic | 20 | 2010 |
+| 218 | Pitcairn Islands | 20 | 2010 |
+| 219 | Comoros | 14 | 2010 |
+| 220 | Guinea | 14 | 2010 |
+| 221 | Northern Mariana Islands | 9 | 2010 |
+| 222 | Equatorial Guinea | 9 | 2010 |
+| 223 | Iraq | 9 | 2010 |
+| 224 | Liberia | 8 | 2010 |
+| 225 | Bouvet Island | 6 | 2010 |
+| 226 | Chad | 5 | 2010 |
+| 227 | Palau | 3 | 2010 |
+| 228 | Marshall Islands | 3 | 2010 |
+| 229 | Somalia | 3 | 2010 |
+| 230 | Korea, North | 3 | 2010 |
+| 231 | Saint Pierre and Miquelon | 0 | 2010 |

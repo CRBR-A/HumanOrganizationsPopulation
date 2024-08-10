@@ -1,0 +1,14 @@
+| Precautions | Exercise increased caution in Cuba due to crime. |
+| | Consult the link below for updates to travel advisories and statements on safety, security, local laws, and special circumstances in this country. |
+| | <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html> |
+| Passport/Visa Requirements | US citizen travelers should have at least 6 months of validity remaining on their passports after the date of entry even if they do not intend to stay that long. They should also make sure they have at least 2 blank pages in their passport for any entry stamp and or visa that will be required. Tourist travel to Cuba remains prohibited. US travelers must obtain a license from the Department of Treasury, Office of Foreign Asset Control (OFAC) (https: and or and or www.treasury.gov and or about and or ... and or offices and or pages and or office-of-foreign-assets-control.aspx). Anyone physically present in the US, regardless of citizenship and nationality, must comply with these regulations. Individuals seeking to travel to Cuba are not required to obtain licenses from OFAC if their travel is covered by a general license. If travel is not covered by a general license, OFAC authorization in the form of a specific license must be sought. One authorized reason for obtaining a license is "Support of the Cuban People." More information on the licensing process may be found at the OFAC website above. Those contemplating travel to Cuba should also consult the US State Department's consular information page about the country. |
+| Vaccinations | See WHO recommendations  <http://www.who.int/> |
+| US Embassy/Consulate | [53] (7) 839-4100; US Embassy Havana, Calzada between L and M Streets, Vedado, Havana, Cuba; https://cu.usembassy.gov/; acshavana@state.gov |
+
+---
+country: Cuba
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Cuba/travel-facts>
+license: public domain (U.S.)
+...

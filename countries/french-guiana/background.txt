@@ -1,0 +1,8 @@
+First settled by the French in 1604, French Guiana was the site of notorious penal settlements until 1951. The European Space Agency launches its communication satellites from Kourou.  
+
+---
+country: French Guiana
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/French Guiana/>
+license: public domain (U.S.)
+...

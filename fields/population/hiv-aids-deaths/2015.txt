@@ -1,0 +1,127 @@
+CIA - The World Factbook --  HIV/AIDS - DEATHS
+
+HIV/AIDS - deaths compares the number of adults and children who died of AIDS during a given calendar year.
+
+| Rank | Country | HIV/AIDS - DEATHS | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Nigeria | 209,600 | 2013 est. |
+| 2 | South Africa | 195,300 | 2013 est. |
+| 3 | India | 127,200 | 2013 est. |
+| 4 | Mozambique | 82,400 | 2013 est. |
+| 5 | Tanzania | 78,300 | 2013 est. |
+| 6 | Zimbabwe | 63,900 | 2013 est. |
+| 7 | Uganda | 63,000 | 2013 est. |
+| 8 | Kenya | 58,400 | 2013 est. |
+| 9 | Malawi | 47,800 | 2013 est. |
+| 10 | Ethiopia | 45,200 | 2013 est. |
+| 11 | Cameroon | 43,600 | 2013 est. |
+| 12 | Congo, Democratic Republic of the | 30,100 | 2013 est. |
+| 13 | Indonesia | 29,100 | 2013 est. |
+| 14 | Cote d'Ivoire | 27,900 | 2013 est. |
+| 15 | Zambia | 27,000 | 2013 est. |
+| 16 | Thailand | 18,400 | 2013 est. |
+| 17 | Lesotho | 16,100 | 2013 est. |
+| 18 | Brazil | 15,800 | 2013 est. |
+| 19 | Chad | 14,700 | 2013 est. |
+| 20 | Ukraine | 13,400 | 2013 est. |
+| 21 | South Sudan | 12,600 | 2013 est. |
+| 22 | Vietnam | 12,100 | 2013 est. |
+| 23 | Angola | 11,500 | 2013 est. |
+| 24 | Central African Republic | 10,800 | 2013 est. |
+| 25 | Burma | 10,500 | 2013 est. |
+| 26 | Ghana | 10,100 | 2013 est. |
+| 27 | Namibia | 6,600 | 2013 est. |
+| 28 | Togo | 6,600 | 2013 est. |
+| 29 | Colombia | 6,500 | 2012 est. |
+| 30 | Haiti | 6,400 | 2013 est. |
+| 31 | Malaysia | 5,900 | 2013 est. |
+| 32 | Burkina Faso | 5,800 | 2013 est. |
+| 33 | Botswana | 5,800 | 2013 est. |
+| 34 | Mexico | 5,600 | 2013 est. |
+| 35 | Madagascar | 5,500 | 2013 est. |
+| 36 | Mali | 5,500 | 2013 est. |
+| 37 | Guinea | 5,400 | 2013 est. |
+| 38 | Congo, Republic of the | 5,400 | 2013 est. |
+| 39 | Burundi | 4,700 | 2013 est. |
+| 40 | Swaziland | 4,500 | 2013 est. |
+| 41 | Rwanda | 4,500 | 2013 est. |
+| 42 | Venezuela | 4,400 | 2013 est. |
+| 43 | Iran | 4,400 | 2013 est. |
+| 44 | Nepal | 3,300 | 2013 est. |
+| 45 | Sierra Leone | 3,100 | 2013 est. |
+| 46 | Sudan | 3,100 | 2013 est. |
+| 47 | Niger | 2,900 | 2013 est. |
+| 48 | Peru | 2,800 | 2013 est. |
+| 49 | Liberia | 2,700 | 2013 est. |
+| 50 | Benin | 2,700 | 2013 est. |
+| 51 | Uzbekistan | 2,700 | 2013 est. |
+| 52 | Guatemala | 2,600 | 2013 est. |
+| 53 | Somalia | 2,500 | 2013 est. |
+| 54 | Guinea-Bissau | 2,300 | 2013 est. |
+| 55 | Pakistan | 2,200 | 2013 est. |
+| 56 | Cambodia | 2,200 | 2013 est. |
+| 57 | Gabon | 2,100 | 2013 est. |
+| 58 | Senegal | 1,800 | 2013 est. |
+| 59 | Dominican Republic | 1,700 | 2013 est. |
+| 60 | Ecuador | 1,600 | 2013 est. |
+| 61 | Papua New Guinea | 1,500 | 2013 est. |
+| 62 | Honduras | 1,500 | 2013 est. |
+| 63 | France | 1,500 | 2013 est. |
+| 64 | Argentina | 1,500 | 2013 est. |
+| 65 | Algeria | 1,400 | 2013 est. |
+| 66 | Equatorial Guinea | 1,400 | 2012 est. |
+| 67 | Morocco | 1,400 | 2013 est. |
+| 68 | Jamaica | 1,300 | 2013 est. |
+| 69 | Bolivia | 1,200 | 2013 est. |
+| 70 | Belarus | 1,000 | 2013 est. |
+| 71 | Mauritius | 900 | 2013 est. |
+| 72 | Moldova | 900 | 2013 est. |
+| 73 | Tajikistan | 900 | 2013 est. |
+| 74 | Eritrea | 900 | 2013 est. |
+| 75 | Spain | 800 | 2013 est. |
+| 76 | Mauritania | 800 | 2012 est. |
+| 77 | Chile | 700 | 2013 est. |
+| 78 | Trinidad and Tobago | 700 | 2013 est. |
+| 79 | Djibouti | 700 | 2013 est. |
+| 80 | United Kingdom | 600 | 2013 est. |
+| 81 | El Salvador | 600 | 2013 est. |
+| 82 | Bangladesh | 500 | 2013 est. |
+| 83 | Panama | 500 | 2013 est. |
+| 84 | Romania | 500 | 2013 est. |
+| 85 | Azerbaijan | 500 | 2013 est. |
+| 86 | Uruguay | 500 | 2013 est. |
+| 87 | Bahamas, The | 500 | 2013 est. |
+| 88 | Germany | 400 | 2013 est. |
+| 89 | Yemen | 400 | 2013 est. |
+| 90 | Canada | 400 | 2013 est. |
+| 91 | Gambia, The | 400 | 2013 est. |
+| 92 | Egypt | 400 | 2013 est. |
+| 93 | Switzerland | 300 | 2013 est. |
+| 94 | Philippines | 300 | 2012 est. |
+| 95 | Paraguay | 300 | 2013 est. |
+| 96 | Kyrgyzstan | 300 | 2013 est. |
+| 97 | Costa Rica | 300 | 2013 est. |
+| 98 | Afghanistan | 300 | 2013 est. |
+| 99 | Armenia | 200 | 2013 est. |
+| 100 | Sao Tome and Principe | 200 | 2013 est. |
+| 101 | Guyana | 200 | 2013 est. |
+| 102 | Cuba | 200 | 2013 est. |
+| 103 | Maldives | 100 | 2013 est. |
+| 104 | Mongolia | 100 | 2013 est. |
+| 105 | Laos | 100 | 2013 est. |
+| 106 | Hungary | 100 | 2013 est. |
+| 107 | Georgia | 100 | 2013 est. |
+| 108 | Fiji | 100 | 2013 est. |
+| 109 | Czech Republic | 100 | 2013 est. |
+| 110 | Denmark | 100 | 2013 est. |
+| 111 | Cyprus | 100 | 2013 est. |
+| 112 | Sri Lanka | 100 | 2013 est. |
+| 113 | Belize | 100 | 2013 est. |
+| 114 | Australia | 100 | 2013 est. |
+| 115 | Suriname | 100 | 2013 est. |
+| 116 | Nicaragua | 100 | 2013 est. |
+| 117 | Serbia | 100 | 2013 est. |
+| 118 | Macedonia | 100 | 2013 est. |
+| 119 | Tunisia | 100 | 2013 est. |
+
+

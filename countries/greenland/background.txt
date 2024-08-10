@@ -1,0 +1,8 @@
+Greenland, the world's largest island, is about 80% ice-capped. Vikings reached the island in the 10th century from Iceland; Danish colonization began in the 18th century, and Greenland became an integral part of the Danish Realm in 1953. It joined the European Community (now the EU) with Denmark in 1973 but withdrew in 1985 over a dispute centered on stringent fishing quotas. Greenland remains a member of the Overseas Countries and Territories Association of the EU. Greenland was granted self-government in 1979 by the Danish parliament; the law went into effect the following year. Greenland voted in favor of increased self-rule in November 2008 and acquired greater responsibility for internal affairs when the Act on Greenland Self-Government was signed into law in June 2009. Denmark, however, continues to exercise control over several policy areas on behalf of Greenland, including foreign affairs, security, and financial policy in consultation with Greenland's Self-Rule Government.  
+
+---
+country: Greenland
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Greenland/>
+license: public domain (U.S.)
+...

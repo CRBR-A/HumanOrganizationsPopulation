@@ -1,0 +1,151 @@
+CIA - The World Factbook --  Central bank discount rate   
+
+This entry provides the annualized interest rate a country's central bank charges commercial, depository banks for loans to meet temporary shortages of funds.
+
+| Rank | country | (%) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Zimbabwe | 975.00 | 31 December 2007 |
+| 2 | Angola | 30.00 | 31 December 2009 est. |
+| 3 | Venezuela | 29.50 | 31 December 2009 |
+| 4 | Sao Tome and Principe | 28.00 | 31 December 2008 |
+| 5 | Costa Rica | 23.00 | 31 December 2009 est. |
+| 6 | Guinea | 22.25 | 31 December 2005 |
+| 7 | Congo, Democratic Republic of the | 20.00 | 31 December 2011 est. |
+| 8 | Ghana | 17.00 | 31 December 2008 |
+| 9 | Malawi | 15.00 | 31 December 2008 |
+| 10 | Turkey | 15.00 | 22 December 2009 |
+| 11 | Vietnam | 15.00 | 31 December 2011 |
+| 12 | Zambia | 14.49 | 31 December 2008 |
+| 13 | Pakistan | 14.00 | 31 December 2010 est. |
+| 14 | Belarus | 13.50 | 31 December 2009 est. |
+| 15 | Mongolia | 12.25 | 31 December 2011 est. |
+| 16 | Belize | 12.00 | 31 December 2009 est. |
+| 17 | Mauritania | 12.00 | 31 December 2007 |
+| 18 | Burma | 12.00 | 31 December 2009 est. |
+| 19 | Ukraine | 11.97 | 31 December 2010 est. |
+| 20 | Rwanda | 11.25 | 31 December 2008 |
+| 21 | Gambia, The | 11.00 | 31 December 2008 |
+| 22 | Brazil | 11.00 | 31 December 2011 est. |
+| 23 | Burundi | 10.00 | 31 December 2009 est. |
+| 24 | Lesotho | 10.00 | 31 December 2010 est. |
+| 25 | Botswana | 10.00 | 31 December 2009 est. |
+| 26 | Lebanon | 10.00 | 31 December 2009 est. |
+| 27 | Uganda | 9.65 | 31 December 2009 est. |
+| 28 | Serbia | 9.50 | January 2012 |
+| 29 | Uruguay | 8.75 | 31 December 2011 |
+| 30 | Ecuador | 8.68 | 31 December 2010 |
+| 31 | Egypt | 8.50 | 31 December 2009 est. |
+| 32 | Russia | 8.00 | 31 December 2011 |
+| 33 | Kazakhstan | 7.50 | 31 December 2011 est. |
+| 34 | Cabo Verde | 7.50 | 31 December 2009 est. |
+| 35 | Armenia | 7.25 | 2 December 2008 |
+| 36 | Trinidad and Tobago | 7.25 | 31 December 2009 est. |
+| 37 | Sri Lanka | 7.00 | 31 December 2011 est. |
+| 38 | South Africa | 7.00 | 31 December 2009 |
+| 39 | Barbados | 7.00 | 31 December 2009 est. |
+| 40 | Namibia | 7.00 | 31 December 2009 est. |
+| 41 | Hungary | 7.00 | 31 December 2011 |
+| 42 | Croatia | 7.00 | 31 December 2011 est. |
+| 43 | Maldives | 6.96 | 31 December 2011 est. |
+| 44 | Papua New Guinea | 6.92 | 31 December 2009 est. |
+| 45 | Swaziland | 6.50 | 31 December 2009 est. |
+| 46 | Saint Vincent and the Grenadines | 6.50 | 31 December 2009 est. |
+| 47 | Dominica | 6.50 | 31 December 2009 est. |
+| 48 | Saint Lucia | 6.50 | 31 December 2009 est. |
+| 49 | Antigua and Barbuda | 6.50 | 31 December 2009 est. |
+| 50 | Grenada | 6.50 | 31 December 2008 |
+| 51 | Nepal | 6.50 | 31 December 2009 est. |
+| 52 | Anguilla | 6.50 | 31 December 2009 est. |
+| 53 | Montserrat | 6.50 | 31 December 2009 est. |
+| 54 | Georgia | 6.50 | 31 January 2012 |
+| 55 | Saint Kitts and Nevis | 6.50 | 31 December 2008 |
+| 56 | Indonesia | 6.46 | 31 December 2009 |
+| 57 | Paraguay | 6.00 | 31 December 2011 est. |
+| 58 | India | 6.00 | 31 December 2009 est. |
+| 59 | Iraq | 6.00 | December 2011 |
+| 60 | Vanuatu | 6.00 | 31 December 2009 est. |
+| 61 | Nigeria | 6.00 | 31 December 2009 est. |
+| 62 | Iceland | 5.75 | 31 December 2010 est. |
+| 63 | Romania | 5.75 | 31 December 2011 |
+| 64 | Philippines | 5.60 | 31 December 2011 est. |
+| 65 | Azerbaijan | 5.25 | 31 December 2011 est. |
+| 66 | Cambodia | 5.25 | 31 December 2007 |
+| 67 | Albania | 5.25 | 31 December 2009 est. |
+| 68 | Peru | 5.05 | 31 December 2011 |
+| 69 | Syria | 5.00 | 31 December 2011 est. |
+| 70 | New Zealand | 5.00 | 31 December 2008 |
+| 71 | Bangladesh | 5.00 | 31 December 2009 est. |
+| 72 | Colombia | 5.00 | 31 December 2010 |
+| 73 | Tajikistan | 5.00 | 31 December 2010 est. |
+| 74 | Niger | 4.75 | 31 December 2008 |
+| 75 | Central African Republic | 4.75 | 31 December 2008 |
+| 76 | Congo, Republic of the | 4.75 | 31 December 2008 |
+| 77 | Chad | 4.75 | 31 December 2008 |
+| 78 | Jordan | 4.75 | 31 December 2009 est. |
+| 79 | Guinea-Bissau | 4.75 | 31 December 2008 |
+| 80 | Qatar | 4.50 | 31 December 2011 est. |
+| 81 | Mexico | 4.50 | 31 December 2011 est. |
+| 82 | Australia | 4.35 | 31 December 2010 est. |
+| 83 | Mali | 4.25 | 31 December 2009 est. |
+| 84 | Cote d'Ivoire | 4.25 | 31 December 2009 est. |
+| 85 | Benin | 4.25 | 31 December 2009 est. |
+| 86 | Burkina Faso | 4.25 | 31 December 2009 est. |
+| 87 | Equatorial Guinea | 4.25 | 31 December 2009 est. |
+| 88 | Gabon | 4.25 | 31 December 2009 est. |
+| 89 | Guyana | 4.25 | 31 December 2010 est. |
+| 90 | Senegal | 4.25 | 31 December 2009 est. |
+| 91 | Togo | 4.25 | 31 December 2009 est. |
+| 92 | Laos | 4.00 | 31 December 2009 |
+| 93 | Bahamas, The | 4.00 | 31 December 2011 est. |
+| 94 | Algeria | 4.00 | 31 December 2009 est. |
+| 95 | Poland | 4.00 | 31 December 2010 est. |
+| 96 | Macedonia | 4.00 | 31 December 2011 est. |
+| 97 | Tanzania | 3.70 | 31 December 2009 est. |
+| 98 | Latvia | 3.50 | 31 December 2010 est. |
+| 99 | Morocco | 3.31 | 31 December 2009 est. |
+| 100 | Mozambique | 3.25 | 31 December 2010 est. |
+| 101 | Thailand | 3.25 | 31 December 2011 est. |
+| 102 | Aruba | 3.00 | 31 December 2009 est. |
+| 103 | Bolivia | 3.00 | 31 December 2010 est. |
+| 104 | Fiji | 3.00 | 31 December 2009 est. |
+| 105 | Kuwait | 3.00 | 31 December 2009 est. |
+| 106 | Libya | 3.00 | 31 December 2009 est. |
+| 107 | Malaysia | 2.83 | 31 December 2010 |
+| 108 | Kyrgyzstan | 2.50 | 31 December 2010 est. |
+| 109 | China | 2.25 | 31 December 2011 est. |
+| 110 | Comoros | 2.21 | 31 December 2009 est. |
+| 111 | Lithuania | 2.06 | 31 December 2009 est. |
+| 112 | Israel | 2.02 | 31 December 2010 est. |
+| 113 | Taiwan | 1.88 | 31 December 2011 |
+| 114 | Greece | 1.75 | 31 December 2010 |
+| 115 | Germany | 1.75 | 31 December 2010 |
+| 116 | France | 1.75 | 31 December 2010 |
+| 117 | Finland | 1.75 | 31 December 2010 |
+| 118 | Ireland | 1.75 | 31 December 2010 |
+| 119 | European Union | 1.75 | 31 December 2011 |
+| 120 | Cyprus | 1.75 | 31 December 2010 |
+| 121 | Belgium | 1.75 | 31 December 2010 |
+| 122 | Spain | 1.75 | 31 December 2010 |
+| 123 | Slovenia | 1.75 | 31 December 2011 |
+| 124 | Portugal | 1.75 | 31 December 2010 |
+| 125 | Norway | 1.75 | 31 December 2009 est. |
+| 126 | Netherlands | 1.75 | 31 December 2010 |
+| 127 | Malta | 1.75 | 31 December 2010 |
+| 128 | Luxembourg | 1.75 | 31 December 2010 |
+| 129 | Slovakia | 1.75 | 31 December 2010 est. |
+| 130 | Italy | 1.75 | 31 December 2010 |
+| 131 | Korea, South | 1.25 | 31 December 2009 |
+| 132 | Switzerland | 0.75 | 31 December 2009 est. |
+| 133 | Denmark | 0.75 | 31 December 2010 est. |
+| 134 | Czech Republic | 0.75 | 31 December 2010 |
+| 135 | Hong Kong | 0.50 | 31 December 2011 |
+| 136 | United States | 0.50 | 31 December 2009 |
+| 137 | Sweden | 0.50 | 31 December 2009 est. |
+| 138 | United Kingdom | 0.50 | 31 December 2011 est. |
+| 139 | Chile | 0.50 | 31 December 2009 est. |
+| 140 | Japan | 0.30 | 31 December 2009 |
+| 141 | Canada | 0.25 | 31 December 2009 est. |
+| 142 | Bulgaria | 0.22 | 31 December 2011 est. |
+| 143 | Oman | 0.05 | 31 December 2009 est. |
+
+

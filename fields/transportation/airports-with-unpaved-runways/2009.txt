@@ -1,0 +1,738 @@
+CIA - The World Factbook --  Airports - with unpaved runways   
+
+This entry gives the total number of airports with unpaved runways (grass, dirt, sand, or gravel surfaces) by length. For airports with more than one runway, only the longest runway is included according to the following five groups - (1) over 3,047 m (over 10,000 ft), (2) 2,438 to 3,047 m (8,000 to 10,000 ft), (3) 1,524 to 2,437 m (5,000 to 8,000 ft), (4) 914 to 1,523 m (3,000 to 5,000 ft), and (5) under 914 m (under 3,000 ft). Only airports with usable runways are included in this listing. Not all airports have facilities for refueling, maintenance, or air traffic control. The type aircraft capable of operating from a runway of a given length is dependent upon a number of factors including elevation of the runway, runway gradient, average maximum daily temperature at the airport, engine types, flap settings, and take-off weight of the aircraft.
+
+| Rank | country | Airports - with unpaved runways | Date of Information |
+| --- | --- | --- | --- |
+| 1 | United States | 9,921.00 | 2009 |
+| 2 | United States | 8,000.00 | 2009 |
+| 3 | Brazil | 3,279.00 | 2009 |
+| 4 | United States | 1,757.00 | 2009 |
+| 5 | Brazil | 1,645.00 | 2009 |
+| 6 | Brazil | 1,547.00 | 2009 |
+| 7 | Mexico | 1,498.00 | 2009 |
+| 8 | European Union | 1,396.00 | 2009 |
+| 9 | European Union | 1,110.00 | 2009 |
+| 10 | Mexico | 1,005.00 | 2009 |
+| 11 | Argentina | 974.00 | 2009 |
+| 12 | Bolivia | 936.00 | 2009 |
+| 13 | Colombia | 876.00 | 2009 |
+| 14 | Canada | 873.00 | 2009 |
+| 15 | Paraguay | 784.00 | 2009 |
+| 16 | Bolivia | 687.00 | 2009 |
+| 17 | Russia | 621.00 | 2009 |
+| 18 | Colombia | 612.00 | 2009 |
+| 19 | Papua New Guinea | 539.00 | 2009 |
+| 20 | Argentina | 522.00 | 2009 |
+| 21 | Indonesia | 519.00 | 2009 |
+| 22 | Indonesia | 489.00 | 2009 |
+| 23 | Paraguay | 470.00 | 2009 |
+| 24 | Papua New Guinea | 467.00 | 2009 |
+| 25 | South Africa | 459.00 | 2009 |
+| 26 | Russia | 453.00 | 2009 |
+| 27 | Canada | 427.00 | 2009 |
+| 28 | Mexico | 426.00 | 2009 |
+| 29 | Argentina | 406.00 | 2009 |
+| 30 | Canada | 373.00 | 2009 |
+| 31 | Guatemala | 358.00 | 2009 |
+| 32 | Ecuador | 317.00 | 2009 |
+| 33 | South Africa | 298.00 | 2009 |
+| 34 | Paraguay | 289.00 | 2009 |
+| 35 | Ecuador | 279.00 | 2009 |
+| 36 | Chile | 276.00 | 2009 |
+| 37 | Venezuela | 275.00 | 2009 |
+| 38 | Guatemala | 270.00 | 2009 |
+| 39 | European Union | 257.00 | 2009 |
+| 40 | Ukraine | 236.00 | 2009 |
+| 41 | Colombia | 228.00 | 2009 |
+| 42 | Germany | 220.00 | 2009 |
+| 43 | Ukraine | 214.00 | 2009 |
+| 44 | Chile | 212.00 | 2009 |
+| 45 | United Kingdom | 199.00 | 2009 |
+| 46 | Zimbabwe | 196.00 | 2009 |
+| 47 | Bolivia | 186.00 | 2009 |
+| 48 | Germany | 184.00 | 2009 |
+| 49 | Iran | 183.00 | 2009 |
+| 50 | France | 178.00 | 2009 |
+| 51 | United Kingdom | 173.00 | 2009 |
+| 52 | Philippines | 169.00 | 2009 |
+| 53 | Congo, Democratic Republic of the | 168.00 | 2009 |
+| 54 | Kenya | 165.00 | 2009 |
+| 55 | Angola | 162.00 | 2009 |
+| 56 | United States | 158.00 | 2009 |
+| 57 | Venezuela | 155.00 | 2009 |
+| 58 | Peru | 144.00 | 2009 |
+| 59 | Australia | 139.00 | 2009 |
+| 60 | Iran | 139.00 | 2009 |
+| 61 | Saudi Arabia | 137.00 | 2009 |
+| 62 | Nicaragua | 132.00 | 2009 |
+| 63 | South Africa | 125.00 | 2009 |
+| 64 | Zimbabwe | 119.00 | 2009 |
+| 65 | Oman | 118.00 | 2009 |
+| 66 | Tanzania | 116.00 | 2009 |
+| 67 | Nicaragua | 115.00 | 2009 |
+| 68 | Costa Rica | 113.00 | 2009 |
+| 69 | Australia | 110.00 | 2009 |
+| 70 | Namibia | 108.00 | 2009 |
+| 71 | France | 107.00 | 2009 |
+| 72 | Kenya | 105.00 | 2009 |
+| 73 | Venezuela | 103.00 | 2009 |
+| 74 | Sudan | 102.00 | 2009 |
+| 75 | India | 99.00 | 2009 |
+| 76 | Philippines | 99.00 | 2009 |
+| 77 | Sweden | 97.00 | 2009 |
+| 78 | Costa Rica | 94.00 | 2009 |
+| 79 | Honduras | 94.00 | 2009 |
+| 80 | Iceland | 93.00 | 2009 |
+| 81 | Sweden | 92.00 | 2009 |
+| 82 | Congo, Democratic Republic of the | 90.00 | 2009 |
+| 83 | Guyana | 89.00 | 2009 |
+| 84 | Zambia | 88.00 | 2009 |
+| 85 | Brazil | 87.00 | 2009 |
+| 86 | Algeria | 86.00 | 2009 |
+| 87 | Guatemala | 84.00 | 2009 |
+| 88 | Russia | 84.00 | 2009 |
+| 89 | Mozambique | 82.00 | 2009 |
+| 90 | Bulgaria | 80.00 | 2009 |
+| 91 | Malaysia | 80.00 | 2009 |
+| 92 | New Zealand | 79.00 | 2009 |
+| 93 | Peru | 79.00 | 2009 |
+| 94 | Angola | 78.00 | 2009 |
+| 95 | Libya | 78.00 | 2009 |
+| 96 | Czech Republic | 78.00 | 2009 |
+| 97 | Honduras | 77.00 | 2009 |
+| 98 | Syria | 75.00 | 2009 |
+| 99 | Guyana | 74.00 | 2009 |
+| 100 | Zimbabwe | 74.00 | 2009 |
+| 101 | Bulgaria | 73.00 | 2009 |
+| 102 | Namibia | 73.00 | 2009 |
+| 103 | Malaysia | 73.00 | 2009 |
+| 104 | Finland | 73.00 | 2009 |
+| 105 | Canada | 73.00 | 2009 |
+| 106 | Saudi Arabia | 72.00 | 2009 |
+| 107 | Cuba | 71.00 | 2009 |
+| 108 | Finland | 70.00 | 2009 |
+| 109 | France | 70.00 | 2009 |
+| 110 | Botswana | 68.00 | 2009 |
+| 111 | Russia | 68.00 | 2009 |
+| 112 | Philippines | 66.00 | 2009 |
+| 113 | Mexico | 65.00 | 2009 |
+| 114 | Zambia | 65.00 | 2009 |
+| 115 | Denmark | 64.00 | 2009 |
+| 116 | Iceland | 63.00 | 2009 |
+| 117 | Panama | 63.00 | 2009 |
+| 118 | Papua New Guinea | 63.00 | 2009 |
+| 119 | Tanzania | 63.00 | 2009 |
+| 120 | Madagascar | 62.00 | 2009 |
+| 121 | Denmark | 61.00 | 2009 |
+| 122 | El Salvador | 61.00 | 2009 |
+| 123 | Congo, Democratic Republic of the | 59.00 | 2009 |
+| 124 | Syria | 59.00 | 2009 |
+| 125 | Bolivia | 58.00 | 2009 |
+| 126 | Cuba | 58.00 | 2009 |
+| 127 | Spain | 58.00 | 2009 |
+| 128 | China | 57.00 | 2009 |
+| 129 | Sudan | 56.00 | 2009 |
+| 130 | Lithuania | 55.00 | 2009 |
+| 131 | Botswana | 54.00 | 2009 |
+| 132 | Oman | 52.00 | 2009 |
+| 133 | Somalia | 52.00 | 2009 |
+| 134 | Lithuania | 51.00 | 2009 |
+| 135 | Panama | 51.00 | 2009 |
+| 136 | Chile | 50.00 | 2009 |
+| 137 | Czech Republic | 50.00 | 2009 |
+| 138 | Kenya | 50.00 | 2009 |
+| 139 | Uruguay | 48.00 | 2009 |
+| 140 | El Salvador | 47.00 | 2009 |
+| 141 | India | 47.00 | 2009 |
+| 142 | Pakistan | 47.00 | 2009 |
+| 143 | Angola | 46.00 | 2009 |
+| 144 | Ethiopia | 46.00 | 2009 |
+| 145 | Chad | 46.00 | 2009 |
+| 146 | Croatia | 45.00 | 2009 |
+| 147 | Suriname | 45.00 | 2009 |
+| 148 | New Zealand | 45.00 | 2009 |
+| 149 | Argentina | 44.00 | 2009 |
+| 150 | Korea, South | 44.00 | 2009 |
+| 151 | India | 42.00 | 2009 |
+| 152 | Korea, South | 42.00 | 2009 |
+| 153 | Korea, North | 42.00 | 2009 |
+| 154 | Algeria | 41.00 | 2009 |
+| 155 | Libya | 41.00 | 2009 |
+| 156 | Saudi Arabia | 41.00 | 2009 |
+| 157 | Thailand | 41.00 | 2009 |
+| 158 | Poland | 41.00 | 2009 |
+| 159 | Belize | 40.00 | 2009 |
+| 160 | Burma | 40.00 | 2009 |
+| 161 | Suriname | 40.00 | 2009 |
+| 162 | Bahamas, The | 39.00 | 2009 |
+| 163 | Mozambique | 39.00 | 2009 |
+| 164 | Spain | 39.00 | 2009 |
+| 165 | Peru | 39.00 | 2009 |
+| 166 | Madagascar | 39.00 | 2009 |
+| 167 | Central African Republic | 38.00 | 2009 |
+| 168 | Ecuador | 38.00 | 2009 |
+| 169 | Croatia | 37.00 | 2009 |
+| 170 | Yemen | 37.00 | 2009 |
+| 171 | Nepal | 36.00 | 2009 |
+| 172 | Afghanistan | 35.00 | 2009 |
+| 173 | Colombia | 35.00 | 2009 |
+| 174 | Solomon Islands | 34.00 | 2009 |
+| 175 | Tanzania | 34.00 | 2009 |
+| 176 | South Africa | 34.00 | 2009 |
+| 177 | Germany | 33.00 | 2009 |
+| 178 | Oman | 33.00 | 2009 |
+| 179 | Mozambique | 33.00 | 2009 |
+| 180 | Iran | 33.00 | 2009 |
+| 181 | Angola | 32.00 | 2009 |
+| 182 | Japan | 32.00 | 2009 |
+| 183 | Kazakhstan | 32.00 | 2009 |
+| 184 | Laos | 32.00 | 2009 |
+| 185 | Gabon | 31.00 | 2009 |
+| 186 | New Zealand | 31.00 | 2009 |
+| 187 | Norway | 31.00 | 2009 |
+| 188 | Italy | 31.00 | 2009 |
+| 189 | Mongolia | 31.00 | 2009 |
+| 190 | Liberia | 31.00 | 2009 |
+| 191 | Austria | 30.00 | 2009 |
+| 192 | Uganda | 30.00 | 2009 |
+| 193 | Nepal | 30.00 | 2009 |
+| 194 | Belarus | 30.00 | 2009 |
+| 195 | Iraq | 29.00 | 2009 |
+| 196 | Japan | 28.00 | 2009 |
+| 197 | Romania | 28.00 | 2009 |
+| 198 | Sudan | 28.00 | 2009 |
+| 199 | Vanuatu | 28.00 | 2009 |
+| 200 | Belize | 27.00 | 2009 |
+| 201 | Thailand | 27.00 | 2009 |
+| 202 | Iceland | 27.00 | 2009 |
+| 203 | Czech Republic | 27.00 | 2009 |
+| 204 | Austria | 26.00 | 2009 |
+| 205 | Morocco | 26.00 | 2009 |
+| 206 | Hungary | 26.00 | 2009 |
+| 207 | Malawi | 26.00 | 2009 |
+| 208 | China | 26.00 | 2009 |
+| 209 | Antarctica | 25.00 | 2009 |
+| 210 | Solomon Islands | 25.00 | 2009 |
+| 211 | Cameroon | 25.00 | 2009 |
+| 212 | Belarus | 25.00 | 2009 |
+| 213 | Uruguay | 25.00 | 2009 |
+| 214 | Paraguay | 25.00 | 2009 |
+| 215 | Norway | 25.00 | 2009 |
+| 216 | Oman | 25.00 | 2009 |
+| 217 | Indonesia | 25.00 | 2009 |
+| 218 | European Union | 24.00 | 2009 |
+| 219 | Mongolia | 24.00 | 2009 |
+| 220 | Pakistan | 24.00 | 2009 |
+| 221 | Burkina Faso | 24.00 | 2009 |
+| 222 | Peru | 24.00 | 2009 |
+| 223 | Fiji | 24.00 | 2009 |
+| 224 | Algeria | 23.00 | 2009 |
+| 225 | Ethiopia | 23.00 | 2009 |
+| 226 | Burma | 23.00 | 2009 |
+| 227 | Latvia | 23.00 | 2009 |
+| 228 | Lesotho | 23.00 | 2009 |
+| 229 | Switzerland | 23.00 | 2009 |
+| 230 | Switzerland | 23.00 | 2009 |
+| 231 | Somalia | 23.00 | 2009 |
+| 232 | Vanuatu | 23.00 | 2009 |
+| 233 | Latvia | 23.00 | 2009 |
+| 234 | Bahamas, The | 22.00 | 2009 |
+| 235 | Portugal | 22.00 | 2009 |
+| 236 | United Kingdom | 22.00 | 2009 |
+| 237 | Namibia | 22.00 | 2009 |
+| 238 | Ireland | 22.00 | 2009 |
+| 239 | Cote d'Ivoire | 21.00 | 2009 |
+| 240 | Uzbekistan | 21.00 | 2009 |
+| 241 | Romania | 21.00 | 2009 |
+| 242 | Portugal | 21.00 | 2009 |
+| 243 | Madagascar | 21.00 | 2009 |
+| 244 | Laos | 21.00 | 2009 |
+| 245 | Chad | 20.00 | 2009 |
+| 246 | Poland | 20.00 | 2009 |
+| 247 | Uruguay | 20.00 | 2009 |
+| 248 | Ireland | 20.00 | 2009 |
+| 249 | Algeria | 19.00 | 2009 |
+| 250 | Uzbekistan | 19.00 | 2009 |
+| 251 | Tanzania | 19.00 | 2009 |
+| 252 | Somalia | 19.00 | 2009 |
+| 253 | Italy | 19.00 | 2009 |
+| 254 | Fiji | 19.00 | 2009 |
+| 255 | Dominican Republic | 19.00 | 2009 |
+| 256 | Costa Rica | 19.00 | 2009 |
+| 257 | Congo, Democratic Republic of the | 19.00 | 2009 |
+| 258 | Congo, Republic of the | 19.00 | 2009 |
+| 259 | Bosnia and Herzegovina | 18.00 | 2009 |
+| 260 | Zambia | 18.00 | 2009 |
+| 261 | Lesotho | 18.00 | 2009 |
+| 262 | Niger | 18.00 | 2009 |
+| 263 | Nigeria | 18.00 | 2009 |
+| 264 | Sudan | 18.00 | 2009 |
+| 265 | Serbia | 18.00 | 2009 |
+| 266 | Mauritania | 18.00 | 2009 |
+| 267 | Liberia | 18.00 | 2009 |
+| 268 | United Arab Emirates | 17.00 | 2009 |
+| 269 | Spain | 17.00 | 2009 |
+| 270 | Libya | 17.00 | 2009 |
+| 271 | Korea, North | 17.00 | 2009 |
+| 272 | Israel | 17.00 | 2009 |
+| 273 | Dominican Republic | 17.00 | 2009 |
+| 274 | Central African Republic | 17.00 | 2009 |
+| 275 | Australia | 17.00 | 2009 |
+| 276 | Afghanistan | 16.00 | 2009 |
+| 277 | Cameroon | 16.00 | 2009 |
+| 278 | Saudi Arabia | 16.00 | 2009 |
+| 279 | Tunisia | 16.00 | 2009 |
+| 280 | Venezuela | 16.00 | 2009 |
+| 281 | Nicaragua | 16.00 | 2009 |
+| 282 | Belgium | 16.00 | 2009 |
+| 283 | Belgium | 15.00 | 2009 |
+| 284 | Uganda | 15.00 | 2009 |
+| 285 | Syria | 15.00 | 2009 |
+| 286 | Poland | 15.00 | 2009 |
+| 287 | Malawi | 15.00 | 2009 |
+| 288 | Slovakia | 15.00 | 2009 |
+| 289 | Kiribati | 15.00 | 2009 |
+| 290 | Jamaica | 15.00 | 2009 |
+| 291 | Jamaica | 15.00 | 2009 |
+| 292 | Honduras | 15.00 | 2009 |
+| 293 | Gabon | 14.00 | 2009 |
+| 294 | Israel | 14.00 | 2009 |
+| 295 | Greece | 14.00 | 2009 |
+| 296 | Guyana | 14.00 | 2009 |
+| 297 | Korea, North | 14.00 | 2009 |
+| 298 | Yemen | 14.00 | 2009 |
+| 299 | Niger | 14.00 | 2009 |
+| 300 | Mali | 14.00 | 2009 |
+| 301 | Libya | 14.00 | 2009 |
+| 302 | Chad | 13.00 | 2009 |
+| 303 | Iraq | 13.00 | 2009 |
+| 304 | China | 13.00 | 2009 |
+| 305 | Nigeria | 13.00 | 2009 |
+| 306 | Thailand | 13.00 | 2009 |
+| 307 | Swaziland | 13.00 | 2009 |
+| 308 | Burkina Faso | 13.00 | 2009 |
+| 309 | Russia | 13.00 | 2009 |
+| 310 | New Caledonia | 13.00 | 2009 |
+| 311 | Cuba | 13.00 | 2009 |
+| 312 | Kazakhstan | 13.00 | 2009 |
+| 313 | El Salvador | 13.00 | 2009 |
+| 314 | Egypt | 13.00 | 2009 |
+| 315 | Australia | 12.00 | 2009 |
+| 316 | Belize | 12.00 | 2009 |
+| 317 | Ukraine | 12.00 | 2009 |
+| 318 | Turkey | 12.00 | 2009 |
+| 319 | Puerto Rico | 12.00 | 2009 |
+| 320 | Pakistan | 12.00 | 2009 |
+| 321 | Guinea | 12.00 | 2009 |
+| 322 | Greece | 12.00 | 2009 |
+| 323 | Chile | 12.00 | 2009 |
+| 324 | Central African Republic | 12.00 | 2009 |
+| 325 | Burma | 12.00 | 2009 |
+| 326 | Bahamas, The | 12.00 | 2009 |
+| 327 | Cambodia | 11.00 | 2009 |
+| 328 | Kiribati | 11.00 | 2009 |
+| 329 | Namibia | 11.00 | 2009 |
+| 330 | Marshall Islands | 11.00 | 2009 |
+| 331 | Panama | 11.00 | 2009 |
+| 332 | Pakistan | 11.00 | 2009 |
+| 333 | Kyrgyzstan | 11.00 | 2009 |
+| 334 | Chad | 11.00 | 2009 |
+| 335 | Hungary | 11.00 | 2009 |
+| 336 | Italy | 11.00 | 2009 |
+| 337 | Cote d'Ivoire | 11.00 | 2009 |
+| 338 | Gabon | 11.00 | 2009 |
+| 339 | Ethiopia | 11.00 | 2009 |
+| 340 | Botswana | 10.00 | 2009 |
+| 341 | Slovenia | 10.00 | 2009 |
+| 342 | Puerto Rico | 10.00 | 2009 |
+| 343 | Marshall Islands | 10.00 | 2009 |
+| 344 | Morocco | 10.00 | 2009 |
+| 345 | Malawi | 10.00 | 2009 |
+| 346 | Kenya | 10.00 | 2009 |
+| 347 | Hungary | 10.00 | 2009 |
+| 348 | Haiti | 10.00 | 2009 |
+| 349 | Eritrea | 10.00 | 2009 |
+| 350 | Djibouti | 10.00 | 2009 |
+| 351 | China | 10.00 | 2009 |
+| 352 | Congo, Republic of the | 10.00 | 2009 |
+| 353 | Bosnia and Herzegovina | 10.00 | 2009 |
+| 354 | Afghanistan | 9.00 | 2009 |
+| 355 | Ethiopia | 9.00 | 2009 |
+| 356 | Yemen | 9.00 | 2009 |
+| 357 | Senegal | 9.00 | 2009 |
+| 358 | Serbia | 9.00 | 2009 |
+| 359 | Papua New Guinea | 9.00 | 2009 |
+| 360 | Mozambique | 9.00 | 2009 |
+| 361 | Laos | 9.00 | 2009 |
+| 362 | Kyrgyzstan | 9.00 | 2009 |
+| 363 | Iran | 9.00 | 2009 |
+| 364 | Antarctica | 9.00 | 2009 |
+| 365 | Cambodia | 9.00 | 2009 |
+| 366 | Solomon Islands | 8.00 | 2009 |
+| 367 | Liberia | 8.00 | 2009 |
+| 368 | Morocco | 8.00 | 2009 |
+| 369 | Uganda | 8.00 | 2009 |
+| 370 | Tajikistan | 8.00 | 2009 |
+| 371 | Sierra Leone | 8.00 | 2009 |
+| 372 | Saudi Arabia | 8.00 | 2009 |
+| 373 | Serbia | 8.00 | 2009 |
+| 374 | New Caledonia | 8.00 | 2009 |
+| 375 | Mauritania | 8.00 | 2009 |
+| 376 | Mauritania | 8.00 | 2009 |
+| 377 | Slovakia | 8.00 | 2009 |
+| 378 | Korea, North | 8.00 | 2009 |
+| 379 | Central African Republic | 8.00 | 2009 |
+| 380 | India | 8.00 | 2009 |
+| 381 | Haiti | 8.00 | 2009 |
+| 382 | Cook Islands | 8.00 | 2009 |
+| 383 | Congo, Republic of the | 8.00 | 2009 |
+| 384 | Azerbaijan | 7.00 | 2009 |
+| 385 | Swaziland | 7.00 | 2009 |
+| 386 | Vietnam | 7.00 | 2009 |
+| 387 | Burkina Faso | 7.00 | 2009 |
+| 388 | Ukraine | 7.00 | 2009 |
+| 389 | Tajikistan | 7.00 | 2009 |
+| 390 | Sierra Leone | 7.00 | 2009 |
+| 391 | Romania | 7.00 | 2009 |
+| 392 | Guinea-Bissau | 7.00 | 2009 |
+| 393 | Netherlands | 7.00 | 2009 |
+| 394 | Malaysia | 7.00 | 2009 |
+| 395 | Oman | 7.00 | 2009 |
+| 396 | Morocco | 7.00 | 2009 |
+| 397 | Slovakia | 7.00 | 2009 |
+| 398 | Turkey | 7.00 | 2009 |
+| 399 | Tunisia | 7.00 | 2009 |
+| 400 | Tunisia | 7.00 | 2009 |
+| 401 | Cote d'Ivoire | 7.00 | 2009 |
+| 402 | Croatia | 7.00 | 2009 |
+| 403 | Guinea | 7.00 | 2009 |
+| 404 | Bosnia and Herzegovina | 7.00 | 2009 |
+| 405 | Burundi | 7.00 | 2009 |
+| 406 | Azerbaijan | 7.00 | 2009 |
+| 407 | Antarctica | 6.00 | 2009 |
+| 408 | Iraq | 6.00 | 2009 |
+| 409 | Yemen | 6.00 | 2009 |
+| 410 | Swaziland | 6.00 | 2009 |
+| 411 | United States | 6.00 | 2009 |
+| 412 | Uganda | 6.00 | 2009 |
+| 413 | Turkmenistan | 6.00 | 2009 |
+| 414 | Togo | 6.00 | 2009 |
+| 415 | Somalia | 6.00 | 2009 |
+| 416 | Senegal | 6.00 | 2009 |
+| 417 | Seychelles | 6.00 | 2009 |
+| 418 | Norway | 6.00 | 2009 |
+| 419 | Mali | 6.00 | 2009 |
+| 420 | Moldova | 6.00 | 2009 |
+| 421 | Kazakhstan | 6.00 | 2009 |
+| 422 | Estonia | 6.00 | 2009 |
+| 423 | Gabon | 6.00 | 2009 |
+| 424 | French Polynesia | 6.00 | 2009 |
+| 425 | Cameroon | 6.00 | 2009 |
+| 426 | Bulgaria | 6.00 | 2009 |
+| 427 | United Arab Emirates | 5.00 | 2009 |
+| 428 | Afghanistan | 5.00 | 2009 |
+| 429 | United Arab Emirates | 5.00 | 2009 |
+| 430 | Mali | 5.00 | 2009 |
+| 431 | Lesotho | 5.00 | 2009 |
+| 432 | Liberia | 5.00 | 2009 |
+| 433 | Kazakhstan | 5.00 | 2009 |
+| 434 | Kazakhstan | 5.00 | 2009 |
+| 435 | Indonesia | 5.00 | 2009 |
+| 436 | Greenland | 5.00 | 2009 |
+| 437 | Fiji | 5.00 | 2009 |
+| 438 | Egypt | 5.00 | 2009 |
+| 439 | Sweden | 5.00 | 2009 |
+| 440 | Slovenia | 5.00 | 2009 |
+| 441 | Seychelles | 5.00 | 2009 |
+| 442 | Rwanda | 5.00 | 2009 |
+| 443 | Poland | 5.00 | 2009 |
+| 444 | Suriname | 5.00 | 2009 |
+| 445 | Nepal | 5.00 | 2009 |
+| 446 | Vanuatu | 5.00 | 2009 |
+| 447 | New Caledonia | 5.00 | 2009 |
+| 448 | Yemen | 5.00 | 2009 |
+| 449 | Tonga | 5.00 | 2009 |
+| 450 | Djibouti | 5.00 | 2009 |
+| 451 | Cook Islands | 5.00 | 2009 |
+| 452 | China | 5.00 | 2009 |
+| 453 | Bahamas, The | 5.00 | 2009 |
+| 454 | Antarctica | 5.00 | 2009 |
+| 455 | United Arab Emirates | 4.00 | 2009 |
+| 456 | Angola | 4.00 | 2009 |
+| 457 | Burma | 4.00 | 2009 |
+| 458 | Somalia | 4.00 | 2009 |
+| 459 | Slovenia | 4.00 | 2009 |
+| 460 | Philippines | 4.00 | 2009 |
+| 461 | Netherlands | 4.00 | 2009 |
+| 462 | Mongolia | 4.00 | 2009 |
+| 463 | Libya | 4.00 | 2009 |
+| 464 | Kiribati | 4.00 | 2009 |
+| 465 | Japan | 4.00 | 2009 |
+| 466 | Iraq | 4.00 | 2009 |
+| 467 | Ghana | 4.00 | 2009 |
+| 468 | Georgia | 4.00 | 2009 |
+| 469 | French Polynesia | 4.00 | 2009 |
+| 470 | Falkland Islands (Islas Malvinas) | 4.00 | 2009 |
+| 471 | Falkland Islands (Islas Malvinas) | 4.00 | 2009 |
+| 472 | Egypt | 4.00 | 2009 |
+| 473 | Burkina Faso | 4.00 | 2009 |
+| 474 | Turkmenistan | 4.00 | 2009 |
+| 475 | Taiwan | 4.00 | 2009 |
+| 476 | Turkey | 4.00 | 2009 |
+| 477 | Timor-Leste | 4.00 | 2009 |
+| 478 | Togo | 4.00 | 2009 |
+| 479 | Macedonia | 4.00 | 2009 |
+| 480 | Kosovo | 4.00 | 2009 |
+| 481 | Kosovo | 4.00 | 2009 |
+| 482 | Zambia | 4.00 | 2009 |
+| 483 | Burundi | 4.00 | 2009 |
+| 484 | Sri Lanka | 4.00 | 2009 |
+| 485 | Benin | 4.00 | 2009 |
+| 486 | Bolivia | 4.00 | 2009 |
+| 487 | Botswana | 4.00 | 2009 |
+| 488 | Antarctica | 4.00 | 2009 |
+| 489 | Afghanistan | 4.00 | 2009 |
+| 490 | Algeria | 3.00 | 2009 |
+| 491 | Ethiopia | 3.00 | 2009 |
+| 492 | Eritrea | 3.00 | 2009 |
+| 493 | Eritrea | 3.00 | 2009 |
+| 494 | Estonia | 3.00 | 2009 |
+| 495 | Egypt | 3.00 | 2009 |
+| 496 | European Union | 3.00 | 2009 |
+| 497 | Djibouti | 3.00 | 2009 |
+| 498 | Denmark | 3.00 | 2009 |
+| 499 | Cameroon | 3.00 | 2009 |
+| 500 | Zimbabwe | 3.00 | 2009 |
+| 501 | Yemen | 3.00 | 2009 |
+| 502 | Western Sahara | 3.00 | 2009 |
+| 503 | Vietnam | 3.00 | 2009 |
+| 504 | Vietnam | 3.00 | 2009 |
+| 505 | Uruguay | 3.00 | 2009 |
+| 506 | Ukraine | 3.00 | 2009 |
+| 507 | United Kingdom | 3.00 | 2009 |
+| 508 | Tonga | 3.00 | 2009 |
+| 509 | Rwanda | 3.00 | 2009 |
+| 510 | Russia | 3.00 | 2009 |
+| 511 | Guinea-Bissau | 3.00 | 2009 |
+| 512 | Guinea-Bissau | 3.00 | 2009 |
+| 513 | New Zealand | 3.00 | 2009 |
+| 514 | Netherlands | 3.00 | 2009 |
+| 515 | Nigeria | 3.00 | 2009 |
+| 516 | Mauritius | 3.00 | 2009 |
+| 517 | Macedonia | 3.00 | 2009 |
+| 518 | Trinidad and Tobago | 3.00 | 2009 |
+| 519 | Svalbard | 3.00 | 2009 |
+| 520 | Svalbard | 3.00 | 2009 |
+| 521 | Moldova | 3.00 | 2009 |
+| 522 | Moldova | 3.00 | 2009 |
+| 523 | Lithuania | 3.00 | 2009 |
+| 524 | Kazakhstan | 3.00 | 2009 |
+| 525 | Kuwait | 3.00 | 2009 |
+| 526 | Korea, North | 3.00 | 2009 |
+| 527 | Iraq | 3.00 | 2009 |
+| 528 | Iraq | 3.00 | 2009 |
+| 529 | Mali | 3.00 | 2009 |
+| 530 | Cote d'Ivoire | 3.00 | 2009 |
+| 531 | Iceland | 3.00 | 2009 |
+| 532 | Hungary | 3.00 | 2009 |
+| 533 | Guinea | 3.00 | 2009 |
+| 534 | Guatemala | 3.00 | 2009 |
+| 535 | Germany | 3.00 | 2009 |
+| 536 | Ghana | 3.00 | 2009 |
+| 537 | Finland | 3.00 | 2009 |
+| 538 | China | 3.00 | 2009 |
+| 539 | Sri Lanka | 3.00 | 2009 |
+| 540 | Burundi | 3.00 | 2009 |
+| 541 | Austria | 3.00 | 2009 |
+| 542 | United Arab Emirates | 2.00 | 2009 |
+| 543 | Angola | 2.00 | 2009 |
+| 544 | Bangladesh | 2.00 | 2009 |
+| 545 | Chile | 2.00 | 2009 |
+| 546 | Samoa | 2.00 | 2009 |
+| 547 | Samoa | 2.00 | 2009 |
+| 548 | Namibia | 2.00 | 2009 |
+| 549 | British Virgin Islands | 2.00 | 2009 |
+| 550 | British Virgin Islands | 2.00 | 2009 |
+| 551 | Uzbekistan | 2.00 | 2009 |
+| 552 | Turkmenistan | 2.00 | 2009 |
+| 553 | Taiwan | 2.00 | 2009 |
+| 554 | Taiwan | 2.00 | 2009 |
+| 555 | Timor-Leste | 2.00 | 2009 |
+| 556 | Timor-Leste | 2.00 | 2009 |
+| 557 | Tunisia | 2.00 | 2009 |
+| 558 | Togo | 2.00 | 2009 |
+| 559 | Turks and Caicos Islands | 2.00 | 2009 |
+| 560 | Trinidad and Tobago | 2.00 | 2009 |
+| 561 | Spain | 2.00 | 2009 |
+| 562 | Senegal | 2.00 | 2009 |
+| 563 | Rwanda | 2.00 | 2009 |
+| 564 | Qatar | 2.00 | 2009 |
+| 565 | Palau | 2.00 | 2009 |
+| 566 | Palau | 2.00 | 2009 |
+| 567 | Peru | 2.00 | 2009 |
+| 568 | Nigeria | 2.00 | 2009 |
+| 569 | Niger | 2.00 | 2009 |
+| 570 | Niger | 2.00 | 2009 |
+| 571 | Maldives | 2.00 | 2009 |
+| 572 | Maldives | 2.00 | 2009 |
+| 573 | Mauritania | 2.00 | 2009 |
+| 574 | Mauritius | 2.00 | 2009 |
+| 575 | Montenegro | 2.00 | 2009 |
+| 576 | Madagascar | 2.00 | 2009 |
+| 577 | Libya | 2.00 | 2009 |
+| 578 | Lebanon | 2.00 | 2009 |
+| 579 | Lebanon | 2.00 | 2009 |
+| 580 | Laos | 2.00 | 2009 |
+| 581 | Kuwait | 2.00 | 2009 |
+| 582 | Korea, South | 2.00 | 2009 |
+| 583 | Jordan | 2.00 | 2009 |
+| 584 | Jordan | 2.00 | 2009 |
+| 585 | India | 2.00 | 2009 |
+| 586 | Hungary | 2.00 | 2009 |
+| 587 | Haiti | 2.00 | 2009 |
+| 588 | Guinea | 2.00 | 2009 |
+| 589 | Greece | 2.00 | 2009 |
+| 590 | Greenland | 2.00 | 2009 |
+| 591 | Greenland | 2.00 | 2009 |
+| 592 | Georgia | 2.00 | 2009 |
+| 593 | Georgia | 2.00 | 2009 |
+| 594 | French Polynesia | 2.00 | 2009 |
+| 595 | Eritrea | 2.00 | 2009 |
+| 596 | Israel | 2.00 | 2009 |
+| 597 | Honduras | 2.00 | 2009 |
+| 598 | Estonia | 2.00 | 2009 |
+| 599 | Ireland | 2.00 | 2009 |
+| 600 | European Union | 2.00 | 2009 |
+| 601 | Djibouti | 2.00 | 2009 |
+| 602 | Cyprus | 2.00 | 2009 |
+| 603 | Cyprus | 2.00 | 2009 |
+| 604 | Cook Islands | 2.00 | 2009 |
+| 605 | Northern Mariana Islands | 2.00 | 2009 |
+| 606 | Belarus | 2.00 | 2009 |
+| 607 | Chad | 2.00 | 2009 |
+| 608 | Belarus | 2.00 | 2009 |
+| 609 | Benin | 2.00 | 2009 |
+| 610 | Anguilla | 2.00 | 2009 |
+| 611 | Anguilla | 2.00 | 2009 |
+| 612 | Antigua and Barbuda | 1.00 | 2009 |
+| 613 | Argentina | 1.00 | 2009 |
+| 614 | Dominican Republic | 1.00 | 2009 |
+| 615 | Northern Mariana Islands | 1.00 | 2009 |
+| 616 | Northern Mariana Islands | 1.00 | 2009 |
+| 617 | Colombia | 1.00 | 2009 |
+| 618 | Cayman Islands | 1.00 | 2009 |
+| 619 | Cayman Islands | 1.00 | 2009 |
+| 620 | Bulgaria | 1.00 | 2009 |
+| 621 | Bhutan | 1.00 | 2009 |
+| 622 | Bhutan | 1.00 | 2009 |
+| 623 | Solomon Islands | 1.00 | 2009 |
+| 624 | Belarus | 1.00 | 2009 |
+| 625 | Benin | 1.00 | 2009 |
+| 626 | Benin | 1.00 | 2009 |
+| 627 | Burma | 1.00 | 2009 |
+| 628 | Bolivia | 1.00 | 2009 |
+| 629 | Poland | 1.00 | 2009 |
+| 630 | Spratly Islands | 1.00 | 2009 |
+| 631 | Spratly Islands | 1.00 | 2009 |
+| 632 | Nicaragua | 1.00 | 2009 |
+| 633 | Nepal | 1.00 | 2009 |
+| 634 | Mozambique | 1.00 | 2009 |
+| 635 | Mexico | 1.00 | 2009 |
+| 636 | Mexico | 1.00 | 2009 |
+| 637 | Morocco | 1.00 | 2009 |
+| 638 | Zambia | 1.00 | 2009 |
+| 639 | Western Sahara | 1.00 | 2009 |
+| 640 | Western Sahara | 1.00 | 2009 |
+| 641 | Western Sahara | 1.00 | 2009 |
+| 642 | Vietnam | 1.00 | 2009 |
+| 643 | Venezuela | 1.00 | 2009 |
+| 644 | Saint Vincent and the Grenadines | 1.00 | 2009 |
+| 645 | Saint Vincent and the Grenadines | 1.00 | 2009 |
+| 646 | United Kingdom | 1.00 | 2009 |
+| 647 | Uganda | 1.00 | 2009 |
+| 648 | Tuvalu | 1.00 | 2009 |
+| 649 | Tuvalu | 1.00 | 2009 |
+| 650 | Turkey | 1.00 | 2009 |
+| 651 | Tonga | 1.00 | 2009 |
+| 652 | Tonga | 1.00 | 2009 |
+| 653 | Turks and Caicos Islands | 1.00 | 2009 |
+| 654 | Turks and Caicos Islands | 1.00 | 2009 |
+| 655 | Tajikistan | 1.00 | 2009 |
+| 656 | Thailand | 1.00 | 2009 |
+| 657 | Trinidad and Tobago | 1.00 | 2009 |
+| 658 | Syria | 1.00 | 2009 |
+| 659 | Sierra Leone | 1.00 | 2009 |
+| 660 | Slovenia | 1.00 | 2009 |
+| 661 | Senegal | 1.00 | 2009 |
+| 662 | South Africa | 1.00 | 2009 |
+| 663 | South Africa | 1.00 | 2009 |
+| 664 | Seychelles | 1.00 | 2009 |
+| 665 | Puerto Rico | 1.00 | 2009 |
+| 666 | Puerto Rico | 1.00 | 2009 |
+| 667 | Marshall Islands | 1.00 | 2009 |
+| 668 | Serbia | 1.00 | 2009 |
+| 669 | Qatar | 1.00 | 2009 |
+| 670 | Qatar | 1.00 | 2009 |
+| 671 | Guinea-Bissau | 1.00 | 2009 |
+| 672 | Portugal | 1.00 | 2009 |
+| 673 | Panama | 1.00 | 2009 |
+| 674 | Macedonia | 1.00 | 2009 |
+| 675 | Montenegro | 1.00 | 2009 |
+| 676 | Montenegro | 1.00 | 2009 |
+| 677 | Malawi | 1.00 | 2009 |
+| 678 | Mongolia | 1.00 | 2009 |
+| 679 | Mongolia | 1.00 | 2009 |
+| 680 | Mongolia | 1.00 | 2009 |
+| 681 | Luxembourg | 1.00 | 2009 |
+| 682 | Oman | 1.00 | 2009 |
+| 683 | Mauritius | 1.00 | 2009 |
+| 684 | Luxembourg | 1.00 | 2009 |
+| 685 | Lithuania | 1.00 | 2009 |
+| 686 | Kuwait | 1.00 | 2009 |
+| 687 | Kyrgyzstan | 1.00 | 2009 |
+| 688 | Kyrgyzstan | 1.00 | 2009 |
+| 689 | Jan Mayen | 1.00 | 2009 |
+| 690 | Jan Mayen | 1.00 | 2009 |
+| 691 | Iran | 1.00 | 2009 |
+| 692 | Croatia | 1.00 | 2009 |
+| 693 | Guyana | 1.00 | 2009 |
+| 694 | Guatemala | 1.00 | 2009 |
+| 695 | Greenland | 1.00 | 2009 |
+| 696 | Ghana | 1.00 | 2009 |
+| 697 | France | 1.00 | 2009 |
+| 698 | Czech Republic | 1.00 | 2009 |
+| 699 | Dominican Republic | 1.00 | 2009 |
+| 700 | Italy | 1.00 | 2009 |
+| 701 | Israel | 1.00 | 2009 |
+| 702 | Iran | 1.00 | 2009 |
+| 703 | Cook Islands | 1.00 | 2009 |
+| 704 | Cape Verde | 1.00 | 2009 |
+| 705 | Cape Verde | 1.00 | 2009 |
+| 706 | Central African Republic | 1.00 | 2009 |
+| 707 | Congo, Republic of the | 1.00 | 2009 |
+| 708 | Sri Lanka | 1.00 | 2009 |
+| 709 | Cambodia | 1.00 | 2009 |
+| 710 | Cambodia | 1.00 | 2009 |
+| 711 | El Salvador | 1.00 | 2009 |
+| 712 | Eritrea | 1.00 | 2009 |
+| 713 | Eritrea | 1.00 | 2009 |
+| 714 | Estonia | 1.00 | 2009 |
+| 715 | Equatorial Guinea | 1.00 | 2009 |
+| 716 | Equatorial Guinea | 1.00 | 2009 |
+| 717 | Egypt | 1.00 | 2009 |
+| 718 | Bosnia and Herzegovina | 1.00 | 2009 |
+| 719 | Belize | 1.00 | 2009 |
+| 720 | Bangladesh | 1.00 | 2009 |
+| 721 | Bangladesh | 1.00 | 2009 |
+| 722 | Belgium | 1.00 | 2009 |
+| 723 | Antarctica | 1.00 | 2009 |
+| 724 | Austria | 1.00 | 2009 |
+| 725 | Argentina | 1.00 | 2009 |
+| 726 | Armenia | 1.00 | 2009 |
+| 727 | Armenia | 1.00 | 2009 |
+| 728 | Albania | 1.00 | 2009 |
+| 729 | Afghanistan | 1.00 | 2009 |
+| 730 | Antigua and Barbuda | 1.00 | 2009 |
+| 731 | Albania | 1.00 | 2009 |
+| 732 | United Arab Emirates | 1.00 | 2009 |

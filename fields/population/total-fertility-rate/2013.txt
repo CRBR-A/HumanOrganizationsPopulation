@@ -1,0 +1,232 @@
+CIA - The World Factbook --  Total fertility rate   
+
+This entry gives a figure for the average number of children that would be born per woman if all women lived to the end of their childbearing years and bore children according to a given fertility rate at each age. The total fertility rate (TFR) is a more direct measure of the level of fertility than the crude birth rate, since it refers to births per woman. This indicator shows the potential for population change in the country. A rate of two children per woman is considered the replacement rate for a population, resulting in relative stability in terms of total numbers. Rates above two children indicate populations growing in size and whose median age is declining. Higher rates may also indicate difficulties for families, in some situations, to feed and educate their children and for women to enter the labor force. Rates below two children indicate populations decreasing in size and growing older. Global fertility rates are in general decline and this trend is most pronounced in industrialized countries, especially Western Europe, where populations are projected to decline dramatically over the next 50 years.
+
+| Rank | country | (children born/woman) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Niger | 7.03 | 2013 est. |
+| 2 | Mali | 6.25 | 2013 est. |
+| 3 | Somalia | 6.17 | 2013 est. |
+| 4 | Uganda | 6.06 | 2013 est. |
+| 5 | Burkina Faso | 6.00 | 2013 est. |
+| 6 | Burundi | 5.99 | 2013 est. |
+| 7 | Zambia | 5.81 | 2013 est. |
+| 8 | Afghanistan | 5.54 | 2013 est. |
+| 9 | South Sudan | 5.54 | 2013 est. |
+| 10 | Angola | 5.49 | 2013 est. |
+| 11 | Congo, Republic of the | 5.49 | 2013 est. |
+| 12 | Mozambique | 5.34 | 2013 est. |
+| 13 | Nigeria | 5.31 | 2013 est. |
+| 14 | Ethiopia | 5.31 | 2013 est. |
+| 15 | Malawi | 5.26 | 2013 est. |
+| 16 | Timor-Leste | 5.22 | 2013 est. |
+| 17 | Benin | 5.13 | 2013 est. |
+| 18 | Tanzania | 5.01 | 2013 est. |
+| 19 | Guinea | 4.99 | 2013 est. |
+| 20 | Congo, Democratic Republic of the | 4.95 | 2013 est. |
+| 21 | Liberia | 4.92 | 2013 est. |
+| 22 | Sierra Leone | 4.87 | 2013 est. |
+| 23 | Sao Tome and Principe | 4.81 | 2013 est. |
+| 24 | Chad | 4.80 | 2013 est. |
+| 25 | Equatorial Guinea | 4.74 | 2013 est. |
+| 26 | Rwanda | 4.71 | 2013 est. |
+| 27 | Senegal | 4.61 | 2013 est. |
+| 28 | Togo | 4.58 | 2013 est. |
+| 29 | Gabon | 4.52 | 2013 est. |
+| 30 | Central African Republic | 4.52 | 2013 est. |
+| 31 | Gaza Strip | 4.41 | 2013 est. |
+| 32 | Guinea-Bissau | 4.37 | 2013 est. |
+| 33 | Madagascar | 4.36 | 2013 est. |
+| 34 | Yemen | 4.27 | 2013 est. |
+| 35 | Eritrea | 4.25 | 2013 est. |
+| 36 | Mauritania | 4.15 | 2013 est. |
+| 37 | Western Sahara | 4.15 | 2013 est. |
+| 38 | Ghana | 4.12 | 2013 est. |
+| 39 | Sudan | 4.05 | 2013 est. |
+| 40 | Cameroon | 4.00 | 2013 est. |
+| 41 | Gambia, The | 3.98 | 2013 est. |
+| 42 | Comoros | 3.93 | 2013 est. |
+| 43 | Kenya | 3.76 | 2013 est. |
+| 44 | Cote d'Ivoire | 3.73 | 2013 est. |
+| 45 | Zimbabwe | 3.58 | 2013 est. |
+| 46 | Iraq | 3.50 | 2013 est. |
+| 47 | Vanuatu | 3.47 | 2013 est. |
+| 48 | Tonga | 3.46 | 2013 est. |
+| 49 | Solomon Islands | 3.44 | 2013 est. |
+| 50 | Jordan | 3.32 | 2013 est. |
+| 51 | Papua New Guinea | 3.31 | 2013 est. |
+| 52 | Marshall Islands | 3.29 | 2013 est. |
+| 53 | Philippines | 3.10 | 2013 est. |
+| 54 | Guatemala | 3.08 | 2013 est. |
+| 55 | Belize | 3.08 | 2013 est. |
+| 56 | Tuvalu | 3.06 | 2013 est. |
+| 57 | American Samoa | 3.04 | 2013 est. |
+| 58 | Samoa | 3.03 | 2013 est. |
+| 59 | Nauru | 2.98 | 2013 est. |
+| 60 | Laos | 2.98 | 2013 est. |
+| 61 | Swaziland | 2.96 | 2013 est. |
+| 62 | Pakistan | 2.96 | 2013 est. |
+| 63 | Honduras | 2.94 | 2013 est. |
+| 64 | West Bank | 2.91 | 2013 est. |
+| 65 | Egypt | 2.90 | 2013 est. |
+| 66 | Haiti | 2.88 | 2013 est. |
+| 67 | Bolivia | 2.87 | 2013 est. |
+| 68 | Oman | 2.86 | 2013 est. |
+| 69 | Lesotho | 2.83 | 2013 est. |
+| 70 | Tajikistan | 2.80 | 2013 est. |
+| 71 | Algeria | 2.78 | 2013 est. |
+| 72 | Syria | 2.77 | 2013 est. |
+| 73 | Cambodia | 2.72 | 2013 est. |
+| 74 | Kyrgyzstan | 2.71 | 2013 est. |
+| 75 | Micronesia, Federated States of | 2.68 | 2012 est. |
+| 76 | Israel | 2.65 | 2013 est. |
+| 77 | Kiribati | 2.63 | 2013 est. |
+| 78 | Malaysia | 2.61 | 2013 est. |
+| 79 | Kuwait | 2.56 | 2013 est. |
+| 80 | Djibouti | 2.55 | 2013 est. |
+| 81 | India | 2.55 | 2013 est. |
+| 82 | Fiji | 2.54 | 2013 est. |
+| 83 | Bangladesh | 2.50 | 2013 est. |
+| 84 | Guam | 2.41 | 2013 est. |
+| 85 | Botswana | 2.41 | 2013 est. |
+| 86 | Panama | 2.40 | 2013 est. |
+| 87 | Faroe Islands | 2.39 | 2013 est. |
+| 88 | Dominican Republic | 2.39 | 2013 est. |
+| 89 | Cabo Verde | 2.39 | 2013 est. |
+| 90 | Kazakhstan | 2.38 | 2013 est. |
+| 91 | United Arab Emirates | 2.37 | 2013 est. |
+| 92 | Venezuela | 2.37 | 2013 est. |
+| 93 | Nepal | 2.36 | 2013 est. |
+| 94 | Namibia | 2.33 | 2013 est. |
+| 95 | Ecuador | 2.33 | 2013 est. |
+| 96 | Cook Islands | 2.31 | 2013 est. |
+| 97 | Argentina | 2.27 | 2013 est. |
+| 98 | Peru | 2.25 | 2013 est. |
+| 99 | Mexico | 2.25 | 2013 est. |
+| 100 | South Africa | 2.25 | 2013 est. |
+| 101 | Guyana | 2.21 | 2013 est. |
+| 102 | Burma | 2.21 | 2013 est. |
+| 103 | Saudi Arabia | 2.21 | 2013 est. |
+| 104 | Indonesia | 2.20 | 2013 est. |
+| 105 | Mongolia | 2.18 | 2013 est. |
+| 106 | Morocco | 2.17 | 2013 est. |
+| 107 | Sri Lanka | 2.15 | 2013 est. |
+| 108 | Turkmenistan | 2.12 | 2013 est. |
+| 109 | Grenada | 2.12 | 2013 est. |
+| 110 | Turkey | 2.10 | 2013 est. |
+| 111 | Colombia | 2.10 | 2013 est. |
+| 112 | Libya | 2.09 | 2013 est. |
+| 113 | Sint Maarten | 2.09 | 2013 est. |
+| 114 | Jamaica | 2.09 | 2013 est. |
+| 115 | Curacao | 2.09 | 2013 est. |
+| 116 | Greenland | 2.08 | 2013 est. |
+| 117 | France | 2.08 | 2013 est. |
+| 118 | Bhutan | 2.07 | 2013 est. |
+| 119 | Dominica | 2.06 | 2013 est. |
+| 120 | New Zealand | 2.06 | 2013 est. |
+| 121 | United States | 2.06 | 2013 est. |
+| 122 | Northern Mariana Islands | 2.05 | 2013 est. |
+| 123 | Suriname | 2.04 | 2013 est. |
+| 124 | Antigua and Barbuda | 2.04 | 2013 est. |
+| 125 | Nicaragua | 2.03 | 2013 est. |
+| 126 | New Caledonia | 2.02 | 2013 est. |
+| 127 | Tunisia | 2.01 | 2013 est. |
+| 128 | Ireland | 2.01 | 2013 est. |
+| 129 | Paraguay | 2.01 | 2013 est. |
+| 130 | El Salvador | 1.99 | 2013 est. |
+| 131 | Korea, North | 1.99 | 2013 est. |
+| 132 | Bahamas, The | 1.97 | 2013 est. |
+| 133 | French Polynesia | 1.97 | 2013 est. |
+| 134 | Bermuda | 1.96 | 2013 est. |
+| 135 | Isle of Man | 1.95 | 2013 est. |
+| 136 | Gibraltar | 1.93 | 2013 est. |
+| 137 | Azerbaijan | 1.92 | 2013 est. |
+| 138 | Qatar | 1.92 | 2013 est. |
+| 139 | Costa Rica | 1.91 | 2013 est. |
+| 140 | United Kingdom | 1.90 | 2013 est. |
+| 141 | Seychelles | 1.89 | 2013 est. |
+| 142 | Iceland | 1.88 | 2013 est. |
+| 143 | Vietnam | 1.87 | 2013 est. |
+| 144 | Saint Vincent and the Grenadines | 1.87 | 2013 est. |
+| 145 | Uruguay | 1.86 | 2013 est. |
+| 146 | Iran | 1.86 | 2013 est. |
+| 147 | Cayman Islands | 1.86 | 2013 est. |
+| 148 | Chile | 1.85 | 2013 est. |
+| 149 | Aruba | 1.84 | 2013 est. |
+| 150 | Uzbekistan | 1.83 | 2013 est. |
+| 151 | Brunei | 1.83 | 2013 est. |
+| 152 | Bahrain | 1.83 | 2013 est. |
+| 153 | Brazil | 1.81 | 2013 est. |
+| 154 | Netherlands | 1.78 | 2013 est. |
+| 155 | Saint Kitts and Nevis | 1.78 | 2013 est. |
+| 156 | Maldives | 1.78 | 2013 est. |
+| 157 | Mauritius | 1.78 | 2013 est. |
+| 158 | Saint Lucia | 1.78 | 2013 est. |
+| 159 | Norway | 1.77 | 2013 est. |
+| 160 | Virgin Islands | 1.77 | 2013 est. |
+| 161 | Luxembourg | 1.77 | 2013 est. |
+| 162 | Australia | 1.77 | 2013 est. |
+| 163 | Wallis and Futuna | 1.77 | 2013 est. |
+| 164 | Lebanon | 1.75 | 2013 est. |
+| 165 | Anguilla | 1.75 | 2013 est. |
+| 166 | Finland | 1.73 | 2013 est. |
+| 167 | Denmark | 1.73 | 2013 est. |
+| 168 | Palau | 1.72 | 2013 est. |
+| 169 | Trinidad and Tobago | 1.71 | 2013 est. |
+| 170 | Turks and Caicos Islands | 1.70 | 2013 est. |
+| 171 | Liechtenstein | 1.69 | 2013 est. |
+| 172 | Barbados | 1.68 | 2013 est. |
+| 173 | Sweden | 1.67 | 2013 est. |
+| 174 | Jersey | 1.66 | 2013 est. |
+| 175 | Thailand | 1.66 | 2013 est. |
+| 176 | Belgium | 1.65 | 2013 est. |
+| 177 | Puerto Rico | 1.64 | 2013 est. |
+| 178 | Russia | 1.61 | 2013 est. |
+| 179 | Macedonia | 1.59 | 2013 est. |
+| 180 | Canada | 1.59 | 2013 est. |
+| 181 | Saint Helena, Ascension, and Tristan da Cunha | 1.57 | 2013 est. |
+| 182 | Saint Pierre and Miquelon | 1.55 | 2013 est. |
+| 183 | Moldova | 1.55 | 2013 est. |
+| 184 | China | 1.55 | 2013 est. |
+| 185 | Guernsey | 1.54 | 2013 est. |
+| 186 | Malta | 1.53 | 2013 est. |
+| 187 | Switzerland | 1.53 | 2013 est. |
+| 188 | Monaco | 1.51 | 2013 est. |
+| 189 | Portugal | 1.51 | 2013 est. |
+| 190 | Albania | 1.49 | 2013 est. |
+| 191 | Spain | 1.48 | 2013 est. |
+| 192 | San Marino | 1.48 | 2013 est. |
+| 193 | Belarus | 1.46 | 2013 est. |
+| 194 | Georgia | 1.46 | 2013 est. |
+| 195 | Cyprus | 1.46 | 2013 est. |
+| 196 | Cuba | 1.46 | 2013 est. |
+| 197 | Croatia | 1.45 | 2013 est. |
+| 198 | Estonia | 1.45 | 2013 est. |
+| 199 | Bulgaria | 1.43 | 2013 est. |
+| 200 | Germany | 1.42 | 2013 est. |
+| 201 | Austria | 1.42 | 2013 est. |
+| 202 | Serbia | 1.41 | 2013 est. |
+| 203 | Italy | 1.41 | 2013 est. |
+| 204 | Hungary | 1.41 | 2013 est. |
+| 205 | Greece | 1.40 | 2013 est. |
+| 206 | Armenia | 1.39 | 2013 est. |
+| 207 | Slovakia | 1.39 | 2013 est. |
+| 208 | Japan | 1.39 | 2013 est. |
+| 209 | Andorra | 1.37 | 2013 est. |
+| 210 | Latvia | 1.34 | 2013 est. |
+| 211 | Slovenia | 1.32 | 2013 est. |
+| 212 | Poland | 1.32 | 2013 est. |
+| 213 | Romania | 1.31 | 2013 est. |
+| 214 | Czech Republic | 1.29 | 2013 est. |
+| 215 | Ukraine | 1.29 | 2013 est. |
+| 216 | Montserrat | 1.28 | 2013 est. |
+| 217 | Lithuania | 1.28 | 2013 est. |
+| 218 | Bosnia and Herzegovina | 1.25 | 2013 est. |
+| 219 | Korea, South | 1.24 | 2013 est. |
+| 220 | British Virgin Islands | 1.24 | 2013 est. |
+| 221 | Hong Kong | 1.11 | 2013 est. |
+| 222 | Taiwan | 1.11 | 2013 est. |
+| 223 | Macau | 0.93 | 2013 est. |
+| 224 | Singapore | 0.79 | 2013 est. |
+
+

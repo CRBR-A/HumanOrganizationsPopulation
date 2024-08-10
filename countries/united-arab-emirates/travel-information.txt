@@ -1,0 +1,27 @@
+Telephone Code: 971
+Local Emergency Phone: 998, 999
+Climate: Desert; cooler in eastern mountains
+Currency (Code): Emirati dirhams (AED)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): G
+Major Languages: Arabic, English, Hindi, Malayam, Urdu, Pashto, Tagalog, Persian
+Major Religions: Muslim 76%, Christian 9%, other ( Hindu and Buddhist) 15%
+Time Difference: UTC+4 (9 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Yes, but some opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Dubai (includes Burj Khalifa (world's tallest building), Burj-al-Arab Hotel (world's tallest hotel), Dubai Creek Dhow Ride, Dubai Museum); Jebel Hafeet; Bastakia; Al-Bidyah Mosque; Sharjah Museum of Islamic Civilization; Sheikh Zayed Grand Mosque; Al Ain
+Major Sports: Soccer, cricket, tennis, table tennis
+Cultural Practices: The sole of the foot is considered the lowliest part of the body; it is therefore considered very rude to use the foot to point or to move around objects.
+Tipping Guidelines: Even if there is a service charge, tip the waiter 10-15% of the total bill. Many Dubai residents choose to tip taxi and hail-riding services 5-10 dirhams or to round up the fare.
+Souvenirs: Silk pashminas, leather goods, perfumes, gold and silver items
+Traditional Cuisine: Kabsa (or Al Machboos) --- chopped meat, fried onions, salt, other spices, and dried lemon served with rice cooked in the broth from the meat mixture
+
+---
+country: United Arab Emirates
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/United Arab Emirates/travel-facts>
+license: public domain (U.S.)
+...

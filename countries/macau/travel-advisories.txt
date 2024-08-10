@@ -1,0 +1,12 @@
+| Precautions | Reconsider Travel to the People's Republic of China (PRC), including the Hong Kong Special Administrative Region (SAR) and the Macau SAR, due to arbitrary enforcement of local laws and COVID-19-related restrictions. Exercise increased caution in the PRC due to wrongful detentions. Consult the link below for updates to travel advisories and statements on safety, security, local laws, and special circumstances in Macau.  <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html> |
+| Passport/Visa Requirements | US citizens should make sure their passport will not expire for at least 1 month after they enter the country even if they do not intend to stay that long. They should also make sure they have at least 1 blank page in their passport for any entry stamp that will be required. A visa is not required as long as you do not stay in the country more than 30 days. |
+| Vaccinations | See WHO recommendations  <http://www.who.int/> |
+| US Embassy/Consulate | US has no offices in Macau; US Consulate General in Hong Kong is accredited to Macau; US citizens may call US Dept of State (202)-501-4444 for emergencies; alternate contact is the Consulate General in Hong Kong [852] 2523-9011; US Consulate General in Hong Kong, 26 Garden Road, Central, Hong Kong |
+
+---
+country: Macau
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Macau/travel-facts>
+license: public domain (U.S.)
+...

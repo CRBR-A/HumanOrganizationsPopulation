@@ -1,0 +1,222 @@
+CIA - The World Factbook --  Natural gas - proved reserves   
+
+Natural gas - proved reserves compares the stock of proved reserves of natural gas in cubic meters (cu m).
+
+| Rank | country | (cu m) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Russia | 47,800,000,000,000 | 1 January 2013 est. |
+| 2 | Iran | 33,610,000,000,000 | 1 January 2013 est. |
+| 3 | Qatar | 25,200,000,000,000 | 1 January 2013 est. |
+| 4 | Turkmenistan | 17,500,000,000,000 | 1 January 2013 est. |
+| 5 | United States | 9,459,000,000,000 | 1 January 2012 est. |
+| 6 | Saudi Arabia | 8,150,000,000,000 | 1 January 2013 est. |
+| 7 | United Arab Emirates | 6,089,000,000,000 | 1 January 2013 est. |
+| 8 | Venezuela | 5,524,000,000,000 | 1 January 2013 est. |
+| 9 | Nigeria | 5,153,000,000,000 | 1 January 2013 est. |
+| 10 | Algeria | 4,504,000,000,000 | 1 January 2013 est. |
+| 11 | Iraq | 3,158,000,000,000 | 1 January 2013 est. |
+| 12 | China | 3,100,000,000,000 | 1 January 2013 est. |
+| 13 | Indonesia | 3,069,000,000,000 | 1 January 2013 est. |
+| 14 | Kazakhstan | 2,407,000,000,000 | 1 January 2013 est. |
+| 15 | Malaysia | 2,350,000,000,000 | 1 January 2013 est. |
+| 16 | Egypt | 2,186,000,000,000 | 1 January 2013 est. |
+| 17 | Norway | 2,070,000,000,000 | 1 January 2013 est. |
+| 18 | Canada | 1,930,000,000,000 | 1 January 2013 est. |
+| 19 | Uzbekistan | 1,841,000,000,000 | 1 January 2013 est. |
+| 20 | European Union | 1,811,000,000,000 | 1 January 2012 est. |
+| 21 | Kuwait | 1,798,000,000,000 | 1 January 2013 est. |
+| 22 | Libya | 1,547,000,000,000 | 1 January 2013 est. |
+| 23 | India | 1,241,000,000,000 | 1 January 2013 est. |
+| 24 | Australia | 1,219,000,000,000 | 1 January 2013 est. |
+| 25 | Ukraine | 1,104,000,000,000 | 1 January 2013 est. |
+| 26 | Netherlands | 1,090,000,000,000 | 1 January 2013 est. |
+| 27 | Chad | 999,500,000,000 | 1 January 2012 est. |
+| 28 | Azerbaijan | 991,100,000,000 | 1 January 2013 est. |
+| 29 | Oman | 849,500,000,000 | 1 January 2013 est. |
+| 30 | Vietnam | 699,400,000,000 | 1 January 2013 est. |
+| 31 | Pakistan | 679,600,000,000 | 1 January 2013 est. |
+| 32 | Mexico | 487,700,000,000 | 1 January 2013 est. |
+| 33 | Yemen | 478,500,000,000 | 1 January 2013 est. |
+| 34 | Brazil | 395,500,000,000 | 1 January 2013 est. |
+| 35 | Brunei | 390,800,000,000 | 1 January 2013 est. |
+| 36 | Trinidad and Tobago | 375,400,000,000 | 1 January 2013 est. |
+| 37 | Angola | 366,000,000,000 | 1 January 2013 est. |
+| 38 | Peru | 359,600,000,000 | 1 January 2013 est. |
+| 39 | Argentina | 332,500,000,000 | 1 January 2013 est. |
+| 40 | Thailand | 284,900,000,000 | 1 January 2013 est. |
+| 41 | Burma | 283,200,000,000 | 1 January 2013 est. |
+| 42 | Bolivia | 281,500,000,000 | 1 January 2013 est. |
+| 43 | Israel | 268,500,000,000 | 1 January 2013 est. |
+| 44 | United Kingdom | 244,000,000,000 | 1 January 2013 est. |
+| 45 | Syria | 240,700,000,000 | 1 January 2013 est. |
+| 46 | Timor-Leste | 200,000,000,000 | 1 January 2006 est. |
+| 47 | Bangladesh | 183,700,000,000 | 1 January 2013 est. |
+| 48 | Colombia | 169,900,000,000 | 1 January 2013 est. |
+| 49 | Papua New Guinea | 155,300,000,000 | 1 January 2013 est. |
+| 50 | Cameroon | 135,100,000,000 | 1 January 2013 est. |
+| 51 | Mozambique | 127,400,000,000 | 1 January 2013 est. |
+| 52 | Germany | 125,000,000,000 | 1 January 2013 est. |
+| 53 | Romania | 105,500,000,000 | 1 January 2013 est. |
+| 54 | Philippines | 98,540,000,000 | 1 January 2013 est. |
+| 55 | Chile | 97,970,000,000 | 1 January 2013 est. |
+| 56 | Bahrain | 92,030,000,000 | 1 January 2013 est. |
+| 57 | Poland | 92,000,000,000 | 1 January 2013 est. |
+| 58 | Congo, Republic of the | 90,610,000,000 | 1 January 2013 est. |
+| 59 | Cuba | 70,790,000,000 | 1 January 2013 est. |
+| 60 | Tunisia | 65,130,000,000 | 1 January 2013 est. |
+| 61 | South Sudan | 63,710,000,000 | 1 January 2013 est. |
+| 62 | Italy | 62,350,000,000 | 1 January 2013 est. |
+| 63 | Namibia | 62,290,000,000 | 1 January 2013 est. |
+| 64 | Rwanda | 56,630,000,000 | 1 January 2013 est. |
+| 65 | Afghanistan | 49,550,000,000 | 1 January 2013 est. |
+| 66 | Serbia | 48,140,000,000 | 1 January 2013 est. |
+| 67 | Denmark | 42,980,000,000 | 1 January 2013 est. |
+| 68 | Equatorial Guinea | 36,810,000,000 | 1 January 2013 est. |
+| 69 | New Zealand | 29,420,000,000 | 1 January 2013 est. |
+| 70 | Gabon | 28,320,000,000 | 1 January 2013 est. |
+| 71 | Mauritania | 28,320,000,000 | 1 January 2013 est. |
+| 72 | Cote d'Ivoire | 28,320,000,000 | 1 January 2013 est. |
+| 73 | Ethiopia | 24,920,000,000 | 1 January 2013 est. |
+| 74 | Croatia | 24,920,000,000 | 1 January 2013 est. |
+| 75 | Ghana | 22,650,000,000 | 1 January 2013 est. |
+| 76 | Sudan | 21,240,000,000 | 1 January 2013 est. |
+| 77 | Japan | 20,900,000,000 | 1 January 2013 est. |
+| 78 | South Africa | 16,000,000,000 | 1 January 2012 est. |
+| 79 | Uganda | 14,160,000,000 | 1 January 2013 est. |
+| 80 | Slovakia | 14,160,000,000 | 1 January 2013 est. |
+| 81 | Austria | 10,820,000,000 | 1 January 2013 est. |
+| 82 | France | 10,700,000,000 | 1 January 2013 est. |
+| 83 | Ireland | 9,911,000,000 | 1 January 2013 est. |
+| 84 | Georgia | 8,495,000,000 | 1 January 2013 est. |
+| 85 | Hungary | 8,098,000,000 | 1 January 2013 est. |
+| 86 | Ecuador | 6,994,000,000 | 1 January 2013 est. |
+| 87 | Tanzania | 6,513,000,000 | 1 January 2013 est. |
+| 88 | Taiwan | 6,229,000,000 | 1 January 2013 est. |
+| 89 | Turkey | 6,173,000,000 | 1 January 2013 est. |
+| 90 | Jordan | 6,031,000,000 | 1 January 2013 est. |
+| 91 | Somalia | 5,663,000,000 | 1 January 2013 est. |
+| 92 | Tajikistan | 5,663,000,000 | 1 January 2013 est. |
+| 93 | Bulgaria | 5,663,000,000 | 1 January 2013 est. |
+| 94 | Kyrgyzstan | 5,663,000,000 | 1 January 2013 est. |
+| 95 | Korea, South | 5,269,000,000 | 1 January 2013 est. |
+| 96 | Guatemala | 2,960,000,000 | 1 January 2006 est. |
+| 97 | Belarus | 2,832,000,000 | 1 January 2013 est. |
+| 98 | Spain | 2,548,000,000 | 1 January 2013 est. |
+| 99 | Madagascar | 2,010,000,000 | 1 January 2012 est. |
+| 100 | Czech Republic | 1,922,000,000 | 1 January 2013 est. |
+| 101 | Morocco | 1,444,000,000 | 1 January 2013 est. |
+| 102 | Benin | 1,133,000,000 | 1 January 2013 est. |
+| 103 | Greece | 991,100,000 | 1 January 2013 est. |
+| 104 | Congo, Democratic Republic of the | 991,100,000 | 1 January 2013 est. |
+| 105 | Albania | 849,500,000 | 1 January 2013 est. |
+| 106 | Barbados | 113,300,000 | 1 January 2013 est. |
+| 107 | Aruba | 0 | 1 January 2013 est. |
+| 108 | Antigua and Barbuda | 0 | 1 January 2013 est. |
+| 109 | Armenia | 0 | 1 January 2013 est. |
+| 110 | American Samoa | 0 | 1 January 2013 est. |
+| 111 | Botswana | 0 | 1 January 2013 est. |
+| 112 | Bermuda | 0 | 1 January 2013 est. |
+| 113 | Belgium | 0 | 1 January 2013 est. |
+| 114 | Bahamas, The | 0 | 1 January 2009 est. |
+| 115 | Belize | 0 | 1 January 2013 est. |
+| 116 | Bosnia and Herzegovina | 0 | 1 January 2013 est. |
+| 117 | Solomon Islands | 0 | 1 January 2013 est. |
+| 118 | Bhutan | 0 | 1 January 2013 est. |
+| 119 | Burundi | 0 | 1 January 2013 est. |
+| 120 | Cambodia | 0 | 1 January 2013 est. |
+| 121 | Curacao | 0 | 1 January 2011 est. |
+| 122 | Sri Lanka | 0 | 1 January 2013 est. |
+| 123 | Cayman Islands | 0 | 1 January 2013 est. |
+| 124 | Comoros | 0 | 1 January 2013 est. |
+| 125 | Costa Rica | 0 | 1 January 2013 est. |
+| 126 | Central African Republic | 0 | 1 January 2013 est. |
+| 127 | Cabo Verde | 0 | 1 January 2013 est. |
+| 128 | Cook Islands | 0 | 1 January 2013 est. |
+| 129 | Cyprus | 0 | 1 January 2013 est. |
+| 130 | Djibouti | 0 | 1 January 2013 est. |
+| 131 | Dominica | 0 | 1 January 2013 est. |
+| 132 | Dominican Republic | 0 | 1 January 2013 est. |
+| 133 | Estonia | 0 | 1 January 2013 est. |
+| 134 | Eritrea | 0 | 1 January 2013 est. |
+| 135 | El Salvador | 0 | 1 January 2013 est. |
+| 136 | Finland | 0 | 1 January 2013 est. |
+| 137 | Fiji | 0 | 1 January 2013 est. |
+| 138 | Falkland Islands (Islas Malvinas) | 0 | 1 January 2013 est. |
+| 139 | Faroe Islands | 0 | 1 January 2013 est. |
+| 140 | French Polynesia | 0 | 1 January 2013 est. |
+| 141 | Gambia, The | 0 | 1 January 2013 est. |
+| 142 | Gibraltar | 0 | 1 January 2013 est. |
+| 143 | Grenada | 0 | 1 January 2013 est. |
+| 144 | Greenland | 0 | 1 January 2013 est. |
+| 145 | Guam | 0 | 1 January 2013 est. |
+| 146 | Guinea | 0 | 1 January 2013 est. |
+| 147 | Guyana | 0 | 1 January 2013 est. |
+| 148 | Haiti | 0 | 1 January 2013 est. |
+| 149 | Hong Kong | 0 | 1 January 2013 est. |
+| 150 | Honduras | 0 | 1 January 2013 est. |
+| 151 | Iceland | 0 | 1 January 2013 est. |
+| 152 | Jamaica | 0 | 1 January 2013 est. |
+| 153 | Kenya | 0 | 1 January 2013 est. |
+| 154 | Korea, North | 0 | 1 January 2013 est. |
+| 155 | Kiribati | 0 | 1 January 2013 est. |
+| 156 | Laos | 0 | 1 January 2013 est. |
+| 157 | Lebanon | 0 | 1 January 2013 est. |
+| 158 | Latvia | 0 | 1 January 2013 est. |
+| 159 | Lithuania | 0 | 1 January 2013 est. |
+| 160 | Liberia | 0 | 1 January 2013 est. |
+| 161 | Lesotho | 0 | 1 January 2013 est. |
+| 162 | Luxembourg | 0 | 1 January 2013 est. |
+| 163 | Macau | 0 | 1 January 2013 est. |
+| 164 | Moldova | 0 | 1 January 2013 est. |
+| 165 | Mongolia | 0 | 1 January 2013 est. |
+| 166 | Montserrat | 0 | 1 January 2013 est. |
+| 167 | Malawi | 0 | 1 January 2013 est. |
+| 168 | Montenegro | 0 | 1 January 2013 est. |
+| 169 | Macedonia | 0 | 1 January 2013 est. |
+| 170 | Mali | 0 | 1 January 2013 est. |
+| 171 | Mauritius | 0 | 1 January 2013 est. |
+| 172 | Malta | 0 | July 5, 1905 est. |
+| 173 | Maldives | 0 | 1 January 2013 est. |
+| 174 | New Caledonia | 0 | 1 January 2013 est. |
+| 175 | Niue | 0 | 1 January 2013 est. |
+| 176 | Niger | 0 | 1 January 2013 est. |
+| 177 | Vanuatu | 0 | 1 January 2013 est. |
+| 178 | Nepal | 0 | 1 January 2013 est. |
+| 179 | Nauru | 0 | 1 January 2013 est. |
+| 180 | Suriname | 0 | 1 January 2011 est. |
+| 181 | Nicaragua | 0 | 1 January 2013 est. |
+| 182 | Paraguay | 0 | 1 January 2013 est. |
+| 183 | Panama | 0 | 1 January 2013 est. |
+| 184 | Portugal | 0 | 1 January 2013 est. |
+| 185 | Guinea-Bissau | 0 | 1 January 2013 est. |
+| 186 | Puerto Rico | 0 | 1 January 2013 est. |
+| 187 | Saint Pierre and Miquelon | 0 | 1 January 2013 est. |
+| 188 | Saint Kitts and Nevis | 0 | 1 January 2013 est. |
+| 189 | Seychelles | 0 | 1 January 2013 est. |
+| 190 |
+| Senegal |
+| 0 | NA | 191 | Saint Helena, Ascension, and Tristan da Cunha |
+| 0 | 1 January 2013 est. | 192 | Sierra Leone |
+| 0 | 1 January 2013 est. | 193 | Singapore |
+| 0 | 1 January 2013 est. | 194 | Saint Lucia |
+| 0 | 1 January 2013 est. | 195 | Sweden |
+| 0 | 1 January 2013 est. | 196 | Switzerland |
+| 0 | 1 January 2011 est. | 197 | Turks and Caicos Islands |
+| 0 | 1 January 2013 est. | 198 | Tonga |
+| 0 | 1 January 2013 est. | 199 | Togo |
+| 0 | 1 January 2013 est. | 200 | Sao Tome and Principe |
+| 0 | 1 January 2013 est. | 201 | Burkina Faso |
+| 0 | 1 January 2013 est. | 202 | Uruguay |
+| 0 | 1 January 2013 est. | 203 | Saint Vincent and the Grenadines |
+| 0 | 1 January 2013 est. | 204 | British Virgin Islands |
+| 0 | 1 January 2013 est. | 205 | Virgin Islands |
+| 0 | 1 January 2013 est. | 206 | West Bank |
+| 0 | 1 January 2013 est. | 207 | Western Sahara |
+| 0 | 1 January 2013 est. | 208 | Samoa |
+| 0 | 1 January 2013 est. | 209 | Swaziland |
+| 0 | 1 January 2013 est. | 210 | Zambia |
+| 0 | 1 January 2013 est. | 211 | Zimbabwe |
+| 0 |
+| 1 January 2013 est. |
+
+

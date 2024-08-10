@@ -1,0 +1,218 @@
+CIA - The World Factbook --  Crude oil - exports   
+
+This entry is the total amount of crude oil exported, in barrels per day (bbl/day).
+
+| Rank | country | (bbl/day) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Saudi Arabia | 6,880,000 | 2011 est. |
+| 2 | Russia | 4,690,000 | 2012 est. |
+| 3 | Iraq | 2,600,000 | 2012 est. |
+| 4 | Iran | 2,377,000 | 2010 est. |
+| 5 | Nigeria | 2,341,000 | 2010 est. |
+| 6 | United Arab Emirates | 2,142,000 | 2010 est. |
+| 7 | Angola | 1,928,000 | 2010 est. |
+| 8 | Venezuela | 1,645,000 | 2010 est. |
+| 9 | Norway | 1,602,000 | 2010 est. |
+| 10 | Mexico | 1,460,000 | 2010 est. |
+| 11 | Canada | 1,440,000 | 2010 est. |
+| 12 | Kazakhstan | 1,406,000 | 2010 est. |
+| 13 | Kuwait | 1,395,000 | 2010 est. |
+| 14 | Libya | 1,378,000 | 2010 est. |
+| 15 | Qatar | 1,106,000 | 2010 est. |
+| 16 | Algeria | 1,097,000 | 2010 est. |
+| 17 | Azerbaijan | 821,000 | 2011 est. |
+| 18 | Colombia | 777,900 | 2009 |
+| 19 | United Kingdom | 740,000 | 2010 est. |
+| 20 | Oman | 705,100 | 2010 est. |
+| 21 | Brazil | 619,100 | 2010 est. |
+| 22 | Ecuador | 366,000 | 2012 est. |
+| 23 | Indonesia | 338,100 | 2010 est. |
+| 24 | Equatorial Guinea | 319,100 | 2010 est. |
+| 25 | Australia | 314,100 | 2010 est. |
+| 26 | South Sudan | 291,800 | 2010 est. |
+| 27 | Congo, Republic of the | 290,000 | 2011 est. |
+| 28 | Malaysia | 269,000 | 2012 est. |
+| 29 | Gabon | 225,300 | 2010 est. |
+| 30 | Vietnam | 188,000 | 2012 est. |
+| 31 | Yemen | 175,200 | 2010 est. |
+| 32 | Denmark | 155,200 | 2010 est. |
+| 33 | Bahrain | 152,600 | 2012 est. |
+| 34 | Syria | 152,400 | 2010 est. |
+| 35 | Brunei | 147,900 | 2010 est. |
+| 36 | Chad | 125,700 | 2010 est. |
+| 37 | Sudan | 97,270 | 2010 est. |
+| 38 | Argentina | 90,920 | 2010 est. |
+| 39 | Timor-Leste | 87,000 | 2010 est. |
+| 40 | Egypt | 85,000 | 2010 est. |
+| 41 | Cuba | 83,000 | 2012 est. |
+| 42 | Tunisia | 77,980 | 2010 est. |
+| 43 | Trinidad and Tobago | 75,340 | 2010 est. |
+| 44 | Turkmenistan | 67,000 | 2012 est. |
+| 45 | China | 60,600 | 2010 est. |
+| 46 | Cameroon | 55,680 | 2010 est. |
+| 47 | New Zealand | 47,290 | 2010 est. |
+| 48 | United States | 41,640 | 2010 est. |
+| 49 | Thailand | 32,200 | 2011 est. |
+| 50 | Cote d'Ivoire | 32,190 | 2010 est. |
+| 51 | Papua New Guinea | 28,400 | 2010 est. |
+| 52 | Congo, Democratic Republic of the | 22,240 | 2010 est. |
+| 53 | Philippines | 20,090 | 2010 est. |
+| 54 | Greece | 17,020 | 2010 est. |
+| 55 | Peru | 15,610 | 2012 est. |
+| 56 | Germany | 14,260 | 2010 est. |
+| 57 | Guatemala | 10,960 | 2010 est. |
+| 58 | Netherlands | 10,220 | 2010 est. |
+| 59 | Albania | 8,997 | 2010 est. |
+| 60 | Estonia | 7,624 | 2010 est. |
+| 61 | Suriname | 7,621 | 2010 est. |
+| 62 | Mauritania | 7,337 | 2010 est. |
+| 63 | Italy | 6,300 | 2010 est. |
+| 64 | Mongolia | 5,680 | 2010 est. |
+| 65 | Belize | 4,345 | 2010 est. |
+| 66 | Poland | 3,615 | 2011 est. |
+| 67 | Lithuania | 2,181 | 2010 est. |
+| 68 | Ireland | 1,858 | 2010 est. |
+| 69 | Romania | 1,604 | 2010 est. |
+| 70 | Barbados | 765 | 2010 est. |
+| 71 | Georgia | 531 | 2012 est. |
+| 72 | Czech Republic | 404 | 2010 est. |
+| 73 | Slovakia | 263 | 2010 est. |
+| 74 | Tajikistan | 79 | 2010 est. |
+| 75 | Aruba | 0 | 2010 est. |
+| 76 | Antigua and Barbuda | 0 | 2010 est. |
+| 77 | Afghanistan | 0 | 2010 est. |
+| 78 | Armenia | 0 | 2010 est. |
+| 79 | American Samoa | 0 | 2010 est. |
+| 80 | Austria | 0 | 2011 est. |
+| 81 | Botswana | 0 | 2010 est. |
+| 82 | Bermuda | 0 | 2010 est. |
+| 83 | Belgium | 0 | 2010 est. |
+| 84 | Bahamas, The | 0 | 2010 est. |
+| 85 | Bangladesh | 0 | 2010 est. |
+| 86 | Bosnia and Herzegovina | 0 | 2010 est. |
+| 87 | Bolivia | 0 | 2010 est. |
+| 88 | Burma | 0 | 2010 est. |
+| 89 | Benin | 0 | 2010 est. |
+| 90 | Belarus | 0 | 2010 est. |
+| 91 | Solomon Islands | 0 | 2010 est. |
+| 92 | Bhutan | 0 | 2010 est. |
+| 93 | Bulgaria | 0 | 2012 est. |
+| 94 | Burundi | 0 | 2010 est. |
+| 95 | Cambodia | 0 | 2010 est. |
+| 96 | Sri Lanka | 0 | 2010 est. |
+| 97 | Chile | 0 | 2010 est. |
+| 98 | Cayman Islands | 0 | 2010 est. |
+| 99 | Comoros | 0 | 2010 est. |
+| 100 | Costa Rica | 0 | 2010 est. |
+| 101 | Central African Republic | 0 | 2010 est. |
+| 102 | Cabo Verde | 0 | 2010 est. |
+| 103 | Cook Islands | 0 | 2010 est. |
+| 104 | Cyprus | 0 | 2010 est. |
+| 105 | Djibouti | 0 | 2010 est. |
+| 106 | Dominica | 0 | 2010 est. |
+| 107 | Dominican Republic | 0 | 2010 est. |
+| 108 | Eritrea | 0 | 2010 est. |
+| 109 | El Salvador | 0 | 2010 est. |
+| 110 | Ethiopia | 0 | 2010 est. |
+| 111 | Finland | 0 | 2010 est. |
+| 112 | Fiji | 0 | 2010 est. |
+| 113 | Falkland Islands (Islas Malvinas) | 0 | 2010 est. |
+| 114 | Faroe Islands | 0 | 2010 est. |
+| 115 | French Polynesia | 0 | 2010 est. |
+| 116 | France | 0 | 2010 est. |
+| 117 | Gambia, The | 0 | 2010 est. |
+| 118 | Ghana | 0 | 2010 est. |
+| 119 | Gibraltar | 0 | 2010 est. |
+| 120 | Grenada | 0 | 2010 est. |
+| 121 | Greenland | 0 | 2010 est. |
+| 122 | Guam | 0 | 2010 est. |
+| 123 | Guinea | 0 | 2010 est. |
+| 124 | Guyana | 0 | 2010 est. |
+| 125 | Haiti | 0 | 2010 est. |
+| 126 | Hong Kong | 0 | 2012 est. |
+| 127 | Honduras | 0 | 2010 est. |
+| 128 | Croatia | 0 | 2012 est. |
+| 129 | Hungary | 0 | 2010 est. |
+| 130 | Iceland | 0 | 2010 est. |
+| 131 | India | 0 | 2010 est. |
+| 132 | Israel | 0 | 2010 est. |
+| 133 | Japan | 0 | 2010 est. |
+| 134 | Jamaica | 0 | 2010 est. |
+| 135 | Jordan | 0 | 2010 est. |
+| 136 | Kenya | 0 | 2010 est. |
+| 137 | Kyrgyzstan | 0 | 2010 est. |
+| 138 | Korea, North | 0 | 2010 est. |
+| 139 | Kiribati | 0 | 2010 est. |
+| 140 | Korea, South | 0 | 2010 est. |
+| 141 | Laos | 0 | 2010 est. |
+| 142 | Lebanon | 0 | 2010 est. |
+| 143 | Latvia | 0 | 2010 est. |
+| 144 | Liberia | 0 | 2010 est. |
+| 145 | Lesotho | 0 | 2010 est. |
+| 146 | Luxembourg | 0 | 2010 est. |
+| 147 | Madagascar | 0 | 2010 est. |
+| 148 | Macau | 0 | 2012 est. |
+| 149 | Moldova | 0 | 2010 est. |
+| 150 | Montserrat | 0 | 2010 est. |
+| 151 | Malawi | 0 | 2010 est. |
+| 152 | Montenegro | 0 | 2010 est. |
+| 153 | Macedonia | 0 | 2012 |
+| 154 | Mali | 0 | 2010 est. |
+| 155 | Morocco | 0 | 2010 est. |
+| 156 | Mauritius | 0 | 2010 est. |
+| 157 | Malta | 0 | 2011 est. |
+| 158 | Maldives | 0 | 2012 est. |
+| 159 | Mozambique | 0 | 2010 est. |
+| 160 | New Caledonia | 0 | 2010 est. |
+| 161 | Niue | 0 | 2010 est. |
+| 162 | Niger | 0 | 2010 est. |
+| 163 | Vanuatu | 0 | 2010 est. |
+| 164 | Nepal | 0 | 2010 est. |
+| 165 | Nauru | 0 | 2010 est. |
+| 166 | Nicaragua | 0 | 2011 est. |
+| 167 | Paraguay | 0 | 2010 est. |
+| 168 | Pakistan | 0 | 2010 est. |
+| 169 | Panama | 0 | 2010 est. |
+| 170 | Portugal | 0 | 2010 est. |
+| 171 | Guinea-Bissau | 0 | 2010 est. |
+| 172 | Serbia | 0 | 2010 est. |
+| 173 | Puerto Rico | 0 | 2010 est. |
+| 174 | Rwanda | 0 | 2010 est. |
+| 175 | Saint Pierre and Miquelon | 0 | 2010 est. |
+| 176 | Saint Kitts and Nevis | 0 | 2010 est. |
+| 177 | Seychelles | 0 | 2010 est. |
+| 178 | South Africa | 0 | 2010 est. |
+| 179 | Senegal | 0 | 2010 est. |
+| 180 | Saint Helena, Ascension, and Tristan da Cunha | 0 | 2010 est. |
+| 181 | Slovenia | 0 | 2010 est. |
+| 182 | Sierra Leone | 0 | 2010 est. |
+| 183 | Singapore | 0 | 2011 est. |
+| 184 | Somalia | 0 | 2010 est. |
+| 185 | Spain | 0 | 2010 est. |
+| 186 | Saint Lucia | 0 | 2010 est. |
+| 187 | Sweden | 0 | 2010 est. |
+| 188 | Switzerland | 0 | 2011 est. |
+| 189 | Turks and Caicos Islands | 0 | 2010 est. |
+| 190 | Tonga | 0 | 2010 est. |
+| 191 | Togo | 0 | 2010 est. |
+| 192 | Sao Tome and Principe | 0 | 2010 est. |
+| 193 | Turkey | 0 | 2010 est. |
+| 194 | Taiwan | 0 | 2011 est. |
+| 195 | Tanzania | 0 | 2010 est. |
+| 196 | Uganda | 0 | 2010 est. |
+| 197 | Ukraine | 0 | 2010 est. |
+| 198 | Burkina Faso | 0 | 2010 est. |
+| 199 | Uruguay | 0 | 2010 est. |
+| 200 | Uzbekistan | 0 | 2010 est. |
+| 201 | Saint Vincent and the Grenadines | 0 | 2010 est. |
+| 202 | British Virgin Islands | 0 | 2010 est. |
+| 203 | Virgin Islands | 0 | 2010 est. |
+| 204 | Namibia | 0 | 2010 est. |
+| 205 | West Bank | 0 | 2010 est. |
+| 206 | Western Sahara | 0 | 2010 est. |
+| 207 | Samoa | 0 | 2010 est. |
+| 208 | Swaziland | 0 | 2010 est. |
+| 209 | Zambia | 0 | 2010 est. |
+| 210 | Zimbabwe | 0 | 2010 est. |
+
+

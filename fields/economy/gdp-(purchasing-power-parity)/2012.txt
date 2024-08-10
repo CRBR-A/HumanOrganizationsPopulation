@@ -1,0 +1,235 @@
+CIA - The World Factbook --  GDP (purchasing power parity)   
+
+This entry gives the gross domestic product (GDP) or value of all final goods and services produced within a nation in a given year. A nation's GDP at purchasing power parity (PPP) exchange rates is the sum value of all goods and services produced in the country valued at prices prevailing in the United States in the year noted. This is the measure most economists prefer when looking at per-capita welfare and when comparing living conditions or use of resources across countries. The measure is difficult to compute, as a US dollar value has to be assigned to all goods and services in the country regardless of whether these goods and services have a direct equivalent in the United States (for example, the value of an ox-cart or non-US military equipment); as a result, PPP estimates for some countries are based on a small and sometimes different set of goods and services. In addition, many countries do not formally participate in the World Bank's PPP project that calculates these measures, so the resulting GDP estimates for these countries may lack precision. For many developing countries, PPP-based GDP measures are multiples of the official exchange rate (OER) measure. The differences between the OER- and PPP-denominated GDP values for most of the wealthy industrialized countries are generally much smaller.
+
+| Rank | country | GDP (purchasing power parity) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | European Union | $ 15,700,000,000,000 | 2012 est. |
+| 2 | United States | $ 15,670,000,000,000 | 2012 est. |
+| 3 | China | $ 12,380,000,000,000 | 2012 est. |
+| 4 | India | $ 4,735,000,000,000 | 2012 est. |
+| 5 | Japan | $ 4,617,000,000,000 | 2012 est. |
+| 6 | Germany | $ 3,194,000,000,000 | 2012 est. |
+| 7 | Russia | $ 2,509,000,000,000 | 2012 est. |
+| 8 | Brazil | $ 2,362,000,000,000 | 2012 est. |
+| 9 | United Kingdom | $ 2,323,000,000,000 | 2012 est. |
+| 10 | France | $ 2,253,000,000,000 | 2012 est. |
+| 11 | Italy | $ 1,834,000,000,000 | 2012 est. |
+| 12 | Mexico | $ 1,758,000,000,000 | 2012 est. |
+| 13 | Korea, South | $ 1,622,000,000,000 | 2012 est. |
+| 14 | Canada | $ 1,446,000,000,000 | 2012 est. |
+| 15 | Spain | $ 1,407,000,000,000 | 2012 est. |
+| 16 | Indonesia | $ 1,212,000,000,000 | 2012 est. |
+| 17 | Turkey | $ 1,125,000,000,000 | 2012 est. |
+| 18 | Iran | $ 997,400,000,000 | 2012 est. |
+| 19 | Australia | $ 960,700,000,000 | 2012 est. |
+| 20 | Taiwan | $ 901,900,000,000 | 2012 est. |
+| 21 | Poland | $ 802,000,000,000 | 2012 est. |
+| 22 | Argentina | $ 746,900,000,000 | 2012 est. |
+| 23 | Saudi Arabia | $ 740,500,000,000 | 2012 est. |
+| 24 | Netherlands | $ 709,500,000,000 | 2012 est. |
+| 25 | Thailand | $ 646,100,000,000 | 2012 est. |
+| 26 | South Africa | $ 578,600,000,000 | 2012 est. |
+| 27 | Egypt | $ 537,800,000,000 | 2012 est. |
+| 28 | Pakistan | $ 514,600,000,000 | 2012 est. |
+| 29 | Colombia | $ 500,000,000,000 | 2012 est. |
+| 30 | Malaysia | $ 492,000,000,000 | 2012 est. |
+| 31 | Nigeria | $ 450,500,000,000 | 2012 est. |
+| 32 | Belgium | $ 420,600,000,000 | 2012 est. |
+| 33 | Philippines | $ 416,700,000,000 | 2012 est. |
+| 34 | Venezuela | $ 402,100,000,000 | 2012 est. |
+| 35 | Sweden | $ 395,800,000,000 | 2012 est. |
+| 36 | Hong Kong | $ 363,700,000,000 | 2012 est. |
+| 37 | Switzerland | $ 362,400,000,000 | 2012 est. |
+| 38 | Austria | $ 357,800,000,000 | 2012 est. |
+| 39 | Ukraine | $ 344,700,000,000 | 2012 est. |
+| 40 | Singapore | $ 326,700,000,000 | 2012 est. |
+| 41 | Peru | $ 325,400,000,000 | 2012 est. |
+| 42 | Vietnam | $ 320,500,000,000 | 2012 est. |
+| 43 | Chile | $ 319,400,000,000 | 2012 est. |
+| 44 | Bangladesh | $ 305,500,000,000 | 2012 est. |
+| 45 | Czech Republic | $ 286,700,000,000 | 2012 est. |
+| 46 | Greece | $ 280,800,000,000 | 2012 est. |
+| 47 | Norway | $ 278,100,000,000 | 2012 est. |
+| 48 | Algeria | $ 274,500,000,000 | 2012 est. |
+| 49 | Romania | $ 274,100,000,000 | 2012 est. |
+| 50 | United Arab Emirates | $ 271,200,000,000 | 2012 est. |
+| 51 | Israel | $ 247,900,000,000 | 2012 est. |
+| 52 | Portugal | $ 245,000,000,000 | 2012 est. |
+| 53 | Kazakhstan | $ 232,300,000,000 | 2012 est. |
+| 54 | Denmark | $ 208,500,000,000 | 2012 est. |
+| 55 | Finland | $ 198,100,000,000 | 2012 est. |
+| 56 | Hungary | $ 196,800,000,000 | 2012 est. |
+| 57 | Ireland | $ 191,500,000,000 | 2012 est. |
+| 58 | Qatar | $ 189,000,000,000 | 2012 est. |
+| 59 | Morocco | $ 171,000,000,000 | 2012 est. |
+| 60 | Kuwait | $ 165,900,000,000 | 2012 est. |
+| 61 | Iraq | $ 155,400,000,000 | 2012 est. |
+| 62 | Belarus | $ 150,300,000,000 | 2012 est. |
+| 63 | Ecuador | $ 134,700,000,000 | 2012 est. |
+| 64 | Slovakia | $ 132,400,000,000 | 2012 est. |
+| 65 | New Zealand | $ 128,500,000,000 | 2012 est. |
+| 66 | Angola | $ 126,200,000,000 | 2012 est. |
+| 67 | Sri Lanka | $ 126,200,000,000 | 2012 est. |
+| 68 | Cuba | $ 114,100,000,000 | 2010 est. |
+| 69 | Syria | $ 107,600,000,000 | 2011 est. |
+| 70 | Tunisia | $ 104,400,000,000 | 2012 est. |
+| 71 | Uzbekistan | $ 103,900,000,000 | 2012 est. |
+| 72 | Bulgaria | $ 103,700,000,000 | 2012 est. |
+| 73 | Ethiopia | $ 103,100,000,000 | 2012 est. |
+| 74 | Dominican Republic | $ 98,740,000,000 | 2012 est. |
+| 75 | Azerbaijan | $ 98,160,000,000 | 2012 est. |
+| 76 | Oman | $ 90,660,000,000 | 2012 est. |
+| 77 | Burma | $ 89,230,000,000 | 2012 est. |
+| 78 | Libya | $ 87,910,000,000 | 2012 est. |
+| 79 | Ghana | $ 83,180,000,000 | 2012 est. |
+| 80 | Sudan | $ 80,430,000,000 | 2012 est. |
+| 81 | Croatia | $ 79,670,000,000 | 2012 est. |
+| 82 | Serbia | $ 79,650,000,000 | 2012 est. |
+| 83 | Guatemala | $ 78,420,000,000 | 2012 est. |
+| 84 | Kenya | $ 76,070,000,000 | 2012 est. |
+| 85 | Tanzania | $ 73,500,000,000 | 2012 est. |
+| 86 | Puerto Rico | $ 64,840,000,000 | 2010 est. |
+| 87 | Lithuania | $ 64,320,000,000 | 2012 est. |
+| 88 | Lebanon | $ 63,690,000,000 | 2012 est. |
+| 89 | Costa Rica | $ 58,600,000,000 | 2012 est. |
+| 90 | Slovenia | $ 57,930,000,000 | 2012 est. |
+| 91 | Yemen | $ 57,760,000,000 | 2012 est. |
+| 92 | Panama | $ 55,800,000,000 | 2012 est. |
+| 93 | Bolivia | $ 54,360,000,000 | 2012 est. |
+| 94 | Uruguay | $ 53,550,000,000 | 2012 est. |
+| 95 | Uganda | $ 50,590,000,000 | 2012 est. |
+| 96 | Cameroon | $ 50,320,000,000 | 2012 est. |
+| 97 | Turkmenistan | $ 47,550,000,000 | 2012 est. |
+| 98 | El Salvador | $ 45,980,000,000 | 2012 est. |
+| 99 | Macau | $ 42,900,000,000 | 2011 est. |
+| 100 | Luxembourg | $ 42,190,000,000 | 2012 est. |
+| 101 | Paraguay | $ 41,100,000,000 | 2012 est. |
+| 102 | Nepal | $ 40,490,000,000 | 2012 est. |
+| 103 | Korea, North | $ 40,000,000,000 | 2011 est. |
+| 104 | Cote d'Ivoire | $ 39,640,000,000 | 2012 est. |
+| 105 | Jordan | $ 38,670,000,000 | 2012 est. |
+| 106 | Honduras | $ 37,670,000,000 | 2012 est. |
+| 107 | Latvia | $ 37,040,000,000 | 2012 est. |
+| 108 | Cambodia | $ 36,590,000,000 | 2012 est. |
+| 109 | Afghanistan | $ 33,550,000,000 | 2012 est. |
+| 110 | Bahrain | $ 32,440,000,000 | 2012 est. |
+| 111 | Bosnia and Herzegovina | $ 32,080,000,000 | 2012 est. |
+| 112 | Botswana | $ 31,490,000,000 | 2012 est. |
+| 113 | Estonia | $ 28,440,000,000 | 2012 est. |
+| 114 | Equatorial Guinea | $ 28,030,000,000 | 2012 est. |
+| 115 | Congo, Democratic Republic of the | $ 27,530,000,000 | 2012 est. |
+| 116 | Trinidad and Tobago | $ 27,120,000,000 | 2012 est. |
+| 117 | Gabon | $ 26,710,000,000 | 2012 est. |
+| 118 | Senegal | $ 26,500,000,000 | 2012 est. |
+| 119 | Georgia | $ 26,400,000,000 | 2012 est. |
+| 120 | Mozambique | $ 26,220,000,000 | 2012 est. |
+| 121 | Albania | $ 25,860,000,000 | 2012 est. |
+| 122 | Jamaica | $ 25,180,000,000 | 2012 est. |
+| 123 | Burkina Faso | $ 24,030,000,000 | 2012 est. |
+| 124 | Zambia | $ 23,680,000,000 | 2012 est. |
+| 125 | Cyprus | $ 23,570,000,000 | 2012 est. |
+| 126 | Macedonia | $ 22,150,000,000 | 2012 est. |
+| 127 | Brunei | $ 21,940,000,000 | 2012 est. |
+| 128 | Madagascar | $ 21,370,000,000 | 2012 est. |
+| 129 | Chad | $ 21,340,000,000 | 2012 est. |
+| 130 | Mauritius | $ 20,260,000,000 | 2012 est. |
+| 131 | Nicaragua | $ 19,890,000,000 | 2012 est. |
+| 132 | Congo, Republic of the | $ 19,270,000,000 | 2012 est. |
+| 133 | Laos | $ 19,160,000,000 | 2012 est. |
+| 134 | Armenia | $ 18,950,000,000 | 2012 est. |
+| 135 | Papua New Guinea | $ 18,450,000,000 | 2012 est. |
+| 136 | Tajikistan | $ 17,610,000,000 | 2012 est. |
+| 137 | Mali | $ 17,350,000,000 | 2012 est. |
+| 138 | Namibia | $ 16,840,000,000 | 2012 est. |
+| 139 | Benin | $ 15,510,000,000 | 2012 est. |
+| 140 | Mongolia | $ 15,220,000,000 | 2012 est. |
+| 141 | Rwanda | $ 14,910,000,000 | 2012 est. |
+| 142 | Malawi | $ 14,580,000,000 | 2012 est. |
+| 143 | Kosovo | $ 13,560,000,000 | 2012 est. |
+| 144 | Niger | $ 13,530,000,000 | 2012 est. |
+| 145 | Kyrgyzstan | $ 13,470,000,000 | 2012 est. |
+| 146 | Haiti | $ 13,130,000,000 | 2012 est. |
+| 147 | Iceland | $ 12,950,000,000 | 2012 est. |
+| 148 | Moldova | $ 12,560,000,000 | 2012 est. |
+| 149 | Guinea | $ 12,250,000,000 | 2012 est. |
+| 150 | Malta | $ 11,140,000,000 | 2012 est. |
+| 151 | Bahamas, The | $ 11,040,000,000 | 2012 est. |
+| 152 | Timor-Leste | $ 10,630,000,000 | 2012 est. |
+| 153 | South Sudan | $ 9,664,000,000 | 2012 est. |
+| 154 | Sierra Leone | $ 8,376,000,000 | 2012 est. |
+| 155 | West Bank | $ 8,020,000,000 | 2011 est. |
+| 156 | Mauritania | $ 7,615,000,000 | 2012 est. |
+| 157 | Montenegro | $ 7,288,000,000 | 2012 est. |
+| 158 | Barbados | $ 7,091,000,000 | 2012 est. |
+| 159 | Zimbabwe | $ 6,909,000,000 | 2012 est. |
+| 160 | Togo | $ 6,899,000,000 | 2012 est. |
+| 161 | Suriname | $ 6,685,000,000 | 2012 est. |
+| 162 | Guyana | $ 6,164,000,000 | 2012 est. |
+| 163 | Swaziland | $ 6,148,000,000 | 2012 est. |
+| 164 | Somalia | $ 5,896,000,000 | 2010 est. |
+| 165 | Burundi | $ 5,489,000,000 | 2012 est. |
+| 166 | Monaco | $ 5,470,000,000 | 2010 est. |
+| 167 | Jersey | $ 5,100,000,000 | 2005 est. |
+| 168 | Bhutan | $ 4,813,000,000 | 2012 est. |
+| 169 | French Polynesia | $ 4,718,000,000 | 2004 est. |
+| 170 | Bermuda | $ 4,500,000,000 | 2004 est. |
+| 171 | Eritrea | $ 4,412,000,000 | 2012 est. |
+| 172 | Fiji | $ 4,307,000,000 | 2012 est. |
+| 173 | Lesotho | $ 3,945,000,000 | 2012 est. |
+| 174 | Central African Republic | $ 3,847,000,000 | 2012 est. |
+| 175 | Gambia, The | $ 3,495,000,000 | 2012 est. |
+| 176 | Liechtenstein | $ 3,200,000,000 | 2009 |
+| 177 | New Caledonia | $ 3,158,000,000 | 2003 est. |
+| 178 | Andorra | $ 3,119,000,000 | 2012 est. |
+| 179 | Maldives | $ 2,945,000,000 | 2012 est. |
+| 180 | Belize | $ 2,896,000,000 | 2012 est. |
+| 181 | Curacao | $ 2,838,000,000 | 2008 est. |
+| 182 | Guernsey | $ 2,742,000,000 | 2005 |
+| 183 | Isle of Man | $ 2,719,000,000 | 2005 est. |
+| 184 | Liberia | $ 2,693,000,000 | 2012 est. |
+| 185 | Guam | $ 2,500,000,000 | 2005 est. |
+| 186 | Seychelles | $ 2,410,000,000 | 2012 est. |
+| 187 | Djibouti | $ 2,377,000,000 | 2012 est. |
+| 188 | Aruba | $ 2,258,000,000 | 2005 est. |
+| 189 | Cayman Islands | $ 2,250,000,000 | 2008 est. |
+| 190 | Saint Lucia | $ 2,234,000,000 | 2012 est. |
+| 191 | Cape Verde | $ 2,188,000,000 | 2012 est. |
+| 192 | Greenland | $ 2,133,000,000 | 2011 est. |
+| 193 | Solomon Islands | $ 1,922,000,000 | 2012 est. |
+| 194 | Guinea-Bissau | $ 1,902,000,000 | 2012 est. |
+| 195 | Virgin Islands | $ 1,577,000,000 | 2004 est. |
+| 196 | Antigua and Barbuda | $ 1,535,000,000 | 2012 est. |
+| 197 | Faroe Islands | $ 1,471,000,000 | 2010 est. |
+| 198 | Grenada | $ 1,471,000,000 | 2012 est. |
+| 199 | San Marino | $ 1,357,000,000 | 2012 est. |
+| 200 | Saint Vincent and the Grenadines | $ 1,301,000,000 | 2012 est. |
+| 201 | Gibraltar | $ 1,275,000,000 | 2008 est. |
+| 202 | Vanuatu | $ 1,237,000,000 | 2012 est. |
+| 203 | Samoa | $ 1,128,000,000 | 2012 est. |
+| 204 | Dominica | $ 1,035,000,000 | 2012 est. |
+| 205 | Western Sahara | $ 906,500,000 | 2007 est. |
+| 206 | Northern Mariana Islands | $ 900,000,000 | 2000 est. |
+| 207 | Saint Kitts and Nevis | $ 890,000,000 | 2012 est. |
+| 208 | Comoros | $ 872,000,000 | 2012 est. |
+| 209 | British Virgin Islands | $ 853,400,000 | 2004 est. |
+| 210 | Sint Maarten | $ 794,700,000 | 2008 est. |
+| 211 | Tonga | $ 786,000,000 | 2012 est. |
+| 212 | Kiribati | $ 624,000,000 | 2012 est. |
+| 213 | American Samoa | $ 575,300,000 | 2007 est. |
+| 214 | Sao Tome and Principe | $ 403,000,000 | 2012 est. |
+| 215 | Micronesia, Federated States of | $ 238,100,000 | 2008 est. |
+| 216 | Turks and Caicos Islands | $ 216,000,000 | 2002 est. |
+| 217 | Cook Islands | $ 183,200,000 | 2005 est. |
+| 218 | Anguilla | $ 175,400,000 | 2009 est. |
+| 219 | Falkland Islands (Islas Malvinas) | $ 164,500,000 | 2007 est. |
+| 220 | Palau | $ 164,000,000 | 2008 est. |
+| 221 | Marshall Islands | $ 133,500,000 | 2008 est. |
+| 222 | Nauru | $ 60,000,000 | 2005 est. |
+| 223 | Wallis and Futuna | $ 60,000,000 | 2004 est. |
+| 224 | Saint Pierre and Miquelon | $ 48,300,000 | 2003 est. |
+| 225 | Montserrat | $ 43,780,000 | 2006 est. |
+| 226 | Tuvalu | $ 37,000,000 | 2012 est. |
+| 227 | Saint Helena, Ascension, and Tristan da Cunha | $ 18,000,000 | 1998 est. |
+| 228 | Niue | $ 10,010,000 | 2003 est. |
+| 229 | Tokelau | $ 1,500,000 | 1993 est. |

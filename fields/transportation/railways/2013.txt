@@ -1,0 +1,142 @@
+CIA - The World Factbook --  Railways   
+
+This entry states the total route length of the railway network and of its component parts by gauge, which is the measure of the distance between the inner sides of the load-bearing rails. The four typical types of gauges are: broad, standard, narrow, and dual. Other gauges are listed under note. Some 60% of the world's railways use the standard gauge of 1.4 m (4.7 ft). Gauges vary by country and sometimes within countries. The choice of gauge during initial construction was mainly in response to local conditions and the intent of the builder. Narrow-gauge railways were cheaper to build and could negotiate sharper curves, broad-gauge railways gave greater stability and permitted higher speeds. Standard-gauge railways were a compromise between narrow and broad gauges.
+
+| Rank | country | (km) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | United States | 224,792 | 2007 |
+| 2 | Russia | 87,157 | 2006 |
+| 3 | China | 86,000 | 2008 |
+| 4 | India | 63,974 | 2009 |
+| 5 | Canada | 46,552 | 2008 |
+| 6 | Germany | 41,981 | 2008 |
+| 7 | Australia | 38,445 | 2008 |
+| 8 | Argentina | 36,966 | 2008 |
+| 9 | France | 29,640 | 2008 |
+| 10 | Brazil | 28,538 | 2008 |
+| 11 | Japan | 27,182 | 2009 |
+| 12 | Ukraine | 21,619 | 2012 |
+| 13 | Italy | 20,255 | 2008 |
+| 14 | South Africa | 20,192 | 2008 |
+| 15 | Poland | 19,428 | 2007 |
+| 16 | Mexico | 17,166 | 2008 |
+| 17 | United Kingdom | 16,454 | 2008 |
+| 18 | Kazakhstan | 15,333 | 2012 |
+| 19 | Spain | 15,293 | 2008 |
+| 20 | Turkey | 12,008 | 2012 |
+| 21 | Sweden | 11,633 | 2008 |
+| 22 | Romania | 10,777 | 2012 |
+| 23 | Czech Republic | 9,469 | 2008 |
+| 24 | Iran | 8,442 | 2008 |
+| 25 | Cuba | 8,203 | 2011 |
+| 26 | Hungary | 8,057 | 2009 |
+| 27 | Pakistan | 7,791 | 2007 |
+| 28 | Chile | 7,082 | 2008 |
+| 29 | Austria | 6,399 | 2008 |
+| 30 | Sudan | 5,978 | 2008 |
+| 31 | Finland | 5,944 | 2013 |
+| 32 | Belarus | 5,537 | 2008 |
+| 33 | Korea, North | 5,242 | 2009 |
+| 34 | Egypt | 5,083 | 2009 |
+| 35 | Indonesia | 5,042 | 2008 |
+| 36 | Burma | 5,031 | 2008 |
+| 37 | Switzerland | 4,876 | 2008 |
+| 38 | Mozambique | 4,787 | 2008 |
+| 39 | Norway | 4,237 | 2012 |
+| 40 | Bulgaria | 4,152 | 2011 |
+| 41 | New Zealand | 4,128 | 2008 |
+| 42 | Thailand | 4,071 | 2008 |
+| 43 | Congo, Democratic Republic of the | 4,007 | 2008 |
+| 44 | Algeria | 3,973 | 2008 |
+| 45 | Serbia | 3,809 | 2010 |
+| 46 | Tanzania | 3,689 | 2008 |
+| 47 | Bolivia | 3,652 | 2010 |
+| 48 | Uzbekistan | 3,645 | 2008 |
+| 49 | Slovakia | 3,622 | 2008 |
+| 50 | Nigeria | 3,505 | 2008 |
+| 51 | Zimbabwe | 3,427 | 2008 |
+| 52 | Korea, South | 3,381 | 2008 |
+| 53 | Portugal | 3,319 | 2008 |
+| 54 | Ireland | 3,237 | 2008 |
+| 55 | Belgium | 3,233 | 2008 |
+| 56 | Netherlands | 3,013 | 2012 |
+| 57 | Turkmenistan | 2,980 | 2008 |
+| 58 | Azerbaijan | 2,918 | 2009 |
+| 59 | Angola | 2,764 | 2008 |
+| 60 | Croatia | 2,722 | 2011 |
+| 61 | Denmark | 2,667 | 2008 |
+| 62 | Vietnam | 2,632 | 2008 |
+| 63 | Namibia | 2,626 | 2008 |
+| 64 | Bangladesh | 2,622 | 2008 |
+| 65 | Greece | 2,548 | 2008 |
+| 66 | Iraq | 2,370 | 2012 |
+| 67 | Latvia | 2,239 | 2008 |
+| 68 | Tunisia | 2,165 | 2011 |
+| 69 | Zambia | 2,157 | 2008 |
+| 70 | Morocco | 2,067 | 2008 |
+| 71 | Kenya | 2,066 | 2008 |
+| 72 | Syria | 2,052 | 2008 |
+| 73 | Mongolia | 1,908 | 2010 |
+| 74 | Peru | 1,907 | 2012 |
+| 75 | Malaysia | 1,849 | 2010 |
+| 76 | Lithuania | 1,767 | 2011 |
+| 77 | Uruguay | 1,641 | 2010 |
+| 78 | Georgia | 1,612 | 2008 |
+| 79 | Taiwan | 1,580 | 2009 |
+| 80 | Sri Lanka | 1,449 | 2007 |
+| 81 | Saudi Arabia | 1,378 | 2008 |
+| 82 | Cameroon | 1,245 | 2008 |
+| 83 | Uganda | 1,244 | 2008 |
+| 84 | Slovenia | 1,228 | 2007 |
+| 85 | Estonia | 1,196 | 2011 |
+| 86 | Moldova | 1,190 | 2008 |
+| 87 | Guinea | 1,185 | 2008 |
+| 88 | Philippines | 995 | 2010 |
+| 89 | Israel | 975 | 2008 |
+| 90 | Ecuador | 965 | 2008 |
+| 91 | Ghana | 947 | 2008 |
+| 92 | Senegal | 906 | 2008 |
+| 93 | Botswana | 888 | 2008 |
+| 94 | Congo, Republic of the | 886 | 2008 |
+| 95 | Colombia | 874 | 2008 |
+| 96 | Armenia | 869 | 2009 |
+| 97 | Madagascar | 854 | 2008 |
+| 98 | Venezuela | 806 | 2008 |
+| 99 | Malawi | 797 | 2008 |
+| 100 | Macedonia | 699 | 2012 |
+| 101 | Cambodia | 690 | 2010 |
+| 102 | Ethiopia | 681 | 2008 |
+| 103 | Tajikistan | 680 | 2008 |
+| 104 | Cote d'Ivoire | 660 | 2008 |
+| 105 | Gabon | 649 | 2008 |
+| 106 | Burkina Faso | 622 | 2008 |
+| 107 | Bosnia and Herzegovina | 601 | 2009 |
+| 108 | Fiji | 597 | 2008 |
+| 109 | Mali | 593 | 2008 |
+| 110 | Togo | 568 | 2008 |
+| 111 | Jordan | 507 | 2008 |
+| 112 | Kyrgyzstan | 470 | 2008 |
+| 113 | Benin | 438 | 2008 |
+| 114 | Kosovo | 430 | 2007 |
+| 115 | Liberia | 429 | 2008 |
+| 116 | Lebanon | 401 | 2008 |
+| 117 | Albania | 339 | 2009 |
+| 118 | Guatemala | 332 | 2008 |
+| 119 | Eritrea | 306 | 2008 |
+| 120 | Swaziland | 301 | 2008 |
+| 121 | El Salvador | 283 | 2008 |
+| 122 | Costa Rica | 278 | 2008 |
+| 123 | Luxembourg | 275 | 2008 |
+| 124 | Montenegro | 250 | 2010 |
+| 125 | Dominican Republic | 142 | 2008 |
+| 126 | Djibouti | 100 | 2008 |
+| 127 | Panama | 76 | 2008 |
+| 128 | Isle of Man | 63 | 2008 |
+| 129 | Nepal | 59 | 2008 |
+| 130 | Saint Kitts and Nevis | 50 | 2008 |
+| 131 | Honduras | 44 | 2012 |
+| 132 | Paraguay | 36 | 2008 |
+| 133 | Christmas Island | 18 | 2010 |
+| 134 | Liechtenstein | 9 | 2008 |
+
+

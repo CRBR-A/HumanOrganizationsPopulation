@@ -1,0 +1,148 @@
+CIA - The World Factbook --  Refugees and internally displaced persons   
+
+This entry includes those persons residing in a country as refugees or internally displaced persons (IDPs). The definition of a refugee according to a United Nations Convention is "a person who is outside his/her country of nationality or habitual residence; has a well-founded fear of persecution because of his/her race, religion, nationality, membership in a particular social group or political opinion; and is unable or unwilling to avail himself/herself of the protection of that country, or to return there, for fear of persecution." The UN established the Office of the UN High Commissioner for Refugees (UNHCR) in 1950 to handle refugee matters worldwide. The UN Relief and Works Agency for Palestine Refugees in the Near East (UNRWA) has a different operational definition for a Palestinian refugee: "a person whose normal place of residence was Palestine during the period 1 June 1946 to 15 May 1948 and who lost both home and means of livelihood as a result of the 1948 conflict." However, UNHCR also assists some 400,000 Palestinian refugees not covered under the UNRWA definition. The term "internally displaced person" is not specifically covered in the UN Convention; it is used to describe people who have fled their homes for reasons similar to refugees, but who remain within their own national territory and are subject to the laws of that state.
+
+| Rank | country | Refugees and internally displaced persons | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Iraq | 2,400,000.00 | 2007 |
+| 2 | Jordan | 1,835,704.00 | 2007 |
+| 3 | Congo, Democratic Republic of the | 1,400,000.00 | 2007 |
+| 4 | Uganda | 1,270,000.00 | 2007 |
+| 5 | Somalia | 1,100,000.00 | 2007 |
+| 6 | Pakistan | 1,043,984.00 | 2007 |
+| 7 | Gaza Strip | 1,017,000.00 | 2007 |
+| 8 | Iran | 914,268.00 | 2007 |
+| 9 | West Bank | 722,000.00 | 2007 |
+| 10 | Cote d'Ivoire | 709,000.00 | 2007 |
+| 11 | Zimbabwe | 569,685.00 | 2007 |
+| 12 | Syria | 522,100.00 | 2007 |
+| 13 | Burma | 503,000.00 | 2007 |
+| 14 | Jordan | 500,000.00 | 2007 |
+| 15 | Sri Lanka | 460,000.00 | 2007 |
+| 16 | Lebanon | 405,425.00 | 2007 |
+| 17 | Tanzania | 352,640.00 | 2007 |
+| 18 | Syria | 305,000.00 | 2007 |
+| 19 | China | 300,897.00 | 2007 |
+| 20 | Philippines | 300,000.00 | 2007 |
+| 21 | Saudi Arabia | 240,015.00 | 2007 |
+| 22 | Chad | 234,000.00 | 2007 |
+| 23 | Uganda | 215,700.00 | 2007 |
+| 24 | Cyprus | 210,000.00 | 2007 |
+| 25 | Serbia | 206,000.00 | 2007 |
+| 26 | Lebanon | 200,000.00 | 2007 |
+| 27 | Ethiopia | 200,000.00 | 2007 |
+| 28 | Central African Republic | 197,000.00 | 2007 |
+| 29 | Chad | 178,918.00 | 2007 |
+| 30 | Kenya | 173,702.00 | 2007 |
+| 31 | Sudan | 162,000.00 | 2007 |
+| 32 | Jordan | 160,000.00 | 2007 |
+| 33 | Congo, Democratic Republic of the | 132,295.00 | 2007 |
+| 34 | Thailand | 132,241.00 | 2007 |
+| 35 | Bosnia and Herzegovina | 131,600.00 | 2007 |
+| 36 | Tanzania | 127,973.00 | 2007 |
+| 37 | Armenia | 113,295.00 | 2007 |
+| 38 | Nepal | 107,803.00 | 2007 |
+| 39 | Burundi | 100,000.00 | 2007 |
+| 40 | Timor-Leste | 100,000.00 | 2007 |
+| 41 | Yemen | 91,587.00 | 2007 |
+| 42 | Algeria | 90,000.00 | 2007 |
+| 43 | China | 90,000.00 | 2007 |
+| 44 | South Sudan | 80,000.00 | 2010 |
+| 45 | India | 77,200.00 | 2007 |
+| 46 | Kenya | 73,004.00 | 2007 |
+| 47 | Serbia | 71,111.00 | 2007 |
+| 48 | Egypt | 70,198.00 | 2007 |
+| 49 | India | 69,609.00 | 2007 |
+| 50 | Ethiopia | 66,980.00 | 2007 |
+| 51 | Bangladesh | 65,000.00 | 2007 |
+| 52 | Angola | 61,700.00 | 2007 |
+| 53 | Zambia | 60,874.00 | 2007 |
+| 54 | Chad | 54,200.00 | 2007 |
+| 55 | Iran | 54,024.00 | 2007 |
+| 56 | Congo, Republic of the | 48,000.00 | 2007 |
+| 57 | Congo, Republic of the | 46,341.00 | 2007 |
+| 58 | Rwanda | 46,272.00 | 2007 |
+| 59 | Sudan | 43,000.00 | 2007 |
+| 60 | Zambia | 42,565.00 | 2007 |
+| 61 | Uzbekistan | 39,202.00 | 2007 |
+| 62 | Congo, Democratic Republic of the | 37,313.00 | 2007 |
+| 63 | Ghana | 35,653.00 | 2007 |
+| 64 | Pakistan | 34,000.00 | 2007 |
+| 65 | Eritrea | 32,000.00 | 2007 |
+| 66 | Uganda | 28,880.00 | 2007 |
+| 67 | Serbia | 27,414.00 | 2007 |
+| 68 | Sierra Leone | 27,311.00 | 2007 |
+| 69 | Bangladesh | 26,268.00 | 2007 |
+| 70 | Cote d'Ivoire | 25,615.00 | 2007 |
+| 71 | Uganda | 24,900.00 | 2007 |
+| 72 | Cameroon | 24,000.00 | 2007 |
+| 73 | Senegal | 22,400.00 | 2007 |
+| 74 | Guinea | 21,856.00 | 2007 |
+| 75 | Malaysia | 21,544.00 | 2007 |
+| 76 | South Sudan | 21,000.00 | 2010 |
+| 77 | Kosovo | 21,000.00 | 2007 |
+| 78 | Nepal | 20,153.00 | 2007 |
+| 79 | Senegal | 19,630.00 | 2007 |
+| 80 | Guinea | 19,000.00 | 2007 |
+| 81 | Congo, Democratic Republic of the | 17,777.00 | 2007 |
+| 82 | Lebanon | 17,000.00 | 2007 |
+| 83 | Iraq | 16,832.00 | 2007 |
+| 84 | Ethiopia | 16,576.00 | 2007 |
+| 85 | Kenya | 16,428.00 | 2007 |
+| 86 | Montenegro | 16,192.00 | 2007 |
+| 87 | Malaysia | 15,174.00 | 2007 |
+| 88 | Congo, Democratic Republic of the | 13,904.00 | 2007 |
+| 89 | Ethiopia | 13,078.00 | 2007 |
+| 90 | Liberia | 13,000.00 | 2007 |
+| 91 | Angola | 12,615.00 | 2007 |
+| 92 | Liberia | 12,600.00 | 2007 |
+| 93 | Egypt | 12,157.00 | 2007 |
+| 94 | Iraq | 11,773.00 | 2007 |
+| 95 | Ecuador | 11,526.00 | 2007 |
+| 96 | Turkmenistan | 11,173.00 | 2007 |
+| 97 | Sudan | 11,009.00 | 2007 |
+| 98 | South Africa | 10,772.00 | 2007 |
+| 99 | United States | 10,586.00 | 2006 |
+| 100 | Papua New Guinea | 10,177.00 | 2007 |
+| 101 | Burundi | 9,849.00 | 2007 |
+| 102 | India | 9,472.00 | 2007 |
+| 103 | Benin | 9,444.00 | 2007 |
+| 104 | Djibouti | 8,642.00 | 2007 |
+| 105 | United States | 8,549.00 | 2006 |
+| 106 | Ghana | 8,517.00 | 2007 |
+| 107 | Armenia | 8,400.00 | 2007 |
+| 108 | Libya | 8,000.00 | 2007 |
+| 109 | Central African Republic | 7,900.00 | 2007 |
+| 110 | South Africa | 7,818.00 | 2007 |
+| 111 | Guinea-Bissau | 7,454.00 | 2007 |
+| 112 | Bosnia and Herzegovina | 7,269.00 | 2007 |
+| 113 | Gabon | 7,178.00 | 2007 |
+| 114 | Montenegro | 7,000.00 | 2007 |
+| 115 | United States | 6,666.00 | 2006 |
+| 116 | Congo, Republic of the | 6,564.00 | 2007 |
+| 117 | United States | 6,479.00 | 2006 |
+| 118 | Mali | 6,300.00 | 2007 |
+| 119 | Congo, Democratic Republic of the | 6,181.00 | 2007 |
+| 120 | Gambia, The | 5,955.00 | 2007 |
+| 121 | Nigeria | 5,778.00 | 2007 |
+| 122 | South Africa | 5,759.00 | 2007 |
+| 123 | Solomon Islands | 5,400.00 | 2007 |
+| 124 | Guinea | 5,259.00 | 2007 |
+| 125 | Congo, Democratic Republic of the | 5,243.00 | 2007 |
+| 126 | Togo | 5,000.00 | 2007 |
+| 127 | Namibia | 4,700.00 | 2007 |
+| 128 | Rwanda | 4,400.00 | 2007 |
+| 129 | Zambia | 4,100.00 | 2007 |
+| 130 | Guinea | 3,900.00 | 2007 |
+| 131 | Kazakhstan | 3,700.00 | 2007 |
+| 132 | Central African Republic | 3,700.00 | 2007 |
+| 133 | Uzbekistan | 3,400.00 | 2007 |
+| 134 | United States | 3,100.00 | 2006 |
+| 135 | Cameroon | 3,000.00 | 2007 |
+| 136 | Zimbabwe | 2,500.00 | 2007 |
+| 137 | Azerbaijan | 2,400.00 | 2007 |
+| 138 | United States | 2,136.00 | 2006 |
+| 139 | Togo | 1,500.00 | 2007 |
+| 140 | Georgia | 1,100.00 | 2007 |
+| 141 | Uzbekistan | 1,060.00 | 2007 |
+| 142 | Kazakhstan | 508.00 | 2007 |

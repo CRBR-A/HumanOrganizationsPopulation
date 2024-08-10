@@ -1,0 +1,27 @@
+Telephone Code: 254
+Local Emergency Phone: 999
+Climate: Varies from tropical along coast to arid in interior
+Currency (Code): Kenyan shillings (KES)
+Electricity: 240 V
+Voltage: 50 Hz
+Plug types(s): G
+Major Languages: English, Kiswahili, numerous indigenous languages
+Major Religions: Christian 85.5%, Muslim 10.9%
+Time Difference: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Left
+Tourist Destinations: National Parks of Nairobi, Tsavo, Lake Nakuru; National Reserves of Maasai Mara, Amboseli, Samburu, Shaba, Buffalo Springs; Thimlich Ohinga Archaeological Site, beaches near Malindi and Diani
+Major Sports: Soccer, track and field, basketball, volleyball
+Cultural Practices: Giving gifts with the left hand is considered taboo; use your right hand or both hands.
+Tipping Guidelines: A tip of 10% is appropriate for the wait staff in restaurants. At hotels, porters may be tipped anything from 50-100 shillings, and housekeepers from 200-500 shillings per week.
+Souvenirs: Sisal or leather baskets; carved teak, ebony, or mninga wood statues, gourds, and tableware; soapstone items; wax paintings; tribal sarongs, blankets, jewelry, spears, and drums; coffee
+Traditional Cuisine: Ugali nyama choma na kachumbari --- maize meal, grilled meat, and an onion-and-tomato salsa
+
+---
+country: Kenya
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Kenya/travel-facts>
+license: public domain (U.S.)
+...

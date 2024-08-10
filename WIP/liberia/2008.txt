@@ -1,0 +1,241 @@
+CIA - The World Factbook -- Liberia
+
+| Geography | Liberia |
+| --- | --- |
+| Location: | Western Africa, bordering the North Atlantic Ocean, between Cote d'Ivoire and Sierra Leone |
+| Geographic coordinates: | 6 30 N, 9 30 W |
+| Map references: | Africa |
+| Area: | total: 111,370 sq km |
+| | land: 96,320 sq km |
+| | water: 15,050 sq km |
+| Area - comparative: | slightly larger than Tennessee |
+| Land boundaries: | total: 1,585 km |
+| | border countries: Guinea 563 km, Cote d'Ivoire 716 km, Sierra Leone 306 km |
+| Coastline: | 579 km |
+| Maritime claims: | territorial sea: 200 nm |
+| Climate: | tropical; hot, humid; dry winters with hot days and cool to cold nights; wet, cloudy summers with frequent heavy showers |
+| Terrain: | mostly flat to rolling coastal plains rising to rolling plateau and low mountains in northeast |
+| Elevation extremes: | lowest point: Atlantic Ocean 0 m |
+| | highest point: Mount Wuteve 1,380 m |
+| Natural resources: | iron ore, timber, diamonds, gold, hydropower |
+| Land use: | arable land: 3.43% |
+| | permanent crops: 1.98% |
+| | other: 94.59% (2005) |
+| Irrigated land: | 30 sq km (2003) |
+| Total renewable water resources: | 232 cu km (1987) |
+| Freshwater withdrawal (domestic/industrial/agricultural): | total: 0.11 cu km/yr (27%/18%/55%) |
+| | per capita: 34 cu m/yr (2000) |
+| Natural hazards: | dust-laden harmattan winds blow from the Sahara (December to March) |
+| Environment - current issues: | tropical rain forest deforestation; soil erosion; loss of biodiversity; pollution of coastal waters from oil residue and raw sewage |
+| Environment - international agreements: | party to: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands |
+| | signed, but not ratified: Environmental Modification, Law of the Sea, Marine Life Conservation |
+| Geography - note: | facing the Atlantic Ocean, the coastline is characterized by lagoons, mangrove swamps, and river-deposited sandbars; the inland grassy plateau supports limited agriculture |
+
+| People | Liberia |
+| --- | --- |
+| Population: | 3,334,587 (July 2008 est.) |
+| Age structure: | 0-14 years: 44% (male 734,375/female 731,287) |
+| | 15-64 years: 53.3% (male 879,848/female 896,319) |
+| | 65 years and over: 2.8% (male 45,175/female 47,583) (2008 est.) |
+| Median age: | total: 18 years |
+| | male: 17.8 years |
+| | female: 18.2 years (2008 est.) |
+| Population growth rate: | 3.661% (2008 est.) |
+| Birth rate: | 42.92 births/1,000 population (2008 est.) |
+| Death rate: | 21.45 deaths/1,000 population (2008 est.) |
+| Net migration rate: | 15.14 migrant(s)/1,000 population (2008 est.) |
+| Sex ratio: | at birth: 1.03 male(s)/female |
+| | under 15 years: 1 male(s)/female |
+| | 15-64 years: 0.98 male(s)/female |
+| | 65 years and over: 0.95 male(s)/female |
+| | total population: 0.99 male(s)/female (2008 est.) |
+| Infant mortality rate: | total: 143.89 deaths/1,000 live births |
+| | male: 159.5 deaths/1,000 live births |
+| | female: 127.81 deaths/1,000 live births (2008 est.) |
+| Life expectancy at birth: | total population: 41.13 years |
+| | male: 39.85 years |
+| | female: 42.46 years (2008 est.) |
+| Total fertility rate: | 5.87 children born/woman (2008 est.) |
+| HIV/AIDS - adult prevalence rate: | 5.9% (2003 est.) |
+| HIV/AIDS - people living with HIV/AIDS: | 100,000 (2003 est.) |
+| HIV/AIDS - deaths: | 7,200 (2003 est.) |
+| Major infectious diseases: | degree of risk: very high |
+| | food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | vectorborne diseases: malaria and yellow fever |
+| | water contact disease: schistosomiasis |
+| | aerosolized dust or soil contact disease: Lassa fever |
+| | animal contact disease: rabies (2008) |
+| Nationality: | noun: Liberian(s) |
+| | adjective: Liberian |
+| Ethnic groups: | indigenous African 95% (including Kpelle, Bassa, Gio, Kru, Grebo, Mano, Krahn, Gola, Gbandi, Loma, Kissi, Vai, Dei, Bella, Mandingo, and Mende), Americo-Liberians 2.5% (descendants of immigrants from the US who had been slaves), Congo People 2.5% (descendants of immigrants from the Caribbean who had been slaves) |
+| Religions: | Christian 40%, Muslim 20%, indigenous beliefs 40% |
+| Languages: | English 20% (official), some 20 ethnic group languages, of which a few can be written and are used in correspondence |
+| Literacy: | definition: age 15 and over can read and write |
+| | total population: 57.5% |
+| | male: 73.3% |
+| | female: 41.6% (2003 est.) |
+| School life expectancy (primary to tertiary education): | total: 10 years |
+| | male: 11 years |
+| | female: 8 years (2000) |
+| Education expenditures: | NA |
+
+| Government | Liberia |
+| --- | --- |
+| Country name: | conventional long form: Republic of Liberia |
+| | conventional short form: Liberia |
+| Government type: | republic |
+| Capital: | name: Monrovia |
+| | geographic coordinates: 6 18 N, 10 48 W |
+| | time difference: UTC 0 (5 hours ahead of Washington, DC during Standard Time) |
+| Administrative divisions: | 15 counties; Bomi, Bong, Gbarpolu, Grand Bassa, Grand Cape Mount, Grand Gedeh, Grand Kru, Lofa, Margibi, Maryland, Montserrado, Nimba, River Cess, River Gee, Sinoe |
+| Independence: | 26 July 1847 |
+| National holiday: | Independence Day, 26 July (1847) |
+| Constitution: | 6 January 1986 |
+| Legal system: | dual system of statutory law based on Anglo-American common law for the modern sector and customary law based on unwritten tribal practices for indigenous sector; accepts compulsory ICJ jurisdiction with reservations |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Ellen JOHNSON SIRLEAF (since 16 January 2006); note - the President is both the chief of state and head of government |
+| | head of government: President Ellen JOHNSON SIRLEAF (since 16 January 2006) |
+| | cabinet: Cabinet appointed by the president and confirmed by the Senate |
+| | elections: president elected by popular vote for a six-year term (eligible for a second term); election last held 8 November 2005 (next to be held in 2011) |
+| | election results: Ellen JOHNSON SIRLEAF elected president; percent of vote, second round - Ellen JOHNSON SIRLEAF 59.6%, George WEAH 40.4% |
+| Legislative branch: | bicameral National Assembly consists of the Senate (30 seats; note - number of seats changed in 11 October 2005 elections; members elected by popular vote to serve nine-year terms) and the House of Representatives (64 seats; members elected by popular vote to serve six-year terms) |
+| | elections: Senate - last held 11 October 2005 (next to be held in 2011); House of Representatives - last held 11 October 2005 (next to be held in 2011) |
+| | election results: Senate - percent of vote by party - NA; seats by party - COTOL 7, NPP 4, CDC 3, LP 3, UP 3, APD 3, other 7; House of Representatives - percent of vote by party - NA; seats by party - CDC 15, LP 9, COTOL 8, UP 8, APD 5, NPP 4, other 15 |
+| | note: junior senators - those who received the second most votes in each county in the 11 October 2005 election - will only serve a six-year first term because the Liberian constitution mandates staggered Senate elections to ensure continuity of government; all senators will be eligible for nine-year terms thereafter |
+| Judicial branch: | Supreme Court |
+| Political parties and leaders: | Alliance for Peace and Democracy or APD [Togba-na TIPOTEH]; Coalition for the Transformation of Liberia or COTOL [H. Varney SHERMAN]; Congress for Democratic Change or CDC [George WEAH]; Liberty Party or LP [Charles BRUMSKINE]; National Patriotic Party or NPP [Roland MASSAQUOI]; Unity Party or UP [Ellen JOHNSON SIRLEAF] |
+| Political pressure groups and leaders: | other: demobilized former military officers |
+| International organization participation: | ACP, AfDB, AU, ECOWAS, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ITU, ITUC, MIGA, NAM, OPCW, UN, UNCTAD, UNESCO, UNIDO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO (observer) |
+| Diplomatic representation in the US: | chief of mission: Ambassador Milton Nathaniel BARNES |
+| | chancery: 5201 16th Street NW, Washington, DC 20011 |
+| | telephone: [1] (202) 723-0437 |
+| | FAX: [1] (202) 723-0436 |
+| | consulate(s) general: New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Linda THOMAS-GREENFIELD |
+| | embassy: 111 United Nations Drive, P. O. Box 98, Mamba Point, 1000 Monrovia, 10 |
+| | mailing address: use embassy street address |
+| | telephone: [231] 7-705-4826 |
+| | FAX: [231] 7-701-0370 |
+| Flag description: | 11 equal horizontal stripes of red (top and bottom) alternating with white; there is a white five-pointed star on a blue square in the upper hoist-side corner; the design was based on the US flag |
+
+| Economy | Liberia |
+| --- | --- |
+| Economy - overview: | Civil war and government mismanagement destroyed much of Liberia's economy, especially the infrastructure in and around the capital, Monrovia. Many businesses fled the country, taking capital and expertise with them, but with the conclusion of fighting and the installation of a democratically-elected government in 2006, some have returned. Richly endowed with water, mineral resources, forests, and a climate favorable to agriculture, Liberia had been a producer and exporter of basic products - primarily raw timber and rubber. Local manufacturing, mainly foreign owned, had been small in scope. President JOHNSON SIRLEAF, a Harvard-trained banker and administrator, has taken steps to reduce corruption, build support from international donors, and encourage private investment. Embargos on timber and diamond exports have been lifted, opening new sources of revenue for the government. The reconstruction of infrastructure and the raising of incomes in this ravaged economy will largely depend on generous financial and technical assistance from donor countries and foreign investment in key sectors, such as infrastructure and power generation. |
+| GDP (purchasing power parity): | $1.525 billion (2007 est.) |
+| GDP (official exchange rate): | $730 million (2007 est.) |
+| GDP - real growth rate: | 9.4% (2007 est.) |
+| GDP - per capita (PPP): | $500 (2007 est.) |
+| GDP - composition by sector: | agriculture: 76.9% |
+| | industry: 5.4% |
+| | services: 17.7% (2002 est.) |
+| Labor force - by occupation: | agriculture: 70% |
+| | industry: 8% |
+| | services: 22% (2000 est.) |
+| Unemployment rate: | 85% (2003 est.) |
+| Population below poverty line: | 80% (2000 est.) |
+| Household income or consumption by percentage share: | lowest 10%: NA% |
+| | highest 10%: NA% |
+| Budget: | revenues: NA |
+| | expenditures: NA |
+| Fiscal year: | calendar year |
+| Inflation rate (consumer prices): | 11.2% (2007 est.) |
+| Commercial bank prime lending rate: | 15.05% (31 December 2007) |
+| Stock of money: | $145.6 million (31 December 2007) |
+| Stock of quasi money: | $49.89 million (31 December 2007) |
+| Stock of domestic credit: | $1.157 billion (31 December 2007) |
+| Agriculture - products: | rubber, coffee, cocoa, rice, cassava (tapioca), palm oil, sugarcane, bananas; sheep, goats; timber |
+| Industries: | rubber processing, palm oil processing, timber, diamonds |
+| Industrial production growth rate: | NA% |
+| Electricity - production: | 320 million kWh (2006 est.) |
+| Electricity - consumption: | 297.6 million kWh (2006 est.) |
+| Electricity - exports: | 0 kWh (2007 est.) |
+| Electricity - imports: | 0 kWh (2007 est.) |
+| Electricity - production by source: | fossil fuel: 100% |
+| | hydro: 0% |
+| | nuclear: 0% |
+| | other: 0% (2001) |
+| Oil - production: | 0 bbl/day (2007 est.) |
+| Oil - consumption: | 3,687 bbl/day (2006 est.) |
+| Oil - exports: | 23.37 bbl/day (2005) |
+| Oil - imports: | 3,593 bbl/day (2005) |
+| Oil - proved reserves: | 0 bbl (1 January 2006 est.) |
+| Natural gas - production: | 0 cu m (2007 est.) |
+| Natural gas - consumption: | 0 cu m (2007 est.) |
+| Natural gas - exports: | 0 cu m (2007 est.) |
+| Natural gas - imports: | 0 cu m (2007 est.) |
+| Natural gas - proved reserves: | 0 cu m (1 January 2006 est.) |
+| Current account balance: | -$224 million (2007) |
+| Exports: | $1.197 billion f.o.b. (2006) |
+| Exports - commodities: | rubber, timber, iron, diamonds, cocoa, coffee |
+| Exports - partners: | Malaysia 27.5%, Poland 18.5%, Germany 11.5%, US 10.5%, Spain 8.2%, Norway 5.5% (2007) |
+| Imports: | $7.143 billion f.o.b. (2006) |
+| Imports - commodities: | fuels, chemicals, machinery, transportation equipment, manufactured goods; foodstuffs |
+| Imports - partners: | South Korea 31.4%, Singapore 22.1%, Japan 14.9%, China 10.1% (2007) |
+| Economic aid - recipient: | $236.2 million (2005) |
+| Debt - external: | $3.2 billion (2005 est.) |
+| Stock of direct foreign investment - at home: | $NA |
+| Stock of direct foreign investment - abroad: | $NA |
+| Market value of publicly traded shares: | $NA |
+| Currency (code): | Liberian dollar (LRD) |
+| Currency code: | LRD |
+| Exchange rates: | Liberian dollars (LRD) per US dollar - NA (2007), 59.43 (2006), 53.098 (2005), 54.906 (2004), 59.379 (2003) |
+
+| Communications | Liberia |
+| --- | --- |
+| Telephones - main lines in use: | 6,900 (2002) |
+| Telephones - mobile cellular: | 563,000 (2007) |
+| Telephone system: | general assessment: the limited services available are found almost exclusively in the capital Monrovia; coverage extended to a number of other towns and rural areas by four mobile-cellular network operators |
+| | domestic: fixed line service stagnant and extremely limited; mobile-cellular subscription base growing and teledensity approaching 20 per 100 persons |
+| | international: country code - 231; satellite earth station - 1 Intelsat (Atlantic Ocean) (2007) |
+| Radio broadcast stations: | AM 0, FM 10, shortwave 2 (2007) |
+| Radios: | 790,000 (1997) |
+| Television broadcast stations: | 4 (plus 4 repeaters) (2007) |
+| Televisions: | 70,000 (1997) |
+| Internet country code: | .lr |
+| Internet hosts: | 7 (2008) |
+| Internet Service Providers (ISPs): | 2 (2001) |
+| Internet users: | 1,000 (2002) |
+
+| Transportation | Liberia |
+| --- | --- |
+| Airports: | 53 (2007) |
+| Airports - with paved runways: | total: 2 |
+| | over 3,047 m: 1 |
+| | 1,524 to 2,437 m: 1 (2007) |
+| Airports - with unpaved runways: | total: 51 |
+| | 1,524 to 2,437 m: 5 |
+| | 914 to 1,523 m: 8 |
+| | under 914 m: 38 (2007) |
+| Railways: | total: 490 km |
+| | standard gauge: 345 km 1.435-m gauge |
+| | narrow gauge: 145 km 1.067-m gauge |
+| | note: sections of railway are inoperable because of damage suffered during the civil war (2008) |
+| Roadways: | total: 10,600 km |
+| | paved: 657 km |
+| | unpaved: 9,943 km (2000) |
+| Merchant marine: | total: 2,204 |
+| | by type: barge carrier 3, bulk carrier 390, cargo 107, chemical tanker 241, combination ore/oil 7, container 750, liquefied gas 84, passenger 1, passenger/cargo 3, petroleum tanker 460, refrigerated cargo 103, roll on/roll off 7, specialized tanker 12, vehicle carrier 36 |
+| | foreign-owned: 2,109 (Argentina 3, Belgium 4, Brazil 3, Canada 7, China 11, Croatia 2, Cyprus 63, Denmark 12, Estonia 1, France 5, Germany 849, Gibraltar 5, Greece 358, Hong Kong 44, India 2, Indonesia 2, Isle of Man 5, Israel 23, Italy 41, Japan 116, South Korea 3, Latvia 21, Lebanon 2, Mexico 2, Monaco 8, Netherlands 6, Nigeria 2, Norway 40, Poland 13, Qatar 4, Romania 2, Russia 94, Saudi Arabia 27, Singapore 32, Slovenia 3, Sweden 10, Switzerland 13, Taiwan 91, Turkey 7, Ukraine 25, UAE 23, UK 20, US 98, Uruguay 3, Vietnam 4) (2008) |
+| Ports and terminals: | Buchanan, Monrovia |
+
+| Military | Liberia |
+| --- | --- |
+| Military branches: | Armed Forces of Liberia (AFL): Army, Navy, Air Force |
+| Military service age and obligation: | 16 years of age for voluntary military service; no conscription (2008) |
+| Manpower available for military service: | males age 16-49: 729,813 |
+| | females age 16-49: 741,223 (2008 est.) |
+| Manpower fit for military service: | males age 16-49: 371,287 |
+| | females age 16-49: 373,265 (2008 est.) |
+| Manpower reaching militarily significant age annually: | male: 30,448 |
+| | female: 29,902 (2008 est.) |
+| Military expenditures: | 1.3% of GDP (2006 est.) |
+
+| Transnational Issues | Liberia |
+| --- | --- |
+| Disputes - international: | although civil unrest continues to abate with the assistance of 18,000 UN Mission in Liberia (UNMIL) peacekeepers, as of January 2007, Liberian refugees still remain in Guinea, Cote d'Ivoire, Sierra Leone, and Ghana; Liberia, in turn, shelters refugees fleeing turmoil in Cote d'Ivoire; despite the presence of over 9,000 UN forces (UNOCI) in Cote d'Ivoire since 2004, ethnic conflict continues to spread into neighboring states who can no longer send their migrant workers to Ivorian cocoa plantations; UN sanctions ban Liberia from exporting diamonds and timber |
+| Refugees and internally displaced persons: | refugees (country of origin): 12,600 (Cote d'Ivoire) |
+| | IDPs: 13,000 (civil war from 1990-2004; IDP resettlement began in November 2004) (2007) |
+| Illicit drugs: | transshipment point for Southeast and Southwest Asian heroin and South American cocaine for the European and US markets; corruption, criminal activity, arms-dealing, and diamond trade provide significant potential for money laundering, but the lack of well-developed financial system limits the country's utility as a major money-laundering center |
+
+---
+This page was last updated on 18 December, 2008                      

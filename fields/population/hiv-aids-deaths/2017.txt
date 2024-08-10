@@ -1,0 +1,71 @@
+CIA - The World Factbook --  HIV/AIDS - DEATHS
+
+HIV/AIDS - deaths compares the number of adults and children who died of AIDS during a given calendar year.
+
+| Rank | Country | HIV/AIDS - DEATHS | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Nigeria | 160,000 | 2016 est. |
+| 2 | South Africa | 110,000 | 2016 est. |
+| 3 | India | 62,000 | 2016 est. |
+| 4 | Mozambique | 62,000 | 2016 est. |
+| 5 | Indonesia | 38,000 | 2016 est. |
+| 6 | Kenya | 36,000 | 2016 est. |
+| 7 | Tanzania | 33,000 | 2016 est. |
+| 8 | Zimbabwe | 30,000 | 2016 est. |
+| 9 | Cameroon | 29,000 | 2016 est. |
+| 10 | Uganda | 28,000 | 2016 est. |
+| 11 | Cote d'Ivoire | 25,000 | 2016 est. |
+| 12 | Malawi | 24,000 | 2016 est. |
+| 13 | Zambia | 21,000 | 2016 est. |
+| 14 | Ethiopia | 20,000 | 2016 est. |
+| 15 | Congo, Democratic Republic of the | 19,000 | 2016 est. |
+| 16 | Thailand | 16,000 | 2016 est. |
+| 17 | Ghana | 15,000 | 2016 est. |
+| 18 | Brazil | 14,000 | 2016 est. |
+| 19 | South Sudan | 13,000 | 2016 est. |
+| 20 | Angola | 11,000 | 2016 est. |
+| 21 | Lesotho | 9,900 | 2016 est. |
+| 22 | Ukraine | 8,500 | 2016 est. |
+| 23 | Vietnam | 8,000 | 2016 est. |
+| 24 | Burma | 7,800 | 2016 est. |
+| 25 | Central African Republic | 7,300 | 2016 est. |
+| 26 | Malaysia | 7,000 | 2016 est. |
+| 27 | Mali | 6,100 | 2016 est. |
+| 28 | Guinea | 5,800 | 2016 est. |
+| 29 | Pakistan | 5,500 | 2016 est. |
+| 30 | Togo | 5,100 | 2016 est. |
+| 31 | Haiti | 4,600 | 2016 est. |
+| 32 | Namibia | 4,300 | 2016 est. |
+| 33 | Mexico | 4,200 | 2016 est. |
+| 34 | Iran | 4,000 | 2016 est. |
+| 35 | Swaziland | 3,900 | 2016 est. |
+| 36 | Botswana | 3,900 | 2016 est. |
+| 37 | Congo, Republic of the | 3,800 | 2016 est. |
+| 38 | Niger | 3,400 | 2016 est. |
+| 39 | Rwanda | 3,300 | 2016 est. |
+| 40 | Burkina Faso | 3,100 | 2016 est. |
+| 41 | Sudan | 3,000 | 2016 est. |
+| 42 | Burundi | 2,900 | 2016 est. |
+| 43 | Chad | 2,800 | 2016 est. |
+| 44 | Colombia | 2,800 | 2016 est. |
+| 45 | Liberia | 2,800 | 2016 est. |
+| 46 | Sierra Leone | 2,800 | 2016 est. |
+| 47 | Venezuela | 2,500 | 2016 est. |
+| 48 | Argentina | 2,400 | 2016 est. |
+| 49 | Benin | 2,400 | 2016 est. |
+| 50 | Dominican Republic | 2,200 | 2016 est. |
+| 51 | Peru | 2,200 | 2016 est. |
+| 52 | Guinea-Bissau | 2,000 | 2016 est. |
+| 53 | Senegal | 1,900 | 2016 est. |
+| 54 | Cambodia | 1,800 | 2016 est. |
+| 55 | Somalia | 1,700 | 2016 est. |
+| 56 | Nepal | 1,700 | 2016 est. |
+| 57 | Guatemala | 1,600 | 2016 est. |
+| 58 | Madagascar | 1,600 | 2016 est. |
+| 59 | Gabon | 1,500 | 2016 est. |
+| 60 | Jamaica | 1,300 | 2016 est. |
+| 61 | Gambia, The | 1,100 | 2016 est. |
+| 62 | Papua New Guinea | 1,100 | 2016 est. |
+| 63 | Bangladesh | 1,000 | 2016 est. |
+
+

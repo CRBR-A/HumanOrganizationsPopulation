@@ -1,0 +1,27 @@
+Telephone Code: 230
+Local Emergency Phone: 999
+Climate: Tropical, modified by southeast trade winds; warm, dry winter (May to November); hot, wet, humid summer (November to May)
+Currency (Code): Mauritian rupees (MUR)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, G
+Major Languages: Creole, Bhojpuri, French
+Major Religions: Hindu 48.5%, Roman Catholic 26.3%, Muslim 17.3%, other Christian 6.4%
+Time Difference: UTC+4 (9 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Yes
+International Driving Permit: Suggested
+Road Driving Side: Left
+Tourist Destinations: Chamarel; Flic en Flac Beach; Port Louis; Black River Gorges National Park; Mauritius Botanical Garden
+Major Sports: Soccer, athletics (track and field), badminton, basketball, boxing
+Cultural Practices: It is common to be playfully slapped on the shoulder in normal conversation in Mauritius.
+Tipping Guidelines: A gratuity is already included with the bill in most restaurants, but wait staff appreciate any small change, especially if you are satisfied with the service. Taxi fares are usually negotiated in advance. If the driver has been particularly informative or helpful, a tip of 100-200 rupees will suffice to show your appreciation.
+Souvenirs: Pareo fabric, ship models, spices, woven items, tax free luxury goods
+Traditional Cuisine: Dholl Puri --- pan-fried, split pea flatbread stuffed with a variety of fillings including rougaille (a tomato-based sauce), green chutney, kheer rice pudding, or lima bean curry
+
+---
+country: Mauritius
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Mauritius/travel-facts>
+license: public domain (U.S.)
+...

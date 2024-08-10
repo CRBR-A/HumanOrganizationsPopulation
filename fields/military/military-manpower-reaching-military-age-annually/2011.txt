@@ -1,0 +1,452 @@
+CIA - The World Factbook --  Manpower reaching militarily significant age annually   
+
+This entry gives the number of males and females entering the military manpower pool (i.e., reaching age 16) in any given year and is a measure of the availability of military-age young adults.
+
+| Rank | country | Manpower reaching militarily significant age annually | Date of Information |
+| --- | --- | --- | --- |
+| 1 | India | 12,151,065.00 | 2010 est. |
+| 2 | India | 10,745,891.00 | 2010 est. |
+| 3 | China | 10,406,544.00 | 2010 est. |
+| 4 | China | 9,131,990.00 | 2010 est. |
+| 5 | Indonesia | 2,263,892.00 | 2010 est. |
+| 6 | Pakistan | 2,237,723.00 | 2010 est. |
+| 7 | Indonesia | 2,191,267.00 | 2010 est. |
+| 8 | United States | 2,161,727.00 | 2010 est. |
+| 9 | Pakistan | 2,104,906.00 | 2010 est. |
+| 10 | United States | 2,055,685.00 | 2010 est. |
+| 11 | Nigeria | 1,767,428.00 | 2010 est. |
+| 12 | Brazil | 1,733,168.00 | 2010 est. |
+| 13 | Bangladesh | 1,689,442.00 | 2010 est. |
+| 14 | Nigeria | 1,687,719.00 | 2010 est. |
+| 15 | Brazil | 1,672,477.00 | 2010 est. |
+| 16 | Bangladesh | 1,606,963.00 | 2010 est. |
+| 17 | Mexico | 1,105,371.00 | 2010 est. |
+| 18 | Mexico | 1,067,007.00 | 2010 est. |
+| 19 | Philippines | 1,060,319.00 | 2010 est. |
+| 20 | Philippines | 1,021,069.00 | 2010 est. |
+| 21 | Ethiopia | 981,714.00 | 2010 est. |
+| 22 | Ethiopia | 967,411.00 | 2010 est. |
+| 23 | Congo, Democratic Republic of the | 877,684.00 | 2010 est. |
+| 24 | Congo, Democratic Republic of the | 871,880.00 | 2010 est. |
+| 25 | Vietnam | 847,743.00 | 2010 est. |
+| 26 | Vietnam | 787,341.00 | 2010 est. |
+| 27 | Egypt | 783,405.00 | 2010 est. |
+| 28 | Egypt | 748,647.00 | 2010 est. |
+| 29 | Iran | 715,111.00 | 2010 est. |
+| 30 | Turkey | 700,079.00 | 2010 est. |
+| 31 | Russia | 693,843.00 | 2010 est. |
+| 32 | Iran | 677,372.00 | 2010 est. |
+| 33 | Turkey | 670,328.00 | 2010 est. |
+| 34 | Russia | 660,359.00 | 2010 est. |
+| 35 | Japan | 623,365.00 | 2010 est. |
+| 36 | Japan | 591,253.00 | 2010 est. |
+| 37 | Thailand | 533,424.00 | 2010 est. |
+| 38 | Sudan | 532,030.00 | 2010 est. |
+| 39 | Burma | 522,478.00 | 2010 est. |
+| 40 | Tanzania | 514,164.00 | 2010 est. |
+| 41 | Sudan | 512,476.00 | 2010 est. |
+| 42 | Tanzania | 512,294.00 | 2010 est. |
+| 43 | Thailand | 509,780.00 | 2010 est. |
+| 44 | Burma | 506,388.00 | 2010 est. |
+| 45 | South Africa | 485,017.00 | 2010 est. |
+| 46 | South Africa | 482,122.00 | 2010 est. |
+| 47 | Colombia | 430,634.00 | 2010 est. |
+| 48 | Uganda | 423,923.00 | 2010 est. |
+| 49 | Kenya | 422,104.00 | 2010 est. |
+| 50 | Uganda | 420,236.00 | 2010 est. |
+| 51 | Kenya | 416,927.00 | 2010 est. |
+| 52 | Colombia | 413,974.00 | 2010 est. |
+| 53 | Germany | 405,438.00 | 2010 est. |
+| 54 | France | 396,050.00 | 2010 est. |
+| 55 | Afghanistan | 392,116.00 | 2010 est. |
+| 56 | Germany | 384,930.00 | 2010 est. |
+| 57 | United Kingdom | 383,989.00 | 2010 est. |
+| 58 | Nepal | 380,172.00 | 2010 est. |
+| 59 | France | 377,839.00 | 2010 est. |
+| 60 | Afghanistan | 370,295.00 | 2010 est. |
+| 61 | Nepal | 367,103.00 | 2010 est. |
+| 62 | Korea, South | 365,760.00 | 2010 est. |
+| 63 | United Kingdom | 365,491.00 | 2010 est. |
+| 64 | Algeria | 342,895.00 | 2010 est. |
+| 65 | Argentina | 339,503.00 | 2010 est. |
+| 66 | Iraq | 332,194.00 | 2010 est. |
+| 67 | Algeria | 330,098.00 | 2010 est. |
+| 68 | Argentina | 323,170.00 | 2010 est. |
+| 69 | Iraq | 322,010.00 | 2010 est. |
+| 70 | Korea, South | 321,225.00 | 2010 est. |
+| 71 | Uzbekistan | 306,404.00 | 2010 est. |
+| 72 | Peru | 304,094.00 | 2010 est. |
+| 73 | Morocco | 300,327.00 | 2010 est. |
+| 74 | Peru | 298,447.00 | 2010 est. |
+| 75 | Morocco | 298,366.00 | 2010 est. |
+| 76 | Uzbekistan | 295,456.00 | 2010 est. |
+| 77 | Italy | 288,188.00 | 2010 est. |
+| 78 | Yemen | 287,141.00 | 2010 est. |
+| 79 | Italy | 281,671.00 | 2010 est. |
+| 80 | Mozambique | 280,008.00 | 2010 est. |
+| 81 | Yemen | 277,612.00 | 2010 est. |
+| 82 | Venezuela | 277,210.00 | 2010 est. |
+| 83 | Mozambique | 274,602.00 | 2010 est. |
+| 84 | Venezuela | 273,353.00 | 2010 est. |
+| 85 | Ghana | 267,896.00 | 2010 est. |
+| 86 | Malaysia | 265,008.00 | 2010 est. |
+| 87 | Saudi Arabia | 261,105.00 | 2010 est. |
+| 88 | Ghana | 260,992.00 | 2010 est. |
+| 89 | Syria | 256,698.00 | 2010 est. |
+| 90 | Malaysia | 254,812.00 | 2010 est. |
+| 91 | Madagascar | 248,184.00 | 2010 est. |
+| 92 | Cote d'Ivoire | 247,011.00 | 2010 est. |
+| 93 | Madagascar | 246,769.00 | 2010 est. |
+| 94 | Ukraine | 246,397.00 | 2010 est. |
+| 95 | Saudi Arabia | 244,763.00 | 2010 est. |
+| 96 | Syria | 244,712.00 | 2010 est. |
+| 97 | Cote d'Ivoire | 242,958.00 | 2010 est. |
+| 98 | Ukraine | 234,916.00 | 2010 est. |
+| 99 | Poland | 221,889.00 | 2010 est. |
+| 100 | Canada | 218,069.00 | 2010 est. |
+| 101 | Spain | 217,244.00 | 2010 est. |
+| 102 | Cameroon | 215,248.00 | 2010 est. |
+| 103 | Cameroon | 211,636.00 | 2010 est. |
+| 104 | Poland | 211,172.00 | 2010 est. |
+| 105 | Korea, North | 207,737.00 | 2010 est. |
+| 106 | Canada | 206,195.00 | 2010 est. |
+| 107 | Spain | 205,278.00 | 2010 est. |
+| 108 | Korea, North | 204,553.00 | 2010 est. |
+| 109 | Burkina Faso | 193,905.00 | 2010 est. |
+| 110 | Burkina Faso | 191,662.00 | 2010 est. |
+| 111 | Niger | 186,348.00 | 2010 est. |
+| 112 | Malawi | 183,683.00 | 2010 est. |
+| 113 | Malawi | 183,028.00 | 2010 est. |
+| 114 | Niger | 180,779.00 | 2010 est. |
+| 115 | Guatemala | 171,092.00 | 2010 est. |
+| 116 | Guatemala | 168,151.00 | 2010 est. |
+| 117 | Sri Lanka | 167,026.00 | 2010 est. |
+| 118 | Taiwan | 166,190.00 | 2010 est. |
+| 119 | Sri Lanka | 162,587.00 | 2010 est. |
+| 120 | Mali | 159,733.00 | 2010 est. |
+| 121 | Zambia | 158,805.00 | 2010 est. |
+| 122 | Zambia | 158,592.00 | 2010 est. |
+| 123 | Mali | 158,031.00 | 2010 est. |
+| 124 | Angola | 155,476.00 | 2010 est. |
+| 125 | Taiwan | 155,306.00 | 2010 est. |
+| 126 | Zimbabwe | 154,870.00 | 2010 est. |
+| 127 | Cambodia | 154,542.00 | 2010 est. |
+| 128 | Ecuador | 152,593.00 | 2010 est. |
+| 129 | Zimbabwe | 152,550.00 | 2010 est. |
+| 130 | Angola | 152,054.00 | 2010 est. |
+| 131 | Cambodia | 151,143.00 | 2010 est. |
+| 132 | Ecuador | 147,143.00 | 2010 est. |
+| 133 | Senegal | 145,509.00 | 2010 est. |
+| 134 | Senegal | 145,064.00 | 2010 est. |
+| 135 | Australia | 143,565.00 | 2010 est. |
+| 136 | Chile | 141,500.00 | 2010 est. |
+| 137 | Australia | 135,800.00 | 2010 est. |
+| 138 | Chile | 135,709.00 | 2010 est. |
+| 139 | Chad | 128,723.00 | 2010 est. |
+| 140 | Chad | 128,244.00 | 2010 est. |
+| 141 | Kazakhstan | 125,322.00 | 2010 est. |
+| 142 | Kazakhstan | 119,541.00 | 2010 est. |
+| 143 | Guinea | 118,443.00 | 2010 est. |
+| 144 | Burundi | 117,956.00 | 2010 est. |
+| 145 | Romania | 117,798.00 | 2010 est. |
+| 146 | Burundi | 116,956.00 | 2010 est. |
+| 147 | Guinea | 115,901.00 | 2010 est. |
+| 148 | Haiti | 115,282.00 | 2010 est. |
+| 149 | Haiti | 115,246.00 | 2010 est. |
+| 150 | Romania | 111,607.00 | 2010 est. |
+| 151 | Rwanda | 110,736.00 | 2010 est. |
+| 152 | Rwanda | 110,328.00 | 2010 est. |
+| 153 | Benin | 108,496.00 | 2010 est. |
+| 154 | Bolivia | 108,334.00 | 2010 est. |
+| 155 | Bolivia | 104,945.00 | 2010 est. |
+| 156 | Benin | 104,526.00 | 2010 est. |
+| 157 | Netherlands | 103,462.00 | 2010 est. |
+| 158 | Somalia | 101,634.00 | 2010 est. |
+| 159 | Somalia | 101,072.00 | 2010 est. |
+| 160 | Dominican Republic | 100,047.00 | 2010 est. |
+| 161 | Netherlands | 98,383.00 | 2010 est. |
+| 162 | Dominican Republic | 96,302.00 | 2010 est. |
+| 163 | Honduras | 95,895.00 | 2010 est. |
+| 164 | Honduras | 92,087.00 | 2010 est. |
+| 165 | Tunisia | 90,436.00 | 2010 est. |
+| 166 | Tunisia | 87,346.00 | 2010 est. |
+| 167 | Azerbaijan | 76,923.00 | 2010 est. |
+| 168 | Tajikistan | 76,430.00 | 2010 est. |
+| 169 | Tajikistan | 74,038.00 | 2010 est. |
+| 170 | Togo | 74,036.00 | 2010 est. |
+| 171 | Jordan | 73,574.00 | 2010 est. |
+| 172 | Togo | 73,515.00 | 2010 est. |
+| 173 | Paraguay | 73,367.00 | 2010 est. |
+| 174 | Laos | 73,038.00 | 2010 est. |
+| 175 | Cuba | 72,823.00 | 2010 est. |
+| 176 | Paraguay | 71,801.00 | 2010 est. |
+| 177 | El Salvador | 71,530.00 | 2010 est. |
+| 178 | Laos | 71,400.00 | 2010 est. |
+| 179 | Azerbaijan | 71,024.00 | 2010 est. |
+| 180 | Jordan | 69,420.00 | 2010 est. |
+| 181 | Cuba | 69,108.00 | 2010 est. |
+| 182 | Nicaragua | 69,093.00 | 2010 est. |
+| 183 | El Salvador | 68,971.00 | 2010 est. |
+| 184 | Papua New Guinea | 67,781.00 | 2010 est. |
+| 185 | Nicaragua | 67,522.00 | 2010 est. |
+| 186 | Eritrea | 66,829.00 | 2010 est. |
+| 187 | Eritrea | 66,731.00 | 2010 est. |
+| 188 | Papua New Guinea | 65,820.00 | 2010 est. |
+| 189 | Israel | 62,304.00 | 2010 est. |
+| 190 | Portugal | 62,208.00 | 2010 est. |
+| 191 | Belgium | 59,665.00 | 2010 est. |
+| 192 | Libya | 59,547.00 | 2010 est. |
+| 193 | Israel | 59,418.00 | 2010 est. |
+| 194 | Hungary | 59,237.00 | 2010 est. |
+| 195 | Sierra Leone | 57,154.00 | 2010 est. |
+| 196 | Belgium | 57,142.00 | 2010 est. |
+| 197 | Libya | 57,070.00 | 2010 est. |
+| 198 | Kyrgyzstan | 56,606.00 | 2010 est. |
+| 199 | Hungary | 55,533.00 | 2010 est. |
+| 200 | Sweden | 54,960.00 | 2010 est. |
+| 201 | Central African Republic | 54,843.00 | 2010 est. |
+| 202 | Portugal | 54,786.00 | 2010 est. |
+| 203 | Sierra Leone | 54,212.00 | 2010 est. |
+| 204 | Kyrgyzstan | 54,056.00 | 2010 est. |
+| 205 | Central African Republic | 53,999.00 | 2010 est. |
+| 206 | Turkmenistan | 53,829.00 | 2010 est. |
+| 207 | Turkmenistan | 52,988.00 | 2010 est. |
+| 208 | Greece | 52,754.00 | 2010 est. |
+| 209 | Sweden | 52,275.00 | 2010 est. |
+| 210 | Belarus | 51,855.00 | 2010 est. |
+| 211 | Congo, Republic of the | 50,000.00 | 2010 est. |
+| 212 | Czech Republic | 49,999.00 | 2010 est. |
+| 213 | Congo, Republic of the | 49,641.00 | 2010 est. |
+| 214 | Greece | 49,485.00 | 2010 est. |
+| 215 | Belarus | 48,760.00 | 2010 est. |
+| 216 | Austria | 48,108.00 | 2010 est. |
+| 217 | Czech Republic | 47,501.00 | 2010 est. |
+| 218 | Switzerland | 46,562.00 | 2010 est. |
+| 219 | Austria | 45,752.00 | 2010 est. |
+| 220 | Serbia | 43,945.00 | 2010 est. |
+| 221 | Switzerland | 42,585.00 | 2010 est. |
+| 222 | Costa Rica | 42,201.00 | 2010 est. |
+| 223 | Serbia | 41,080.00 | 2010 est. |
+| 224 | Costa Rica | 40,444.00 | 2010 est. |
+| 225 | Hong Kong | 39,579.00 | 2010 est. |
+| 226 | Liberia | 38,516.00 | 2010 est. |
+| 227 | Denmark | 37,913.00 | 2010 est. |
+| 228 | Lebanon | 36,856.00 | 2010 est. |
+| 229 | Mauritania | 36,826.00 | 2010 est. |
+| 230 | Liberia | 36,585.00 | 2010 est. |
+| 231 | Hong Kong | 36,554.00 | 2010 est. |
+| 232 | Mauritania | 36,116.00 | 2010 est. |
+| 233 | Denmark | 35,865.00 | 2010 est. |
+| 234 | Lebanon | 35,121.00 | 2010 est. |
+| 235 | Bulgaria | 33,444.00 | 2010 est. |
+| 236 | Jamaica | 33,369.00 | 2010 est. |
+| 237 | Jamaica | 32,702.00 | 2010 est. |
+| 238 | Finland | 32,599.00 | 2010 est. |
+| 239 | Norway | 32,290.00 | 2010 est. |
+| 240 | Panama | 32,142.00 | 2010 est. |
+| 241 | Bulgaria | 32,075.00 | 2010 est. |
+| 242 | Albania | 31,986.00 | 2010 est. |
+| 243 | Oman | 31,959.00 | 2010 est. |
+| 244 | Slovakia | 31,646.00 | 2010 est. |
+| 245 | Finland | 31,416.00 | 2010 est. |
+| 246 | West Bank | 30,925.00 | 2010 est. |
+| 247 | Panama | 30,879.00 | 2010 est. |
+| 248 | New Zealand | 30,846.00 | 2010 est. |
+| 249 | Mongolia | 30,829.00 | 2010 est. |
+| 250 | Norway | 30,777.00 | 2010 est. |
+| 251 | Puerto Rico | 30,517.00 | 2010 est. |
+| 252 | Oman | 30,264.00 | 2010 est. |
+| 253 | Slovakia | 30,219.00 | 2010 est. |
+| 254 | Georgia | 29,723.00 | 2010 est. |
+| 255 | Mongolia | 29,648.00 | 2010 est. |
+| 256 | Albania | 29,533.00 | 2010 est. |
+| 257 | West Bank | 29,440.00 | 2010 est. |
+| 258 | Puerto Rico | 29,010.00 | 2010 est. |
+| 259 | New Zealand | 28,825.00 | 2010 est. |
+| 260 | Ireland | 28,564.00 | 2010 est. |
+| 261 | Croatia | 28,334.00 | 2010 est. |
+| 262 | Moldova | 28,213.00 | 2010 est. |
+| 263 | Uruguay | 27,564.00 | 2010 est. |
+| 264 | United Arab Emirates | 27,439.00 | 2010 est. |
+| 265 | Georgia | 27,242.00 | 2010 est. |
+| 266 | Ireland | 27,197.00 | 2010 est. |
+| 267 | Singapore | 27,098.00 | 2010 est. |
+| 268 | Croatia | 27,015.00 | 2010 est. |
+| 269 | Uruguay | 26,811.00 | 2010 est. |
+| 270 | Moldova | 26,614.00 | 2010 est. |
+| 271 | Bosnia and Herzegovina | 26,601.00 | 2010 est. |
+| 272 | Namibia | 26,413.00 | 2010 est. |
+| 273 | Namibia | 26,038.00 | 2010 est. |
+| 274 | Singapore | 25,368.00 | 2010 est. |
+| 275 | Bosnia and Herzegovina | 24,879.00 | 2010 est. |
+| 276 | United Arab Emirates | 24,419.00 | 2010 est. |
+| 277 | Botswana | 23,649.00 | 2010 est. |
+| 278 | Armenia | 23,470.00 | 2010 est. |
+| 279 | Botswana | 23,063.00 | 2010 est. |
+| 280 | Armenia | 21,417.00 | 2010 est. |
+| 281 | Gambia, The | 20,853.00 | 2010 est. |
+| 282 | Gambia, The | 20,508.00 | 2010 est. |
+| 283 | Lithuania | 20,425.00 | 2010 est. |
+| 284 | Lesotho | 20,037.00 | 2010 est. |
+| 285 | Lithuania | 19,527.00 | 2010 est. |
+| 286 | Lesotho | 19,110.00 | 2010 est. |
+| 287 | Gaza Strip | 18,805.00 | 2010 est. |
+| 288 | Gaza Strip | 17,903.00 | 2010 est. |
+| 289 | Guinea-Bissau | 17,865.00 | 2010 est. |
+| 290 | Kuwait | 17,653.00 | 2010 est. |
+| 291 | Guinea-Bissau | 17,639.00 | 2010 est. |
+| 292 | Gabon | 17,638.00 | 2010 est. |
+| 293 | Gabon | 17,614.00 | 2010 est. |
+| 294 | Kuwait | 16,232.00 | 2010 est. |
+| 295 | Swaziland | 16,168.00 | 2010 est. |
+| 296 | Macedonia | 16,144.00 | 2010 est. |
+| 297 | Swaziland | 15,763.00 | 2010 est. |
+| 298 | Macedonia | 14,920.00 | 2010 est. |
+| 299 | Timor-Leste | 12,737.00 | 2010 est. |
+| 300 | Timor-Leste | 12,389.00 | 2010 est. |
+| 301 | Latvia | 10,482.00 | 2010 est. |
+| 302 | Mauritius | 10,193.00 | 2010 est. |
+| 303 | Mauritius | 10,104.00 | 2010 est. |
+| 304 | Latvia | 9,858.00 | 2010 est. |
+| 305 | Slovenia | 9,818.00 | 2010 est. |
+| 306 | Slovenia | 9,395.00 | 2010 est. |
+| 307 | Bahrain | 8,988.00 | 2010 est. |
+| 308 | Guyana | 8,849.00 | 2010 est. |
+| 309 | Comoros | 8,831.00 | 2010 est. |
+| 310 | Comoros | 8,809.00 | 2010 est. |
+| 311 | Djibouti | 8,602.00 | 2010 est. |
+| 312 | Guyana | 8,460.00 | 2010 est. |
+| 313 | Fiji | 8,403.00 | 2010 est. |
+| 314 | Djibouti | 8,360.00 | 2010 est. |
+| 315 | Cyprus | 8,167.00 | 2010 est. |
+| 316 | Trinidad and Tobago | 8,164.00 | 2010 est. |
+| 317 | Bahrain | 8,117.00 | 2010 est. |
+| 318 | Fiji | 8,039.00 | 2010 est. |
+| 319 | Trinidad and Tobago | 7,503.00 | 2010 est. |
+| 320 | Cyprus | 7,398.00 | 2010 est. |
+| 321 | Equatorial Guinea | 7,398.00 | 2010 est. |
+| 322 | Bhutan | 7,363.00 | 2010 est. |
+| 323 | Equatorial Guinea | 7,126.00 | 2010 est. |
+| 324 | Bhutan | 7,095.00 | 2010 est. |
+| 325 | Estonia | 6,668.00 | 2010 est. |
+| 326 | Solomon Islands | 6,483.00 | 2010 est. |
+| 327 | Qatar | 6,429.00 | 2010 est. |
+| 328 | Estonia | 6,309.00 | 2010 est. |
+| 329 | Solomon Islands | 6,098.00 | 2010 est. |
+| 330 | Cape Verde | 6,029.00 | 2010 est. |
+| 331 | Cape Verde | 6,026.00 | 2010 est. |
+| 332 | Western Sahara | 5,523.00 | 2010 est. |
+| 333 | Western Sahara | 5,429.00 | 2010 est. |
+| 334 | Qatar | 5,162.00 | 2010 est. |
+| 335 | Macau | 4,274.00 | 2010 est. |
+| 336 | Maldives | 4,167.00 | 2010 est. |
+| 337 | Suriname | 4,119.00 | 2010 est. |
+| 338 | Suriname | 4,106.00 | 2010 est. |
+| 339 | Belize | 3,723.00 | 2010 est. |
+| 340 | Montenegro | 3,677.00 | 2010 est. |
+| 341 | Macau | 3,674.00 | 2010 est. |
+| 342 | Maldives | 3,595.00 | 2010 est. |
+| 343 | Belize | 3,584.00 | 2010 est. |
+| 344 | Brunei | 3,572.00 | 2010 est. |
+| 345 | Brunei | 3,465.00 | 2010 est. |
+| 346 | Luxembourg | 3,263.00 | 2010 est. |
+| 347 | Montenegro | 3,120.00 | 2010 est. |
+| 348 | Luxembourg | 3,084.00 | 2010 est. |
+| 349 | Bahamas, The | 2,829.00 | 2010 est. |
+| 350 | Bahamas, The | 2,750.00 | 2010 est. |
+| 351 | Malta | 2,554.00 | 2010 est. |
+| 352 | French Polynesia | 2,498.00 | 2010 est. |
+| 353 | French Polynesia | 2,390.00 | 2010 est. |
+| 354 | Malta | 2,385.00 | 2010 est. |
+| 355 | Vanuatu | 2,323.00 | 2010 est. |
+| 356 | Iceland | 2,277.00 | 2010 est. |
+| 357 | New Caledonia | 2,272.00 | 2010 est. |
+| 358 | Vanuatu | 2,230.00 | 2010 est. |
+| 359 | Samoa | 2,221.00 | 2010 est. |
+| 360 | Iceland | 2,200.00 | 2010 est. |
+| 361 | New Caledonia | 2,167.00 | 2010 est. |
+| 362 | Sao Tome and Principe | 2,076.00 | 2010 est. |
+| 363 | Samoa | 2,062.00 | 2010 est. |
+| 364 | Sao Tome and Principe | 2,003.00 | 2010 est. |
+| 365 | Barbados | 1,849.00 | 2010 est. |
+| 366 | Barbados | 1,842.00 | 2010 est. |
+| 367 | Saint Lucia | 1,574.00 | 2010 est. |
+| 368 | Saint Lucia | 1,502.00 | 2010 est. |
+| 369 | Micronesia, Federated States of | 1,276.00 | 2010 est. |
+| 370 | Micronesia, Federated States of | 1,253.00 | 2010 est. |
+| 371 | Tonga | 1,196.00 | 2010 est. |
+| 372 | Tonga | 1,134.00 | 2010 est. |
+| 373 | Kiribati | 1,132.00 | 2010 est. |
+| 374 | Kiribati | 1,120.00 | 2010 est. |
+| 375 | Grenada | 1,002.00 | 2010 est. |
+| 376 | Grenada | 995.00 | 2010 est. |
+| 377 | Saint Vincent and the Grenadines | 964.00 | 2010 est. |
+| 378 | Saint Vincent and the Grenadines | 953.00 | 2010 est. |
+| 379 | Antigua and Barbuda | 806.00 | 2010 est. |
+| 380 | Antigua and Barbuda | 799.00 | 2010 est. |
+| 381 | Virgin Islands | 788.00 | 2010 est. |
+| 382 | American Samoa | 775.00 | 2010 est. |
+| 383 | Aruba | 767.00 | 2010 est. |
+| 384 | American Samoa | 762.00 | 2010 est. |
+| 385 | Virgin Islands | 744.00 | 2010 est. |
+| 386 | Aruba | 743.00 | 2010 est. |
+| 387 | Seychelles | 686.00 | 2010 est. |
+| 388 | Dominica | 675.00 | 2010 est. |
+| 389 | Jersey | 664.00 | 2010 est. |
+| 390 | Marshall Islands | 653.00 | 2010 est. |
+| 391 | Seychelles | 650.00 | 2010 est. |
+| 392 | Dominica | 636.00 | 2010 est. |
+| 393 | Marshall Islands | 631.00 | 2010 est. |
+| 394 | Jersey | 590.00 | 2010 est. |
+| 395 | Isle of Man | 507.00 | 2010 est. |
+| 396 | Isle of Man | 494.00 | 2010 est. |
+| 397 | Greenland | 488.00 | 2010 est. |
+| 398 | Greenland | 478.00 | 2010 est. |
+| 399 | Bermuda | 433.00 | 2010 est. |
+| 400 | Saint Kitts and Nevis | 422.00 | 2010 est. |
+| 401 | Northern Mariana Islands | 410.00 | 2010 est. |
+| 402 | Bermuda | 410.00 | 2010 est. |
+| 403 | Andorra | 397.00 | 2010 est. |
+| 404 | Saint Kitts and Nevis | 380.00 | 2010 est. |
+| 405 | Faroe Islands | 373.00 | 2010 est. |
+| 406 | Faroe Islands | 372.00 | 2010 est. |
+| 407 | Guernsey | 354.00 | 2010 est. |
+| 408 | Andorra | 347.00 | 2010 est. |
+| 409 | Guernsey | 342.00 | 2010 est. |
+| 410 | Turks and Caicos Islands | 342.00 | 2010 est. |
+| 411 | Cayman Islands | 342.00 | 2010 est. |
+| 412 | Turks and Caicos Islands | 338.00 | 2010 est. |
+| 413 | Cayman Islands | 333.00 | 2010 est. |
+| 414 | Northern Mariana Islands | 306.00 | 2010 est. |
+| 415 | Gibraltar | 228.00 | 2010 est. |
+| 416 | Palau | 222.00 | 2010 est. |
+| 417 | Gibraltar | 220.00 | 2010 est. |
+| 418 | Liechtenstein | 219.00 | 2010 est. |
+| 419 | Palau | 216.00 | 2010 est. |
+| 420 | Liechtenstein | 211.00 | 2010 est. |
+| 421 | San Marino | 186.00 | 2010 est. |
+| 422 | British Virgin Islands | 168.00 | 2010 est. |
+| 423 | Saint Martin | 168.00 | 2010 est. |
+| 424 | Saint Martin | 168.00 | 2010 est. |
+| 425 | Wallis and Futuna | 168.00 | 2010 est. |
+| 426 | San Marino | 166.00 | 2010 est. |
+| 427 | British Virgin Islands | 162.00 | 2010 est. |
+| 428 | Monaco | 153.00 | 2010 est. |
+| 429 | Monaco | 141.00 | 2010 est. |
+| 430 | Wallis and Futuna | 139.00 | 2010 est. |
+| 431 | Cook Islands | 127.00 | 2010 est. |
+| 432 | Tuvalu | 119.00 | 2010 est. |
+| 433 | Anguilla | 113.00 | 2010 est. |
+| 434 | Anguilla | 111.00 | 2010 est. |
+| 435 | Tuvalu | 111.00 | 2010 est. |
+| 436 | Cook Islands | 107.00 | 2010 est. |
+| 437 | Nauru | 78.00 | 2010 est. |
+| 438 | Nauru | 74.00 | 2010 est. |
+| 439 | Saint Helena, Ascension, and Tristan da Cunha | 49.00 | 2010 est. |
+| 440 | Saint Helena, Ascension, and Tristan da Cunha | 48.00 | 2010 est. |
+| 441 | Montserrat | 35.00 | 2010 est. |
+| 442 | Montserrat | 34.00 | 2010 est. |
+| 443 | Saint Pierre and Miquelon | 34.00 | 2010 est. |
+| 444 | Saint Pierre and Miquelon | 32.00 | 2010 est. |
+| 445 | Saint Barthelemy | 23.00 | 2010 est. |
+| 446 | Saint Barthelemy | 21.00 | 2010 est. |

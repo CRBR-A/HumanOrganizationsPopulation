@@ -1,0 +1,216 @@
+CIA - The World Factbook --  Taxes and other revenues   
+
+This entry records total taxes and other revenues received by the national government during the time period indicated, expressed as a percent of GDP. Taxes include personal and corporate income taxes, value added taxes, excise taxes, and tariffs. Other revenues include social contributions - such as payments for social security and hospital insurance - grants, and net revenues from public enterprises. Normalizing the data, by dividing total revenues by GDP, enables easy comparisons across countries, and provides an average rate at which all income (GDP) is paid to the national level government for the supply of public goods and services.
+
+| Rank | country | (% of GDP) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Niue | 150.5 | FY04/05 |
+| 2 | Cuba | 80.3 | 2010 est. |
+| 3 | Marshall Islands | 76.3 | 2008 |
+| 4 | Greenland | 72.4 | 2007 |
+| 5 | Iraq | 72.3 | 2010 est. |
+| 6 | Palau | 70.0 | 2008 est. |
+| 7 | Micronesia, Federated States of | 69.7 | FY07 est. |
+| 8 | Tuvalu | 67.3 | 2006 |
+| 9 | Falkland Islands (Islas Malvinas) | 63.0 | FY98/99 |
+| 10 | San Marino | 57.5 | 2009 |
+| 11 | Kuwait | 57.1 | 2010 est. |
+| 12 | Libya | 56.6 | 2010 est. |
+| 13 | Norway | 56.3 | 2010 est. |
+| 14 | Denmark | 55.3 | 2010 est. |
+| 15 | Lesotho | 55.3 | 2010 est. |
+| 16 | Sweden | 53.0 | 2010 est. |
+| 17 | Finland | 52.4 | 2010 est. |
+| 18 | Belgium | 49.0 | 2010 est. |
+| 19 | France | 48.8 | 2010 est. |
+| 20 | Austria | 48.6 | 2010 est. |
+| 21 | Faroe Islands | 47.5 | 2006 |
+| 22 | Italy | 46.7 | 2010 est. |
+| 23 | Netherlands | 45.8 | 2010 est. |
+| 24 | Equatorial Guinea | 45.6 | 2010 est. |
+| 25 | Bosnia and Herzegovina | 45.3 | 2010 est. |
+| 26 | Hungary | 45.1 | 2010 est. |
+| 27 | Saudi Arabia | 44.5 | 2010 est. |
+| 28 | Bolivia | 44.5 | 2010 est. |
+| 29 | Serbia | 44.3 | 2010 est. |
+| 30 | Djibouti | 43.6 | 2010 est. |
+| 31 | Belarus | 43.1 | 2010 est. |
+| 32 | Germany | 43.0 | 2010 est. |
+| 33 | Gibraltar | 43.0 | 2008 est. |
+| 34 | Iceland | 42.3 | 2010 est. |
+| 35 | Angola | 41.7 | 2010 est. |
+| 36 | Portugal | 41.6 | 2010 est. |
+| 37 | Cyprus | 41.3 | 2010 est. |
+| 38 | Slovenia | 41.0 | 2010 est. |
+| 39 | Qatar | 40.8 | 2010 est. |
+| 40 | Bhutan | 40.8 | 2010 est. |
+| 41 | Macau | 40.7 | 2010 est. |
+| 42 | Czech Republic | 40.5 | 2010 est. |
+| 43 | United Kingdom | 40.4 | 2010 est. |
+| 44 | Luxembourg | 39.8 | 2010 est. |
+| 45 | Brazil | 39.4 | 2010 est. |
+| 46 | Dominica | 39.4 | 2010 est. |
+| 47 | Greece | 39.2 | 2010 est. |
+| 48 | Estonia | 39.0 | 2010 est. |
+| 49 | Cook Islands | 38.7 | FY05/06 |
+| 50 | Malta | 38.7 | 2010 est. |
+| 51 | New Zealand | 38.4 | 2010 est. |
+| 52 | Moldova | 38.3 | 2010 est. |
+| 53 | Canada | 38.2 | 2010 est. |
+| 54 | Kiribati | 37.8 | FY05 |
+| 55 | Croatia | 37.3 | 2010 est. |
+| 56 | Oman | 37.0 | 2010 est. |
+| 57 | Algeria | 36.7 | 2010 est. |
+| 58 | Ecuador | 36.5 | 2011 est. |
+| 59 | Seychelles | 36.3 | 2010 est. |
+| 60 | Samoa | 36.2 | 2010 est. |
+| 61 | Brunei | 36.0 | 2010 est. |
+| 62 | Mongolia | 36.0 | 2010 est. |
+| 63 | Spain | 35.7 | 2010 est. |
+| 64 | Switzerland | 35.5 | 2010 est. |
+| 65 | Isle of Man | 35.5 | FY05/06 est. |
+| 66 | Latvia | 35.2 | 2010 est. |
+| 67 | Lithuania | 35.2 | 2010 est. |
+| 68 | Saint Kitts and Nevis | 34.9 | 2010 est. |
+| 69 | Ireland | 34.6 | 2010 est. |
+| 70 | Liberia | 34.3 | 2010 est. |
+| 71 | Romania | 34.3 | 2010 est. |
+| 72 | Cape Verde | 33.9 | 2010 est. |
+| 73 | Bulgaria | 33.9 | 2010 est. |
+| 74 | American Samoa | 33.6 | FY07 |
+| 75 | Botswana | 33.2 | 2010 est. |
+| 76 | Slovakia | 33.1 | 2010 est. |
+| 77 | Saint Vincent and the Grenadines | 33.0 | 2010 est. |
+| 78 | Malawi | 33.0 | 2010 est. |
+| 79 | Congo, Democratic Republic of the | 32.8 | 2006 est. |
+| 80 | Saint Lucia | 32.6 | 2010 est. |
+| 81 | Uzbekistan | 32.6 | 2010 est. |
+| 82 | Japan | 32.5 | 2010 est. |
+| 83 | Nicaragua | 32.4 | 2010 est. |
+| 84 | Australia | 32.3 | 2010 est. |
+| 85 | Gabon | 32.3 | 2010 est. |
+| 86 | Trinidad and Tobago | 32.1 | 2010 est. |
+| 87 | Papua New Guinea | 31.5 | 2010 est. |
+| 88 | Solomon Islands | 31.3 | 2010 est. |
+| 89 | Macedonia | 31.3 | 2010 est. |
+| 90 | Iran | 31.2 | 2010 est. |
+| 91 | Northern Mariana Islands | 30.5 | FY01/02 |
+| 92 | New Caledonia | 30.2 | 2001 est. |
+| 93 | Barbados | 29.8 | 2010 est. |
+| 94 | Uruguay | 29.3 | 2010 est. |
+| 95 | Peru | 29.1 | 2010 est. |
+| 96 | Ukraine | 29.0 | 2010 est. |
+| 97 | Tonga | 28.9 | 2010 est. |
+| 98 | Aruba | 28.8 | 2010 est. |
+| 99 | Israel | 28.6 | 2010 est. |
+| 100 | Burundi | 28.5 | 2010 est. |
+| 101 | United Arab Emirates | 28.4 | 2010 est. |
+| 102 | Yemen | 28.3 | 2010 est. |
+| 103 | Congo, Republic of the | 28.3 | 2010 est. |
+| 104 | West Bank | 28.2 | 2010 |
+| 105 | Georgia | 28.2 | 2010 est. |
+| 106 | Vietnam | 28.2 | 2010 est. |
+| 107 | World | 27.8 | 2010 est. |
+| 108 | British Virgin Islands | 27.4 | 2010 est. |
+| 109 | Kyrgyzstan | 27.3 | 2010 est. |
+| 110 | Swaziland | 27.3 | 2010 est. |
+| 111 | Albania | 26.5 | 2010 est. |
+| 112 | Tajikistan | 26.5 | 2010 est. |
+| 113 | Guyana | 26.5 | 2010 est. |
+| 114 | Jamaica | 26.3 | 2010 est. |
+| 115 | South Africa | 26.3 | 2010 est. |
+| 116 | Namibia | 26.2 | 2010 est. |
+| 117 | Grenada | 26.0 | 2009 est. |
+| 118 | Kosovo | 26.0 | 2010 est. |
+| 119 | Rwanda | 25.8 | 2010 est. |
+| 120 | Colombia | 25.7 | 2011 est. |
+| 121 | Panama | 25.7 | 2010 est. |
+| 122 | Chad | 25.7 | 2010 est. |
+| 123 | Bahrain | 25.5 | 2010 est. |
+| 124 | Maldives | 25.5 | 2010 est. |
+| 125 | Belize | 25.1 | 2010 est. |
+| 126 | Fiji | 25.0 | 2010 est. |
+| 127 | Mauritania | 24.6 | 2010 est. |
+| 128 | Mozambique | 24.4 | 2010 est. |
+| 129 | Argentina | 24.3 | 2010 est. |
+| 130 | Eritrea | 24.3 | 2010 est. |
+| 131 | Korea, South | 23.3 | 2010 est. |
+| 132 | Tunisia | 23.2 | 2010 est. |
+| 133 | Turkey | 22.8 | 2010 est. |
+| 134 | Mexico | 22.5 | 2010 est. |
+| 135 | Chile | 22.5 | 2010 est. |
+| 136 | Cayman Islands | 22.4 | 2010 est. |
+| 137 | Comoros | 22.1 | 2010 est. |
+| 138 | Morocco | 22.1 | 2010 est. |
+| 139 | Senegal | 22.0 | 2010 est. |
+| 140 | Egypt | 21.8 | 2010 est. |
+| 141 | Jordan | 21.8 | 2010 est. |
+| 142 | Kenya | 21.8 | 2010 est. |
+| 143 | Venezuela | 21.7 | 2010 est. |
+| 144 | Burkina Faso | 21.6 | 2010 est. |
+| 145 | Armenia | 21.5 | 2010 est. |
+| 146 | Lebanon | 21.4 | 2010 est. |
+| 147 | Kazakhstan | 21.1 | 2010 est. |
+| 148 | Syria | 21.0 | 2010 est. |
+| 149 | China | 20.9 | 2010 est. |
+| 150 | Antigua and Barbuda | 20.8 | 2009 est. |
+| 151 | Malaysia | 20.8 | 2010 est. |
+| 152 | Mauritius | 20.8 | 2010 est. |
+| 153 | Guernsey | 20.6 | 2005 |
+| 154 | Sierra Leone | 20.5 | 2010 est. |
+| 155 | Mali | 20.5 | 2010 est. |
+| 156 | Togo | 20.4 | 2010 est. |
+| 157 | Hong Kong | 20.2 | 2010 est. |
+| 158 | Cote d'Ivoire | 20.0 | 2010 est. |
+| 159 | Zambia | 19.9 | 2010 est. |
+| 160 | Haiti | 19.5 | 2010 est. |
+| 161 | Tanzania | 19.4 | 2010 est. |
+| 162 | Guinea-Bissau | 19.2 | 2010 est. |
+| 163 | Nepal | 18.9 | FY10 |
+| 164 | Russia | 18.7 | 2010 est. |
+| 165 | Liechtenstein | 18.6 | 2008 est. |
+| 166 | Sao Tome and Principe | 18.5 | 2010 est. |
+| 167 | El Salvador | 18.3 | 2010 est. |
+| 168 | Paraguay | 18.3 | 2010 est. |
+| 169 | Benin | 18.3 | 2010 est. |
+| 170 | Thailand | 18.2 | 2010 est. |
+| 171 | Laos | 17.9 | 2010 est. |
+| 172 | Poland | 17.7 | 2010 est. |
+| 173 | Honduras | 17.4 | 2010 est. |
+| 174 | Cameroon | 17.3 | 2010 est. |
+| 175 | Ghana | 17.3 | 2010 est. |
+| 176 | Bahamas, The | 17.2 | 2010 est. |
+| 177 | Gambia, The | 17.1 | 2010 est. |
+| 178 | Indonesia | 16.9 | 2011 est. |
+| 179 | Sudan | 16.5 | 2010 est. |
+| 180 | Jersey | 16.3 | 2005 |
+| 181 | Guinea | 16.2 | 2010 est. |
+| 182 | Central African Republic | 16.1 | 2010 est. |
+| 183 | Taiwan | 15.5 | 2010 est. |
+| 184 | Ethiopia | 15.4 | 2010 est. |
+| 185 | Uganda | 15.0 | 2010 est. |
+| 186 | Sri Lanka | 14.9 | 2010 est. |
+| 187 | Singapore | 14.7 | 2010 est. |
+| 188 | United States | 14.7 | 2010 est. |
+| 189 | Costa Rica | 14.6 | 2010 est. |
+| 190 | Niger | 14.4 | 2010 est. |
+| 191 | Pakistan | 14.2 | 2010 est. |
+| 192 | Philippines | 14.2 | 2010 est. |
+| 193 | French Polynesia | 14.2 | 1999 |
+| 194 | Madagascar | 14.2 | 2010 est. |
+| 195 | Dominican Republic | 13.6 | 2010 est. |
+| 196 | Anguilla | 13.0 | 2009 est. |
+| 197 | Cambodia | 12.7 | 2010 est. |
+| 198 | Azerbaijan | 12.6 | 2010 est. |
+| 199 | India | 11.9 | 2010 est. |
+| 200 | Vanuatu | 11.4 | 2005 est. |
+| 201 | Korea, North | 11.4 | 2007 est. |
+| 202 | Guatemala | 11.2 | 2010 est. |
+| 203 | Bangladesh | 10.9 | 2010 est. |
+| 204 | Turkmenistan | 10.8 | 2010 est. |
+| 205 | Suriname | 10.7 | 2004 |
+| 206 | Curacao | 10.7 | 2010 est. |
+| 207 | Nigeria | 9.5 | 2010 est. |
+| 208 | Puerto Rico | 7.2 | FY99/00 |
+| 209 | Afghanistan | 6.4 | FY09/10 est. |
+| 210 | Burma | 3.3 | 2010 est. |

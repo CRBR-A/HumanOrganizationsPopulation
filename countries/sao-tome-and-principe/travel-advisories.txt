@@ -1,0 +1,14 @@
+| Precautions | Exercise normal precautions in Sao Tome and Principe. |
+| | Consult the link below for updates to travel advisories and statements on safety, security, local laws, and special circumstances in this country. |
+| | <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html> |
+| Passport/Visa Requirements | US citizens should make sure their passport will not expire for at least 6 months after they enter the country even if they do not intend to stay that long. They should also make sure they have at least 1 blank page in their passport for every entry stamp and or visa that will be required; holders of a valid U.S. passport do not require a visa when visiting for a period of up to 15 days. |
+| Vaccinations | Proof of yellow fever vaccination is required to enter Sao Tome and Príncipe if traveling from a region with yellow fever. See WHO recommendations.  <http://www.who.int/> |
+| US Embassy/Consulate | Sao Tome and Principe does not currently maintain an embassy in the United States. Travelers transiting Gabon can obtain the latest information on entry requirements from the Embassy of São Tomé & Príncipe in Gabon, B.P. 49, Libreville, Gabon, telephone +(241)-72-15-27, fax +(241)-72-15-28. For all other inquiries, please contact Sao Tome and Principe's Permanent Mission to the United Nations at 400 Park Avenue, 7th Floor, New York, NY 10022, +1 (212) 317 0644. |
+
+---
+country: Sao Tome and Principe
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Sao Tome and Principe/travel-facts>
+license: public domain (U.S.)
+...

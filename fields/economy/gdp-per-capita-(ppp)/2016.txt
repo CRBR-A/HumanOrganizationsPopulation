@@ -1,0 +1,237 @@
+CIA - The World Factbook --  GDP - PER CAPITA (PPP)
+
+GDP - per capita (PPP) compares GDP on a purchasing power parity basis divided by population as of 1 July for the same year.
+
+| Rank | Country | GDP - PER CAPITA (PPP) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Qatar | $132,900 | 2015 est. |
+| 2 | Macau | $101,300 | 2015 est. |
+| 3 | Luxembourg | $99,500 | 2015 est. |
+| 4 | Liechtenstein | $89,400 | 2009 est. |
+| 5 | Bermuda | $85,700 | 2013 est. |
+| 6 | Singapore | $85,400 | 2015 est. |
+| 7 | Isle of Man | $83,100 | 2007 est. |
+| 8 | Brunei | $79,500 | 2015 est. |
+| 9 | Monaco | $78,700 | 2013 est. |
+| 10 | Kuwait | $70,500 | 2015 est. |
+| 11 | Norway | $68,600 | 2015 est. |
+| 12 | United Arab Emirates | $67,200 | 2015 est. |
+| 13 | Sint Maarten | $66,800 | 2014 est. |
+| 14 | Ireland | $65,800 | 2015 est. |
+| 15 | San Marino | $63,800 | 2015 est. |
+| 16 | Switzerland | $58,600 | 2015 est. |
+| 17 | Jersey | $57,000 | 2005 est. |
+| 18 | Hong Kong | $56,900 | 2015 est. |
+| 19 | United States | $56,100 | 2015 est. |
+| 20 | Falkland Islands (Islas Malvinas) | $55,400 | 2002 est. |
+| 21 | Saudi Arabia | $53,800 | 2015 est. |
+| 22 | Guernsey | $52,300 | 2014 est. |
+| 23 | Bahrain | $49,600 | 2015 est. |
+| 24 | Netherlands | $49,600 | 2015 est. |
+| 25 | Sweden | $48,200 | 2015 est. |
+| 26 | Australia | $47,600 | 2015 est. |
+| 27 | Austria | $47,000 | 2015 est. |
+| 28 | Germany | $47,000 | 2015 est. |
+| 29 | Taiwan | $46,800 | 2015 est. |
+| 30 | Denmark | $45,700 | 2015 est. |
+| 31 | Canada | $45,600 | 2015 est. |
+| 32 | Iceland | $45,600 | 2015 est. |
+| 33 | Belgium | $44,100 | 2015 est. |
+| 34 | Cayman Islands | $43,800 | 2004 est. |
+| 35 | Oman | $43,700 | 2015 est. |
+| 36 | Equatorial Guinea | $43,500 | 2015 est. |
+| 37 | Gibraltar | $43,000 | 2008 est. |
+| 38 | British Virgin Islands | $42,300 | 2010 est. |
+| 39 | France | $41,500 | 2015 est. |
+| 40 | United Kingdom | $41,500 | 2015 est. |
+| 41 | Finland | $41,100 | 2015 est. |
+| 42 | New Caledonia | $38,800 | 2012 est. |
+| 43 | Japan | $38,100 | 2015 est. |
+| 44 | Puerto Rico | $37,900 | 2015 est. |
+| 45 | Greenland | $37,900 | 2008 est. |
+| 46 | European Union | $37,800 | 2015 est. |
+| 47 | Andorra | $37,200 | 2011 est. |
+| 48 | Faroe Islands | $36,600 | 2014 est. |
+| 49 | Korea, South | $36,600 | 2015 est. |
+| 50 | Virgin Islands | $36,100 | 2013 est. |
+| 51 | New Zealand | $36,100 | 2015 est. |
+| 52 | Malta | $36,100 | 2015 est. |
+| 53 | Italy | $35,800 | 2015 est. |
+| 54 | Spain | $34,900 | 2015 est. |
+| 55 | Saint Pierre and Miquelon | $34,900 | 2006 est. |
+| 56 | Israel | $34,100 | 2015 est. |
+| 57 | Cyprus | $33,200 | 2015 est. |
+| 58 | Trinidad and Tobago | $32,600 | 2015 est. |
+| 59 | Czechia | $32,100 | 2015 est. |
+| 60 | Slovenia | $30,900 | 2015 est. |
+| 61 | Guam | $30,500 | 2013 est. |
+| 62 | Slovakia | $29,800 | 2015 est. |
+| 63 | Turks and Caicos Islands | $29,100 | 2007 est. |
+| 64 | Estonia | $28,700 | 2015 est. |
+| 65 | Lithuania | $28,400 | 2015 est. |
+| 66 | Portugal | $27,900 | 2015 est. |
+| 67 | Seychelles | $26,700 | 2015 est. |
+| 68 | Poland | $26,500 | 2015 est. |
+| 69 | Greece | $26,400 | 2015 est. |
+| 70 | Hungary | $26,300 | 2015 est. |
+| 71 | Malaysia | $26,200 | 2015 est. |
+| 72 | French Polynesia | $26,100 | 2012 est. |
+| 73 | Russia | $26,000 | 2015 est. |
+| 74 | Kazakhstan | $25,900 | 2015 est. |
+| 75 | Aruba | $25,300 | 2011 est. |
+| 76 | Latvia | $24,700 | 2015 est. |
+| 77 | Bahamas, The | $24,500 | 2015 est. |
+| 78 | Saint Kitts and Nevis | $24,300 | 2015 est. |
+| 79 | Antigua and Barbuda | $23,600 | 2015 est. |
+| 80 | Chile | $23,500 | 2015 est. |
+| 81 | Panama | $21,800 | 2015 est. |
+| 82 | Croatia | $21,600 | 2015 est. |
+| 83 | Uruguay | $21,300 | 2015 est. |
+| 84 | Romania | $20,900 | 2015 est. |
+| 85 | Argentina | $20,500 | 2015 est. |
+| 86 | Turkey | $20,400 | 2015 est. |
+| 87 | Mauritius | $19,600 | 2015 est. |
+| 88 | Saint Martin | $19,300 | 2005 est. |
+| 89 | Bulgaria | $19,200 | 2015 est. |
+| 90 | Gabon | $18,700 | 2015 est. |
+| 91 | Mexico | $18,400 | 2015 est. |
+| 92 | Lebanon | $18,300 | 2015 est. |
+| 93 | Azerbaijan | $18,000 | 2015 est. |
+| 94 | Belarus | $17,700 | 2015 est. |
+| 95 | Iran | $17,300 | 2015 est. |
+| 96 | Venezuela | $16,800 | 2015 est. |
+| 97 | Barbados | $16,700 | 2015 est. |
+| 98 | Turkmenistan | $16,500 | 2015 est. |
+| 99 | Botswana | $16,400 | 2015 est. |
+| 100 | Suriname | $16,300 | 2015 est. |
+| 101 | Thailand | $16,100 | 2015 est. |
+| 102 | Montenegro | $16,000 | 2015 est. |
+| 103 | Brazil | $15,600 | 2015 est. |
+| 104 | Costa Rica | $15,500 | 2015 est. |
+| 105 | Iraq | $15,200 | 2015 est. |
+| 106 | Palau | $15,100 | 2015 est. |
+| 107 | Curacao | $15,000 | 2004 est. |
+| 108 | Dominican Republic | $15,000 | 2015 est. |
+| 109 | Maldives | $14,900 | 2015 est. |
+| 110 | Nauru | $14,800 | 2015 est. |
+| 111 | Libya | $14,700 | 2015 est. |
+| 112 | Algeria | $14,500 | 2015 est. |
+| 113 | China | $14,300 | 2015 est. |
+| 114 | Macedonia | $14,000 | 2015 est. |
+| 115 | Colombia | $13,800 | 2015 est. |
+| 116 | Serbia | $13,700 | 2015 est. |
+| 117 | Grenada | $13,500 | 2015 est. |
+| 118 | Northern Mariana Islands | $13,300 | 2013 est. |
+| 119 | South Africa | $13,200 | 2015 est. |
+| 120 | American Samoa | $13,000 | 2013 est. |
+| 121 | Peru | $12,500 | 2015 est. |
+| 122 | Cook Islands | $12,300 | 2010 est. |
+| 123 | Mongolia | $12,200 | 2015 est. |
+| 124 | Anguilla | $12,200 | 2008 est. |
+| 125 | Egypt | $11,800 | 2015 est. |
+| 126 | Saint Lucia | $11,700 | 2015 est. |
+| 127 | Tunisia | $11,500 | 2015 est. |
+| 128 | Ecuador | $11,300 | 2015 est. |
+| 129 | Albania | $11,300 | 2015 est. |
+| 130 | Namibia | $11,200 | 2015 est. |
+| 131 | Indonesia | $11,100 | 2015 est. |
+| 132 | Dominica | $11,100 | 2015 est. |
+| 133 | Saint Vincent and the Grenadines | $10,900 | 2015 est. |
+| 134 | Jordan | $10,900 | 2015 est. |
+| 135 | Sri Lanka | $10,600 | 2015 est. |
+| 136 | Bosnia and Herzegovina | $10,600 | 2015 est. |
+| 137 | Cuba | $10,200 | 2010 est. |
+| 138 | Swaziland | $9,700 | 2015 est. |
+| 139 | Georgia | $9,600 | 2015 est. |
+| 140 | Fiji | $9,100 | 2015 est. |
+| 141 | Paraguay | $9,000 | 2015 est. |
+| 142 | Jamaica | $8,800 | 2015 est. |
+| 143 | El Salvador | $8,600 | 2015 est. |
+| 144 | Montserrat | $8,500 | 2006 est. |
+| 145 | Armenia | $8,500 | 2015 est. |
+| 146 | Belize | $8,300 | 2015 est. |
+| 147 | Morocco | $8,200 | 2015 est. |
+| 148 | Ukraine | $8,000 | 2015 est. |
+| 149 | Guatemala | $7,800 | 2015 est. |
+| 150 | Saint Helena, Ascension, and Tristan da Cunha | $7,800 | FY09/10 est. |
+| 151 | Bhutan | $7,700 | 2015 est. |
+| 152 | Guyana | $7,500 | 2015 est. |
+| 153 | Philippines | $7,300 | 2015 est. |
+| 154 | Bolivia | $7,000 | 2015 est. |
+| 155 | Angola | $7,000 | 2015 est. |
+| 156 | Congo, Republic of the | $6,700 | 2015 est. |
+| 157 | Cabo Verde | $6,500 | 2015 est. |
+| 158 | India | $6,200 | 2015 est. |
+| 159 | Nigeria | $6,100 | 2015 est. |
+| 160 | Uzbekistan | $6,100 | 2015 est. |
+| 161 | Vietnam | $6,000 | 2015 est. |
+| 162 | Niue | $5,800 | 2003 est. |
+| 163 | Burma | $5,500 | 2015 est. |
+| 164 | Laos | $5,400 | 2015 est. |
+| 165 | Samoa | $5,200 | 2015 est. |
+| 166 | Syria | $5,100 | 2011 est. |
+| 167 | Honduras | $5,100 | 2015 est. |
+| 168 | Tonga | $5,100 | 2015 est. |
+| 169 | Nicaragua | $5,000 | 2015 est. |
+| 170 | Moldova | $5,000 | 2015 est. |
+| 171 | Pakistan | $4,900 | 2015 est. |
+| 172 | Timor-Leste | $4,700 | 2015 est. |
+| 173 | Sudan | $4,400 | 2015 est. |
+| 174 | West Bank | $4,300 | 2014 est. |
+| 175 | Mauritania | $4,300 | 2015 est. |
+| 176 | Ghana | $4,300 | 2015 est. |
+| 177 | Zambia | $3,900 | 2015 est. |
+| 178 | Wallis and Futuna | $3,800 | 2004 est. |
+| 179 | Bangladesh | $3,600 | 2015 est. |
+| 180 | Papua New Guinea | $3,500 | 2015 est. |
+| 181 | Cambodia | $3,500 | 2015 est. |
+| 182 | Tuvalu | $3,400 | 2015 est. |
+| 183 | Kyrgyzstan | $3,400 | 2015 est. |
+| 184 | Cote d'Ivoire | $3,400 | 2015 est. |
+| 185 | Sao Tome and Principe | $3,200 | 2015 est. |
+| 186 | Marshall Islands | $3,200 | 2015 est. |
+| 187 | Kenya | $3,200 | 2015 est. |
+| 188 | Djibouti | $3,200 | 2015 est. |
+| 189 | Cameroon | $3,100 | 2015 est. |
+| 190 | Lesotho | $3,000 | 2015 est. |
+| 191 | Micronesia, Federated States of | $3,000 | 2015 est. |
+| 192 | Tanzania | $2,900 | 2015 est. |
+| 193 | Tajikistan | $2,800 | 2015 est. |
+| 194 | Yemen | $2,700 | 2015 est. |
+| 195 | Vanuatu | $2,600 | 2015 est. |
+| 196 | Chad | $2,600 | 2015 est. |
+| 197 | Senegal | $2,500 | 2015 est. |
+| 198 | Nepal | $2,500 | 2015 est. |
+| 199 | Western Sahara | $2,500 | 2007 est. |
+| 200 | Mali | $2,200 | 2015 est. |
+| 201 | Benin | $2,100 | 2015 est. |
+| 202 | Uganda | $2,000 | 2015 est. |
+| 203 | South Sudan | $2,000 | 2015 est. |
+| 204 | Solomon Islands | $2,000 | 2015 est. |
+| 205 | Zimbabwe | $2,000 | 2015 est. |
+| 206 | Afghanistan | $1,900 | 2015 est. |
+| 207 | Rwanda | $1,800 | 2015 est. |
+| 208 | Ethiopia | $1,800 | 2015 est. |
+| 209 | Kiribati | $1,800 | 2015 est. |
+| 210 | Korea, North | $1,800 | 2014 est. |
+| 211 | Haiti | $1,800 | 2015 est. |
+| 212 | Gambia, The | $1,700 | 2015 est. |
+| 213 | Burkina Faso | $1,700 | 2015 est. |
+| 214 | Sierra Leone | $1,600 | 2015 est. |
+| 215 | Togo | $1,500 | 2015 est. |
+| 216 | Guinea-Bissau | $1,500 | 2015 est. |
+| 217 | Madagascar | $1,500 | 2015 est. |
+| 218 | Comoros | $1,500 | 2015 est. |
+| 219 | Eritrea | $1,300 | 2015 est. |
+| 220 | Mozambique | $1,200 | 2015 est. |
+| 221 | Guinea | $1,200 | 2015 est. |
+| 222 | Niger | $1,100 | 2015 est. |
+| 223 | Malawi | $1,100 | 2015 est. |
+| 224 | Tokelau | $1,000 | 1993 est. |
+| 225 | Liberia | $900 | 2015 est. |
+| 226 | Congo, Democratic Republic of the | $800 | 2015 est. |
+| 227 | Burundi | $800 | 2015 est. |
+| 228 | Central African Republic | $600 | 2015 est. |
+| 229 | Somalia | $400 | 2014 est. |
+
+

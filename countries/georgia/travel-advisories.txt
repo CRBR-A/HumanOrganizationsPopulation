@@ -1,0 +1,12 @@
+| Precautions | Exercise normal precautions in Georgia. Some areas have increased risk. Consult the link below for updates to travel advisories and statements on safety, security, local laws, and special circumstances in this country.** **  <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html> |
+| Passport/Visa Requirements | US citizens should make sure their passport will not expire for at least 6 months after they enter the country even if they do not intend to stay that long. They should also make sure they have at least 2 blank pages in their passport for any entry stamp that will be required. A visa is not required as long as you do not stay in the country more than a year. |
+| Vaccinations | See WHO recommendations  <http://www.who.int/> |
+| US Embassy/Consulate | [995] (32) 227-70-00; US Embassy Tbilisi, 11 Georgian-American Friendship Avenue, Didi Dighomi, Tbilisi, 0131; https://ge.usembassy.gov/; askconsultbilisi@state.gov |
+
+---
+country: Georgia
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Georgia/travel-facts>
+license: public domain (U.S.)
+...

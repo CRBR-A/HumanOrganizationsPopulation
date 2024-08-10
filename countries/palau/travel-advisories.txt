@@ -1,0 +1,14 @@
+| Precautions | Exercise normal precautions in Palau. |
+| | Consult the link below for updates to travel advisories and statements on safety, security, local laws, and special circumstances in this country. |
+| | <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html> |
+| Passport/Visa Requirements | US citizens should make sure their passport will not expire for at least 6 months after they enter the country even if they do not intend to stay that long. They should also make sure they have at least 1 blank page in their passport for any entry stamp that will be required. A visa is not required, as long as you are a tourist, and do not stay in the country more than a year. |
+| Vaccinations | An International Certificate of Vaccination for yellow fever and cholera is required for travelers arriving from countries with a risk of yellow fever and cholera transmission and for travelers having transited through the airport of a country with risk of yellow fever and cholera transmission. See WHO recommendations.  <http://www.who.int/> |
+| US Embassy/Consulate | +680-587-2920/2990; EMER: +680-775-6150; US Embassy in Koror, Airai State, in an area known as Omsangel (no street address), PO Box 6028, Koror, Palau 96940; ConsularKoror@state.gov; https://pw.usembassy.gov/ |
+
+---
+country: Palau
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Palau/travel-facts>
+license: public domain (U.S.)
+...

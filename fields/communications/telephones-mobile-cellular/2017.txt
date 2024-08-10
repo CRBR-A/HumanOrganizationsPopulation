@@ -1,0 +1,225 @@
+CIA - The World Factbook --  TELEPHONES - MOBILE CELLULAR
+
+Telephones - mobile cellular compares the total number of mobile cellular telephone subscribers.
+
+| Rank | Country | TELEPHONES - MOBILE CELLULAR | Date of Information |
+| --- | --- | --- | --- |
+| 1 | China | 1,300,000,000 | 2014 est. |
+| 2 | India | 944,000,000 | 2014 est. |
+| 3 | European Union | 632,500,000 | 2014 est. |
+| 4 | Indonesia | 319,000,000 | 2014 est. |
+| 5 | United States | 317,400,000 | 2014 est. |
+| 6 | Brazil | 280,700,000 | 2014 est. |
+| 7 | Russia | 221,000,000 | 2014 est. |
+| 8 | Japan | 152,700,000 | 2014 est. |
+| 9 | Nigeria | 139,000,000 | 2014 est. |
+| 10 | Vietnam | 136,100,000 | 2014 est. |
+| 11 | Pakistan | 135,800,000 | 2014 est. |
+| 12 | Bangladesh | 120,400,000 | 2014 est. |
+| 13 | Philippines | 111,300,000 | 2014 est. |
+| 14 | Mexico | 102,200,000 | 2014 est. |
+| 15 | Germany | 99,500,000 | 2014 est. |
+| 16 | Thailand | 97,100,000 | 2014 est. |
+| 17 | Egypt | 95,300,000 | 2014 est. |
+| 18 | Italy | 94,200,000 | 2014 est. |
+| 19 | South Africa | 79,500,000 | 2014 est. |
+| 20 | United Kingdom | 78,500,000 | 2014 est. |
+| 21 | Turkey | 71,900,000 | 2014 est. |
+| 22 | Iran | 68,900,000 | 2014 est. |
+| 23 | Argentina | 66,400,000 | 2014 est. |
+| 24 | France | 64,900,000 | 2014 est. |
+| 25 | Ukraine | 61,200,000 | 2014 est. |
+| 26 | Poland | 59,800,000 | 2014 est. |
+| 27 | Korea, South | 57,200,000 | 2014 est. |
+| 28 | Colombia | 55,300,000 | 2014 est. |
+| 29 | Saudi Arabia | 52,700,000 | 2014 est. |
+| 30 | Spain | 50,800,000 | 2014 est. |
+| 31 | Malaysia | 44,900,000 | 2014 est. |
+| 32 | Morocco | 44,100,000 | 2014 est. |
+| 33 | Algeria | 37,300,000 | 2014 est. |
+| 34 | Congo, Democratic Republic of the | 37,100,000 | 2014 est. |
+| 35 | Kenya | 33,600,000 | 2014 est. |
+| 36 | Iraq | 33,000,000 | 2014 est. |
+| 37 | Tanzania | 31,900,000 | 2014 est. |
+| 38 | Peru | 31,700,000 | 2014 est. |
+| 39 | Australia | 31,000,000 | 2014 est. |
+| 40 | Venezuela | 30,500,000 | 2014 est. |
+| 41 | Ethiopia | 30,500,000 | 2014 est. |
+| 42 | Ghana | 30,400,000 | 2014 est. |
+| 43 | Taiwan | 30,400,000 | 2014 est. |
+| 44 | Canada | 29,500,000 | 2014 est. |
+| 45 | Kazakhstan | 28,000,000 | 2014 est. |
+| 46 | Sudan | 27,800,000 | 2014 est. |
+| 47 | Burma | 26,600,000 | 2014 est. |
+| 48 | Cambodia | 23,900,000 | 2014 est. |
+| 49 | Chile | 23,700,000 | 2014 est. |
+| 50 | Mali | 23,500,000 | 2014 est. |
+| 51 | Afghanistan | 23,400,000 | 2014 est. |
+| 52 | Nepal | 23,200,000 | 2014 est. |
+| 53 | Romania | 22,900,000 | 2014 est. |
+| 54 | Cote d'Ivoire | 22,100,000 | 2014 est. |
+| 55 | Sri Lanka | 22,100,000 | 2014 est. |
+| 56 | Uzbekistan | 21,600,000 | 2014 est. |
+| 57 | Uganda | 20,400,000 | 2014 est. |
+| 58 | Netherlands | 19,600,000 | 2014 est. |
+| 59 | Mozambique | 18,400,000 | 2014 est. |
+| 60 | Hong Kong | 17,400,000 | 2014 est. |
+| 61 | Cameroon | 17,300,000 | 2014 est. |
+| 62 | Yemen | 17,100,000 | 2014 est. |
+| 63 | Guatemala | 16,900,000 | 2014 est. |
+| 64 | United Arab Emirates | 16,800,000 | 2014 est. |
+| 65 | Ecuador | 16,600,000 | 2014 est. |
+| 66 | Syria | 15,600,000 | 2014 est. |
+| 67 | Senegal | 14,400,000 | 2014 est. |
+| 68 | Tunisia | 14,300,000 | 2014 est. |
+| 69 | Angola | 14,100,000 | 2014 est. |
+| 70 | Czechia | 14,000,000 | 2014 est. |
+| 71 | Austria | 13,000,000 | 2014 est. |
+| 72 | Greece | 12,800,000 | 2014 est. |
+| 73 | Belgium | 12,700,000 | 2014 est. |
+| 74 | Burkina Faso | 12,500,000 | 2014 est. |
+| 75 | Sweden | 12,300,000 | 2014 est. |
+| 76 | Portugal | 11,900,000 | 2014 est. |
+| 77 | Zimbabwe | 11,800,000 | 2014 est. |
+| 78 | Hungary | 11,700,000 | 2014 est. |
+| 79 | Switzerland | 11,500,000 | 2014 est. |
+| 80 | Belarus | 11,400,000 | 2014 est. |
+| 81 | Jordan | 11,100,000 | 2014 est. |
+| 82 | Benin | 10,800,000 | 2014 est. |
+| 83 | Azerbaijan | 10,600,000 | 2014 est. |
+| 84 | Bolivia | 10,500,000 | 2014 est. |
+| 85 | Libya | 10,100,000 | 2014 est. |
+| 86 | Zambia | 10,100,000 | 2014 est. |
+| 87 | Bulgaria | 9,900,000 | 2014 est. |
+| 88 | Israel | 9,500,000 | 2014 est. |
+| 89 | Serbia | 9,300,000 | 2014 est. |
+| 90 | El Salvador | 9,200,000 | 2014 est. |
+| 91 | Madagascar | 9,000,000 | 2014 est. |
+| 92 | Singapore | 8,700,000 | 2014 est. |
+| 93 | Guinea | 8,700,000 | 2014 est. |
+| 94 | Dominican Republic | 8,300,000 | 2014 est. |
+| 95 | Niger | 8,200,000 | 2014 est. |
+| 96 | Tajikistan | 8,000,000 | 2014 est. |
+| 97 | Honduras | 7,700,000 | 2014 est. |
+| 98 | Rwanda | 7,700,000 | 2014 est. |
+| 99 | Finland | 7,600,000 | 2014 est. |
+| 100 | Kuwait | 7,600,000 | 2014 est. |
+| 101 | Kyrgyzstan | 7,600,000 | 2014 est. |
+| 102 | Paraguay | 7,300,000 | 2014 est. |
+| 103 | Turkmenistan | 7,200,000 | 2014 est. |
+| 104 | Costa Rica | 7,100,000 | 2014 est. |
+| 105 | Nicaragua | 7,100,000 | 2014 est. |
+| 106 | Denmark | 7,100,000 | 2014 est. |
+| 107 | Haiti | 6,800,000 | 2014 est. |
+| 108 | Slovakia | 6,400,000 | 2014 est. |
+| 109 | Oman | 6,200,000 | 2014 est. |
+| 110 | Panama | 6,200,000 | 2014 est. |
+| 111 | Norway | 5,900,000 | 2014 est. |
+| 112 | Uruguay | 5,500,000 | 2014 est. |
+| 113 | Somalia | 5,500,000 | 2014 est. |
+| 114 | Georgia | 5,400,000 | 2014 est. |
+| 115 | Chad | 5,300,000 | 2014 est. |
+| 116 | New Zealand | 5,100,000 | 2014 est. |
+| 117 | Malawi | 5,100,000 | 2014 est. |
+| 118 | Congo, Republic of the | 4,900,000 | 2014 est. |
+| 119 | Ireland | 4,900,000 | 2014 est. |
+| 120 | Sierra Leone | 4,800,000 | 2014 est. |
+| 121 | Togo | 4,800,000 | 2014 est. |
+| 122 | Laos | 4,600,000 | 2014 est. |
+| 123 | Croatia | 4,500,000 | 2014 est. |
+| 124 | Lithuania | 4,400,000 | 2014 est. |
+| 125 | Lebanon | 4,400,000 | 2014 est. |
+| 126 | Mauritania | 3,800,000 | 2014 est. |
+| 127 | Moldova | 3,700,000 | 2014 est. |
+| 128 | Gabon | 3,600,000 | 2014 est. |
+| 129 | Bosnia and Herzegovina | 3,500,000 | 2014 est. |
+| 130 | Armenia | 3,500,000 | 2014 est. |
+| 131 | Botswana | 3,400,000 | 2014 est. |
+| 132 | Papua New Guinea | 3,400,000 | 2014 est. |
+| 133 | Albania | 3,400,000 | 2014 est. |
+| 134 | Qatar | 3,300,000 | 2014 est. |
+| 135 | West Bank | 3,200,000 | 2014 est. |
+| 136 | Liberia | 3,200,000 | 2014 est. |
+| 137 | Puerto Rico | 3,200,000 | 2014 est. |
+| 138 | Burundi | 3,200,000 | 2014 est. |
+| 139 | Mongolia | 3,000,000 | 2014 est. |
+| 140 | Jamaica | 2,900,000 | 2014 est. |
+| 141 | South Sudan | 2,900,000 | 2014 est. |
+| 142 | Korea, North | 2,800,000 | 2014 est. |
+| 143 | Namibia | 2,700,000 | 2014 est. |
+| 144 | Cuba | 2,500,000 | 2014 est. |
+| 145 | Latvia | 2,500,000 | 2014 est. |
+| 146 | Gambia, The | 2,300,000 | 2014 est. |
+| 147 | Macedonia | 2,300,000 | 2014 est. |
+| 148 | Bahrain | 2,300,000 | 2014 est. |
+| 149 | Slovenia | 2,300,000 | 2014 est. |
+| 150 | Estonia | 2,100,000 | 2014 est. |
+| 151 | Lesotho | 2,100,000 | 2014 est. |
+| 152 | Trinidad and Tobago | 2,000,000 | 2014 est. |
+| 153 | Mauritius | 1,700,000 | 2014 est. |
+| 154 | Macau | 1,600,000 | 2012 |
+| 155 | Central African Republic | 1,500,000 | 2014 est. |
+| 156 | Guinea-Bissau | 1,100,000 | 2014 est. |
+| 157 | Cyprus | 1,100,000 | 2014 est. |
+| 158 | Montenegro | 1,000,000 | 2014 est. |
+| 159 | Suriname | 927,800 | 2014 est. |
+| 160 | Swaziland | 916,800 | 2014 est. |
+| 161 | Fiji | 876,200 | 2014 est. |
+| 162 | Luxembourg | 796,400 | 2014 est. |
+| 163 | Timor-Leste | 676,900 | 2014 est. |
+| 164 | Maldives | 665,800 | 2014 est. |
+| 165 | Bhutan | 628,300 | 2014 est. |
+| 166 | Cabo Verde | 613,400 | 2014 est. |
+| 167 | Guyana | 566,900 | 2014 est. |
+| 168 | Kosovo | 562,000 | 2007 |
+| 169 | Malta | 546,200 | 2014 est. |
+| 170 | Equatorial Guinea | 516,500 | 2014 est. |
+| 171 | Brunei | 465,800 | 2014 est. |
+| 172 | Eritrea | 417,400 | 2014 est. |
+| 173 | Comoros | 383,000 | 2014 est. |
+| 174 | Solomon Islands | 376,700 | 2014 est. |
+| 175 | Iceland | 370,000 | 2014 est. |
+| 176 | Barbados | 305,500 | 2014 est. |
+| 177 | Djibouti | 287,000 | 2014 est. |
+| 178 | Bahamas, The | 273,300 | 2014 est. |
+| 179 | New Caledonia | 243,100 | 2014 est. |
+| 180 | French Polynesia | 239,700 | 2014 est. |
+| 181 | Saint Lucia | 188,400 | 2014 est. |
+| 182 | Belize | 172,300 | 2014 est. |
+| 183 | Vanuatu | 156,100 | 2014 est. |
+| 184 | Seychelles | 151,300 | 2014 est. |
+| 185 | Aruba | 139,700 | 2014 est. |
+| 186 | Grenada | 134,500 | 2014 est. |
+| 187 | Sao Tome and Principe | 128,500 | 2014 est. |
+| 188 | Saint Vincent and the Grenadines | 115,000 | 2014 est. |
+| 189 | Antigua and Barbuda | 109,100 | 2014 est. |
+| 190 | Samoa | 106,500 | 2014 est. |
+| 191 | Guam | 98,000 | 2004 |
+| 192 | Dominica | 92,200 | 2014 est. |
+| 193 | Cayman Islands | 91,100 | 2014 est. |
+| 194 | Jersey | 83,900 | 2004 |
+| 195 | Virgin Islands | 80,300 | 2005 |
+| 196 | Saint Kitts and Nevis | 76,600 | 2014 est. |
+| 197 | Tonga | 68,000 | 2014 est. |
+| 198 | Andorra | 66,200 | 2014 est. |
+| 199 | Faroe Islands | 61,400 | 2014 est. |
+| 200 | Greenland | 60,800 | 2014 est. |
+| 201 | Bermuda | 59,500 | 2014 est. |
+| 202 | British Virgin Islands | 48,400 | 2014 est. |
+| 203 | Guernsey | 43,800 | 2004 |
+| 204 | Liechtenstein | 38,800 | 2014 est. |
+| 205 | Gibraltar | 38,000 | 2014 est. |
+| 206 | San Marino | 37,600 | 2014 est. |
+| 207 | Monaco | 33,700 | 2014 est. |
+| 208 | Micronesia, Federated States of | 31,400 | 2013 |
+| 209 | Anguilla | 26,000 | 2014 est. |
+| 210 | Palau | 19,100 | 2014 est. |
+| 211 | Kiribati | 18,100 | 2014 est. |
+| 212 | Marshall Islands | 15,500 | 2014 est. |
+| 213 | Cook Islands | 7,800 | 2009 |
+| 214 | Nauru | 6,800 | 2012 |
+| 215 | Montserrat | 4,500 | 2014 est. |
+| 216 | Falkland Islands (Islas Malvinas) | 4,200 | 2014 est. |
+| 217 | Tuvalu | 3,800 | 2014 est. |
+
+

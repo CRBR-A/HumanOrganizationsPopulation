@@ -1,0 +1,8 @@
+Spain's powerful world empire of the 16th and 17th centuries ultimately yielded command of the seas to England. Subsequent failure to embrace the mercantile and industrial revolutions caused the country to fall behind Britain, France, and Germany in economic and political power. Spain remained neutral in World War I and II, but suffered through a devastating civil war (1936-39). A peaceful transition to democracy following the death of dictator Francisco FRANCO in 1975, and rapid economic modernization (Spain joined the EU in 1986) gave Spain a dynamic and rapidly growing economy, and made it a global champion of freedom and human rights. More recently, Spain has emerged from a severe economic recession that began in mid-2008, posting four straight years of GDP growth above the EU average. Unemployment has fallen, but remains high, especially among youth. Spain is the Eurozone's fourth largest economy. The country has faced increased domestic turmoil in recent years due to the independence movement in its restive Catalonia region.  
+
+---
+country: Spain
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Spain/>
+license: public domain (U.S.)
+...

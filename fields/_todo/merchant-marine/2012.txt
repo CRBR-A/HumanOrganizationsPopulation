@@ -1,0 +1,165 @@
+CIA - The World Factbook --  Merchant marine   
+
+Merchant marine may be defined as all ships engaged in the carriage of goods; or all commercial vessels (as opposed to all nonmilitary ships), which excludes tugs, fishing vessels, offshore oil rigs, etc. This entry contains information in four fields - total, ships by type, foreign-owned, and registered in other countries.
+| Total includes the number of ships (1,000 GRT or over), total DWT for those ships, and total GRT for those ships. DWT or dead weight tonnage is the total weight of cargo, plus bunkers, stores, etc., that a ship can carry when immersed to the appropriate load line. GRT or gross register tonnage is a figure obtained by measuring the entire sheltered volume of a ship available for cargo and passengers and converting it to tons on the basis of 100 cubic feet per ton; there is no stable relationship between GRT and DWT. |
+| Ships by type includes a listing of barge carriers, bulk cargo ships, cargo ships, chemical tankers, combination bulk carriers, combination ore/oil carriers, container ships, liquefied gas tankers, livestock carriers, multifunctional large-load carriers, petroleum tankers, passenger ships, passenger/cargo ships, railcar carriers, refrigerated cargo ships, roll-on/roll-off cargo ships, short-sea passenger ships, specialized tankers, and vehicle carriers. |
+| Foreign-owned are ships that fly the flag of one country but belong to owners in another. |
+| Registered in other countries are ships that belong to owners in one country but fly the flag of another. |
+| Rank | country | Merchant marine | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Panama | 6,413 | 2010 |
+| 2 | Liberia | 2,771 | 2010 |
+| 3 | China | 2,030 | 2010 |
+| 4 | Malta | 1,650 | 2010 |
+| 5 | Hong Kong | 1,644 | 2010 |
+| 6 | Singapore | 1,599 | 2010 |
+| 7 | Marshall Islands | 1,593 | 2010 |
+| 8 | Indonesia | 1,340 | 2010 |
+| 9 | Antigua and Barbuda | 1,257 | 2010 |
+| 10 | Bahamas, The | 1,160 | 2010 |
+| 11 | Russia | 1,143 | 2010 |
+| 12 | Greece | 860 | 2010 |
+| 13 | Cyprus | 838 | 2010 |
+| 14 | Korea, South | 786 | 2010 |
+| 15 | Netherlands | 744 | 2010 |
+| 16 | Japan | 684 | 2010 |
+| 17 | Italy | 681 | 2010 |
+| 18 | Turkey | 629 | 2010 |
+| 19 | Norway | 585 | 2010 |
+| 20 | Vietnam | 579 | 2010 |
+| 21 | Cambodia | 544 | 2010 |
+| 22 | United Kingdom | 504 | 2010 |
+| 23 | Philippines | 446 | 2010 |
+| 24 | Germany | 427 | 2010 |
+| 25 | Saint Vincent and the Grenadines | 412 | 2010 |
+| 26 | United States | 393 | 2010 |
+| 27 | Denmark | 367 | 2010 |
+| 28 | Thailand | 363 | 2010 |
+| 29 | India | 340 | 2010 |
+| 30 | Isle of Man | 321 | 2010 |
+| 31 | Malaysia | 315 | 2010 |
+| 32 | Gibraltar | 267 | 2010 |
+| 33 | Belize | 247 | 2010 |
+| 34 | Sierra Leone | 215 | 2010 |
+| 35 | Canada | 181 | 2010 |
+| 36 | France | 162 | 2010 |
+| 37 | Korea, North | 158 | 2010 |
+| 38 | Saint Kitts and Nevis | 152 | 2010 |
+| 39 | Comoros | 149 | 2010 |
+| 40 | Georgia | 142 | 2010 |
+| 41 | Bermuda | 139 | 2010 |
+| 42 | Sweden | 135 | 2010 |
+| 43 | Ukraine | 134 | 2010 |
+| 44 | Spain | 132 | 2010 |
+| 45 | Moldova | 121 | 2010 |
+| 46 | Cayman Islands | 116 | 2010 |
+| 47 | Taiwan | 112 | 2010 |
+| 48 | Portugal | 109 | 2010 |
+| 49 | Barbados | 109 | 2010 |
+| 50 | Brazil | 109 | 2010 |
+| 51 | Finland | 97 | 2010 |
+| 52 | Tanzania | 94 | 2010 |
+| 53 | Azerbaijan | 90 | 2010 |
+| 54 | Nigeria | 89 | 2010 |
+| 55 | Honduras | 88 | 2010 |
+| 56 | Belgium | 87 | 2010 |
+| 57 | Croatia | 77 | 2010 |
+| 58 | Vanuatu | 77 | 2010 |
+| 59 | Kiribati | 77 | 2010 |
+| 60 | Iran | 76 | 2010 |
+| 61 | Saudi Arabia | 72 | 2010 |
+| 62 | Egypt | 67 | 2010 |
+| 63 | Monaco | 64 | 2010 |
+| 64 | Bangladesh | 62 | 2010 |
+| 65 | United Arab Emirates | 61 | 2010 |
+| 66 | Togo | 61 | 2010 |
+| 67 | Tuvalu | 58 | 2010 |
+| 68 | Mongolia | 57 | 2010 |
+| 69 | Venezuela | 53 | 2010 |
+| 70 | Mexico | 52 | 2010 |
+| 71 | Luxembourg | 49 | 2010 |
+| 72 | Ecuador | 44 | 2010 |
+| 73 | Dominica | 43 | 2010 |
+| 74 | Chile | 42 | 2010 |
+| 75 | Australia | 41 | 2010 |
+| 76 | Switzerland | 38 | 2010 |
+| 77 | Lithuania | 38 | 2010 |
+| 78 | Algeria | 38 | 2010 |
+| 79 | Faroe Islands | 37 | 2010 |
+| 80 | Argentina | 36 | 2010 |
+| 81 | Cook Islands | 35 | 2010 |
+| 82 | Kuwait | 34 | 2010 |
+| 83 | Papua New Guinea | 31 | 2010 |
+| 84 | Ireland | 31 | 2010 |
+| 85 | Lebanon | 29 | 2010 |
+| 86 | Burma | 29 | 2010 |
+| 87 | Qatar | 28 | 2010 |
+| 88 | Morocco | 26 | 2010 |
+| 89 | Estonia | 25 | 2010 |
+| 90 | Slovenia | 24 | 2010 |
+| 91 | Libya | 23 | 2010 |
+| 92 | Peru | 22 | 2010 |
+| 93 | Bulgaria | 22 | 2010 |
+| 94 | Sri Lanka | 21 | 2010 |
+| 95 | Syria | 19 | 2010 |
+| 96 | Paraguay | 19 | 2010 |
+| 97 | Maldives | 18 | 2010 |
+| 98 | Bolivia | 18 | 2010 |
+| 99 | Albania | 17 | 2010 |
+| 100 | Uruguay | 16 | 2010 |
+| 101 | New Zealand | 15 | 2010 |
+| 102 | Jersey | 14 | 2010 |
+| 103 | Jamaica | 14 | 2010 |
+| 104 | Cape Verde | 13 | 2010 |
+| 105 | Colombia | 12 | 2010 |
+| 106 | Jordan | 12 | 2010 |
+| 107 | French Polynesia | 12 | 2010 |
+| 108 | Fiji | 11 | 2010 |
+| 109 | Kazakhstan | 11 | 2010 |
+| 110 | Turkmenistan | 11 | 2010 |
+| 111 | Pakistan | 11 | 2010 |
+| 112 | Slovakia | 11 | 2010 |
+| 113 | Latvia | 11 | 2010 |
+| 114 | Guyana | 10 | 2010 |
+| 115 | Brunei | 9 | 2010 |
+| 116 | Tunisia | 9 | 2010 |
+| 117 | Seychelles | 9 | 2010 |
+| 118 | Poland | 9 | 2010 |
+| 119 | Bahrain | 8 | 2010 |
+| 120 | Israel | 8 | 2010 |
+| 121 | Ethiopia | 8 | 2010 |
+| 122 | Tonga | 7 | 2010 |
+| 123 | Angola | 7 | 2010 |
+| 124 | Equatorial Guinea | 5 | 2010 |
+| 125 | Kenya | 5 | 2010 |
+| 126 | Yemen | 5 | 2010 |
+| 127 | Romania | 5 | 2010 |
+| 128 | Oman | 5 | 2010 |
+| 129 | Eritrea | 4 | 2010 |
+| 130 | Gambia, The | 4 | 2010 |
+| 131 | Trinidad and Tobago | 4 | 2010 |
+| 132 | Mauritius | 4 | 2010 |
+| 133 | Ghana | 4 | 2010 |
+| 134 | Austria | 3 | 2010 |
+| 135 | Cuba | 3 | 2010 |
+| 136 | South Africa | 3 | 2010 |
+| 137 | New Caledonia | 3 | 2010 |
+| 138 | Sao Tome and Principe | 3 | 2010 |
+| 139 | Micronesia, Federated States of | 3 | 2010 |
+| 140 | Gabon | 2 | 2010 |
+| 141 | Iceland | 2 | 2010 |
+| 142 | Iraq | 2 | 2010 |
+| 143 | Sudan | 2 | 2010 |
+| 144 | Mozambique | 2 | 2010 |
+| 145 | Samoa | 2 | 2010 |
+| 146 | Montenegro | 2 | 2010 |
+| 147 | Congo, Democratic Republic of the | 1 | 2010 |
+| 148 | Congo, Republic of the | 1 | 2010 |
+| 149 | Costa Rica | 1 | 2010 |
+| 150 | Czech Republic | 1 | 2010 |
+| 151 | Timor-Leste | 1 | 2010 |
+| 152 | Madagascar | 1 | 2010 |
+| 153 | Namibia | 1 | 2010 |
+| 154 | Senegal | 1 | 2010 |
+| 155 | Somalia | 1 | 2008 |
+| 156 | Greenland | 1 | 2010 |

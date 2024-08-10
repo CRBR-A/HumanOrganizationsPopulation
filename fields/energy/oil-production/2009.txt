@@ -1,0 +1,215 @@
+CIA - The World Factbook --  Oil - production   
+
+This entry is the total oil produced in barrels per day (bbl/day). The discrepancy between the amount of oil produced and/or imported and the amount consumed and/or exported is due to the omission of stock changes, refinery gains, and other complicating factors.
+
+| Rank | country | (bbl/day) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Saudi Arabia | 10,780,000 | 2008 est. |
+| 2 | Russia | 9,790,000 | 2008 est. |
+| 3 | United States | 8,514,000 | 2008 est. |
+| 4 | Iran | 4,174,000 | 2008 est. |
+| 5 | China | 3,973,000 | 2008 est. |
+| 6 | Canada | 3,350,000 | 2008 est. |
+| 7 | Mexico | 3,186,000 | 2008 est. |
+| 8 | United Arab Emirates | 3,046,000 | 2008 est. |
+| 9 | Kuwait | 2,741,000 | 2008 est. |
+| 10 | Venezuela | 2,643,000 | 2008 est. |
+| 11 | European Union | 2,538,000 | 2007 est. |
+| 12 | Norway | 2,466,000 | 2008 est. |
+| 13 | Brazil | 2,422,000 | 2008 est. |
+| 14 | Iraq | 2,385,000 | 2008 est. |
+| 15 | Algeria | 2,180,000 | 2008 est. |
+| 16 | Nigeria | 2,169,000 | 2008 est. |
+| 17 | Angola | 2,015,000 | 2008 est. |
+| 18 | Libya | 1,875,000 | 2008 est. |
+| 19 | United Kingdom | 1,584,000 | 2008 est. |
+| 20 | Kazakhstan | 1,429,000 | 2008 est. |
+| 21 | Qatar | 1,208,000 | 2008 est. |
+| 22 | Indonesia | 1,051,000 | 2008 est. |
+| 23 | India | 883,500 | 2008 est. |
+| 24 | Azerbaijan | 875,200 | 2008 est. |
+| 25 | Argentina | 792,300 | 2008 est. |
+| 26 | Oman | 761,000 | 2008 est. |
+| 27 | Malaysia | 727,200 | 2008 est. |
+| 28 | Egypt | 630,600 | 2008 est. |
+| 29 | Colombia | 600,600 | 2008 est. |
+| 30 | Australia | 586,400 | 2008 est. |
+| 31 | Ecuador | 505,100 | 2008 est. |
+| 32 | Sudan | 480,200 | 2008 est. |
+| 33 | Syria | 426,100 | 2008 est. |
+| 34 | Thailand | 361,300 | 2008 est. |
+| 35 | Equatorial Guinea | 359,200 | 2008 est. |
+| 36 | Vietnam | 313,600 | 2008 est. |
+| 37 | Yemen | 300,100 | 2008 est. |
+| 38 | Denmark | 288,800 | 2008 est. |
+| 39 | Gabon | 247,800 | 2008 est. |
+| 40 | Congo, Republic of the | 239,900 | 2008 est. |
+| 41 | South Africa | 195,000 | 2008 est. |
+| 42 | Turkmenistan | 189,400 | 2008 est. |
+| 43 | Trinidad and Tobago | 163,300 | 2008 est. |
+| 44 | Italy | 162,200 | 2008 est. |
+| 45 | Brunei | 157,400 | 2008 est. |
+| 46 | Germany | 150,800 | 2008 est. |
+| 47 | Japan | 133,100 | 2008 est. |
+| 48 | Chad | 127,000 | 2008 est. |
+| 49 | Peru | 120,200 | 2008 est. |
+| 50 | Romania | 115,200 | 2008 est. |
+| 51 | Ukraine | 101,300 | 2008 est. |
+| 52 | Timor-Leste | 100,000 | 2008 est. |
+| 53 | Tunisia | 86,930 | 2008 est. |
+| 54 | Uzbekistan | 83,820 | 2008 est. |
+| 55 | Cameroon | 81,720 | 2008 est. |
+| 56 | Netherlands | 72,090 | 2008 est. |
+| 57 | France | 70,800 | 2008 est. |
+| 58 | New Zealand | 65,400 | 2008 est. |
+| 59 | Pakistan | 61,870 | 2008 est. |
+| 60 | Cote d'Ivoire | 60,100 | 2008 est. |
+| 61 | Cuba | 52,630 | 2008 est. |
+| 62 | Bolivia | 51,360 | 2008 est. |
+| 63 | Bahrain | 48,520 | 2008 est. |
+| 64 | Turkey | 46,120 | 2008 est. |
+| 65 | Papua New Guinea | 38,100 | 2008 est. |
+| 66 | Hungary | 37,830 | 2008 est. |
+| 67 | Poland | 35,560 | 2008 est. |
+| 68 | Belarus | 32,950 | 2008 est. |
+| 69 | Korea, South | 30,440 | 2008 est. |
+| 70 | Spain | 28,130 | 2008 est. |
+| 71 | Philippines | 25,120 | 2008 est. |
+| 72 | Austria | 24,850 | 2008 est. |
+| 73 | Croatia | 22,200 | 2008 est. |
+| 74 | Burma | 22,120 | 2008 est. |
+| 75 | Congo, Democratic Republic of the | 19,960 | 2008 est. |
+| 76 | Virgin Islands | 17,620 | 2008 est. |
+| 77 | Czech Republic | 16,080 | 2008 est. |
+| 78 | Guatemala | 15,550 | 2008 est. |
+| 79 | Suriname | 15,280 | 2008 est. |
+| 80 | Slovakia | 14,000 | 2008 est. |
+| 81 | Mauritania | 12,830 | 2008 est. |
+| 82 | Taiwan | 12,310 | 2008 est. |
+| 83 | Serbia | 11,420 | 2008 est. |
+| 84 | Belgium | 11,220 | 2008 est. |
+| 85 | Chile | 11,190 | 2008 est. |
+| 86 | Finland | 9,789 | 2008 est. |
+| 87 | Singapore | 8,553 | 2008 est. |
+| 88 | Lithuania | 8,247 | 2008 est. |
+| 89 | Portugal | 7,861 | 2008 est. |
+| 90 | Estonia | 7,600 | 2008 est. |
+| 91 | Ghana | 7,399 | 2008 est. |
+| 92 | Bangladesh | 6,426 | 2008 est. |
+| 93 | Albania | 5,985 | 2008 est. |
+| 94 | Israel | 5,246 | 2008 est. |
+| 95 | Greece | 4,891 | 2008 est. |
+| 96 | Morocco | 4,310 | 2008 est. |
+| 97 | Sweden | 3,572 | 2008 est. |
+| 98 | Belize | 3,511 | 2008 est. |
+| 99 | Bulgaria | 3,357 | 2008 est. |
+| 100 | Switzerland | 3,244 | 2008 est. |
+| 101 | Mongolia | 3,216 | 2008 |
+| 102 | Aruba | 2,351 | 2008 est. |
+| 103 | Puerto Rico | 1,354 | 2008 est. |
+| 104 | Barbados | 1,100 | 2008 est. |
+| 105 | Georgia | 977 | 2008 est. |
+| 106 | Kyrgyzstan | 958 | 2008 est. |
+| 107 | Uruguay | 946 | 2008 est. |
+| 108 | Tajikistan | 238 | 2008 est. |
+| 109 | Zambia | 159 | 2008 est. |
+| 110 | Korea, North | 121 | 2008 est. |
+| 111 | Madagascar | 85 | 2008 est. |
+| 112 | Paraguay | 27 | 2008 est. |
+| 113 | Slovenia | 5 | 2008 est. |
+| 114 | Sierra Leone | 3 | 2008 est. |
+| 115 | Antigua and Barbuda | 0 | 2008 est. |
+| 116 | Botswana | 0 | 2008 est. |
+| 117 | Bosnia and Herzegovina | 0 | 2008 est. |
+| 118 | Solomon Islands | 0 | 2008 est. |
+| 119 | Zimbabwe | 0 | 2008 est. |
+| 120 | Swaziland | 0 | 2008 est. |
+| 121 | Samoa | 0 | 2008 est. |
+| 122 | Western Sahara | 0 | 2008 est. |
+| 123 | Namibia | 0 | 2008 est. |
+| 124 | British Virgin Islands | 0 | 2008 est. |
+| 125 | Saint Vincent and the Grenadines | 0 | 2008 est. |
+| 126 | Burkina Faso | 0 | 2008 est. |
+| 127 | Tanzania | 0 | 2008 est. |
+| 128 | Sao Tome and Principe | 0 | 2008 est. |
+| 129 | Togo | 0 | 2008 est. |
+| 130 | Tonga | 0 | 2008 est. |
+| 131 | Turks and Caicos Islands | 0 | 2008 est. |
+| 132 | Saint Lucia | 0 | 2008 est. |
+| 133 | Somalia | 0 | 2008 est. |
+| 134 | Saint Helena | 0 | 2008 est. |
+| 135 | Senegal | 0 | 2008 est. |
+| 136 | Seychelles | 0 | 2008 est. |
+| 137 | Saint Kitts and Nevis | 0 | 2008 est. |
+| 138 | Saint Pierre and Miquelon | 0 | 2008 est. |
+| 139 | Rwanda | 0 | 2008 est. |
+| 140 | Guinea-Bissau | 0 | 2008 est. |
+| 141 | Panama | 0 | 2008 est. |
+| 142 | Luxembourg | 0 | 2008 est. |
+| 143 | Lesotho | 0 | 2008 est. |
+| 144 | Liberia | 0 | 2008 est. |
+| 145 | Latvia | 0 | 2008 est. |
+| 146 | Lebanon | 0 | 2008 est. |
+| 147 | Laos | 0 | 2008 est. |
+| 148 | Kosovo | 0 | 2007 |
+| 149 | Kiribati | 0 | 2008 est. |
+| 150 | Kenya | 0 | 2008 est. |
+| 151 | Nicaragua | 0 | 2008 est. |
+| 152 | Netherlands Antilles | 0 | 2008 est. |
+| 153 | Nauru | 0 | 2008 est. |
+| 154 | Nepal | 0 | 2008 est. |
+| 155 | Vanuatu | 0 | 2008 est. |
+| 156 | Niger | 0 | 2008 est. |
+| 157 | Niue | 0 | 2008 est. |
+| 158 | New Caledonia | 0 | 2008 est. |
+| 159 | Mozambique | 0 | 2008 est. |
+| 160 | Maldives | 0 | 2008 est. |
+| 161 | Malta | 0 | 2008 est. |
+| 162 | Mauritius | 0 | 2008 est. |
+| 163 | Mali | 0 | 2008 est. |
+| 164 | Macedonia | 0 | 2008 est. |
+| 165 | Montenegro | 0 | 2008 est. |
+| 166 | Malawi | 0 | 2008 est. |
+| 167 | Montserrat | 0 | 2008 est. |
+| 168 | Moldova | 0 | 2008 est. |
+| 169 | Macau | 0 | 2008 est. |
+| 170 | Jordan | 0 | 2008 est. |
+| 171 | Jamaica | 0 | 2008 est. |
+| 172 | Gambia, The | 0 | 2008 est. |
+| 173 | French Polynesia | 0 | 2008 est. |
+| 174 | Faroe Islands | 0 | 2008 est. |
+| 175 | Falkland Islands (Islas Malvinas) | 0 | 2008 est. |
+| 176 | Fiji | 0 | 2008 est. |
+| 177 | Ethiopia | 0 | 2008 est. |
+| 178 | El Salvador | 0 | 2008 est. |
+| 179 | Eritrea | 0 | 2008 est. |
+| 180 | Ireland | 0 | 2008 est. |
+| 181 | Dominican Republic | 0 | 2008 est. |
+| 182 | Dominica | 0 | 2008 est. |
+| 183 | Djibouti | 0 | 2008 est. |
+| 184 | Cyprus | 0 | 2008 est. |
+| 185 | Cook Islands | 0 | 2008 est. |
+| 186 | Iceland | 0 | 2008 est. |
+| 187 | Honduras | 0 | 2008 est. |
+| 188 | Hong Kong | 0 | 2008 est. |
+| 189 | Haiti | 0 | 2008 est. |
+| 190 | Guyana | 0 | 2008 est. |
+| 191 | Guinea | 0 | 2008 est. |
+| 192 | Greenland | 0 | 2008 est. |
+| 193 | Grenada | 0 | 2008 est. |
+| 194 | Gibraltar | 0 | 2008 est. |
+| 195 | Cape Verde | 0 | 2008 est. |
+| 196 | Central African Republic | 0 | 2008 est. |
+| 197 | Costa Rica | 0 | 2008 est. |
+| 198 | Comoros | 0 | 2008 est. |
+| 199 | Cayman Islands | 0 | 2008 est. |
+| 200 | Sri Lanka | 0 | 2008 est. |
+| 201 | Cambodia | 0 | 2008 est. |
+| 202 | Burundi | 0 | 2008 est. |
+| 203 | Bhutan | 0 | 2008 est. |
+| 204 | Benin | 0 | 2008 est. |
+| 205 | Bahamas, The | 0 | 2008 est. |
+| 206 | Bermuda | 0 | 2008 est. |
+| 207 | Armenia | 0 | 2008 est. |
+| 208 | American Samoa | 0 | 2008 est. |
+| 209 | Afghanistan | 0 | 2008 est. |

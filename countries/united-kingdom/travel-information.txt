@@ -1,0 +1,27 @@
+Telephone Code: 44
+Local Emergency Phone: 112, 999
+Climate: Temperate; moderated by prevailing southwest winds over the North Atlantic Current; more than one half of the days are overcast
+Currency (Code): British pounds (GBP)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): G
+Major Languages: English, Scots, Scottish Gaelic, Welsh, Irish, Cornish
+Major Religions: Christian (includes Anglican, Roman Catholic, Presbyterian, Methodist) 59.5%, Muslim 4.4%, Hindu 1.3%, none 25.7%
+Time Difference: UTC 0 (5 hours ahead of Washington, DC, during Standard Time); daylight saving time: +1hr, begins last Sunday in March, ends last Sunday in October; note: applies to the United Kingdom proper, not to its crown dependencies or overseas territories
+Potable Water: Yes
+International Driving Permit: Suggested
+Road Driving Side: Left
+Tourist Destinations: London (includes the Tower of London, British Museum, Parliament, Trafalgar Square); Windsor Castle; Stonehenge; Roman Baths & Georgian City of Bath; York Minster & historic Yorkshire; Chester Zoo; Cotswolds & Lake District; Hadrian's Wall; Edinburgh; Cardiff
+Major Sports: Soccer, cricket, rugby, badminton, tennis, netball, field hockey
+Cultural Practices: It is considered rude to wave one's hand or to call when summoning a waiter at a restaurant.
+Tipping Guidelines: It is customary to leave 10-15% of the total bill as a tip when eating out, although some restaurants add on a service charge instead. Tip bartenders 1 pound. It is polite to tip 10-15% of the taxi fare, or round up to the nearest pound as a convenience. Tip porters 2 pounds to bring luggage to your room.
+Souvenirs: Teas, preserves, stationary, Jasperware, shortbread cookies, chocolate, scotch
+Traditional Cuisine: Fish and chips; roast beef with Yorkshire pudding
+
+---
+country: United Kingdom
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/United Kingdom/travel-facts>
+license: public domain (U.S.)
+...

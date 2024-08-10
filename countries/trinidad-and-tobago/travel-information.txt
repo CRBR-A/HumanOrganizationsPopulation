@@ -1,0 +1,29 @@
+Telephone Code: 868
+Local Emergency Phone - Ambulance: 990
+Local Emergency Phone - Fire: 990
+Local Emergency Phone - Police: 999
+Climate: Tropical; rainy season (June to December)
+Currency (Code): Trinidad and Tobago dollars (TTD)
+Electricity: 115 V
+Voltage: 60 Hz
+Plug types(s): A, B
+Major Languages: English, Trinidadian Creole English, Tobagonian Creole English, Caribbean Hindustani (a dialect of Hindi), Trinidadian Creole French, Spanish, Chinese
+Major Religions: Protestant 32.1%, Roman Catholic 21.6%, Hindu 18.2%, Muslim 5%, Jehovah's Witness 1.5%
+Time Difference: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested; additionally, if you plan to drive in Trinidad and Tobago, you will need an Inter-American Driving Permit issued by the AAA
+Road Driving Side: Left
+Tourist Destinations: Port of Spain; Maracas Bay; Pigeon Point; Caroni Bird Sanctuary; Asa Wright Nature Centre & Lodge; Little Tobago Island; Mount Saint Benedict Monastery
+Major Sports: Soccer, sailing, track and field, rugby
+Cultural Practices: Avoid cursing or using foul language as it is considered a criminal offense.
+Tipping Guidelines: In general, Trinidadians do not tip. A 10% service charge is often included at restaurants. If you really want to tip a particular waiter for exceptional service, make sure to physically give them the cash or leave it on the table where they can see it. Do not add it into the bill or credit card slip. Tipping private taxi drivers is at your discretion. Do not tip if you share a taxi. Tip a few dollars each round for the bartender.
+Souvenirs: Sarongs and other hand-painted clothing; shell necklaces and beaded, gold, and silver jewelry; leather sandals, spices, woodcarvings, steel pan drums, handmade ceramic statues
+Traditional Cuisine: Callaloo --- a stew with a soup-like consistency; dasheen (a type of taro) leaves are cooked with a variety of herbs and spices; crabs are traditionally added, however, chicken or salted pork may also be used
+
+---
+country: Trinidad and Tobago
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Trinidad and Tobago/travel-facts>
+license: public domain (U.S.)
+...

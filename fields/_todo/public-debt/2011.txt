@@ -1,0 +1,139 @@
+CIA - The World Factbook --  Public debt   
+
+This entry records the cumulative total of all government borrowings less repayments that are denominated in a country's home currency. Public debt should not be confused with external debt, which reflects the foreign currency liabilities of both the private and public sector and must be financed out of foreign exchange earnings.
+
+| Rank | country | (% of GDP) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Zimbabwe | 233.20 | 2010 est. |
+| 2 | Japan | 199.70 | 2010 est. |
+| 3 | Saint Kitts and Nevis | 185.00 | 2009 est. |
+| 4 | Greece | 142.70 | 2010 est. |
+| 5 | Lebanon | 133.80 | 2010 est. |
+| 6 | Iceland | 126.30 | 2010 est. |
+| 7 | Jamaica | 126.20 | 2010 est. |
+| 8 | Italy | 119.10 | 2010 est. |
+| 9 | Singapore | 105.80 | 2010 est. |
+| 10 | Barbados | 102.10 | 2010 est. |
+| 11 | Belgium | 100.70 | 2010 est. |
+| 12 | Ireland | 94.90 | 2010 est. |
+| 13 | Portugal | 93.00 | 2010 est. |
+| 14 | Sudan | 90.80 | 2010 est. |
+| 15 | Canada | 84.00 | 2010 est. |
+| 16 | Germany | 83.40 | 2010 est. |
+| 17 | Belize | 83.00 | 2010 est. |
+| 18 | France | 82.40 | 2010 est. |
+| 19 | Sri Lanka | 81.90 | 2010 est. |
+| 20 | Egypt | 81.40 | 2010 est. |
+| 21 | Hungary | 80.20 | 2010 est. |
+| 22 | Dominica | 78.00 | 2009 est. |
+| 23 | United Kingdom | 76.10 | 2010 est. |
+| 24 | Israel | 74.60 | 2010 est. |
+| 25 | Austria | 72.30 | 2010 est. |
+| 26 | Malta | 67.80 | 2010 est. |
+| 27 | Nicaragua | 63.60 | 2010 est. |
+| 28 | Cote d'Ivoire | 63.10 | 2010 est. |
+| 29 | United States | 62.90 | 2010 est. |
+| 30 | Netherlands | 62.70 | 2010 est. |
+| 31 | Jordan | 61.20 | 2010 est. |
+| 32 | Morocco | 61.10 | 2010 est. |
+| 33 | Cyprus | 60.80 | 2010 est. |
+| 34 | Bahrain | 60.10 | 2010 est. |
+| 35 | Spain | 60.10 | 2010 est. |
+| 36 | Croatia | 58.20 | 2010 est. |
+| 37 | Bhutan | 57.80 | 2009 |
+| 38 | Mauritius | 57.70 | 2010 est. |
+| 39 | Albania | 57.10 | 2010 est. |
+| 40 | Vietnam | 57.10 | 2010 est. |
+| 41 | Guyana | 57.00 | 2010 est. |
+| 42 | Uruguay | 56.30 | 2010 est. |
+| 43 | Brazil | 54.70 | 2010 est. |
+| 44 | El Salvador | 54.40 | 2010 est. |
+| 45 | Seychelles | 53.40 | 2010 est. |
+| 46 | Malaysia | 53.10 | 2010 est. |
+| 47 | Poland | 52.80 | 2010 est. |
+| 48 | Philippines | 52.40 | 2010 est. |
+| 49 | United Arab Emirates | 51.20 | 2010 est. |
+| 50 | India | 50.60 | 2010 est. |
+| 51 | Pakistan | 50.60 | 2010 est. |
+| 52 | Norway | 49.70 | 2010 est. |
+| 53 | Finland | 48.40 | 2010 est. |
+| 54 | Ethiopia | 48.30 | 2010 est. |
+| 55 | Tunisia | 48.00 | 2010 est. |
+| 56 | Kenya | 47.70 | 2010 est. |
+| 57 | Aruba | 46.30 | 2005 |
+| 58 | Mozambique | 46.30 | 2010 est. |
+| 59 | Colombia | 45.30 | 2010 est. |
+| 60 | Argentina | 45.10 | 2010 est. |
+| 61 | Latvia | 44.70 | 2010 est. |
+| 62 | Denmark | 43.70 | 2010 est. |
+| 63 | Panama | 43.30 | 2010 est. |
+| 64 | Thailand | 43.10 | 2010 est. |
+| 65 | Turkey | 43.00 | 2010 est. |
+| 66 | Serbia | 42.90 | 2010 est. |
+| 67 | Costa Rica | 42.70 | 2010 est. |
+| 68 | Ukraine | 42.30 | 2010 est. |
+| 69 | Slovakia | 41.00 | 2010 est. |
+| 70 | Sweden | 39.70 | 2010 est. |
+| 71 | Bosnia and Herzegovina | 39.10 | 2010 est. |
+| 72 | Czech Republic | 38.90 | 2010 est. |
+| 73 | Lithuania | 38.70 | 2010 est. |
+| 74 | Switzerland | 38.40 | 2010 est. |
+| 75 | Bolivia | 38.10 | 2010 est. |
+| 76 | Montenegro | 38.00 | 2006 |
+| 77 | Mexico | 36.90 | 2010 est. |
+| 78 | Dominican Republic | 36.80 | 2010 est. |
+| 79 | Bangladesh | 35.40 | 2010 est. |
+| 80 | Malawi | 34.60 | 2010 est. |
+| 81 | Tanzania | 34.40 | 2010 est. |
+| 82 | Cuba | 34.20 | 2010 est. |
+| 83 | Ghana | 34.00 | 2010 est. |
+| 84 | Romania | 33.80 | 2010 est. |
+| 85 | South Africa | 33.40 | 2010 est. |
+| 86 | Taiwan | 33.40 | 2010 est. |
+| 87 | Senegal | 33.30 | 2010 est. |
+| 88 | Slovenia | 33.00 | 2010 est. |
+| 89 | Yemen | 30.80 | 2010 est. |
+| 90 | Mali | 30.50 | 2010 est. |
+| 91 | Trinidad and Tobago | 29.80 | 2010 est. |
+| 92 | Guatemala | 29.70 | 2010 est. |
+| 93 | Honduras | 29.10 | 2010 est. |
+| 94 | Australia | 28.80 | 2010 est. |
+| 95 | Syria | 27.80 | 2010 est. |
+| 96 | New Zealand | 27.50 | 2010 est. |
+| 97 | Zambia | 26.70 | 2010 est. |
+| 98 | Papua New Guinea | 25.70 | 2010 est. |
+| 99 | Indonesia | 25.70 | 2010 est. |
+| 100 | Venezuela | 24.90 | 2010 est. |
+| 101 | Macedonia | 24.60 | 2010 est. |
+| 102 | Peru | 23.90 | 2010 est. |
+| 103 | Ecuador | 23.20 | 2010 est. |
+| 104 | Korea, South | 22.60 | 2010 est. |
+| 105 | Uganda | 21.80 | 2010 est. |
+| 106 | Angola | 21.40 | 2010 est. |
+| 107 | Moldova | 21.20 | 2010 est. |
+| 108 | Gabon | 20.90 | 2010 est. |
+| 109 | Namibia | 20.10 | 2010 est. |
+| 110 | Botswana | 19.90 | 2010 est. |
+| 111 | Luxembourg | 19.70 | 2010 est. |
+| 112 | Paraguay | 19.30 | 2010 est. |
+| 113 | Nigeria | 17.80 | 2010 est. |
+| 114 | Hong Kong | 17.80 | 2010 est. |
+| 115 | Saudi Arabia | 16.60 | 2010 est. |
+| 116 | China | 16.30 | 2010 est. |
+| 117 | Iran | 16.30 | 2010 est. |
+| 118 | Bulgaria | 16.20 | 2010 est. |
+| 119 | Cameroon | 16.10 | 2010 est. |
+| 120 | Kazakhstan | 15.50 | 2010 est. |
+| 121 | Kuwait | 9.60 | 2010 est. |
+| 122 | Chile | 9.20 | 2010 est. |
+| 123 | Russia | 9.00 | 2010 est. |
+| 124 | Qatar | 8.60 | 2010 est. |
+| 125 | Uzbekistan | 8.00 | 2010 est. |
+| 126 | Gibraltar | 7.50 | 2008 est. |
+| 127 | Estonia | 6.60 | 2010 est. |
+| 128 | Algeria | 6.60 | 2010 est. |
+| 129 | Wallis and Futuna | 5.60 | 2004 est. |
+| 130 | Azerbaijan | 5.20 | 2010 est. |
+| 131 | Equatorial Guinea | 5.10 | 2010 est. |
+| 132 | Oman | 4.00 | 2010 est. |
+| 133 | Libya | 3.50 | 2010 est. |

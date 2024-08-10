@@ -1,0 +1,27 @@
+Telephone Code: 226
+Local Emergency Phone: Local numbers only
+Climate: Tropical; warm, dry winters; hot, wet summers
+Currency (Code): Communaute Financiere Africaine francs (Western African CFA francs, XOF)
+Electricity: 220 V
+Voltage: 50 Hz
+Plug types(s): C, E
+Major Languages: French, native African languages belonging to Sudanic family spoken by 90% of population
+Major Religions: Muslim 63.2%, Roman Catholic 24.6%, Protestant 6.9%, traditional/animist 4.2%
+Time Difference: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Cour Royale; Sindou Peaks; Réserve de Nazinga; Niansogoni Village; Ouagadougou (includes Grande Mosquée, Grand Marché, Moro-Naba Palace); Dômes de Fabedougou; ruins of Loropeni
+Major Sports: Soccer, cycling, rugby, basketball
+Cultural Practices: In Burkina Faso, when the national flag is lowered, people are expected to stand at attention.
+Tipping Guidelines: A 10-15% service charge is usually included in the bill for restaurants. However, it is customary to tip taxi drivers and hotel staff.
+Souvenirs: Woven baskets and rugs, leather goods, hand-carved chess sets and wooden statues, bronze models, tribal masks and jewelry
+Traditional Cuisine: Riz gras --- white rice, tomato paste, and vegetables such as eggplant, carrots, onions, chili peppers, and garlic boiled together into a thick rice stew and served with raw onions
+
+---
+country: Burkina Faso
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Burkina Faso/travel-facts>
+license: public domain (U.S.)
+...

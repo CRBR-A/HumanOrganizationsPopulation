@@ -1,0 +1,27 @@
+Telephone Code: 688
+Local Emergency Phone: 911
+Climate: Tropical; moderated by easterly trade winds (March to November); westerly gales and heavy rain (November to March)
+Currency (Code): Tuvaluan dollars or Australian dollars (AUD)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): I
+Major Languages: Tuvaluan, English, Samoan, Kiribati (on the island of Nui)
+Major Religions: Protestant 92.4%, Baha'i 2%, Jehovah's Witness 1.3%, Mormon 1%
+Time Difference: UTC+12 (17 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Left
+Tourist Destinations: Funafuti Marine Conservation Area; Tuvalu Woman's Handicraft Center
+Major Sports: Kilikiti (similar to cricket), ano (variant of volleyball), soccer, volleyball
+Cultural Practices: Traditionally, Sundays are a day of rest and church attendance, and visitors are asked to be discreet in their choice of activities. Female visitors are also asked to dress modestly in towns and villages.
+Tipping Guidelines: Tipping is not common nor expected.
+Souvenirs: Carved tuluma wooden tackle boxes, woven cloth, shell jewelry, stamps
+Traditional Cuisine: Pulaka (similar to taro); often combined with coconut cream and served with fish
+
+---
+country: Tuvalu
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Tuvalu/travel-facts>
+license: public domain (U.S.)
+...

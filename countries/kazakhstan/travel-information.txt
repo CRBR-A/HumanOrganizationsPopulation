@@ -1,0 +1,27 @@
+Telephone Code: 7
+Local Emergency Phone: 3
+Climate: Continental, cold winters and hot summers, arid and semiarid
+Currency (Code): Tenge (KZT)
+Electricity: 220 V
+Voltage: 50 Hz
+Plug types(s): C, F
+Major Languages: Kazakh, trilingual (Kazakh, Russian, English), Russian (used in everyday business, designated the "language of interethnic communication")
+Major Religions: Muslim 70.2%, Christian 26.2% (mainly Russian Orthodox), other 0.2%, atheist 2.8%
+Time Difference: UTC+6 (11 hours ahead of Washington, DC, during Standard Time); note: Kazakhstan has two time zones
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Korgalzhyn Nature Reserve; Ruins of Sauran; Taraz (Talas); Mausoleum of Khoja Ahmed Yasawi; Petroglyphs of Tamgaly
+Major Sports: Soccer, rugby, ice hockey, speed skating, weightlifting
+Cultural Practices: Flowers, quality alcohol, or chocolates are good choices for gifts if invited into a household.
+Tipping Guidelines: Tipping is not customary since a service charge is included in restaurant and hotel bills. There is also a fixed charge on taxi and railway transport, so many taxi drivers will refuse tips unless travelers insist repeatedly.
+Souvenirs: Stringed instruments; wool rugs, coats, vests, and hats; batik and silk scarves, mats, and wall hangings; traditional dresses; leather water flasks and other goods; gold and silver items; camel- and yurt-themed items
+Traditional Cuisine: Beshbarmak --- horse or lamb meat with flat noodles and onion sauce
+
+---
+country: Kazakhstan
+date: June 23, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Kazakhstan/travel-facts>
+license: public domain (U.S.)
+...

@@ -1,0 +1,232 @@
+CIA - The World Factbook --  EXPORTS
+
+Exports compares the total US dollar amount of merchandise exports on an f.o.b. (free on board) basis. These figures are calculated on an exchange rate basis.
+
+| Rank | Country | EXPORTS | Date of Information |
+| --- | --- | --- | --- |
+| 1 | European Union | $2,259,000,000,000 | 2014 est. |
+| 2 | China | $2,143,000,000,000 | 2015 est. |
+| 3 | United States | $1,510,000,000,000 | 2015 est. |
+| 4 | Germany | $1,309,000,000,000 | 2015 est. |
+| 5 | Japan | $622,000,000,000 | 2015 est. |
+| 6 | Korea, South | $548,800,000,000 | 2015 est. |
+| 7 | France | $510,500,000,000 | 2015 est. |
+| 8 | Hong Kong | $505,700,000,000 | 2015 est. |
+| 9 | Netherlands | $476,500,000,000 | 2015 est. |
+| 10 | Italy | $450,100,000,000 | 2015 est. |
+| 11 | United Kingdom | $436,200,000,000 | 2015 est. |
+| 12 | Canada | $411,000,000,000 | 2015 est. |
+| 13 | Mexico | $381,000,000,000 | 2015 est. |
+| 14 | Singapore | $377,100,000,000 | 2015 est. |
+| 15 | Russia | $341,500,000,000 | 2015 est. |
+| 16 | Taiwan | $335,500,000,000 | 2015 est. |
+| 17 | United Arab Emirates | $333,300,000,000 | 2015 est. |
+| 18 | Switzerland | $303,500,000,000 | 2015 est. |
+| 19 | Spain | $277,900,000,000 | 2015 est. |
+| 20 | India | $272,400,000,000 | 2015 est. |
+| 21 | Belgium | $259,900,000,000 | 2015 est. |
+| 22 | Thailand | $212,100,000,000 | 2015 est. |
+| 23 | Saudi Arabia | $202,300,000,000 | 2015 est. |
+| 24 | Poland | $190,800,000,000 | 2015 est. |
+| 25 | Brazil | $190,100,000,000 | 2015 est. |
+| 26 | Australia | $188,300,000,000 | 2015 est. |
+| 27 | Malaysia | $175,700,000,000 | 2015 est. |
+| 28 | Vietnam | $162,100,000,000 | 2015 est. |
+| 29 | Turkey | $152,000,000,000 | 2015 est. |
+| 30 | Sweden | $151,100,000,000 | 2015 est. |
+| 31 | Indonesia | $148,400,000,000 | 2015 est. |
+| 32 | Austria | $142,900,000,000 | 2015 est. |
+| 33 | Czechia | $131,000,000,000 | 2015 est. |
+| 34 | Ireland | $125,500,000,000 | 2015 est. |
+| 35 | Norway | $102,900,000,000 | 2015 est. |
+| 36 | Denmark | $95,970,000,000 | 2015 est. |
+| 37 | Hungary | $89,440,000,000 | 2015 est. |
+| 38 | South Africa | $81,630,000,000 | 2015 est. |
+| 39 | Qatar | $77,290,000,000 | 2015 est. |
+| 40 | Slovakia | $73,120,000,000 | 2015 est. |
+| 41 | Puerto Rico | $71,100,000,000 | 2015 est. |
+| 42 | Iran | $64,600,000,000 | 2015 est. |
+| 43 | Chile | $62,230,000,000 | 2015 est. |
+| 44 | Finland | $61,290,000,000 | 2015 est. |
+| 45 | Argentina | $56,760,000,000 | 2015 est. |
+| 46 | Israel | $56,290,000,000 | 2015 est. |
+| 47 | Kuwait | $55,320,000,000 | 2015 est. |
+| 48 | Iraq | $54,670,000,000 | 2015 est. |
+| 49 | Romania | $54,520,000,000 | 2015 est. |
+| 50 | Portugal | $54,330,000,000 | 2015 est. |
+| 51 | Kazakhstan | $46,290,000,000 | 2015 est. |
+| 52 | Nigeria | $45,890,000,000 | 2015 est. |
+| 53 | Philippines | $43,280,000,000 | 2015 est. |
+| 54 | Venezuela | $38,450,000,000 | 2015 est. |
+| 55 | Colombia | $38,120,000,000 | 2015 est. |
+| 56 | Algeria | $36,000,000,000 | 2015 est. |
+| 57 | Angola | $35,550,000,000 | 2015 est. |
+| 58 | Ukraine | $35,500,000,000 | 2015 est. |
+| 59 | Oman | $34,430,000,000 | 2015 est. |
+| 60 | New Zealand | $34,410,000,000 | 2015 est. |
+| 61 | Peru | $34,160,000,000 | 2015 est. |
+| 62 | Bangladesh | $31,740,000,000 | 2015 est. |
+| 63 | Greece | $27,500,000,000 | 2015 est. |
+| 64 | Slovenia | $26,670,000,000 | 2015 est. |
+| 65 | Belarus | $26,190,000,000 | 2015 est. |
+| 66 | Lithuania | $24,810,000,000 | 2015 est. |
+| 67 | Bulgaria | $24,620,000,000 | 2015 est. |
+| 68 | Pakistan | $22,730,000,000 | 2015 est. |
+| 69 | Ecuador | $19,050,000,000 | 2015 est. |
+| 70 | Egypt | $19,030,000,000 | 2015 est. |
+| 71 | Morocco | $18,480,000,000 | 2015 est. |
+| 72 | Luxembourg | $17,810,000,000 | 2015 est. |
+| 73 | Panama | $15,920,000,000 | 2015 est. |
+| 74 | Azerbaijan | $15,590,000,000 | 2015 est. |
+| 75 | Bahrain | $14,200,000,000 | 2015 est. |
+| 76 | Tunisia | $14,070,000,000 | 2015 est. |
+| 77 | Serbia | $12,600,000,000 | 2015 est. |
+| 78 | Estonia | $12,240,000,000 | 2015 est. |
+| 79 | Cote d'Ivoire | $11,980,000,000 | 2015 est. |
+| 80 | Croatia | $11,910,000,000 | 2015 est. |
+| 81 | Trinidad and Tobago | $11,810,000,000 | 2014 est. |
+| 82 | Latvia | $11,400,000,000 | 2015 est. |
+| 83 | Uzbekistan | $11,350,000,000 | 2015 est. |
+| 84 | Paraguay | $11,170,000,000 | 2015 est. |
+| 85 | Libya | $10,860,000,000 | 2015 est. |
+| 86 | Guatemala | $10,830,000,000 | 2015 est. |
+| 87 | Sri Lanka | $10,500,000,000 | 2015 est. |
+| 88 | Turkmenistan | $10,380,000,000 | 2015 est. |
+| 89 | Ghana | $10,360,000,000 | 2015 est. |
+| 90 | Congo, Democratic Republic of the | $10,350,000,000 | 2015 est. |
+| 91 | Dominican Republic | $9,523,000,000 | 2015 est. |
+| 92 | Costa Rica | $9,503,000,000 | 2015 est. |
+| 93 | Burma | $9,135,000,000 | 2015 est. |
+| 94 | Uruguay | $9,067,000,000 | 2015 est. |
+| 95 | Cambodia | $8,453,000,000 | 2015 est. |
+| 96 | Papua New Guinea | $8,377,000,000 | 2015 est. |
+| 97 | Bolivia | $8,197,000,000 | 2015 est. |
+| 98 | Honduras | $8,041,000,000 | 2015 est. |
+| 99 | Jordan | $7,829,000,000 | 2015 est. |
+| 100 | Equatorial Guinea | $7,410,000,000 | 2015 est. |
+| 101 | Brunei | $7,235,000,000 | 2015 est. |
+| 102 | Zambia | $6,998,000,000 | 2015 est. |
+| 103 | Botswana | $6,274,000,000 | 2015 est. |
+| 104 | Kenya | $5,982,000,000 | 2015 est. |
+| 105 | Cameroon | $5,756,000,000 | 2015 est. |
+| 106 | Tanzania | $5,709,000,000 | 2015 est. |
+| 107 | Congo, Republic of the | $5,231,000,000 | 2015 est. |
+| 108 | Gabon | $5,181,000,000 | 2015 est. |
+| 109 | Iceland | $4,653,000,000 | 2015 est. |
+| 110 | Mongolia | $4,619,000,000 | 2015 est. |
+| 111 | El Salvador | $4,381,000,000 | 2015 est. |
+| 112 | Korea, North | $4,152,000,000 | 2015 est. |
+| 113 | Namibia | $4,015,000,000 | 2015 est. |
+| 114 | Chad | $3,965,000,000 | 2015 est. |
+| 115 | Bosnia and Herzegovina | $3,950,000,000 | 2015 est. |
+| 116 | Cuba | $3,903,000,000 | 2015 est. |
+| 117 | San Marino | $3,827,000,000 | 2011 est. |
+| 118 | Liechtenstein | $3,801,000,000 | 2012 est. |
+| 119 | Lebanon | $3,551,000,000 | 2015 est. |
+| 120 | Zimbabwe | $3,551,000,000 | 2015 est. |
+| 121 | Mozambique | $3,413,000,000 | 2015 est. |
+| 122 | Macedonia | $3,372,000,000 | 2015 est. |
+| 123 | Nicaragua | $3,341,000,000 | 2015 est. |
+| 124 | Sudan | $3,169,000,000 | 2015 est. |
+| 125 | Georgia | $3,043,000,000 | 2015 est. |
+| 126 | Malta | $2,956,000,000 | 2015 est. |
+| 127 | Ethiopia | $2,935,000,000 | 2015 est. |
+| 128 | Laos | $2,928,000,000 | 2015 est. |
+| 129 | Cyprus | $2,759,000,000 | 2015 est. |
+| 130 | Mauritius | $2,685,000,000 | 2015 est. |
+| 131 | Uganda | $2,667,000,000 | 2015 est. |
+| 132 | Virgin Islands | $2,627,000,000 | 2013 |
+| 133 | Burkina Faso | $2,515,000,000 | 2015 est. |
+| 134 | Mali | $2,513,000,000 | 2015 est. |
+| 135 | Senegal | $2,310,000,000 | 2015 est. |
+| 136 | Madagascar | $2,238,000,000 | 2015 est. |
+| 137 | Syria | $2,140,000,000 | 2015 est. |
+| 138 | Benin | $1,841,000,000 | 2015 est. |
+| 139 | Swaziland | $1,763,000,000 | 2015 est. |
+| 140 | Suriname | $1,666,000,000 | 2015 est. |
+| 141 | Armenia | $1,626,000,000 | 2015 est. |
+| 142 | Guinea | $1,611,000,000 | 2015 est. |
+| 143 | Kyrgyzstan | $1,610,000,000 | 2015 est. |
+| 144 | Curacao | $1,607,000,000 | 2011 est. |
+| 145 | New Caledonia | $1,565,000,000 | 2014 est. |
+| 146 | Moldova | $1,507,000,000 | 2015 est. |
+| 147 | Mauritania | $1,385,000,000 | 2015 est. |
+| 148 | Yemen | $1,364,000,000 | 2015 est. |
+| 149 | Gaza Strip | $1,343,000,000 | 2013 est. |
+| 150 | Malawi | $1,278,000,000 | 2015 est. |
+| 151 | Jamaica | $1,261,000,000 | 2015 est. |
+| 152 | Togo | $1,246,000,000 | 2015 est. |
+| 153 | Fiji | $1,233,000,000 | 2015 est. |
+| 154 | Guyana | $1,170,000,000 | 2015 est. |
+| 155 | Macau | $1,137,000,000 | 2013 est. |
+| 156 | Monaco | $1,115,000,000 | 2011 |
+| 157 | Niger | $1,099,000,000 | 2015 est. |
+| 158 | Haiti | $1,029,000,000 | 2015 est. |
+| 159 | West Bank | $937,400,000 | 2014 est. |
+| 160 | Albania | $854,700,000 | 2015 est. |
+| 161 | Lesotho | $844,100,000 | 2015 est. |
+| 162 | Guam | $828,000,000 | 2013 est. |
+| 163 | Faroe Islands | $824,000,000 | 2010 |
+| 164 | Somalia | $819,000,000 | 2014 est. |
+| 165 | Nepal | $813,100,000 | 2015 est. |
+| 166 | Bahamas, The | $800,000,000 | 2015 est. |
+| 167 | Rwanda | $683,700,000 | 2015 est. |
+| 168 | Afghanistan | $658,000,000 | 2014 est. |
+| 169 | Bhutan | $580,300,000 | 2015 est. |
+| 170 | Tajikistan | $572,000,000 | 2015 est. |
+| 171 | Sierra Leone | $569,400,000 | 2015 est. |
+| 172 | Belize | $537,900,000 | 2015 est. |
+| 173 | Barbados | $482,900,000 | 2015 est. |
+| 174 | American Samoa | $459,000,000 | 2013 est. |
+| 175 | Seychelles | $449,400,000 | 2015 est. |
+| 176 | Solomon Islands | $419,900,000 | 2015 est. |
+| 177 | Eritrea | $415,300,000 | 2015 est. |
+| 178 | Greenland | $384,300,000 | 2010 |
+| 179 | Montenegro | $370,200,000 | 2014 est. |
+| 180 | Kosovo | $349,000,000 | 2014 est. |
+| 181 | Aruba | $333,200,000 | 2015 est. |
+| 182 | Liberia | $330,800,000 | 2015 est. |
+| 183 | Maldives | $300,900,000 | 2014 est. |
+| 184 | Northern Mariana Islands | $288,000,000 | 2013 |
+| 185 | Gibraltar | $271,000,000 | 2004 est. |
+| 186 | French Polynesia | $230,000,000 | 2013 est. |
+| 187 | Saint Lucia | $207,000,000 | 2015 est. |
+| 188 | Guinea-Bissau | $202,900,000 | 2015 est. |
+| 189 | Cabo Verde | $149,200,000 | 2015 est. |
+| 190 | Djibouti | $141,900,000 | 2015 est. |
+| 191 | Falkland Islands (Islas Malvinas) | $125,000,000 | 2004 est. |
+| 192 | Nauru | $125,000,000 | 2013 est. |
+| 193 | Burundi | $119,600,000 | 2015 est. |
+| 194 | Gambia, The | $113,200,000 | 2015 est. |
+| 195 | Micronesia, Federated States of | $88,300,000 | 2013 est. |
+| 196 | Kiribati | $84,750,000 | 2013 est. |
+| 197 | Central African Republic | $70,500,000 | 2015 est. |
+| 198 | Andorra | $70,000,000 | 2012 est. |
+| 199 | Saint Kitts and Nevis | $61,300,000 | 2015 est. |
+| 200 | Antigua and Barbuda | $61,000,000 | 2015 est. |
+| 201 | Marshall Islands | $53,700,000 | 2013 est. |
+| 202 | Saint Vincent and the Grenadines | $49,800,000 | 2015 est. |
+| 203 | Vanuatu | $45,600,000 | 2015 est. |
+| 204 | Cayman Islands | $45,000,000 | 2015 est. |
+| 205 | Grenada | $43,800,000 | 2015 est. |
+| 206 | Dominica | $35,200,000 | 2015 est. |
+| 207 | Tonga | $30,600,000 | 2015 est. |
+| 208 | Turks and Caicos Islands | $24,770,000 | 2008 est. |
+| 209 | Samoa | $24,000,000 | 2013 est. |
+| 210 | British Virgin Islands | $23,000,000 | 2015 est. |
+| 211 | Palau | $19,100,000 | 2014 est. |
+| 212 | Bermuda | $19,000,000 | 2015 est. |
+| 213 | Saint Helena, Ascension, and Tristan da Cunha | $19,000,000 | 2004 est. |
+| 214 | Comoros | $18,900,000 | 2015 est. |
+| 215 | Timor-Leste | $18,000,000 | 2015 est. |
+| 216 | Sao Tome and Principe | $11,300,000 | 2015 est. |
+| 217 | Saint Pierre and Miquelon | $6,641,000 | 2010 est. |
+| 218 | Anguilla | $6,000,000 | 2015 est. |
+| 219 | Cook Islands | $3,125,000 | 2011 est. |
+| 220 | Montserrat | $3,000,000 | 2015 est. |
+| 221 | Tuvalu | $600,000 | 2010 est. |
+| 222 | Niue | $201,400 | 2004 est. |
+| 223 | Wallis and Futuna | $47,450 | 2004 est. |
+| 224 | Tokelau | $0 | 2002 est. |
+
+

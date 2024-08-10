@@ -1,0 +1,29 @@
+Telephone Code: 962
+Local Emergency Phone - Ambulance: 191
+Local Emergency Phone - Fire: 193
+Local Emergency Phone - Police: 192
+Climate: Mostly arid desert; rainy season in west (November to April)
+Currency (Code): Jordanian dinars (JOD)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, D, F, G, J
+Major Languages: Arabic, English (widely understood among upper and middle classes)
+Major Religions: Muslim 97.1% (predominantly Sunni), Christian 2.1% (majority Greek Orthodox), Buddhist 0.4%, Hindu 0.1%
+Time Difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time); daylight saving time: +1hr, begins last Friday in March, ends last Friday in October
+Potable Water: Yes, but some opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Amman; Petra; Al-Maghtas; Jerash; Dead Sea; Mujib Nature Reserve
+Major Sports: Soccer, rugby, basketball, handball, volleyball
+Cultural Practices: Handshakes are very common in Jordan, even in less formal interactions. Don't be surprised if even casual contact includes a handshake.
+Tipping Guidelines: Tipping is not expected, but it is always appreciated. Leaving 10% at a restaurant is sufficient. For bellhops and hotel maids, around $2 (USD) per day is considered appropriate.
+Souvenirs: Decorated sand bottles, hand woven rugs, water pipe musical instruments, kefiya headscarves, pottery, camel themed items
+Traditional Cuisine: Mansaf --- a dish made of lamb cooked in a sauce of fermented dried yogurt and served with rice or bulgur
+
+---
+country: Jordan; Amman-ACS@state.gov; https://jo.usembassy.gov/ |
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Jordan; Amman-ACS@state.gov; https://jo.usembassy.gov/ |/travel-facts>
+license: public domain (U.S.)
+...

@@ -1,0 +1,29 @@
+Telephone Code: 86
+Local Emergency Phone - Ambulance: 120
+Local Emergency Phone - Fire: 119
+Local Emergency Phone - Police: 110, 122 (traffic accident)
+Climate: Extremely diverse; tropical in south to subarctic in north
+Currency (Code): Renminbi yuan (RMB)
+Electricity: 220 V
+Voltage: 50 Hz
+Plug types(s): A, C, I
+Major Languages: Standard Chinese or Mandarin, Yue (Cantonese), Wu (Shanghainese), Minbei (Fuzhou), Minnan (Hokkien-Taiwanese), Xiang, Gan, Hakka dialects, minority languages
+Major Religions: folk religion 21.9%, Buddhist 18.3%, Christian 5.2%, Muslim 2%, Hindu < 0.1%, Jewish < 0.1%
+Time Difference: UTC+8 (13 hours ahead of Washington, DC, during Standard Time); note: despite its size, all of China falls within 1 time zone
+Potable Water: Opt for bottled water
+International Driving Permit: An IDP is not recognized. Tourists are not allowed to drive in China.
+Road Driving Side: Right
+Tourist Destinations: Classical Gardens of Suzhou; Potala Palace; Shanghai's Promenade; Hangzhou's Historic West Lake; Qing Zhao Mausoleum; Leshan Giant Buddha; Hong Kong Skyline; Zhangjiajie National Forest Park; Great Wall; Terracotta Army; Forbidden City; Summer Palace; Tiananmen Square; Longmen Grottoes
+Major Sports: Basketball, table tennis, volleyball
+Cultural Practices: Clicking finger or whistling is considered very rude.
+Tipping Guidelines: Tipping is not officially recognized, though the practice has become increasingly common among tour guides, top-end restaurants, tour bus drivers, and hotel staff. Tipping about 10% is appreciated. Make sure a service charge has not already been included. Taxi drivers often do not accept tips.
+Souvenirs: Silk items, jade and pearl items, calligraphy sets, antique ceramics, designer fashions, electronics
+Traditional Cuisine: Peking Roast Duck --- maltose syrup (a natural sweetener produced from fermented grains) glazed-duck roasted until brown; the skin is served dipped in a sugar-garlic sauce and the meat is served with sweet bean sauce, spring onions, pancakes, and cucumber sticks
+
+---
+country: China
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/China/travel-facts>
+license: public domain (U.S.)
+...

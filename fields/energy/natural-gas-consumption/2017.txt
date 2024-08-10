@@ -1,0 +1,224 @@
+CIA - The World Factbook --  NATURAL GAS - CONSUMPTION
+
+Natural gas - consumption compares the total natural gas consumed in cubic meters (cu m).
+
+| Rank | Country | (CU M) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | United States | 773,200,000,000 | 2015 est. |
+| 2 | Germany | 773,200,000,000 | 2015 est. |
+| 3 | Russia | 418,900,000,000 | 2015 est. |
+| 4 | Mexico | 418,900,000,000 | 2015 est. |
+| 5 | European Union | 402,100,000,000 | 2015 est. |
+| 6 | China | 210,300,000,000 | 2016 est. |
+| 7 | United Kingdom | 186,200,000,000 | 2015 est. |
+| 8 | United Arab Emirates | 186,000,000,000 | 2015 est. |
+| 9 | Iran | 186,000,000,000 | 2015 est. |
+| 10 | Japan | 123,600,000,000 | 2015 est. |
+| 11 | Thailand | 114,800,000,000 | 2015 est. |
+| 12 | Canada | 114,800,000,000 | 2015 est. |
+| 13 | Saudi Arabia | 102,300,000,000 | 2015 est. |
+| 14 | India | 102,300,000,000 | 2015 est. |
+| 15 | Turkey | 81,350,000,000 | 2015 est. |
+| 16 | Egypt | 77,930,000,000 | 2015 est. |
+| 17 | Argentina | 72,030,000,000 | 2015 est. |
+| 18 | Italy | 70,910,000,000 | 2016 est. |
+| 19 | Korea, South | 69,630,000,000 | 2015 est. |
+| 20 | Turkmenistan | 67,520,000,000 | 2015 est. |
+| 21 | Indonesia | 53,150,000,000 | 2015 est. |
+| 22 | Qatar | 49,640,000,000 | 2015 est. |
+| 23 | Pakistan | 48,060,000,000 | 2015 est. |
+| 24 | Australia | 46,990,000,000 | 2015 est. |
+| 25 | Algeria | 44,320,000,000 | 2015 est. |
+| 26 | Brazil | 43,400,000,000 | 2015 est. |
+| 27 | France | 42,510,000,000 | 2015 est. |
+| 28 | Ukraine | 41,100,000,000 | 2015 est. |
+| 29 | Malaysia | 40,670,000,000 | 2015 est. |
+| 30 | Netherlands | 39,960,000,000 | 2016 est. |
+| 31 | Bangladesh | 39,880,000,000 | 2015 est. |
+| 32 | Spain | 39,840,000,000 | 2015 est. |
+| 33 | Venezuela | 39,620,000,000 | 2015 est. |
+| 34 | Trinidad and Tobago | 39,390,000,000 | 2015 est. |
+| 35 | Oman | 38,030,000,000 | 2015 est. |
+| 36 | Kuwait | 33,180,000,000 | 2015 est. |
+| 37 | Taiwan | 31,710,000,000 | 2015 est. |
+| 38 | Nigeria | 26,860,000,000 | 2015 est. |
+| 39 | Poland | 26,780,000,000 | 2015 est. |
+| 40 | Belarus | 26,500,000,000 | 2015 est. |
+| 41 | Belgium | 23,010,000,000 | 2015 est. |
+| 42 | Bahrain | 21,920,000,000 | 2015 est. |
+| 43 | Singapore | 19,730,000,000 | 2015 est. |
+| 44 | Colombia | 18,820,000,000 | 2015 est. |
+| 45 | Azerbaijan | 18,200,000,000 | 2015 est. |
+| 46 | Romania | 17,330,000,000 | 2015 est. |
+| 47 | Hungary | 17,140,000,000 | 2015 est. |
+| 48 | Vietnam | 15,500,000,000 | 2015 est. |
+| 49 | Israel | 13,610,000,000 | 2015 est. |
+| 50 | Kazakhstan | 13,100,000,000 | 2016 est. |
+| 51 | Austria | 12,120,000,000 | 2015 est. |
+| 52 | Czechia | 11,510,000,000 | 2015 est. |
+| 53 | Peru | 10,880,000,000 | 2015 est. |
+| 54 | Uzbekistan | 10,440,000,000 | 2015 est. |
+| 55 | Norway | 9,428,000,000 | 2015 est. |
+| 56 | New Zealand | 9,080,000,000 | 2015 est. |
+| 57 | South Africa | 8,660,000,000 | 2015 est. |
+| 58 | Portugal | 8,371,000,000 | 2015 est. |
+| 59 | Slovakia | 7,868,000,000 | 2015 est. |
+| 60 | Tunisia | 7,670,000,000 | 2015 est. |
+| 61 | Libya | 7,550,000,000 | 2015 est. |
+| 62 | Bolivia | 5,366,000,000 | 2016 est. |
+| 63 | Chile | 5,230,000,000 | 2015 est. |
+| 64 | Ireland | 5,060,000,000 | 2015 est. |
+| 65 | Syria | 4,900,000,000 | 2015 est. |
+| 66 | Burma | 4,766,000,000 | 2015 est. |
+| 67 | Switzerland | 4,639,000,000 | 2015 est. |
+| 68 | Brunei | 4,545,000,000 | 2015 est. |
+| 69 | Hong Kong | 4,490,000,000 | 2015 est. |
+| 70 | Denmark | 4,392,000,000 | 2015 est. |
+| 71 | Greece | 4,354,000,000 | 2015 est. |
+| 72 | Croatia | 3,590,000,000 | 2015 est. |
+| 73 | Jordan | 3,509,000,000 | 2015 est. |
+| 74 | Moldova | 3,480,000,000 | 2015 est. |
+| 75 | Finland | 3,243,000,000 | 2015 est. |
+| 76 | Bulgaria | 3,209,000,000 | 2016 est. |
+| 77 | Philippines | 3,196,000,000 | 2015 est. |
+| 78 | Lithuania | 2,930,000,000 | 2015 est. |
+| 79 | Cote d'Ivoire | 2,897,000,000 | 2015 est. |
+| 80 | Armenia | 2,730,000,000 | 2015 est. |
+| 81 | Mozambique | 2,726,000,000 | 2015 est. |
+| 82 | Congo, Republic of the | 2,600,000,000 | 2015 est. |
+| 83 | Serbia | 2,250,000,000 | 2016 est. |
+| 84 | Puerto Rico | 2,240,000,000 | 2015 est. |
+| 85 | Latvia | 2,200,000,000 | 2015 est. |
+| 86 | Georgia | 2,180,000,000 | 2015 est. |
+| 87 | Cuba | 2,063,000,000 | 2015 est. |
+| 88 | Equatorial Guinea | 2,050,000,000 | 2015 est. |
+| 89 | Dominican Republic | 1,895,000,000 | 2015 est. |
+| 90 | Tanzania | 1,500,000,000 | 2015 est. |
+| 91 | Morocco | 1,480,000,000 | 2015 est. |
+| 92 | Ghana | 1,325,000,000 | 2015 est. |
+| 93 | Iraq | 1,270,000,000 | 2015 est. |
+| 94 | Sweden | 1,250,000,000 | 2015 est. |
+| 95 | Yemen | 1,190,000,000 | 2015 est. |
+| 96 | Luxembourg | 1,108,000,000 | 2015 est. |
+| 97 | Angola | 1,094,000,000 | 2015 est. |
+| 98 | Cameroon | 1,080,000,000 | 2015 est. |
+| 99 | Ecuador | 1,002,000,000 | 2015 est. |
+| 100 | Estonia | 964,000,000 | 2015 est. |
+| 101 | Gabon | 957,000,000 | 2015 est. |
+| 102 | Bosnia and Herzegovina | 881,000,000 | 2015 est. |
+| 103 | Slovenia | 836,500,000 | 2016 est. |
+| 104 | Afghanistan | 816,000,000 | 2015 est. |
+| 105 | Kyrgyzstan | 773,000,000 | 2015 est. |
+| 106 | Papua New Guinea | 680,000,000 | 2015 est. |
+| 107 | Senegal | 497,000,000 | 2015 est. |
+| 108 | Macedonia | 471,000,000 | 2015 est. |
+| 109 | Uruguay | 378,000,000 | 2015 est. |
+| 110 | Albania | 200,000,000 | 2015 est. |
+| 111 | Tajikistan | 189,000,000 | 2015 est. |
+| 112 | Lebanon | 150,100,000 | 2010 est. |
+| 113 | Barbados | 20,000,000 | 2014 est. |
+| 114 | Congo, Democratic Republic of the | 8,495,000 | 2011 est. |
+| 115 | Macau | 355,000 | 2013 est. |
+| 116 | Aruba | 1 | 2013 est. |
+| 117 | Nepal | 0 | 2013 est. |
+| 118 | Nauru | 0 | 2013 est. |
+| 119 | Suriname | 0 | 2013 est. |
+| 120 | Nicaragua | 0 | 2016 est. |
+| 121 | South Sudan | 0 | 2013 est. |
+| 122 | Paraguay | 0 | 2013 est. |
+| 123 | Panama | 0 | 2013 est. |
+| 124 | Guinea-Bissau | 0 | 2013 est. |
+| 125 | Rwanda | 0 | 2013 est. |
+| 126 | Saint Pierre and Miquelon | 0 | 2013 est. |
+| 127 | Saint Kitts and Nevis | 0 | 2013 est. |
+| 128 | Seychelles | 0 | 2013 est. |
+| 129 | Saint Helena, Ascension, and Tristan da Cunha | 0 | 2013 est. |
+| 130 | Sierra Leone | 0 | 2013 est. |
+| 131 | Somalia | 0 | 2013 est. |
+| 132 | Saint Lucia | 0 | 2013 est. |
+| 133 | Sudan | 0 | 2013 est. |
+| 134 | Svalbard | 0 | 2013 est. |
+| 135 | Turks and Caicos Islands | 0 | 2013 est. |
+| 136 | Tonga | 0 | 2013 est. |
+| 137 | Togo | 0 | 2013 est. |
+| 138 | Sao Tome and Principe | 0 | 2013 est. |
+| 139 | Timor-Leste | 0 | 2013 est. |
+| 140 | Tuvalu | 0 | 2014 |
+| 141 | Uganda | 0 | 2013 est. |
+| 142 | Burkina Faso | 0 | 2013 est. |
+| 143 | Saint Vincent and the Grenadines | 0 | 2013 est. |
+| 144 | British Virgin Islands | 0 | 2013 est. |
+| 145 | Virgin Islands | 0 | 2014 est. |
+| 146 | Namibia | 0 | 2013 est. |
+| 147 | West Bank | 0 | 2013 est. |
+| 148 | Western Sahara | 0 | 2013 est. |
+| 149 | Samoa | 0 | 2013 est. |
+| 150 | Swaziland | 0 | 2013 est. |
+| 151 | Zambia | 0 | 2014 est. |
+| 152 | Zimbabwe | 0 | 2014 est. |
+| 153 | Antigua and Barbuda | 0 | 2013 est. |
+| 154 | Andorra | 0 | 2016 |
+| 155 | American Samoa | 0 | 2013 est. |
+| 156 | Botswana | 0 | 2013 est. |
+| 157 | Bermuda | 0 | 2013 est. |
+| 158 | Bahamas, The | 0 | 2013 est. |
+| 159 | Belize | 0 | 2013 est. |
+| 160 | Benin | 0 | 2013 est. |
+| 161 | Solomon Islands | 0 | 2013 est. |
+| 162 | Bhutan | 0 | 2016 est. |
+| 163 | Burundi | 0 | 2013 est. |
+| 164 | Cambodia | 0 | 2013 est. |
+| 165 | Curacao | 0 | 2009 est. |
+| 166 | Chad | 0 | 2013 est. |
+| 167 | Sri Lanka | 0 | 2013 est. |
+| 168 | Cayman Islands | 0 | 2013 est. |
+| 169 | Comoros | 0 | 2013 est. |
+| 170 | Costa Rica | 0 | 2013 est. |
+| 171 | Central African Republic | 0 | 2013 est. |
+| 172 | Cabo Verde | 0 | 2016 est. |
+| 173 | Cook Islands | 0 | 2013 est. |
+| 174 | Cyprus | 0 | 2013 est. |
+| 175 | Djibouti | 0 | 2013 est. |
+| 176 | Dominica | 0 | 2013 est. |
+| 177 | Eritrea | 0 | 2013 est. |
+| 178 | El Salvador | 0 | 2016 est. |
+| 179 | Ethiopia | 0 | 2013 est. |
+| 180 | Fiji | 0 | 2013 est. |
+| 181 | Falkland Islands (Islas Malvinas) | 0 | 2013 est. |
+| 182 | Faroe Islands | 0 | 2013 est. |
+| 183 | French Polynesia | 0 | 2013 est. |
+| 184 | Gambia, The | 0 | 2013 est. |
+| 185 | Gibraltar | 0 | 2013 est. |
+| 186 | Grenada | 0 | 2013 est. |
+| 187 | Greenland | 0 | 2013 est. |
+| 188 | Guam | 0 | 2014 est. |
+| 189 | Guatemala | 0 | 2013 est. |
+| 190 | Guinea | 0 | 2013 est. |
+| 191 | Guyana | 0 | 2013 est. |
+| 192 | Haiti | 0 | 2013 est. |
+| 193 | Honduras | 0 | 2013 est. |
+| 194 | Iceland | 0 | 2014 est. |
+| 195 | Jamaica | 0 | 2013 est. |
+| 196 | Kenya | 0 | 2013 est. |
+| 197 | Korea, North | 0 | 2014 est. |
+| 198 | Kiribati | 0 | 2013 est. |
+| 199 | Kosovo | 0 | 2016 |
+| 200 | Laos | 0 | 2013 est. |
+| 201 | Liberia | 0 | 2013 est. |
+| 202 | Lesotho | 0 | 2013 est. |
+| 203 | Madagascar | 0 | 2013 est. |
+| 204 | Mongolia | 0 | 2013 est. |
+| 205 | Montserrat | 0 | 2013 est. |
+| 206 | Malawi | 0 | 2017 est. |
+| 207 | Montenegro | 0 | 2013 est. |
+| 208 | Mali | 0 | 2013 est. |
+| 209 | Mauritius | 0 | 2013 est. |
+| 210 | Mauritania | 0 | 2013 est. |
+| 211 | Malta | 0 | 2014 est. |
+| 212 | Maldives | 0 | 2016 est. |
+| 213 | New Caledonia | 0 | 2013 est. |
+| 214 | Niue | 0 | 2013 est. |
+| 215 | Niger | 0 | 2016 est. |
+| 216 | Vanuatu | 0 | 2013 est. |
+
+

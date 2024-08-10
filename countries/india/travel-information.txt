@@ -1,0 +1,29 @@
+Telephone Code: 91
+Local Emergency Phone - Ambulance: 102
+Local Emergency Phone - Fire: 101
+Local Emergency Phone - Police: 100, 103 (traffic accident)
+Climate: Varies from tropical monsoon in south to temperate in north
+Currency (Code): Indian rupees (INR)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, D, M
+Major Languages: Hindi , Bengali, Marathi, Telugu, Tamil, Gujarati, Urdu, Kannada, Odia, Malayalam, Punjabi, Assamese, Maithili, English
+Major Religions: Hindu 79.8%, Muslim 14.2%, Christian 2.3%, Sikh 1.7%
+Time Difference: UTC+5.5 (10.5 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Left
+Tourist Destinations: Taj Mahal; Delhi; Dhamek Stupa; Amer Fort; Beaches of Goa; Periyar National Park; Agra Fort; Ellora Caves; Mehrangarh Fort; Nalanda Mahavihara Archaelogical Site; Mahabodhi Temple
+Major Sports: Cricket, field hockey, soccer, badminton, tennis, kabaddi (contact team sport played between two teams of seven players each)
+Cultural Practices: Wearing shoes indoors and pointing at people is considered rude.
+Tipping Guidelines: Tipping 7-10% of the total bill is sufficient at restaurants. Round up taxi fares. Tip bellhops loose change for carrying bags to your room. For housekeeping, tip 5-7% of the hotel charge per night divided by the number of days stayed.
+Souvenirs: Handmade shoes and leather goods, traditional saris, Nehru jackets, gold and bangle jewelry, furniture and lacquered decorative items, brass and wood carvings; cardamom, cinnamon, curry, saffron, and other spices; antiques
+Traditional Cuisine: Khichdi --- a dish of rice and lentils; Biryani --- long-grain rice cooked with spices and meat and often topped with fried onion flakes and boiled eggs; Tandoori Chicken --- whole chicken marinated in yogurt and spices, and baked in a tandoor (a traditional Indian clay oven)
+
+---
+country: 110021, India; acsnd@state.gov; https://in.usembassy.gov/ |
+date: June 23, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/110021, India; acsnd@state.gov; https://in.usembassy.gov/ |/travel-facts>
+license: public domain (U.S.)
+...

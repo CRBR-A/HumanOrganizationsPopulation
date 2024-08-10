@@ -1,0 +1,338 @@
+CIA - The World Factbook -- OMAN
+
+| Geography | OMAN |
+| --- | --- |
+| Location: | Middle East, bordering the Arabian Sea, Gulf of Oman, and Persian Gulf, between Yemen and the UAE |
+| Geographic coordinates: | 21 00 N, 57 00 E |
+| Map references: | Middle East |
+| Area: | total: 309,500 sq km |
+| | land: 309,500 sq km |
+| | water: 0 sq km |
+| Area - comparative: | twice the size of Georgia; slightly smaller than Kansas |
+| Land boundaries: | total: 1,561 km |
+| | border countries (3): Saudi Arabia 658 km, UAE 609 km, Yemen 294 km |
+| Coastline: | 2,092 km |
+| Maritime claims: | territorial sea: 12 nm |
+| | contiguous zone: 24 nm |
+| | exclusive economic zone: 200 nm |
+| Climate: | dry desert; hot, humid along coast; hot, dry interior; strong southwest summer monsoon (May to September) in far south |
+| Terrain: | central desert plain, rugged mountains in north and south |
+| Elevation: | mean elevation: 310 m |
+| | elevation extremes: lowest point: Arabian Sea 0 m |
+| | highest point: Jabal Shams 3,004 m |
+| Natural resources: | petroleum, copper, asbestos, some marble, limestone, chromium, gypsum, natural gas |
+| Land use: | agricultural land: 4.7% |
+| | arable land 0.1%; permanent crops 0.1%; permanent pasture 4.5% |
+| | forest: 0% |
+| | other: 95.3% (2011 est.) |
+| Irrigated land: | 590 sq km (2012) |
+| Population - distribution: | the vast majority of the population is located in and around the Al Hagar Mountains in the north of the country; another smaller cluster is found around the city of Salalah in the far south; most of the country remains sparsely populated |
+| Natural hazards: | summer winds often raise large sandstorms and dust storms in interior; periodic droughts |
+| Environment - current issues: | rising soil salinity; beach pollution from oil spills; limited natural freshwater resources |
+| Environment - international agreements: | party to: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Whaling |
+| | signed, but not ratified: none of the selected agreements |
+| Geography - note: | consists of Oman proper and two northern exclaves, Musandam and Al Madhah; the former is a peninsula that occupies a strategic location adjacent to the Strait of Hormuz, a vital transit point for world crude oil |
+
+| People and Society | OMAN |
+| --- | --- |
+| Population: | 3,424,386 (July 2017 est.) |
+| | note: immigrants make up over 40% of the total population, according to UN data (2015) |
+| Nationality: | noun: Omani(s) |
+| | adjective: Omani |
+| Ethnic groups: | Arab, Baluchi, South Asian (Indian, Pakistani, Sri Lankan, Bangladeshi), African |
+| Languages: | Arabic (official), English, Baluchi, Urdu, Indian dialects |
+| Religions: | Muslim 85.9%, Christian 6.5%, Hindu 5.5%, Buddhist 0.8%, Jewish <0.1%, other 1%, unaffiliated 0.2% (2010 est.) |
+| | note: Omani citizens represent approximately 60% of the population and are overwhelming Muslim (Ibadhi and Sunni sects each constitute about 45% and Shia about 5%); Christians, Hindus, and Buddhists accounting for roughly 5% of Omani citizens |
+| Age structure: | 0-14 years: 30.1% (male 528,554/female 502,272) |
+| | 15-24 years: 18.69% (male 335,764/female 304,207) |
+| | 25-54 years: 43.8% (male 864,858/female 635,006) |
+| | 55-64 years: 3.92% (male 71,477/female 62,793) |
+| | 65 years and over: 3.49% (male 58,561/female 60,894) (2017 est.) |
+| Dependency ratios: | total dependency ratio: 32.4 |
+| | youth dependency ratio: 29.4 |
+| | elderly dependency ratio: 3.1 |
+| | potential support ratio: 32.6 (2015 est.) |
+| Median age: | total: 25.6 years |
+| | male: 26.6 years |
+| | female: 24.2 years (2017 est.) |
+| Population growth rate: | 2.03% (2017 est.) |
+| Birth rate: | 24 births/1,000 population (2017 est.) |
+| Death rate: | 3.3 deaths/1,000 population (2017 est.) |
+| Net migration rate: | -0.4 migrant(s)/1,000 population (2017 est.) |
+| Population distribution: | the vast majority of the population is located in and around the Al Hagar Mountains in the north of the country; another smaller cluster is found around the city of Salalah in the far south; most of the country remains sparsely poplulated |
+| Urbanization: | urban population: 78.5% of total population (2017) |
+| | rate of urbanization: 2.17% annual rate of change (2015-20 est.) |
+| Major urban areas - population: | MUSCAT (capital) 838,000 (2015) |
+| Sex ratio: | at birth: 1.05 male(s)/female |
+| | 0-14 years: 1.05 male(s)/female |
+| | 15-24 years: 1.1 male(s)/female |
+| | 25-54 years: 1.38 male(s)/female |
+| | 55-64 years: 1.14 male(s)/female |
+| | 65 years and over: 0.99 male(s)/female |
+| | total population: 1.19 male(s)/female (2016 est.) |
+| Maternal mortality rate: | 17 deaths/100,000 live births (2015 est.) |
+| Infant mortality rate: | total: 12.8 deaths/1,000 live births |
+| | male: 13.1 deaths/1,000 live births |
+| | female: 12.5 deaths/1,000 live births (2017 est.) |
+| Life expectancy at birth: | total population: 75.7 years |
+| | male: 73.7 years |
+| | female: 77.7 years (2017 est.) |
+| Total fertility rate: | 2.82 children born/woman (2017 est.) |
+| Contraceptive prevalence rate: | 29.7% (2014) |
+| Health expenditures: | 3.6% of GDP (2014) |
+| Physicians density: | 1.54 physicians/1,000 population (2014) |
+| Hospital bed density: | 1.7 beds/1,000 population (2012) |
+| Drinking water source: | improved: |
+| | urban: 95.5% of population |
+| | rural: 86.1% of population |
+| | total: 93.4% of population |
+| unimproved: | urban: 4.5% of population |
+| | rural: 13.9% of population |
+| | total: 6.6% of population (2015 est.) |
+| Sanitation facility access: | improved: |
+| | urban: 97.3% of population |
+| | rural: 94.7% of population |
+| | total: 96.7% of population |
+| unimproved: | urban: 2.7% of population |
+| | rural: 5.3% of population |
+| | total: 3.3% of population (2015 est.) |
+| HIV/AIDS - adult prevalence rate: | NA |
+| HIV/AIDS - people living with HIV/AIDS: | NA |
+| HIV/AIDS - deaths: | NA |
+| Obesity - adult prevalence rate: | 27% (2016) |
+| Children under the age of 5 years underweight: | 9.7% (2014) |
+| Education expenditures: | 5% of GDP (2013) |
+| Literacy: | definition: age 15 and over can read and write |
+| | total population: 93% |
+| | male: 96.6% |
+| | female: 86% (2015 est.) |
+| School life expectancy (primary to tertiary education): | total: 14 years |
+| | male: 13 years |
+| | female: 15 years (2015) |
+
+| Government | OMAN |
+| --- | --- |
+| Country name: | conventional long form: Sultanate of Oman |
+| | conventional short form: Oman |
+| | local long form: Saltanat Uman |
+| | local short form: Uman |
+| | former: Sultanate of Muscat and Oman |
+| | etymology: the origin of the name is uncertain, but it apparently dates back at least 2,000 years since an "Omana" is mentioned by Pliny the Elder (1st century A.D.) and an "Omanon" by Ptolemy (2nd century A.D.) |
+| Government type: | absolute monarchy |
+| Capital: | name: Muscat |
+| | geographic coordinates: 23 37 N, 58 35 E |
+| | time difference: UTC+4 (9 hours ahead of Washington, DC, during Standard Time) |
+| Administrative divisions: | 11 governorates (muhafazat, singular - muhafaza); Ad Dakhiliyah, Al Buraymi, Al Wusta, Az Zahirah, Janub al Batinah (Al Batinah South), Janub ash Sharqiyah (Ash Sharqiyah South), Masqat (Muscat), Musandam, Shamal al Batinah (Al Batinah North), Shamal ash Sharqiyah (Ash Sharqiyah North), Zufar (Dhofar) |
+| Independence: | 1650 (expulsion of the Portuguese) |
+| National holiday: | National Day, 18 November; note - coincides with the birthday of Sultan QABOOS, 18 November (1940) |
+| Constitution: | history: promulgated by royal decree 6 November 1996 (the Basic Law of the Sultanate of Oman serves as the constitution); amended by royal decree in 2011 |
+| | amendments: promulgated by the sultan or proposed by the Council of Oman and drafted by a technical committee as stipulated by royal decree and then promulgated through royal decree; amended 2011 (2016) |
+| Legal system: | mixed legal system of Anglo-Saxon law and Islamic law |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt |
+| Citizenship: | citizenship by birth: no |
+| | citizenship by descent only: the father must be a citizen of Oman |
+| | dual citizenship recognized: no |
+| | residency requirement for naturalization: unknown |
+| Suffrage: | 21 years of age; universal; note - members of the military and security forces by law cannot vote |
+| Executive branch: | chief of state: Sultan and Prime Minister QABOOS bin Said Al-Said (sultan since 23 July 1970 and prime minister since 23 July 1972); note - the monarch is both chief of state and head of government |
+| | head of government: Sultan and Prime Minister QABOOS bin Said Al-Said (sultan since 23 July 1970 and prime minister since 23 July 1972) |
+| | cabinet: Cabinet appointed by the monarch |
+| | elections/appointments: members of the Ruling Family Council determine a successor from the sultan's extended family; if the Council cannot form a consensus within 3 days of the sultan's death or incapacitation, the Defense Council will relay a predetermined heir as chosen by the sultan |
+| Legislative branch: | description: bicameral Council of Oman or Majlis Oman consists of the Council of State or Majlis al-Dawla (85 seats including the chairman; members appointed by the sultan from among former government officials and prominent educators, businessmen, and citizens) and the Consultative Council or Majlis al-Shura (85 seats; members directly elected in single- and 2-seat constituencies by simple majority popular vote to serve renewable 4-year terms); note - since political reforms in 2011, legislation from the Consultative Council is submitted to the Council of State for review by the Royal Court |
+| | elections: Consultative Assembly - last held on 25 October 2015 (next to be held in October 2019) |
+| | election results: percent of vote by party - NA; seats by party - NA; note - organized political parties in Oman are legally banned |
+| Judicial branch: | highest court(s): Supreme Court (consists of 5 judges) |
+| | judge selection and term of office: judges nominated by the 9-member Supreme Judicial Council (chaired by the monarch) and appointed by the monarch; judges appointed for life |
+| | subordinate courts: Courts of Appeal; Administrative Court; Courts of First Instance; sharia courts; magistrates' courts; military courts |
+| Political parties and leaders: | none; note - organized political parties are legally banned in Oman, and loyalties tend to form around tribal affiliations |
+| Political pressure groups and leaders: | none |
+| International organization participation: | ABEDA, AFESD, AMF, CAEU, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (NGOs), IDA, IDB, IFAD, IFC, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OIC, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Hunaina bint Sultan bin Ahmad al-MUGHAIRI (since 2 December 2005) |
+| | chancery: 2535 Belmont Road, NW, Washington, DC 20008 |
+| | telephone: [1] (202) 387-1980 |
+| | FAX: [1] (202) 745-4933 |
+| Diplomatic representation from the US: | chief of mission: Ambassador Marc J. SIEVERS (since 15 December 2016) |
+| | embassy: Jamait Ad Duwal Al Arabiyya Street, Al Khuwair area, Muscat |
+| | mailing address: P.O. Box 202, P.C. 115, Madinat Al Sultan Qaboos, Muscat |
+| | telephone: [968] 24-643-400 |
+| | FAX: [968] 24-643-740 |
+| Flag description: | three horizontal bands of white, red, and green of equal width with a broad, vertical, red band on the hoist side; the national emblem (a khanjar dagger in its sheath superimposed on two crossed swords in scabbards) in white is centered near the top of the vertical band; white represents peace and prosperity, red recalls battles against foreign invaders, and green symbolizes the Jebel al Akhdar (Green Mountains) and fertility |
+| National symbol(s): | khanjar dagger superimposed on two crossed swords; national colors: red, white, green |
+| National anthem: | name: "Nashid as-Salaam as-Sultani" (The Sultan's Anthem) |
+| | lyrics/music: Rashid bin Uzayyiz al KHUSAIDI/James Frederick MILLS, arranged by Bernard EBBINGHAUS |
+| | note: adopted 1932; new lyrics written after QABOOS bin Said al Said gained power in 1970; first performed by the band of a British ship as a salute to the Sultan during a 1932 visit to Muscat; the bandmaster of the HMS Hawkins was asked to write a salutation to the Sultan on the occasion of his ship visit |
+
+| Economy | OMAN |
+| --- | --- |
+| Economy - overview: | Oman is heavily dependent on its dwindling oil resources, which generate 84% of government revenue. In 2016, low global oil prices drove Oman’s budget deficit to $11.5 billion, or approximately 19% of GDP. Oman has limited foreign assets and is issuing debt to cover its deficit. |
+| | Oman is using enhanced oil recovery techniques to boost production, but has simultaneously pursued a development plan that focuses on diversification, industrialization, and privatization, with the objective of reducing the oil sector's contribution to GDP from 46% at present to 9% by 2020 in accordance with Oman’s ninth five-year development plan. Tourism and gas-based industries are key components of the government's diversification strategy. |
+| | Muscat also has notably focused on creating more Omani jobs to employ the rising number of nationals entering the workforce. However, high social welfare benefits — that had increased in the wake of the 2011 Arab Spring — have challenged the government's ability to effectively balance its budget in light of low export oil prices. In response, Omani officials imposed austerity measures to its gasoline and diesel subsidies in 2016, with further subsidy cuts planned for electricity and liquid petroleum gas. The spending cuts have faced some public opposition, which could hinder their implementation. |
+| GDP (purchasing power parity): | $184.7 billion (2016 est.) |
+| | $177 billion (2015 est.) |
+| | $168.1 billion (2014 est.) |
+| | note: data are in 2016 dollars |
+| GDP (official exchange rate): | $66.29 billion (2016 est.) |
+| GDP - real growth rate: | 3% (2016 est.) |
+| | 4.2% (2015 est.) |
+| | 2.5% (2014 est.) |
+| GDP - per capita (PPP): | $46,100 (2016 est.) |
+| | $47,400 (2015 est.) |
+| | $46,300 (2014 est.) |
+| | note: data are in 2016 dollars |
+| Gross national saving: | 19.4% of GDP (2016 est.) |
+| | 18.3% of GDP (2015 est.) |
+| | 34.2% of GDP (2014 est.) |
+| GDP - composition, by end use: | household consumption: 35.9% |
+| | government consumption: 27.2% |
+| | investment in fixed capital: 36.7% |
+| | investment in inventories: 1.3% |
+| | exports of goods and services: 47% |
+| | imports of goods and services: -48.1% (2016 est.) |
+| GDP - composition, by sector of origin: | agriculture: 1.8% |
+| | industry: 47.6% |
+| | services: 53.9% (2016 est.) |
+| Agriculture - products: | dates, limes, bananas, alfalfa, vegetables; camels, cattle; fish |
+| Industries: | crude oil production and refining, natural and liquefied natural gas production; construction, cement, copper, steel, chemicals, optic fiber |
+| Industrial production growth rate: | 0.5% (2016 est.) |
+| Labor force: | 968,800 |
+| | note: about 60% of the labor force is non-national (2007 est.) |
+| Labor force - by occupation: | agriculture: NA% |
+| | industry: NA% |
+| | services: NA% |
+| Unemployment rate: | 15% (2004 est.) |
+| Population below poverty line: | NA% |
+| Household income or consumption by percentage share: | lowest 10%: NA% |
+| | highest 10%: NA% |
+| Budget: | revenues: $19.79 billion |
+| | expenditures: $33.57 billion (2016 est.) |
+| Taxes and other revenues: | 31.3% of GDP (2016 est.) |
+| Budget surplus (+) or deficit (-): | -21.8% of GDP (2016 est.) |
+| Public debt: | 31.4% of GDP (2016 est.) |
+| | 12.8% of GDP (2015 est.) |
+| Fiscal year: | calendar year |
+| Inflation rate (consumer prices): | 1.1% (2016 est.) |
+| | 0.1% (2015 est.) |
+| Central bank discount rate: | 2% (31 December 2010) |
+| | 0.05% (31 December 2009) |
+| Commercial bank prime lending rate: | 5.08% (31 December 2016 est.) |
+| | 4.76% (31 December 2015 est.) |
+| Stock of narrow money: | $12.95 billion (31 December 2016 est.) |
+| | $13.96 billion (31 December 2015 est.) |
+| Stock of broad money: | $40.11 billion (31 December 2016 est.) |
+| | $39.39 billion (31 December 2015 est.) |
+| Stock of domestic credit: | $46.47 billion (31 December 2016 est.) |
+| | $45.1 billion (31 December 2015 est.) |
+| Market value of publicly traded shares: | $41.12 billion (31 December 2015 est.) |
+| | $37.83 billion (31 December 2014 est.) |
+| | $36.77 billion (31 December 2013 est.) |
+| Current account balance: | $-12.32 billion (2016 est.) |
+| | $-10.81 billion (2015 est.) |
+| Exports: | $27.54 billion (2016 est.) |
+| | $35.68 billion (2015 est.) |
+| Exports - commodities: | petroleum, reexports, fish, metals, textiles |
+| Exports - partners: | China 47.8%, UAE 8.3%, India 4.1% (2016) |
+| Imports: | $21.29 billion (2016 est.) |
+| | $26.56 billion (2015 est.) |
+| Imports - commodities: | machinery and transport equipment, manufactured goods, food, livestock, lubricants |
+| Imports - partners: | UAE 44.9%, China 4.8%, India 4.8% (2016) |
+| Reserves of foreign exchange and gold: | $20.26 billion (31 December 2016 est.) |
+| | $17.54 billion (31 December 2015 est.) |
+| Debt - external: | $27.05 billion (31 December 2016 est.) |
+| | $15.3 billion (31 December 2015 est.) |
+| Stock of direct foreign investment - at home: | $NA |
+| Stock of direct foreign investment - abroad: | $NA |
+| Exchange rates: | Omani rials (OMR) per US dollar - |
+| | 0.3845 (2016 est.) |
+| | 0.3845 (2015 est.) |
+| | 0.3845 (2014 est.) |
+| | 0.3845 (2013 est.) |
+| | 0.3845 (2012 est.) |
+
+| Energy | OMAN |
+| --- | --- |
+| Electricity access: | population without electricity: 100,000 |
+| | electrification - total population: 98% |
+| | electrification - urban areas: 99% |
+| | electrification - rural areas: 93% (2013) |
+| Electricity - production: | 30.79 billion kWh (2015 est.) |
+| Electricity - consumption: | 27.62 billion kWh (2015 est.) |
+| Electricity - exports: | 0 kWh (2016 est.) |
+| Electricity - imports: | 0 kWh (2016 est.) |
+| Electricity - installed generating capacity: | 7.869 million kW (2015 est.) |
+| Electricity - from fossil fuels: | 100% of total installed capacity (2015 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2015 est.) |
+| Electricity - from hydroelectric plants: | 0% of total installed capacity (2015 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2015 est.) |
+| Crude oil - production: | 1.007 million bbl/day (2016 est.) |
+| Crude oil - exports: | 745,800 bbl/day (2014 est.) |
+| Crude oil - imports: | 6,970 bbl/day (2014 est.) |
+| Crude oil - proved reserves: | 5.373 billion bbl (1 January 2017 es) |
+| Refined petroleum products - production: | 224,000 bbl/day (2014 est.) |
+| Refined petroleum products - consumption: | 176,000 bbl/day (2015 est.) |
+| Refined petroleum products - exports: | 33,240 bbl/day (2014 est.) |
+| Refined petroleum products - imports: | 713.9 bbl/day (2014 est.) |
+| Natural gas - production: | 29.93 billion cu m (2015 est.) |
+| Natural gas - consumption: | 38.03 billion cu m (2015 est.) |
+| Natural gas - exports: | 1.99 billion cu m (2015 est.) |
+| Natural gas - imports: | 10 billion cu m (2015 est.) |
+| Natural gas - proved reserves: | 651.3 billion cu m (1 January 2017 es) |
+| Carbon dioxide emissions from consumption of energy: | 69 million Mt (2013 est.) |
+
+| Communications | OMAN |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 422,518 |
+| | subscriptions per 100 inhabitants: 13 (July 2016 est.) |
+| Telephones - mobile cellular: | total: 6,866,260 |
+| | subscriptions per 100 inhabitants: 205 (July 2016 est.) |
+| Telephone system: | general assessment: modern system consisting of open-wire, microwave, and radiotelephone communication stations; limited coaxial cable; domestic satellite system with 8 earth stations |
+| | domestic: fixed-line and mobile-cellular subscribership both increasing with fixed-line phone service gradually being introduced to remote villages using wireless local loop systems |
+| | international: country code - 968; the Fiber-Optic Link Around the Globe (FLAG) and the SEA-ME-WE-3 submarine cable provide connectivity to Asia, the Middle East, and Europe; satellite earth stations - 2 Intelsat (Indian Ocean), 1 Arabsat (2016) |
+| Broadcast media: | 1 state-run TV broadcaster; TV stations transmitting from Saudi Arabia, the UAE, and Yemen available via satellite TV; state-run radio operates multiple stations; first private radio station began operating in 2007 and 2 additional stations now operating (2007) |
+| Internet country code: | .om |
+| Internet users: | total: 2,342,483 |
+| | percent of population: 69.8% (July 2016 est.) |
+
+| Transportation | OMAN |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 1 |
+| | inventory of registered aircraft operated by air carriers: 45 |
+| | annual passenger traffic on registered air carriers: 6,365,784 |
+| | annual freight traffic on registered air carriers: 412,234,008 mt-km (2015) |
+| Civil aircraft registration country code prefix: | A4O (2016) |
+| Airports: | 132 (2013) |
+| Airports - with paved runways: | total: 13 |
+| | over 3,047 m: 7 |
+| | 2,438 to 3,047 m: 5 |
+| | 914 to 1,523 m: 1 (2017) |
+| Airports - with unpaved runways: | total: 119 |
+| | over 3,047 m: 2 |
+| | 2,438 to 3,047 m: 7 |
+| | 1,524 to 2,437 m: 51 |
+| | 914 to 1,523 m: 33 |
+| | under 914 m: 26 (2013) |
+| Heliports: | 3 (2013) |
+| Pipelines: | condensate 106 km; gas 4,224 km; oil 3,558 km; oil/gas/water 33 km; refined products 264 km (2013) |
+| Roadways: | total: 60,230 km |
+| | paved: 29,685 km (includes 1,943 km of expressways) |
+| | unpaved: 30,545 km (2012) |
+| Merchant marine: | total: 5 |
+| | by type: chemical tanker 1, passenger 1, passenger/cargo 3 |
+| | registered in other countries: 15 (Malta 5, Panama 10) (2010) |
+| Ports and terminals: | major seaport(s): Mina' Qabus, Salalah, Suhar |
+| | container port(s) (TEUs): Salalah (3,200,000) |
+| | LNG terminal(s) (export): Qalhat |
+
+| Military and Security | OMAN |
+| --- | --- |
+| Military expenditures: | 13.73% of GDP (2016) |
+| | 14.38% of GDP (2015) |
+| | 13.51% of GDP (2014) |
+| | 14.81% of GDP (2013) |
+| | 16.08% of GDP (2012) |
+| Military branches: | Sultan's Armed Forces (SAF): Royal Army of Oman, Royal Navy of Oman, Royal Air Force of Oman (al-Quwwat al-Jawwiya al-Sultanat Oman) (2013) |
+| Military service age and obligation: | 18-30 years of age for voluntary military service; no conscription (2012) |
+
+| Transnational Issues | OMAN |
+| --- | --- |
+| Disputes - international: | boundary agreement reportedly signed and ratified with UAE in 2003 for entire border, including Oman's Musandam Peninsula and Al Madhah exclave, but details of the alignment have not been made public |
+| Refugees and internally displaced persons: | refugees (country of origin): 5,000 (Yemen) (2017) |

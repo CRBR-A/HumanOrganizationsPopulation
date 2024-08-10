@@ -1,0 +1,27 @@
+Telephone Code: 356
+Local Emergency Phone: 112
+Climate: Mediterranean; mild, rainy winters; hot, dry summers
+Currency (Code): Euros (EUR)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): G
+Major Languages: Maltese, English
+Major Religions: Roman Catholic more than 90%
+Time Difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time); daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October
+Potable Water: Yes, but some opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Left
+Tourist Destinations: Valletta (includes Saint John's Co-Cathedral, Church of Saint Paul's Shipwreck); Island of Gozo; towns of Mdina and Rabat; Megalithic Temples of Malta (includes Tarxien Temples); Saint Julian's Harbor; Island of Comino (includes Blue Lagoon)
+Major Sports: Soccer, rugby, motorsports, watersports
+Cultural Practices: Among new acquaintances, it is very common to refer to someone by their title and surname. First name use is typically reserved until greater familiarity is attained.
+Tipping Guidelines: It is customary to tip between 5-10% at restaurants. However, if a service charge is already included, then a tip is not necessary. Tip porters/bellhops 1-2 euros per bag. A small tip for housekeeping is also greatly appreciated and should be about 2-3 euros per day.
+Souvenirs: Religious icons/statues and prayer beads, gold and silver jewelry and filigree work, blown glass, hand woven lace, pottery
+Traditional Cuisine: Stuffat tal-fenek (Maltese rabbit stew) --- a slow-cooked rabbit dish; typically the tomato-based sauce is served with pasta as a first course and the rabbit with vegetables is served as a main course
+
+---
+country: Malta
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Malta/travel-facts>
+license: public domain (U.S.)
+...

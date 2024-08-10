@@ -1,0 +1,27 @@
+Telephone Code: 345
+Local Emergency Phone: 911
+Climate: Tropical marine; warm, rainy summers (May to October) and cool , relatively dry winters (November to April)
+Currency (Code): Caymanian dollars (KYD)
+Electricity: 120 V
+Voltage: 60 Hz
+Plug types(s): A, B
+Major Languages: English, Spanish, Filipino
+Major Religions: Protestant 67.8%, Roman Catholic 14.1%, Jehovah's Witness 1.1%
+Time Difference: UTC-5 (same time as Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Left
+Tourist Destinations: Seven Mile Beach; Stingray City; George Town; Atlantis Submarines; Cayman Turtle Centre; Bloody Bay Marine Park
+Major Sports: Soccer, rugby, netball
+Cultural Practices: Handshakes between men and women are the most common form of greeting.
+Tipping Guidelines: Tipping is usually expected everywhere you go to eat or drink. Even though many eating establishments may include a service charge; service staff in restaurants and bars rely on tips for a large portion of their salary.
+Souvenirs: Caymanite jewelry and decorative items, black coral and shell jewelry, shipwreck artifacts, handwoven baskets and other woven items, luxury items, rum
+Traditional Cuisine: Turtle stew --- a stew containing turtle meat, cassava, potatoes, onions, and peppers
+
+---
+country: Cayman Islands
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Cayman Islands/travel-facts>
+license: public domain (U.S.)
+...

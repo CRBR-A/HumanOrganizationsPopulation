@@ -1,0 +1,8 @@
+Belgium became independent from the Netherlands in 1830; it was occupied by Germany during World Wars I and II. The country prospered in the past half century as a modern, technologically advanced European state and member of NATO and the EU. In recent years, political divisions between the Dutch-speaking Flemish of the north and the French-speaking Walloons of the south have led to constitutional amendments granting these regions formal recognition and autonomy. The capital city of Brussels is home to numerous international organizations including the EU and NATO.  
+
+---
+country: Belgium
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Belgium/>
+license: public domain (U.S.)
+...

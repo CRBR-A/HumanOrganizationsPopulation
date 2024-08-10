@@ -1,0 +1,8 @@
+Although sighted by Christopher COLUMBUS in 1493 and claimed for Spain, it was the Dutch who occupied the island in 1631 and began exploiting its salt deposits. The Spanish retook the island in 1633, but the Dutch continued to assert their claims. The Spanish finally relinquished the island of Saint Martin to the French and Dutch, who divided it between themselves in 1648. The establishment of cotton, tobacco, and sugar plantations dramatically expanded African slavery on the island in the 18th and 19th centuries; the practice was not abolished in the Dutch half until 1863. The island's economy declined until 1939 when it became a free port; the tourism industry was dramatically expanded beginning in the 1950s. In 1954, Sint Maarten and several other Dutch Caribbean possessions became part of the Kingdom of the Netherlands as the Netherlands Antilles. In a 2000 referendum, the citizens of Sint Maarten voted to become a self-governing country within the Kingdom of the Netherlands, effective October 2010. On 6 September 2017, Hurricane Irma hit Saint Martin/Sint Maarten, causing extensive damage to roads, communications, electrical power, and housing. The UN estimated the storm destroyed or damaged 90% of the buildings, and Princess Juliana International Airport was heavily damaged and closed to commercial air traffic for five weeks.  
+
+---
+country: Sint Maarten
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Sint Maarten/>
+license: public domain (U.S.)
+...

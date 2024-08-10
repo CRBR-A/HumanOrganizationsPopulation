@@ -1,0 +1,198 @@
+CIA - The World Factbook --  Hospital bed density   
+
+This entry provides the number of hospital beds per 1,000 people; it serves as a general measure of inpatient service availability. Hospital beds include inpatient beds available in public, private, general, and specialized hospitals and rehabilitation centers. In most cases, beds for both acute and chronic care are included. Because the level of inpatient services required for individual countries depends on several factors - such as demographic issues and the burden of disease - there is no global target for the number of hospital beds per country. So, while 2 beds per 1,000 in one country may be sufficient, 2 beds per 1,000 in another may be woefully inadequate because of the number of people hospitalized by disease.
+
+| Rank | country | (beds/1,000 population) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Monaco | 16.50 | 2011 |
+| 2 | Japan | 13.70 | 2009 |
+| 3 | Korea, North | 13.20 | 2002 |
+| 4 | Belarus | 11.10 | 2011 |
+| 5 | Korea, South | 10.30 | 2009 |
+| 6 | Russia | 9.70 | 2006 |
+| 7 | Ukraine | 8.70 | 2009 |
+| 8 | Germany | 8.30 | 2010 |
+| 9 | Austria | 7.60 | 2010 |
+| 10 | Kazakhstan | 7.60 | 2009 |
+| 11 | Hungary | 7.20 | 2010 |
+| 12 | Czech Republic | 7.00 | 2010 |
+| 13 | Mongolia | 6.80 | 2011 |
+| 14 | Lithuania | 6.80 | 2010 |
+| 15 | Barbados | 6.60 | 2010 |
+| 16 | France | 6.60 | 2010 |
+| 17 | Poland | 6.60 | 2010 |
+| 18 | Bulgaria | 6.50 | 2010 |
+| 19 | Belgium | 6.50 | 2011 |
+| 20 | Slovakia | 6.40 | 2010 |
+| 21 | Romania | 6.30 | 2010 |
+| 22 | Ethiopia | 6.30 | 2011 |
+| 23 | Gabon | 6.30 | 2010 |
+| 24 | Moldova | 6.20 | 2011 |
+| 25 | Croatia | 6.00 | 2011 |
+| 26 | Timor-Leste | 5.90 | 2010 |
+| 27 | Finland | 5.90 | 2010 |
+| 28 | Iceland | 5.80 | 2007 |
+| 29 | Tuvalu | 5.60 | 2001 |
+| 30 | Tajikistan | 5.50 | 2011 |
+| 31 | European Union | 5.50 | 2010 |
+| 32 | Luxembourg | 5.40 | 2010 |
+| 33 | Serbia | 5.40 | 2009 |
+| 34 | Estonia | 5.30 | 2010 |
+| 35 | Latvia | 5.30 | 2010 |
+| 36 | Cuba | 5.10 | 2011 |
+| 37 | Switzerland | 5.00 | 2010 |
+| 38 | Greece | 4.90 | 2009 |
+| 39 | Saint Kitts and Nevis | 4.80 | 2011 |
+| 40 | Kyrgyzstan | 4.80 | 2011 |
+| 41 | Palau | 4.80 | 2010 |
+| 42 | Netherlands | 4.70 | 2009 |
+| 43 | Nepal | 4.70 | 2009 |
+| 44 | Slovenia | 4.60 | 2010 |
+| 45 | Azerbaijan | 4.60 | 2011 |
+| 46 | Macedonia | 4.60 | 2010 |
+| 47 | Argentina | 4.50 | 2011 |
+| 48 | Uzbekistan | 4.50 | 2010 |
+| 49 | Malta | 4.40 | 2011 |
+| 50 | Maldives | 4.30 | 2009 |
+| 51 | Turkmenistan | 4.10 | 2011 |
+| 52 | Armenia | 4.00 | 2011 |
+| 53 | Montenegro | 4.00 | 2010 |
+| 54 | San Marino | 3.90 | 2011 |
+| 55 | Australia | 3.90 | 2010 |
+| 56 | Dominica | 3.80 | 2011 |
+| 57 | China | 3.80 | 2011 |
+| 58 | Libya | 3.70 | 2009 |
+| 59 | Seychelles | 3.60 | 2011 |
+| 60 | Cyprus | 3.50 | 2010 |
+| 61 | Bosnia and Herzegovina | 3.50 | 2010 |
+| 62 | Denmark | 3.50 | 2010 |
+| 63 | Lebanon | 3.50 | 2009 |
+| 64 | Italy | 3.50 | 2010 |
+| 65 | Grenada | 3.50 | 2011 |
+| 66 | Israel | 3.40 | 2011 |
+| 67 | Portugal | 3.40 | 2010 |
+| 68 | Mauritius | 3.40 | 2011 |
+| 69 | Norway | 3.30 | 2010 |
+| 70 | Spain | 3.20 | 2010 |
+| 71 | Micronesia, Federated States of | 3.20 | 2009 |
+| 72 | Canada | 3.20 | 2010 |
+| 73 | Ireland | 3.20 | 2010 |
+| 74 | Suriname | 3.10 | 2010 |
+| 75 | Sri Lanka | 3.10 | 2004 |
+| 76 | Bahamas, The | 3.10 | 2010 |
+| 77 | United Kingdom | 3.00 | 2010 |
+| 78 | United States | 3.00 | 2010 |
+| 79 | Uruguay | 3.00 | 2011 |
+| 80 | Sao Tome and Principe | 2.90 | 2011 |
+| 81 | Georgia | 2.90 | 2011 |
+| 82 | South Africa | 2.80 | 2005 |
+| 83 | Brunei | 2.80 | 2011 |
+| 84 | Saint Vincent and the Grenadines | 2.70 | 2011 |
+| 85 | Namibia | 2.70 | 2009 |
+| 86 | Marshall Islands | 2.70 | 2010 |
+| 87 | Sweden | 2.70 | 2010 |
+| 88 | Singapore | 2.70 | 2011 |
+| 89 | Tonga | 2.60 | 2010 |
+| 90 | Andorra | 2.50 | 2009 |
+| 91 | Turkey | 2.50 | 2010 |
+| 92 | Panama | 2.40 | 2010 |
+| 93 | Albania | 2.40 | 2011 |
+| 94 | New Zealand | 2.30 | 2011 |
+| 95 | Brazil | 2.30 | 2011 |
+| 96 | Comoros | 2.20 | 2006 |
+| 97 | Vietnam | 2.20 | 2010 |
+| 98 | Saudi Arabia | 2.20 | 2009 |
+| 99 | Cabo Verde | 2.10 | 2010 |
+| 100 | Antigua and Barbuda | 2.10 | 2011 |
+| 101 | Tunisia | 2.10 | 2010 |
+| 102 | Fiji | 2.10 | 2009 |
+| 103 | Swaziland | 2.10 | 2011 |
+| 104 | Thailand | 2.10 | 2010 |
+| 105 | Trinidad and Tobago | 2.10 | |
+| 2.1 |
+| 106 | Equatorial Guinea | 2.10 | 2010 |
+| 107 | Chile | 2.00 | 2010 |
+| 108 | Guyana | 2.00 | 2009 |
+| 109 | Kuwait | 2.00 | 2009 |
+| 110 | Zambia | 2.00 | 2010 |
+| 111 | Burundi | 1.90 | 2011 |
+| 112 | United Arab Emirates | 1.90 | 2008 |
+| 113 | Jamaica | 1.80 | 2010 |
+| 114 | Botswana | 1.80 | 2010 |
+| 115 | Malaysia | 1.80 | 2011 |
+| 116 | Bhutan | 1.80 | 2011 |
+| 117 | Jordan | 1.80 | 2010 |
+| 118 | Oman | 1.80 | 2009 |
+| 119 | Bahrain | 1.80 | 2009 |
+| 120 | Mexico | 1.70 | 2010 |
+| 121 | Zimbabwe | 1.70 | 2011 |
+| 122 | Iran | 1.70 | 2009 |
+| 123 | Algeria | 1.70 | 2004 |
+| 124 | Vanuatu | 1.70 | 2008 |
+| 125 | Egypt | 1.70 | 2010 |
+| 126 | Dominican Republic | 1.70 | 2011 |
+| 127 | Ecuador | 1.60 | 2010 |
+| 128 | Rwanda | 1.60 | 2007 |
+| 129 | Saint Lucia | 1.60 | 2011 |
+| 130 | Congo, Republic of the | 1.60 | 2005 |
+| 131 | Syria | 1.50 | 2010 |
+| 132 | Peru | 1.50 | 2011 |
+| 133 | Solomon Islands | 1.40 | 2005 |
+| 134 | Colombia | 1.40 | 2011 |
+| 135 | Kenya | 1.40 | 2010 |
+| 136 | Djibouti | 1.40 | 2010 |
+| 137 | Malawi | 1.30 | 2011 |
+| 138 | Lesotho | 1.30 | 2006 |
+| 139 | Kiribati | 1.30 | 2011 |
+| 140 | Haiti | 1.30 | 2007 |
+| 141 | Cameroon | 1.30 | 2010 |
+| 142 | Iraq | 1.30 | 2010 |
+| 143 | Paraguay | 1.30 | 2011 |
+| 144 | Qatar | 1.20 | 2009 |
+| 145 | Costa Rica | 1.20 | 2011 |
+| 146 | Nicaragua | 1.10 | 2011 |
+| 147 | Belize | 1.10 | 2011 |
+| 148 | Bolivia | 1.10 | 2011 |
+| 149 | Gambia, The | 1.10 | 2011 |
+| 150 | Morocco | 1.10 | 2009 |
+| 151 | El Salvador | 1.00 | 2011 |
+| 152 | Guinea-Bissau | 1.00 | 2009 |
+| 153 | Central African Republic | 1.00 | 2011 |
+| 154 | Samoa | 1.00 | 2005 |
+| 155 | Philippines | 1.00 | 2011 |
+| 156 | Venezuela | 0.90 | 2011 |
+| 157 | India | 0.90 | 2005 |
+| 158 | Ghana | 0.90 | 2011 |
+| 159 | Angola | 0.80 | 2005 |
+| 160 | Liberia | 0.80 | 2010 |
+| 161 | Congo, Democratic Republic of the | 0.80 | 2006 |
+| 162 | Sudan | 0.70 | 2009 |
+| 163 | Yemen | 0.70 | 2010 |
+| 164 | Tanzania | 0.70 | 2010 |
+| 165 | Mozambique | 0.70 | 2011 |
+| 166 | Eritrea | 0.70 | 2011 |
+| 167 | Cambodia | 0.70 | 2011 |
+| 168 | Laos | 0.70 | 2010 |
+| 169 | Honduras | 0.70 | 2011 |
+| 170 | Guatemala | 0.70 | 2011 |
+| 171 | Togo | 0.70 | 2011 |
+| 172 | Indonesia | 0.60 | 2010 |
+| 173 | Burma | 0.60 | 2006 |
+| 174 | Pakistan | 0.60 | 2010 |
+| 175 | Bangladesh | 0.60 | 2011 |
+| 176 | Nigeria | 0.53 | 2004 |
+| 177 | Benin | 0.50 | 2010 |
+| 178 | Uganda | 0.50 | 2010 |
+| 179 | Chad | 0.43 | 2005 |
+| 180 | Sierra Leone | 0.40 | 2006 |
+| 181 | Mauritania | 0.40 | 2006 |
+| 182 | Afghanistan | 0.40 | 2010 |
+| 183 | Cote d'Ivoire | 0.40 | 2006 |
+| 184 | Burkina Faso | 0.40 | 2010 |
+| 185 | Niger | 0.31 | 2005 |
+| 186 | Guinea | 0.30 | 2011 |
+| 187 | Senegal | 0.30 | 2008 |
+| 188 | Madagascar | 0.20 | 2010 |
+| 189 | Mali | 0.10 | 2010 |
+
+

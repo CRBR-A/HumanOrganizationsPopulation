@@ -1,0 +1,8 @@
+Settled by both Britain and France during the first half of the 19th century, the island became a French possession in 1853. It served as a penal colony for four decades after 1864. Agitation for independence during the 1980s and early 1990s ended in the 1998 Noumea Accord, which over two decades transferred an increasing amount of governing responsibility from France to New Caledonia. In a referendum held in November 2018, residents rejected independence and decided to retain their territorial status, although two additional referendums may occur in 2020 and 2022, per the NoumeaÂ Accord.  
+
+---
+country: New Caledonia
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/New Caledonia/>
+license: public domain (U.S.)
+...

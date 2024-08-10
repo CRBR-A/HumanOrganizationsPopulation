@@ -1,0 +1,277 @@
+CIA - The World Factbook -- GREENLAND
+
+| Geography | GREENLAND |
+| --- | --- |
+| Location: | Northern North America, island between the Arctic Ocean and the North Atlantic Ocean, northeast of Canada |
+| Geographic coordinates: | 72 00 N, 40 00 W |
+| Map references: | Arctic Region |
+| Area: | total: 2,166,086 sq km |
+| | land: 2,166,086 sq km (410,449 sq km ice-free, 1,755,637 sq km ice-covered) |
+| Area - comparative: | slightly more than three times the size of Texas |
+| Land boundaries: | 0 km |
+| Coastline: | 44,087 km |
+| Maritime claims: | territorial sea: 3 nm |
+| | exclusive fishing zone: 200 nm or agreed boundaries or median line |
+| | continental shelf: 200 nm or agreed boundaries or median line |
+| Climate: | arctic to subarctic; cool summers, cold winters |
+| Terrain: | flat to gradually sloping icecap covers all but a narrow, mountainous, barren, rocky coast |
+| Elevation: | mean elevation: 1,792 m |
+| | elevation extremes: lowest point: Atlantic Ocean 0 m |
+| | highest point: Gunnbjorn Fjeld 3,694 m |
+| Natural resources: | coal, iron ore, lead, zinc, molybdenum, diamonds, gold, platinum, niobium, tantalite, uranium, fish, seals, whales, hydropower, possible oil and gas |
+| Land use: | agricultural land: 0.6% |
+| | arable land 0%; permanent crops 0%; permanent pasture 0.6% |
+| | forest: 0% |
+| | other: 99.4% (2011 est.) |
+| Irrigated land: | NA |
+| Population - distribution: | settlement concentrated on the southwest shoreline, with limited settlements scattered along the remaining coast; interior is uninhabited |
+| Natural hazards: | continuous permafrost over northern two-thirds of the island |
+| Environment - current issues: | protection of the arctic environment; preservation of the Inuit traditional way of life, including whaling and seal hunting |
+| Geography - note: | dominates North Atlantic Ocean between North America and Europe; sparse population confined to small settlements along coast; close to one-quarter of the population lives in the capital, Nuuk; world's second largest ice sheet after that of Antarctica |
+
+| People and Society | GREENLAND |
+| --- | --- |
+| Population: | 57,713 (July 2017 est.) |
+| Nationality: | noun: Greenlander(s) |
+| | adjective: Greenlandic |
+| Ethnic groups: | Inuit 88%, Danish and other 12% (2010 est.) |
+| Languages: | Greenlandic (East Inuit) (official), Danish (official), English |
+| Religions: | Evangelical Lutheran, traditional Inuit spiritual beliefs |
+| Age structure: | 0-14 years: 21.11% (male 6,195/female 5,986) |
+| | 15-24 years: 15.48% (male 4,506/female 4,429) |
+| | 25-54 years: 41.21% (male 12,473/female 11,309) |
+| | 55-64 years: 12.96% (male 4,112/female 3,370) |
+| | 65 years and over: 9.24% (male 2,862/female 2,471) (2017 est.) |
+| Median age: | total: 33.9 years |
+| | male: 35 years |
+| | female: 32.7 years (2017 est.) |
+| Population growth rate: | -0.03% (2017 est.) |
+| Birth rate: | 14.4 births/1,000 population (2017 est.) |
+| Death rate: | 8.7 deaths/1,000 population (2017 est.) |
+| Net migration rate: | -6 migrant(s)/1,000 population (2017 est.) |
+| Population distribution: | settlement concentrated on the southwest shoreline, with limited settlements scattered along the remaining coast; interior is uninhabited |
+| Urbanization: | urban population: 87.2% of total population (2017) |
+| | rate of urbanization: 0.27% annual rate of change (2015-20 est.) |
+| Major urban areas - population: | NUUK (capital) 17,000 (2014) |
+| Sex ratio: | at birth: 1.05 male(s)/female |
+| | 0-14 years: 1.03 male(s)/female |
+| | 15-24 years: 1.02 male(s)/female |
+| | 25-54 years: 1.1 male(s)/female |
+| | 55-64 years: 1.26 male(s)/female |
+| | 65 years and over: 1.15 male(s)/female |
+| | total population: 1.1 male(s)/female (2016 est.) |
+| Infant mortality rate: | total: 8.9 deaths/1,000 live births |
+| | male: 10.1 deaths/1,000 live births |
+| | female: 7.5 deaths/1,000 live births (2017 est.) |
+| Life expectancy at birth: | total population: 72.6 years |
+| | male: 69.9 years |
+| | female: 75.5 years (2017 est.) |
+| Total fertility rate: | 1.99 children born/woman (2017 est.) |
+| Physicians density: | 1.73 physicians/1,000 population (2014) |
+| Hospital bed density: | 8.2 beds/1,000 population (2014) |
+| Drinking water source: | improved: |
+| | urban: 100% of population |
+| | rural: 100% of population |
+| | total: 100% of population |
+| unimproved: | urban: 0% of population |
+| | rural: 0% of population |
+| | total: 0% of population (2015 est.) |
+| Sanitation facility access: | improved: |
+| | urban: 100% of population |
+| | rural: 100% of population |
+| | total: 100% of population |
+| unimproved: | urban: 0% of population |
+| | rural: 0% of population |
+| | total: 0% of population (2015 est.) |
+| HIV/AIDS - adult prevalence rate: | NA |
+| HIV/AIDS - people living with HIV/AIDS: | NA |
+| HIV/AIDS - deaths: | NA |
+| Literacy: | definition: age 15 and over can read and write |
+| | total population: 100% |
+| | male: 100% |
+| | female: 100% (2015 est.) |
+
+| Government | GREENLAND |
+| --- | --- |
+| Country name: | conventional long form: none |
+| | conventional short form: Greenland |
+| | local long form: none |
+| | local short form: Kalaallit Nunaat |
+| | note: named by Norwegian adventurer Erik THORVALDSSON (Erik the Red) in A.D. 985 in order to entice settlers to the island |
+| Dependency status: | part of the Kingdom of Denmark; self-governing overseas administrative division of Denmark since 1979 |
+| Government type: | parliamentary democracy (Parliament of Greenland); part of the Kingdom of Denmark |
+| Capital: | name: Nuuk (Godthaab) |
+| | geographic coordinates: 64 11 N, 51 45 W |
+| | time difference: UTC-3 (2 hours ahead of Washington, DC, during Standard Time) |
+| | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| | note: Greenland has four time zones |
+| Administrative divisions: | 4 municipalities (kommuner, singular kommune); Kujalleq, Qaasuitsup, Qeqqata, Sermersooq |
+| | note: the North and East Greenland National Park (Avannaarsuani Tunumilu Nuna Allanngutsaaliugaq) and the Thule Air Base in Pituffik (in northwest Greenland) are two unincorporated areas; the national park's 972,000 sq km - about 46% of the island - makes it the largest national park in the world and also the most northerly |
+| Independence: | none (extensive self-rule as part of the Kingdom of Denmark; foreign affairs is the responsibility of Denmark, but Greenland actively participates in international agreements relating to Greenland) |
+| National holiday: | National Day, June 21; note - marks the summer solstice and the longest day of the year in the Northern Hemisphere |
+| Constitution: | previous 1953 (Greenland established as a constituency in the Danish constitution), 1979 (Greenland Home Rule Act); latest 21 June 2009 (Greenland Self-Government Act) (2016) |
+| Legal system: | the laws of Denmark apply where applicable and Greenlandic law applies to other areas |
+| Citizenship: | see Denmark |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: Queen MARGRETHE II of Denmark (since 14 January 1972), represented by High Commissioner Mikaela ENGELL (since April 2011) |
+| | head of government: Premier Kim KIELSEN (since 30 September 2014) |
+| | cabinet: Home Rule Government elected by the Parliament (Landsting) on the basis of the strength of parties |
+| | elections/appointments: the monarchy is hereditary; high commissioner appointed by the monarch; premier indirectly elected by Parliament for a 4-year term |
+| | election results: Kim KIELSEN elected premier; Parliament vote - Kim KIELSEN (S) 34.3%, Sara OLSVIG (IA) 33.2%, Anda ULDUM (D) 11.8%, other 20.7% |
+| Legislative branch: | description: unicameral Parliament or Inatsisartut (Landsting) (31 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms) |
+| | elections: last held on 28 November 2014 (next to be held by 2018) |
+| | election results: percent of vote by party - S 34.6%, IA 33.5%, D 11.9%, PN 11.7%, A 6.6%, other 1.7%; seats by party - S 11, IA 11, D 4, PN 3, A 2 |
+| | note: 2 representatives were elected to the Danish Parliament or Folketing on 18 June 2015 (next to be held by June 2019); percent of vote by party - NA; seats by party - S 1, IA 1 (2013) |
+| Judicial branch: | highest court(s): High Court of Greenland (consists of the presiding professional judge and 2 lay assessors); note - appeals beyond the High Court of Greenland can be heard by the Supreme Court (in Copenhagen) |
+| | judge selection and term of office: judges appointed by the monarch upon the recommendation of the Judicial Appointments Council, a 6-member independent body of judges and lawyers; judges appointed for life with retirement at age 70 |
+| | subordinate courts: Court of Greenland; 18 district or magistrates' courts |
+| Political parties and leaders: | Democrats Party or D (Demokraatit) [Randi VESTERGAARD EVALDSEN] |
+| | Forward Party or S (Siumut) [Kim KIELSEN] |
+| | Inuit Community or IA (Inuit Ataqatigiit) [Sara OLSVIG] |
+| | Inuit Party or PI (Partii Inuit) [Nikku OLSEN] |
+| | Partii Naleraq or PN [Hans ENOKSEN] |
+| | Solidarity Party or A (Atassut) [Siverth Karl HEILMANN] |
+| Political pressure groups and leaders: | conservationists; environmentalists; independence activists |
+| International organization participation: | Arctic Council, ICC, NC, NIB, UPU |
+| Diplomatic representation in the US: | none (self-governing overseas administrative division of Denmark): note - Greenland has an office in the Danish Embassy to the US; it also has offices in the Danish consulates of Chicago and New York |
+| Diplomatic representation from the US: | none (self-governing overseas administrative division of Denmark); note - the US Embassy in Copenhagen has an office devoted to Greenland |
+| Flag description: | two equal horizontal bands of white (top) and red with a large disk slightly to the hoist side of center - the top half of the disk is red, the bottom half is white; the design represents the sun reflecting off a field of ice; the colors are the same as those of the Danish flag and symbolize Greenland's links to the Kingdom of Denmark |
+| National symbol(s): | polar bear; national colors: red, white |
+| National anthem: | name: "Nunarput utoqqarsuanngoravit" ("Our Country, Who's Become So Old" also translated as "You Our Ancient Land") |
+| | lyrics/music: Henrik LUND/Jonathan PETERSEN |
+| | note: adopted 1916; the government also recognizes "Nuna asiilasooq" as a secondary anthem |
+
+| Economy | GREENLAND |
+| --- | --- |
+| Economy - overview: | Greenland’s economy depends on exports of shrimp and fish, and on a substantial subsidy from the Danish Government. Fish account for over 90% of its exports, subjecting the economy to fluctuations in world demand. The subsidy from the Danish Government is budgeted to be about $535 million in 2017, more than 50% of government revenues, and 25% of GDP. |
+| | The economy is expanding after a period of decline. In 2016 the economy grew 4.6% compared to 1.1% in 2015 and negative growth in the years 2013-14. For 2017 the economy is expected to continue to expand at a more subdued rate. The expansion has been driven by larger quotas for shrimp, the predominant Greenlandic export, and also by increased activity in the construction sector, especially in Nuuk, the capital, where the harbor is being enlarged and a prison is under construction. Private consumption and tourism also are contributing to GDP growth more than in previous years. Tourism in Greenland has grown annually around 20% in 2015 and 2016, largely a result of increasing numbers of cruise lines now operating in Greenland's western and southern waters during the peak summer tourism season. |
+| | The public sector, including publicly owned enterprises and the municipalities, plays a dominant role in Greenland's economy. During the last decade the Greenland Home Rule Government pursued conservative fiscal and monetary policies, but public pressure has increased for better schools, health care, and retirement systems. The budget was in deficit in 2014 and 2016, but public debt remains low at about 5% of GDP. The government plans a balanced budget for the 2017–20 period. |
+| | Significant challenges face the island, including low levels of qualified labor, geographic dispersion, lack of industry diversification, the long-term sustainability of the public budget, and a declining population due to emigration. Catches in fisheries have been declining in recent years. Hydrocarbon exploration has ceased with declining oil prices and currently only three mines are under development. The island has potential for natural resource exploitation with rare-earth, uranium, and iron ore mineral projects proposed. |
+| GDP (purchasing power parity): | $2.173 billion (2015 est.) |
+| | $2.137 billion (2014 est.) |
+| | $2.154 billion (2013 est.) |
+| | note: data are in 2015 US dollars |
+| GDP (official exchange rate): | $2.221 billion (2011 est.) |
+| GDP - real growth rate: | 1.7% (2015 est.) |
+| | -0.8% (2014 est.) |
+| | -3% (2013 est.) |
+| GDP - per capita (PPP): | $37,600 (2015 est.) |
+| | $37,000 (2014 est.) |
+| | $38,500 (2013 est.) |
+| GDP - composition, by end use: | household consumption: 24.8% |
+| | government consumption: 28% |
+| | investment in fixed capital: 14.3% |
+| | investment in inventories: -13.9% |
+| | exports of goods and services: 18.2% |
+| | imports of goods and services: 28.6% (2015 est.) |
+| GDP - composition, by sector of origin: | agriculture: 15.9% |
+| | industry: 10.1% |
+| | services: 73.9% (2015) |
+| Agriculture - products: | sheep, cow, reindeer, fish |
+| Industries: | fish processing (mainly shrimp and Greenland halibut); gold, zinc, anorthosite and ruby mining; handicrafts, hides and skins, small shipyards |
+| Industrial production growth rate: | NA% |
+| Labor force: | 26,840 (2015 est.) |
+| Labor force - by occupation: | agriculture: 15.9% |
+| | industry: 10.1% |
+| | services: 73.9% (2015 est.) |
+| Unemployment rate: | 9.1% (2015 est.) |
+| | 10.3% (2014 est.) |
+| Population below poverty line: | 16.2% (2015 est.) |
+| Household income or consumption by percentage share: | lowest 10%: NA% |
+| | highest 10%: NA% |
+| Distribution of family income - Gini index: | 33.9 (2015 est.) |
+| | 34.3 (2014 est.) |
+| Budget: | revenues: $1.578 billion |
+| | expenditures: $1.876 billion (2014 est.) |
+| Taxes and other revenues: | 71% of GDP (2015 est.) |
+| Budget surplus (+) or deficit (-): | -13.5% of GDP (2015 est.) |
+| Public debt: | 13% of GDP (2015 est.) |
+| Fiscal year: | calendar year |
+| Inflation rate (consumer prices): | 0.3% (January 2017 est.) |
+| | 1.2% (January 2016 est.) |
+| Central bank discount rate: | NA% |
+| Exports: | $407.1 million (2015 est.) |
+| | $599.7 million (2014 est.) |
+| Exports - commodities: | fish and fish products 91% (2015 est.) |
+| Exports - partners: | Denmark 81.2%, Portugal 8.3% (2016) |
+| Imports: | $783.5 million (2015 est.) |
+| | $866.1 million (2014 est.) |
+| Imports - commodities: | machinery and transport equipment, manufactured goods, food, petroleum products |
+| Imports - partners: | Denmark 72.2%, Sweden 9.8% (2016) |
+| Debt - external: | $36.4 million (2010) |
+| | $58 million (2009) |
+| Exchange rates: | Danish kroner (DKK) per US dollar - |
+| | 6.7309 (2016) |
+| | 6.7309 (2015) |
+| | 6.7236 (2014 est.) |
+| | 5.6125 (2013 est.) |
+| | 5.79 (2012 est.) |
+
+| Energy | GREENLAND |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2016) |
+| Electricity - production: | 625 million kWh (2015 est.) |
+| Electricity - consumption: | 581.3 million kWh (2015 est.) |
+| Electricity - exports: | 0 kWh (2016 est.) |
+| Electricity - imports: | 0 kWh (2016 est.) |
+| Electricity - installed generating capacity: | 187,000 kW (2015 est.) |
+| Electricity - from fossil fuels: | 51.3% of total installed capacity (2015 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2015 est.) |
+| Electricity - from hydroelectric plants: | 48.7% of total installed capacity (2015 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2015 est.) |
+| Crude oil - production: | 0 bbl/day (2016 est.) |
+| Crude oil - exports: | 0 bbl/day (2014 est.) |
+| Crude oil - imports: | 0 bbl/day (2014 est.) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2017 es) |
+| Refined petroleum products - production: | 0 bbl/day (2014 est.) |
+| Refined petroleum products - consumption: | 6,000 bbl/day (2015 est.) |
+| Refined petroleum products - exports: | 0 bbl/day (2014 est.) |
+| Refined petroleum products - imports: | 4,633 bbl/day (2014 est.) |
+| Natural gas - production: | 0 cu m (2016 est.) |
+| Natural gas - consumption: | 0 cu m (2013 est.) |
+| Natural gas - exports: | 0 cu m (2016 est.) |
+| Natural gas - imports: | 0 cu m (2013 est.) |
+| Natural gas - proved reserves: | 0 cu m (1 January 2014 es) |
+| Carbon dioxide emissions from consumption of energy: | 520,400 Mt (2015 est.) |
+
+| Communications | GREENLAND |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 16,000 |
+| | subscriptions per 100 inhabitants: 28 (July 2016 est.) |
+| Telephones - mobile cellular: | total: 61,000 |
+| | subscriptions per 100 inhabitants: 106 (July 2016 est.) |
+| Telephone system: | general assessment: adequate domestic and international service provided by satellite, cables, and microwave radio relay; totally digital since 1995 |
+| | domestic: microwave radio relay and satellite; the fundamental telecommunications infrastructure consists of a digital radio link from Nanortalik in south Greenland to Uummannaq in north Greenland; satellites cover north and east Greenland for domestic and foreign telecommunications; a marine cable connects south and west Greenland to the rest of the world, extending from Nuuk and Qaqortoq to Canada and Iceland |
+| | international: country code - 299; satellite earth stations - 15 (12 Intelsat, 1 Eutelsat, 2 Americom GE-2 (all Atlantic Ocean)) (2015) |
+| Broadcast media: | the Greenland Broadcasting Company provides public radio and TV services throughout the island with a broadcast station and a series of repeaters; a few private local TV and radio stations; Danish public radio rebroadcasts are available (2015) |
+| Internet country code: | .gl |
+| Internet users: | total: 39,544 |
+| | percent of population: 68.5% (July 2016 est.) |
+
+| Transportation | GREENLAND |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 1 (registered in Denmark) |
+| | inventory of registered aircraft operated by air carriers: 8 (registered in Denmark) (2015) |
+| Civil aircraft registration country code prefix: | OY-H (2016) |
+| Airports: | 15 (2013) |
+| Airports - with paved runways: | total: 10 |
+| | 2,438 to 3,047 m: 2 |
+| | 1,524 to 2,437 m: 1 |
+| | 914 to 1,523 m: 1 |
+| | under 914 m: 6 (2017) |
+| Airports - with unpaved runways: | total: 5 |
+| | 1,524 to 2,437 m: 1 |
+| | 914 to 1,523 m: 2 |
+| | under 914 m: 2 (2013) |
+| Roadways: | note: although there are short roads in towns, there are no roads between towns; inter-urban transport is either by sea or by air (2015) |
+| Merchant marine: | registered in other countries: 1 (Denmark 1) (2010) |
+| Ports and terminals: | major seaport(s): Sisimiut |
+
+| Military and Security | GREENLAND |
+| --- | --- |
+| Military branches: | no regular military forces or conscription; the Government of Denmark has responsibility for defense; as such the Danish military’s Joint Arctic Command in Nuuk is responsible for territorial defense of Greenland (2016) |
+| Military - note: | defense is the responsibility of Denmark |
+
+| Transnational Issues | GREENLAND |
+| --- | --- |
+| Disputes - international: | managed dispute between Canada and Denmark over Hans Island in the Kennedy Channel between Canada's Ellesmere Island and Greenland; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission |

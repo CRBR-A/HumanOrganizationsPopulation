@@ -1,0 +1,27 @@
+Telephone Code: 421
+Local Emergency Phone: Ambulance: 155; Fire: 150; Police; 158
+Climate: Temperate; cool summers; cold, cloudy, humid winters
+Currency (Code): Euros (EUR)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, E
+Major Languages: Slovak, Hungarian, Roma, Ruthenian
+Major Religions: Roman Catholic 62%, Protestant 8.2%, Greek Catholic 3.8%
+Time Difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time); daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October
+Potable Water: Yes
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Spis Castle; Slovak Paradise National Park; Pieniny Mountains; Demanovska Cave of Liberty; Vychodna Folklore Festival; Bratislava Castle; Tatra Mountains; Levoca
+Major Sports: Soccer, ice hockey, cycling, hiking, soccer
+Cultural Practices: Always wait to be invited before using someone's first name. If you are invited to a Slovak's home, take wine, flowers, or good quality chocolates for the hostess.
+Tipping Guidelines: A tip of 10-20% is expected in restaurants. In other settings, tipping is expected only from tourists. In such cases, either round up a bill or leave 10% of the total.
+Souvenirs: Cornhusk dolls and puppets, glass and crystal, musical instruments, woodcarvings, pottery and porcelain, hand-embroidered cloth, chocolate, cheese, ginger desserts, wine and brandy
+Traditional Cuisine: Bryndzové halušky --- small boiled dumplings made from grated potato, flour, and egg then covered in a special sheep's cheese and topped with bacon bits and drippings
+
+---
+country: Slovakia
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Slovakia/travel-facts>
+license: public domain (U.S.)
+...

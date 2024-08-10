@@ -1,0 +1,144 @@
+CIA - The World Factbook --  Mother's mean age at first birth   
+
+| Rank | country | Mother's mean age at first birth | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Greece | 31.20 | 2010 est. |
+| 2 | Australia | 30.50 | 2006 est. |
+| 3 | Korea, South | 30.30 | 2011 est. |
+| 4 | Japan | 30.30 | 2012 est. |
+| 5 | Italy | 30.30 | 2011 est. |
+| 6 | Switzerland | 30.20 | 2010 est. |
+| 7 | Luxembourg | 30.20 | 2012 est. |
+| 8 | Singapore | 29.80 | 2010 est. |
+| 9 | Spain | 29.80 | 2010 est. |
+| 10 | Ireland | 29.80 | 2011 est. |
+| 11 | Hong Kong | 29.80 | 2008 est. |
+| 12 | Netherlands | 29.40 | 2011 est. |
+| 13 | Germany | 29.20 | 2012 est. |
+| 14 | Portugal | 29.20 | 2011 est. |
+| 15 | Denmark | 29.10 | 2012 est. |
+| 16 | Sweden | 28.90 | 2010 est. |
+| 17 | Slovenia | 28.80 | 2011 est. |
+| 18 | Cyprus | 28.50 | 2010 est. |
+| 19 | Austria | 28.50 | 2011 est. |
+| 20 | Norway | 28.50 | 2012 est. |
+| 21 | Finland | 28.40 | 2011 est. |
+| 22 | Hungary | 28.30 | 2011 est. |
+| 23 | Canada | 28.10 | 2011 est. |
+| 24 | France | 28.10 | 2010 est. |
+| 25 | Belgium | 28.00 | 2010 est. |
+| 26 | Croatia | 27.90 | 2011 est. |
+| 27 | Slovakia | 27.80 | 2010 est. |
+| 28 | New Zealand | 27.80 | 2009 est. |
+| 29 | United Kingdom | 27.80 | 2010 est. |
+| 30 | Czech Republic | 27.80 | 2011 est. |
+| 31 | Serbia | 27.50 | 2011 est. |
+| 32 | Israel | 27.30 | 2011 est. |
+| 33 | Iceland | 27.00 | 2011 est. |
+| 34 | Poland | 26.90 | 2011 est. |
+| 35 | Malta | 26.90 | 2010 est. |
+| 36 | Lithuania | 26.70 | 2011 est. |
+| 37 | Latvia | 26.40 | 2011 est. |
+| 38 | Estonia | 26.40 | 2011 est. |
+| 39 | Montenegro | 26.30 | 2010 est. |
+| 40 | Bulgaria | 26.30 | 2011 est. |
+| 41 | Bosnia and Herzegovina | 26.30 | 2011 est. |
+| 42 | Macedonia | 26.20 | 2011 est. |
+| 43 | Romania | 26.00 | 2011 est. |
+| 44 | Ukraine | 25.80 | 2010 est. |
+| 45 | Sri Lanka | 25.40 | 2006-07 est. |
+| 46 | United States | 25.40 | 2009 est. |
+| 47 | Morocco | 25.40 | 2003-04 est. |
+| 48 | Belarus | 25.10 | 2011 est. |
+| 49 | Kazakhstan | 25.00 | 2011 est. |
+| 50 | Tonga | 24.90 | 2012 est. |
+| 51 | Jordan | 24.70 | 2012 est. |
+| 52 | Turkmenistan | 24.60 | 2006 est. |
+| 53 | Russia | 24.60 | 2009 est. |
+| 54 | Comoros | 24.60 | 2012 est. |
+| 55 | Georgia | 24.00 | 2011 est. |
+| 56 | Maldives | 23.90 | 2009 est. |
+| 57 | Uzbekistan | 23.80 | 2006 est. |
+| 58 | Moldova | 23.70 | 2011 est. |
+| 59 | Chile | 23.70 | 2004 est. |
+| 60 | Samoa | 23.60 | 2009 est. |
+| 61 | Armenia | 23.50 | 2011 est. |
+| 62 | Tuvalu | 23.50 | 2007 est. |
+| 63 | Azerbaijan | 23.40 | 2011 est. |
+| 64 | Pakistan | 23.40 | 2012-13 est. |
+| 65 | Albania | 23.40 | 2010 est. |
+| 66 | Thailand | 23.30 | 2009 est. |
+| 67 | Philippines | 23.10 | 2008 est. |
+| 68 | Kiribati | 23.10 | 2009 est. |
+| 69 | Rwanda | 22.90 | 2010 est. |
+| 70 | Paraguay | 22.90 | 2008 est. |
+| 71 | Egypt | 22.90 | 2008 est. |
+| 72 | Indonesia | 22.80 | 2012 est. |
+| 73 | Burma | 22.80 | 2007 est. |
+| 74 | Cambodia | 22.80 | 2010 est. |
+| 75 | Tajikistan | 22.80 | 2012 est. |
+| 76 | Haiti | 22.70 | 2012 |
+| 77 | Vietnam | 22.60 | 2002 est. |
+| 78 | Kyrgyzstan | 22.60 | 2012 est. |
+| 79 | South Africa | 22.50 | 2003-04 est. |
+| 80 | Turkey | 22.30 | 2010 est. |
+| 81 | Peru | 22.20 | 2013 est. |
+| 82 | Timor-Leste | 22.10 | 2009-10 est. |
+| 83 | Nauru | 22.10 | 2007 est. |
+| 84 | Mongolia | 21.90 | 2008 est. |
+| 85 | Mauritania | 21.90 | 2000-01 est. |
+| 86 | Ghana | 21.80 | 2008 est. |
+| 87 | Solomon Islands | 21.60 | 2006-07 est. |
+| 88 | Colombia | 21.40 | 2010 est. |
+| 89 | Senegal | 21.40 | 2010-11 est. |
+| 90 | Namibia | 21.40 | 2006-07 est. |
+| 91 | Mexico | 21.30 | 2006 est. |
+| 92 | Burundi | 21.30 | 2010 est. |
+| 93 | Lesotho | 21.20 | 2009 est. |
+| 94 | Bolivia | 21.20 | 2008 est. |
+| 95 | Jamaica | 21.20 | 2008 est. |
+| 96 | Ecuador | 21.10 | 2004 est. |
+| 97 | Guyana | 20.80 | 2009 est. |
+| 98 | El Salvador | 20.80 | 2008 est. |
+| 99 | Marshall Islands | 20.70 | 2007 est. |
+| 100 | Eritrea | 20.60 | 2002 est. |
+| 101 | Zimbabwe | 20.50 | 2010-11 est. |
+| 102 | Honduras | 20.40 | 2011-12 est. |
+| 103 | Guatemala | 20.30 | 2008-09 est. |
+| 104 | Gabon | 20.30 | 2012 est. |
+| 105 | Dominican Republic | 20.30 | 2007 est. |
+| 106 | Benin | 20.30 | 2011-12 est. |
+| 107 | Nigeria | 20.30 | 2013 est. |
+| 108 | Congo, Democratic Republic of the | 20.20 | 2007 est. |
+| 109 | Nepal | 20.10 | 2011 est. |
+| 110 | Afghanistan | 20.10 | 2010 est. |
+| 111 | West Bank | 20.00 | 2004 est. |
+| 112 | India | 19.90 | 2005-06 est. |
+| 113 | Congo, Republic of the | 19.80 | 2011-12 est. |
+| 114 | Kenya | 19.80 | 2008-09 est. |
+| 115 | Cote d'Ivoire | 19.80 | 2011-12 est. |
+| 116 | Cameroon | 19.70 | 2011 est. |
+| 117 | Nicaragua | 19.70 | 2006-07 est. |
+| 118 | Ethiopia | 19.60 | 2011 est. |
+| 119 | Tanzania | 19.60 | 2010 est. |
+| 120 | Swaziland | 19.50 | 2006-07 est. |
+| 121 | Madagascar | 19.50 | 2008-09 est. |
+| 122 | Cabo Verde | 19.50 | 2005 est. |
+| 123 | Burkina Faso | 19.40 | 2010 est. |
+| 124 | Sao Tome and Principe | 19.40 | 2008-09 est. |
+| 125 | Zambia | 19.20 | 2007 est. |
+| 126 | Sierra Leone | 19.00 | 2008 est. |
+| 127 | Botswana | 19.00 | 2007 est. |
+| 128 | Gaza Strip | 19.00 | 2004 est. |
+| 129 | Liberia | 19.00 | 2009 est. |
+| 130 | Malawi | 18.90 | 2010 est. |
+| 131 | Mozambique | 18.90 | 2011 est. |
+| 132 | Uganda | 18.90 | 2011 est. |
+| 133 | Guinea | 18.90 | 2012 est. |
+| 134 | Mali | 18.60 | 2006 est. |
+| 135 | Chad | 18.20 | 2004 est. |
+| 136 | Niger | 18.10 | 2012 est. |
+| 137 | Bangladesh | 18.10 | 2011 est. |
+| 138 | Angola | 18.00 | 2008-09 est. |
+
+

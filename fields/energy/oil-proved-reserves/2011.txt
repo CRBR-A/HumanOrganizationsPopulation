@@ -1,0 +1,218 @@
+CIA - The World Factbook --  Oil - proved reserves   
+
+This entry is the stock of proved reserves of crude oil in barrels (bbl). Proved reserves are those quantities of petroleum which, by analysis of geological and engineering data, can be estimated with a high degree of confidence to be commercially recoverable from a given date forward, from known reservoirs and under current economic conditions.
+
+| Rank | country | (bbl) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Saudi Arabia | 262,600,000,000 | 1 January 2011 est. |
+| 2 | Venezuela | 211,200,000,000 | 1 January 2011 est. |
+| 3 | Canada | 175,200,000,000 | 1 January 2011 est. |
+| 4 | Iran | 137,000,000,000 | 1 January 2011 est. |
+| 5 | Iraq | 115,000,000,000 | 1 January 2011 est. |
+| 6 | Kuwait | 104,000,000,000 | 1 January 2011 est. |
+| 7 | United Arab Emirates | 97,800,000,000 | 1 January 2011 est. |
+| 8 | Russia | 60,000,000,000 | 1 January 2011 est. |
+| 9 | Libya | 46,420,000,000 | 1 January 2011 est. |
+| 10 | Nigeria | 37,200,000,000 | 1 January 2011 est. |
+| 11 | Kazakhstan | 30,000,000,000 | 1 January 2011 est. |
+| 12 | Qatar | 25,380,000,000 | 1 January 2011 est. |
+| 13 | United States | 20,680,000,000 | 1 January 2011 est. |
+| 14 | China | 20,350,000,000 | 1 January 2011 est. |
+| 15 | Brazil | 12,860,000,000 | 1 January 2011 est. |
+| 16 | Algeria | 12,200,000,000 | 1 January 2011 est. |
+| 17 | Mexico | 10,420,000,000 | 1 January 2011 est. |
+| 18 | Angola | 9,500,000,000 | 1 January 2011 est. |
+| 19 | Azerbaijan | 7,000,000,000 | 1 January 2011 est. |
+| 20 | Ecuador | 6,510,000,000 | 1 January 2011 est. |
+| 21 | India | 5,682,000,000 | 1 January 2011 est. |
+| 22 | Norway | 5,670,000,000 | 1 January 2010 est. |
+| 23 | Oman | 5,500,000,000 | 1 January 2011 est. |
+| 24 | European Union | 5,193,000,000 | 1 January 2011 est. |
+| 25 | Sudan | 5,000,000,000 | 1 January 2011 est. |
+| 26 | Egypt | 4,400,000,000 | 1 January 2011 est. |
+| 27 | Malaysia | 4,000,000,000 | 1 January 2011 est. |
+| 28 | Indonesia | 3,990,000,000 | 1 January 2011 est. |
+| 29 | Australia | 3,318,000,000 | 1 January 2011 est. |
+| 30 | Yemen | 3,000,000,000 | 1 January 2011 est. |
+| 31 | United Kingdom | 2,858,000,000 | 1 January 2011 est. |
+| 32 | Argentina | 2,505,000,000 | 1 January 2011 est. |
+| 33 | Syria | 2,500,000,000 | 1 January 2011 est. |
+| 34 | Gabon | 2,000,000,000 | 1 January 2011 est. |
+| 35 | Colombia | 1,900,000,000 | 1 January 2011 est. |
+| 36 | Congo, Republic of the | 1,600,000,000 | 1 January 2011 est. |
+| 37 | Chad | 1,500,000,000 | 1 January 2011 est. |
+| 38 | Brunei | 1,100,000,000 | 1 January 2011 est. |
+| 39 | Equatorial Guinea | 1,100,000,000 | 1 January 2011 est. |
+| 40 | Uganda | 1,000,000,000 | 1 January 2010 est. |
+| 41 | Denmark | 812,000,000 | 1 January 2011 est. |
+| 42 | Trinidad and Tobago | 728,300,000 | 1 January 2011 est. |
+| 43 | Ghana | 660,000,000 | 1 January 2011 est. |
+| 44 | Turkmenistan | 600,000,000 | 1 January 2011 est. |
+| 45 | Romania | 600,000,000 | 1 January 2011 est. |
+| 46 | Vietnam | 600,000,000 | 1 January 2011 est. |
+| 47 | Uzbekistan | 594,000,000 | 1 January 2011 est. |
+| 48 | Timor-Leste | 553,800,000 | 1 January 2011 est. |
+| 49 | Peru | 532,700,000 | 1 January 2011 est. |
+| 50 | Italy | 476,500,000 | 1 January 2011 est. |
+| 51 | Bolivia | 465,000,000 | 1 January 2011 est. |
+| 52 | Thailand | 435,000,000 | 1 January 2011 est. |
+| 53 | Tunisia | 425,000,000 | 1 January 2011 est. |
+| 54 | Ukraine | 395,000,000 | 1 January 2011 est. |
+| 55 | Pakistan | 313,000,000 | 1 January 2011 est. |
+| 56 | Netherlands | 310,000,000 | 1 January 2011 est. |
+| 57 | Germany | 276,000,000 | 1 January 2011 est. |
+| 58 | Turkey | 270,400,000 | 1 January 2011 est. |
+| 59 | Cameroon | 200,000,000 | 1 January 2011 est. |
+| 60 | Albania | 199,100,000 | 1 January 2011 est. |
+| 61 | Belarus | 198,000,000 | 1 January 2011 est. |
+| 62 | Congo, Democratic Republic of the | 180,000,000 | 1 January 2011 est. |
+| 63 | Spain | 150,000,000 | 1 January 2011 est. |
+| 64 | Chile | 150,000,000 | 1 January 2011 est. |
+| 65 | Philippines | 138,500,000 | 1 January 2011 est. |
+| 66 | Bahrain | 124,600,000 | 1 January 2011 est. |
+| 67 | Cuba | 124,000,000 | 1 January 2011 est. |
+| 68 | New Zealand | 112,500,000 | 1 January 2011 est. |
+| 69 | Mauritania | 100,000,000 | 1 January 2011 est. |
+| 70 | Cote d'Ivoire | 100,000,000 | 1 January 2011 est. |
+| 71 | Poland | 96,380,000 | 1 January 2010 est. |
+| 72 | France | 91,630,000 | 1 January 2011 est. |
+| 73 | Papua New Guinea | 88,000,000 | 1 January 2011 est. |
+| 74 | Guatemala | 83,070,000 | 1 January 2011 est. |
+| 75 | Suriname | 78,900,000 | 1 January 2011 est. |
+| 76 | Serbia | 77,500,000 | 1 January 2011 est. |
+| 77 | Croatia | 71,000,000 | 1 January 2011 est. |
+| 78 | Austria | 50,000,000 | 1 January 2011 est. |
+| 79 | Burma | 50,000,000 | 1 January 2011 est. |
+| 80 | Japan | 44,120,000 | 1 January 2011 est. |
+| 81 | Kyrgyzstan | 40,000,000 | 1 January 2011 est. |
+| 82 | Georgia | 35,000,000 | 1 January 2011 est. |
+| 83 | Bangladesh | 28,000,000 | 1 January 2011 est. |
+| 84 | Hungary | 26,570,000 | 1 January 2011 est. |
+| 85 | Czech Republic | 15,000,000 | 1 January 2011 est. |
+| 86 | Bulgaria | 15,000,000 | 1 January 2011 est. |
+| 87 | South Africa | 15,000,000 | 1 January 2011 est. |
+| 88 | Tajikistan | 12,000,000 | 1 January 2011 est. |
+| 89 | Lithuania | 12,000,000 | 1 January 2011 est. |
+| 90 | Greece | 10,000,000 | 1 January 2011 est. |
+| 91 | Slovakia | 9,000,000 | 1 January 2011 est. |
+| 92 | Benin | 8,000,000 | 1 January 2011 est. |
+| 93 | Belize | 6,700,000 | 1 January 2011 est. |
+| 94 | Taiwan | 2,380,000 | 1 January 2011 est. |
+| 95 | Israel | 1,940,000 | 1 January 2011 est. |
+| 96 | Barbados | 1,790,000 | 1 January 2011 est. |
+| 97 | Jordan | 1,000,000 | 1 January 2011 est. |
+| 98 | Morocco | 680,000 | 1 January 2011 est. |
+| 99 | Ethiopia | 430,000 | 1 January 2011 est. |
+| 100 | Aruba | 0 | 1 January 2011 est. |
+| 101 | Antigua and Barbuda | 0 | 1 January 2011 est. |
+| 102 | Afghanistan | 0 | 1 January 2011 est. |
+| 103 | Armenia | 0 | 1 January 2011 est. |
+| 104 | American Samoa | 0 | 1 January 2011 est. |
+| 105 | Botswana | 0 | 1 January 2011 est. |
+| 106 | Bermuda | 0 | 1 January 2011 est. |
+| 107 | Belgium | 0 | 1 January 2011 est. |
+| 108 | Bahamas, The | 0 | 1 January 2011 est. |
+| 109 | Bosnia and Herzegovina | 0 | 1 January 2011 est. |
+| 110 | Solomon Islands | 0 | 1 January 2011 est. |
+| 111 | Bhutan | 0 | 1 January 2011 est. |
+| 112 | Burundi | 0 | 1 January 2011 est. |
+| 113 | Cambodia | 0 | 1 January 2011 est. |
+| 114 | Curacao | 0 | 1 January 2011 est. |
+| 115 | Sri Lanka | 0 | 1 January 2011 est. |
+| 116 | Cayman Islands | 0 | 1 January 2011 est. |
+| 117 | Comoros | 0 | 1 January 2011 est. |
+| 118 | Costa Rica | 0 | 1 January 2011 est. |
+| 119 | Central African Republic | 0 | 1 January 2011 est. |
+| 120 | Cape Verde | 0 | 1 January 2011 est. |
+| 121 | Cook Islands | 0 | 1 January 2011 est. |
+| 122 | Cyprus | 0 | 1 January 2011 est. |
+| 123 | Djibouti | 0 | 1 January 2011 est. |
+| 124 | Dominica | 0 | 1 January 2011 est. |
+| 125 | Dominican Republic | 0 | 1 January 2011 est. |
+| 126 | Ireland | 0 | 1 January 2011 est. |
+| 127 | Estonia | 0 | 1 January 2011 est. |
+| 128 | Eritrea | 0 | 1 January 2011 est. |
+| 129 | El Salvador | 0 | 1 January 2011 est. |
+| 130 | Finland | 0 | 1 January 2011 est. |
+| 131 | Fiji | 0 | 1 January 2011 est. |
+| 132 | Falkland Islands (Islas Malvinas) | 0 | 1 January 2011 est. |
+| 133 | Faroe Islands | 0 | 1 January 2011 est. |
+| 134 | French Polynesia | 0 | 1 January 2011 est. |
+| 135 | Gambia, The | 0 | 1 January 2011 est. |
+| 136 | Gibraltar | 0 | 1 January 2011 est. |
+| 137 | Grenada | 0 | 1 January 2011 est. |
+| 138 | Greenland | 0 | 1 January 2011 est. |
+| 139 | Guinea | 0 | 1 January 2011 est. |
+| 140 | Guyana | 0 | 1 January 2011 est. |
+| 141 | Gaza Strip | 0 | 1 January 2010 est. |
+| 142 | Haiti | 0 | 1 January 2011 est. |
+| 143 | Hong Kong | 0 | 1 January 2011 est. |
+| 144 | Honduras | 0 | 1 January 2011 est. |
+| 145 | Iceland | 0 | 1 January 2011 est. |
+| 146 | Jamaica | 0 | 1 January 2011 est. |
+| 147 | Kenya | 0 | 1 January 2011 est. |
+| 148 | Korea, North | 0 | 1 January 2011 est. |
+| 149 | Kiribati | 0 | 1 January 2011 est. |
+| 150 | Korea, South | 0 | 1 January 2011 est. |
+| 151 | Laos | 0 | 1 January 2011 est. |
+| 152 | Lebanon | 0 | 1 January 2011 est. |
+| 153 | Latvia | 0 | 1 January 2011 est. |
+| 154 | Liberia | 0 | 1 January 2011 est. |
+| 155 | Lesotho | 0 | 1 January 2011 est. |
+| 156 | Luxembourg | 0 | 1 January 2011 est. |
+| 157 | Madagascar | 0 | 1 January 2011 est. |
+| 158 | Macau | 0 | 1 January 2011 est. |
+| 159 | Moldova | 0 | 1 January 2011 est. |
+| 160 | Mongolia | 0 | 1 January 2010 est. |
+| 161 | Montserrat | 0 | 1 January 2011 est. |
+| 162 | Malawi | 0 | 1 January 2011 est. |
+| 163 | Montenegro | 0 | 1 January 2011 est. |
+| 164 | Macedonia | 0 | 1 January 2011 est. |
+| 165 | Mali | 0 | 1 January 2011 est. |
+| 166 | Mauritius | 0 | 1 January 2011 est. |
+| 167 | Malta | 0 | 1 January 2011 est. |
+| 168 | Maldives | 0 | 1 January 2011 est. |
+| 169 | Mozambique | 0 | 1 January 2011 est. |
+| 170 | New Caledonia | 0 | 1 January 2011 est. |
+| 171 | Niue | 0 | 1 January 2011 est. |
+| 172 | Niger | 0 | 1 January 2011 est. |
+| 173 | Vanuatu | 0 | 1 January 2011 est. |
+| 174 | Nepal | 0 | 1 January 2011 est. |
+| 175 | Nauru | 0 | 1 January 2011 est. |
+| 176 | Nicaragua | 0 | 1 January 2011 est. |
+| 177 | Paraguay | 0 | 1 January 2011 est. |
+| 178 | Panama | 0 | 1 January 2010 est. |
+| 179 | Portugal | 0 | 1 January 2011 est. |
+| 180 | Guinea-Bissau | 0 | 1 January 2011 est. |
+| 181 | Puerto Rico | 0 | 1 January 2011 est. |
+| 182 | Rwanda | 0 | 1 January 2011 est. |
+| 183 | Saint Pierre and Miquelon | 0 | 1 January 2011 est. |
+| 184 | Saint Kitts and Nevis | 0 | 1 January 2011 est. |
+| 185 | Seychelles | 0 | 1 January 2010 est. |
+| 186 | Senegal | 0 | 1 January 2011 est. |
+| 187 | Saint Helena, Ascension, and Tristan da Cunha | 0 | 1 January 2011 est. |
+| 188 | Slovenia | 0 | 1 January 2011 est. |
+| 189 | Sierra Leone | 0 | 1 January 2011 est. |
+| 190 | Singapore | 0 | 1 January 2011 est. |
+| 191 | Somalia | 0 | 1 January 2011 est. |
+| 192 | Saint Lucia | 0 | 1 January 2011 est. |
+| 193 | Sweden | 0 | 1 January 2011 est. |
+| 194 | Switzerland | 0 | 1 January 2011 est. |
+| 195 | Turks and Caicos Islands | 0 | 1 January 2011 est. |
+| 196 | Tokelau | 0 | 1 January 2011 est. |
+| 197 | Tonga | 0 | 1 January 2010 est. |
+| 198 | Togo | 0 | 1 January 2010 est. |
+| 199 | Sao Tome and Principe | 0 | 1 January 2010 est. |
+| 200 | Tanzania | 0 | 1 January 2011 est. |
+| 201 | Burkina Faso | 0 | 1 January 2011 est. |
+| 202 | Uruguay | 0 | 1 January 2009 est. |
+| 203 | Saint Vincent and the Grenadines | 0 | 1 January 2011 est. |
+| 204 | British Virgin Islands | 0 | 1 January 2011 est. |
+| 205 | Virgin Islands | 0 | 1 January 2011 est. |
+| 206 | Namibia | 0 | 1 January 2011 est. |
+| 207 | West Bank | 0 | 1 January 2009 est. |
+| 208 | Western Sahara | 0 | 1 January 2011 est. |
+| 209 | Samoa | 0 | 1 January 2011 est. |
+| 210 | Swaziland | 0 | 1 January 2010 est. |
+| 211 | Zambia | 0 | 1 January 2011 est. |
+| 212 | Zimbabwe | 0 | 1 January 2011 est. |

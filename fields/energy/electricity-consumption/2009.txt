@@ -1,0 +1,220 @@
+CIA - The World Factbook --  Electricity - consumption   
+
+This entry consists of total electricity generated annually plus imports and minus exports, expressed in kilowatt-hours. The discrepancy between the amount of electricity generated and/or imported and the amount consumed and/or exported is accounted for as loss in transmission and distribution.
+
+| Rank | country | (kWh) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | United States | 3,873,000,000,000 | 2008 est. |
+| 2 | European Union | 2,884,000,000,000 | 2007 est. |
+| 3 | China | 2,835,000,000,000 | 2007 est. |
+| 4 | Japan | 1,007,000,000,000 | 2007 est. |
+| 5 | Russia | 840,400,000,000 | 2007 est. |
+| 6 | India | 568,000,000,000 | 2007 est. |
+| 7 | Germany | 547,300,000,000 | 2007 est. |
+| 8 | Canada | 536,100,000,000 | 2007 est. |
+| 9 | France | 447,200,000,000 | 2007 est. |
+| 10 | Brazil | 404,300,000,000 | 2007 est. |
+| 11 | Korea, South | 385,100,000,000 | 2008 est. |
+| 12 | United Kingdom | 345,800,000,000 | 2007 est. |
+| 13 | Italy | 315,000,000,000 | 2007 est. |
+| 14 | Spain | 276,100,000,000 | 2008 est. |
+| 15 | Taiwan | 233,000,000,000 | 2008 est. |
+| 16 | Australia | 222,000,000,000 | 2007 est. |
+| 17 | South Africa | 215,100,000,000 | 2007 est. |
+| 18 | Mexico | 200,900,000,000 | 2007 est. |
+| 19 | Saudi Arabia | 165,100,000,000 | 2007 est. |
+| 20 | Iran | 153,800,000,000 | 2007 est. |
+| 21 | Turkey | 153,700,000,000 | 2007 est. |
+| 22 | Ukraine | 153,100,000,000 | 2007 est. |
+| 23 | Sweden | 134,500,000,000 | 2007 est. |
+| 24 | Thailand | 129,500,000,000 | 2007 est. |
+| 25 | Poland | 129,300,000,000 | 2007 est. |
+| 26 | Norway | 128,800,000,000 | 2008 est. |
+| 27 | Indonesia | 119,300,000,000 | 2007 est. |
+| 28 | Netherlands | 110,200,000,000 | 2007 est. |
+| 29 | Egypt | 104,100,000,000 | 2007 est. |
+| 30 | Malaysia | 99,250,000,000 | 2007 est. |
+| 31 | Argentina | 99,210,000,000 | 2007 est. |
+| 32 | Finland | 86,900,000,000 | 2008 |
+| 33 | Belgium | 84,880,000,000 | 2007 est. |
+| 34 | Venezuela | 83,020,000,000 | 2007 est. |
+| 35 | Pakistan | 72,200,000,000 | 2007 est. |
+| 36 | United Arab Emirates | 65,980,000,000 | 2007 est. |
+| 37 | Kazakhstan | 64,690,000,000 | 2007 est. |
+| 38 | Austria | 61,890,000,000 | 2007 est. |
+| 39 | Czech Republic | 61,650,000,000 | 2007 est. |
+| 40 | Vietnam | 59,300,000,000 | 2007 est. |
+| 41 | Greece | 58,280,000,000 | 2007 est. |
+| 42 | Switzerland | 57,620,000,000 | 2007 est. |
+| 43 | Chile | 57,290,000,000 | 2007 est. |
+| 44 | Romania | 49,440,000,000 | 2007 est. |
+| 45 | Philippines | 48,960,000,000 | 2007 est. |
+| 46 | Portugal | 48,780,000,000 | 2007 est. |
+| 47 | Israel | 46,150,000,000 | 2007 est. |
+| 48 | Hong Kong | 44,600,000,000 | 2008 est. |
+| 49 | Uzbekistan | 41,940,000,000 | 2007 est. |
+| 50 | Kuwait | 40,210,000,000 | 2007 est. |
+| 51 | Iraq | 39,880,000,000 | 2008 est. |
+| 52 | New Zealand | 39,240,000,000 | 2007 est. |
+| 53 | Colombia | 38,590,000,000 | 2007 est. |
+| 54 | Hungary | 37,770,000,000 | 2007 est. |
+| 55 | Singapore | 36,600,000,000 | 2007 est. |
+| 56 | Denmark | 35,790,000,000 | 2007 est. |
+| 57 | Bulgaria | 31,080,000,000 | 2007 est. |
+| 58 | Belarus | 30,540,000,000 | 2007 est. |
+| 59 | Peru | 28,970,000,000 | 2008 est. |
+| 60 | Algeria | 28,340,000,000 | 2007 est. |
+| 61 | Syria | 27,350,000,000 | 2007 est. |
+| 62 | Slovakia | 26,810,000,000 | 2007 est. |
+| 63 | Ireland | 25,120,000,000 | 2007 est. |
+| 64 | Libya | 22,170,000,000 | 2007 est. |
+| 65 | Puerto Rico | 22,060,000,000 | 2007 est. |
+| 66 | Bangladesh | 21,380,000,000 | 2007 est. |
+| 67 | Morocco | 20,780,000,000 | 2007 est. |
+| 68 | Nigeria | 19,210,000,000 | 2007 est. |
+| 69 | Tajikistan | 17,800,000,000 | 2008 |
+| 70 | Korea, North | 17,490,000,000 | 2007 est. |
+| 71 | Azerbaijan | 15,680,000,000 | 2007 est. |
+| 72 | Croatia | 15,420,000,000 | 2007 est. |
+| 73 | Cuba | 13,930,000,000 | 2007 est. |
+| 74 | Qatar | 13,730,000,000 | 2007 est. |
+| 75 | Slovenia | 13,500,000,000 | 2007 est. |
+| 76 | Dominican Republic | 12,700,000,000 | 2007 est. |
+| 77 | Tunisia | 11,900,000,000 | 2007 est. |
+| 78 | Oman | 11,360,000,000 | 2007 est. |
+| 79 | Iceland | 11,220,000,000 | 2007 est. |
+| 80 | Zimbabwe | 10,890,000,000 | 2007 est. |
+| 81 | Turkmenistan | 10,450,000,000 | 2007 est. |
+| 82 | Jordan | 10,400,000,000 | 2007 est. |
+| 83 | Mozambique | 10,160,000,000 | 2007 est. |
+| 84 | Bahrain | 10,100,000,000 | 2007 est. |
+| 85 | Ecuador | 9,888,000,000 | 2007 est. |
+| 86 | Lithuania | 9,612,000,000 | 2007 est. |
+| 87 | Kyrgyzstan | 9,000,000,000 | 2007 est. |
+| 88 | Zambia | 8,838,000,000 | 2007 est. |
+| 89 | Bosnia and Herzegovina | 8,488,000,000 | 2007 est. |
+| 90 | Lebanon | 8,420,000,000 | 2007 est. |
+| 91 | Costa Rica | 8,064,000,000 | 2007 est. |
+| 92 | Sri Lanka | 7,946,000,000 | 2007 est. |
+| 93 | Estonia | 7,686,000,000 | 2007 est. |
+| 94 | Macedonia | 7,358,000,000 | 2007 est. |
+| 95 | Uruguay | 7,140,000,000 | 2007 est. |
+| 96 | Guatemala | 7,115,000,000 | 2007 est. |
+| 97 | Trinidad and Tobago | 7,034,000,000 | 2007 est. |
+| 98 | Georgia | 6,902,000,000 | 2007 est. |
+| 99 | Latvia | 6,822,000,000 | 2007 est. |
+| 100 | Luxembourg | 6,525,000,000 | 2007 est. |
+| 101 | Jamaica | 6,345,000,000 | 2007 est. |
+| 102 | Congo, Democratic Republic of the | 5,997,000,000 | 2007 est. |
+| 103 | Ghana | 5,702,000,000 | 2007 est. |
+| 104 | Paraguay | 5,337,000,000 | 2007 est. |
+| 105 | Panama | 5,170,000,000 | 2007 est. |
+| 106 | Kenya | 4,863,000,000 | 2008 est. |
+| 107 | Cameroon | 4,801,000,000 | 2007 est. |
+| 108 | Armenia | 4,776,000,000 | 2007 est. |
+| 109 | Honduras | 4,696,000,000 | 2007 est. |
+| 110 | El Salvador | 4,676,000,000 | 2007 est. |
+| 111 | Bolivia | 4,665,000,000 | 2007 est. |
+| 112 | Burma | 4,403,000,000 | 2007 est. |
+| 113 | Moldova | 4,370,000,000 | 2007 est. |
+| 114 | Kosovo | 4,281,000,000 | 2006 |
+| 115 | Cyprus | 4,277,000,000 | 2007 est. |
+| 116 | Yemen | 4,133,000,000 | 2007 est. |
+| 117 | Albania | 3,603,000,000 | 2007 est. |
+| 118 | Mongolia | 3,491,000,000 | 2008 |
+| 119 | Sudan | 3,438,000,000 | 2007 est. |
+| 120 | Macau | 3,311,000,000 | 2008 est. |
+| 121 | West Bank | 3,265,000,000 | NA |
+| 122 | Cote d'Ivoire | 3,231,000,000 | 2007 est. |
+| 123 | Tanzania | 3,182,000,000 | 2007 est. |
+| 124 | Namibia | 3,175,000,000 | 2007 est. |
+| 125 | Angola | 3,173,000,000 | 2007 est. |
+| 126 | Ethiopia | 3,130,000,000 | 2007 est. |
+| 127 | Laos | 3,068,000,000 | 2007 est. |
+| 128 | Brunei | 2,926,000,000 | 2007 est. |
+| 129 | Papua New Guinea | 2,683,000,000 | 2007 est. |
+| 130 | Botswana | 2,648,000,000 | 2007 est. |
+| 131 | Nicaragua | 2,569,000,000 | 2007 est. |
+| 132 | Nepal | 2,243,000,000 | 2007 est. |
+| 133 | Mauritius | 2,158,000,000 | 2007 est. |
+| 134 | Uganda | 2,068,000,000 | 2007 est. |
+| 135 | Bahamas, The | 1,902,000,000 | 2007 est. |
+| 136 | Malta | 1,832,000,000 | 2007 est. |
+| 137 | New Caledonia | 1,697,000,000 | 2007 est. |
+| 138 | Malawi | 1,572,000,000 | 2007 est. |
+| 139 | Suriname | 1,467,000,000 | 2007 est. |
+| 140 | Gabon | 1,446,000,000 | 2007 est. |
+| 141 | Senegal | 1,384,000,000 | 2007 est. |
+| 142 | Cambodia | 1,272,000,000 | 2007 est. |
+| 143 | Swaziland | 1,266,000,000 | 2007 est. |
+| 144 | Netherlands Antilles | 1,013,000,000 | 2007 est. |
+| 145 | Afghanistan | 1,010,000,000 | 2007 est. |
+| 146 | Madagascar | 971,400,000 | 2007 est. |
+| 147 | Barbados | 939,900,000 | 2007 est. |
+| 148 | Fiji | 863,000,000 | 2007 est. |
+| 149 | Aruba | 790,500,000 | 2007 est. |
+| 150 | Guinea | 790,500,000 | 2007 est. |
+| 151 | Virgin Islands | 722,000,000 | 2007 est. |
+| 152 | Guyana | 667,000,000 | 2007 est. |
+| 153 | Togo | 640,000,000 | 2007 est. |
+| 154 | Jersey | 630,100,000 | 2004 est. |
+| 155 | Bermuda | 628,300,000 | 2007 est. |
+| 156 | French Polynesia | 604,500,000 | 2007 est. |
+| 157 | Benin | 597,000,000 | 2007 est. |
+| 158 | Niger | 589,500,000 | 2007 est. |
+| 159 | Burkina Faso | 568,800,000 | 2007 est. |
+| 160 | Bhutan | 528,800,000 | 2007 est. |
+| 161 | Lesotho | 516,900,000 | 2007 est. |
+| 162 | Cayman Islands | 507,800,000 | 2007 est. |
+| 163 | Mali | 479,000,000 | 2007 est. |
+| 164 | Congo, Republic of the | 471,000,000 | 2007 est. |
+| 165 | Mauritania | 386,200,000 | 2007 est. |
+| 166 | Liberia | 325,500,000 | 2007 est. |
+| 167 | Greenland | 302,300,000 | 2007 est. |
+| 168 | Saint Lucia | 302,200,000 | 2007 est. |
+| 169 | Haiti | 273,000,000 | 2007 est. |
+| 170 | Djibouti | 260,400,000 | 2007 est. |
+| 171 | Somalia | 260,400,000 | 2007 est. |
+| 172 | Cape Verde | 232,500,000 | 2007 est. |
+| 173 | Seychelles | 232,500,000 | 2007 est. |
+| 174 | Rwanda | 231,600,000 | 2007 est. |
+| 175 | Eritrea | 228,000,000 | 2007 est. |
+| 176 | Faroe Islands | 226,600,000 | 2007 est. |
+| 177 | Belize | 198,500,000 | 2007 est. |
+| 178 | Maldives | 190,700,000 | 2007 est. |
+| 179 | Micronesia, Federated States of | 178,600,000 | 2002 |
+| 180 | American Samoa | 172,100,000 | 2007 est. |
+| 181 | Grenada | 155,700,000 | 2007 est. |
+| 182 | Gambia, The | 148,800,000 | 2007 est. |
+| 183 | Gibraltar | 146,000,000 | 2007 est. |
+| 184 | Mayotte | 139,200,000 | 2005 |
+| 185 | Burundi | 125,600,000 | 2007 est. |
+| 186 | Saint Vincent and the Grenadines | 124,400,000 | 2007 est. |
+| 187 | Saint Kitts and Nevis | 120,900,000 | 2007 est. |
+| 188 | Central African Republic | 107,000,000 | 2007 est. |
+| 189 | Antigua and Barbuda | 102,300,000 | 2007 est. |
+| 190 | Samoa | 101,400,000 | 2007 est. |
+| 191 | Chad | 93,000,000 | 2007 est. |
+| 192 | Western Sahara | 83,700,000 | 2007 est. |
+| 193 | Dominica | 79,050,000 | 2007 est. |
+| 194 | Sierra Leone | 74,400,000 | 2007 est. |
+| 195 | Solomon Islands | 66,030,000 | 2007 est. |
+| 196 | Guinea-Bissau | 60,450,000 | 2007 est. |
+| 197 | Saint Pierre and Miquelon | 49,290,000 | 2007 est. |
+| 198 | British Virgin Islands | 41,850,000 | 2007 est. |
+| 199 | Tonga | 39,990,000 | 2007 est. |
+| 200 | Vanuatu | 39,060,000 | 2007 est. |
+| 201 | Cook Islands | 28,830,000 | 2007 est. |
+| 202 | Nauru | 28,830,000 | 2007 est. |
+| 203 | Equatorial Guinea | 26,040,000 | 2007 est. |
+| 204 | Comoros | 20,460,000 | 2007 est. |
+| 205 | Montserrat | 20,460,000 | 2007 est. |
+| 206 | Montenegro | 18,600,000 | 2005 |
+| 207 | Sao Tome and Principe | 17,670,000 | 2007 est. |
+| 208 | Falkland Islands (Islas Malvinas) | 14,880,000 | 2007 est. |
+| 209 | Kiribati | 13,020,000 | 2007 est. |
+| 210 | Turks and Caicos Islands | 11,160,000 | 2007 est. |
+| 211 | Saint Helena | 7,440,000 | 2007 est. |
+| 212 | Niue | 2,790,000 | 2007 est. |
+| 213 | Gaza Strip | 230,000 | 2005 |
+| 214 | Northern Mariana Islands | 48,300 | January 2009 |

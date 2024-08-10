@@ -1,0 +1,28 @@
+Telephone Code: 213
+Local Emergency Phone - Ambulance: 21606666
+Local Emergency Phone - Fire: 14
+Local Emergency Phone - Police: 17
+Climate: Arid to semiarid; mild, wet winters with hot, dry summers on high plateau; sirocco is a hot, dust/sand-laden wind especially common in summer
+Currency (Code): Dinars (DZD)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, F
+Major Languages: Arabic (official), French (lingua franca), Berber or Tamazight (official); Berber dialects include Kabyle, Shawiya, Mzab, and Tuareg
+Major Religions: Muslim (official; predominantly Sunni) 99%
+Time Difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Algiers, particularly the Casbah; Hoggar Mts. and Atakor Volcanic Field; Oran City; Constantine
+Major Sports: Soccer, boxing, judo
+Cultural Practices: It is best for men to allow the woman to extend her hand or offer her cheek first. If the hand is not extended, a man may make a slight bow or nod as a polite acknowledgement.
+Tipping Guidelines: Waiters and bartenders should be tipped 10% of the total bill. Taxi fares are usually pre-negotiated, but a tip of 5-10 dinars is appreciated. Hotel maids should be tipped 90-100 dinars a night.
+Souvenirs: Kandura tunics, leather items, rugs, copper and brassware, coral jewelry
+
+---
+country: Algeria
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Algeria/travel-facts>
+license: public domain (U.S.)
+...

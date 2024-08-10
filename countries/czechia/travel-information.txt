@@ -1,0 +1,27 @@
+Telephone Code: 420
+Local Emergency Phone: Emergency (urgent help from Police, Fire, or Emergency Medical Assistance): 112, 155; Fire: 150; Police: 158
+Climate: temperate; cool summers; cold, cloudy, humid winters
+Currency (Code): Koruny (CZK)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, E
+Major Languages: Czech, Slovak
+Major Religions: Roman Catholic 10.4%, Protestant 1.1%
+Time Difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time); daylight saving time: +1hr, begins last Sunday in March, ends last Sunday in October
+Potable Water: Yes
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Prague (includes Castle District, Charles Bridge, and Pruhonice Park); Klementinum and Strahov Monastery Libraries; Karlovy Vary; Kutná Hora; Bohemian Paradise; Konopišt? Chateau; Hluboká Castle; Karlštejn Castle; Melnik
+Major Sports: ice hockey, soccer, basketball, volleyball
+Cultural Practices: When invited into a room, wait to be seated.
+Tipping Guidelines: It is acceptable to tip 10-15% at a restaurant if no service charge is included but more commonly, you round up the bill. Tip bellhops $1 (USD) per bag for carrying luggage to your room; leaving a small tip for housekeeping is appreciated. Tipping is not required for taxi drivers.
+Souvenirs: Crystal and glassware, garnet jewelry, local artwork; marionettes, puppets, and wooden toys; natural soaps, candles, and lotions; hand painted Easter eggs
+Traditional Cuisine: Vepřo-knedlo-zelo --- roast pork with dumplings and sauerkraut
+
+---
+country: Malá Strana, Czech Republic; https://cz.usembassy.gov/; ACSPrg@state.gov |
+date: June 22, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Malá Strana, Czech Republic; https://cz.usembassy.gov/; ACSPrg@state.gov |/travel-facts>
+license: public domain (U.S.)
+...

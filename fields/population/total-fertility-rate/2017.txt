@@ -1,0 +1,232 @@
+CIA - The World Factbook --  TOTAL FERTILITY RATE
+
+Total fertility rate (TFR) compares figures for the average number of children that would be born per woman if all women lived to the end of their childbearing years and bore children according to a given fertility rate at each age. TFR is a more direct measure of the level of fertility than the crude birth rate, since it refers to births per woman.
+
+| Rank | Country | (CHILDREN BORN/WOMAN) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Niger | 6.49 | 2017 est. |
+| 2 | Angola | 6.16 | 2017 est. |
+| 3 | Mali | 6.01 | 2017 est. |
+| 4 | Burundi | 5.99 | 2017 est. |
+| 5 | Somalia | 5.80 | 2017 est. |
+| 6 | Burkina Faso | 5.71 | 2017 est. |
+| 7 | Uganda | 5.71 | 2017 est. |
+| 8 | Zambia | 5.63 | 2017 est. |
+| 9 | Malawi | 5.49 | 2017 est. |
+| 10 | Afghanistan | 5.12 | 2017 est. |
+| 11 | Mozambique | 5.08 | 2017 est. |
+| 12 | South Sudan | 5.07 | 2017 est. |
+| 13 | Nigeria | 5.07 | 2017 est. |
+| 14 | Liberia | 5.06 | 2017 est. |
+| 15 | Ethiopia | 4.99 | 2017 est. |
+| 16 | Timor-Leste | 4.79 | 2017 est. |
+| 17 | Benin | 4.77 | 2017 est. |
+| 18 | Tanzania | 4.77 | 2017 est. |
+| 19 | Guinea | 4.77 | 2017 est. |
+| 20 | Sierra Leone | 4.73 | 2017 est. |
+| 21 | Cameroon | 4.64 | 2017 est. |
+| 22 | Congo, Republic of the | 4.59 | 2017 est. |
+| 23 | Gabon | 4.39 | 2017 est. |
+| 24 | Congo, Democratic Republic of the | 4.39 | 2017 est. |
+| 25 | Equatorial Guinea | 4.39 | 2017 est. |
+| 26 | Togo | 4.38 | 2017 est. |
+| 27 | Chad | 4.34 | 2017 est. |
+| 28 | Central African Republic | 4.30 | 2017 est. |
+| 29 | Senegal | 4.28 | 2017 est. |
+| 30 | Sao Tome and Principe | 4.25 | 2017 est. |
+| 31 | Gaza Strip | 4.13 | 2017 est. |
+| 32 | Guinea-Bissau | 4.09 | 2017 est. |
+| 33 | Madagascar | 4.03 | 2017 est. |
+| 34 | Ghana | 4.00 | 2017 est. |
+| 35 | Iraq | 4.00 | 2017 est. |
+| 36 | Eritrea | 3.99 | 2017 est. |
+| 37 | Zimbabwe | 3.98 | 2017 est. |
+| 38 | Rwanda | 3.87 | 2017 est. |
+| 39 | Mauritania | 3.86 | 2017 est. |
+| 40 | Western Sahara | 3.86 | 2017 est. |
+| 41 | Yemen | 3.63 | 2017 est. |
+| 42 | Sudan | 3.57 | 2017 est. |
+| 43 | Gambia, The | 3.52 | 2017 est. |
+| 44 | Egypt | 3.47 | 2017 est. |
+| 45 | Cote d'Ivoire | 3.38 | 2017 est. |
+| 46 | Comoros | 3.34 | 2017 est. |
+| 47 | Namibia | 3.29 | 2017 est. |
+| 48 | West Bank | 3.27 | 2017 est. |
+| 49 | Jordan | 3.19 | 2017 est. |
+| 50 | Solomon Islands | 3.16 | 2017 est. |
+| 51 | Tonga | 3.10 | 2017 est. |
+| 52 | Vanuatu | 3.07 | 2017 est. |
+| 53 | Papua New Guinea | 3.03 | 2017 est. |
+| 54 | Marshall Islands | 3.03 | 2017 est. |
+| 55 | Philippines | 3.02 | 2017 est. |
+| 56 | Kenya | 2.98 | 2017 est. |
+| 57 | Guam | 2.96 | 2017 est. |
+| 58 | Tuvalu | 2.95 | 2017 est. |
+| 59 | Belize | 2.85 | 2017 est. |
+| 60 | Oman | 2.82 | 2017 est. |
+| 61 | Northern Mariana Islands | 2.80 | 2017 est. |
+| 62 | Nauru | 2.80 | 2017 est. |
+| 63 | Guatemala | 2.77 | 2017 est. |
+| 64 | Haiti | 2.72 | 2017 est. |
+| 65 | Samoa | 2.70 | 2017 est. |
+| 66 | Algeria | 2.70 | 2017 est. |
+| 67 | Laos | 2.70 | 2017 est. |
+| 68 | Swaziland | 2.69 | 2017 est. |
+| 69 | American Samoa | 2.68 | 2017 est. |
+| 70 | Honduras | 2.67 | 2017 est. |
+| 71 | Israel | 2.64 | 2017 est. |
+| 72 | Tajikistan | 2.63 | 2017 est. |
+| 73 | Bolivia | 2.63 | 2017 est. |
+| 74 | Lesotho | 2.63 | 2017 est. |
+| 75 | Pakistan | 2.62 | 2017 est. |
+| 76 | Kyrgyzstan | 2.61 | 2017 est. |
+| 77 | Botswana | 2.56 | 2017 est. |
+| 78 | Cambodia | 2.52 | 2017 est. |
+| 79 | Syria | 2.50 | 2017 est. |
+| 80 | Malaysia | 2.50 | 2017 est. |
+| 81 | India | 2.43 | 2017 est. |
+| 82 | Micronesia, Federated States of | 2.41 | 2017 est. |
+| 83 | Fiji | 2.41 | 2017 est. |
+| 84 | Kuwait | 2.40 | 2017 est. |
+| 85 | Kiribati | 2.39 | 2017 est. |
+| 86 | Faroe Islands | 2.35 | 2017 est. |
+| 87 | United Arab Emirates | 2.32 | 2017 est. |
+| 88 | Venezuela | 2.32 | 2017 est. |
+| 89 | Djibouti | 2.31 | 2017 est. |
+| 90 | Panama | 2.30 | 2017 est. |
+| 91 | South Africa | 2.29 | 2017 est. |
+| 92 | Dominican Republic | 2.29 | 2017 est. |
+| 93 | Argentina | 2.26 | 2017 est. |
+| 94 | Kazakhstan | 2.25 | 2017 est. |
+| 95 | Mexico | 2.24 | 2017 est. |
+| 96 | Cabo Verde | 2.24 | 2017 est. |
+| 97 | Tunisia | 2.23 | 2017 est. |
+| 98 | Cook Islands | 2.19 | 2017 est. |
+| 99 | Ecuador | 2.19 | 2017 est. |
+| 100 | Bangladesh | 2.17 | 2017 est. |
+| 101 | Burma | 2.17 | 2017 est. |
+| 102 | Peru | 2.12 | 2017 est. |
+| 103 | Nepal | 2.12 | 2017 est. |
+| 104 | Morocco | 2.11 | 2017 est. |
+| 105 | Indonesia | 2.11 | 2017 est. |
+| 106 | Saudi Arabia | 2.09 | 2017 est. |
+| 107 | Mongolia | 2.09 | 2017 est. |
+| 108 | Virgin Islands | 2.08 | 2017 est. |
+| 109 | France | 2.07 | 2017 est. |
+| 110 | Turkmenistan | 2.07 | 2017 est. |
+| 111 | Sri Lanka | 2.07 | 2017 est. |
+| 112 | Sint Maarten | 2.05 | 2017 est. |
+| 113 | Curacao | 2.04 | 2017 est. |
+| 114 | Libya | 2.04 | 2017 est. |
+| 115 | Dominica | 2.03 | 2017 est. |
+| 116 | New Zealand | 2.02 | 2017 est. |
+| 117 | Grenada | 2.02 | 2017 est. |
+| 118 | Turkey | 2.01 | 2017 est. |
+| 119 | Antigua and Barbuda | 2.00 | 2017 est. |
+| 120 | Iceland | 2.00 | 2017 est. |
+| 121 | Guyana | 2.00 | 2017 est. |
+| 122 | Colombia | 2.00 | 2017 est. |
+| 123 | Greenland | 1.99 | 2017 est. |
+| 124 | Iran | 1.97 | 2017 est. |
+| 125 | Ireland | 1.97 | 2017 est. |
+| 126 | Jamaica | 1.96 | 2017 est. |
+| 127 | Korea, North | 1.95 | 2017 est. |
+| 128 | Bahamas, The | 1.94 | 2017 est. |
+| 129 | Bermuda | 1.93 | 2017 est. |
+| 130 | New Caledonia | 1.93 | 2017 est. |
+| 131 | Suriname | 1.93 | 2017 est. |
+| 132 | Isle of Man | 1.92 | 2017 est. |
+| 133 | Qatar | 1.90 | 2017 est. |
+| 134 | Paraguay | 1.90 | 2017 est. |
+| 135 | Bhutan | 1.90 | 2017 est. |
+| 136 | Gibraltar | 1.90 | 2017 est. |
+| 137 | Azerbaijan | 1.89 | 2017 est. |
+| 138 | Nicaragua | 1.89 | 2017 est. |
+| 139 | Costa Rica | 1.89 | 2017 est. |
+| 140 | French Polynesia | 1.88 | 2017 est. |
+| 141 | Sweden | 1.88 | 2017 est. |
+| 142 | United Kingdom | 1.88 | 2017 est. |
+| 143 | United States | 1.87 | 2017 est. |
+| 144 | El Salvador | 1.87 | 2017 est. |
+| 145 | Norway | 1.85 | 2017 est. |
+| 146 | Seychelles | 1.85 | 2017 est. |
+| 147 | Cayman Islands | 1.85 | 2017 est. |
+| 148 | Aruba | 1.83 | 2017 est. |
+| 149 | Vietnam | 1.81 | 2017 est. |
+| 150 | Uruguay | 1.80 | 2017 est. |
+| 151 | Saint Vincent and the Grenadines | 1.80 | 2017 est. |
+| 152 | Chile | 1.80 | 2017 est. |
+| 153 | Netherlands | 1.78 | 2017 est. |
+| 154 | Brunei | 1.78 | 2017 est. |
+| 155 | Belgium | 1.78 | 2017 est. |
+| 156 | Australia | 1.77 | 2017 est. |
+| 157 | Saint Kitts and Nevis | 1.77 | 2017 est. |
+| 158 | Georgia | 1.76 | 2017 est. |
+| 159 | Uzbekistan | 1.76 | 2017 est. |
+| 160 | Mauritius | 1.75 | 2017 est. |
+| 161 | Saint Lucia | 1.75 | 2017 est. |
+| 162 | Finland | 1.75 | 2017 est. |
+| 163 | Brazil | 1.75 | 2017 est. |
+| 164 | Bahrain | 1.75 | 2017 est. |
+| 165 | Anguilla | 1.74 | 2017 est. |
+| 166 | Wallis and Futuna | 1.73 | 2017 est. |
+| 167 | Denmark | 1.73 | 2017 est. |
+| 168 | Maldives | 1.73 | 2017 est. |
+| 169 | Lebanon | 1.72 | 2017 est. |
+| 170 | Palau | 1.71 | 2017 est. |
+| 171 | Cuba | 1.71 | 2017 est. |
+| 172 | Trinidad and Tobago | 1.71 | 2017 est. |
+| 173 | Turks and Caicos Islands | 1.70 | 2017 est. |
+| 174 | Liechtenstein | 1.69 | 2017 est. |
+| 175 | Barbados | 1.68 | 2017 est. |
+| 176 | Jersey | 1.66 | 2017 est. |
+| 177 | Armenia | 1.64 | 2017 est. |
+| 178 | Luxembourg | 1.62 | 2017 est. |
+| 179 | Russia | 1.61 | 2017 est. |
+| 180 | Macedonia | 1.60 | 2017 est. |
+| 181 | Estonia | 1.60 | 2017 est. |
+| 182 | China | 1.60 | 2017 est. |
+| 183 | Canada | 1.60 | 2017 est. |
+| 184 | Saint Helena, Ascension, and Tristan da Cunha | 1.59 | 2017 est. |
+| 185 | Lithuania | 1.59 | 2017 est. |
+| 186 | Saint Pierre and Miquelon | 1.57 | 2017 est. |
+| 187 | Moldova | 1.57 | 2017 est. |
+| 188 | Guernsey | 1.56 | 2017 est. |
+| 189 | Switzerland | 1.56 | 2017 est. |
+| 190 | Malta | 1.55 | 2017 est. |
+| 191 | Ukraine | 1.54 | 2017 est. |
+| 192 | Portugal | 1.53 | 2017 est. |
+| 193 | Monaco | 1.53 | 2017 est. |
+| 194 | Thailand | 1.52 | 2017 est. |
+| 195 | Albania | 1.51 | 2017 est. |
+| 196 | Latvia | 1.51 | 2017 est. |
+| 197 | Spain | 1.50 | 2017 est. |
+| 198 | San Marino | 1.50 | 2017 est. |
+| 199 | Belarus | 1.48 | 2017 est. |
+| 200 | Cyprus | 1.47 | 2017 est. |
+| 201 | Austria | 1.47 | 2017 est. |
+| 202 | Bulgaria | 1.46 | 2017 est. |
+| 203 | Czechia | 1.45 | 2017 est. |
+| 204 | Hungary | 1.45 | 2017 est. |
+| 205 | Germany | 1.45 | 2017 est. |
+| 206 | Italy | 1.44 | 2017 est. |
+| 207 | Serbia | 1.44 | 2017 est. |
+| 208 | Greece | 1.43 | 2017 est. |
+| 209 | Japan | 1.41 | 2017 est. |
+| 210 | Slovakia | 1.41 | 2017 est. |
+| 211 | Croatia | 1.40 | 2017 est. |
+| 212 | Andorra | 1.40 | 2017 est. |
+| 213 | Slovenia | 1.36 | 2017 est. |
+| 214 | Romania | 1.35 | 2017 est. |
+| 215 | Poland | 1.35 | 2017 est. |
+| 216 | Montserrat | 1.33 | 2017 est. |
+| 217 | Bosnia and Herzegovina | 1.30 | 2017 est. |
+| 218 | British Virgin Islands | 1.29 | 2017 est. |
+| 219 | Korea, South | 1.26 | 2017 est. |
+| 220 | Puerto Rico | 1.22 | 2017 est. |
+| 221 | Hong Kong | 1.19 | 2017 est. |
+| 222 | Taiwan | 1.13 | 2017 est. |
+| 223 | Macau | 0.95 | 2017 est. |
+| 224 | Singapore | 0.83 | 2017 est. |
+
+

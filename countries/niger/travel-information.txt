@@ -1,0 +1,27 @@
+Telephone Code: 227
+Local Emergency Phone: 199
+Climate: Varies; equatorial in south, tropical in center, arid in north
+Currency (Code): Communaute Financiere Africaine francs (Western African CFA francs, XOF)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): D, G
+Major Languages: French, Hausa, Djerma
+Major Religions: Muslim 99.3%, Christian 0.3%, animist 0.2%
+Time Difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Zinder; Niamey; Agadez; W Benin-Niger National Park; Ayorou
+Major Sports: Soccer, rugby
+Cultural Practices: Using the left hand for eating or greeting is considered unclean, use the right hand instead.
+Tipping Guidelines: Tipping 10% of the total restaurant bill is appropriate. Tour guides and/or drivers should receive 10% and 5% respectively of the total bill.
+Souvenirs: Gold and silver jewelry, leather goods, dyed fabric items, Tuareg native weapons, woven baskets, decorated gourds
+Traditional Cuisine: Dambou - rice flour, fine hard wheat semolina (couscous semolina), or millet, wheat or corn couscous; the cereals are steamed for about 20 to 30 minutes and added to boiling moringa leaves; other ingredients are added including onion, chili, salt, broth, peanut, vegetable oil, meat or fish as a side dish
+
+---
+country: Niger
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Niger/travel-facts>
+license: public domain (U.S.)
+...

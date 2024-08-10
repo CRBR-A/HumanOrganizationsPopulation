@@ -1,0 +1,27 @@
+Telephone Code: 49
+Local Emergency Phone: Ambulance and Fire: 112; Police: 110
+Climate: Temperate, and marine; cool, cloudy, wet winters and summers; occasionally warm mountain (foehn) wind
+Currency (Code): Euros (EUR)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, F
+Major Languages: German
+Major Religions: Roman Catholic 27.7%, Protestant 25.5%, Muslim 5.1%, Orthodox 1.9%
+Time Difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time); daylight saving time: +1hr, begins last Sunday in March, ends last Sunday in October
+Potable Water: Yes
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Brandenburg Gate; Cologne Cathedral; Black Forest; Neuschwanstein Castle; Miniatur Wunderland & Historic Port of Hamburg; Heidelberg; Dresden; Nuremberg; Munich; Saxon Switzerland State Park; Rhine Valley; Berlin's Museum Island; Rothenburg and the Romantic Road
+Major Sports: Soccer, handball, basketball, ice hockey, volleyball
+Cultural Practices: Punctuality is considered a virtue in Germany. It is polite to telephone and let your host know if you will be more than 15 minutes late.
+Tipping Guidelines: Round up the bill in a restaurant. If the service is particularly good, you may add a few euros and/or leave a 5-10% tip. Tip taxi drivers 5-10% of the total fare. Tip porters 1-2 euros per bag. Leave 1-2 euros for housekeeping per night.
+Souvenirs: Carved wooden cuckoo clocks, music boxes, nutcracker figurines, and Christmas ornaments; crystal, porcelain, and glassware; traditional clothing, beer steins and glasses, Steiff teddy bears, Hummel figurines, antiques
+Traditional Cuisine: Sauerbraten --- beef braised in a marinade typically consisting of red wine vinegar, cloves, nutmeg, peppercorns, cinnamon, ginger, and juniper berries and simmered in a pot for several hours; typically served with potato dumplings and red cabbage
+
+---
+country: Germany
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Germany/travel-facts>
+license: public domain (U.S.)
+...

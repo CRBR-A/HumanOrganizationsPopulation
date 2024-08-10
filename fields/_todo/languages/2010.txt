@@ -1,0 +1,393 @@
+CIA - The World Factbook --  Languages   
+
+This entry provides a rank ordering of languages starting with the largest and sometimes includes the percent of total population speaking that language.
+
+| Rank | country | (%) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | France | 100.00 | NA |
+| 2 | Greece | 99.00 | NA |
+| 3 | Marshall Islands | 98.20 | NA |
+| 4 | Poland | 97.80 | 2002 census |
+| 5 | Armenia | 97.70 | 2001 census |
+| 6 | Nicaragua | 97.50 | NA |
+| 7 | Croatia | 96.10 | 2001 census |
+| 8 | Cambodia | 95.00 | NA |
+| 9 | Cayman Islands | 95.00 | 1999 census |
+| 10 | Kazakhstan | 95.00 | 2001 est. |
+| 11 | Czech Republic | 94.90 | 2001 census |
+| 12 | Jersey | 94.50 | 2001 census |
+| 13 | Hungary | 93.60 | 2001 census |
+| 14 | Mexico | 92.70 | 2005 |
+| 15 | Seychelles | 91.80 | 2002 census |
+| 16 | Finland | 91.20 | 2007 |
+| 17 | New Zealand | 91.20 | 2006 Census |
+| 18 | Slovenia | 91.10 | 2002 census |
+| 19 | Romania | 91.00 | NA |
+| 20 | Hong Kong | 90.80 | 2006 census |
+| 21 | American Samoa | 90.60 | 2000 census |
+| 22 | Azerbaijan | 90.30 | 1999 census |
+| 23 | Malta | 90.20 | 2005 census |
+| 24 | Mongolia | 90.00 | 1999 |
+| 25 | Austria | 88.60 | 2001 census |
+| 26 | Serbia | 88.30 | NA |
+| 27 | Macau | 85.70 | 2001 census |
+| 28 | Bulgaria | 84.50 | 2001 census |
+| 29 | Peru | 84.10 | 2007 Census |
+| 30 | Slovakia | 83.90 | 2001 census |
+| 31 | United States | 82.10 | NA |
+| 32 | Lithuania | 82.00 | 2001 census |
+| 33 | Curacao | 81.20 | 2001 census |
+| 34 | Mauritius | 80.50 | 2000 census |
+| 35 | Mali | 80.00 | NA |
+| 36 | Australia | 78.50 | 2006 Census |
+| 37 | Botswana | 78.20 | 2001 census |
+| 38 | Virgin Islands | 74.70 | 2000 census |
+| 39 | Uzbekistan | 74.30 | NA |
+| 40 | Spain | 74.00 | NA |
+| 41 | Sri Lanka | 74.00 | NA |
+| 42 | Vanuatu | 72.60 | 1999 Census |
+| 43 | Turkmenistan | 72.00 | NA |
+| 44 | Georgia | 71.00 | NA |
+| 45 | Equatorial Guinea | 67.60 | 1994 census |
+| 46 | Sint Maarten | 67.50 | 2001 census |
+| 47 | Estonia | 67.30 | 2000 census |
+| 48 | Ukraine | 67.00 | NA |
+| 49 | Macedonia | 66.50 | 2002 census |
+| 50 | Aruba | 66.30 | 2000 census |
+| 51 | Kyrgyzstan | 64.70 | 1999 census |
+| 52 | Palau | 64.70 | 2000 census |
+| 53 | Kazakhstan | 64.40 | 2001 est. |
+| 54 | Switzerland | 63.70 | NA |
+| 55 | Montenegro | 63.60 | 2003 census |
+| 56 | Belarus | 62.80 | 1999 census |
+| 57 | French Polynesia | 61.10 | 2002 census |
+| 58 | Bolivia | 60.70 | 2001 census |
+| 59 | Belgium | 60.00 | NA |
+| 60 | Guatemala | 60.00 | NA |
+| 61 | Wallis and Futuna | 58.90 | 2003 census |
+| 62 | Canada | 58.80 | 2006 Census |
+| 63 | Latvia | 58.20 | 2000 census |
+| 64 | Iran | 58.00 | NA |
+| 65 | Malawi | 57.20 | 1998 census |
+| 66 | Afghanistan | 50.00 | NA |
+| 67 | Pakistan | 48.00 | NA |
+| 68 | Nepal | 47.80 | 2001 est. |
+| 69 | Belize | 46.00 | 2000 census |
+| 70 | India | 41.00 | 2001 census |
+| 71 | Belgium | 40.00 | NA |
+| 72 | Guatemala | 40.00 | NA |
+| 73 | Latvia | 37.50 | 2000 census |
+| 74 | Belarus | 36.70 | 1999 census |
+| 75 | Ghana | 36.10 | 2000 census |
+| 76 | Afghanistan | 35.00 | NA |
+| 77 | Singapore | 35.00 | 2000 census |
+| 78 | Belize | 32.90 | 2000 census |
+| 79 | Ethiopia | 32.70 | 1994 census |
+| 80 | Equatorial Guinea | 32.40 | 1994 census |
+| 81 | Mozambique | 32.00 | 1997 census |
+| 82 | Namibia | 32.00 | NA |
+| 83 | Ethiopia | 31.60 | 1994 census |
+| 84 | French Polynesia | 31.40 | 2002 census |
+| 85 | Wallis and Futuna | 30.10 | 2003 census |
+| 86 | Zambia | 30.10 | 2000 Census |
+| 87 | Estonia | 29.70 | 2000 census |
+| 88 | Mozambique | 26.10 | 1997 census |
+| 89 | Iran | 26.00 | NA |
+| 90 | Macedonia | 25.10 | 2002 census |
+| 91 | Northern Mariana Islands | 24.40 | 2000 census |
+| 92 | Ukraine | 24.00 | NA |
+| 93 | South Africa | 23.80 | 2001 census |
+| 94 | Northern Mariana Islands | 23.40 | 2000 census |
+| 95 | Vanuatu | 23.10 | 1999 Census |
+| 96 | Singapore | 23.00 | 2000 census |
+| 97 | Zambia | 22.50 | 2000 Census |
+| 98 | Northern Mariana Islands | 22.40 | 2000 census |
+| 99 | Montenegro | 22.00 | 2003 census |
+| 100 | Canada | 21.60 | 2006 Census |
+| 101 | Bolivia | 21.20 | 2001 census |
+| 102 | Switzerland | 20.40 | NA |
+| 103 | Liberia | 20.00 | NA |
+| 104 | Canada | 19.60 | 2006 Census |
+| 105 | Sri Lanka | 18.00 | NA |
+| 106 | South Africa | 17.60 | 2001 census |
+| 107 | Spain | 17.00 | NA |
+| 108 | Virgin Islands | 16.80 | 2000 census |
+| 109 | Ethiopia | 14.80 | 1994 census |
+| 110 | Ghana | 14.80 | 2000 census |
+| 111 | Bolivia | 14.60 | 2001 census |
+| 112 | Uzbekistan | 14.20 | NA |
+| 113 | Singapore | 14.10 | 2000 census |
+| 114 | Kyrgyzstan | 13.60 | 1999 census |
+| 115 | Palau | 13.50 | 2000 census |
+| 116 | South Africa | 13.30 | 2001 census |
+| 117 | Peru | 13.00 | 2007 Census |
+| 118 | New Zealand | 12.90 | 2006 Census |
+| 119 | Sint Maarten | 12.90 | 2001 census |
+| 120 | Malawi | 12.80 | 1998 census |
+| 121 | Ghana | 12.70 | 2000 census |
+| 122 | Aruba | 12.60 | 2000 census |
+| 123 | Kyrgyzstan | 12.50 | 1999 census |
+| 124 | Mauritius | 12.10 | 2000 census |
+| 125 | Nepal | 12.10 | 2001 est. |
+| 126 | Pakistan | 12.00 | NA |
+| 127 | Turkmenistan | 12.00 | NA |
+| 128 | Singapore | 11.40 | 2000 census |
+| 129 | Mozambique | 11.30 | 1997 census |
+| 130 | Afghanistan | 11.00 | NA |
+| 131 | Northern Mariana Islands | 10.80 | 2000 census |
+| 132 | Wallis and Futuna | 10.80 | 2003 census |
+| 133 | Slovakia | 10.70 | 2001 census |
+| 134 | Zambia | 10.70 | 2000 Census |
+| 135 | United States | 10.70 | NA |
+| 136 | Zambia | 10.60 | 2000 Census |
+| 137 | Malawi | 10.10 | 1998 census |
+| 138 | Nepal | 10.00 | 2001 est. |
+| 139 | Pakistan | 10.00 | NA |
+| 140 | Ghana | 9.90 | 2000 census |
+| 141 | Bulgaria | 9.60 | 2001 census |
+| 142 | Northern Mariana Islands | 9.60 | 2000 census |
+| 143 | Malawi | 9.50 | 1998 census |
+| 144 | Northern Mariana Islands | 9.50 | 2000 census |
+| 145 | Palau | 9.40 | 2000 census |
+| 146 | South Africa | 9.40 | 2001 census |
+| 147 | Georgia | 9.00 | NA |
+| 148 | Ukraine | 9.00 | NA |
+| 149 | Iran | 9.00 | NA |
+| 150 | Turkmenistan | 9.00 | NA |
+| 151 | Belize | 8.90 | 2000 census |
+| 152 | Mozambique | 8.80 | 1997 census |
+| 153 | Botswana | 8.60 | 2001 census |
+| 154 | Australia | 8.20 | 2006 Census |
+| 155 | South Africa | 8.20 | 2001 census |
+| 156 | South Africa | 8.20 | 2001 census |
+| 157 | Sint Maarten | 8.20 | 2001 census |
+| 158 | Kyrgyzstan | 8.20 | 1999 census |
+| 159 | India | 8.10 | 2001 census |
+| 160 | Curacao | 8.00 | 2001 census |
+| 161 | Lithuania | 8.00 | 2001 census |
+| 162 | Pakistan | 8.00 | NA |
+| 163 | Pakistan | 8.00 | NA |
+| 164 | Sri Lanka | 8.00 | NA |
+| 165 | Pakistan | 8.00 | NA |
+| 166 | Botswana | 7.90 | 2001 census |
+| 167 | South Africa | 7.90 | 2001 census |
+| 168 | Aruba | 7.70 | 2000 census |
+| 169 | Mozambique | 7.60 | 1997 census |
+| 170 | Nepal | 7.40 | 2001 est. |
+| 171 | India | 7.20 | 2001 census |
+| 172 | South Africa | 7.20 | 2001 census |
+| 173 | Uzbekistan | 7.10 | NA |
+| 174 | Georgia | 7.00 | NA |
+| 175 | India | 7.00 | 2001 census |
+| 176 | Spain | 7.00 | NA |
+| 177 | Turkmenistan | 7.00 | NA |
+| 178 | Namibia | 7.00 | NA |
+| 179 | Georgia | 7.00 | NA |
+| 180 | Mozambique | 6.80 | 1997 census |
+| 181 | Romania | 6.70 | NA |
+| 182 | Virgin Islands | 6.60 | 2000 census |
+| 183 | Switzerland | 6.50 | NA |
+| 184 | Hungary | 6.40 | 2001 census |
+| 185 | Ethiopia | 6.10 | 1994 census |
+| 186 | Ethiopia | 6.00 | 1994 census |
+| 187 | French Polynesia | 6.00 | 2002 census |
+| 188 | Malta | 6.00 | 2005 census |
+| 189 | Georgia | 6.00 | NA |
+| 190 | India | 5.90 | 2001 census |
+| 191 | India | 5.90 | 2001 census |
+| 192 | Aruba | 5.80 | 2000 census |
+| 193 | Nepal | 5.80 | 2001 est. |
+| 194 | Mozambique | 5.80 | 1997 census |
+| 195 | Australia | 5.70 | 2006 Census |
+| 196 | Zambia | 5.70 | 2000 Census |
+| 197 | Singapore | 5.70 | 2000 census |
+| 198 | Palau | 5.70 | 2000 census |
+| 199 | Mexico | 5.70 | 2005 |
+| 200 | Lithuania | 5.60 | 2001 census |
+| 201 | Finland | 5.50 | 2007 |
+| 202 | Montenegro | 5.50 | 2003 census |
+| 203 | Aruba | 5.30 | 2000 census |
+| 204 | Austria | 5.30 | 2001 census |
+| 205 | Montenegro | 5.30 | 2003 census |
+| 206 | Nepal | 5.10 | 2001 est. |
+| 207 | India | 5.00 | 2001 census |
+| 208 | Seychelles | 4.90 | 2002 census |
+| 209 | Singapore | 4.90 | 2000 census |
+| 210 | Zambia | 4.90 | 2000 Census |
+| 211 | Ghana | 4.60 | 2000 census |
+| 212 | Jersey | 4.60 | 2001 census |
+| 213 | India | 4.50 | 2001 census |
+| 214 | Slovenia | 4.50 | 2002 census |
+| 215 | Hong Kong | 4.40 | 2006 census |
+| 216 | South Africa | 4.40 | 2001 census |
+| 217 | Lithuania | 4.40 | 2001 census |
+| 218 | Slovenia | 4.40 | 2002 census |
+| 219 | Uzbekistan | 4.40 | NA |
+| 220 | Ghana | 4.30 | 2000 census |
+| 221 | Latvia | 4.30 | 2000 census |
+| 222 | Ghana | 4.30 | 2000 census |
+| 223 | Sint Maarten | 4.20 | 2001 census |
+| 224 | Bulgaria | 4.10 | 2001 census |
+| 225 | Serbia | 4.10 | NA |
+| 226 | Afghanistan | 4.00 | NA |
+| 227 | Macau | 4.00 | 2001 census |
+| 228 | Curacao | 4.00 | 2001 census |
+| 229 | Belize | 3.90 | 2000 census |
+| 230 | Curacao | 3.90 | 2001 census |
+| 231 | New Zealand | 3.90 | 2006 Census |
+| 232 | Serbia | 3.80 | NA |
+| 233 | United States | 3.80 | NA |
+| 234 | Ghana | 3.70 | 2000 census |
+| 235 | India | 3.70 | 2001 census |
+| 236 | Mauritius | 3.70 | 2000 census |
+| 237 | Montenegro | 3.70 | 2003 census |
+| 238 | Malawi | 3.60 | 1998 census |
+| 239 | Nepal | 3.60 | 2001 est. |
+| 240 | Ethiopia | 3.50 | 1994 census |
+| 241 | Sint Maarten | 3.50 | 2001 census |
+| 242 | Ethiopia | 3.50 | 1994 census |
+| 243 | Macedonia | 3.50 | 2002 census |
+| 244 | Belize | 3.40 | 2000 census |
+| 245 | Zambia | 3.40 | 2000 Census |
+| 246 | Mauritius | 3.40 | 2000 census |
+| 247 | Ghana | 3.40 | 2000 census |
+| 248 | Ghana | 3.40 | 2000 census |
+| 249 | Azerbaijan | 3.30 | 1999 census |
+| 250 | Finland | 3.30 | 2007 |
+| 251 | Nepal | 3.30 | 2001 est. |
+| 252 | Belize | 3.30 | 2000 census |
+| 253 | Cayman Islands | 3.20 | 1999 census |
+| 254 | India | 3.20 | 2001 census |
+| 255 | Macau | 3.20 | 2001 census |
+| 256 | India | 3.20 | 2001 census |
+| 257 | Singapore | 3.20 | 2000 census |
+| 258 | Seychelles | 3.10 | 2002 census |
+| 259 | Malta | 3.00 | 2005 census |
+| 260 | Pakistan | 3.00 | NA |
+| 261 | American Samoa | 2.90 | 2000 census |
+| 262 | Croatia | 2.90 | 2001 census |
+| 263 | Ghana | 2.90 | 2000 census |
+| 264 | Curacao | 2.90 | 2001 census |
+| 265 | Botswana | 2.80 | 2001 census |
+| 266 | Switzerland | 2.80 | NA |
+| 267 | India | 2.80 | 2001 census |
+| 268 | Hong Kong | 2.80 | 2006 census |
+| 269 | Macau | 2.70 | 2001 census |
+| 270 | Malawi | 2.70 | 1998 census |
+| 271 | United States | 2.70 | NA |
+| 272 | Slovakia | 2.60 | 2001 census |
+| 273 | Australia | 2.50 | 2006 Census |
+| 274 | Nepal | 2.50 | 2001 est. |
+| 275 | Zambia | 2.50 | 2000 Census |
+| 276 | American Samoa | 2.40 | 2000 census |
+| 277 | Nepal | 2.40 | 2001 est. |
+| 278 | Malawi | 2.40 | 1998 census |
+| 279 | Bolivia | 2.40 | 2001 census |
+| 280 | Austria | 2.30 | 2001 census |
+| 281 | Estonia | 2.30 | 2000 census |
+| 282 | Czech Republic | 2.30 | 2001 census |
+| 283 | Palau | 2.30 | 2000 census |
+| 284 | Aruba | 2.20 | 2000 census |
+| 285 | Zambia | 2.20 | 2000 Census |
+| 286 | Austria | 2.20 | 2001 census |
+| 287 | Poland | 2.20 | 2002 census |
+| 288 | Azerbaijan | 2.20 | 1999 census |
+| 289 | Sint Maarten | 2.20 | 2001 census |
+| 290 | American Samoa | 2.10 | 2000 census |
+| 291 | Botswana | 2.10 | 2001 census |
+| 292 | New Zealand | 2.10 | 2006 Census |
+| 293 | American Samoa | 2.00 | 2000 census |
+| 294 | Zambia | 2.00 | 2000 Census |
+| 295 | Zambia | 2.00 | 2000 Census |
+| 296 | Pakistan | 2.00 | NA |
+| 297 | Iran | 2.00 | NA |
+| 298 | Iran | 2.00 | NA |
+| 299 | Czech Republic | 2.00 | 2001 census |
+| 300 | Macedonia | 1.90 | 2002 census |
+| 301 | Vanuatu | 1.90 | 1999 Census |
+| 302 | Virgin Islands | 1.90 | 2000 census |
+| 303 | Azerbaijan | 1.80 | 1999 census |
+| 304 | Marshall Islands | 1.80 | NA |
+| 305 | Serbia | 1.80 | NA |
+| 306 | Slovakia | 1.80 | 2001 census |
+| 307 | Singapore | 1.80 | 2000 census |
+| 308 | Bulgaria | 1.80 | 2001 census |
+| 309 | Cayman Islands | 1.80 | 1999 census |
+| 310 | Macedonia | 1.80 | 2002 census |
+| 311 | Ethiopia | 1.70 | 1994 census |
+| 312 | Peru | 1.70 | 2007 Census |
+| 313 | Malawi | 1.70 | 1998 census |
+| 314 | Zambia | 1.70 | 2000 Census |
+| 315 | Zambia | 1.70 | 2000 Census |
+| 316 | Nicaragua | 1.70 | NA |
+| 317 | Australia | 1.60 | 2006 Census |
+| 318 | Macau | 1.60 | 2001 census |
+| 319 | Austria | 1.60 | 2001 census |
+| 320 | Azerbaijan | 1.50 | 1999 census |
+| 321 | Palau | 1.50 | 2000 census |
+| 322 | Palau | 1.50 | 2000 census |
+| 323 | Palau | 1.50 | 2000 census |
+| 324 | Macau | 1.50 | 2001 census |
+| 325 | Sint Maarten | 1.50 | 2001 census |
+| 326 | Switzerland | 1.50 | NA |
+| 327 | Belize | 1.40 | 2000 census |
+| 328 | Vanuatu | 1.40 | 1999 Census |
+| 329 | Australia | 1.30 | 2006 Census |
+| 330 | India | 1.30 | 2001 census |
+| 331 | Switzerland | 1.30 | NA |
+| 332 | Macau | 1.30 | 2001 census |
+| 333 | New Zealand | 1.30 | 2006 Census |
+| 334 | Mozambique | 1.30 | 1997 census |
+| 335 | Australia | 1.20 | 2006 Census |
+| 336 | Bolivia | 1.20 | 2001 census |
+| 337 | Switzerland | 1.20 | NA |
+| 338 | Romania | 1.20 | NA |
+| 339 | Macedonia | 1.20 | 2002 census |
+| 340 | India | 1.20 | 2001 census |
+| 341 | French Polynesia | 1.20 | 2002 census |
+| 342 | Hong Kong | 1.10 | 2006 census |
+| 343 | New Zealand | 1.10 | 2006 Census |
+| 344 | Switzerland | 1.10 | NA |
+| 345 | Serbia | 1.10 | NA |
+| 346 | Romania | 1.10 | NA |
+| 347 | New Zealand | 1.10 | 2006 Census |
+| 348 | Armenia | 1.00 | 2001 census |
+| 349 | Australia | 1.00 | 2006 Census |
+| 350 | Iran | 1.00 | NA |
+| 351 | Namibia | 1.00 | NA |
+| 352 | Switzerland | 1.00 | NA |
+| 353 | Slovakia | 1.00 | 2001 census |
+| 354 | Pakistan | 1.00 | NA |
+| 355 | New Zealand | 1.00 | 2006 Census |
+| 356 | Kyrgyzstan | 1.00 | 1999 census |
+| 357 | Iran | 1.00 | NA |
+| 358 | Iran | 1.00 | NA |
+| 359 | Greece | 1.00 | NA |
+| 360 | Croatia | 1.00 | 2001 census |
+| 361 | Azerbaijan | 1.00 | 1999 census |
+| 362 | Armenia | 0.90 | 2001 census |
+| 363 | Hong Kong | 0.90 | 2006 census |
+| 364 | Singapore | 0.90 | 2000 census |
+| 365 | Serbia | 0.90 | NA |
+| 366 | Jersey | 0.90 | 2001 census |
+| 367 | Czech Republic | 0.80 | 2001 census |
+| 368 | Mexico | 0.80 | 2005 |
+| 369 | Nicaragua | 0.80 | NA |
+| 370 | Malta | 0.80 | 2005 census |
+| 371 | Estonia | 0.70 | 2000 census |
+| 372 | Vanuatu | 0.70 | 1999 Census |
+| 373 | United States | 0.70 | NA |
+| 374 | Peru | 0.70 | 2007 Census |
+| 375 | Belarus | 0.50 | 1999 census |
+| 376 | Switzerland | 0.50 | NA |
+| 377 | Armenia | 0.40 | 2001 census |
+| 378 | Botswana | 0.40 | 2001 census |
+| 379 | French Polynesia | 0.30 | 2002 census |
+| 380 | Vanuatu | 0.30 | 1999 Census |
+| 381 | Mozambique | 0.30 | 1997 census |
+| 382 | Peru | 0.30 | 2007 Census |
+| 383 | Mauritius | 0.30 | 2000 census |
+| 384 | Belize | 0.20 | 2000 census |
+| 385 | Peru | 0.20 | 2007 Census |
+| 386 | Wallis and Futuna | 0.20 | 2003 census |
+| 387 | Seychelles | 0.20 | 2002 census |

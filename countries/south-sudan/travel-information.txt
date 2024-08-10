@@ -1,0 +1,29 @@
+Telephone Code: 211
+Local Emergency Phone - Ambulance: 997
+Local Emergency Phone - Fire: 998
+Local Emergency Phone - Police: 999
+Climate: Hot with seasonal rainfall influenced by the annual shift of the Inter-Tropical Convergence Zone; rainfall heaviest in upland areas of the south and diminishes to the north
+Currency (Code): South Sudanese pounds (SSP)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, D
+Major Languages: English, Arabic (includes Juba and Sudanese variants), regional languages include Dinka, Nuer, Bari, Zande, Shilluk
+Major Religions: Animist, Christian, Muslim
+Time Difference: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Boma National Park; Wau; Southern National Park; Kidepo Game Reserve; Bandingilo National Park
+Major Sports: Soccer, basketball, track and field
+Cultural Practices: It is considered rude to not remove one's shoes before entering a household.
+Tipping Guidelines: Tipping is not customary.
+Souvenirs: Ebony-wood-carved animal tribal items, grass woven baskets, leather items, gold jewelry, spices
+Traditional Cuisine: Ful Medames --- a vegetarian dish typically made with fava beans and served with toppings such as tomatoes, greens, feta, red onions, hard-boiled eggs, or shata (hot sauce)
+
+---
+country: South Sudan
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/South Sudan/travel-facts>
+license: public domain (U.S.)
+...

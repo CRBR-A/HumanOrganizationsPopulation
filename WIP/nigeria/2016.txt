@@ -1,0 +1,370 @@
+CIA - The World Factbook -- NIGERIA
+
+| Geography | NIGERIA |
+| --- | --- |
+| Location: | Western Africa, bordering the Gulf of Guinea, between Benin and Cameroon |
+| Geographic coordinates: | 10 00 N, 8 00 E |
+| Map references: | Africa |
+| Area: | total: 923,768 sq km |
+| | land: 910,768 sq km |
+| | water: 13,000 sq km |
+| Area - comparative: | about six times the size of Georgia; slightly more than twice the size of California |
+| Land boundaries: | total: 4,477 km |
+| | border countries (4): Benin 809 km, Cameroon 1,975 km, Chad 85 km, Niger 1,608 km |
+| Coastline: | 853 km |
+| Maritime claims: | territorial sea: 12 nm |
+| | exclusive economic zone: 200 nm |
+| | continental shelf: 200-m depth or to the depth of exploitation |
+| Climate: | varies; equatorial in south, tropical in center, arid in north |
+| Terrain: | southern lowlands merge into central hills and plateaus; mountains in southeast, plains in north |
+| Elevation: | mean elevation: 380 m |
+| | elevation extremes: lowest point: Atlantic Ocean 0 m |
+| | highest point: Chappal Waddi 2,419 m |
+| Natural resources: | natural gas, petroleum, tin, iron ore, coal, limestone, niobium, lead, zinc, arable land |
+| Land use: | agricultural land: 78% |
+| | arable land 37.3%; permanent crops 7.4%; permanent pasture 33.3% |
+| | forest: 9.5% |
+| | other: 12.5% (2011 est.) |
+| Irrigated land: | 2,930 sq km (2012) |
+| Natural hazards: | periodic droughts; flooding |
+| Environment - current issues: | soil degradation; rapid deforestation; urban air and water pollution; desertification; oil pollution - water, air, and soil; has suffered serious damage from oil spills; loss of arable land; rapid urbanization |
+| Environment - international agreements: | party to: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Wetlands |
+| | signed, but not ratified: none of the selected agreements |
+| Geography - note: | the Niger River enters the country in the northwest and flows southward through tropical rain forests and swamps to its delta in the Gulf of Guinea |
+
+| People and Society | NIGERIA |
+| --- | --- |
+| Population: | 186,053,386 |
+| | note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2016 est.) |
+| Nationality: | noun: Nigerian(s) |
+| | adjective: Nigerian |
+| Ethnic groups: | Nigeria, Africa's most populous country, is composed of more than 250 ethnic groups; the most populous and politically influential are: Hausa and the Fulani 29%, Yoruba 21%, Igbo (Ibo) 18%, Ijaw 10%, Kanuri 4%, Ibibio 3.5%, Tiv 2.5% |
+| Languages: | English (official), Hausa, Yoruba, Igbo (Ibo), Fulani, over 500 additional indigenous languages |
+| Religions: | Muslim 50%, Christian 40%, indigenous beliefs 10% |
+| Demographic profile: | Nigeria’s population is projected to grow from more than 186 million people in 2016 to 392 million in 2050, becoming the world’s fourth most populous country. Nigeria’s sustained high population growth rate will continue for the foreseeable future because of population momentum and its high birth rate. Abuja has not successfully implemented family planning programs to reduce and space births because of a lack of political will, government financing, and the availability and affordability of services and products, as well as a cultural preference for large families. Increased educational attainment, especially among women, and improvements in health care are needed to encourage and to better enable parents to opt for smaller families. |
+| | Nigeria needs to harness the potential of its burgeoning youth population in order to boost economic development, reduce widespread poverty, and channel large numbers of unemployed youth into productive activities and away from ongoing religious and ethnic violence. While most movement of Nigerians is internal, significant emigration regionally and to the West provides an outlet for Nigerians looking for economic opportunities, seeking asylum, and increasingly pursuing higher education. Immigration largely of West Africans continues to be insufficient to offset emigration and the loss of highly skilled workers. Nigeria also is a major source, transit, and destination country for forced labor and sex trafficking. |
+| Age structure: | 0-14 years: 42.79% (male 40,744,956/female 38,870,303) |
+| | 15-24 years: 19.48% (male 18,514,466/female 17,729,351) |
+| | 25-54 years: 30.65% (male 29,259,621/female 27,768,368) |
+| | 55-64 years: 3.96% (male 3,595,293/female 3,769,986) |
+| | 65 years and over: 3.12% (male 2,754,040/female 3,047,002) (2016 est.) |
+| Dependency ratios: | total dependency ratio: 87.7% |
+| | youth dependency ratio: 82.6% |
+| | elderly dependency ratio: 5.1% |
+| | potential support ratio: 19.5% (2015 est.) |
+| Median age: | total: 18.3 years |
+| | male: 18.2 years |
+| | female: 18.4 years (2016 est.) |
+| Population growth rate: | 2.44% (2016 est.) |
+| Birth rate: | 37.3 births/1,000 population (2016 est.) |
+| Death rate: | 12.7 deaths/1,000 population (2016 est.) |
+| Net migration rate: | -0.2 migrant(s)/1,000 population (2016 est.) |
+| Urbanization: | urban population: 47.8% of total population (2015) |
+| | rate of urbanization: 4.66% annual rate of change (2010-15 est.) |
+| Major urban areas - population: | Lagos 13.123 million; Kano 3.587 million; Ibadan 3.16 million; ABUJA (capital) 2.44 million; Port Harcourt 2.343 million; Benin City 1.496 million (2015) |
+| Sex ratio: | at birth: 1.06 male(s)/female |
+| | 0-14 years: 1.05 male(s)/female |
+| | 15-24 years: 1.04 male(s)/female |
+| | 25-54 years: 1.05 male(s)/female |
+| | 55-64 years: 0.95 male(s)/female |
+| | 65 years and over: 0.91 male(s)/female |
+| | total population: 1.04 male(s)/female (2016 est.) |
+| Mother's mean age at first birth: | 20.3 |
+| | note: median age at first birth among women 25-29 (2013 est.) |
+| Maternal mortality rate: | 814 deaths/100,000 live births (2015 est.) |
+| Infant mortality rate: | total: 71.2 deaths/1,000 live births |
+| | male: 76 deaths/1,000 live births |
+| | female: 66.2 deaths/1,000 live births (2016 est.) |
+| Life expectancy at birth: | total population: 53.4 years |
+| | male: 52.4 years |
+| | female: 54.5 years (2016 est.) |
+| Total fertility rate: | 5.13 children born/woman (2016 est.) |
+| Contraceptive prevalence rate: | 15.1% (2013) |
+| Health expenditures: | 3.7% of GDP (2014) |
+| Physicians density: | 0.41 physicians/1,000 population (2009) |
+| Drinking water source: | improved: |
+| | urban: 80.8% of population |
+| | rural: 57.3% of population |
+| | total: 68.5% of population |
+| unimproved: | urban: 19.2% of population |
+| | rural: 42.7% of population |
+| | total: 31.5% of population (2015 est.) |
+| Sanitation facility access: | improved: |
+| | urban: 32.8% of population |
+| | rural: 25.4% of population |
+| | total: 29% of population |
+| unimproved: | urban: 67.2% of population |
+| | rural: 74.6% of population |
+| | total: 71% of population (2015 est.) |
+| HIV/AIDS - adult prevalence rate: | 3.17% (2014 est.) |
+| HIV/AIDS - people living with HIV/AIDS: | 3,391,600 (2014 est.) |
+| HIV/AIDS - deaths: | 174,300 (2014 est.) |
+| Major infectious diseases: | degree of risk: very high |
+| | food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever |
+| | vectorborne diseases: malaria, dengue fever, and yellow fever |
+| | water contact diseases: leptospirosis and schistosomiasis |
+| | respiratory disease: meningococcal meningitis |
+| | aerosolized dust or soil contact disease: Lassa fever |
+| | animal contact disease: rabies (2016) |
+| Obesity - adult prevalence rate: | 9.7% (2014) |
+| Children under the age of 5 years underweight: | 19.8% (2014) |
+| Education expenditures: | NA |
+| Literacy: | definition: age 15 and over can read and write |
+| | total population: 59.6% |
+| | male: 69.2% |
+| | female: 49.7% (2015 est.) |
+| Child labor - children ages 5-14: | total number: 11,396,823 |
+| | percentage: 29% (2007 est.) |
+| Unemployment, youth ages 15-24: | total: 8.1% |
+| | male: NA |
+| | female: NA (2014 est.) |
+
+| Government | NIGERIA |
+| --- | --- |
+| Country name: | conventional long form: Federal Republic of Nigeria |
+| | conventional short form: Nigeria |
+| | etymology: named for the Niger River that flows through the west of the country to the Atlantic Ocean; from a native term "Ni Gir" meaning "River Gir" |
+| Government type: | federal presidential republic |
+| Capital: | name: Abuja |
+| | geographic coordinates: 9 05 N, 7 32 E |
+| | time difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time) |
+| Administrative divisions: | 36 states and 1 territory*; Abia, Adamawa, Akwa Ibom, Anambra, Bauchi, Bayelsa, Benue, Borno, Cross River, Delta, Ebonyi, Edo, Ekiti, Enugu, Federal Capital Territory*, Gombe, Imo, Jigawa, Kaduna, Kano, Katsina, Kebbi, Kogi, Kwara, Lagos, Nasarawa, Niger, Ogun, Ondo, Osun, Oyo, Plateau, Rivers, Sokoto, Taraba, Yobe, Zamfara |
+| Independence: | 1 October 1960 (from the UK) |
+| National holiday: | Independence Day (National Day), 1 October (1960) |
+| Constitution: | several previous; latest adopted 5 May 1999, effective 29 May 1999; amended several times, last in 2012 (2016) |
+| Legal system: | mixed legal system of English common law, Islamic law (in 12 northern states), and traditional law |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| | citizenship by descent only: at least one parent must be a citizen of Nigeria |
+| | dual citizenship recognized: yes |
+| | residency requirement for naturalization: 15 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Maj. Gen. (ret.) Muhammadu BUHARI (since 29 May 2015); Vice President Oluyemi "Yemi" OSINBAJO (since 29 May 2015); note - the president is both chief of state and head of government |
+| | head of government: President Maj.Gen. (ret.) Muhammadu BUHARI (since 29 May 2015); Vice President Oluyemi "Yemi" OSINBAJO (since 29 May 2015) |
+| | cabinet: Federal Executive Council appointed by the president |
+| | elections/appointments: president directly elected by 'qualified' majority popular vote and at least 25% of the votes cast in 24 of Nigeria's 36 states; president elected for a 4-year term (eligible for a second term); election last held on 28-29 March 2015 (next to be held in February 2019) |
+| | election results: Muhammadu BUHARI elected president; percent of vote - Muhammadu BUHARI (CPC) 53%, Goodluck JONATHAN (PDP) 46%, other 1% |
+| Legislative branch: | description: bicameral National Assembly consists of the Senate (109 seats - 3 each for the 36 states and 1 for Abuja; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms) and the House of Representatives (360 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms) |
+| | elections: Senate - last held on 28-29 March 2015 (next to be held in February 2019); House of Representatives - last held on 28-29 March 2015 (next to be held in 2019) |
+| | election results: Senate - percent of vote by party - NA; seats by party - APC 60, PDP 49; House of Representatives - percent of vote by party - NA; seats by party - APC 225, PDP 125, other 10 |
+| Judicial branch: | highest court(s): Supreme Court (consists of the chief justice and 15 justices) |
+| | judge selection and term of office: judges appointed by the president on the recommendation of the National Judicial Council, a 23-member independent body of federal and state judicial officials; judge appointments confirmed by the Senate; judges serve until age 65 |
+| | subordinate courts: Court of Appeal; Federal High Court; High Court of the Federal Capital Territory; Sharia Court of Appeal of the Federal Capital Territory; Customary Court of Appeal of the Federal Capital Territory; state court system similar in structure to federal system |
+| Political parties and leaders: | Accord Party or ACC [Mohammad Lawal MALADO] |
+| | All Progressives Congress or APC [John Odigie OYEGUN] |
+| | All Progressives Grand Alliance or APGA [Victor C. UMEH] |
+| | Democratic Peoples Party or DPP [Biodun OGUNBIYI] |
+| | Labor Party or LP [Alhai Abdulkadir ABDULSALAM] |
+| | Peoples Democratic Party or PDP [Ahmed MAKARFI] |
+| Political pressure groups and leaders: | Academic Staff Union for Universities or ASUU |
+| | Campaign for Democracy or CD |
+| | Civil Liberties Organization or CLO |
+| | Committee for the Defense of Human Rights or CDHR |
+| | Constitutional Right Project or CRP |
+| | Human Right Africa |
+| | National Association of Democratic Lawyers or NADL |
+| | National Association of Nigerian Students or NANS |
+| | Nigerian Bar Association or NBA |
+| | Nigerian Labor Congress or NLC |
+| | Nigerian Medical Association or NMA |
+| | Universal Defenders of Democracy or UDD |
+| | other: the press |
+| International organization participation: | ACP, AfDB, AU, C, CD, D-8, ECOWAS, EITI (compliant country), FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, MONUSCO, NAM, OAS (observer), OIC, OPCW, OPEC, PCA, UN, UN Security Council (temporary), UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNITAR, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador (vacant); Charge d'Affaires Hakeem Toyin BALOGUN (since 27 August 2015) |
+| | chancery: 3519 International Court NW, Washington, DC 20008 |
+| | telephone: [1] (202) 986-8400 |
+| | FAX: [1] (202) 362-6541 |
+| | consulate(s) general: Atlanta, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Stuart SYMINGTON (since 1 December 2016) |
+| | embassy: Plot 1075 Diplomatic Drive, Central District Area, Abuja |
+| | mailing address: P. O. Box 5760, Garki, Abuja |
+| | telephone: [234] (9) 461-4000 |
+| | FAX: [234] (9) 461-4171 |
+| Flag description: | three equal vertical bands of green (hoist side), white, and green; the color green represents the forests and abundant natural wealth of the country, white stands for peace and unity |
+| National symbol(s): | eagle; national colors: green, white |
+| National anthem: | name: "Arise Oh Compatriots, Nigeria's Call Obey" |
+| | lyrics/music: John A. ILECHUKWU, Eme Etim AKPAN, B. A. OGUNNAIKE, Sotu OMOIGUI and P. O. ADERIBIGBE/Benedict Elide ODIASE |
+| | note: adopted 1978; lyrics are a mixture of the five top entries in a national contest |
+
+| Economy | NIGERIA |
+| --- | --- |
+| Economy - overview: | Following an April 2014 statistical "rebasing" exercise, Nigeria has emerged as Africa's largest economy, with 2015 GDP estimated at $1.1 trillion. Oil has been a dominant source of income and government revenues since the 1970s. Following the 2008-9 global financial crises, the banking sector was effectively recapitalized and regulation enhanced. Nigeria’s economic growth over the last five years has been driven by growth in agriculture, telecommunications, and services. Economic diversification and strong growth have not translated into a significant decline in poverty levels, however - over 62% of Nigeria's 170 million people still live in extreme poverty. |
+| | Despite its strong fundamentals, oil-rich Nigeria has been hobbled by inadequate power supply, lack of infrastructure, delays in the passage of legislative reforms, an inefficient property registration system, restrictive trade policies, an inconsistent regulatory environment, a slow and ineffective judicial system, unreliable dispute resolution mechanisms, insecurity, and pervasive corruption. Regulatory constraints and security risks have limited new investment in oil and natural gas, and Nigeria's oil production has contracted every year since 2012. |
+| | Because of lower oil prices, GDP growth in 2015 fell to around 3%, and government revenues declined, while the nonoil sector also contracted due to economic policy uncertainty. President BUHARI, elected in March 2015, has established a cabinet of economic ministers that includes several technocrats, and he has announced plans to increase transparency, diversify the economy away from oil, and improve fiscal management. The government is working to develop stronger public-private partnerships for roads, agriculture, and power. The medium-term outlook for Nigeria is positive, assuming oil output stabilizes and oil prices recover. |
+| GDP (purchasing power parity): | $1.092 trillion (2015 est.) |
+| | $1.063 trillion (2014 est.) |
+| | $1 trillion (2013 est.) |
+| | note: data are in 2015 US dollars |
+| GDP (official exchange rate): | $490.2 billion (2015 est.) |
+| GDP - real growth rate: | 2.7% (2015 est.) |
+| | 6.3% (2014 est.) |
+| | 5.4% (2013 est.) |
+| GDP - per capita (PPP): | $6,100 (2015 est.) |
+| | $6,100 (2014 est.) |
+| | $5,900 (2013 est.) |
+| | note: data are in 2015 US dollars |
+| Gross national saving: | 12.4% of GDP (2015 est.) |
+| | 16% of GDP (2014 est.) |
+| | 18.6% of GDP (2013 est.) |
+| GDP - composition, by end use: | household consumption: 78% |
+| | government consumption: 6.7% |
+| | investment in fixed capital: 14.8% |
+| | investment in inventories: 0.7% |
+| | exports of goods and services: 10.7% |
+| | imports of goods and services: -10.8% (2015 est.) |
+| GDP - composition, by sector of origin: | agriculture: 20.9% |
+| | industry: 20.4% |
+| | services: 58.8% (2015 est.) |
+| Agriculture - products: | cocoa, peanuts, cotton, palm oil, corn, rice, sorghum, millet, cassava (manioc, tapioca), yams, rubber; cattle, sheep, goats, pigs; timber; fish |
+| Industries: | crude oil, coal, tin, columbite; rubber products, wood; hides and skins, textiles, cement and other construction materials, food products, footwear, chemicals, fertilizer, printing, ceramics, steel |
+| Industrial production growth rate: | -2.2% (2015 est.) |
+| Labor force: | 57.27 million (2015 est.) |
+| Labor force - by occupation: | agriculture: 70% |
+| | industry: 10% |
+| | services: 20% (1999 est.) |
+| Unemployment rate: | 23.9% (2011 est.) |
+| | 4.9% (2011 est.) |
+| Population below poverty line: | 70% (2010 est.) |
+| Household income or consumption by percentage share: | lowest 10%: 1.8% |
+| | highest 10%: 38.2% (2010 est.) |
+| Distribution of family income - Gini index: | 43.7 (2003) |
+| | 50.6 (1997) |
+| Budget: | revenues: $18.21 billion |
+| | expenditures: $23.56 billion (2015 est.) |
+| Taxes and other revenues: | 3.7% of GDP (2015 est.) |
+| Budget surplus (+) or deficit (-): | -1.1% of GDP (2015 est.) |
+| Public debt: | 11.5% of GDP (2015 est.) |
+| | 10.5% of GDP (2014 est.) |
+| Fiscal year: | calendar year |
+| Inflation rate (consumer prices): | 9% (2015 est.) |
+| | 8.1% (2014 est.) |
+| Central bank discount rate: | 4.25% (31 December 2010) |
+| | 6% (31 December 2009) |
+| Commercial bank prime lending rate: | 16.85% (31 December 2015 est.) |
+| | 16.55% (31 December 2014 est.) |
+| Stock of narrow money: | $43.62 billion (31 December 2015 est.) |
+| | $36.85 billion (31 December 2014 est.) |
+| Stock of broad money: | $89.5 billion (31 December 2015 est.) |
+| | $111.5 billion (31 December 2014 est.) |
+| Stock of domestic credit: | $111.7 billion (31 December 2015 est.) |
+| | $115.8 billion (31 December 2014 est.) |
+| Market value of publicly traded shares: | $56.39 billion (31 December 2015 est.) |
+| | $39.27 billion (31 December 2014 est.) |
+| | $50.88 billion (31 December 2013 est.) |
+| Current account balance: | -$11.92 billion (2015 est.) |
+| | $1.279 billion (2014 est.) |
+| Exports: | $45.89 billion (2015 est.) |
+| | $82.59 billion (2014 est.) |
+| Exports - commodities: | petroleum and petroleum products 95%, cocoa, rubber (2012 est.) |
+| Exports - partners: | India 18.2%, Netherlands 8.5%, Spain 8.2%, Brazil 8.2%, South Africa 7.8%, France 5.2%, Japan 4.5%, Cote dIvoire 4.2%, Ghana 4% (2015) |
+| Imports: | $52.33 billion (2015 est.) |
+| | $61.59 billion (2014 est.) |
+| Imports - commodities: | machinery, chemicals, transport equipment, manufactured goods, food and live animals |
+| Imports - partners: | China 25.7%, US 6.4%, Netherlands 6.1%, India 4.3% (2015) |
+| Reserves of foreign exchange and gold: | $29.07 billion (31 December 2015 est.) |
+| | $34.47 billion (31 December 2014 est.) |
+| Debt - external: | $32.27 billion (31 December 2015 est.) |
+| | $26.86 billion (31 December 2014 est.) |
+| Stock of direct foreign investment - at home: | $95.82 billion (31 December 2015 est.) |
+| | $92.75 billion (31 December 2014 est.) |
+| Stock of direct foreign investment - abroad: | $12.41 billion (31 December 2015 est.) |
+| | $10.98 billion (31 December 2014 est.) |
+| Exchange rates: | nairas (NGN) per US dollar - |
+| | 192.73 (2015 est.) |
+| | 158.55 (2014 est.) |
+| | 158.55 (2013 est.) |
+| | 156.81 (2012 est.) |
+| | 154.7 (2011 est.) |
+
+| Energy | NIGERIA |
+| --- | --- |
+| Electricity access: | population without electricity: 95,500,000 |
+| | electrification - total population: 45% |
+| | electrification - urban areas: 55% |
+| | electrification - rural areas: 37% (2013) |
+| Electricity - production: | 29 billion kWh (2014 est.) |
+| Electricity - consumption: | 24 billion kWh (2014 est.) |
+| Electricity - exports: | 0 kWh (2013 est.) |
+| Electricity - imports: | 0 kWh (2013 est.) |
+| Electricity - installed generating capacity: | 10 million kW (2014 est.) |
+| Electricity - from fossil fuels: | 65% of total installed capacity (2012 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2012 est.) |
+| Electricity - from hydroelectric plants: | 33.5% of total installed capacity (2012 est.) |
+| Electricity - from other renewable sources: | 1.5% of total installed capacity (2012 est.) |
+| Crude oil - production: | 2.317 million bbl/day (2015 est.) |
+| Crude oil - exports: | 2.231 million bbl/day (2013 est.) |
+| Crude oil - imports: | 0 bbl/day (2013 est.) |
+| Crude oil - proved reserves: | 37 billion bbl (1 January 2016 es) |
+| Refined petroleum products - production: | 110,200 bbl/day (2013 est.) |
+| Refined petroleum products - consumption: | 277,000 bbl/day (2014 est.) |
+| Refined petroleum products - exports: | 22,480 bbl/day (2013 est.) |
+| Refined petroleum products - imports: | 187,400 bbl/day (2013 est.) |
+| Natural gas - production: | 43.84 billion cu m (2014 est.) |
+| Natural gas - consumption: | 18.84 billion cu m (2014 est.) |
+| Natural gas - exports: | 25 billion cu m (2014 est.) |
+| Natural gas - imports: | 0 cu m (2013 est.) |
+| Natural gas - proved reserves: | 5.111 trillion cu m (1 January 2016 es) |
+| Carbon dioxide emissions from consumption of energy: | 97 million Mt (2013 est.) |
+
+| Communications | NIGERIA |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 187,155 |
+| | subscriptions per 100 inhabitants: less than 1 (July 2015 est.) |
+| Telephones - mobile cellular: | total: 150.83 million |
+| | subscriptions per 100 inhabitants: 83 (July 2015 est.) |
+| Telephone system: | general assessment: further expansion and modernization of the fixed-line telephone network is needed; network quality remains a problem |
+| | domestic: fixed-line subscribership remains only about 1 per 100 persons; mobile-cellular services growing rapidly, in part responding to the shortcomings of the fixed-line network; multiple cellular providers operate nationally with subscribership base over 80 per 100 persons |
+| | international: country code - 234; landing point for the SAT-3/WASC fiber-optic submarine cable that provides connectivity to Europe and Asia; satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean) (2015) |
+| Broadcast media: | nearly 70 federal government-controlled national and regional TV stations; all 36 states operate TV stations; several private TV stations operational; cable and satellite TV subscription services are available; network of federal government-controlled national, regional, and state radio stations; roughly 40 state government-owned radio stations typically carry their own programs except for news broadcasts; about 20 private radio stations; transmissions of international broadcasters are available (2007) |
+| Internet country code: | .ng |
+| Internet users: | total: 86.138 million |
+| | percent of population: 47.4% (July 2015 est.) |
+
+| Transportation | NIGERIA |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 16 |
+| | inventory of registered aircraft operated by air carriers: 73 |
+| | annual passenger traffic on registered air carriers: 3,223,459 |
+| | annual freight traffic on registered air carriers: 22,400,657 mt-km (2015) |
+| Civil aircraft registration country code prefix: | 5N (2016) |
+| Airports: | 54 (2013) |
+| Airports - with paved runways: | total: 40 |
+| | over 3,047 m: 10 |
+| | 2,438 to 3,047 m: 12 |
+| | 1,524 to 2,437 m: 9 |
+| | 914 to 1,523 m: 6 |
+| | under 914 m: 3 (2013) |
+| Airports - with unpaved runways: | total: 14 |
+| | 1,524 to 2,437 m: 2 |
+| | 914 to 1,523 m: 9 |
+| | under 914 m: 3 (2013) |
+| Heliports: | 5 (2013) |
+| Pipelines: | condensate 124 km; gas 4,045 km; liquid petroleum gas 164 km; oil 4,441 km; refined products 3,940 km (2013) |
+| Railways: | total: 3,798 km |
+| | standard gauge: 293 km 1.435-m gauge |
+| | narrow gauge: 3,505 km 1.067-m gauge (2014) |
+| Roadways: | total: 193,200 km |
+| | paved: 28,980 km |
+| | unpaved: 164,220 km (2004) |
+| Waterways: | 8,600 km (Niger and Benue Rivers and smaller rivers and creeks) (2011) |
+| Merchant marine: | total: 89 |
+| | by type: cargo 2, chemical tanker 28, liquefied gas 1, passenger/cargo 1, petroleum tanker 56, specialized tanker 1 |
+| | foreign-owned: 3 (India 1, UK 2) |
+| | registered in other countries: 33 (Bahamas 2, Bermuda 11, Comoros 1, Italy 1, Liberia 4, North Korea 1, Panama 6, Seychelles 1, unknown 6) (2010) |
+| Ports and terminals: | major seaport(s): Bonny Inshore Terminal, Calabar, Lagos |
+| | LNG terminal(s) (export): Bonny Island |
+| Transportation - note: | the International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea as high risk for piracy and armed robbery of ships; in 2014, 18 commercial vessels were boarded or attacked compared with 31 attacks in 2013; crews were robbed and stores or cargoes stolen; Nigerian pirates have extended the range of their attacks to as far away as Cote d'Ivoire |
+
+| Military and Security | NIGERIA |
+| --- | --- |
+| Military branches: | Nigerian Armed Forces: Army, Navy, Air Force (2013) |
+| Military service age and obligation: | 18 years of age for voluntary military service; no conscription (2012) |
+| Military expenditures: | 0.89% of GDP (2012) |
+| | 0.98% of GDP (2011) |
+| | 0.89% of GDP (2010) |
+
+| Transnational Issues | NIGERIA |
+| --- | --- |
+| Disputes - international: | Joint Border Commission with Cameroon reviewed 2002 ICJ ruling on the entire boundary and bilaterally resolved differences, including June 2006 Greentree Agreement that immediately cedes sovereignty of the Bakassi Peninsula to Cameroon with a phaseout of Nigerian control within two years while resolving patriation issues; the ICJ ruled on an equidistance settlement of Cameroon-Equatorial Guinea-Nigeria maritime boundary in the Gulf of Guinea, but imprecisely defined coordinates in the ICJ decision and a sovereignty dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River all contribute to the delay in implementation; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty which also includes the Chad-Niger and Niger-Nigeria boundaries; location of Benin-Niger-Nigeria tripoint is unresolved |
+| Refugees and internally displaced persons: | IDPs: 2,093,030 (Boko Haram attacks and counterinsurgency efforts in northern Nigeria; communal violence between Christians and Muslims in the middle belt region, political violence; flooding; forced evictions; cattle rustling; competition for resources) (2016) |
+| Illicit drugs: | a transit point for heroin and cocaine intended for European, East Asian, and North American markets; consumer of amphetamines; safe haven for Nigerian narcotraffickers operating worldwide; major money-laundering center; massive corruption and criminal activity; Nigeria has improved some anti-money-laundering controls, resulting in its removal from the Financial Action Task Force's (FATF's) Noncooperative Countries and Territories List in June 2006; Nigeria's anti-money-laundering regime continues to be monitored by FATF |

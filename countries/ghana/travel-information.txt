@@ -1,0 +1,29 @@
+Telephone Code: 233
+Local Emergency Phone - Ambulance: 776111-5
+Local Emergency Phone - Fire: 192
+Local Emergency Phone - Police: 999, 171
+Climate: Tropical; warm and comparatively dry along southeast coast; hot and humid in southwest; hot and dry in north
+Currency (Code): Cedis (GHC)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): D, G
+Major Languages: Asante, Ewe, Fante, Boron, Dagomba, Dangme, Dagarte, Kokomba, Akyem, Ga
+Major Religions: Christian 71.2% (Pentecostal/Charismatic, Protestant, Catholic, other), Muslim 17.6%, traditional 5.2%
+Time Difference: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Kakum National Park; Accra (includes Artists Alliance Gallery); Labadi Beach; Cape Coast
+Major Sports: Soccer, boxing
+Cultural Practices: If eating from a communal bowl, it is considered impolite to reach to parts of the bowl that are far from you. Instead, simply eat the portion directly in front of you.
+Tipping Guidelines: Tips are not expected in restaurants, except at upscale locales frequented by foreigners, in which case a 5-10% tip is acceptable. Tip hotel porters 1-2 cedis and chambermaids at least 2 cedis per day. Taxi drivers expect a tip of 5-10% of the fare.
+Souvenirs: Handmade beads, woven Kente cloth, gold and silver jewelry, carved stools, pottery
+Traditional Cuisine: Fufu --- cassava and unripe plantains mashed together in water with a wooden pole; once the mixture is smooth it is shaped into small balls that are placed in a stew or soup with meat
+
+---
+country: Ghana
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Ghana/travel-facts>
+license: public domain (U.S.)
+...

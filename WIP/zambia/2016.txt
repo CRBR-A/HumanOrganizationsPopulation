@@ -1,0 +1,346 @@
+CIA - The World Factbook -- ZAMBIA
+
+| Geography | ZAMBIA |
+| --- | --- |
+| Location: | Southern Africa, east of Angola, south of the Democratic Republic of the Congo |
+| Geographic coordinates: | 15 00 S, 30 00 E |
+| Map references: | Africa |
+| Area: | total: 752,618 sq km |
+| | land: 743,398 sq km |
+| | water: 9,220 sq km |
+| Area - comparative: | slightly larger than Texas |
+| Land boundaries: | total: 6,043.15 km |
+| | border countries (8): Angola 1,065 km, Botswana 0.15 km, Democratic Republic of the Congo 2,332 km, Malawi 847 km, Mozambique 439 km, Namibia 244 km, Tanzania 353 km, Zimbabwe 763 km |
+| Coastline: | 0 km (landlocked) |
+| Maritime claims: | none (landlocked) |
+| Climate: | tropical; modified by altitude; rainy season (October to April) |
+| Terrain: | mostly high plateau with some hills and mountains |
+| Elevation: | mean elevation: 1,138 m |
+| | elevation extremes: lowest point: Zambezi river 329 m |
+| | highest point: unnamed elevation in Mafinga Hills 2,301 m |
+| Natural resources: | copper, cobalt, zinc, lead, coal, emeralds, gold, silver, uranium, hydropower |
+| Land use: | agricultural land: 31.7% |
+| | arable land 4.8%; permanent crops 0%; permanent pasture 26.9% |
+| | forest: 66.3% |
+| | other: 2% (2011 est.) |
+| Irrigated land: | 1,560 sq km (2012) |
+| Natural hazards: | periodic drought; tropical storms (November to April) |
+| Environment - current issues: | air pollution and resulting acid rain in the mineral extraction and refining region; chemical runoff into watersheds; poaching seriously threatens rhinoceros, elephant, antelope, and large cat populations; deforestation; soil erosion; desertification; lack of adequate water treatment presents human health risks |
+| Environment - international agreements: | party to: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Wetlands |
+| | signed, but not ratified: none of the selected agreements |
+| Geography - note: | landlocked; the Zambezi forms a natural riverine boundary with Zimbabwe; Lake Kariba on the Zambia-Zimbabwe border forms the world's largest reservoir by volume (180 cu km; 43 cu mi) |
+
+| People and Society | ZAMBIA |
+| --- | --- |
+| Population: | 15,510,711 |
+| | note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2016 est.) |
+| Nationality: | noun: Zambian(s) |
+| | adjective: Zambian |
+| Ethnic groups: | Bemba 21%, Tonga 13.6%, Chewa 7.4%, Lozi 5.7%, Nsenga 5.3%, Tumbuka 4.4%, Ngoni 4%, Lala 3.1%, Kaonde 2.9%, Namwanga 2.8%, Lunda (north Western) 2.6%, Mambwe 2.5%, Luvale 2.2%, Lamba 2.1%, Ushi 1.9%, Lenje 1.6%, Bisa 1.6%, Mbunda 1.2%, other 13.8%, unspecified 0.4% (2010 est.) |
+| Languages: | Bembe 33.4%, Nyanja 14.7%, Tonga 11.4%, Lozi 5.5%, Chewa 4.5%, Nsenga 2.9%, Tumbuka 2.5%, Lunda (North Western) 1.9%, Kaonde 1.8%, Lala 1.8%, Lamba 1.8%, English (official) 1.7%, Luvale 1.5%, Mambwe 1.3%, Namwanga 1.2%, Lenje 1.1%, Bisa 1%, other 9.7%, unspecified 0.2% |
+| | note: Zambia is said to have over 70 languages, although many of these may be considered dialects; all of Zambia's major languages are members of the Bantu family (2010 est.) |
+| Religions: | Protestant 75.3%, Roman Catholic 20.2%, other 2.7% (includes Muslim Buddhist, Hindu, and Baha'i), none 1.8% (2010 est.) |
+| Demographic profile: | Zambia’s poor, youthful population consists primarily of Bantu-speaking people representing nearly 70 different ethnicities. Zambia’s high fertility rate continues to drive rapid population growth, averaging almost 3 percent annually between 2000 and 2010. The country’s total fertility rate has fallen by less than 1.5 children per woman during the last 30 years and still averages among the world’s highest, almost 6 children per woman, largely because of the country’s lack of access to family planning services, education for girls, and employment for women. Zambia also exhibits wide fertility disparities based on rural or urban location, education, and income. Poor, uneducated women from rural areas are more likely to marry young, to give birth early, and to have more children, viewing children as a sign of prestige and recognizing that not all of their children will live to adulthood. HIV/AIDS is prevalent in Zambia and contributes to its low life expectancy. |
+| | Zambian emigration is low compared to many other African countries and is comprised predominantly of the well-educated. The small amount of brain drain, however, has a major impact in Zambia because of its limited human capital and lack of educational infrastructure for developing skilled professionals in key fields. For example, Zambia has few schools for training doctors, nurses, and other health care workers. Its spending on education is low compared to other sub-Saharan countries. |
+| Age structure: | 0-14 years: 46.08% (male 3,590,466/female 3,556,756) |
+| | 15-24 years: 20% (male 1,550,183/female 1,552,706) |
+| | 25-54 years: 28.65% (male 2,239,661/female 2,204,823) |
+| | 55-64 years: 2.91% (male 211,039/female 240,156) |
+| | 65 years and over: 2.35% (male 158,827/female 206,094) (2016 est.) |
+| Dependency ratios: | total dependency ratio: 95.4% |
+| | youth dependency ratio: 89.7% |
+| | elderly dependency ratio: 5.7% |
+| | potential support ratio: 17.6% (2015 est.) |
+| Median age: | total: 16.7 years |
+| | male: 16.6 years |
+| | female: 16.9 years (2016 est.) |
+| Population growth rate: | 2.94% (2016 est.) |
+| Birth rate: | 41.8 births/1,000 population (2016 est.) |
+| Death rate: | 12.4 deaths/1,000 population (2016 est.) |
+| Net migration rate: | 0 migrant(s)/1,000 population (2016 est.) |
+| Urbanization: | urban population: 40.9% of total population (2015) |
+| | rate of urbanization: 4.32% annual rate of change (2010-15 est.) |
+| Major urban areas - population: | LUSAKA (capital) 2.179 million (2015) |
+| Sex ratio: | at birth: 1.03 male(s)/female |
+| | 0-14 years: 1.01 male(s)/female |
+| | 15-24 years: 1 male(s)/female |
+| | 25-54 years: 1.02 male(s)/female |
+| | 55-64 years: 0.88 male(s)/female |
+| | 65 years and over: 0.76 male(s)/female |
+| | total population: 1 male(s)/female (2016 est.) |
+| Mother's mean age at first birth: | 19.2 |
+| | note: median age at first birth among women 25-29 (2013/14 est.) |
+| Maternal mortality rate: | 224 deaths/100,000 live births (2015 est.) |
+| Infant mortality rate: | total: 62.9 deaths/1,000 live births |
+| | male: 68.3 deaths/1,000 live births |
+| | female: 57.3 deaths/1,000 live births (2016 est.) |
+| Life expectancy at birth: | total population: 52.5 years |
+| | male: 50.8 years |
+| | female: 54.1 years (2016 est.) |
+| Total fertility rate: | 5.67 children born/woman (2016 est.) |
+| Contraceptive prevalence rate: | 40.8% (2007) |
+| Health expenditures: | 5% of GDP (2014) |
+| Physicians density: | 0.17 physicians/1,000 population (2012) |
+| Hospital bed density: | 2 beds/1,000 population (2010) |
+| Drinking water source: | improved: |
+| | urban: 85.6% of population |
+| | rural: 51.3% of population |
+| | total: 65.4% of population |
+| unimproved: | urban: 14.4% of population |
+| | rural: 48.7% of population |
+| | total: 34.6% of population (2015 est.) |
+| Sanitation facility access: | improved: |
+| | urban: 55.6% of population |
+| | rural: 35.7% of population |
+| | total: 43.9% of population |
+| unimproved: | urban: 44.4% of population |
+| | rural: 64.3% of population |
+| | total: 56.1% of population (2015 est.) |
+| HIV/AIDS - adult prevalence rate: | 12.91% (2015 est.) |
+| HIV/AIDS - people living with HIV/AIDS: | 1,211,900 (2015 est.) |
+| HIV/AIDS - deaths: | 19,800 (2015 est.) |
+| Major infectious diseases: | degree of risk: very high |
+| | food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | vectorborne diseases: malaria and dengue fever |
+| | water contact disease: schistosomiasis |
+| | animal contact disease: rabies (2016) |
+| Obesity - adult prevalence rate: | 7.2% (2014) |
+| Children under the age of 5 years underweight: | 14.8% (2014) |
+| Education expenditures: | 1.1% of GDP (2008) |
+| Literacy: | definition: age 15 and over can read and write English |
+| | total population: 63.4% |
+| | male: 70.9% |
+| | female: 56% (2015 est.) |
+| Child labor - children ages 5-14: | total number: 1,000,850 |
+| | percentage: 41% |
+| | note: data represent children ages 7-14 (2005 est.) |
+| Unemployment, youth ages 15-24: | total: 15.2% |
+| | male: 14.6% |
+| | female: 15.8% (2012 est.) |
+
+| Government | ZAMBIA |
+| --- | --- |
+| Country name: | conventional long form: Republic of Zambia |
+| | conventional short form: Zambia |
+| | former: Northern Rhodesia |
+| | etymology: name derived from the Zambezi River, which flows through the western part of the country and forms its southern border with neighboring Zimbabwe |
+| Government type: | presidential republic |
+| Capital: | name: Lusaka |
+| | geographic coordinates: 15 25 S, 28 17 E |
+| | time difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time) |
+| Administrative divisions: | 10 provinces; Central, Copperbelt, Eastern, Luapula, Lusaka, Muchinga, Northern, North-Western, Southern, Western |
+| Independence: | 24 October 1964 (from the UK) |
+| National holiday: | Independence Day, 24 October (1964) |
+| Constitution: | several previous; latest adopted 24 August 1991, promulgated 30 August 1991; amended 1996, 2015 (2016) |
+| Legal system: | mixed legal system of English common law and customary law |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: yes |
+| | citizenship by descent: yes |
+| | dual citizenship recognized: no |
+| | residency requirement for naturalization: not specified |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Edgar LUNGU (since 25 January 2015); Vice President Inonge WINA (since 26 January 2015); note - the president is both chief of state and head of government |
+| | head of government: President Edgar LUNGU (since 25 January 2015); Vice President Inonge WINA (since 26 January 2015 |
+| | cabinet: Cabinet appointed by president from among members of the National Assembly |
+| | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last held on 11 August 2016 (next to be held in 2021) |
+| | election results: Edgar LUNGU reelected president; percent of vote - Edgar LUNGU (PF) 50.4%, Hakainde HICHILEMA (UPND) 47.6%, other 2.0% |
+| Legislative branch: | description: unicameral National Assembly (164 seats; 156 members directly elected in single-seat constituencies by simple majority vote, and 8 appointed by the president; members serve 5-year terms); note - 6 additional electoral seats were added for the 11 August 2016 election, up from 150 electoral seats in the 2011 election |
+| | elections: last held on 11 August 2016 (next to be held in 2021) |
+| | election results: percent of vote by party - NA; seats by party - PF 80, UPND 58, MMD 3, FDD 1, independent 14 |
+| Judicial branch: | highest court(s): Supreme Court (consists of the chief justice and deputy chief justices, and at least 11 judges); Constitutional Court (consists of the court president, vice-president, and 11 judges); note - the Constitutional Court began operation in June 2016 |
+| | judge selection and term of office: Supreme Court and Constitutional Court judges appointed by the president upon the advice of the 9-member Judicial Service Commission headed by the chief justice, and ratified by the National Assembly; judges normally serve until age 65 |
+| | subordinate courts: Court of Appeal; High Court; Industrial Relations Court; subordinate courts (three levels, based on upper limit of money involved); Small Claims Court; local courts (2 grades, based on upper limit of money involved) |
+| Political parties and leaders: | Alliance for Democracy and Development or ADD [Charles MILUPI] |
+| | Forum for Democracy and Development or FDD [Edith NAWAKWI] |
+| | Movement for Multiparty Democracy or MMD [Nevers MUMBA] |
+| | Patriotic Front or PF [Edgar LUNGU] |
+| | United Party for National Development or UPND [Hakainde HICHILEMA] |
+| International organization participation: | ACP, AfDB, AU, C, COMESA, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OPCW, PCA, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Palan MULONDA (since 8 January 2013) |
+| | chancery: 2419 Massachusetts Avenue NW, Washington, DC 20008 |
+| | telephone: [1] (202) 265-9717 through 9719 |
+| | FAX: [1] (202) 332-0826 |
+| Diplomatic representation from the US: | chief of mission: Ambassador Eric T. SCHULTZ (since 12 December 2014) |
+| | embassy: Eastern end of Kabulonga Road, Ibex Hill, Lusaka |
+| | mailing address: P. O. Box 31617, Lusaka |
+| | telephone: [260] (211) 357-000 |
+| | FAX: [260] ) (211) 357-224 |
+| Flag description: | green field with a panel of three vertical bands of red (hoist side), black, and orange below a soaring orange eagle, on the outer edge of the flag; green stands for the country's natural resources and vegetation, red symbolizes the struggle for freedom, black the people of Zambia, and orange the country's mineral wealth; the eagle represents the people's ability to rise above the nation's problems |
+| National symbol(s): | African fish eagle; national colors: green, red, black, orange |
+| National anthem: | name: "Lumbanyeni Zambia" (Stand and Sing of Zambia, Proud and Free) |
+| | lyrics/music: multiple/Enoch Mankayi SONTONGA |
+| | note: adopted 1964; the melody, from the popular song "God Bless Africa," is the same as that of Tanzania but with different lyrics; the melody is also incorporated into South Africa's anthem |
+
+| Economy | ZAMBIA |
+| --- | --- |
+| Economy - overview: | Zambia has had one of the world’s fastest growing economies for the past ten years, with real GDP growth averaging roughly 6.7% per annum, though growth slowed in 2015 to just over 3%, due to falling copper prices, reduced power generation, and depreciation of the kwacha. Zambia’s lack of economic diversification and dependency on copper as its sole major export makes it vulnerable to fluctuations in the world commodities market and prices turned downward in 2015 due to declining demand from China; Zambia was overtaken by the Democratic Republic of Congo as Africa’s largest copper producer. |
+| | Despite recent strong economic growth and its status as a lower middle-income country, widespread and extreme rural poverty and high unemployment levels remain significant problems, made worse by a high birth rate, a relatively high HIV/AIDS burden, and by market-distorting agricultural and energy policies. Economic policy inconsistency and poor budget execution in recent years has hindered the economy and contributed to weakness in the kwacha, which was Africa’s worst performing currency during 2015. Zambia has raised $7 billion from international investors by issuing separate sovereign bonds in September 2012, April 2014, and July 2015, significantly increasing the country’s public debt as a share of GDP. |
+| | Poor management of water resources has also contributed to a power generation shortage, which has hampered industrial productivity and contributed to an increase in year-on-year inflation to 23% by March 2016. Zambia’s currency, the kwacha, also depreciated sharply against the dollar through 2015, before the central bank restricted lending. |
+| GDP (purchasing power parity): | $62.71 billion (2015 est.) |
+| | $60.51 billion (2014 est.) |
+| | $57.61 billion (2013 est.) |
+| | note: data are in 2015 US dollars |
+| GDP (official exchange rate): | $21.89 billion (2015 est.) |
+| GDP - real growth rate: | 3.6% (2015 est.) |
+| | 5% (2014 est.) |
+| | 5.1% (2013 est.) |
+| GDP - per capita (PPP): | $3,900 (2015 est.) |
+| | $3,800 (2014 est.) |
+| | $3,800 (2013 est.) |
+| | note: data are in 2015 US dollars |
+| Gross national saving: | 20.4% of GDP (2015 est.) |
+| | 26.3% of GDP (2014 est.) |
+| | 26.3% of GDP (2013 est.) |
+| GDP - composition, by end use: | household consumption: 52.9% |
+| | government consumption: 21.4% |
+| | investment in fixed capital: 26.9% |
+| | investment in inventories: 1.3% |
+| | exports of goods and services: 46.8% |
+| | imports of goods and services: -49.3% (2015 est.) |
+| GDP - composition, by sector of origin: | agriculture: 8.9% |
+| | industry: 30% |
+| | services: 61.1% (2015 est.) |
+| Agriculture - products: | corn, sorghum, rice, peanuts, sunflower seeds, vegetables, flowers, tobacco, cotton, sugarcane, cassava (manioc, tapioca), coffee; cattle, goats, pigs, poultry, milk, eggs, hides |
+| Industries: | copper mining and processing, emerald mining, construction, foodstuffs, beverages, chemicals, textiles, fertilizer, horticulture |
+| Industrial production growth rate: | -2.8% (2015 est.) |
+| Labor force: | 6.895 million (2015 est.) |
+| Labor force - by occupation: | agriculture: 85% |
+| | industry: 6% |
+| | services: 9% (2004) |
+| Unemployment rate: | 15% (2008 est.) |
+| | 50% (2000 est.) |
+| Population below poverty line: | 60.5% (2010 est.) |
+| Household income or consumption by percentage share: | lowest 10%: 1.5% |
+| | highest 10%: 47.4% (2010) |
+| Distribution of family income - Gini index: | 57.5 (2013) |
+| | 50.8 (2004) |
+| Budget: | revenues: $3.661 billion |
+| | expenditures: $5.387 billion (2015 est.) |
+| Taxes and other revenues: | 16.7% of GDP (2015 est.) |
+| Budget surplus (+) or deficit (-): | -7.9% of GDP (2015 est.) |
+| Public debt: | 58.6% of GDP (2015 est.) |
+| | 37.4% of GDP (2014 est.) |
+| Fiscal year: | calendar year |
+| Inflation rate (consumer prices): | 10.1% (2015 est.) |
+| | 7.8% (2014 est.) |
+| Central bank discount rate: | 9.1% (31 December 2012) |
+| | 19% (31 December 2011) |
+| Commercial bank prime lending rate: | 13.25% (31 December 2015 est.) |
+| | 11.57% (31 December 2014 est.) |
+| Stock of narrow money: | $1.288 billion (31 December 2015 est.) |
+| | $2.118 billion (31 December 2014 est.) |
+| Stock of broad money: | $5.682 billion (31 December 2014 est.) |
+| | $5.437 billion (31 December 2013 est.) |
+| Stock of domestic credit: | $3.682 billion (31 December 2015 est.) |
+| | $5.006 billion (31 December 2014 est.) |
+| Market value of publicly traded shares: | $3.004 billion (31 December 2012 est.) |
+| | $4.009 billion (31 December 2011 est.) |
+| | $2.817 billion (31 December 2010 est.) |
+| Current account balance: | -$768 million (2015 est.) |
+| | $581 million (2014 est.) |
+| Exports: | $6.998 billion (2015 est.) |
+| | $10.22 billion (2014 est.) |
+| Exports - commodities: | copper/cobalt, cobalt, electricity; tobacco, flowers, cotton |
+| Exports - partners: | China 25.5%, Democratic Republic of the Congo 13%, South Africa 6.4%, South Korea 4.9%, India 4.3% (2015) |
+| Imports: | $7.711 billion (2015 est.) |
+| | $8.595 billion (2014 est.) |
+| Imports - commodities: | machinery, transportation equipment, petroleum products, electricity, fertilizer, foodstuffs, clothing |
+| Imports - partners: | South Africa 34.5%, Democratic Republic of the Congo 18.2%, Kenya 9.7%, China 7.3%, India 4.4% (2015) |
+| Reserves of foreign exchange and gold: | $2.968 billion (31 December 2015 est.) |
+| | $3.078 billion (31 December 2014 est.) |
+| Debt - external: | $8.88 billion (31 December 2015 est.) |
+| | $7.367 billion (31 December 2014 est.) |
+| Stock of direct foreign investment - at home: | $NA |
+| Stock of direct foreign investment - abroad: | $NA |
+| Exchange rates: | Zambian kwacha (ZMK) per US dollar - |
+| | 8.6 (2015 est.) |
+| | 6.2 (2014 est.) |
+| | 6.2 (2013 est.) |
+| | 5.1 (2012 est.) |
+| | 4,860.7 (2011 est.) |
+
+| Energy | ZAMBIA |
+| --- | --- |
+| Electricity access: | population without electricity: 10,700,000 |
+| | electrification - total population: 26% |
+| | electrification - urban areas: 45% |
+| | electrification - rural areas: 14% (2013) |
+| Electricity - production: | 14 billion kWh (2014 est.) |
+| Electricity - consumption: | 11 billion kWh (2014 est.) |
+| Electricity - exports: | 1.3 billion kWh (2014 est.) |
+| Electricity - imports: | 13 million kWh (2014 est.) |
+| Electricity - installed generating capacity: | 2.3 million kW (2014 est.) |
+| Electricity - from fossil fuels: | 0.4% of total installed capacity (2012 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2012 est.) |
+| Electricity - from hydroelectric plants: | 99.6% of total installed capacity (2012 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2012 est.) |
+| Crude oil - production: | 0 bbl/day (2015 est.) |
+| Crude oil - exports: | 0 bbl/day (2013 est.) |
+| Crude oil - imports: | 12,120 bbl/day (2013 est.) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2016 es) |
+| Refined petroleum products - production: | 12,760 bbl/day (2013 est.) |
+| Refined petroleum products - consumption: | 19,000 bbl/day (2014 est.) |
+| Refined petroleum products - exports: | 966.2 bbl/day (2013 est.) |
+| Refined petroleum products - imports: | 8,490 bbl/day (2013 est.) |
+| Natural gas - production: | 0 cu m (2013 est.) |
+| Natural gas - consumption: | 0 cu m (2014 est.) |
+| Natural gas - exports: | 0 cu m (2013 est.) |
+| Natural gas - imports: | 0 cu m (2013 est.) |
+| Natural gas - proved reserves: | 0 cu m (1 January 2014 es) |
+| Carbon dioxide emissions from consumption of energy: | 3.5 million Mt (2013 est.) |
+
+| Communications | ZAMBIA |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 116,165 |
+| | subscriptions per 100 inhabitants: 1 (July 2015 est.) |
+| Telephones - mobile cellular: | total: 11.558 million |
+| | subscriptions per 100 inhabitants: 77 (July 2015 est.) |
+| Telephone system: | general assessment: among the best in sub-Saharan Africa |
+| | domestic: high-capacity microwave radio relay connects most larger towns and cities; several cellular telephone services in operation and network coverage is improving; domestic satellite system being installed to improve telephone service in rural areas; Internet service is widely available; very small aperture terminal (VSAT) networks are operated by private firms |
+| | international: country code - 260; satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Atlantic Ocean), 3 owned by Zamtel (2010) |
+| Broadcast media: | state-owned Zambia National Broadcasting Corporation (ZNBC) operates 3 TV stations, is the principal local-content provider, and owns about 45% of multi-channel Zambia shares; several private TV stations and multi-channel subscription TV services are available; ZNBC operates 4 radio networks; 64 private radio stations are available (most regionally) and relays of at least 2 international broadcasters — including BBC and Radio France International – are accessible in Lusaka and Kitwe (2015) |
+| Internet country code: | .zm |
+| Internet users: | total: 3.164 million |
+| | percent of population: 21% (July 2015 est.) |
+
+| Transportation | ZAMBIA |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 1 |
+| | inventory of registered aircraft operated by air carriers: 1 |
+| | annual passenger traffic on registered air carriers: 11,796 |
+| | annual freight traffic on registered air carriers: 79,092,826 mt-km (2015) |
+| Civil aircraft registration country code prefix: | 9J (2016) |
+| Airports: | 88 (2013) |
+| Airports - with paved runways: | total: 8 |
+| | over 3,047 m: 1 |
+| | 2,438 to 3,047 m: 3 |
+| | 1,524 to 2,437 m: 3 |
+| | 914 to 1,523 m: 1 (2013) |
+| Airports - with unpaved runways: | total: 80 |
+| | 2,438 to 3,047 m: 1 |
+| | 1,524 to 2,437 m: 5 |
+| | 914 to 1,523 m: 53 |
+| | under 914 m: 21 (2013) |
+| Pipelines: | oil 771 km (2013) |
+| Railways: | total: 3,126 km |
+| | narrow gauge: 3,126 km 1.067-m gauge |
+| | note: includes 1,860 km of the Tanzania-Zambia Railway Authority (TAZARA) (2014) |
+| Roadways: | total: 40,454 km |
+| | paved: 9,403 km |
+| | unpaved: 31,051 km (2005) |
+| Waterways: | 2,250 km (includes Lake Tanganyika and the Zambezi and Luapula rivers) (2010) |
+| Ports and terminals: | river port(s): Mpulungu (Zambezi) |
+
+| Military and Security | ZAMBIA |
+| --- | --- |
+| Military branches: | Zambian Defense Force (ZDF): Zambia Army, Zambia Air Force, Zambia National Service (support organization) (2015) |
+| Military service age and obligation: | national registration required at age 16; 18-25 years of age for male and female voluntary military service (16 years of age with parental consent); no conscription; Zambian citizenship required; grade 12 certification required; mandatory HIV testing on enlistment; mandatory retirement for officers at age 65 (Army, Air Force) (2012) |
+| Military expenditures: | 1.55% of GDP (2012) |
+| | 1.59% of GDP (2011) |
+| | 1.55% of GDP (2010) |
+
+| Transnational Issues | ZAMBIA |
+| --- | --- |
+| Disputes - international: | in 2004, Zimbabwe dropped objections to plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river |
+| Refugees and internally displaced persons: | refugees (country of origin): 19,293 (Democratic Republic of the Congo) (2015) |
+| Illicit drugs: | transshipment point for moderate amounts of methaqualone, small amounts of heroin, and cocaine bound for southern Africa and possibly Europe; a poorly developed financial infrastructure coupled with a government commitment to combating money laundering make it an unattractive venue for money launderers; major consumer of cannabis |

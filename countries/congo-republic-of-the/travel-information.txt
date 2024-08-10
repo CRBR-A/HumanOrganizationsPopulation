@@ -1,0 +1,27 @@
+Telephone Code: 242
+Local Emergency Phone: Local numbers only
+Climate: Tropical; rainy season (March to June); dry season (June to October); persistent high temperatures and humidity; particularly enervating climate astride the Equator
+Currency (Code): Cooperation Financiere en Afrique Central francs (Central African CFA franc, XAF)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, E
+Major Languages: French, French Lingala, Monokutuba, many local languages and dialects (of which Kikongo is the most widespread)
+Major Religions: Roman Catholic 33.1%, Awakening Churches/Christian Revival 22.3%, Protestant 19.9%, Salutiste 2.2%, Muslim 1.6%, Kimbanguist 1.5%
+Time Difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Brazzaville (includes St. Anne Basilica, National Museum of Congo); Lesio-Louna-Lefini Gorilla Reserve; Gorges of Diosso
+Major Sports: Soccer, rugby, basketball
+Cultural Practices: Beginning conversations by inquiring about health and family indicates respect, and precedes many conversations.
+Tipping Guidelines: Tip 10% in restaurants. Guides and resort staff usually expect tips, but taxi drivers do not need to be tipped.
+Souvenirs: Handmade beaded bracelets and precious metal jewelry, handwoven cloth, ebony tribal wood carvings, pottery and ceramic sculptures, woven baskets
+Traditional Cuisine: Poulet à la moambe --- a savory chicken dish made by combining chicken, spices, and palm butter to create a stew-like consistency
+
+---
+country: Congo, Republic of the
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Congo, Republic of the/travel-facts>
+license: public domain (U.S.)
+...

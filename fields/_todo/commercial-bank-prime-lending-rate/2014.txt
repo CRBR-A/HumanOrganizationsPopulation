@@ -1,0 +1,184 @@
+CIA - The World Factbook --  Commercial bank prime lending rate   
+
+Commercial bank prime lending rate compares a simple average of annualized interest rates commercial banks charge on new loans, denominated in the national currency, to their most credit-worthy customers.
+
+| Rank | country | (%) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Madagascar | 56.25 | 31 December 2012 est. |
+| 2 | Brazil | 36.64 | 31 December 2012 est. |
+| 3 | Malawi | 32.40 | 31 December 2012 est. |
+| 4 | Zimbabwe | 30.00 | 31 December 2012 est. |
+| 5 | Paraguay | 29.10 | 31 December 2012 est. |
+| 6 | Congo, Democratic Republic of the | 28.45 | 31 December 2012 est. |
+| 7 | Kyrgyzstan | 28.43 | 31 December 2012 est. |
+| 8 | Gambia, The | 28.00 | 31 December 2012 est. |
+| 9 | Guinea | 27.00 | 31 December 2012 est. |
+| 10 | Uganda | 26.31 | 31 December 2012 est. |
+| 11 | Sao Tome and Principe | 26.00 | 31 December 2012 est. |
+| 12 | Yemen | 23.00 | 31 December 2012 est. |
+| 13 | Ghana | 22.80 | 31 December 2012 est. |
+| 14 | Laos | 22.30 | 31 December 2012 est. |
+| 15 | Georgia | 22.08 | 31 December 2012 est. |
+| 16 | Sierra Leone | 21.00 | 31 December 2012 est. |
+| 17 | Belarus | 19.49 | 31 December 2012 est. |
+| 18 | Peru | 19.23 | 31 December 2012 est. |
+| 19 | Turkey | 19.00 | 31 December 2012 est. |
+| 20 | Azerbaijan | 18.50 | 31 December 2012 est. |
+| 21 | Honduras | 18.45 | 31 December 2012 est. |
+| 22 | Ukraine | 18.39 | 31 December 2012 est. |
+| 23 | Mongolia | 18.20 | 31 December 2012 est. |
+| 24 | Jamaica | 17.63 | 31 December 2012 est. |
+| 25 | Rwanda | 17.50 | 31 December 2012 est. |
+| 26 | Armenia | 17.23 | 31 December 2012 est. |
+| 27 | Tajikistan | 17.13 | 31 December 2012 est. |
+| 28 | Mauritania | 17.00 | 31 December 2012 est. |
+| 29 | Angola | 16.81 | 31 December 2012 est. |
+| 30 | Mozambique | 16.81 | 31 December 2012 est. |
+| 31 | Nigeria | 16.79 | 31 December 2012 est. |
+| 32 | Venezuela | 16.38 | 31 December 2012 est. |
+| 33 | Chad | 15.50 | 31 December 2012 est. |
+| 34 | Dominican Republic | 15.48 | 31 December 2012 est. |
+| 35 | Tanzania | 15.46 | 31 December 2012 est. |
+| 36 | Afghanistan | 15.15 | 31 December 2011 est. |
+| 37 | Central African Republic | 15.00 | 31 December 2012 est. |
+| 38 | Equatorial Guinea | 15.00 | 31 December 2012 est. |
+| 39 | Gabon | 15.00 | 31 December 2012 est. |
+| 40 | Guinea-Bissau | 15.00 | 31 December 2012 est. |
+| 41 | Serbia | 14.99 | 31 December 2012 est. |
+| 42 | Congo, Republic of the | 14.80 | 31 December 2012 est. |
+| 43 | Ethiopia | 14.50 | 31 December 2012 est. |
+| 44 | Sri Lanka | 14.40 | 31 December 2012 est. |
+| 45 | Micronesia, Federated States of | 14.35 | 31 December 2012 est. |
+| 46 | Burundi | 14.32 | 31 December 2012 est. |
+| 47 | Senegal | 14.30 | 31 December 2012 est. |
+| 48 | Argentina | 14.06 | 31 December 2012 est. |
+| 49 | Cameroon | 14.00 | 31 December 2012 est. |
+| 50 | Bhutan | 14.00 | 31 December 2012 est. |
+| 51 | Guyana | 13.86 | 31 December 2012 est. |
+| 52 | Kosovo | 13.70 | 31 December 2012 est. |
+| 53 | Liberia | 13.52 | 31 December 2012 est. |
+| 54 | Guatemala | 13.49 | 31 December 2012 est. |
+| 55 | Vietnam | 13.47 | 31 December 2012 est. |
+| 56 | Moldova | 13.34 | 31 December 2012 est. |
+| 57 | Burma | 13.00 | 31 December 2012 est. |
+| 58 | Bangladesh | 13.00 | 31 December 2012 est. |
+| 59 | Cambodia | 12.98 | 31 December 2012 est. |
+| 60 | Pakistan | 12.41 | 31 December 2012 est. |
+| 61 | Belize | 12.40 | 31 December 2012 est. |
+| 62 | Timor-Leste | 12.21 | 31 December 2012 est. |
+| 63 | Seychelles | 12.19 | 31 December 2012 est. |
+| 64 | Zambia | 12.15 | 31 December 2012 est. |
+| 65 | Djibouti | 12.00 | 31 December 2012 est. |
+| 66 | Egypt | 12.00 | 31 December 2012 est. |
+| 67 | Indonesia | 11.80 | 31 December 2012 est. |
+| 68 | Suriname | 11.73 | 31 December 2012 est. |
+| 69 | Syria | 11.70 | 31 December 2012 est. |
+| 70 | Romania | 11.49 | 31 December 2012 est. |
+| 71 | Solomon Islands | 11.28 | 31 December 2012 est. |
+| 72 | Uruguay | 11.20 | 31 December 2012 est. |
+| 73 | Botswana | 11.00 | 31 December 2012 est. |
+| 74 | Iran | 11.00 | 31 December 2012 est. |
+| 75 | Papua New Guinea | 10.82 | 31 December 2012 est. |
+| 76 | India | 10.63 | 31 December 2012 est. |
+| 77 | Bolivia | 10.60 | 31 December 2012 est. |
+| 78 | Comoros | 10.50 | 31 December 2012 est. |
+| 79 | Tonga | 10.36 | 31 December 2012 est. |
+| 80 | Albania | 10.28 | 31 December 2012 est. |
+| 81 | Maldives | 10.20 | 31 December 2011 est. |
+| 82 | Antigua and Barbuda | 10.13 | 31 December 2012 est. |
+| 83 | Lesotho | 10.12 | 31 December 2012 est. |
+| 84 | Chile | 10.06 | 31 December 2012 est. |
+| 85 | Cabo Verde | 9.92 | 31 December 2012 est. |
+| 86 | Samoa | 9.86 | 31 December 2012 est. |
+| 87 | Grenada | 9.75 | 31 December 2012 est. |
+| 88 | Bulgaria | 9.72 | 31 December 2012 est. |
+| 89 | Montenegro | 9.53 | 31 December 2010 est. |
+| 90 | Saint Lucia | 9.50 | 31 December 2012 est. |
+| 91 | Croatia | 9.48 | 31 December 2012 est. |
+| 92 | Saint Vincent and the Grenadines | 9.43 | 31 December 2012 est. |
+| 93 | Anguilla | 9.38 | 31 December 2012 est. |
+| 94 | Mali | 9.30 | 31 December 2012 est. |
+| 95 | Russia | 9.10 | 31 December 2012 est. |
+| 96 | Dominica | 9.03 | 31 December 2012 est. |
+| 97 | Hungary | 9.02 | 31 December 2012 est. |
+| 98 | Jordan | 8.95 | 31 December 2012 est. |
+| 99 | Haiti | 8.93 | 31 December 2012 est. |
+| 100 | South Africa | 8.75 | 31 December 2012 est. |
+| 101 | Swaziland | 8.75 | 31 December 2012 est. |
+| 102 | Poland | 8.73 | 31 December 2012 est. |
+| 103 | Saint Kitts and Nevis | 8.73 | 31 December 2012 est. |
+| 104 | Namibia | 8.70 | 31 December 2012 est. |
+| 105 | Barbados | 8.70 | 31 December 2012 est. |
+| 106 | Mauritius | 8.67 | 31 December 2012 est. |
+| 107 | Aruba | 8.40 | 31 December 2012 est. |
+| 108 | Iceland | 8.33 | 31 December 2012 est. |
+| 109 | Ecuador | 8.17 | 31 December 2012 est. |
+| 110 | Montserrat | 8.16 | 31 December 2012 est. |
+| 111 | Algeria | 8.00 | 31 December 2012 est. |
+| 112 | Nepal | 8.00 | 31 December 2012 est. |
+| 113 | Trinidad and Tobago | 7.70 | 31 December 2012 est. |
+| 114 | European Union | 7.52 | 31 December 2009 est. |
+| 115 | Greece | 7.33 | 31 December 2012 est. |
+| 116 | Lebanon | 7.25 | 31 December 2012 est. |
+| 117 | Thailand | 7.10 | 31 December 2012 est. |
+| 118 | Cyprus | 7.05 | 31 December 2012 est. |
+| 119 | Fiji | 7.00 | 31 December 2012 est. |
+| 120 | Australia | 6.98 | 31 December 2012 est. |
+| 121 | West Bank | 6.97 | 31 December 2012 est. |
+| 122 | Panama | 6.91 | 31 December 2012 est. |
+| 123 | Bosnia and Herzegovina | 6.80 | 31 December 2012 est. |
+| 124 | Macedonia | 6.80 | 31 December 2012 est. |
+| 125 | Saudi Arabia | 6.80 | 31 December 2012 est. |
+| 126 | Tunisia | 6.76 | 31 December 2011 est. |
+| 127 | Kazakhstan | 6.60 | 31 December 2012 est. |
+| 128 | Portugal | 6.37 | 31 December 2012 est. |
+| 129 | Morocco | 6.30 | 31 December 2012 est. |
+| 130 | Bahrain | 6.05 | 31 December 2012 est. |
+| 131 | Libya | 6.00 | 31 December 2012 est. |
+| 132 | China | 6.00 | 31 December 2012 est. |
+| 133 | Vanuatu | 6.00 | 31 December 2012 est. |
+| 134 | Iraq | 6.00 | 31 December 2012 est. |
+| 135 | New Zealand | 5.82 | 31 December 2012 est. |
+| 136 | Estonia | 5.75 | 31 December 2012 est. |
+| 137 | Slovenia | 5.70 | 31 December 2012 est. |
+| 138 | Philippines | 5.68 | 31 December 2012 est. |
+| 139 | Oman | 5.65 | 31 December 2012 est. |
+| 140 | El Salvador | 5.60 | 31 December 2012 est. |
+| 141 | Latvia | 5.52 | 31 December 2012 est. |
+| 142 | Brunei | 5.50 | 31 December 2012 est. |
+| 143 | Czech Republic | 5.41 | 31 December 2012 est. |
+| 144 | Korea, South | 5.39 | 31 December 2012 est. |
+| 145 | Singapore | 5.38 | 31 December 2012 est. |
+| 146 | San Marino | 5.38 | 31 December 2010 est. |
+| 147 | Qatar | 5.38 | 31 December 2012 est. |
+| 148 | Lithuania | 5.28 | 31 December 2012 est. |
+| 149 | Macau | 5.25 | 31 December 2012 est. |
+| 150 | Italy | 5.22 | 31 December 2012 est. |
+| 151 | Israel | 5.16 | 31 December 2012 est. |
+| 152 | Hong Kong | 5.00 | 31 December 2012 est. |
+| 153 | Kuwait | 5.00 | 31 December 2012 est. |
+| 154 | Bahamas, The | 4.75 | 31 December 2012 est. |
+| 155 | Mexico | 4.73 | 31 December 2012 est. |
+| 156 | Malaysia | 4.70 | 31 December 2012 est. |
+| 157 | United Kingdom | 4.22 | 31 December 2012 est. |
+| 158 | Niger | 4.00 | 31 December 2012 est. |
+| 159 | Cote d'Ivoire | 4.00 | 31 December 2012 est. |
+| 160 | Norway | 3.70 | 31 December 2012 est. |
+| 161 | Belgium | 3.62 | 31 December 2012 est. |
+| 162 | Denmark | 3.60 | 31 December 2012 est. |
+| 163 | Sweden | 3.57 | 31 December 2012 est. |
+| 164 | Ireland | 3.55 | 31 December 2012 est. |
+| 165 | Slovakia | 3.47 | 31 December 2012 est. |
+| 166 | France | 3.44 | 31 December 2012 est. |
+| 167 | United States | 3.25 | 31 December 2012 est. |
+| 168 | Germany | 3.07 | 31 December 2012 est. |
+| 169 | Canada | 3.00 | 31 December 2012 est. |
+| 170 | Taiwan | 2.88 | 31 December 2012 est. |
+| 171 | Switzerland | 2.69 | 31 December 2012 est. |
+| 172 | Netherlands | 2.65 | 31 December 2012 est. |
+| 173 | Austria | 2.50 | 31 December 2012 est. |
+| 174 | Finland | 2.06 | 31 December 2012 est. |
+| 175 | Japan | 1.48 | 31 December 2012 est. |
+| 176 | Malta | 0.75 | 31 December 2012 est. |
+
+

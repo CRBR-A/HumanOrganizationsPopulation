@@ -1,0 +1,9 @@
+| Precautions | Exercise increased caution while traveling to Moldova due to unresolved conflict between the breakaway region of Transnistria and the central government. Consult the link below for updates to travel advisories and statements on safety, security, local laws, and special circumstances in this country. |
+
+---
+country: Moldova
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Moldova/travel-facts>
+license: public domain (U.S.)
+...

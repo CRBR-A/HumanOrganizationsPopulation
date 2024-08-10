@@ -1,0 +1,180 @@
+CIA - The World Factbook --  Military expenditures   
+
+This entry gives spending on defense programs for the most recent year available as a percent of gross domestic product (GDP); the GDP is calculated on an exchange rate basis, i.e., not in terms of purchasing power parity (PPP).
+
+| Rank | country | (% of GDP) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Oman | 11.40 | 2005 est. |
+| 2 | Qatar | 10.00 | 2005 est. |
+| 3 | Saudi Arabia | 10.00 | 2005 est. |
+| 4 | Iraq | 8.60 | 2006 |
+| 5 | Jordan | 8.60 | 2006 |
+| 6 | Israel | 7.30 | 2006 |
+| 7 | Yemen | 6.60 | 2006 |
+| 8 | Eritrea | 6.30 | 2006 est. |
+| 9 | Macedonia | 6.00 | 2005 est. |
+| 10 | Burundi | 5.90 | 2006 est. |
+| 11 | Syria | 5.90 | 2005 est. |
+| 12 | Maldives | 5.50 | 2005 est. |
+| 13 | Mauritania | 5.50 | 2006 |
+| 14 | Kuwait | 5.30 | 2006 |
+| 15 | Turkey | 5.30 | 2005 est. |
+| 16 | Morocco | 5.00 | 2003 est. |
+| 17 | Singapore | 4.90 | 2005 est. |
+| 18 | Swaziland | 4.70 | 2006 |
+| 19 | Bahrain | 4.50 | 2006 |
+| 20 | Bosnia and Herzegovina | 4.50 | 2005 est. |
+| 21 | Brunei | 4.50 | 2006 |
+| 22 | China | 4.30 | 2006 |
+| 23 | Greece | 4.30 | 2005 est. |
+| 24 | United States | 4.06 | 2005 est. |
+| 25 | Libya | 3.90 | 2005 est. |
+| 26 | Russia | 3.90 | 2005 |
+| 27 | Cuba | 3.80 | 2006 est. |
+| 28 | Cyprus | 3.80 | 2005 est. |
+| 29 | Zimbabwe | 3.80 | 2006 |
+| 30 | Djibouti | 3.80 | 2006 |
+| 31 | Namibia | 3.70 | 2006 |
+| 32 | Angola | 3.60 | 2009 |
+| 33 | Uzbekistan | 3.50 | 2010 |
+| 34 | Colombia | 3.40 | 2005 est. |
+| 35 | Egypt | 3.40 | 2005 est. |
+| 36 | Turkmenistan | 3.40 | 2005 est. |
+| 37 | Algeria | 3.30 | 2006 |
+| 38 | Botswana | 3.30 | 2006 |
+| 39 | Guinea-Bissau | 3.10 | 2005 est. |
+| 40 | United Arab Emirates | 3.10 | 2005 est. |
+| 41 | Lebanon | 3.10 | 2005 est. |
+| 42 | Australia | 3.00 | 2009 |
+| 43 | Cambodia | 3.00 | 2005 est. |
+| 44 | Sudan | 3.00 | 2005 est. |
+| 45 | Solomon Islands | 3.00 | 2006 |
+| 46 | Pakistan | 3.00 | 2007 est. |
+| 47 | Indonesia | 3.00 | 2005 est. |
+| 48 | Rwanda | 2.90 | 2006 est. |
+| 49 | Armenia | 2.80 | 2010 |
+| 50 | Comoros | 2.80 | 2006 |
+| 51 | Kenya | 2.80 | 2006 |
+| 52 | Chile | 2.70 | 2006 |
+| 53 | Korea, South | 2.70 | 2006 |
+| 54 | Azerbaijan | 2.60 | 2005 est. |
+| 55 | Sri Lanka | 2.60 | 2006 |
+| 56 | Lesotho | 2.60 | 2006 |
+| 57 | France | 2.60 | 2005 est. |
+| 58 | Bulgaria | 2.60 | 2005 est. |
+| 59 | Congo, Democratic Republic of the | 2.50 | 2006 |
+| 60 | Iran | 2.50 | 2006 |
+| 61 | Vietnam | 2.50 | 2005 est. |
+| 62 | India | 2.50 | 2006 |
+| 63 | United Kingdom | 2.40 | 2005 est. |
+| 64 | Croatia | 2.39 | 2005 est. |
+| 65 | Portugal | 2.30 | 2005 est. |
+| 66 | Sierra Leone | 2.30 | 2006 |
+| 67 | Uganda | 2.20 | 2006 |
+| 68 | Taiwan | 2.20 | 2009 |
+| 69 | Burma | 2.10 | 2005 est. |
+| 70 | Malaysia | 2.03 | 2005 est. |
+| 71 | World | 2.00 | 2005 est. |
+| 72 | Seychelles | 2.00 | 2006 est. |
+| 73 | Estonia | 2.00 | 2005 est. |
+| 74 | Finland | 2.00 | 2005 est. |
+| 75 | Afghanistan | 1.90 | 2009 |
+| 76 | Romania | 1.90 | 2007 est. |
+| 77 | Georgia | 1.90 | 2010 est. |
+| 78 | Mali | 1.90 | 2006 |
+| 79 | Norway | 1.90 | 2005 est. |
+| 80 | Fiji | 1.90 | 2009 |
+| 81 | Slovakia | 1.87 | 2005 est. |
+| 82 | Guyana | 1.80 | 2006 |
+| 83 | Zambia | 1.80 | 2005 est. |
+| 84 | Thailand | 1.80 | 2005 est. |
+| 85 | Italy | 1.80 | 2005 est. |
+| 86 | Hungary | 1.75 | 2005 est. |
+| 87 | Poland | 1.71 | 2005 est. |
+| 88 | Brazil | 1.70 | 2009 |
+| 89 | Chad | 1.70 | 2009 |
+| 90 | Ghana | 1.70 | 2009 |
+| 91 | Slovenia | 1.70 | 2005 est. |
+| 92 | South Africa | 1.70 | 2006 |
+| 93 | Nepal | 1.60 | 2006 |
+| 94 | Netherlands | 1.60 | 2005 est. |
+| 95 | Uruguay | 1.60 | 2006 |
+| 96 | Togo | 1.60 | 2005 est. |
+| 97 | Cote d'Ivoire | 1.50 | 2009 |
+| 98 | Sweden | 1.50 | 2005 est. |
+| 99 | Tajikistan | 1.50 | 2010 |
+| 100 | Peru | 1.50 | 2006 |
+| 101 | Nigeria | 1.50 | 2006 |
+| 102 | Germany | 1.50 | 2005 est. |
+| 103 | Albania | 1.49 | 2005 est. |
+| 104 | Czech Republic | 1.46 | 2007 est. |
+| 105 | Belarus | 1.40 | 2005 est. |
+| 106 | Mongolia | 1.40 | 2006 |
+| 107 | Belize | 1.40 | 2009 |
+| 108 | Papua New Guinea | 1.40 | 2005 est. |
+| 109 | Tunisia | 1.40 | 2006 |
+| 110 | Ukraine | 1.40 | 2005 est. |
+| 111 | Senegal | 1.40 | 2005 est. |
+| 112 | Bangladesh | 1.30 | 2009 |
+| 113 | Cameroon | 1.30 | 2009 |
+| 114 | Denmark | 1.30 | 2007 est. |
+| 115 | Bolivia | 1.30 | 2009 |
+| 116 | Liberia | 1.30 | 2006 est. |
+| 117 | Niger | 1.30 | 2006 |
+| 118 | Malawi | 1.30 | 2006 |
+| 119 | Belgium | 1.30 | 2005 est. |
+| 120 | Burkina Faso | 1.20 | 2006 |
+| 121 | Latvia | 1.20 | 2005 est. |
+| 122 | Spain | 1.20 | 2005 est. |
+| 123 | Venezuela | 1.20 | 2005 est. |
+| 124 | Ethiopia | 1.20 | 2009 |
+| 125 | Lithuania | 1.20 | 2007 est. |
+| 126 | Canada | 1.10 | 2005 est. |
+| 127 | Guinea | 1.10 | 2009 |
+| 128 | Kazakhstan | 1.10 | 2010 |
+| 129 | Benin | 1.00 | 2009 |
+| 130 | Switzerland | 1.00 | 2005 est. |
+| 131 | Paraguay | 1.00 | 2006 est. |
+| 132 | Panama | 1.00 | 2006 |
+| 133 | New Zealand | 1.00 | 2005 est. |
+| 134 | Madagascar | 1.00 | 2006 |
+| 135 | Bhutan | 1.00 | 2005 est. |
+| 136 | Central African Republic | 0.90 | 2009 |
+| 137 | Congo, Republic of the | 0.90 | 2009 |
+| 138 | Ecuador | 0.90 | 2009 |
+| 139 | Gambia, The | 0.90 | 2009 |
+| 140 | Ireland | 0.90 | 2005 est. |
+| 141 | Tonga | 0.90 | 2006 est. |
+| 142 | Somalia | 0.90 | 2005 est. |
+| 143 | Philippines | 0.90 | 2005 est. |
+| 144 | Luxembourg | 0.90 | 2005 est. |
+| 145 | Gabon | 0.90 | 2009 |
+| 146 | Argentina | 0.80 | 2009 |
+| 147 | Sao Tome and Principe | 0.80 | 2006 |
+| 148 | Japan | 0.80 | 2006 |
+| 149 | Mozambique | 0.80 | 2006 |
+| 150 | Austria | 0.80 | 2009 |
+| 151 | Barbados | 0.80 | 2009 |
+| 152 | Bahamas, The | 0.70 | 2009 |
+| 153 | Malta | 0.70 | 2006 est. |
+| 154 | Dominican Republic | 0.70 | 2009 |
+| 155 | Costa Rica | 0.60 | 2009 |
+| 156 | Honduras | 0.60 | 2006 est. |
+| 157 | Suriname | 0.60 | 2006 est. |
+| 158 | Nicaragua | 0.60 | 2006 |
+| 159 | Jamaica | 0.60 | 2006 est. |
+| 160 | El Salvador | 0.60 | 2009 |
+| 161 | Antigua and Barbuda | 0.50 | 2009 |
+| 162 | Kyrgyzstan | 0.50 | 2009 |
+| 163 | Mexico | 0.50 | 2006 est. |
+| 164 | Laos | 0.50 | 2006 |
+| 165 | Cape Verde | 0.50 | 2009 |
+| 166 | Guatemala | 0.40 | 2009 |
+| 167 | Haiti | 0.40 | 2006 |
+| 168 | Moldova | 0.40 | 2005 est. |
+| 169 | Mauritius | 0.30 | 2006 est. |
+| 170 | Trinidad and Tobago | 0.30 | 2006 |
+| 171 | Tanzania | 0.20 | 2005 est. |
+| 172 | Bermuda | 0.11 | 2005 est. |
+| 173 | Equatorial Guinea | 0.10 | 2009 |
+| 174 | Iceland | 0.00 | 2005 est. |

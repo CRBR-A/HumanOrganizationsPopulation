@@ -1,0 +1,29 @@
+Telephone Code: 1-473
+Local Emergency Phone - Ambulance: 434
+Local Emergency Phone - Fire: 112
+Local Emergency Phone - Police: 911
+Climate: Tropical; tempered by northeast trade winds
+Currency (Code): East Caribbean dollars (XCD)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): G
+Major Languages: English, French patois
+Major Religions: Protestant 49.2%, Roman Catholic 36%, Jehovah's Witness 1.2%, Rastafarian 1.2%
+Time Difference: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)
+Potable Water: Yes, but some opt for bottled water
+International Driving Permit: Suggested; additionally, traveler will need to present their US driver's license & IDP to local police to pay a special registration fee
+Road Driving Side: Left
+Tourist Destinations: Grand Anse Beach; Saint George's; Underwater Sculpture Park; Fort Frederick; Fort George; Grand Etang and Annandale Forest Reserves; Belmont Estate
+Major Sports: Cricket, soccer
+Cultural Practices: While it is normal to be late for social or personal meetings, Grenadians expect promptness for business.
+Tipping Guidelines: Always examine the bill to see if a service charge has already been included. If not, leave 15% as a tip. Bellhops receive $1 (USD) per bag to carry luggage to your room. Taxi drivers generally receive a 10-15% tip on a fare or tour.
+Souvenirs: Leather goods, handmade jewelry, rum, spices and homemade jams and jellies, straw goods, batik fabric items, natural beauty products
+Traditional Cuisine: Oil down --- a stew of breadfruit, salted meat, chicken, dumplings, callaloo (a vegetable), and other vegetables stewed in coconut milk, herbs, and spices; Pupusas - corn tortillas stuffed with a variety of fillings including refried beans, cheese, and/or pork and then fried; traditionally served with salsa and cabbage
+
+---
+country: Grenada
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Grenada/travel-facts>
+license: public domain (U.S.)
+...

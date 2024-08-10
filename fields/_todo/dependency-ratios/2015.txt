@@ -1,0 +1,794 @@
+CIA - The World Factbook --  Dependency ratios   
+
+| Rank | country | Dependency ratios | Date of Information |
+| --- | --- | --- | --- |
+| 1 | United Arab Emirates | 182.80 | 2014 est. |
+| 2 | Niger | 111.60 | 2014 est. |
+| 3 | Niger | 106.00 | 2014 est. |
+| 4 | Uganda | 102.40 | 2014 est. |
+| 5 | Chad | 102.20 | 2014 est. |
+| 6 | Mali | 100.90 | 2014 est. |
+| 7 | Somalia | 99.10 | 2014 est. |
+| 8 | Angola | 98.70 | 2014 est. |
+| 9 | Uganda | 97.50 | 2014 est. |
+| 10 | Chad | 97.40 | 2014 est. |
+| 11 | Zambia | 96.40 | 2014 est. |
+| 12 | Mali | 95.40 | 2014 est. |
+| 13 | Mozambique | 94.50 | 2014 est. |
+| 14 | Timor-Leste | 94.30 | 2014 est. |
+| 15 | Angola | 93.90 | 2014 est. |
+| 16 | Somalia | 93.40 | 2014 est. |
+| 17 | Malawi | 93.30 | 2014 est. |
+| 18 | Afghanistan | 93.10 | 2014 est. |
+| 19 | Gambia, The | 93.00 | 2014 est. |
+| 20 | Tanzania | 92.40 | 2014 est. |
+| 21 | Burkina Faso | 91.30 | 2014 est. |
+| 22 | Zambia | 91.30 | 2014 est. |
+| 23 | Congo, Democratic Republic of the | 91.10 | 2014 est. |
+| 24 | Burundi | 89.20 | 2014 est. |
+| 25 | Nigeria | 89.20 | 2014 est. |
+| 26 | Gambia, The | 88.40 | 2014 est. |
+| 27 | Afghanistan | 88.40 | 2014 est. |
+| 28 | Mozambique | 88.10 | 2014 est. |
+| 29 | Timor-Leste | 87.80 | 2014 est. |
+| 30 | Qatar | 87.40 | 2014 est. |
+| 31 | Malawi | 87.00 | 2014 est. |
+| 32 | Burkina Faso | 86.60 | 2014 est. |
+| 33 | Senegal | 86.50 | 2014 est. |
+| 34 | Tanzania | 86.10 | 2014 est. |
+| 35 | Congo, Democratic Republic of the | 85.60 | 2014 est. |
+| 36 | Cameroon | 85.10 | 2014 est. |
+| 37 | Congo, Republic of the | 85.00 | 2014 est. |
+| 38 | Burundi | 84.70 | 2014 est. |
+| 39 | Nigeria | 84.00 | 2014 est. |
+| 40 | Liberia | 83.90 | 2014 est. |
+| 41 | Ethiopia | 83.50 | 2014 est. |
+| 42 | Eritrea | 83.30 | 2014 est. |
+| 43 | Benin | 83.00 | 2014 est. |
+| 44 | South Sudan | 82.80 | 2014 est. |
+| 45 | Guinea | 82.40 | 2014 est. |
+| 46 | Madagascar | 81.40 | 2014 est. |
+| 47 | Sao Tome and Principe | 81.30 | 2014 est. |
+| 48 | Kenya | 81.00 | 2014 est. |
+| 49 | Comoros | 81.00 | 2014 est. |
+| 50 | Senegal | 81.00 | 2014 est. |
+| 51 | Guatemala | 80.70 | 2014 est. |
+| 52 | Rwanda | 80.20 | 2014 est. |
+| 53 | Togo | 80.10 | 2014 est. |
+| 54 | Cote d'Ivoire | 79.70 | 2014 est. |
+| 55 | Guinea-Bissau | 79.10 | 2014 est. |
+| 56 | Eritrea | 79.10 | 2014 est. |
+| 57 | Cameroon | 79.10 | 2014 est. |
+| 58 | Sudan | 79.00 | 2014 est. |
+| 59 | Congo, Republic of the | 78.70 | 2014 est. |
+| 60 | Liberia | 78.40 | 2014 est. |
+| 61 | Sierra Leone | 78.30 | 2014 est. |
+| 62 | Benin | 77.70 | 2014 est. |
+| 63 | Ethiopia | 77.20 | 2014 est. |
+| 64 | Gabon | 77.00 | 2014 est. |
+| 65 | Guinea | 76.70 | 2014 est. |
+| 66 | Central African Republic | 76.50 | 2014 est. |
+| 67 | South Sudan | 76.40 | 2014 est. |
+| 68 | Solomon Islands | 76.30 | 2014 est. |
+| 69 | Madagascar | 76.30 | 2014 est. |
+| 70 | Kenya | 76.10 | 2014 est. |
+| 71 | Comoros | 75.90 | 2014 est. |
+| 72 | Rwanda | 75.80 | 2014 est. |
+| 73 | Mauritania | 75.70 | 2014 est. |
+| 74 | Sao Tome and Principe | 75.30 | 2014 est. |
+| 75 | Tonga | 75.20 | 2014 est. |
+| 76 | Togo | 75.20 | 2014 est. |
+| 77 | Iraq | 74.90 | 2014 est. |
+| 78 | Zimbabwe | 74.80 | 2014 est. |
+| 79 | Samoa | 74.40 | 2014 est. |
+| 80 | Yemen | 74.10 | 2014 est. |
+| 81 | West Bank | 74.10 | 2014 est. |
+| 82 | Gaza Strip | 74.10 | 2014 est. |
+| 83 | Cote d'Ivoire | 74.00 | 2014 est. |
+| 84 | Guinea-Bissau | 73.90 | 2014 est. |
+| 85 | Sierra Leone | 73.50 | 2014 est. |
+| 86 | Sudan | 73.10 | 2014 est. |
+| 87 | Guatemala | 72.40 | 2014 est. |
+| 88 | Ghana | 71.60 | 2014 est. |
+| 89 | Equatorial Guinea | 70.80 | 2014 est. |
+| 90 | Solomon Islands | 70.30 | 2014 est. |
+| 91 | Mauritania | 70.10 | 2014 est. |
+| 92 | Swaziland | 69.70 | 2014 est. |
+| 93 | Central African Republic | 69.70 | 2014 est. |
+| 94 | Iraq | 69.30 | 2014 est. |
+| 95 | Yemen | 69.00 | 2014 est. |
+| 96 | West Bank | 68.80 | 2014 est. |
+| 97 | Gaza Strip | 68.80 | 2014 est. |
+| 98 | Papua New Guinea | 68.20 | 2014 est. |
+| 99 | Zimbabwe | 68.10 | 2014 est. |
+| 100 | Gabon | 68.00 | 2014 est. |
+| 101 | Vanuatu | 67.90 | 2014 est. |
+| 102 | Lesotho | 67.10 | 2014 est. |
+| 103 | Equatorial Guinea | 66.10 | 2014 est. |
+| 104 | Ghana | 65.60 | 2014 est. |
+| 105 | Samoa | 65.40 | 2014 est. |
+| 106 | Bolivia | 65.30 | 2014 est. |
+| 107 | Tonga | 64.90 | 2014 est. |
+| 108 | Honduras | 64.70 | 2014 est. |
+| 109 | Tajikistan | 64.30 | 2014 est. |
+| 110 | Namibia | 64.20 | 2014 est. |
+| 111 | Haiti | 64.20 | 2014 est. |
+| 112 | Nepal | 64.00 | 2014 est. |
+| 113 | Syria | 63.90 | 2014 est. |
+| 114 | Swaziland | 63.70 | 2014 est. |
+| 115 | Guyana | 63.50 | 2014 est. |
+| 116 | Japan | 63.30 | 2014 est. |
+| 117 | Micronesia, Federated States of | 63.30 | 2014 est. |
+| 118 | Papua New Guinea | 63.20 | 2014 est. |
+| 119 | Israel | 63.10 | 2014 est. |
+| 120 | Laos | 62.60 | 2014 est. |
+| 121 | Vanuatu | 61.30 | 2014 est. |
+| 122 | Philippines | 60.70 | 2014 est. |
+| 123 | Paraguay | 60.50 | 2014 est. |
+| 124 | Djibouti | 60.50 | 2014 est. |
+| 125 | Pakistan | 60.40 | 2014 est. |
+| 126 | Virgin Islands | 60.20 | 2014 est. |
+| 127 | Lesotho | 60.10 | 2014 est. |
+| 128 | Belize | 59.70 | 2014 est. |
+| 129 | Jordan | 59.40 | 2014 est. |
+| 130 | Tajikistan | 59.10 | 2014 est. |
+| 131 | Nicaragua | 58.80 | 2014 est. |
+| 132 | Botswana | 58.60 | 2014 est. |
+| 133 | Namibia | 58.30 | 2014 est. |
+| 134 | Egypt | 58.30 | 2014 est. |
+| 135 | Sweden | 58.30 | 2014 est. |
+| 136 | Guyana | 57.70 | 2014 est. |
+| 137 | El Salvador | 57.60 | 2014 est. |
+| 138 | Cambodia | 57.60 | 2014 est. |
+| 139 | France | 57.40 | 2014 est. |
+| 140 | Honduras | 57.20 | 2014 est. |
+| 141 | Dominican Republic | 57.10 | 2014 est. |
+| 142 | Bolivia | 57.00 | 2014 est. |
+| 143 | Syria | 57.00 | 2014 est. |
+| 144 | Ecuador | 56.90 | 2014 est. |
+| 145 | Finland | 56.80 | 2014 est. |
+| 146 | Haiti | 56.70 | 2014 est. |
+| 147 | Laos | 56.40 | 2014 est. |
+| 148 | Micronesia, Federated States of | 56.40 | 2014 est. |
+| 149 | Uruguay | 55.90 | 2014 est. |
+| 150 | Denmark | 55.60 | 2014 est. |
+| 151 | Nepal | 55.40 | 2014 est. |
+| 152 | Kiribati | 55.30 | 2014 est. |
+| 153 | Italy | 55.00 | 2014 est. |
+| 154 | United Kingdom | 54.80 | 2014 est. |
+| 155 | Belgium | 54.80 | 2014 est. |
+| 156 | Panama | 54.70 | 2014 est. |
+| 157 | Philippines | 54.30 | 2014 est. |
+| 158 | Argentina | 54.10 | 2014 est. |
+| 159 | Djibouti | 54.00 | 2014 est. |
+| 160 | South Africa | 53.90 | 2014 est. |
+| 161 | Peru | 53.70 | 2014 est. |
+| 162 | Jordan | 53.70 | 2014 est. |
+| 163 | Pakistan | 53.40 | 2014 est. |
+| 164 | Belize | 53.30 | 2014 est. |
+| 165 | Kyrgyzstan | 53.20 | 2014 est. |
+| 166 | Norway | 53.20 | 2014 est. |
+| 167 | Venezuela | 52.90 | 2014 est. |
+| 168 | Greece | 52.90 | 2014 est. |
+| 169 | Netherlands | 52.80 | 2014 est. |
+| 170 | Botswana | 52.80 | 2014 est. |
+| 171 | Mexico | 52.70 | 2014 est. |
+| 172 | Jamaica | 52.60 | 2014 est. |
+| 173 | Fiji | 52.50 | 2014 est. |
+| 174 | New Zealand | 52.50 | 2014 est. |
+| 175 | Libya | 52.20 | 2014 est. |
+| 176 | Bangladesh | 52.20 | 2014 est. |
+| 177 | Guam | 52.10 | 2014 est. |
+| 178 | Germany | 52.10 | 2014 est. |
+| 179 | Estonia | 52.00 | 2014 est. |
+| 180 | India | 51.80 | 2014 est. |
+| 181 | Cabo Verde | 51.70 | 2014 est. |
+| 182 | Paraguay | 51.50 | 2014 est. |
+| 183 | Nicaragua | 51.40 | 2014 est. |
+| 184 | Ireland | 51.40 | 2014 est. |
+| 185 | Sri Lanka | 51.30 | 2014 est. |
+| 186 | Australia | 51.00 | 2014 est. |
+| 187 | United States | 51.00 | 2014 est. |
+| 188 | Indonesia | 51.00 | 2014 est. |
+| 189 | Latvia | 51.00 | 2014 est. |
+| 190 | Grenada | 50.90 | 2014 est. |
+| 191 | Iceland | 50.90 | 2014 est. |
+| 192 | Colombia | 50.90 | 2014 est. |
+| 193 | Portugal | 50.80 | 2014 est. |
+| 194 | Suriname | 50.70 | 2014 est. |
+| 195 | Curacao | 50.60 | 2014 est. |
+| 196 | Bulgaria | 50.30 | 2014 est. |
+| 197 | Spain | 50.30 | 2014 est. |
+| 198 | Puerto Rico | 50.10 | 2014 est. |
+| 199 | Croatia | 50.00 | 2014 est. |
+| 200 | Maldives | 50.00 | 2014 est. |
+| 201 | Morocco | 49.10 | 2014 est. |
+| 202 | Egypt | 49.10 | 2014 est. |
+| 203 | Austria | 49.10 | 2014 est. |
+| 204 | Cambodia | 49.00 | 2014 est. |
+| 205 | Turkey | 48.90 | 2014 est. |
+| 206 | Kazakhstan | 48.70 | 2014 est. |
+| 207 | Kiribati | 48.70 | 2014 est. |
+| 208 | Georgia | 48.60 | 2014 est. |
+| 209 | Switzerland | 48.50 | 2014 est. |
+| 210 | Algeria | 48.50 | 2014 est. |
+| 211 | Uzbekistan | 48.30 | 2014 est. |
+| 212 | Turkmenistan | 48.20 | 2014 est. |
+| 213 | Bhutan | 48.10 | 2014 est. |
+| 214 | New Caledonia | 48.10 | 2014 est. |
+| 215 | Saint Lucia | 48.00 | 2014 est. |
+| 216 | Czech Republic | 47.70 | 2014 est. |
+| 217 | Hungary | 47.40 | 2014 est. |
+| 218 | Canada | 47.20 | 2014 est. |
+| 219 | Saint Vincent and the Grenadines | 47.10 | 2014 est. |
+| 220 | Dominican Republic | 47.00 | 2014 est. |
+| 221 | Kyrgyzstan | 46.90 | 2014 est. |
+| 222 | Montenegro | 46.80 | 2014 est. |
+| 223 | Slovenia | 46.80 | 2014 est. |
+| 224 | Luxembourg | 46.60 | 2014 est. |
+| 225 | Ecuador | 46.50 | 2014 est. |
+| 226 | Antigua and Barbuda | 46.40 | 2014 est. |
+| 227 | Guernsey | 46.40 | 2014 est. |
+| 228 | Jersey | 46.40 | 2014 est. |
+| 229 | El Salvador | 46.20 | 2014 est. |
+| 230 | Saudi Arabia | 46.10 | 2014 est. |
+| 231 | Brazil | 45.80 | 2014 est. |
+| 232 | Malta | 45.70 | 2014 est. |
+| 233 | Malaysia | 45.50 | 2014 est. |
+| 234 | Israel | 45.50 | 2014 est. |
+| 235 | Mongolia | 45.40 | 2014 est. |
+| 236 | South Africa | 45.20 | 2014 est. |
+| 237 | Chile | 45.10 | 2014 est. |
+| 238 | Lithuania | 44.90 | 2014 est. |
+| 239 | Bangladesh | 44.90 | 2014 est. |
+| 240 | Albania | 44.90 | 2014 est. |
+| 241 | Korea, North | 44.90 | 2014 est. |
+| 242 | Bosnia and Herzegovina | 44.80 | 2014 est. |
+| 243 | Libya | 44.80 | 2014 est. |
+| 244 | Serbia | 44.30 | 2014 est. |
+| 245 | Aruba | 44.10 | 2014 est. |
+| 246 | Armenia | 44.10 | 2014 est. |
+| 247 | Fiji | 43.90 | 2014 est. |
+| 248 | Tunisia | 43.90 | 2014 est. |
+| 249 | Cabo Verde | 43.80 | 2014 est. |
+| 250 | Peru | 43.60 | 2014 est. |
+| 251 | India | 43.60 | 2014 est. |
+| 252 | Costa Rica | 43.60 | 2014 est. |
+| 253 | Romania | 43.60 | 2014 est. |
+| 254 | Venezuela | 43.20 | 2014 est. |
+| 255 | Panama | 43.20 | 2014 est. |
+| 256 | Trinidad and Tobago | 43.10 | 2014 est. |
+| 257 | Indonesia | 43.00 | 2014 est. |
+| 258 | Seychelles | 42.80 | 2014 est. |
+| 259 | Maldives | 42.70 | 2014 est. |
+| 260 | Mexico | 42.70 | 2014 est. |
+| 261 | Poland | 42.60 | 2014 est. |
+| 262 | Barbados | 42.60 | 2014 est. |
+| 263 | Burma | 42.50 | 2014 est. |
+| 264 | French Polynesia | 42.50 | 2014 est. |
+| 265 | Turkmenistan | 42.10 | 2014 est. |
+| 266 | Japan | 42.10 | 2014 est. |
+| 267 | Uzbekistan | 42.00 | 2014 est. |
+| 268 | Ukraine | 42.00 | 2014 est. |
+| 269 | Cuba | 41.90 | 2014 est. |
+| 270 | Brunei | 41.80 | 2014 est. |
+| 271 | Saudi Arabia | 41.80 | 2014 est. |
+| 272 | Algeria | 41.60 | 2014 est. |
+| 273 | Morocco | 41.60 | 2014 est. |
+| 274 | Iran | 41.50 | 2014 est. |
+| 275 | Belarus | 41.50 | 2014 est. |
+| 276 | Cyprus | 41.40 | 2014 est. |
+| 277 | Vietnam | 41.30 | 2014 est. |
+| 278 | Russia | 41.30 | 2014 est. |
+| 279 | Colombia | 41.20 | 2014 est. |
+| 280 | Macedonia | 41.20 | 2014 est. |
+| 281 | Western Sahara | 41.00 | 2014 est. |
+| 282 | Bahamas, The | 40.90 | 2014 est. |
+| 283 | Bhutan | 40.80 | 2014 est. |
+| 284 | Suriname | 40.60 | 2014 est. |
+| 285 | Lebanon | 40.60 | 2014 est. |
+| 286 | Jamaica | 40.50 | 2014 est. |
+| 287 | Grenada | 40.20 | 2014 est. |
+| 288 | Mongolia | 39.90 | 2014 est. |
+| 289 | Mauritius | 39.80 | 2014 est. |
+| 290 | Slovakia | 39.60 | 2014 est. |
+| 291 | Guam | 39.30 | 2014 est. |
+| 292 | Moldova | 39.30 | 2014 est. |
+| 293 | Kazakhstan | 38.70 | 2014 est. |
+| 294 | Thailand | 38.60 | 2014 est. |
+| 295 | Azerbaijan | 38.40 | 2014 est. |
+| 296 | Sri Lanka | 38.10 | 2014 est. |
+| 297 | Turkey | 37.70 | 2014 est. |
+| 298 | China | 37.40 | 2014 est. |
+| 299 | Malaysia | 37.40 | 2014 est. |
+| 300 | Kuwait | 37.10 | 2014 est. |
+| 301 | Western Sahara | 37.10 | 2014 est. |
+| 302 | Korea, South | 37.10 | 2014 est. |
+| 303 | Argentina | 37.00 | 2014 est. |
+| 304 | Saint Vincent and the Grenadines | 36.60 | 2014 est. |
+| 305 | Antigua and Barbuda | 35.90 | 2014 est. |
+| 306 | Singapore | 35.80 | 2014 est. |
+| 307 | Hong Kong | 35.50 | 2014 est. |
+| 308 | Brunei | 35.30 | 2014 est. |
+| 309 | Burma | 35.00 | 2014 est. |
+| 310 | Saint Lucia | 34.90 | 2014 est. |
+| 311 | Brazil | 34.40 | 2014 est. |
+| 312 | Oman | 34.40 | 2014 est. |
+| 313 | Iran | 33.90 | 2014 est. |
+| 314 | Kuwait | 33.80 | 2014 est. |
+| 315 | Uruguay | 33.80 | 2014 est. |
+| 316 | Tunisia | 33.40 | 2014 est. |
+| 317 | Bahrain | 33.30 | 2014 est. |
+| 318 | Virgin Islands | 33.30 | 2014 est. |
+| 319 | Italy | 33.30 | 2014 est. |
+| 320 | New Caledonia | 33.20 | 2014 est. |
+| 321 | Costa Rica | 33.20 | 2014 est. |
+| 322 | Ireland | 32.70 | 2014 est. |
+| 323 | Germany | 32.30 | 2014 est. |
+| 324 | French Polynesia | 32.00 | 2014 est. |
+| 325 | Vietnam | 31.90 | 2014 est. |
+| 326 | Seychelles | 31.70 | 2014 est. |
+| 327 | Korea, North | 31.10 | 2014 est. |
+| 328 | Iceland | 31.10 | 2014 est. |
+| 329 | Sweden | 31.10 | 2014 est. |
+| 330 | Finland | 31.00 | 2014 est. |
+| 331 | Bahrain | 30.90 | 2014 est. |
+| 332 | Azerbaijan | 30.70 | 2014 est. |
+| 333 | New Zealand | 30.70 | 2014 est. |
+| 334 | Greece | 30.50 | 2014 est. |
+| 335 | Oman | 30.40 | 2014 est. |
+| 336 | Kuwait | 30.40 | 2014 est. |
+| 337 | Chile | 30.20 | 2014 est. |
+| 338 | Trinidad and Tobago | 29.80 | 2014 est. |
+| 339 | Bahamas, The | 29.60 | 2014 est. |
+| 340 | Bulgaria | 29.50 | 2014 est. |
+| 341 | United States | 29.40 | 2014 est. |
+| 342 | Armenia | 29.10 | 2014 est. |
+| 343 | Albania | 29.00 | 2014 est. |
+| 344 | Curacao | 29.00 | 2014 est. |
+| 345 | Australia | 28.90 | 2014 est. |
+| 346 | Puerto Rico | 28.80 | 2014 est. |
+| 347 | France | 28.80 | 2014 est. |
+| 348 | Portugal | 28.70 | 2014 est. |
+| 349 | France | 28.60 | 2014 est. |
+| 350 | Norway | 28.50 | 2014 est. |
+| 351 | Denmark | 28.50 | 2014 est. |
+| 352 | Belgium | 28.40 | 2014 est. |
+| 353 | Lebanon | 28.30 | 2014 est. |
+| 354 | Latvia | 28.10 | 2014 est. |
+| 355 | Croatia | 27.90 | 2014 est. |
+| 356 | Bahrain | 27.90 | 2014 est. |
+| 357 | Estonia | 27.70 | 2014 est. |
+| 358 | Austria | 27.60 | 2014 est. |
+| 359 | United Kingdom | 27.60 | 2014 est. |
+| 360 | United Kingdom | 27.20 | 2014 est. |
+| 361 | Aruba | 27.10 | 2014 est. |
+| 362 | Sweden | 27.10 | 2014 est. |
+| 363 | Montenegro | 27.10 | 2014 est. |
+| 364 | Mauritius | 27.10 | 2014 est. |
+| 365 | Spain | 27.10 | 2014 est. |
+| 366 | Denmark | 27.10 | 2014 est. |
+| 367 | Georgia | 27.00 | 2014 est. |
+| 368 | Virgin Islands | 26.90 | 2014 est. |
+| 369 | Netherlands | 26.80 | 2014 est. |
+| 370 | Barbados | 26.80 | 2014 est. |
+| 371 | Switzerland | 26.70 | 2014 est. |
+| 372 | Macau | 26.60 | 2014 est. |
+| 373 | Belgium | 26.40 | 2014 est. |
+| 374 | Western Sahara | 26.10 | 2014 est. |
+| 375 | Netherlands | 25.90 | 2014 est. |
+| 376 | Finland | 25.80 | 2014 est. |
+| 377 | Slovenia | 25.70 | 2014 est. |
+| 378 | Luxembourg | 25.60 | 2014 est. |
+| 379 | Hungary | 25.60 | 2014 est. |
+| 380 | Czech Republic | 25.40 | 2014 est. |
+| 381 | Oman | 25.40 | 2014 est. |
+| 382 | China | 24.90 | 2014 est. |
+| 383 | Malta | 24.80 | 2014 est. |
+| 384 | Norway | 24.70 | 2014 est. |
+| 385 | Thailand | 24.70 | 2014 est. |
+| 386 | Jersey | 24.70 | 2014 est. |
+| 387 | Guernsey | 24.70 | 2014 est. |
+| 388 | Estonia | 24.30 | 2014 est. |
+| 389 | Canada | 24.20 | 2014 est. |
+| 390 | Cyprus | 23.70 | 2014 est. |
+| 391 | Eritrea | 23.70 | 2014 est. |
+| 392 | Saudi Arabia | 23.50 | 2014 est. |
+| 393 | Macedonia | 23.40 | 2014 est. |
+| 394 | Moldova | 23.20 | 2014 est. |
+| 395 | Serbia | 23.20 | 2014 est. |
+| 396 | Spain | 23.20 | 2014 est. |
+| 397 | Canada | 22.90 | 2014 est. |
+| 398 | Latvia | 22.90 | 2014 est. |
+| 399 | Russia | 22.80 | 2014 est. |
+| 400 | Rwanda | 22.80 | 2014 est. |
+| 401 | Lithuania | 22.70 | 2014 est. |
+| 402 | Bosnia and Herzegovina | 22.70 | 2014 est. |
+| 403 | Cuba | 22.60 | 2014 est. |
+| 404 | Greece | 22.40 | 2014 est. |
+| 405 | Czech Republic | 22.40 | 2014 est. |
+| 406 | Burundi | 22.20 | 2014 est. |
+| 407 | Australia | 22.10 | 2014 est. |
+| 408 | Uruguay | 22.10 | 2014 est. |
+| 409 | Portugal | 22.10 | 2014 est. |
+| 410 | Lithuania | 22.10 | 2014 est. |
+| 411 | Bosnia and Herzegovina | 22.00 | 2014 est. |
+| 412 | Belarus | 22.00 | 2014 est. |
+| 413 | Gambia, The | 22.00 | 2014 est. |
+| 414 | Croatia | 22.00 | 2014 est. |
+| 415 | Romania | 21.90 | 2014 est. |
+| 416 | Italy | 21.80 | 2014 est. |
+| 417 | New Zealand | 21.80 | 2014 est. |
+| 418 | Switzerland | 21.80 | 2014 est. |
+| 419 | Hungary | 21.70 | 2014 est. |
+| 420 | Georgia | 21.70 | 2014 est. |
+| 421 | Guernsey | 21.70 | 2014 est. |
+| 422 | Romania | 21.70 | 2014 est. |
+| 423 | Jersey | 21.70 | 2014 est. |
+| 424 | Austria | 21.60 | 2014 est. |
+| 425 | Curacao | 21.60 | 2014 est. |
+| 426 | United States | 21.60 | 2014 est. |
+| 427 | Burkina Faso | 21.50 | 2014 est. |
+| 428 | Afghanistan | 21.50 | 2014 est. |
+| 429 | Poland | 21.40 | 2014 est. |
+| 430 | Singapore | 21.30 | 2014 est. |
+| 431 | Puerto Rico | 21.30 | 2014 est. |
+| 432 | Japan | 21.20 | 2014 est. |
+| 433 | Poland | 21.20 | 2014 est. |
+| 434 | Ukraine | 21.20 | 2014 est. |
+| 435 | Equatorial Guinea | 21.10 | 2014 est. |
+| 436 | Slovakia | 21.10 | 2014 est. |
+| 437 | Slovenia | 21.10 | 2014 est. |
+| 438 | Serbia | 21.10 | 2014 est. |
+| 439 | Sierra Leone | 21.00 | 2014 est. |
+| 440 | Angola | 21.00 | 2014 est. |
+| 441 | Luxembourg | 21.00 | 2014 est. |
+| 442 | Malta | 20.90 | 2014 est. |
+| 443 | Ukraine | 20.80 | 2014 est. |
+| 444 | Bulgaria | 20.80 | 2014 est. |
+| 445 | Chad | 20.70 | 2014 est. |
+| 446 | Uganda | 20.50 | 2014 est. |
+| 447 | Kenya | 20.40 | 2014 est. |
+| 448 | Togo | 20.20 | 2014 est. |
+| 449 | Papua New Guinea | 20.10 | 2014 est. |
+| 450 | Korea, South | 19.90 | 2014 est. |
+| 451 | Germany | 19.80 | 2014 est. |
+| 452 | Yemen | 19.70 | 2014 est. |
+| 453 | Iceland | 19.70 | 2014 est. |
+| 454 | Montenegro | 19.70 | 2014 est. |
+| 455 | Madagascar | 19.60 | 2014 est. |
+| 456 | Hong Kong | 19.60 | 2014 est. |
+| 457 | Zambia | 19.60 | 2014 est. |
+| 458 | Belarus | 19.60 | 2014 est. |
+| 459 | Comoros | 19.50 | 2014 est. |
+| 460 | Cuba | 19.30 | 2014 est. |
+| 461 | Guinea-Bissau | 19.30 | 2014 est. |
+| 462 | United Arab Emirates | 19.30 | 2014 est. |
+| 463 | Nigeria | 19.30 | 2014 est. |
+| 464 | Tajikistan | 19.20 | 2014 est. |
+| 465 | West Bank | 19.00 | 2014 est. |
+| 466 | Gaza Strip | 19.00 | 2014 est. |
+| 467 | Benin | 18.90 | 2014 est. |
+| 468 | United Arab Emirates | 18.80 | 2014 est. |
+| 469 | Ireland | 18.70 | 2014 est. |
+| 470 | Russia | 18.50 | 2014 est. |
+| 471 | Slovakia | 18.50 | 2014 est. |
+| 472 | Congo, Democratic Republic of the | 18.30 | 2014 est. |
+| 473 | Mali | 18.20 | 2014 est. |
+| 474 | Senegal | 18.20 | 2014 est. |
+| 475 | Iraq | 18.10 | 2014 est. |
+| 476 | Niger | 18.00 | 2014 est. |
+| 477 | Mongolia | 18.00 | 2014 est. |
+| 478 | Liberia | 18.00 | 2014 est. |
+| 479 | Mauritania | 17.90 | 2014 est. |
+| 480 | Macedonia | 17.80 | 2014 est. |
+| 481 | Somalia | 17.80 | 2014 est. |
+| 482 | Guinea | 17.70 | 2014 est. |
+| 483 | Cyprus | 17.70 | 2014 est. |
+| 484 | Cote d'Ivoire | 17.60 | 2014 est. |
+| 485 | Israel | 17.60 | 2014 est. |
+| 486 | Guyana | 17.50 | 2014 est. |
+| 487 | Jordan | 17.40 | 2014 est. |
+| 488 | Korea, South | 17.20 | 2014 est. |
+| 489 | Qatar | 17.10 | 2014 est. |
+| 490 | Botswana | 17.10 | 2014 est. |
+| 491 | Sudan | 17.10 | 2014 est. |
+| 492 | Argentina | 17.10 | 2014 est. |
+| 493 | Namibia | 17.00 | 2014 est. |
+| 494 | Aruba | 16.90 | 2014 est. |
+| 495 | Ghana | 16.80 | 2014 est. |
+| 496 | Solomon Islands | 16.80 | 2014 est. |
+| 497 | Cameroon | 16.80 | 2014 est. |
+| 498 | Swaziland | 16.70 | 2014 est. |
+| 499 | Sao Tome and Principe | 16.70 | 2014 est. |
+| 500 | Turkmenistan | 16.40 | 2014 est. |
+| 501 | Laos | 16.10 | 2014 est. |
+| 502 | Tanzania | 16.10 | 2014 est. |
+| 503 | Moldova | 16.10 | 2014 est. |
+| 504 | Congo, Republic of the | 16.00 | 2014 est. |
+| 505 | Qatar | 16.00 | 2014 est. |
+| 506 | Malawi | 16.00 | 2014 est. |
+| 507 | Albania | 15.90 | 2014 est. |
+| 508 | Hong Kong | 15.90 | 2014 est. |
+| 509 | Uzbekistan | 15.80 | 2014 est. |
+| 510 | Barbados | 15.80 | 2014 est. |
+| 511 | Ethiopia | 15.80 | 2014 est. |
+| 512 | Kyrgyzstan | 15.80 | 2014 est. |
+| 513 | Macau | 15.70 | 2014 est. |
+| 514 | Mozambique | 15.60 | 2014 est. |
+| 515 | Belize | 15.60 | 2014 est. |
+| 516 | Philippines | 15.60 | 2014 est. |
+| 517 | South Sudan | 15.60 | 2014 est. |
+| 518 | Brunei | 15.50 | 2014 est. |
+| 519 | Timor-Leste | 15.40 | 2014 est. |
+| 520 | Djibouti | 15.30 | 2014 est. |
+| 521 | Kiribati | 15.20 | 2014 est. |
+| 522 | Vanuatu | 15.10 | 2014 est. |
+| 523 | Zimbabwe | 14.90 | 2014 est. |
+| 524 | New Caledonia | 14.90 | 2014 est. |
+| 525 | Chile | 14.90 | 2014 est. |
+| 526 | Armenia | 14.90 | 2014 est. |
+| 527 | Central African Republic | 14.80 | 2014 est. |
+| 528 | Micronesia, Federated States of | 14.60 | 2014 est. |
+| 529 | Algeria | 14.60 | 2014 est. |
+| 530 | Syria | 14.60 | 2014 est. |
+| 531 | Singapore | 14.50 | 2014 est. |
+| 532 | Lesotho | 14.30 | 2014 est. |
+| 533 | Pakistan | 14.20 | 2014 est. |
+| 534 | Thailand | 13.90 | 2014 est. |
+| 535 | Korea, North | 13.80 | 2014 est. |
+| 536 | Bhutan | 13.80 | 2014 est. |
+| 537 | Maldives | 13.60 | 2014 est. |
+| 538 | Bangladesh | 13.60 | 2014 est. |
+| 539 | Libya | 13.50 | 2014 est. |
+| 540 | Honduras | 13.50 | 2014 est. |
+| 541 | Nicaragua | 13.40 | 2014 est. |
+| 542 | Haiti | 13.40 | 2014 est. |
+| 543 | Morocco | 13.40 | 2014 est. |
+| 544 | Trinidad and Tobago | 13.30 | 2014 est. |
+| 545 | Sri Lanka | 13.20 | 2014 est. |
+| 546 | Burma | 13.20 | 2014 est. |
+| 547 | Saint Lucia | 13.10 | 2014 est. |
+| 548 | Iran | 13.10 | 2014 est. |
+| 549 | Azerbaijan | 13.00 | 2014 est. |
+| 550 | Mauritius | 12.80 | 2014 est. |
+| 551 | Guam | 12.80 | 2014 est. |
+| 552 | Cabo Verde | 12.60 | 2014 est. |
+| 553 | Indonesia | 12.50 | 2014 est. |
+| 554 | China | 12.50 | 2014 est. |
+| 555 | Malaysia | 12.40 | 2014 est. |
+| 556 | India | 12.30 | 2014 est. |
+| 557 | Lebanon | 12.30 | 2014 est. |
+| 558 | Jamaica | 12.20 | 2014 est. |
+| 559 | Bolivia | 12.10 | 2014 est. |
+| 560 | Guatemala | 12.00 | 2014 est. |
+| 561 | Nepal | 11.70 | 2014 est. |
+| 562 | Fiji | 11.60 | 2014 est. |
+| 563 | Cambodia | 11.60 | 2014 est. |
+| 564 | South Africa | 11.50 | 2014 est. |
+| 565 | Panama | 11.40 | 2014 est. |
+| 566 | El Salvador | 11.40 | 2014 est. |
+| 567 | Brazil | 11.30 | 2014 est. |
+| 568 | Bahamas, The | 11.30 | 2014 est. |
+| 569 | Turkey | 11.20 | 2014 est. |
+| 570 | Paraguay | 11.20 | 2014 est. |
+| 571 | Seychelles | 11.10 | 2014 est. |
+| 572 | Samoa | 11.10 | 2014 est. |
+| 573 | Gabon | 11.10 | 2014 est. |
+| 574 | Egypt | 10.80 | 2014 est. |
+| 575 | Macau | 10.80 | 2014 est. |
+| 576 | Grenada | 10.70 | 2014 est. |
+| 577 | Vietnam | 10.60 | 2014 est. |
+| 578 | French Polynesia | 10.50 | 2014 est. |
+| 579 | Tunisia | 10.50 | 2014 est. |
+| 580 | Saint Vincent and the Grenadines | 10.50 | 2014 est. |
+| 581 | Ecuador | 10.50 | 2014 est. |
+| 582 | Costa Rica | 10.40 | 2014 est. |
+| 583 | Antigua and Barbuda | 10.40 | 2014 est. |
+| 584 | Colombia | 10.40 | 2014 est. |
+| 585 | Tonga | 10.30 | 2014 est. |
+| 586 | Venezuela | 10.20 | 2014 est. |
+| 587 | Dominican Republic | 10.10 | 2014 est. |
+| 588 | Mexico | 10.10 | 2014 est. |
+| 589 | Suriname | 10.10 | 2014 est. |
+| 590 | Peru | 10.00 | 2014 est. |
+| 591 | Peru | 10.00 | 2014 est. |
+| 592 | Kazakhstan | 10.00 | 2014 est. |
+| 593 | Kazakhstan | 10.00 | 2014 est. |
+| 594 | Dominican Republic | 9.90 | 2014 est. |
+| 595 | Suriname | 9.90 | 2014 est. |
+| 596 | Mexico | 9.90 | 2014 est. |
+| 597 | Venezuela | 9.80 | 2014 est. |
+| 598 | Tonga | 9.70 | 2014 est. |
+| 599 | Costa Rica | 9.60 | 2014 est. |
+| 600 | Antigua and Barbuda | 9.60 | 2014 est. |
+| 601 | Colombia | 9.60 | 2014 est. |
+| 602 | French Polynesia | 9.60 | 2014 est. |
+| 603 | Ecuador | 9.60 | 2014 est. |
+| 604 | Saint Vincent and the Grenadines | 9.50 | 2014 est. |
+| 605 | Tunisia | 9.50 | 2014 est. |
+| 606 | Vietnam | 9.40 | 2014 est. |
+| 607 | Egypt | 9.30 | 2014 est. |
+| 608 | Grenada | 9.30 | 2014 est. |
+| 609 | Macau | 9.20 | 2014 est. |
+| 610 | Samoa | 9.00 | 2014 est. |
+| 611 | Seychelles | 9.00 | 2014 est. |
+| 612 | Gabon | 9.00 | 2014 est. |
+| 613 | Paraguay | 8.90 | 2014 est. |
+| 614 | Bahamas, The | 8.90 | 2014 est. |
+| 615 | Turkey | 8.90 | 2014 est. |
+| 616 | Brazil | 8.80 | 2014 est. |
+| 617 | El Salvador | 8.80 | 2014 est. |
+| 618 | South Africa | 8.70 | 2014 est. |
+| 619 | Panama | 8.70 | 2014 est. |
+| 620 | Nepal | 8.60 | 2014 est. |
+| 621 | Cambodia | 8.60 | 2014 est. |
+| 622 | Fiji | 8.60 | 2014 est. |
+| 623 | Guatemala | 8.30 | 2014 est. |
+| 624 | Bolivia | 8.20 | 2014 est. |
+| 625 | Jamaica | 8.20 | 2014 est. |
+| 626 | Lebanon | 8.10 | 2014 est. |
+| 627 | Malaysia | 8.10 | 2014 est. |
+| 628 | India | 8.10 | 2014 est. |
+| 629 | Indonesia | 8.00 | 2014 est. |
+| 630 | Cabo Verde | 8.00 | 2014 est. |
+| 631 | China | 8.00 | 2014 est. |
+| 632 | Guam | 7.80 | 2014 est. |
+| 633 | Mauritius | 7.80 | 2014 est. |
+| 634 | Azerbaijan | 7.70 | 2014 est. |
+| 635 | Sri Lanka | 7.60 | 2014 est. |
+| 636 | Burma | 7.60 | 2014 est. |
+| 637 | Iran | 7.60 | 2014 est. |
+| 638 | Saint Lucia | 7.60 | 2014 est. |
+| 639 | Trinidad and Tobago | 7.50 | 2014 est. |
+| 640 | Haiti | 7.50 | 2014 est. |
+| 641 | Morocco | 7.50 | 2014 est. |
+| 642 | Libya | 7.40 | 2014 est. |
+| 643 | Nicaragua | 7.40 | 2014 est. |
+| 644 | Honduras | 7.40 | 2014 est. |
+| 645 | Maldives | 7.40 | 2014 est. |
+| 646 | Bangladesh | 7.30 | 2014 est. |
+| 647 | Bhutan | 7.20 | 2014 est. |
+| 648 | Korea, North | 7.20 | 2014 est. |
+| 649 | Thailand | 7.20 | 2014 est. |
+| 650 | Pakistan | 7.10 | 2014 est. |
+| 651 | Lesotho | 7.00 | 2014 est. |
+| 652 | Micronesia, Federated States of | 6.90 | 2014 est. |
+| 653 | Singapore | 6.90 | 2014 est. |
+| 654 | Syria | 6.90 | 2014 est. |
+| 655 | Algeria | 6.80 | 2014 est. |
+| 656 | Armenia | 6.70 | 2014 est. |
+| 657 | Chile | 6.70 | 2014 est. |
+| 658 | Zimbabwe | 6.70 | 2014 est. |
+| 659 | New Caledonia | 6.70 | 2014 est. |
+| 660 | Central African Republic | 6.70 | 2014 est. |
+| 661 | Kiribati | 6.60 | 2014 est. |
+| 662 | Vanuatu | 6.60 | 2014 est. |
+| 663 | Djibouti | 6.50 | 2014 est. |
+| 664 | Brunei | 6.50 | 2014 est. |
+| 665 | Timor-Leste | 6.50 | 2014 est. |
+| 666 | South Sudan | 6.40 | 2014 est. |
+| 667 | Belize | 6.40 | 2014 est. |
+| 668 | Mozambique | 6.40 | 2014 est. |
+| 669 | Philippines | 6.40 | 2014 est. |
+| 670 | Ethiopia | 6.30 | 2014 est. |
+| 671 | Malawi | 6.30 | 2014 est. |
+| 672 | Kyrgyzstan | 6.30 | 2014 est. |
+| 673 | Uzbekistan | 6.30 | 2014 est. |
+| 674 | Barbados | 6.30 | 2014 est. |
+| 675 | Albania | 6.30 | 2014 est. |
+| 676 | Congo, Republic of the | 6.30 | 2014 est. |
+| 677 | Laos | 6.20 | 2014 est. |
+| 678 | Tanzania | 6.20 | 2014 est. |
+| 679 | Moldova | 6.20 | 2014 est. |
+| 680 | Turkmenistan | 6.10 | 2014 est. |
+| 681 | Cameroon | 6.00 | 2014 est. |
+| 682 | Swaziland | 6.00 | 2014 est. |
+| 683 | Sao Tome and Principe | 6.00 | 2014 est. |
+| 684 | Solomon Islands | 6.00 | 2014 est. |
+| 685 | Namibia | 5.90 | 2014 est. |
+| 686 | Aruba | 5.90 | 2014 est. |
+| 687 | Ghana | 5.90 | 2014 est. |
+| 688 | Sudan | 5.90 | 2014 est. |
+| 689 | Argentina | 5.90 | 2014 est. |
+| 690 | Botswana | 5.90 | 2014 est. |
+| 691 | Korea, South | 5.80 | 2014 est. |
+| 692 | Guyana | 5.70 | 2014 est. |
+| 693 | Cote d'Ivoire | 5.70 | 2014 est. |
+| 694 | Jordan | 5.70 | 2014 est. |
+| 695 | Israel | 5.70 | 2014 est. |
+| 696 | Somalia | 5.60 | 2014 est. |
+| 697 | Macedonia | 5.60 | 2014 est. |
+| 698 | Cyprus | 5.60 | 2014 est. |
+| 699 | Mauritania | 5.60 | 2014 est. |
+| 700 | Liberia | 5.60 | 2014 est. |
+| 701 | Guinea | 5.60 | 2014 est. |
+| 702 | Niger | 5.50 | 2014 est. |
+| 703 | Mali | 5.50 | 2014 est. |
+| 704 | Senegal | 5.50 | 2014 est. |
+| 705 | Mongolia | 5.50 | 2014 est. |
+| 706 | Congo, Democratic Republic of the | 5.50 | 2014 est. |
+| 707 | Iraq | 5.50 | 2014 est. |
+| 708 | Russia | 5.40 | 2014 est. |
+| 709 | Slovakia | 5.40 | 2014 est. |
+| 710 | Ireland | 5.40 | 2014 est. |
+| 711 | West Bank | 5.30 | 2014 est. |
+| 712 | Benin | 5.30 | 2014 est. |
+| 713 | Gaza Strip | 5.30 | 2014 est. |
+| 714 | Cuba | 5.20 | 2014 est. |
+| 715 | Nigeria | 5.20 | 2014 est. |
+| 716 | Guinea-Bissau | 5.20 | 2014 est. |
+| 717 | Tajikistan | 5.20 | 2014 est. |
+| 718 | Comoros | 5.10 | 2014 est. |
+| 719 | Belarus | 5.10 | 2014 est. |
+| 720 | Zambia | 5.10 | 2014 est. |
+| 721 | Montenegro | 5.10 | 2014 est. |
+| 722 | Yemen | 5.10 | 2014 est. |
+| 723 | Hong Kong | 5.10 | 2014 est. |
+| 724 | Iceland | 5.10 | 2014 est. |
+| 725 | Madagascar | 5.10 | 2014 est. |
+| 726 | Papua New Guinea | 5.00 | 2014 est. |
+| 727 | Togo | 5.00 | 2014 est. |
+| 728 | Uganda | 4.90 | 2014 est. |
+| 729 | Kenya | 4.90 | 2014 est. |
+| 730 | Sierra Leone | 4.80 | 2014 est. |
+| 731 | Chad | 4.80 | 2014 est. |
+| 732 | Luxembourg | 4.80 | 2014 est. |
+| 733 | Angola | 4.80 | 2014 est. |
+| 734 | Puerto Rico | 4.70 | 2014 est. |
+| 735 | Serbia | 4.70 | 2014 est. |
+| 736 | Poland | 4.70 | 2014 est. |
+| 737 | Burkina Faso | 4.70 | 2014 est. |
+| 738 | Ukraine | 4.70 | 2014 est. |
+| 739 | Equatorial Guinea | 4.70 | 2014 est. |
+| 740 | Georgia | 4.60 | 2014 est. |
+| 741 | Curacao | 4.60 | 2014 est. |
+| 742 | United States | 4.60 | 2014 est. |
+| 743 | Afghanistan | 4.60 | 2014 est. |
+| 744 | Romania | 4.60 | 2014 est. |
+| 745 | New Zealand | 4.60 | 2014 est. |
+| 746 | Burundi | 4.50 | 2014 est. |
+| 747 | Australia | 4.50 | 2014 est. |
+| 748 | Uruguay | 4.50 | 2014 est. |
+| 749 | Gambia, The | 4.50 | 2014 est. |
+| 750 | Lithuania | 4.40 | 2014 est. |
+| 751 | Rwanda | 4.40 | 2014 est. |
+| 752 | Bosnia and Herzegovina | 4.40 | 2014 est. |
+| 753 | Canada | 4.40 | 2014 est. |
+| 754 | Saudi Arabia | 4.30 | 2014 est. |
+| 755 | Eritrea | 4.20 | 2014 est. |
+| 756 | Norway | 4.10 | 2014 est. |
+| 757 | Guernsey | 4.00 | 2014 est. |
+| 758 | Malta | 4.00 | 2014 est. |
+| 759 | Jersey | 4.00 | 2014 est. |
+| 760 | Czech Republic | 3.90 | 2014 est. |
+| 761 | Slovenia | 3.90 | 2014 est. |
+| 762 | Hungary | 3.90 | 2014 est. |
+| 763 | Oman | 3.90 | 2014 est. |
+| 764 | Western Sahara | 3.80 | 2014 est. |
+| 765 | Spain | 3.70 | 2014 est. |
+| 766 | Switzerland | 3.70 | 2014 est. |
+| 767 | Netherlands | 3.70 | 2014 est. |
+| 768 | Virgin Islands | 3.70 | 2014 est. |
+| 769 | United Kingdom | 3.60 | 2014 est. |
+| 770 | Latvia | 3.60 | 2014 est. |
+| 771 | Estonia | 3.60 | 2014 est. |
+| 772 | Austria | 3.60 | 2014 est. |
+| 773 | Croatia | 3.60 | 2014 est. |
+| 774 | France | 3.50 | 2014 est. |
+| 775 | Belgium | 3.50 | 2014 est. |
+| 776 | Denmark | 3.50 | 2014 est. |
+| 777 | Portugal | 3.50 | 2014 est. |
+| 778 | Bulgaria | 3.40 | 2014 est. |
+| 779 | Kuwait | 3.30 | 2014 est. |
+| 780 | Greece | 3.30 | 2014 est. |
+| 781 | Finland | 3.20 | 2014 est. |
+| 782 | Sweden | 3.20 | 2014 est. |
+| 783 | Germany | 3.10 | 2014 est. |
+| 784 | Bahrain | 3.00 | 2014 est. |
+| 785 | Italy | 3.00 | 2014 est. |
+| 786 | Japan | 2.40 | 2014 est. |
+| 787 | Qatar | 1.10 | 2014 est. |
+| 788 | United Arab Emirates | 0.50 | 2014 est. |
+
+

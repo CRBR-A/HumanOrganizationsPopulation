@@ -1,0 +1,27 @@
+Telephone Code: 43
+Local Emergency Phone: 112, 122
+Climate: Temperate; continental, cloudy; cold winters with frequent rain and some snow in lowlands and snow in mountains; moderate summers with occasional showers
+Currency (Code): Euro (EUR)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, F
+Major Languages: German, Turkish, Serbian, Croatian
+Major Religions: Catholic 57%, Eastern Orthodox 8.7%, Muslim 7.9%, Evangelical Christian 3.3%
+Time Difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time); daylight saving time: +1hr, begins last Sunday in March, ends last Sunday in October
+Potable Water: Yes
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Vienna Hofburg; Salzburg Altstadt; Innsbruck's Hofburg and Hofkirche; Melk Benedictine Abbey; Austrian National Library; Karlskirche (St. Charles Borromeo Church); UN Office in Vienna; Shoenbrunn Palace; Salzkammergut (includes Hallstatt and Dachstein); Skiing at Kitzbuehel and Kitzbueheler Horn; prehistoric pile dwellings around the Alps
+Major Sports: Soccer, alpine skiing, ice hockey
+Cultural Practices: While some Austrian men will kiss the hand of a female as a greeting, it would be improper for a foreigner to kiss the hands of Austrian females.
+Tipping Guidelines: It is customary to round up and leave the change at restaurants for the server. Taxi drivers usually receive an extra 10% over the meter fare. Porters or bellhops should receive up to 1 euro per bag.
+Souvenirs: Handbags, crystal, porcelain, winter sports equipment, bronze and Hummel figurines, carved Nativity scenes featuring Alpine villages
+Traditional Cuisine: Wiener Schnitzel --- pounded veal cutlets breaded and lightly fried in butter; typically garnished with parsley and lemon slices and served with potato salad
+
+---
+country: Austria
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Austria/travel-facts>
+license: public domain (U.S.)
+...

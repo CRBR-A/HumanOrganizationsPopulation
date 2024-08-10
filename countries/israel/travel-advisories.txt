@@ -1,0 +1,14 @@
+| Precautions | Exercise increased caution in Israel due to terrorism and civil unrest. Exercise increased caution when traveling to the West Bank due to terrorism and civil unrest. DO NOT TRAVEL to Gaza due to terrorism, civil unrest, and armed conflict. Terrorist groups, lone-wolf terrorists and other violent extremists continue plotting possible attacks in Israel and the West Bank and Gaza. Terrorists and violent extremists may attack with little or no warning, targeting tourist locations, transportation hubs, markets/shopping malls, and local government facilities. Violence can occur in Israel and the West Bank and Gaza without warning. There has been a marked increase in demonstrations throughout Israel, some with little or no warning.   |
+| | Consult the link below for updates to travel advisories and statements on safety, security, local laws, and special circumstances in this country. |
+| | <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html> |
+| Passport/Visa Requirements | US citizens should make sure their passport will not expire for at least 6 months after they enter the country even if they do not intend to stay that long. They should also make sure they have at least 1 blank page in their passport for any entry stamp. A visa is not required if stay is less than 90 days. There are restrictions for visitors wanting to travel to the West Bank or Gaza, or for travelers with dual US and Israeli citizenship, consult: travel.state.gov and/or content and/or travel and/or international-travel and/or International-Travel-Country-Information-Pages and/or IsraeltheWestBankandGaza.html). |
+| Vaccinations | See WHO recommendations. On 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; Israel is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine.  <http://www.who.int/> |
+| US Embassy/Consulate | [972] (2) 630-4000; US Embassy Jerusalem, 14 David Flusser Street, Jerusalem 9378322, Israel; JerusalemACS@state.gov; https://il.usembassy.gov/ |
+
+---
+country: Israel
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Israel/travel-facts>
+license: public domain (U.S.)
+...

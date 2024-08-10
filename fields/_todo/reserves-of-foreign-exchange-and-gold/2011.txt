@@ -1,0 +1,179 @@
+CIA - The World Factbook --  Reserves of foreign exchange and gold   
+
+This entry gives the dollar value for the stock of all financial assets that are available to the central monetary authority for use in meeting a country's balance of payments needs as of the end-date of the period specified. This category includes not only foreign currency and gold, but also a country's holdings of Special Drawing Rights in the International Monetary Fund, and its reserve position in the Fund.
+
+| Rank | country | Reserves of foreign exchange and gold | Date of Information |
+| --- | --- | --- | --- |
+| 1 | China | $ 2,876,000,000,000 | 31 December 2010 est. |
+| 2 | Japan | $ 1,063,000,000,000 | 31 December 2010 est. |
+| 3 | Russia | $ 479,400,000,000 | 31 December 2010 est. |
+| 4 | Saudi Arabia | $ 445,100,000,000 | 31 December 2010 est. |
+| 5 | Taiwan | $ 387,200,000,000 | 31 December 2010 est. |
+| 6 | Korea, South | $ 291,600,000,000 | 31 December 2010 est. |
+| 7 | Brazil | $ 288,600,000,000 | 31 December 2010 est. |
+| 8 | India | $ 287,100,000,000 | 31 December 2010 est. |
+| 9 | Switzerland | $ 270,300,000,000 | 31 December 2010 est. |
+| 10 | Hong Kong | $ 268,700,000,000 | 31 December 2010 est. |
+| 11 | Singapore | $ 225,700,000,000 | 31 December 2010 est. |
+| 12 | Germany | $ 216,500,000,000 | 31 December 2010 est. |
+| 13 | Thailand | $ 172,100,000,000 | 31 December 2010 est. |
+| 14 | France | $ 166,200,000,000 | 31 December 2010 est. |
+| 15 | Algeria | $ 162,900,000,000 | 31 December 2010 est. |
+| 16 | Italy | $ 158,900,000,000 | 31 December 2010 est. |
+| 17 | United States | $ 132,400,000,000 | 31 December 2010 est. |
+| 18 | Mexico | $ 120,500,000,000 | 31 December 2010 est. |
+| 19 | Malaysia | $ 106,500,000,000 | 31 December 2010 est. |
+| 20 | Libya | $ 99,840,000,000 | 31 December 2010 est. |
+| 21 | Indonesia | $ 96,210,000,000 | 31 December 2010 est. |
+| 22 | Poland | $ 93,490,000,000 | 31 December 2010 est. |
+| 23 | Turkey | $ 86,080,000,000 | 31 December 2010 est. |
+| 24 | United Kingdom | $ 82,410,000,000 | 31 December 2010 est. |
+| 25 | Denmark | $ 76,520,000,000 | 31 December 2010 est. |
+| 26 | Iran | $ 75,060,000,000 | 31 December 2010 est. |
+| 27 | Israel | $ 70,910,000,000 | 31 December 2010 est. |
+| 28 | Philippines | $ 62,370,000,000 | 31 December 2010 est. |
+| 29 | Canada | $ 57,150,000,000 | 31 December 2010 est. |
+| 30 | Norway | $ 52,800,000,000 | 31 December 2010 est. |
+| 31 | Argentina | $ 52,230,000,000 | 31 December 2010 est. |
+| 32 | Iraq | $ 48,610,000,000 | 31 December 2010 est. |
+| 33 | Sweden | $ 48,300,000,000 | 31 December 2010 est. |
+| 34 | Romania | $ 48,080,000,000 | 31 December 2010 est. |
+| 35 | Netherlands | $ 46,240,000,000 | 31 December 2010 est. |
+| 36 | Hungary | $ 44,990,000,000 | 31 December 2010 est. |
+| 37 | Lebanon | $ 44,520,000,000 | 31 December 2010 est. |
+| 38 | Peru | $ 44,210,000,000 | 31 December 2010 est. |
+| 39 | South Africa | $ 43,830,000,000 | 31 December 2010 est. |
+| 40 | United Arab Emirates | $ 42,790,000,000 | 31 December 2010 est. |
+| 41 | Australia | $ 42,270,000,000 | 31 December 2010 est. |
+| 42 | Czech Republic | $ 41,950,000,000 | 31 December 2010 est. |
+| 43 | Egypt | $ 35,790,000,000 | 31 December 2010 est. |
+| 44 | Nigeria | $ 34,920,000,000 | 31 December 2010 est. |
+| 45 | Ukraine | $ 34,580,000,000 | 31 December 2010 est. |
+| 46 | Spain | $ 31,910,000,000 | 31 December 2010 est. |
+| 47 | Qatar | $ 31,190,000,000 | 31 December 2010 est. |
+| 48 | Venezuela | $ 29,620,000,000 | 31 December 2010 est. |
+| 49 | Kazakhstan | $ 28,270,000,000 | 31 December 2010 est. |
+| 50 | Colombia | $ 28,080,000,000 | 31 December 2010 est. |
+| 51 | Chile | $ 27,830,000,000 | 31 December 2010 est. |
+| 52 | Belgium | $ 26,810,000,000 | 31 December 2010 est. |
+| 53 | Macau | $ 23,730,000,000 | 2010 |
+| 54 | Morocco | $ 23,610,000,000 | 31 December 2010 est. |
+| 55 | Austria | $ 22,280,000,000 | 31 December 2010 est. |
+| 56 | Kuwait | $ 21,360,000,000 | 31 December 2010 est. |
+| 57 | Portugal | $ 21,000,000,000 | 31 December 2010 est. |
+| 58 | Syria | $ 20,570,000,000 | 31 December 2010 est. |
+| 59 | Angola | $ 19,660,000,000 | 31 December 2010 est. |
+| 60 | Turkmenistan | $ 17,600,000,000 | 31 December 2010 est. |
+| 61 | Bulgaria | $ 17,230,000,000 | 31 December 2010 est. |
+| 62 | Pakistan | $ 17,210,000,000 | 31 December 2010 est. |
+| 63 | New Zealand | $ 16,720,000,000 | 31 December 2010 est. |
+| 64 | Croatia | $ 14,130,000,000 | 31 December 2010 est. |
+| 65 | Jordan | $ 13,650,000,000 | 31 December 2010 est. |
+| 66 | Serbia | $ 13,310,000,000 | 31 December 2010 est. |
+| 67 | Oman | $ 13,030,000,000 | 31 December 2010 est. |
+| 68 | Vietnam | $ 12,930,000,000 | 31 December 2010 est. |
+| 69 | Bangladesh | $ 11,180,000,000 | 31 December 2010 est. |
+| 70 | Uzbekistan | $ 9,800,000,000 | 31 December 2010 est. |
+| 71 | Bolivia | $ 9,730,000,000 | 31 December 2010 est. |
+| 72 | Trinidad and Tobago | $ 9,659,000,000 | 31 December 2010 est. |
+| 73 | Finland | $ 9,555,000,000 | 31 December 2010 est. |
+| 74 | Tunisia | $ 9,462,000,000 | 31 December 2010 est. |
+| 75 | Botswana | $ 7,885,000,000 | 31 December 2010 est. |
+| 76 | Uruguay | $ 7,657,000,000 | 31 December 2010 est. |
+| 77 | Sri Lanka | $ 7,197,000,000 | 31 December 2010 est. |
+| 78 | Latvia | $ 7,170,000,000 | 31 December 2010 est. |
+| 79 | Lithuania | $ 6,837,000,000 | 31 December 2010 est. |
+| 80 | Azerbaijan | $ 6,409,000,000 | 31 December 2010 est. |
+| 81 | Greece | $ 6,370,000,000 | 31 December 2010 est. |
+| 82 | Yemen | $ 5,942,000,000 | 31 December 2010 est. |
+| 83 | Iceland | $ 5,790,000,000 | 31 December 2010 est. |
+| 84 | Guatemala | $ 5,646,000,000 | 31 December 2010 est. |
+| 85 | Cuba | $ 4,847,000,000 | 31 December 2010 est. |
+| 86 | Bahrain | $ 4,789,000,000 | 31 December 2010 est. |
+| 87 | Ghana | $ 4,700,000,000 | 31 December 2010 est. |
+| 88 | Costa Rica | $ 4,627,000,000 | 31 December 2010 est. |
+| 89 | Congo, Republic of the | $ 4,465,000,000 | 31 December 2010 est. |
+| 90 | Bosnia and Herzegovina | $ 4,383,000,000 | 31 December 2010 est. |
+| 91 | Kenya | $ 4,321,000,000 | 31 December 2010 est. |
+| 92 | Paraguay | $ 4,167,000,000 | 31 December 2010 est. |
+| 93 | Cambodia | $ 3,802,000,000 | 31 December 2010 est. |
+| 94 | Burma | $ 3,762,000,000 | 31 December 2010 est. |
+| 95 | Cameroon | $ 3,665,000,000 | 31 December 2010 est. |
+| 96 | Tanzania | $ 3,645,000,000 | 31 December 2010 est. |
+| 97 | Cote d'Ivoire | $ 3,624,000,000 | 31 December 2010 est. |
+| 98 | Dominican Republic | $ 3,502,000,000 | 31 December 2010 est. |
+| 99 | Belarus | $ 3,431,000,000 | 31 December 2010 est. |
+| 100 | Papua New Guinea | $ 3,092,000,000 | 31 December 2010 est. |
+| 101 | Uganda | $ 2,960,000,000 | 31 December 2010 est. |
+| 102 | El Salvador | $ 2,883,000,000 | 31 December 2010 est. |
+| 103 | Panama | $ 2,715,000,000 | 31 December 2010 est. |
+| 104 | Honduras | $ 2,702,000,000 | 31 December 2010 est. |
+| 105 | Ecuador | $ 2,622,000,000 | 31 December 2010 est. |
+| 106 | Mauritius | $ 2,601,000,000 | 31 December 2010 est. |
+| 107 | Estonia | $ 2,568,000,000 | 31 December 2010 est. |
+| 108 | Albania | $ 2,541,000,000 | 31 December 2010 est. |
+| 109 | Jamaica | $ 2,501,000,000 | 31 December 2010 est. |
+| 110 | Equatorial Guinea | $ 2,346,000,000 | 31 December 2010 est. |
+| 111 | Mongolia | $ 2,288,000,000 | 31 December 2010 est. |
+| 112 | Macedonia | $ 2,278,000,000 | 31 December 2010 est. |
+| 113 | Georgia | $ 2,264,000,000 | 31 December 2010 est. |
+| 114 | Slovakia | $ 2,161,000,000 | 31 December 2010 est. |
+| 115 | Mozambique | $ 2,159,000,000 | 31 December 2010 est. |
+| 116 | Ireland | $ 2,115,000,000 | 31 December 2010 est. |
+| 117 | Zambia | $ 2,094,000,000 | 31 December 2010 est. |
+| 118 | Sudan | $ 2,063,000,000 | 31 December 2010 est. |
+| 119 | Senegal | $ 2,048,000,000 | 31 December 2010 est. |
+| 120 | Armenia | $ 1,866,000,000 | 31 December 2010 est. |
+| 121 | Ethiopia | $ 1,808,000,000 | 31 December 2010 est. |
+| 122 | Nicaragua | $ 1,799,000,000 | 31 December 2010 est. |
+| 123 | Gabon | $ 1,746,000,000 | 31 December 2010 est. |
+| 124 | Kyrgyzstan | $ 1,720,000,000 | 31 December 2010 est. |
+| 125 | Moldova | $ 1,718,000,000 | 31 December 2010 est. |
+| 126 | Brunei | $ 1,563,000,000 | 2010 |
+| 127 | Namibia | $ 1,495,000,000 | 31 December 2010 est. |
+| 128 | Congo, Democratic Republic of the | $ 1,297,000,000 | March 2010 est. |
+| 129 | Mali | $ 1,292,000,000 | 31 December 2010 est. |
+| 130 | Madagascar | $ 1,172,000,000 | 31 December 2010 est. |
+| 131 | Cyprus | $ 1,144,000,000 | 31 December 2010 est. |
+| 132 | Haiti | $ 1,108,000,000 | 31 December 2010 est. |
+| 133 | Slovenia | $ 1,108,000,000 | 31 December 2010 est. |
+| 134 | Burkina Faso | $ 1,068,000,000 | 31 December 2010 est. |
+| 135 | Bhutan | $ 1,002,000,000 | 31 December 2010 est. |
+| 136 | Benin | $ 953,000,000 | 31 December 2010 est. |
+| 137 | Lesotho | $ 918,600,000 | 31 December 2010 est. |
+| 138 | Rwanda | $ 812,800,000 | 31 December 2010 est. |
+| 139 | Luxembourg | $ 800,000,000 | 31 December 2010 est. |
+| 140 | Guyana | $ 782,100,000 | 31 December 2010 est. |
+| 141 | Niger | $ 760,300,000 | 31 December 2010 est. |
+| 142 | Swaziland | $ 756,300,000 | 31 December 2010 est. |
+| 143 | Aruba | $ 725,100,000 | 31 December 2010 est. |
+| 144 | Laos | $ 713,400,000 | 31 December 2010 est. |
+| 145 | Togo | $ 669,400,000 | 31 December 2010 est. |
+| 146 | Chad | $ 638,600,000 | 31 December 2010 est. |
+| 147 | Barbados | $ 620,000,000 | 2007 |
+| 148 | Malta | $ 540,200,000 | 31 December 2010 est. |
+| 149 | Tajikistan | $ 506,000,000 | 31 December 2010 est. |
+| 150 | Sierra Leone | $ 409,000,000 | 31 December 2010 est. |
+| 151 | Timor-Leste | $ 406,200,000 | 31 December 2010 est. |
+| 152 | Liberia | $ 399,800,000 | 31 December 2010 est. |
+| 153 | Cape Verde | $ 394,200,000 | 31 December 2010 est. |
+| 154 | Zimbabwe | $ 376,000,000 | 31 December 2010 est. |
+| 155 | Burundi | $ 332,100,000 | 31 December 2010 est. |
+| 156 | Malawi | $ 280,100,000 | 31 December 2010 est. |
+| 157 | Mauritania | $ 280,000,000 | 31 December 2010 est. |
+| 158 | Solomon Islands | $ 265,800,000 | 31 December 2010 est. |
+| 159 | Suriname | $ 263,300,000 | 2006 |
+| 160 | Seychelles | $ 235,600,000 | 31 December 2010 est. |
+| 161 | Djibouti | $ 230,600,000 | 31 December 2010 est. |
+| 162 | Samoa | $ 209,500,000 | 31 December 2010 est. |
+| 163 | Saint Lucia | $ 206,300,000 | 31 December 2010 est. |
+| 164 | Belize | $ 201,700,000 | 31 December 2010 est. |
+| 165 | Gambia, The | $ 201,600,000 | 31 December 2010 est. |
+| 166 | Central African Republic | $ 186,000,000 | 31 December 2010 est. |
+| 167 | Guinea | $ 179,400,000 | 31 December 2010 est. |
+| 168 | Saint Kitts and Nevis | $ 168,900,000 | 31 December 2010 est. |
+| 169 | Vanuatu | $ 161,400,000 | 2003 |
+| 170 | Comoros | $ 146,100,000 | 31 December 2010 est. |
+| 171 | Eritrea | $ 96,500,000 | 31 December 2010 est. |
+| 172 | Sao Tome and Principe | $ 46,800,000 | 31 December 2010 est. |
+| 173 | Tonga | $ 40,830,000 | FY04/05 |

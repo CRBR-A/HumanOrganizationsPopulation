@@ -1,0 +1,121 @@
+CIA - The World Factbook --  Heliports   
+
+| Rank | country | Heliports | Date of Information |
+| --- | --- | --- | --- |
+| 1 | United States | 5,287.00 | 2013 |
+| 2 | Korea, South | 466.00 | 2013 |
+| 3 | Indonesia | 76.00 | 2013 |
+| 4 | Antarctica | 53.00 | 2012 |
+| 5 | Russia | 49.00 | 2013 |
+| 6 | China | 47.00 | 2013 |
+| 7 | India | 45.00 | 2013 |
+| 8 | Taiwan | 31.00 | 2013 |
+| 9 | Iran | 26.00 | 2013 |
+| 10 | Canada | 26.00 | 2013 |
+| 11 | Pakistan | 23.00 | 2013 |
+| 12 | Korea, North | 23.00 | 2013 |
+| 13 | Germany | 23.00 | 2013 |
+| 14 | Turkey | 20.00 | 2013 |
+| 15 | Japan | 16.00 | 2013 |
+| 16 | Iraq | 16.00 | 2013 |
+| 17 | Brazil | 13.00 | 2013 |
+| 18 | Burma | 11.00 | 2013 |
+| 19 | Spain | 10.00 | 2013 |
+| 20 | Saudi Arabia | 10.00 | 2013 |
+| 21 | Cyprus | 9.00 | 2013 |
+| 22 | Greece | 9.00 | 2013 |
+| 23 | Ukraine | 9.00 | 2013 |
+| 24 | Hong Kong | 9.00 | 2013 |
+| 25 | United Kingdom | 9.00 | 2013 |
+| 26 | Afghanistan | 9.00 | 2013 |
+| 27 | Timor-Leste | 8.00 | 2013 |
+| 28 | New Caledonia | 8.00 | 2013 |
+| 29 | Thailand | 7.00 | 2013 |
+| 30 | Egypt | 7.00 | 2013 |
+| 31 | Syria | 6.00 | 2013 |
+| 32 | Bosnia and Herzegovina | 6.00 | 2013 |
+| 33 | Sudan | 6.00 | 2013 |
+| 34 | Poland | 6.00 | 2013 |
+| 35 | United Arab Emirates | 5.00 | 2013 |
+| 36 | Italy | 5.00 | 2013 |
+| 37 | Nigeria | 5.00 | 2013 |
+| 38 | Peru | 5.00 | 2013 |
+| 39 | Malaysia | 4.00 | 2013 |
+| 40 | Kuwait | 4.00 | 2013 |
+| 41 | Algeria | 3.00 | 2013 |
+| 42 | Bangladesh | 3.00 | 2013 |
+| 43 | Solomon Islands | 3.00 | 2013 |
+| 44 | Brunei | 3.00 | 2013 |
+| 45 | Colombia | 3.00 | 2013 |
+| 46 | Venezuela | 3.00 | 2013 |
+| 47 | Israel | 3.00 | 2013 |
+| 48 | Kazakhstan | 3.00 | 2013 |
+| 49 | Oman | 3.00 | 2013 |
+| 50 | Spratly Islands | 3.00 | 2013 |
+| 51 | Panama | 3.00 | 2013 |
+| 52 | Hungary | 3.00 | 2013 |
+| 53 | Argentina | 2.00 | 2013 |
+| 54 | Switzerland | 2.00 | 2013 |
+| 55 | El Salvador | 2.00 | 2013 |
+| 56 | Georgia | 2.00 | 2013 |
+| 57 | Kosovo | 2.00 | 2013 |
+| 58 | Libya | 2.00 | 2013 |
+| 59 | Macau | 2.00 | 2013 |
+| 60 | Mali | 2.00 | 2013 |
+| 61 | Malta | 2.00 | 2013 |
+| 62 | Papua New Guinea | 2.00 | 2013 |
+| 63 | Serbia | 2.00 | 2012 |
+| 64 | Romania | 2.00 | 2013 |
+| 65 | Philippines | 2.00 | 2013 |
+| 66 | Sierra Leone | 2.00 | 2013 |
+| 67 | Sweden | 2.00 | 2013 |
+| 68 | Ecuador | 2.00 | 2013 |
+| 69 | Azerbaijan | 1.00 | 2012 |
+| 70 | West Bank | 1.00 | 2013 |
+| 71 | Angola | 1.00 | 2013 |
+| 72 | Australia | 1.00 | 2013 |
+| 73 | Austria | 1.00 | 2013 |
+| 74 | Bahrain | 1.00 | 2013 |
+| 75 | Belgium | 1.00 | 2013 |
+| 76 | Bahamas, The | 1.00 | 2013 |
+| 77 | Belarus | 1.00 | 2013 |
+| 78 | Bulgaria | 1.00 | 2013 |
+| 79 | Burundi | 1.00 | 2012 |
+| 80 | Cambodia | 1.00 | 2013 |
+| 81 | Sri Lanka | 1.00 | 2013 |
+| 82 | Congo, Democratic Republic of the | 1.00 | 2013 |
+| 83 | Chile | 1.00 | 2013 |
+| 84 | Northern Mariana Islands | 1.00 | 2013 |
+| 85 | Dominican Republic | 1.00 | 2013 |
+| 86 | Estonia | 1.00 | 2012 |
+| 87 | Eritrea | 1.00 | 2013 |
+| 88 | Czech Republic | 1.00 | 2013 |
+| 89 | French Polynesia | 1.00 | 2013 |
+| 90 | France | 1.00 | 2013 |
+| 91 | Guatemala | 1.00 | 2013 |
+| 92 | Gaza Strip | 1.00 | 2013 |
+| 93 | Croatia | 1.00 | 2013 |
+| 94 | Cote d'Ivoire | 1.00 | 2013 |
+| 95 | Jordan | 1.00 | 2012 |
+| 96 | Lebanon | 1.00 | 2013 |
+| 97 | Latvia | 1.00 | 2013 |
+| 98 | Slovakia | 1.00 | 2013 |
+| 99 | Luxembourg | 1.00 | 2013 |
+| 100 | Mongolia | 1.00 | 2013 |
+| 101 | Montenegro | 1.00 | 2012 |
+| 102 | Monaco | 1.00 | 2012 |
+| 103 | Morocco | 1.00 | 2013 |
+| 104 | Mexico | 1.00 | 2013 |
+| 105 | Niger | 1.00 | 2013 |
+| 106 | Netherlands | 1.00 | 2013 |
+| 107 | Norway | 1.00 | 2013 |
+| 108 | South Sudan | 1.00 | 2013 |
+| 109 | Qatar | 1.00 | 2013 |
+| 110 | Seychelles | 1.00 | 2013 |
+| 111 | South Africa | 1.00 | 2013 |
+| 112 | Svalbard | 1.00 | 2013 |
+| 113 | Turkmenistan | 1.00 | 2013 |
+| 114 | Vietnam | 1.00 | 2013 |
+| 115 | Albania | 1.00 | 2013 |
+
+

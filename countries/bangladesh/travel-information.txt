@@ -1,0 +1,27 @@
+Telephone Code: 880
+Local Emergency Phone: Police, Fire and Ambulance: 999; various government services: 333
+Climate: Tropical; mild winter (October to March); hot, humid summer (March to June); humid, warm rainy monsoon (June to October)
+Currency (Code): Takas (BDT)
+Electricity: 220 V
+Voltage: 50 Hz
+Plug types(s): A, C, D, G, K
+Major Languages: Bengali
+Major Religions: Muslim 81.1%, Hindu 10%
+Time Difference: UTC+6 (11 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Left
+Tourist Destinations: Cox's bazaar; Saint Martin' Island; Teknaf Sea Beach; Nilachal Bandarban; Sundarbans; Somapura Mahavihara (ruins of the Buddhist Vihara at Paharpur)
+Major Sports: Kabaddi (contact team sport played between two teams of seven players each), cricket
+Cultural Practices: Many young Bangladeshis will touch the feet of an elder as a respectful greeting, but this is not necessarily expected of foreigners.
+Tipping Guidelines: Tipping is very uncommon and may be seen as ostentatious. Taxi fares may be rounded up and left with the driver as a tip, and 20-30 takas a day is common for hotel staff.
+Souvenirs: Pink pearls, mother-of-pearl jewelry, hand-loomed fabrics, silk, carved masks, leather goods, folk dolls
+Traditional Cuisine: Ilish macher paturi --- rice and Ilish fish marinated with ground spices and wrapped in banana leaves and steamed or roasted
+
+---
+country: Bangladesh
+date: June 23, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Bangladesh/travel-facts>
+license: public domain (U.S.)
+...

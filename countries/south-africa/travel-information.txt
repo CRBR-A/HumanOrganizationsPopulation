@@ -1,0 +1,29 @@
+Telephone Code: 27
+Local Emergency Phone - Ambulance: 10177
+Local Emergency Phone - Fire: 10177
+Local Emergency Phone - Police: 10111
+Climate: Mostly semiarid; subtropical along east coast; sunny days, cool nights
+Currency (Code): Rand (ZAR)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, M, N
+Major Languages: IsiZulu, IsiXhosa, Afrikaans, Sepedi, Setswana, English, Sesotho, Xitsonga, siSwati, Tshivenda, isiNdebele
+Major Religions: Christian 86%, ancestral, tribal, animist, or other traditional African religions 5.4%, Muslim 1.9%
+Time Difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Yes
+International Driving Permit: Suggested
+Road Driving Side: Left
+Tourist Destinations: Kruger National Park; Cape Town; Kgalagadi (Kalahari) Transfrontier Park; Stellenbosch; Drakensberg; Garden Route; iSimangaliso Wetland Park; Cape of Good Hope; Robben Island (Nelson Mandela's prison); Cradle of Humankind, Gauteng
+Major Sports: Rugby, cricket, soccer, boxing
+Cultural Practices: Placing both hands together with fingers pointing up is a way to say "thank you."
+Tipping Guidelines: It is customary to tip 10-15% for good service in restaurants. For private drivers, 100 rand per person per day is appropriate.
+Souvenirs: Zulu spoons, Zulu beaded items, seshweshwe fabric, Rooibos tea, wine and liqueur
+Traditional Cuisine: Bobotie --- minced meat simmered with spices, especially curry powder, herbs, and dried fruit, then topped with a mixture of egg and milk and baked
+
+---
+country: South Africa
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/South Africa/travel-facts>
+license: public domain (U.S.)
+...

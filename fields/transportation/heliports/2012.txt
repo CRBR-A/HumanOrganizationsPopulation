@@ -1,0 +1,117 @@
+CIA - The World Factbook --  Heliports   
+
+This entry gives the total number of heliports with hard-surface runways, helipads, or landing areas that support routine sustained helicopter operations exclusively and have support facilities including one or more of the following facilities: lighting, fuel, passenger handling, or maintenance. It includes former airports used exclusively for helicopter operations but excludes heliports limited to day operations and natural clearings that could support helicopter landings and takeoffs.
+
+| Rank | country | Heliports | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Korea, South | 510.00 | 2012 |
+| 2 | United States | 126.00 | 2012 |
+| 3 | Indonesia | 76.00 | 2012 |
+| 4 | Antarctica | 53.00 | 2012 |
+| 5 | China | 50.00 | 2012 |
+| 6 | Russia | 48.00 | 2012 |
+| 7 | India | 41.00 | 2012 |
+| 8 | Taiwan | 32.00 | 2012 |
+| 9 | Canada | 27.00 | 2012 |
+| 10 | Pakistan | 24.00 | 2012 |
+| 11 | Korea, North | 23.00 | 2012 |
+| 12 | Germany | 22.00 | 2012 |
+| 13 | Iran | 21.00 | 2012 |
+| 14 | Turkey | 20.00 | 2012 |
+| 15 | Iraq | 20.00 | 2012 |
+| 16 | Japan | 15.00 | 2012 |
+| 17 | Brazil | 13.00 | 2012 |
+| 18 | Saudi Arabia | 10.00 | 2012 |
+| 19 | Afghanistan | 10.00 | 2012 |
+| 20 | Spain | 10.00 | 2012 |
+| 21 | Burma | 9.00 | 2012 |
+| 22 | Cyprus | 9.00 | 2012 |
+| 23 | Hong Kong | 9.00 | 2012 |
+| 24 | Greece | 9.00 | 2012 |
+| 25 | United Kingdom | 9.00 | 2012 |
+| 26 | New Caledonia | 8.00 | 2012 |
+| 27 | Timor-Leste | 8.00 | 2012 |
+| 28 | Ukraine | 7.00 | 2012 |
+| 29 | Syria | 6.00 | 2012 |
+| 30 | Bosnia and Herzegovina | 6.00 | 2012 |
+| 31 | Sudan | 6.00 | 2012 |
+| 32 | Poland | 6.00 | 2012 |
+| 33 | Egypt | 6.00 | 2012 |
+| 34 | Thailand | 6.00 | 2012 |
+| 35 | United Arab Emirates | 5.00 | 2012 |
+| 36 | Italy | 5.00 | 2012 |
+| 37 | Nigeria | 5.00 | 2012 |
+| 38 | Kuwait | 4.00 | 2012 |
+| 39 | Romania | 4.00 | 2012 |
+| 40 | Peru | 4.00 | 2012 |
+| 41 | Algeria | 3.00 | 2012 |
+| 42 | Bangladesh | 3.00 | 2012 |
+| 43 | Solomon Islands | 3.00 | 2012 |
+| 44 | Brunei | 3.00 | 2012 |
+| 45 | Hungary | 3.00 | 2012 |
+| 46 | Venezuela | 3.00 | 2012 |
+| 47 | Kazakhstan | 3.00 | 2012 |
+| 48 | Oman | 3.00 | 2012 |
+| 49 | Malaysia | 3.00 | 2012 |
+| 50 | Spratly Islands | 3.00 | 2012 |
+| 51 | Panama | 3.00 | 2012 |
+| 52 | Israel | 3.00 | 2012 |
+| 53 | Argentina | 2.00 | 2012 |
+| 54 | Sweden | 2.00 | 2012 |
+| 55 | Colombia | 2.00 | 2012 |
+| 56 | Ecuador | 2.00 | 2012 |
+| 57 | El Salvador | 2.00 | 2012 |
+| 58 | Georgia | 2.00 | 2012 |
+| 59 | Kosovo | 2.00 | 2012 |
+| 60 | Libya | 2.00 | 2012 |
+| 61 | Macau | 2.00 | 2012 |
+| 62 | Malta | 2.00 | 2012 |
+| 63 | Papua New Guinea | 2.00 | 2012 |
+| 64 | Serbia | 2.00 | 2012 |
+| 65 | Philippines | 2.00 | 2012 |
+| 66 | Sierra Leone | 2.00 | 2012 |
+| 67 | Bulgaria | 2.00 | 2012 |
+| 68 | Azerbaijan | 1.00 | 2012 |
+| 69 | Vietnam | 1.00 | 2012 |
+| 70 | Angola | 1.00 | 2012 |
+| 71 | Australia | 1.00 | 2012 |
+| 72 | Austria | 1.00 | 2012 |
+| 73 | Bahrain | 1.00 | 2012 |
+| 74 | Belgium | 1.00 | 2012 |
+| 75 | Bahamas, The | 1.00 | 2012 |
+| 76 | Belarus | 1.00 | 2012 |
+| 77 | Burundi | 1.00 | 2012 |
+| 78 | Cambodia | 1.00 | 2012 |
+| 79 | Sri Lanka | 1.00 | 2012 |
+| 80 | Congo, Democratic Republic of the | 1.00 | 2012 |
+| 81 | Chile | 1.00 | 2012 |
+| 82 | Northern Mariana Islands | 1.00 | 2012 |
+| 83 | Dominican Republic | 1.00 | 2012 |
+| 84 | Estonia | 1.00 | 2012 |
+| 85 | Eritrea | 1.00 | 2012 |
+| 86 | Czech Republic | 1.00 | 2012 |
+| 87 | French Polynesia | 1.00 | 2012 |
+| 88 | France | 1.00 | 2012 |
+| 89 | Guatemala | 1.00 | 2012 |
+| 90 | Gaza Strip | 1.00 | 2012 |
+| 91 | Croatia | 1.00 | 2012 |
+| 92 | Cote d'Ivoire | 1.00 | 2012 |
+| 93 | Jordan | 1.00 | 2012 |
+| 94 | Latvia | 1.00 | 2012 |
+| 95 | Slovakia | 1.00 | 2012 |
+| 96 | Luxembourg | 1.00 | 2012 |
+| 97 | Mongolia | 1.00 | 2012 |
+| 98 | Montenegro | 1.00 | 2012 |
+| 99 | Monaco | 1.00 | 2012 |
+| 100 | Morocco | 1.00 | 2012 |
+| 101 | Mexico | 1.00 | 2012 |
+| 102 | Netherlands | 1.00 | 2012 |
+| 103 | Norway | 1.00 | 2012 |
+| 104 | South Sudan | 1.00 | 2012 |
+| 105 | Qatar | 1.00 | 2012 |
+| 106 | Seychelles | 1.00 | 2012 |
+| 107 | South Africa | 1.00 | 2012 |
+| 108 | Svalbard | 1.00 | 2012 |
+| 109 | Switzerland | 1.00 | 2012 |
+| 110 | Turkmenistan | 1.00 | 2012 |
+| 111 | Albania | 1.00 | 2012 |

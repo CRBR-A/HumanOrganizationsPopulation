@@ -1,0 +1,8 @@
+Although Europeans had sighted the island at least as early as 1615, it was only named in 1643 for the day of its rediscovery. The island was annexed and settlement began by the UK in 1888 with the discovery of the island's phosphate deposits. Following the Second World War, Christmas Island came under the jurisdiction of the new British Colony of Singapore. The island existed as a separate Crown colony from 1 January 1958 to 1 October 1958 when its transfer to Australian jurisdiction was finalized. That date is still celebrated on the first Monday in October as Territory Day. Almost two-thirds of the island has been declared a national park.  
+
+---
+country: Christmas Island
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Christmas Island/>
+license: public domain (U.S.)
+...

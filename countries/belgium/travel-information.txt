@@ -1,0 +1,27 @@
+Telephone Code: 32
+Local Emergency Phone: 112 (cell)/ 101
+Climate: Temperate; mild winters, cool summers, rainy, humid, cloudy
+Currency (Code): Euro (EUR)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, E
+Major Languages: Dutch, French, German
+Major Religions: Roman Catholic 50%, Protestant and other Christian 2.5%, Muslim 5%, Jewish 0.4%, Buddhist 0.3%, atheist 9.2%, none 32.6%
+Time Difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time); daylight saving time: +1hr, begins last Sunday in March, ends last Sunday in October
+Potable Water: Yes
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Brussels (includes Grote Markt (Grand Place) and Saint-Cyr House); Brugge (includes Market Square and Basilica of the Holy Blood); Antwerp; Ghent; Waterloo
+Major Sports: Soccer, volleyball, table tennis, tennis, badminton
+Cultural Practices: Cleanliness is a source of pride in Belgium, where people can be seen washing the pavement in front of their house or sweeping the street.
+Tipping Guidelines: Tipping in restaurants is not expected because a 10-15% service charge is generally applied to a bill. Tips are not expected in taxis, but feel free to let your driver keep the change as a gratuity.
+Souvenirs: Handmade lace, woven tapestries and rugs, diamonds, beer, chocolate, perfume, antiques
+Traditional Cuisine: Moules-frites --- fresh mussels cooked in olive oil and white wine with garlic, thyme, and shallots served with potato fries
+
+---
+country: Belgium
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Belgium/travel-facts>
+license: public domain (U.S.)
+...

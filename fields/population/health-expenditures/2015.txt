@@ -1,0 +1,199 @@
+CIA - The World Factbook --  HEALTH EXPENDITURES
+
+Health expenditures provides the total expenditure on health as a percentage of GDP. Health expenditures are broadly defined as activities performed either by institutions or individuals through the application of medical, paramedical, and/or nursing knowledge and technology, the primary purpose of which is to promote, restore, or maintain health.
+
+| Rank | Country | (% OF GDP) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | United States | 17.90 | 2012 |
+| 2 | Marshall Islands | 15.60 | 2012 |
+| 3 | Liberia | 15.50 | 2012 |
+| 4 | Tuvalu | 15.40 | 2012 |
+| 5 | Sierra Leone | 15.10 | 2012 |
+| 6 | Micronesia, Federated States of | 12.80 | 2012 |
+| 7 | Netherlands | 12.40 | 2012 |
+| 8 | Moldova | 11.70 | 2012 |
+| 9 | France | 11.70 | 2012 |
+| 10 | Lesotho | 11.60 | 2012 |
+| 11 | Austria | 11.50 | 2012 |
+| 12 | Switzerland | 11.30 | 2012 |
+| 13 | Germany | 11.30 | 2012 |
+| 14 | Denmark | 11.20 | 2012 |
+| 15 | Canada | 10.90 | 2012 |
+| 16 | Belgium | 10.80 | 2012 |
+| 17 | Kiribati | 10.70 | 2012 |
+| 18 | Rwanda | 10.70 | 2012 |
+| 19 | Serbia | 10.50 | 2012 |
+| 20 | New Zealand | 10.30 | 2012 |
+| 21 | Paraguay | 10.30 | 2012 |
+| 22 | Japan | 10.10 | 2012 |
+| 23 | Costa Rica | 10.10 | 2012 |
+| 24 | Bosnia and Herzegovina | 9.90 | 2012 |
+| 25 | Jordan | 9.80 | 2012 |
+| 26 | Spain | 9.60 | 2012 |
+| 27 | Sweden | 9.60 | 2012 |
+| 28 | Palau | 9.50 | 2012 |
+| 29 | Portugal | 9.40 | 2012 |
+| 30 | United Kingdom | 9.40 | 2012 |
+| 31 | Brazil | 9.30 | 2012 |
+| 32 | Greece | 9.30 | 2012 |
+| 33 | Italy | 9.20 | 2012 |
+| 34 | Georgia | 9.20 | 2012 |
+| 35 | Malawi | 9.20 | 2012 |
+| 36 | Malta | 9.10 | 2012 |
+| 37 | Australia | 9.10 | 2012 |
+| 38 | Iceland | 9.10 | 2012 |
+| 39 | Finland | 9.10 | 2012 |
+| 40 | Norway | 9.00 | 2012 |
+| 41 | Uruguay | 8.90 | 2012 |
+| 42 | South Africa | 8.80 | 2012 |
+| 43 | Slovenia | 8.80 | 2012 |
+| 44 | Djibouti | 8.80 | 2012 |
+| 45 | Togo | 8.60 | 2012 |
+| 46 | Afghanistan | 8.60 | 2012 |
+| 47 | Cuba | 8.60 | 2012 |
+| 48 | Honduras | 8.60 | 2012 |
+| 49 | Swaziland | 8.50 | 2012 |
+| 50 | Maldives | 8.50 | 2012 |
+| 51 | Saint Lucia | 8.50 | 2012 |
+| 52 | Argentina | 8.50 | 2012 |
+| 53 | Andorra | 8.30 | 2012 |
+| 54 | Namibia | 8.30 | 2012 |
+| 55 | Nicaragua | 8.20 | 2012 |
+| 56 | Burundi | 8.10 | 2012 |
+| 57 | Ireland | 8.10 | 2012 |
+| 58 | Uganda | 8.00 | 2012 |
+| 59 | Solomon Islands | 8.00 | 2012 |
+| 60 | Sao Tome and Principe | 7.90 | 2012 |
+| 61 | Hungary | 7.80 | 2012 |
+| 62 | Slovakia | 7.80 | 2012 |
+| 63 | Czech Republic | 7.70 | 2012 |
+| 64 | Panama | 7.60 | 2012 |
+| 65 | Montenegro | 7.60 | 2012 |
+| 66 | Ukraine | 7.60 | 2012 |
+| 67 | Nauru | 7.50 | 2012 |
+| 68 | Israel | 7.50 | 2012 |
+| 69 | Korea, South | 7.50 | 2012 |
+| 70 | Bahamas, The | 7.50 | 2012 |
+| 71 | Bulgaria | 7.40 | 2012 |
+| 72 | Cyprus | 7.30 | 2012 |
+| 73 | Lebanon | 7.30 | 2012 |
+| 74 | Niger | 7.20 | 2012 |
+| 75 | Sudan | 7.20 | 2012 |
+| 76 | Chile | 7.20 | 2012 |
+| 77 | Kyrgyzstan | 7.10 | 2012 |
+| 78 | Cote d'Ivoire | 7.10 | 2012 |
+| 79 | Macedonia | 7.10 | 2012 |
+| 80 | Tunisia | 7.00 | 2012 |
+| 81 | Tanzania | 7.00 | 2012 |
+| 82 | Luxembourg | 6.90 | 2012 |
+| 83 | Samoa | 6.80 | 2012 |
+| 84 | Croatia | 6.80 | 2012 |
+| 85 | Colombia | 6.80 | 2012 |
+| 86 | Iran | 6.70 | 2012 |
+| 87 | Niue | 6.70 | 2012 |
+| 88 | Guatemala | 6.70 | 2012 |
+| 89 | Poland | 6.70 | 2012 |
+| 90 | Lithuania | 6.70 | 2012 |
+| 91 | El Salvador | 6.70 | 2012 |
+| 92 | Vietnam | 6.60 | 2012 |
+| 93 | Guyana | 6.60 | 2012 |
+| 94 | San Marino | 6.50 | 2012 |
+| 95 | Zambia | 6.50 | 2012 |
+| 96 | Haiti | 6.40 | 2012 |
+| 97 | Grenada | 6.40 | 2012 |
+| 98 | Ecuador | 6.40 | 2012 |
+| 99 | Mozambique | 6.40 | 2012 |
+| 100 | Mauritania | 6.40 | 2012 |
+| 101 | Morocco | 6.40 | 2012 |
+| 102 | Guinea | 6.30 | 2012 |
+| 103 | Turkey | 6.30 | 2012 |
+| 104 | Barbados | 6.30 | 2012 |
+| 105 | Mongolia | 6.30 | 2012 |
+| 106 | Russia | 6.30 | 2012 |
+| 107 | Burkina Faso | 6.20 | 2012 |
+| 108 | Mexico | 6.10 | 2012 |
+| 109 | Nigeria | 6.10 | 2012 |
+| 110 | Latvia | 6.00 | 2012 |
+| 111 | Albania | 6.00 | 2012 |
+| 112 | Dominica | 5.90 | 2012 |
+| 113 | Estonia | 5.90 | 2012 |
+| 114 | Jamaica | 5.90 | 2012 |
+| 115 | Suriname | 5.90 | 2012 |
+| 116 | Guinea-Bissau | 5.90 | 2012 |
+| 117 | Saint Kitts and Nevis | 5.90 | 2012 |
+| 118 | Uzbekistan | 5.90 | 2012 |
+| 119 | Mali | 5.80 | 2012 |
+| 120 | Tajikistan | 5.80 | 2012 |
+| 121 | Belize | 5.80 | 2012 |
+| 122 | Bolivia | 5.80 | 2012 |
+| 123 | Congo, Democratic Republic of the | 5.60 | 2012 |
+| 124 | Yemen | 5.50 | 2012 |
+| 125 | Nepal | 5.50 | 2012 |
+| 126 | China | 5.40 | 2012 |
+| 127 | Cambodia | 5.40 | 2012 |
+| 128 | Azerbaijan | 5.40 | 2012 |
+| 129 | Tonga | 5.40 | 2012 |
+| 130 | Dominican Republic | 5.40 | 2012 |
+| 131 | Trinidad and Tobago | 5.40 | 2012 |
+| 132 | Botswana | 5.30 | 2012 |
+| 133 | Ghana | 5.20 | 2012 |
+| 134 | Antigua and Barbuda | 5.20 | 2012 |
+| 135 | Algeria | 5.20 | 2012 |
+| 136 | Saint Vincent and the Grenadines | 5.20 | 2012 |
+| 137 | Papua New Guinea | 5.20 | 2012 |
+| 138 | Romania | 5.10 | 2012 |
+| 139 | Cameroon | 5.10 | 2012 |
+| 140 | Peru | 5.10 | 2012 |
+| 141 | Senegal | 5.00 | 2012 |
+| 142 | Egypt | 5.00 | 2012 |
+| 143 | Belarus | 5.00 | 2012 |
+| 144 | Gambia, The | 5.00 | 2012 |
+| 145 | Mauritius | 4.80 | 2012 |
+| 146 | Singapore | 4.70 | 2012 |
+| 147 | Seychelles | 4.70 | 2012 |
+| 148 | Kenya | 4.70 | 2012 |
+| 149 | Equatorial Guinea | 4.70 | 2012 |
+| 150 | Philippines | 4.60 | 2012 |
+| 151 | Venezuela | 4.60 | 2012 |
+| 152 | Armenia | 4.50 | 2012 |
+| 153 | Comoros | 4.50 | 2012 |
+| 154 | Benin | 4.50 | 2012 |
+| 155 | Monaco | 4.40 | 2012 |
+| 156 | Timor-Leste | 4.30 | 2012 |
+| 157 | Kazakhstan | 4.20 | 2012 |
+| 158 | Madagascar | 4.10 | 2012 |
+| 159 | India | 4.00 | 2012 |
+| 160 | Fiji | 4.00 | 2012 |
+| 161 | Malaysia | 4.00 | 2012 |
+| 162 | Libya | 3.90 | 2012 |
+| 163 | Thailand | 3.90 | 2012 |
+| 164 | Cabo Verde | 3.90 | 2012 |
+| 165 | Bahrain | 3.90 | 2012 |
+| 166 | Ethiopia | 3.80 | 2012 |
+| 167 | Bhutan | 3.80 | 2012 |
+| 168 | Central African Republic | 3.80 | 2012 |
+| 169 | Bangladesh | 3.60 | 2012 |
+| 170 | Iraq | 3.60 | 2012 |
+| 171 | Vanuatu | 3.60 | 2012 |
+| 172 | Angola | 3.50 | 2012 |
+| 173 | Gabon | 3.50 | 2012 |
+| 174 | Chad | 3.50 | 2012 |
+| 175 | Cook Islands | 3.40 | 2012 |
+| 176 | Syria | 3.40 | 2012 |
+| 177 | Sri Lanka | 3.30 | 2011 |
+| 178 | Saudi Arabia | 3.20 | 2012 |
+| 179 | Congo, Republic of the | 3.20 | 2012 |
+| 180 | Indonesia | 3.00 | 2012 |
+| 181 | Laos | 2.90 | 2012 |
+| 182 | United Arab Emirates | 2.80 | 2012 |
+| 183 | Pakistan | 2.70 | 2012 |
+| 184 | Eritrea | 2.60 | 2012 |
+| 185 | Oman | 2.60 | 2012 |
+| 186 | South Sudan | 2.60 | 2012 |
+| 187 | Kuwait | 2.50 | 2012 |
+| 188 | Brunei | 2.30 | 2012 |
+| 189 | Qatar | 2.20 | 2012 |
+| 190 | Turkmenistan | 2.00 | 2012 |
+| 191 | Burma | 1.80 | 2012 |
+
+

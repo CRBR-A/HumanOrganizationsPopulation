@@ -1,0 +1,156 @@
+CIA - The World Factbook --  Refugees and internally displaced persons   
+
+This entry includes those persons residing in a country as refugees or internally displaced persons (IDPs). The definition of a refugee according to a United Nations Convention is "a person who is outside his/her country of nationality or habitual residence; has a well-founded fear of persecution because of his/her race, religion, nationality, membership in a particular social group or political opinion; and is unable or unwilling to avail himself/herself of the protection of that country, or to return there, for fear of persecution." The UN established the Office of the UN High Commissioner for Refugees (UNHCR) in 1950 to handle refugee matters worldwide. The UN Relief and Works Agency for Palestine Refugees in the Near East (UNRWA) has a different operational definition for a Palestinian refugee: "a person whose normal place of residence was Palestine during the period 1 June 1946 to 15 May 1948 and who lost both home and means of livelihood as a result of the 1948 conflict." However, UNHCR also assists some 400,000 Palestinian refugees not covered under the UNRWA definition. The term "internally displaced person" is not specifically covered in the UN Convention; it is used to describe people who have fled their homes for reasons similar to refugees, but who remain within their own national territory and are subject to the laws of that state.
+
+| Rank | country | Refugees and internally displaced persons | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Congo, Democratic Republic of the | 2,435,351.00 | NA |
+| 2 | Jordan | 1,979,580.00 | NA |
+| 3 | Pakistan | 1,701,945.00 | NA |
+| 4 | Iran | 1,027,577.00 | 2012 |
+| 5 | Pakistan | 774,594.00 | NA |
+| 6 | West Bank | 727,471.00 | NA |
+| 7 | Azerbaijan | 599,417.00 | 2012 |
+| 8 | Kenya | 520,400.00 | NA |
+| 9 | Syria | 486,946.00 | 2012 |
+| 10 | Lebanon | 436,154.00 | NA |
+| 11 | Haiti | 357,785.00 | NA |
+| 12 | China | 300,897.00 | NA |
+| 13 | Chad | 298,311.00 | NA |
+| 14 | Saudi Arabia | 291,000.00 | 2009 |
+| 15 | Ethiopia | 252,338.00 | NA |
+| 16 | Bangladesh | 229,644.00 | NA |
+| 17 | Mali | 228,918.00 | NA |
+| 18 | Ethiopia | 228,645.00 | NA |
+| 19 | Yemen | 226,909.00 | NA |
+| 20 | Lebanon | 223,231.00 | NA |
+| 21 | Cyprus | 210,000.00 | 2010 |
+| 22 | Jordan | 204,303.00 | NA |
+| 23 | Venezuela | 201,941.00 | NA |
+| 24 | South Sudan | 183,169.00 | NA |
+| 25 | Indonesia | 180,000.00 | 2011 |
+| 26 | Kyrgyzstan | 172,000.00 | NA |
+| 27 | West Bank | 160,000.00 | NA |
+| 28 | Gaza Strip | 160,000.00 | NA |
+| 29 | Turkey | 156,801.00 | NA |
+| 30 | Peru | 150,000.00 | 2007 |
+| 31 | Congo, Republic of the | 131,648.00 | NA |
+| 32 | Liberia | 128,067.00 | NA |
+| 33 | Ecuador | 122,587.00 | NA |
+| 34 | Bosnia and Herzegovina | 113,000.00 | NA |
+| 35 | Syria | 101,244.00 | 2012 |
+| 36 | Sudan | 100,464.00 | NA |
+| 37 | India | 100,003.00 | NA |
+| 38 | Cameroon | 90,176.00 | NA |
+| 39 | Chad | 90,000.00 | NA |
+| 40 | China | 90,000.00 | NA |
+| 41 | Thailand | 88,148.00 | NA |
+| 42 | Uganda | 81,487.00 | NA |
+| 43 | Malaysia | 81,146.00 | NA |
+| 44 | Burundi | 78,796.00 | NA |
+| 45 | Congo, Democratic Republic of the | 78,144.00 | NA |
+| 46 | Iraq | 77,415.00 | NA |
+| 47 | Libya | 73,937.00 | NA |
+| 48 | Egypt | 70,029.00 | NA |
+| 49 | India | 68,152.00 | NA |
+| 50 | Tanzania | 67,549.00 | NA |
+| 51 | Chad | 67,414.00 | NA |
+| 52 | Tanzania | 61,913.00 | NA |
+| 53 | Congo, Democratic Republic of the | 61,481.00 | NA |
+| 54 | Nepal | 57,381.00 | NA |
+| 55 | Mauritania | 55,221.00 | NA |
+| 56 | Rwanda | 54,995.00 | NA |
+| 57 | Niger | 52,875.00 | NA |
+| 58 | Central African Republic | 51,679.00 | NA |
+| 59 | Nepal | 50,000.00 | NA |
+| 60 | Serbia | 49,946.00 | NA |
+| 61 | Ethiopia | 44,791.00 | NA |
+| 62 | Burkina Faso | 40,322.00 | NA |
+| 63 | Burundi | 35,213.00 | NA |
+| 64 | Kenya | 34,800.00 | NA |
+| 65 | Kenya | 34,000.00 | NA |
+| 66 | Sudan | 31,871.00 | NA |
+| 67 | Israel | 31,119.00 | NA |
+| 68 | Uganda | 30,000.00 | NA |
+| 69 | Jordan | 29,286.00 | NA |
+| 70 | Mauritania | 26,000.00 | NA |
+| 71 | Uganda | 23,678.00 | NA |
+| 72 | Cote d'Ivoire | 23,650.00 | NA |
+| 73 | Zambia | 23,500.00 | NA |
+| 74 | Serbia | 20,673.00 | NA |
+| 75 | Senegal | 19,917.00 | NA |
+| 76 | Angola | 19,500.00 | NA |
+| 77 | Austria | 18,473.00 | NA |
+| 78 | South Sudan | 18,400.00 | NA |
+| 79 | Uganda | 18,268.00 | NA |
+| 80 | Kosovo | 17,853.00 | NA |
+| 81 | United States | 16,972.00 | 2011 |
+| 82 | Ghana | 16,000.00 | 2011 |
+| 83 | Iraq | 15,606.00 | NA |
+| 84 | Panama | 15,598.00 | NA |
+| 85 | South Africa | 15,186.00 | NA |
+| 86 | Nepal | 15,000.00 | NA |
+| 87 | United States | 14,999.00 | 2011 |
+| 88 | Poland | 14,897.00 | NA |
+| 89 | Djibouti | 14,216.00 | NA |
+| 90 | Egypt | 14,156.00 | NA |
+| 91 | Togo | 13,676.00 | NA |
+| 92 | Angola | 13,648.00 | NA |
+| 93 | Central African Republic | 13,427.00 | NA |
+| 94 | Uganda | 12,998.00 | NA |
+| 95 | South Africa | 12,973.00 | NA |
+| 96 | Zambia | 12,509.00 | NA |
+| 97 | Mali | 12,442.00 | NA |
+| 98 | Ghana | 11,585.00 | 2011 |
+| 99 | Kenya | 11,500.00 | NA |
+| 100 | Iraq | 10,798.00 | NA |
+| 101 | Egypt | 10,324.00 | NA |
+| 102 | Costa Rica | 10,297.00 | NA |
+| 103 | Eritrea | 10,000.00 | NA |
+| 104 | Guinea | 9,972.00 | NA |
+| 105 | United States | 9,388.00 | 2011 |
+| 106 | Papua New Guinea | 9,368.00 | NA |
+| 107 | Montenegro | 9,367.00 | NA |
+| 108 | India | 9,161.00 | NA |
+| 109 | Lebanon | 9,056.00 | NA |
+| 110 | Israel | 9,000.00 | NA |
+| 111 | Congo, Democratic Republic of the | 8,915.00 | NA |
+| 112 | Austria | 8,636.00 | NA |
+| 113 | Armenia | 8,400.00 | 2009 |
+| 114 | Congo, Republic of the | 8,374.00 | NA |
+| 115 | Gambia, The | 8,359.00 | NA |
+| 116 | Sierra Leone | 8,046.00 | NA |
+| 117 | Iraq | 7,989.00 | NA |
+| 118 | Congo, Republic of the | 7,800.00 | NA |
+| 119 | Guinea-Bissau | 7,658.00 | NA |
+| 120 | Egypt | 7,595.00 | NA |
+| 121 | Bosnia and Herzegovina | 6,769.00 | NA |
+| 122 | India | 6,621.00 | NA |
+| 123 | Guinea | 6,380.00 | NA |
+| 124 | Egypt | 6,037.00 | NA |
+| 125 | Kenya | 6,000.00 | NA |
+| 126 | South Sudan | 5,889.00 | NA |
+| 127 | Benin | 5,883.00 | NA |
+| 128 | South Africa | 5,808.00 | NA |
+| 129 | Kyrgyzstan | 5,660.00 | NA |
+| 130 | Zambia | 5,559.00 | NA |
+| 131 | Nigeria | 5,299.00 | NA |
+| 132 | Turkey | 5,277.00 | NA |
+| 133 | Cameroon | 5,251.00 | NA |
+| 134 | Togo | 5,151.00 | NA |
+| 135 | Yemen | 4,686.00 | NA |
+| 136 | Sudan | 4,421.00 | NA |
+| 137 | Namibia | 4,322.00 | NA |
+| 138 | Tajikistan | 4,000.00 | 2012 |
+| 139 | Eritrea | 3,773.00 | NA |
+| 140 | Kazakhstan | 3,700.00 | 2007 |
+| 141 | Iran | 3,511.00 | 2012 |
+| 142 | United States | 3,161.00 | 2011 |
+| 143 | Libya | 3,100.00 | NA |
+| 144 | United States | 2,920.00 | 2011 |
+| 145 | Libya | 2,700.00 | NA |
+| 146 | United States | 2,032.00 | 2011 |
+| 147 | United States | 2,032.00 | 2011 |
+| 148 | Croatia | 2,000.00 | 2007 |
+| 149 | South Sudan | 1,589.00 | NA |
+| 150 | Kazakhstan | 508.00 | 2007 |

@@ -1,0 +1,963 @@
+CIA - The World Factbook --  Religions   
+
+This entry is an ordered listing of religions by adherents starting with the largest group and sometimes includes the percent of total population. The core characteristics and beliefs of the world's major religions are described below.
+| Baha'i - Founded by Mirza Husayn-Ali (known as Baha'u'llah) in Iran in 1852, Baha'i faith emphasizes monotheism and believes in one eternal transcendent God. Its guiding focus is to encourage the unity of all peoples on the earth so that justice and peace may be achieved on earth. Baha'i revelation contends the prophets of major world religions reflect some truth or element of the divine, believes all were manifestations of God given to specific communities in specific times, and that Baha'u'llah is an additional prophet meant to call all humankind. Bahais are an open community, located worldwide, with the greatest concentration of believers in South Asia. |
+| Buddhism - Religion or philosophy inspired by the 5th century B.C. teachings of Siddhartha Gautama (also known as Gautama Buddha "the enlightened one"). Buddhism focuses on the goal of spiritual enlightenment centered on an understanding of Gautama Buddha's Four Noble Truths on the nature of suffering, and on the Eightfold Path of spiritual and moral practice, to break the cycle of suffering of which we are a part. Buddhism ascribes to a karmic system of rebirth. Several schools and sects of Buddhism exist, differing often on the nature of the Buddha, the extent to which enlightenment can be achieved - for one or for all, and by whom - religious orders or laity. |
+| Basic Groupings |
+|    Theravada Buddhism: The oldest Buddhist school, Theravada is practiced mostly in Sri Lanka, Cambodia, Laos, Burma, and Thailand, with minority representation elsewhere in Asia and the West. Theravadans follow the Pali Canon of Buddha's teachings, and believe that one may escape the cycle of rebirth, worldly attachment, and suffering for oneself; this process may take one or several lifetimes. |
+|    Mahayana Buddhism, including subsets Zen and Tibetan Buddhism: Forms of Mahayana Buddhism are common in East Asia and Tibet, and parts of the West. Mahayanas have additional scriptures beyond the Pali Canon and believe the Buddha is eternal and still teaching. Unlike Theravada Buddhism, Mahayana schools maintain the Buddha-nature is present in all beings and all will ultimately achieve enlightenment. |
+| Christianity - Descending from Judaism, Christianity's central belief maintains Jesus of Nazareth is the promised messiah of the Hebrew Scriptures, and that his life, death, and resurrection are salvific for the world. Christianity is one of the three monotheistic Abrahamic faiths, along with Islam and Judaism, which traces its spiritual lineage to Abraham of the Hebrew Scriptures. Its sacred texts include the Hebrew Bible and the New Testament (or the Christian Gospels). |
+| Basic Groupings |
+|    Catholicism (or Roman Catholicism): This is the oldest established western Christian church and the world's largest single religious body. It is supranational, and recognizes a hierarchical structure with the Pope, or Bishop of Rome, as its head, located at the Vatican. Catholics believe the Pope is the divinely ordered head of the Church from a direct spiritual legacy of Jesus' apostle Peter. Catholicism is comprised of 23 particular Churches, or Rites - one Western (Latin-Rite) and 22 Eastern. The Latin Rite is by far the largest, making up about 98% of Catholic membership. Eastern-Rite Churches, such as the Maronite Church and the Ukrainian Catholic Church, are in communion with Rome although they preserve their own worship traditions and their immediate hierarchy consists of clergy within their own rite. The Catholic Church has a comprehensive theological and moral doctrine specified for believers in its catechism, which makes it unique among most forms of Christianity. |
+|    Mormonism (including the Church of Jesus Christ of Latter-Day Saints): Originating in 1830 in the United States under Joseph Smith, Mormonism is not characterized as a form of Protestant Christianity because it claims additional revealed Christian scriptures after the Hebrew Bible and New Testament. The Book of Mormon maintains there was an appearance of Jesus in the New World following the Christian account of his resurrection, and that the Americas are uniquely blessed continents. Mormonism believes earlier Christian traditions, such as the Roman Catholic, Orthodox, and Protestant reform faiths, are apostasies and that Joseph Smith's revelation of the Book of Mormon is a restoration of true Christianity. Mormons have a hierarchical religious leadership structure, and actively proselytize their faith; they are located primarily in the Americas and in a number of other Western countries. |
+|    Orthodox Christianity: The oldest established eastern form of Christianity, the Holy Orthodox Church, has a ceremonial head in the Bishop of Constantinople (Istanbul), also known as a Patriarch, but its various regional forms (e.g., Greek Orthodox, Russian Orthodox, Serbian Orthodox, Ukrainian Orthodox) are autocephalous (independent of Constantinople's authority, and have their own Patriarchs). Orthodox churches are highly nationalist and ethnic. The Orthodox Christian faith shares many theological tenets with the Roman Catholic Church, but diverges on some key premises and does not recognize the governing authority of the Pope. |
+|    Protestant Christianity: Protestant Christianity originated in the 16th century as an attempt to reform Roman Catholicism's practices, dogma, and theology. It encompasses several forms or denominations which are extremely varied in structure, beliefs, relationship to state, clergy, and governance. Many protestant theologies emphasize the primary role of scripture in their faith, advocating individual interpretation of Christian texts without the mediation of a final religious authority such as the Roman Pope. The oldest Protestant Christianities include Lutheranism, Calvinism (Presbyterians), and Anglican Christianity (Episcopalians), which have established liturgies, governing structure, and formal clergy. Other variants on Protestant Christianity, including Pentecostal movements and independent churches, may lack one or more of these elements, and their leadership and beliefs are individualized and dynamic. |
+| Hinduism - Originating in the Vedic civilization of India (second and first millennium B.C.), Hinduism is an extremely diverse set of beliefs and practices with no single founder or religious authority. Hinduism has many scriptures; the Vedas, the Upanishads, and the Bhagavad-Gita are among some of the most important. Hindus may worship one or many deities, usually with prayer rituals within their own home. The most common figures of devotion are the gods Vishnu, Shiva, and a mother goddess, Devi. Most Hindus believe the soul, or atman, is eternal, and goes through a cycle of birth, death, and rebirth (samsara) determined by one's positive or negative karma, or the consequences of one's actions. The goal of religious life is to learn to act so as to finally achieve liberation (moksha) of one's soul, escaping the rebirth cycle. |
+| Islam - The third of the monotheistic Abrahamic faiths, Islam originated with the teachings of Muhammad in the 7th century. Muslims believe Muhammad is the final of all religious prophets (beginning with Abraham) and that the Qu'ran, which is the Islamic scripture, was revealed to him by God. Islam derives from the word submission, and obedience to God is a primary theme in this religion. In order to live an Islamic life, believers must follow the five pillars, or tenets, of Islam, which are the testimony of faith (shahada), daily prayer (salah), giving alms (zakah), fasting during Ramadan (sawm), and the pilgrimage to Mecca (hajj). |
+| Basic Groupings |
+|    The two primary branches of Islam are Sunni and Shia, which split from each other over a religio-political leadership dispute about the rightful successor to Muhammad. The Shia believe Muhammad's cousin and son-in-law, Ali, was the only divinely ordained Imam (religious leader), while the Sunni maintain the first three caliphs after Muhammad were also legitimate authorities. In modern Islam, Sunnis and Shia continue to have different views of acceptable schools of Islamic jurisprudence, and who is a proper Islamic religious authority. Islam also has an active mystical branch, Sufism, with various Sunni and Shia subsets. |
+|     Sunni Islam accounts for over 75% of the world's Muslim population. It recognizes the Abu Bakr as the first caliph after Muhammad. Sunni has four schools of Islamic doctrine and law - Hanafi, Maliki, Shafi'i, and Hanbali - which uniquely interpret the Hadith, or recorded oral traditions of Muhammad. A Sunni Muslim may elect to follow any one of these schools, as all are considered equally valid. |
+|     Shia Islam represents 10-20% of Muslims worldwide, and its distinguishing feature is its reverence for Ali as an infallible, divinely inspired leader, and as the first Imam of the Muslim community after Muhammad. A majority of Shia are known as "Twelvers," because they believe that the 11 familial successor imams after Muhammad culminate in a 12th Imam (al-Mahdi) who is hidden in the world and will reappear at its end to redeem the righteous. |
+| Variants |
+|    Ismaili faith: A sect of Shia Islam, its adherents are also known as "Seveners," because they believe that the rightful seventh Imam in Islamic leadership was Isma'il, the elder son of Imam Jafar al-Sadiq. Ismaili tradition awaits the return of the seventh Imam as the Mahdi, or Islamic messianic figure. Ismailis are located in various parts of the world, particularly South Asia and the Levant. |
+|    Alawi faith: Another Shia sect of Islam, the name reflects followers' devotion to the religious authority of Ali. Alawites are a closed, secretive religious group who assert they are Shia Muslims, although outside scholars speculate their beliefs may have a syncretic mix with other faiths originating in the Middle East. Alawis live mostly in Syria, Lebanon, and Turkey. |
+|    Druze faith: A highly secretive tradition and a closed community that derives from the Ismaili sect of Islam; its core beliefs are thought to emphasize a combination of Gnostic principles believing that the Fatimid caliph, al-Hakin, is the one who embodies the key aspects of goodness of the universe, which are, the intellect, the word, the soul, the preceder, and the follower. The Druze have a key presence in Syria, Lebanon, and Israel. |
+| Jainism - Originating in India, Jain spiritual philosophy believes in an eternal human soul, the eternal universe, and a principle of "the own nature of things." It emphasizes compassion for all living things, seeks liberation of the human soul from reincarnation through enlightenment, and values personal responsibility due to the belief in the immediate consequences of one's behavior. Jain philosophy teaches non-violence and prescribes vegetarianism for monks and laity alike; its adherents are a highly influential religious minority in Indian society. |
+| Judaism - One of the first known monotheistic religions, likely dating to between 2000-1500 B.C., Judaism is the native faith of the Jewish people, based upon the belief in a covenant of responsibility between a sole omnipotent creator God and Abraham, the patriarch of Judaism's Hebrew Bible, or Tanakh. Divine revelation of principles and prohibitions in the Hebrew Scriptures form the basis of Jewish law, or halakhah, which is a key component of the faith. While there are extensive traditions of Jewish halakhic and theological discourse, there is no final dogmatic authority in the tradition. Local communities have their own religious leadership. Modern Judaism has three basic categories of faith: Orthodox, Conservative, and Reform/Liberal. These differ in their views and observance of Jewish law, with the Orthodox representing the most traditional practice, and Reform/Liberal communities the most accommodating of individualized interpretations of Jewish identity and faith. |
+| Shintoism - A native animist tradition of Japan, Shinto practice is based upon the premise that every being and object has its own spirit or kami. Shinto practitioners worship several particular kamis, including the kamis of nature, and families often have shrines to their ancestors' kamis. Shintoism has no fixed tradition of prayers or prescribed dogma, but is characterized by individual ritual. Respect for the kamis in nature is a key Shinto value. Prior to the end of World War II, Shinto was the state religion of Japan, and bolstered the cult of the Japanese emperor. |
+| Sikhism - Founded by the Guru Nanak (born 1469), Sikhism believes in a non-anthropomorphic, supreme, eternal, creator God; centering one's devotion to God is seen as a means of escaping the cycle of rebirth. Sikhs follow the teachings of Nanak and nine subsequent gurus. Their scripture, the Guru Granth Sahib - also known as the Adi Granth - is considered the living Guru, or final authority of Sikh faith and theology. Sikhism emphasizes equality of humankind and disavows caste, class, or gender discrimination. |
+| Taoism - Chinese philosophy or religion based upon Lao Tzu's Tao Te Ching, which centers on belief in the Tao, or the way, as the flow of the universe and the nature of things. Taoism encourages a principle of non-force, or wu-wei, as the means to live harmoniously with the Tao. Taoists believe the esoteric world is made up of a perfect harmonious balance and nature, while in the manifest world - particularly in the body - balance is distorted. The Three Jewels of the Tao - compassion, simplicity, and humility - serve as the basis for Taoist ethics. |
+| Zoroastrianism - Originating from the teachings of Zoroaster in about the 9th or 10th century B.C., Zoroastrianism may be the oldest continuing creedal religion. Its key beliefs center on a transcendent creator God, Ahura Mazda, and the concept of free will. The key ethical tenets of Zoroastrianism expressed in its scripture, the Avesta, are based on a dualistic worldview where one may prevent chaos if one chooses to serve God and exercises good thoughts, good words, and good deeds. Zoroastrianism is generally a closed religion and members are almost always born to Zoroastrian parents. Prior to the spread of Islam, Zoroastrianism dominated greater Iran. Today, though a minority, Zoroastrians remain primarily in Iran, India, and Pakistan. |
+| Rank | country | (%) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Mauritania | 100.00 | NA |
+| 2 | Pitcairn Islands | 100.00 | NA |
+| 3 | Saudi Arabia | 100.00 | NA |
+| 4 | Turkey | 99.80 | NA |
+| 5 | Gaza Strip | 99.30 | NA |
+| 6 | Algeria | 99.00 | NA |
+| 7 | Saint Pierre and Miquelon | 99.00 | NA |
+| 8 | Wallis and Futuna | 99.00 | NA |
+| 9 | Morocco | 98.70 | NA |
+| 10 | Comoros | 98.00 | NA |
+| 11 | Greece | 98.00 | NA |
+| 12 | Timor-Leste | 98.00 | 2005 |
+| 13 | Tunisia | 98.00 | NA |
+| 14 | Iran | 98.00 | NA |
+| 15 | Malta | 98.00 | NA |
+| 16 | Moldova | 98.00 | NA |
+| 17 | Honduras | 97.00 | NA |
+| 18 | Libya | 97.00 | NA |
+| 19 | Mayotte | 97.00 | NA |
+| 20 | Tuvalu | 97.00 | NA |
+| 21 | Iraq | 97.00 | NA |
+| 22 | Cambodia | 96.40 | 1998 census |
+| 23 | United Arab Emirates | 96.00 | NA |
+| 24 | Venezuela | 96.00 | NA |
+| 25 | Bolivia | 95.00 | NA |
+| 26 | Ecuador | 95.00 | NA |
+| 27 | Dominican Republic | 95.00 | NA |
+| 28 | Pakistan | 95.00 | NA |
+| 29 | Denmark | 95.00 | NA |
+| 30 | Armenia | 94.70 | NA |
+| 31 | Thailand | 94.60 | 2000 census |
+| 32 | Djibouti | 94.00 | NA |
+| 33 | Spain | 94.00 | NA |
+| 34 | Senegal | 94.00 | NA |
+| 35 | Azerbaijan | 93.40 | NA |
+| 36 | Taiwan | 93.00 | NA |
+| 37 | Argentina | 92.00 | NA |
+| 38 | Jordan | 92.00 | NA |
+| 39 | Colombia | 90.00 | NA |
+| 40 | Egypt | 90.00 | NA |
+| 41 | Hong Kong | 90.00 | NA |
+| 42 | Gambia, The | 90.00 | NA |
+| 43 | Mali | 90.00 | NA |
+| 44 | Monaco | 90.00 | NA |
+| 45 | Italy | 90.00 | NA |
+| 46 | Poland | 89.80 | 2002 |
+| 47 | Paraguay | 89.60 | 2002 census |
+| 48 | Burma | 89.00 | NA |
+| 49 | Turkmenistan | 89.00 | NA |
+| 50 | Uzbekistan | 88.00 | NA |
+| 51 | Croatia | 87.80 | 2001 census |
+| 52 | Ireland | 87.40 | 2006 census |
+| 53 | Luxembourg | 87.00 | 2000 |
+| 54 | Sweden | 87.00 | NA |
+| 55 | Romania | 86.80 | 2002 census |
+| 56 | Indonesia | 86.10 | 2000 census |
+| 57 | British Virgin Islands | 86.00 | 1991 |
+| 58 | Norway | 85.70 | 2004 |
+| 59 | Guinea | 85.00 | NA |
+| 60 | Tajikistan | 85.00 | 2003 est. |
+| 61 | Puerto Rico | 85.00 | NA |
+| 62 | Serbia | 85.00 | 2002 census |
+| 63 | Panama | 85.00 | NA |
+| 64 | Kuwait | 85.00 | NA |
+| 65 | Portugal | 84.50 | 2001 census |
+| 66 | Georgia | 83.90 | 2002 census |
+| 67 | Japan | 83.90 | 2005 |
+| 68 | Faroe Islands | 83.80 | 2006 administrative data |
+| 69 | Bangladesh | 83.00 | 1998 |
+| 70 | Bulgaria | 82.60 | 2001 census |
+| 71 | Finland | 82.50 | 2006 |
+| 72 | Seychelles | 82.30 | 2002 census |
+| 73 | Peru | 81.30 | 2007 Census |
+| 74 | Bahrain | 81.20 | 2001 census |
+| 75 | Philippines | 80.90 | 2000 census |
+| 76 | Aruba | 80.80 | NA |
+| 77 | Vietnam | 80.80 | 1999 census |
+| 78 | Iceland | 80.70 | 2006 est. |
+| 79 | Nepal | 80.60 | NA |
+| 80 | India | 80.50 | 2001 census |
+| 81 | Afghanistan | 80.00 | NA |
+| 82 | Niger | 80.00 | NA |
+| 83 | Haiti | 80.00 | NA |
+| 84 | Cocos (Keeling) Islands | 80.00 | 2002 est. |
+| 85 | Belarus | 80.00 | NA |
+| 86 | Malawi | 79.90 | 1998 census |
+| 87 | Lithuania | 79.00 | 2001 census |
+| 88 | Gibraltar | 78.10 | 2001 census |
+| 89 | Cyprus | 78.00 | NA |
+| 90 | Qatar | 77.50 | 2004 census |
+| 91 | Mexico | 76.50 | 2000 census |
+| 92 | Israel | 76.40 | 2004 |
+| 93 | Costa Rica | 76.30 | NA |
+| 94 | Liechtenstein | 76.20 | June 2002 |
+| 95 | Belgium | 75.00 | NA |
+| 96 | Oman | 75.00 | NA |
+| 97 | West Bank | 75.00 | NA |
+| 98 | Kyrgyzstan | 75.00 | NA |
+| 99 | Bhutan | 75.00 | NA |
+| 100 | Montenegro | 74.20 | 2003 census |
+| 101 | Syria | 74.00 | NA |
+| 102 | Austria | 73.60 | 2001 census |
+| 103 | Brazil | 73.60 | 2000 census |
+| 104 | Netherlands Antilles | 72.00 | 2001 census |
+| 105 | Botswana | 71.60 | 2001 census |
+| 106 | United Kingdom | 71.60 | 2001 census |
+| 107 | Japan | 71.40 | 2005 |
+| 108 | Sao Tome and Principe | 70.30 | 2001 census |
+| 109 | Albania | 70.00 | NA |
+| 110 | Chile | 70.00 | 2002 census |
+| 111 | Tokelau | 70.00 | NA |
+| 112 | Sudan | 70.00 | NA |
+| 113 | Sri Lanka | 69.10 | NA |
+| 114 | Slovakia | 68.90 | 2001 census |
+| 115 | Ghana | 68.80 | 2000 census |
+| 116 | Saint Lucia | 67.50 | 2001 census |
+| 117 | Falkland Islands (Islas Malvinas) | 67.20 | 2006 census |
+| 118 | Brunei | 67.00 | NA |
+| 119 | Laos | 67.00 | 2005 census |
+| 120 | Burundi | 67.00 | NA |
+| 121 | Macedonia | 64.70 | 2002 census |
+| 122 | Fiji | 64.50 | 2007 census |
+| 123 | Latvia | 63.70 | 2006 |
+| 124 | Barbados | 63.40 | 2008 est. |
+| 125 | Jamaica | 62.50 | 2001 census |
+| 126 | Dominica | 61.40 | 2001 census |
+| 127 | Niue | 61.10 | 2001 census |
+| 128 | Ethiopia | 60.80 | 1994 census |
+| 129 | Malaysia | 60.40 | 2000 census |
+| 130 | New Caledonia | 60.00 | NA |
+| 131 | Sierra Leone | 60.00 | NA |
+| 132 | Lebanon | 59.70 | NA |
+| 133 | Czech Republic | 59.00 | 2001 census |
+| 134 | Nicaragua | 58.50 | 2005 census |
+| 135 | Slovenia | 57.80 | 2002 census |
+| 136 | El Salvador | 57.10 | 2003 est. |
+| 137 | Rwanda | 56.50 | NA |
+| 138 | Cook Islands | 55.90 | 2001 census |
+| 139 | Marshall Islands | 54.80 | 1999 census |
+| 140 | French Polynesia | 54.00 | NA |
+| 141 | Chad | 53.10 | 1993 census |
+| 142 | Grenada | 53.00 | NA |
+| 143 | Kiribati | 52.00 | 1999 |
+| 144 | Madagascar | 52.00 | NA |
+| 145 | Hungary | 51.90 | 2001 census |
+| 146 | United States | 51.30 | 2007 est. |
+| 147 | Togo | 51.00 | NA |
+| 148 | Ukraine | 50.40 | 2006 est. |
+| 149 | American Samoa | 50.00 | NA |
+| 150 | Zimbabwe | 50.00 | NA |
+| 151 | Burkina Faso | 50.00 | NA |
+| 152 | Guinea-Bissau | 50.00 | NA |
+| 153 | Micronesia, Federated States of | 50.00 | NA |
+| 154 | Macau | 50.00 | NA |
+| 155 | Mongolia | 50.00 | 2004 |
+| 156 | Nigeria | 50.00 | NA |
+| 157 | Congo, Republic of the | 50.00 | NA |
+| 158 | Congo, Democratic Republic of the | 50.00 | NA |
+| 159 | Belize | 49.60 | NA |
+| 160 | Korea, South | 49.30 | 1995 census |
+| 161 | Congo, Republic of the | 48.00 | NA |
+| 162 | Mauritius | 48.00 | 2000 census |
+| 163 | Uruguay | 47.10 | 2006 |
+| 164 | Angola | 47.00 | NA |
+| 165 | Saint Vincent and the Grenadines | 47.00 | NA |
+| 166 | Kazakhstan | 47.00 | NA |
+| 167 | Micronesia, Federated States of | 47.00 | NA |
+| 168 | Kenya | 45.00 | NA |
+| 169 | Kazakhstan | 44.00 | NA |
+| 170 | Benin | 42.80 | 2002 census |
+| 171 | Canada | 42.60 | 2001 census |
+| 172 | Singapore | 42.50 | 2000 census |
+| 173 | Netherlands | 42.00 | 2006 |
+| 174 | Virgin Islands | 42.00 | NA |
+| 175 | Uganda | 42.00 | 2002 census |
+| 176 | Uganda | 41.90 | 2002 census |
+| 177 | Switzerland | 41.80 | 2000 census |
+| 178 | Palau | 41.60 | 2000 census |
+| 179 | Madagascar | 41.00 | NA |
+| 180 | Bosnia and Herzegovina | 40.00 | NA |
+| 181 | Cameroon | 40.00 | NA |
+| 182 | Kiribati | 40.00 | 1999 |
+| 183 | Guinea-Bissau | 40.00 | NA |
+| 184 | Swaziland | 40.00 | NA |
+| 185 | Burkina Faso | 40.00 | NA |
+| 186 | Turks and Caicos Islands | 40.00 | NA |
+| 187 | Mongolia | 40.00 | 2004 |
+| 188 | Nigeria | 40.00 | NA |
+| 189 | Liberia | 40.00 | NA |
+| 190 | Liberia | 40.00 | NA |
+| 191 | Cameroon | 40.00 | NA |
+| 192 | Lebanon | 39.00 | NA |
+| 193 | Cote d'Ivoire | 38.60 | NA |
+| 194 | Angola | 38.00 | NA |
+| 195 | Christmas Island | 36.00 | 1997 |
+| 196 | South Africa | 36.00 | 2001 census |
+| 197 | Bahamas, The | 35.40 | 2000 census |
+| 198 | Nauru | 35.40 | 2002 census |
+| 199 | Switzerland | 35.30 | 2000 census |
+| 200 | Central African Republic | 35.00 | NA |
+| 201 | Macau | 35.00 | NA |
+| 202 | Tanzania | 35.00 | NA |
+| 203 | Samoa | 34.80 | 2001 census |
+| 204 | Estonia | 34.10 | 2000 census |
+| 205 | Germany | 34.00 | NA |
+| 206 | Germany | 34.00 | NA |
+| 207 | Virgin Islands | 34.00 | NA |
+| 208 | Macedonia | 33.30 | 2002 census |
+| 209 | Grenada | 33.20 | NA |
+| 210 | Nauru | 33.20 | 2002 census |
+| 211 | Kenya | 33.00 | NA |
+| 212 | Solomon Islands | 32.80 | 1999 census |
+| 213 | Ethiopia | 32.80 | 1994 census |
+| 214 | Cote d'Ivoire | 32.80 | NA |
+| 215 | Estonia | 32.00 | 2000 census |
+| 216 | Norfolk Island | 31.80 | 2006 census |
+| 217 | Falkland Islands (Islas Malvinas) | 31.50 | 2006 census |
+| 218 | Laos | 31.50 | 2005 census |
+| 219 | Vanuatu | 31.40 | 1999 Census |
+| 220 | Bosnia and Herzegovina | 31.00 | NA |
+| 221 | Anguilla | 30.20 | 2001 census |
+| 222 | American Samoa | 30.00 | NA |
+| 223 | New Caledonia | 30.00 | NA |
+| 224 | French Polynesia | 30.00 | NA |
+| 225 | Netherlands | 30.00 | 2006 |
+| 226 | Sierra Leone | 30.00 | NA |
+| 227 | Tanzania | 30.00 | NA |
+| 228 | Swaziland | 30.00 | NA |
+| 229 | Anguilla | 29.00 | 2001 census |
+| 230 | Togo | 29.00 | NA |
+| 231 | Guyana | 28.40 | 2002 census |
+| 232 | Germany | 28.30 | NA |
+| 233 | Tokelau | 28.00 | NA |
+| 234 | Saint Vincent and the Grenadines | 28.00 | NA |
+| 235 | Fiji | 27.90 | 2007 census |
+| 236 | Suriname | 27.40 | NA |
+| 237 | Belize | 27.00 | NA |
+| 238 | Papua New Guinea | 27.00 | 2000 census |
+| 239 | Czech Republic | 26.80 | 2001 census |
+| 240 | Korea, South | 26.30 | 1995 census |
+| 241 | Ukraine | 26.10 | 2006 est. |
+| 242 | Cayman Islands | 26.00 | 1999 census |
+| 243 | New Zealand | 26.00 | 2001 census |
+| 244 | Rwanda | 26.00 | NA |
+| 245 | Trinidad and Tobago | 26.00 | 2000 census |
+| 246 | Australia | 25.80 | 2006 Census |
+| 247 | Marshall Islands | 25.80 | 1999 census |
+| 248 | Antigua and Barbuda | 25.70 | 2001 census |
+| 249 | Suriname | 25.20 | NA |
+| 250 | Belgium | 25.00 | NA |
+| 251 | Central African Republic | 25.00 | NA |
+| 252 | Bhutan | 25.00 | NA |
+| 253 | Zimbabwe | 25.00 | NA |
+| 254 | Sudan | 25.00 | NA |
+| 255 | Central African Republic | 25.00 | NA |
+| 256 | Christmas Island | 25.00 | 1997 |
+| 257 | Oman | 25.00 | NA |
+| 258 | Benin | 24.40 | 2002 census |
+| 259 | Zimbabwe | 24.00 | NA |
+| 260 | Anguilla | 23.90 | 2001 census |
+| 261 | United States | 23.90 | 2007 est. |
+| 262 | Mozambique | 23.80 | 1997 census |
+| 263 | Mauritius | 23.60 | 2000 census |
+| 264 | Canada | 23.30 | 2001 census |
+| 265 | Palau | 23.30 | 2000 census |
+| 266 | Korea, South | 23.20 | 1995 census |
+| 267 | Uruguay | 23.20 | 2006 |
+| 268 | Mozambique | 23.10 | 1997 census |
+| 269 | United Kingdom | 23.10 | 2001 census |
+| 270 | Bermuda | 23.00 | 2000 census |
+| 271 | Slovenia | 23.00 | 2002 census |
+| 272 | Burundi | 23.00 | NA |
+| 273 | Suriname | 22.80 | NA |
+| 274 | Trinidad and Tobago | 22.50 | 2000 census |
+| 275 | Nicaragua | 21.60 | 2005 census |
+| 276 | El Salvador | 21.20 | 2003 est. |
+| 277 | Christmas Island | 21.00 | 1997 |
+| 278 | Jamaica | 20.90 | 2001 census |
+| 279 | Barbados | 20.60 | 2008 est. |
+| 280 | Botswana | 20.60 | 2001 census |
+| 281 | Chad | 20.10 | 1993 census |
+| 282 | Albania | 20.00 | NA |
+| 283 | American Samoa | 20.00 | NA |
+| 284 | Swaziland | 20.00 | NA |
+| 285 | Togo | 20.00 | NA |
+| 286 | Niger | 20.00 | NA |
+| 287 | Liberia | 20.00 | NA |
+| 288 | Kyrgyzstan | 20.00 | NA |
+| 289 | Cameroon | 20.00 | NA |
+| 290 | Cocos (Keeling) Islands | 20.00 | 2002 est. |
+| 291 | Congo, Democratic Republic of the | 20.00 | NA |
+| 292 | Belarus | 20.00 | NA |
+| 293 | Norfolk Island | 19.90 | 2006 census |
+| 294 | Latvia | 19.60 | 2006 |
+| 295 | Samoa | 19.60 | 2001 census |
+| 296 | Suriname | 19.60 | NA |
+| 297 | Papua New Guinea | 19.50 | 2000 census |
+| 298 | Sao Tome and Principe | 19.40 | 2001 census |
+| 299 | Malaysia | 19.20 | 2000 census |
+| 300 | Afghanistan | 19.00 | NA |
+| 301 | Solomon Islands | 19.00 | 1999 census |
+| 302 | Australia | 18.70 | 2006 Census |
+| 303 | Australia | 18.70 | 2006 Census |
+| 304 | Bermuda | 18.00 | 2000 census |
+| 305 | Turks and Caicos Islands | 18.00 | NA |
+| 306 | Cyprus | 18.00 | NA |
+| 307 | Christmas Island | 18.00 | 1997 |
+| 308 | Mozambique | 17.80 | 1997 census |
+| 309 | Mozambique | 17.80 | 1997 census |
+| 310 | Guyana | 17.70 | 2002 census |
+| 311 | Montenegro | 17.70 | 2003 census |
+| 312 | Mozambique | 17.50 | 1997 census |
+| 313 | Benin | 17.30 | 2002 census |
+| 314 | New Zealand | 17.20 | 2001 census |
+| 315 | Uruguay | 17.20 | 2006 |
+| 316 | Solomon Islands | 17.00 | 1999 census |
+| 317 | West Bank | 17.00 | NA |
+| 318 | Virgin Islands | 17.00 | NA |
+| 319 | Guyana | 16.90 | 2002 census |
+| 320 | Cook Islands | 16.80 | 2001 census |
+| 321 | El Salvador | 16.80 | 2003 est. |
+| 322 | Cote d'Ivoire | 16.70 | NA |
+| 323 | Mauritius | 16.60 | 2000 census |
+| 324 | Norfolk Island | 16.60 | 2006 census |
+| 325 | Palau | 16.40 | 2000 census |
+| 326 | Faroe Islands | 16.20 | 2006 administrative data |
+| 327 | Bangladesh | 16.00 | 1998 |
+| 328 | Haiti | 16.00 | NA |
+| 329 | Syria | 16.00 | NA |
+| 330 | Turks and Caicos Islands | 16.00 | NA |
+| 331 | Israel | 16.00 | 2004 |
+| 332 | Canada | 16.00 | 2001 census |
+| 333 | Ghana | 15.90 | 2000 census |
+| 334 | Hungary | 15.90 | 2001 census |
+| 335 | Nicaragua | 15.70 | 2005 census |
+| 336 | Benin | 15.50 | 2002 census |
+| 337 | Brazil | 15.40 | 2000 census |
+| 338 | Latvia | 15.30 | 2006 |
+| 339 | Bahamas, The | 15.20 | 2000 census |
+| 340 | Bahamas, The | 15.10 | 2000 census |
+| 341 | Finland | 15.10 | 2006 |
+| 342 | South Africa | 15.10 | 2001 census |
+| 343 | Chile | 15.10 | 2002 census |
+| 344 | Angola | 15.00 | NA |
+| 345 | Bermuda | 15.00 | 2000 census |
+| 346 | Samoa | 15.00 | 2001 census |
+| 347 | Puerto Rico | 15.00 | NA |
+| 348 | Panama | 15.00 | NA |
+| 349 | Macau | 15.00 | NA |
+| 350 | Kuwait | 15.00 | NA |
+| 351 | Central African Republic | 15.00 | NA |
+| 352 | Bosnia and Herzegovina | 15.00 | NA |
+| 353 | New Zealand | 14.90 | 2001 census |
+| 354 | Singapore | 14.90 | 2000 census |
+| 355 | Singapore | 14.80 | 2000 census |
+| 356 | Hungary | 14.50 | 2001 census |
+| 357 | Chad | 14.20 | 1993 census |
+| 358 | Jamaica | 14.20 | 2001 census |
+| 359 | Nauru | 14.10 | 2002 census |
+| 360 | Bermuda | 14.00 | 2000 census |
+| 361 | Belize | 14.00 | NA |
+| 362 | Bosnia and Herzegovina | 14.00 | NA |
+| 363 | Turks and Caicos Islands | 14.00 | NA |
+| 364 | Qatar | 14.00 | 2004 census |
+| 365 | Grenada | 13.80 | NA |
+| 366 | Vanuatu | 13.80 | 1999 Census |
+| 367 | Mexico | 13.80 | 2000 census |
+| 368 | Costa Rica | 13.70 | NA |
+| 369 | Estonia | 13.60 | 2000 census |
+| 370 | Bahamas, The | 13.50 | 2000 census |
+| 371 | India | 13.40 | 2001 census |
+| 372 | Vanuatu | 13.40 | 1999 Census |
+| 373 | Vanuatu | 13.10 | 1999 Census |
+| 374 | Brunei | 13.00 | NA |
+| 375 | Slovakia | 13.00 | 2001 census |
+| 376 | Luxembourg | 13.00 | 2000 |
+| 377 | Sweden | 13.00 | NA |
+| 378 | Saint Vincent and the Grenadines | 13.00 | NA |
+| 379 | Estonia | 12.80 | 2000 census |
+| 380 | Malawi | 12.80 | 1998 census |
+| 381 | Samoa | 12.70 | 2001 census |
+| 382 | Peru | 12.50 | 2007 Census |
+| 383 | New Zealand | 12.40 | 2001 census |
+| 384 | Antigua and Barbuda | 12.30 | 2001 census |
+| 385 | Bulgaria | 12.20 | 2001 census |
+| 386 | Uganda | 12.10 | 2002 census |
+| 387 | United States | 12.10 | 2007 est. |
+| 388 | Austria | 12.00 | 2001 census |
+| 389 | Turks and Caicos Islands | 12.00 | NA |
+| 390 | Bermuda | 12.00 | 2000 census |
+| 391 | Saint Vincent and the Grenadines | 12.00 | NA |
+| 392 | Cote d'Ivoire | 11.90 | NA |
+| 393 | Canada | 11.80 | 2001 census |
+| 394 | Cayman Islands | 11.80 | 1999 census |
+| 395 | Norfolk Island | 11.50 | 2006 census |
+| 396 | Papua New Guinea | 11.50 | 2000 census |
+| 397 | Australia | 11.30 | 2006 Census |
+| 398 | Solomon Islands | 11.20 | 1999 census |
+| 399 | Hungary | 11.10 | 2001 census |
+| 400 | South Africa | 11.10 | 2001 census |
+| 401 | Uruguay | 11.10 | 2006 |
+| 402 | Switzerland | 11.10 | 2000 census |
+| 403 | Rwanda | 11.10 | NA |
+| 404 | Bermuda | 11.00 | 2000 census |
+| 405 | Netherlands | 11.00 | 2006 |
+| 406 | Cayman Islands | 11.00 | 1999 census |
+| 407 | New Zealand | 10.90 | 2001 census |
+| 408 | Slovakia | 10.80 | 2001 census |
+| 409 | Trinidad and Tobago | 10.80 | 2000 census |
+| 410 | Vanuatu | 10.80 | 1999 Census |
+| 411 | Nepal | 10.70 | NA |
+| 412 | Antigua and Barbuda | 10.60 | 2001 census |
+| 413 | Norfolk Island | 10.60 | 2006 census |
+| 414 | Liechtenstein | 10.60 | June 2002 |
+| 415 | Antigua and Barbuda | 10.50 | 2001 census |
+| 416 | Antigua and Barbuda | 10.40 | 2001 census |
+| 417 | Nauru | 10.40 | 2002 census |
+| 418 | Solomon Islands | 10.30 | 1999 census |
+| 419 | Slovenia | 10.10 | 2002 census |
+| 420 | Albania | 10.00 | NA |
+| 421 | Burundi | 10.00 | NA |
+| 422 | Congo, Democratic Republic of the | 10.00 | NA |
+| 423 | Congo, Democratic Republic of the | 10.00 | NA |
+| 424 | Colombia | 10.00 | NA |
+| 425 | Monaco | 10.00 | NA |
+| 426 | Kenya | 10.00 | NA |
+| 427 | Kenya | 10.00 | NA |
+| 428 | Italy | 10.00 | NA |
+| 429 | Hong Kong | 10.00 | NA |
+| 430 | French Polynesia | 10.00 | NA |
+| 431 | Congo, Democratic Republic of the | 10.00 | NA |
+| 432 | Sri Lanka | 10.00 | NA |
+| 433 | Swaziland | 10.00 | NA |
+| 434 | British Virgin Islands | 10.00 | 1991 |
+| 435 | Burkina Faso | 10.00 | NA |
+| 436 | Tajikistan | 10.00 | 2003 est. |
+| 437 | Syria | 10.00 | NA |
+| 438 | Sierra Leone | 10.00 | NA |
+| 439 | Guinea-Bissau | 10.00 | NA |
+| 440 | Papua New Guinea | 10.00 | 2000 census |
+| 441 | Nigeria | 10.00 | NA |
+| 442 | New Caledonia | 10.00 | NA |
+| 443 | Brunei | 10.00 | NA |
+| 444 | Brunei | 10.00 | NA |
+| 445 | Georgia | 9.90 | 2002 census |
+| 446 | Bahrain | 9.80 | 2001 census |
+| 447 | Cayman Islands | 9.80 | 1999 census |
+| 448 | Singapore | 9.80 | 2000 census |
+| 449 | Vanuatu | 9.60 | 1999 Census |
+| 450 | Lithuania | 9.50 | 2001 census |
+| 451 | Belize | 9.40 | NA |
+| 452 | New Zealand | 9.40 | 2001 census |
+| 453 | Vietnam | 9.30 | 1999 census |
+| 454 | Malaysia | 9.10 | 2000 census |
+| 455 | Bahrain | 9.00 | 2001 census |
+| 456 | Uzbekistan | 9.00 | NA |
+| 457 | Turkmenistan | 9.00 | NA |
+| 458 | Portugal | 9.00 | 2001 census |
+| 459 | Mali | 9.00 | NA |
+| 460 | Egypt | 9.00 | NA |
+| 461 | Papua New Guinea | 8.90 | 2000 census |
+| 462 | Czech Republic | 8.80 | 2001 census |
+| 463 | Niue | 8.80 | 2001 census |
+| 464 | Palau | 8.80 | 2000 census |
+| 465 | Cayman Islands | 8.70 | 1999 census |
+| 466 | Niue | 8.70 | 2001 census |
+| 467 | Mauritius | 8.60 | 2000 census |
+| 468 | Papua New Guinea | 8.60 | 2000 census |
+| 469 | Ghana | 8.50 | 2000 census |
+| 470 | Saint Lucia | 8.50 | 2001 census |
+| 471 | Singapore | 8.50 | 2000 census |
+| 472 | Qatar | 8.50 | 2004 census |
+| 473 | Niue | 8.40 | 2001 census |
+| 474 | Marshall Islands | 8.40 | 1999 census |
+| 475 | Chile | 8.30 | 2002 census |
+| 476 | Poland | 8.30 | 2002 |
+| 477 | Cayman Islands | 8.20 | 1999 census |
+| 478 | South Africa | 8.20 | 2001 census |
+| 479 | Bahamas, The | 8.10 | 2000 census |
+| 480 | Guyana | 8.10 | 2002 census |
+| 481 | Norway | 8.10 | 2004 |
+| 482 | Gambia, The | 8.00 | NA |
+| 483 | Ukraine | 8.00 | 2006 est. |
+| 484 | West Bank | 8.00 | NA |
+| 485 | Guinea | 8.00 | NA |
+| 486 | Kiribati | 8.00 | 1999 |
+| 487 | Antigua and Barbuda | 7.90 | 2001 census |
+| 488 | Cook Islands | 7.90 | 2001 census |
+| 489 | Australia | 7.90 | 2006 Census |
+| 490 | Japan | 7.80 | 2005 |
+| 491 | Trinidad and Tobago | 7.80 | 2000 census |
+| 492 | Dominica | 7.70 | 2001 census |
+| 493 | Sri Lanka | 7.60 | NA |
+| 494 | Romania | 7.50 | 2002 census |
+| 495 | Brazil | 7.40 | 2000 census |
+| 496 | Chad | 7.30 | 1993 census |
+| 497 | Guyana | 7.20 | 2002 census |
+| 498 | Niue | 7.20 | 2001 census |
+| 499 | Trinidad and Tobago | 7.20 | 2000 census |
+| 500 | Ukraine | 7.20 | 2006 est. |
+| 501 | Sri Lanka | 7.10 | NA |
+| 502 | South Africa | 7.10 | 2001 census |
+| 503 | Barbados | 7.00 | 2008 est. |
+| 504 | Guinea | 7.00 | NA |
+| 505 | Kazakhstan | 7.00 | NA |
+| 506 | Madagascar | 7.00 | NA |
+| 507 | Virgin Islands | 7.00 | NA |
+| 508 | Liechtenstein | 7.00 | June 2002 |
+| 509 | Gibraltar | 7.00 | 2001 census |
+| 510 | Guyana | 6.90 | 2002 census |
+| 511 | South Africa | 6.80 | 2001 census |
+| 512 | Trinidad and Tobago | 6.80 | 2000 census |
+| 513 | South Africa | 6.70 | 2001 census |
+| 514 | Vietnam | 6.70 | 1999 census |
+| 515 | Samoa | 6.60 | 2001 census |
+| 516 | Seychelles | 6.40 | 2002 census |
+| 517 | Fiji | 6.30 | 2007 census |
+| 518 | Malaysia | 6.30 | 2000 census |
+| 519 | Mexico | 6.30 | 2000 census |
+| 520 | Sri Lanka | 6.20 | NA |
+| 521 | Iceland | 6.20 | 2006 est. |
+| 522 | Paraguay | 6.20 | 2002 census |
+| 523 | Liechtenstein | 6.20 | June 2002 |
+| 524 | Dominica | 6.10 | 2001 census |
+| 525 | Ghana | 6.10 | 2000 census |
+| 526 | Estonia | 6.10 | 2000 census |
+| 527 | Botswana | 6.00 | 2001 census |
+| 528 | Djibouti | 6.00 | NA |
+| 529 | Mongolia | 6.00 | 2004 |
+| 530 | Spain | 6.00 | NA |
+| 531 | Netherlands | 6.00 | 2006 |
+| 532 | Jordan | 6.00 | NA |
+| 533 | French Polynesia | 6.00 | NA |
+| 534 | Dominica | 6.00 | 2001 census |
+| 535 | Bermuda | 6.00 | 2000 census |
+| 536 | Antigua and Barbuda | 5.80 | 2001 census |
+| 537 | Trinidad and Tobago | 5.80 | 2000 census |
+| 538 | Trinidad and Tobago | 5.80 | 2000 census |
+| 539 | Netherlands | 5.80 | 2006 |
+| 540 | Cook Islands | 5.80 | 2001 census |
+| 541 | Cayman Islands | 5.80 | 1999 census |
+| 542 | Australia | 5.70 | 2006 Census |
+| 543 | Saint Lucia | 5.70 | 2001 census |
+| 544 | Anguilla | 5.70 | 2001 census |
+| 545 | Indonesia | 5.70 | 2000 census |
+| 546 | Cayman Islands | 5.70 | 1999 census |
+| 547 | Dominica | 5.60 | 2001 census |
+| 548 | Norfolk Island | 5.60 | 2006 census |
+| 549 | Vanuatu | 5.60 | 1999 Census |
+| 550 | Lithuania | 5.50 | 2001 census |
+| 551 | Serbia | 5.50 | 2002 census |
+| 552 | Antigua and Barbuda | 5.40 | 2001 census |
+| 553 | Cayman Islands | 5.30 | 1999 census |
+| 554 | Palau | 5.30 | 2000 census |
+| 555 | Anguilla | 5.20 | 2001 census |
+| 556 | Papua New Guinea | 5.20 | 2000 census |
+| 557 | Netherlands Antilles | 5.20 | 2001 census |
+| 558 | Croatia | 5.20 | 2001 census |
+| 559 | Aruba | 5.10 | NA |
+| 560 | Saint Lucia | 5.10 | 2001 census |
+| 561 | Bolivia | 5.00 | NA |
+| 562 | Guyana | 5.00 | 2002 census |
+| 563 | Ecuador | 5.00 | NA |
+| 564 | Dominican Republic | 5.00 | NA |
+| 565 | Suriname | 5.00 | NA |
+| 566 | Tajikistan | 5.00 | 2003 est. |
+| 567 | Sudan | 5.00 | NA |
+| 568 | Senegal | 5.00 | NA |
+| 569 | Philippines | 5.00 | 2000 census |
+| 570 | Pakistan | 5.00 | NA |
+| 571 | Kyrgyzstan | 5.00 | NA |
+| 572 | Antigua and Barbuda | 4.90 | 2001 census |
+| 573 | Netherlands Antilles | 4.90 | 2001 census |
+| 574 | Barbados | 4.80 | 2008 est. |
+| 575 | Costa Rica | 4.80 | NA |
+| 576 | Bahamas, The | 4.80 | 2000 census |
+| 577 | Singapore | 4.80 | 2000 census |
+| 578 | Austria | 4.70 | 2001 census |
+| 579 | Romania | 4.70 | 2002 census |
+| 580 | Aruba | 4.60 | NA |
+| 581 | Thailand | 4.60 | 2000 census |
+| 582 | Rwanda | 4.60 | NA |
+| 583 | Ethiopia | 4.60 | 1994 census |
+| 584 | Chile | 4.60 | 2002 census |
+| 585 | Antigua and Barbuda | 4.50 | 2001 census |
+| 586 | Samoa | 4.50 | 2001 census |
+| 587 | Taiwan | 4.50 | NA |
+| 588 | Saint Lucia | 4.50 | 2001 census |
+| 589 | Philippines | 4.50 | 2000 census |
+| 590 | Nauru | 4.50 | 2002 census |
+| 591 | Solomon Islands | 4.40 | 1999 census |
+| 592 | Canada | 4.40 | 2001 census |
+| 593 | Croatia | 4.40 | 2001 census |
+| 594 | Anguilla | 4.30 | 2001 census |
+| 595 | Guyana | 4.30 | 2002 census |
+| 596 | Guyana | 4.30 | 2002 census |
+| 597 | Switzerland | 4.30 | 2000 census |
+| 598 | Switzerland | 4.30 | 2000 census |
+| 599 | Malawi | 4.30 | 1998 census |
+| 600 | Austria | 4.20 | 2001 census |
+| 601 | Barbados | 4.20 | 2008 est. |
+| 602 | Bahamas, The | 4.20 | 2000 census |
+| 603 | Netherlands Antilles | 4.20 | 2001 census |
+| 604 | Nepal | 4.20 | NA |
+| 605 | Ireland | 4.20 | 2006 census |
+| 606 | Cook Islands | 4.20 | 2001 census |
+| 607 | Aruba | 4.10 | NA |
+| 608 | Dominica | 4.10 | 2001 census |
+| 609 | Slovakia | 4.10 | 2001 census |
+| 610 | Lithuania | 4.10 | 2001 census |
+| 611 | United Arab Emirates | 4.00 | NA |
+| 612 | Armenia | 4.00 | NA |
+| 613 | Burma | 4.00 | NA |
+| 614 | France | 4.00 | NA |
+| 615 | United States | 4.00 | 2007 est. |
+| 616 | Trinidad and Tobago | 4.00 | 2000 census |
+| 617 | Singapore | 4.00 | 2000 census |
+| 618 | Mongolia | 4.00 | 2004 |
+| 619 | Gibraltar | 4.00 | 2001 census |
+| 620 | Cyprus | 4.00 | NA |
+| 621 | Bulgaria | 4.00 | 2001 census |
+| 622 | Burma | 4.00 | NA |
+| 623 | Argentina | 4.00 | NA |
+| 624 | Georgia | 3.90 | 2002 census |
+| 625 | Portugal | 3.90 | 2001 census |
+| 626 | Israel | 3.90 | 2004 |
+| 627 | Cayman Islands | 3.80 | 1999 census |
+| 628 | South Africa | 3.80 | 2001 census |
+| 629 | Cook Islands | 3.80 | 2001 census |
+| 630 | Dominica | 3.70 | 2001 census |
+| 631 | Germany | 3.70 | NA |
+| 632 | Iceland | 3.60 | 2006 est. |
+| 633 | Marshall Islands | 3.60 | 1999 census |
+| 634 | Nepal | 3.60 | NA |
+| 635 | Austria | 3.50 | 2001 census |
+| 636 | Samoa | 3.50 | 2001 census |
+| 637 | Slovenia | 3.50 | 2002 census |
+| 638 | Netherlands Antilles | 3.50 | 2001 census |
+| 639 | Montenegro | 3.50 | 2003 census |
+| 640 | Indonesia | 3.40 | 2000 census |
+| 641 | Seychelles | 3.40 | 2002 census |
+| 642 | Sao Tome and Principe | 3.40 | 2001 census |
+| 643 | Czech Republic | 3.30 | 2001 census |
+| 644 | Papua New Guinea | 3.30 | 2000 census |
+| 645 | Peru | 3.30 | 2007 Census |
+| 646 | New Zealand | 3.30 | 2001 census |
+| 647 | Costa Rica | 3.20 | NA |
+| 648 | Gibraltar | 3.20 | 2001 census |
+| 649 | Slovakia | 3.20 | 2001 census |
+| 650 | Ukraine | 3.20 | 2006 est. |
+| 651 | Serbia | 3.20 | 2002 census |
+| 652 | Papua New Guinea | 3.20 | 2000 census |
+| 653 | Norfolk Island | 3.20 | 2006 census |
+| 654 | Chad | 3.10 | 1993 census |
+| 655 | Netherlands Antilles | 3.10 | 2001 census |
+| 656 | Sao Tome and Principe | 3.10 | 2001 census |
+| 657 | Uganda | 3.10 | 2002 census |
+| 658 | Palau | 3.10 | 2000 census |
+| 659 | Mexico | 3.10 | 2000 census |
+| 660 | Australia | 3.00 | 2006 Census |
+| 661 | Cook Islands | 3.00 | 2001 census |
+| 662 | Denmark | 3.00 | NA |
+| 663 | Haiti | 3.00 | NA |
+| 664 | Uzbekistan | 3.00 | NA |
+| 665 | Netherlands | 3.00 | 2006 |
+| 666 | Montenegro | 3.00 | 2003 census |
+| 667 | Malawi | 3.00 | 1998 census |
+| 668 | Mayotte | 3.00 | NA |
+| 669 | Libya | 3.00 | NA |
+| 670 | Iraq | 3.00 | NA |
+| 671 | Indonesia | 3.00 | 2000 census |
+| 672 | Iceland | 3.00 | 2006 est. |
+| 673 | Hungary | 3.00 | 2001 census |
+| 674 | Honduras | 3.00 | NA |
+| 675 | Micronesia, Federated States of | 3.00 | NA |
+| 676 | Bahamas, The | 2.90 | 2000 census |
+| 677 | Peru | 2.90 | 2007 Census |
+| 678 | New Zealand | 2.90 | 2001 census |
+| 679 | Netherlands Antilles | 2.90 | 2001 census |
+| 680 | Gibraltar | 2.90 | 2001 census |
+| 681 | Ireland | 2.90 | 2006 census |
+| 682 | Marshall Islands | 2.80 | 1999 census |
+| 683 | Philippines | 2.80 | 2000 census |
+| 684 | Australia | 2.70 | 2006 Census |
+| 685 | United Kingdom | 2.70 | 2001 census |
+| 686 | Cayman Islands | 2.70 | 1999 census |
+| 687 | Cook Islands | 2.60 | 2001 census |
+| 688 | Hungary | 2.60 | 2001 census |
+| 689 | Serbia | 2.60 | 2002 census |
+| 690 | Serbia | 2.60 | 2002 census |
+| 691 | Malaysia | 2.60 | 2000 census |
+| 692 | Jamaica | 2.60 | 2001 census |
+| 693 | Aruba | 2.50 | NA |
+| 694 | United States | 2.50 | 2007 est. |
+| 695 | Taiwan | 2.50 | NA |
+| 696 | Papua New Guinea | 2.50 | 2000 census |
+| 697 | Mauritius | 2.50 | 2000 census |
+| 698 | Iceland | 2.50 | 2006 est. |
+| 699 | Azerbaijan | 2.50 | NA |
+| 700 | Australia | 2.40 | 2006 Census |
+| 701 | Norway | 2.40 | 2004 |
+| 702 | Slovenia | 2.40 | 2002 census |
+| 703 | Nauru | 2.40 | 2002 census |
+| 704 | Niue | 2.40 | 2001 census |
+| 705 | Solomon Islands | 2.40 | 1999 census |
+| 706 | Iceland | 2.40 | 2006 est. |
+| 707 | Solomon Islands | 2.40 | 1999 census |
+| 708 | Azerbaijan | 2.30 | NA |
+| 709 | Slovenia | 2.30 | 2002 census |
+| 710 | South Africa | 2.30 | 2001 census |
+| 711 | Philippines | 2.30 | 2000 census |
+| 712 | India | 2.30 | 2001 census |
+| 713 | El Salvador | 2.30 | 2003 est. |
+| 714 | Netherlands | 2.20 | 2006 |
+| 715 | Ukraine | 2.20 | 2006 est. |
+| 716 | Ukraine | 2.20 | 2006 est. |
+| 717 | Portugal | 2.20 | 2001 census |
+| 718 | Australia | 2.10 | 2006 Census |
+| 719 | Seychelles | 2.10 | 2002 census |
+| 720 | Marshall Islands | 2.10 | 1999 census |
+| 721 | Ireland | 2.10 | 2006 census |
+| 722 | Saint Lucia | 2.10 | 2001 census |
+| 723 | Gibraltar | 2.10 | 2001 census |
+| 724 | Czech Republic | 2.10 | 2001 census |
+| 725 | Cambodia | 2.10 | 1998 census |
+| 726 | Antigua and Barbuda | 2.00 | 2001 census |
+| 727 | Turkmenistan | 2.00 | NA |
+| 728 | Sao Tome and Principe | 2.00 | 2001 census |
+| 729 | Tokelau | 2.00 | NA |
+| 730 | Saint Lucia | 2.00 | 2001 census |
+| 731 | Saint Lucia | 2.00 | 2001 census |
+| 732 | Philippines | 2.00 | 2000 census |
+| 733 | Kazakhstan | 2.00 | NA |
+| 734 | Kenya | 2.00 | NA |
+| 735 | Jordan | 2.00 | NA |
+| 736 | Japan | 2.00 | 2005 |
+| 737 | Iran | 2.00 | NA |
+| 738 | Gambia, The | 2.00 | NA |
+| 739 | France | 2.00 | NA |
+| 740 | British Virgin Islands | 2.00 | 1991 |
+| 741 | British Virgin Islands | 2.00 | 1991 |
+| 742 | Venezuela | 2.00 | NA |
+| 743 | Venezuela | 2.00 | NA |
+| 744 | Denmark | 2.00 | NA |
+| 745 | Comoros | 2.00 | NA |
+| 746 | Congo, Republic of the | 2.00 | NA |
+| 747 | Burma | 2.00 | NA |
+| 748 | Austria | 2.00 | 2001 census |
+| 749 | Argentina | 2.00 | NA |
+| 750 | Argentina | 2.00 | NA |
+| 751 | Canada | 1.90 | 2001 census |
+| 752 | Samoa | 1.90 | 2001 census |
+| 753 | Trinidad and Tobago | 1.90 | 2000 census |
+| 754 | Paraguay | 1.90 | 2002 census |
+| 755 | Niue | 1.90 | 2001 census |
+| 756 | Lithuania | 1.90 | 2001 census |
+| 757 | India | 1.90 | 2001 census |
+| 758 | El Salvador | 1.90 | 2003 est. |
+| 759 | Ireland | 1.90 | 2006 census |
+| 760 | Azerbaijan | 1.80 | NA |
+| 761 | Switzerland | 1.80 | 2000 census |
+| 762 | Sao Tome and Principe | 1.80 | 2001 census |
+| 763 | Philippines | 1.80 | 2000 census |
+| 764 | Norway | 1.80 | 2004 |
+| 765 | Indonesia | 1.80 | 2000 census |
+| 766 | India | 1.80 | 2001 census |
+| 767 | Gibraltar | 1.80 | 2001 census |
+| 768 | Brazil | 1.80 | 2000 census |
+| 769 | Ethiopia | 1.80 | 1994 census |
+| 770 | Australia | 1.70 | 2006 Census |
+| 771 | United States | 1.70 | 2007 est. |
+| 772 | United States | 1.70 | 2007 est. |
+| 773 | Rwanda | 1.70 | NA |
+| 774 | New Zealand | 1.70 | 2001 census |
+| 775 | Nicaragua | 1.70 | 2005 census |
+| 776 | Netherlands Antilles | 1.70 | 2001 census |
+| 777 | Israel | 1.70 | 2004 |
+| 778 | Chad | 1.70 | 1993 census |
+| 779 | Guyana | 1.70 | 2002 census |
+| 780 | Anguilla | 1.70 | 2001 census |
+| 781 | Macedonia | 1.63 | 2002 census |
+| 782 | Dominica | 1.60 | 2001 census |
+| 783 | United States | 1.60 | 2007 est. |
+| 784 | United Kingdom | 1.60 | 2001 census |
+| 785 | Nicaragua | 1.60 | 2005 census |
+| 786 | Israel | 1.60 | 2004 |
+| 787 | Iceland | 1.60 | 2006 est. |
+| 788 | Aruba | 1.50 | NA |
+| 789 | Marshall Islands | 1.50 | 1999 census |
+| 790 | Seychelles | 1.50 | 2002 census |
+| 791 | Vietnam | 1.50 | 1999 census |
+| 792 | Saint Lucia | 1.50 | 2001 census |
+| 793 | South Africa | 1.50 | 2001 census |
+| 794 | Seychelles | 1.50 | 2002 census |
+| 795 | Moldova | 1.50 | NA |
+| 796 | Malaysia | 1.50 | 2000 census |
+| 797 | Laos | 1.50 | 2005 census |
+| 798 | Ireland | 1.50 | 2006 census |
+| 799 | Botswana | 1.40 | 2001 census |
+| 800 | Tuvalu | 1.40 | NA |
+| 801 | Trinidad and Tobago | 1.40 | 2000 census |
+| 802 | South Africa | 1.40 | 2001 census |
+| 803 | Niue | 1.40 | 2001 census |
+| 804 | Estonia | 1.40 | 2000 census |
+| 805 | Armenia | 1.30 | NA |
+| 806 | Brazil | 1.30 | 2000 census |
+| 807 | Cambodia | 1.30 | 1998 census |
+| 808 | Falkland Islands (Islas Malvinas) | 1.30 | 2006 census |
+| 809 | Croatia | 1.30 | 2001 census |
+| 810 | Vanuatu | 1.30 | 1999 Census |
+| 811 | Samoa | 1.30 | 2001 census |
+| 812 | Poland | 1.30 | 2002 |
+| 813 | New Zealand | 1.30 | 2001 census |
+| 814 | Netherlands Antilles | 1.30 | 2001 census |
+| 815 | Lebanon | 1.30 | NA |
+| 816 | Korea, South | 1.30 | 1995 census |
+| 817 | Greece | 1.30 | NA |
+| 818 | Dominica | 1.30 | 2001 census |
+| 819 | Costa Rica | 1.30 | NA |
+| 820 | Aruba | 1.20 | NA |
+| 821 | Bulgaria | 1.20 | 2001 census |
+| 822 | Dominica | 1.20 | 2001 census |
+| 823 | Netherlands Antilles | 1.20 | 2001 census |
+| 824 | Dominica | 1.20 | 2001 census |
+| 825 | Chile | 1.10 | 2002 census |
+| 826 | Finland | 1.10 | 2006 |
+| 827 | Cayman Islands | 1.10 | 1999 census |
+| 828 | Finland | 1.10 | 2006 |
+| 829 | Paraguay | 1.10 | 2002 census |
+| 830 | Serbia | 1.10 | 2002 census |
+| 831 | Vietnam | 1.10 | 1999 census |
+| 832 | Uruguay | 1.10 | 2006 |
+| 833 | Saint Lucia | 1.10 | 2001 census |
+| 834 | Seychelles | 1.10 | 2002 census |
+| 835 | Seychelles | 1.10 | 2002 census |
+| 836 | Paraguay | 1.10 | 2002 census |
+| 837 | Morocco | 1.10 | NA |
+| 838 | Guyana | 1.10 | 2002 census |
+| 839 | Afghanistan | 1.00 | NA |
+| 840 | Bermuda | 1.00 | 2000 census |
+| 841 | Bangladesh | 1.00 | 1998 |
+| 842 | Burma | 1.00 | NA |
+| 843 | Algeria | 1.00 | NA |
+| 844 | Saint Pierre and Miquelon | 1.00 | NA |
+| 845 | Norway | 1.00 | 2004 |
+| 846 | Norway | 1.00 | 2004 |
+| 847 | Vanuatu | 1.00 | 1999 Census |
+| 848 | Mali | 1.00 | NA |
+| 849 | Montenegro | 1.00 | 2003 census |
+| 850 | Latvia | 1.00 | 2006 |
+| 851 | Hungary | 1.00 | 2001 census |
+| 852 | Haiti | 1.00 | NA |
+| 853 | France | 1.00 | NA |
+| 854 | Egypt | 1.00 | NA |
+| 855 | Zimbabwe | 1.00 | NA |
+| 856 | Zambia | 1.00 | NA |
+| 857 | Wallis and Futuna | 1.00 | NA |
+| 858 | United Kingdom | 1.00 | 2001 census |
+| 859 | Tuvalu | 1.00 | NA |
+| 860 | Timor-Leste | 1.00 | 2005 |
+| 861 | Timor-Leste | 1.00 | 2005 |
+| 862 | Tunisia | 1.00 | NA |
+| 863 | Tunisia | 1.00 | NA |
+| 864 | Switzerland | 1.00 | 2000 census |
+| 865 | Senegal | 1.00 | NA |
+| 866 | Marshall Islands | 1.00 | 1999 census |
+| 867 | Chile | 1.00 | 2002 census |
+| 868 | Gibraltar | 0.90 | 2001 census |
+| 869 | Nepal | 0.90 | NA |
+| 870 | Croatia | 0.90 | 2001 census |
+| 871 | Nicaragua | 0.90 | 2005 census |
+| 872 | Uganda | 0.90 | 2002 census |
+| 873 | Slovenia | 0.90 | 2002 census |
+| 874 | Romania | 0.90 | 2002 census |
+| 875 | Palau | 0.90 | 2000 census |
+| 876 | Bahamas, The | 0.80 | 2000 census |
+| 877 | Malaysia | 0.80 | 2000 census |
+| 878 | Georgia | 0.80 | 2002 census |
+| 879 | Georgia | 0.80 | 2002 census |
+| 880 | Costa Rica | 0.70 | NA |
+| 881 | Thailand | 0.70 | 2000 census |
+| 882 | Singapore | 0.70 | 2000 census |
+| 883 | El Salvador | 0.70 | 2003 est. |
+| 884 | Fiji | 0.70 | 2007 census |
+| 885 | Ghana | 0.70 | 2000 census |
+| 886 | Gaza Strip | 0.70 | NA |
+| 887 | Greece | 0.70 | NA |
+| 888 | Georgia | 0.70 | 2002 census |
+| 889 | United States | 0.70 | 2007 est. |
+| 890 | Montenegro | 0.60 | 2003 census |
+| 891 | Palau | 0.60 | 2000 census |
+| 892 | Philippines | 0.60 | 2000 census |
+| 893 | Tuvalu | 0.60 | NA |
+| 894 | United States | 0.60 | 2007 est. |
+| 895 | Ukraine | 0.60 | 2006 est. |
+| 896 | Seychelles | 0.60 | 2002 census |
+| 897 | Chad | 0.50 | 1993 census |
+| 898 | Moldova | 0.50 | NA |
+| 899 | Vietnam | 0.50 | 1999 census |
+| 900 | Botswana | 0.40 | 2001 census |
+| 901 | Switzerland | 0.40 | 2000 census |
+| 902 | Mauritius | 0.40 | 2000 census |
+| 903 | Latvia | 0.40 | 2006 |
+| 904 | Israel | 0.40 | 2004 |
+| 905 | Croatia | 0.40 | 2001 census |
+| 906 | Macedonia | 0.37 | 2002 census |
+| 907 | Solomon Islands | 0.30 | 1999 census |
+| 908 | Brazil | 0.30 | 2000 census |
+| 909 | Fiji | 0.30 | 2007 census |
+| 910 | Fiji | 0.30 | 2007 census |
+| 911 | Uruguay | 0.30 | 2006 |
+| 912 | Papua New Guinea | 0.30 | 2000 census |
+| 913 | Portugal | 0.30 | 2001 census |
+| 914 | Poland | 0.30 | 2002 |
+| 915 | Poland | 0.30 | 2002 |
+| 916 | Mexico | 0.30 | 2000 census |
+| 917 | Mauritius | 0.30 | 2000 census |
+| 918 | Aruba | 0.20 | NA |
+| 919 | Solomon Islands | 0.20 | 1999 census |
+| 920 | Turkey | 0.20 | NA |
+| 921 | Cambodia | 0.20 | 1998 census |
+| 922 | Morocco | 0.20 | NA |
+| 923 | Brazil | 0.20 | 2000 census |
+| 924 | Finland | 0.10 | 2006 |
+| 925 | Vietnam | 0.10 | 1999 census |
+| 926 | Samoa | 0.10 | 2001 census |
+| 927 | Thailand | 0.10 | 2000 census |
+| 928 | Rwanda | 0.10 | NA |
+| 929 | India | 0.10 | 2001 census |
+| 930 | Philippines | 0.10 | 2000 census |
+| 931 | Romania | 0.10 | 2002 census |

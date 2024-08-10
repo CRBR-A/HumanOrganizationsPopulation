@@ -1,0 +1,29 @@
+Telephone Code: 84
+Local Emergency Phone - Ambulance: 05
+Local Emergency Phone - Fire: 08
+Local Emergency Phone - Police: 03
+Climate: Tropical in south; monsoonal in north with hot, rainy season (May to September) and warm, dry season (October to March)
+Currency (Code): Dong (VND)
+Electricity: 220 V
+Voltage: 50 Hz
+Plug types(s): A, B, C
+Major Languages: Vietnamese, English, French, Chinese, Khmer, mountain-area languages (Mon-Khmer and Malayo-Polynesian)
+Major Religions: Buddhist 7.9%, Catholic 6.6%, Hoa Hao 1.7%, Cao Dai 0.9%, Protestant 0.9%, Muslim 0.1%, none 81.8%
+Time Difference: UTC+7 (12 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Ha Long Bay; Ho Chi Minh City (Saigon); Hue (includes Imperial Citadel and Thien Mu Pagoda); Phong Nha-Ke Bang National Park; Hoi An; Sapa Countryside; My Son
+Major Sports: Soccer, vovinam (Vietnamese martial art)
+Cultural Practices: Standing with your hands on your hips or crossing your arms on your chest are seen as impolite body language.
+Tipping Guidelines: Tipping 5-10% of the bill, if a service charge is not added, is polite at restaurants. At the bar, leave loose change or round up the bill. Bellhops expect $1 (USD) per bag for a gratuity. Good housekeeping service deserves $1-2 (USD) per day. Taxis do not expect a tip, but drivers appreciate hearing "keep the change."
+Souvenirs: Conical hats, ao dai tunics, leather goods, handmade jewelry, scarves and silk-embroidered items, clay miniatures, sand paintings
+Traditional Cuisine: Pho --- rice noodles in beef or chicken broth seasoned with cumin, coriander powder, black cardamom, roasted onion powder, roasted ginger powder, fennel, and cloves; sometimes beef slices and/or vegetable sprouts are added
+
+---
+country: Vietnam
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Vietnam/travel-facts>
+license: public domain (U.S.)
+...

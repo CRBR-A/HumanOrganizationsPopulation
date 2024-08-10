@@ -1,0 +1,8 @@
+The exact origins of the Nauruans are unclear since their language does not resemble any other in the Pacific region. Germany annexed the island in 1888. A German-British consortium began mining the island's phosphate deposits early in the 20th century. Australian forces occupied Nauru in World War I; it subsequently became a League of Nations mandate. After the Second World War - and a brutal occupation by Japan - Nauru became a UN trust territory. It achieved independence in 1968 and became one of the richest countries in the world because of its extensive phosphate stocks; however, the phosphate was depleted in the early 1980s and the quality of life began to decline. In 2001, an Australian offshore refugee processing center was opened in Nauru, providing an economic lifeline. Nauru is one of Taiwan's few remaining diplomatic partners, and in 2008, Nauru recognized the breakaway Georgian republics of Abkhazia and South Ossetia.  
+
+---
+country: Nauru
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Nauru/>
+license: public domain (U.S.)
+...

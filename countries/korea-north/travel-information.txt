@@ -1,0 +1,27 @@
+Telephone Code: 850
+Local Emergency Phone: Local numbers only
+Climate: Temperate, with rainfall concentrated in summer; long, bitter winters
+Currency (Code): North Korean won (KPW)
+Electricity: 220 V
+Voltage: 50 Hz
+Plug types(s): C
+Major Languages: Korean
+Major Religions: Traditionally Buddhist and Confucianist, some Christian and syncretic Chondogyo (Religion of the Heavenly Way)
+Time Difference: UTC+9 (14 hours ahead of Washington, DC, during Standard Time); note: on 5 May 2018, North Korea reverted to UTC+9, the same time zone as South Korea
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Complex of Koguryo Tombs
+Major Sports: Soccer, basketball
+Cultural Practices: North Korean authorities carefully track and monitor foreign travelers in the country.
+Tipping Guidelines: For an extended tour, guides expect 10-30 euros and drivers 10 euros per traveler.
+Souvenirs: Stamps and postcards, propaganda posters, obsolete currency, watch movements, panacea teas
+Traditional Cuisine: Kimchi raengmyŏn --- long, thin handmade noodles made from the flour and starch of various ingredients such as buckwheat, potatoes, sweet potatoes, arrowroot starch, or kudzu, and beef or poultry broth; typically served cold
+
+---
+country: Korea, North
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Korea, North/travel-facts>
+license: public domain (U.S.)
+...

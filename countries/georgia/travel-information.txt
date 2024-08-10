@@ -1,0 +1,27 @@
+Telephone Code: 995
+Local Emergency Phone: 22
+Climate: Warm and pleasant; Mediterranean-like on the Black Sea coast
+Currency (Code): Laris (GEL)
+Electricity: 220 V
+Voltage: 50 Hz
+Plug types(s): C, F
+Major Languages: Georgian, Azeri, Armenian, Russian
+Major Religions: Orthodox 83.4%, Muslim 10.7%, Armenian Apostolic 2.9%
+Time Difference: UTC+4 (9 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Kakheti; Kutaisi; Lake Ritsa; Ananuri Castle; Tbilisi; Monastery of the Cross
+Major Sports: Soccer, wrestling, rugby, weightlifting, basketball
+Cultural Practices: Even numbers of flowers are used in funerals, while odd numbers are used as gifts.
+Tipping Guidelines: Check to see if a 10% service charge has been applied to your bill. If not, leave a gratuity of around 10-15% of the bill. If you are staying at a higher-end hotel, tip the bellhop around 1-2 laris per bag and leave the maid at least 5 laris per day.
+Souvenirs: Cloisonne jewelry and decorative items, silk clothing and accessories, woven carpets, felt items, religious icons, nesting dolls, wine and brandy
+Traditional Cuisine: Khachapuri, Sulguni --- cheese-filled, leavened, and baked bread topped with a cracked soft-boiled egg and butter just before serving
+
+---
+country: Georgia
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Georgia/travel-facts>
+license: public domain (U.S.)
+...

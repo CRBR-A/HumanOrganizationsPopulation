@@ -1,0 +1,27 @@
+Telephone Code: 968
+Local Emergency Phone: 999
+Climate: Dry desert; hot, humid along coast; hot, dry interior; strong southwest summer monsoon (May to September) in far south
+Currency (Code): Omani rials (OMR)
+Electricity: 240 V
+Voltage: 50 Hz
+Plug types(s): G
+Major Languages: Arabic, English, Baluchi, Swahili, Urdu, Indian dialects
+Major Religions: Muslim 85.9%, Christian 6.5%, Hindu 5.5%, Buddhist 0.8%, Jewish <0.1%
+Time Difference: UTC+4 (9 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Yes
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Wahiba Sands; Musandam Fjords; Ras al Jinz; Jebel Akhdar; Salalah; Bahla; Masirah Island; Archeological sites at Bat, Al-Khutm, & Al-Ayn; Grand Mosque in Muscat; Souq Muttrah
+Major Sports: Dhow racing (sailing), horse racing, falconry, camel racing, bull fighting
+Cultural Practices: Pointing your foot at another person is considered very rude, as is showing the sole of one's foot.
+Tipping Guidelines: A tip of 10% is considered the norm at restaurants and hotels. Rounding up or letting the driver keep the change is appropriate for taxis.
+Souvenirs: Khanjar daggers, silver boxes inlaid with lapis lazuli, coffee and tea sets, frankincense and incense burners, clay pots, Quran stands, silver and gold jewelry, hand-woven goat-hair carpets, woven baskets
+Traditional Cuisine: Shuwa --- lamb or goat meat coated in a spice blend of chili peppers, cardamom, cloves, cumin, or coriander then wrapped in banana or palm leaves and placed in a woven bag before being roasted and smoked in underground pits; typically served on a bed of rice with a tomato-based sauce
+
+---
+country: Oman
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Oman/travel-facts>
+license: public domain (U.S.)
+...

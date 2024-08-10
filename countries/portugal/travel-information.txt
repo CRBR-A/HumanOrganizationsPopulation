@@ -1,0 +1,27 @@
+Telephone Code: 351
+Local Emergency Phone: 112
+Climate: Maritime temperate; cool and rainy in north, warmer and drier in south
+Currency (Code): Euros (EUR)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, F
+Major Languages: Portuguese, Mirandese
+Major Religions: Roman Catholic 81%, other Christian 3.3%, other (includes Jewish, Muslim) 0.6%
+Time Difference: UTC 0 (5 hours ahead of Washington, DC, during Standard Time); daylight saving time: +1hr, begins last Sunday in March, ends last Sunday in October; note: Portugal h 2 time zones, including the Azores (UTC-1)
+Potable Water: Yes
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Lisbon (includes Belem Tower, Monument to the Discoveries, Oceanarium, Jeronimos Monastery, Sao Jorge Castle, Ajuda Palace); Palacio Nacional de Sintra; Convento do Cristo (Tomar); Guimaraes Castle
+Major Sports: Soccer, tennis
+Cultural Practices: The number 13 is considered unlucky in Portugal. It is best not to give 13 flowers in an arrangement as a gift.
+Tipping Guidelines: In tourist areas, if a service fee is not included in a restaurant bill, tip 10%. Tip 1-2 euros at the bar for good service. Tipping your tour guide and driver around 5 euros each day is appropriate. Taxi drivers in Portugal will not expect a tip, but if they turn up on time, share information about the country, and generally provide good service, rounding up the fare is common. Tip porters 1-2 euros per bag.
+Souvenirs: Hand-painted dishes and ceramic tiles, wood-inlaid items, antiques, port wine
+Traditional Cuisine: Bacalhau --- dried and salted cod fish usually soaked first in water or milk; typically prepared with a variety of ingredients including potatoes, carrots, cabbage, or eggs and may be baked, boiled, or fried
+
+---
+country: Portugal
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Portugal/travel-facts>
+license: public domain (U.S.)
+...

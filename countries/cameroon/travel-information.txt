@@ -1,0 +1,27 @@
+Telephone Code: 237
+Local Emergency Phone: Local numbers only
+Climate: Varies with terrain, from tropical along coast to semiarid and hot in north
+Currency (Code): Cooperation Financiere en Afrique Central francs (Central African CFA franc, XAF)
+Electricity: 220 V
+Voltage: 50 Hz
+Plug types(s): C, E
+Major Languages: 24 major African language groups, English, French
+Major Religions: Roman Catholic 38.3%, Protestant 25.5%, other Christian 6.9%, Muslim 24.4%, animist 2.2%
+Time Difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Yaounde; Limbe; Douala; Waza National Park; Bamenda; Foumban Palace; Lake Nyos
+Major Sports: Soccer, tennis, boxing, basketball, cycling
+Cultural Practices: Government officials are regularly referred to as "excellency" instead of by surname.
+Tipping Guidelines: Tipping $2-5 (USD) per service rendered is considered acceptable for porters and waiters; $8-15 (USD) per person per day is considered normal for guides and safari drivers.
+Souvenirs: Pottery, carved wooden tribal masks and animal sculptures, native beadwork dresses, woven mats and rugs, jewelry, tree sap paintings, spices
+Traditional Cuisine: Ndolé --- stewed nuts, ndoleh (bitter leaves), and fish, beef, or shrimp traditionally eaten with plantains or bobolo (fermented ground manioc or cassava wrapped in leaves)
+
+---
+country: Cameroon
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Cameroon/travel-facts>
+license: public domain (U.S.)
+...

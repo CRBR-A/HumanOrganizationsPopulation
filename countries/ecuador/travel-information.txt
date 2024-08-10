@@ -1,0 +1,29 @@
+Telephone Code: 593
+Local Emergency Phone - Ambulance: 131
+Local Emergency Phone - Fire: 102
+Local Emergency Phone - Police: 101
+Climate: Tropical along coast, becoming cooler inland at higher elevations; tropical in Amazonian jungle lowlands
+Currency (Code): US $ (USD)
+Electricity: 120 V
+Voltage: 60 Hz
+Plug types(s): A, B
+Major Languages: Spanish (Castilian), Quechua
+Major Religions: Roman Catholic 74%, Evangelical 10.4%, Jehovah's Witness 1.2%, other 6.4%, atheist 7.9%, agnostic 0.1%
+Time Difference: UTC-5 (same time as Washington, DC, during Standard Time); note: Ecuador has two time zones, including the Galapagos Islands (UTC-6)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested; additionally, if you plan to drive in Ecuador, you will need an Inter-American Driving Permit issued by the AAA
+Road Driving Side: Right
+Tourist Destinations: Galápagos Islands; Quito historic center; Cuenca historic center; Cotopaxi; Cajas National Park; Guayaquil Boardwalk (Malecon 2000); Nariz del Diablo; Qhapaq Nan/Andean Road System
+Major Sports: Soccer, cycling
+Cultural Practices: Roses make excellent gifts, and among close friends perfume is considered appropriate.
+Tipping Guidelines: Tipping 10% is common in restaurants, usually handed directly to the server. Round up the fare for taxis. Hotel bellhops receive $1-2 (USD) per bag and housekeepers about $1 (USD) per day.
+Souvenirs: Coffee, llama wool products, woven baskets and straw hats, carpets, tagua vegetable and wood carvings, non-edible dough figurines, leather goods, sheepskin paintings; tribal instruments, masks, jewelry, and fabrics
+Traditional Cuisine: Ceviche --- raw fresh fish marinated with lime juice and mixed with chilies, onions, tomatoes, and cilantro; typically served with patacones (thick fried green plantains), chifles (very thin fried green plantain chips), corn nuts, or popcorn
+
+---
+country: Ecuador
+date: June 23, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Ecuador/travel-facts>
+license: public domain (U.S.)
+...

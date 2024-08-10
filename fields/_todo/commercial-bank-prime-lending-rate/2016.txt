@@ -1,0 +1,192 @@
+CIA - The World Factbook --  COMMERCIAL BANK PRIME LENDING RATE
+
+Commercial bank prime lending rate compares a simple average of annualized interest rates commercial banks charge on new loans, denominated in the national currency, to their most credit-worthy customers.
+
+| Rank | Country | (%) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Madagascar | 60.00 | 31 December 2015 est. |
+| 2 | Malawi | 44.90 | 31 December 2015 est. |
+| 3 | Brazil | 43.96 | 31 December 2015 est. |
+| 4 | Gambia, The | 30.80 | 31 December 2015 est. |
+| 5 | Ghana | 28.60 | 31 December 2015 est. |
+| 6 | Syria | 27.00 | 31 December 2015 est. |
+| 7 | Tajikistan | 25.84 | 31 December 2015 est. |
+| 8 | Yemen | 25.00 | 31 December 2015 est. |
+| 9 | Argentina | 24.92 | 31 December 2015 est. |
+| 10 | Kyrgyzstan | 24.25 | 31 December 2015 est. |
+| 11 | Guinea | 23.00 | 31 December 2015 est. |
+| 12 | Uganda | 22.60 | 31 December 2015 est. |
+| 13 | Ukraine | 21.82 | 31 December 2015 est. |
+| 14 | Honduras | 20.66 | 31 December 2015 est. |
+| 15 | Paraguay | 19.74 | 31 December 2015 est. |
+| 16 | Mongolia | 19.56 | 31 December 2015 est. |
+| 17 | Venezuela | 19.40 | 31 December 2015 est. |
+| 18 | Congo, Democratic Republic of the | 19.37 | 31 December 2015 est. |
+| 19 | Sierra Leone | 18.78 | 31 December 2015 est. |
+| 20 | Laos | 18.20 | 31 December 2015 est. |
+| 21 | Belarus | 18.08 | 31 December 2015 est. |
+| 22 | Zimbabwe | 18.00 | 31 December 2015 est. |
+| 23 | Armenia | 17.59 | 31 December 2015 est. |
+| 24 | Rwanda | 17.33 | 31 December 2015 est. |
+| 25 | Mauritania | 17.00 | 31 December 2015 est. |
+| 26 | Jamaica | 16.98 | 31 December 2015 est. |
+| 27 | Angola | 16.88 | 31 December 2015 est. |
+| 28 | Nigeria | 16.85 | 31 December 2015 est. |
+| 29 | Tanzania | 16.10 | 31 December 2015 est. |
+| 30 | Peru | 16.10 | 31 December 2015 est. |
+| 31 | Kenya | 16.09 | 31 December 2015 est. |
+| 32 | Uruguay | 15.84 | 31 December 2015 est. |
+| 33 | Russia | 15.73 | 31 December 2015 est. |
+| 34 | Chad | 15.50 | 31 December 2015 est. |
+| 35 | Central African Republic | 15.50 | 31 December 2015 est. |
+| 36 | Burundi | 15.30 | 31 December 2015 est. |
+| 37 | Gabon | 15.30 | 31 December 2015 est. |
+| 38 | Afghanistan | 15.00 | 31 December 2015 est. |
+| 39 | Sao Tome and Principe | 15.00 | 31 December 2015 est. |
+| 40 | Guinea-Bissau | 15.00 | 31 December 2015 est. |
+| 41 | Dominican Republic | 14.88 | 31 December 2015 est. |
+| 42 | Mozambique | 14.87 | 31 December 2015 est. |
+| 43 | Congo, Republic of the | 14.80 | 31 December 2015 est. |
+| 44 | Senegal | 14.30 | 31 December 2015 est. |
+| 45 | Costa Rica | 14.24 | 31 December 2015 est. |
+| 46 | Iran | 14.20 | 31 December 2015 est. |
+| 47 | Moldova | 14.20 | 31 December 2015 est. |
+| 48 | Equatorial Guinea | 14.00 | 31 December 2015 est. |
+| 49 | Azerbaijan | 13.86 | 31 December 2015 est. |
+| 50 | Bhutan | 13.75 | 31 December 2015 est. |
+| 51 | Turkey | 13.66 | 31 December 2015 est. |
+| 52 | Liberia | 13.61 | 31 December 2015 est. |
+| 53 | Timor-Leste | 13.50 | 31 December 2015 est. |
+| 54 | Zambia | 13.25 | 31 December 2015 est. |
+| 55 | Guatemala | 13.23 | 31 December 2015 est. |
+| 56 | Burma | 13.00 | 31 December 2015 est. |
+| 57 | Cameroon | 13.00 | 31 December 2015 est. |
+| 58 | Haiti | 12.90 | 31 December 2015 est. |
+| 59 | Guyana | 12.83 | 31 December 2015 est. |
+| 60 | Kosovo | 12.80 | 30 June 2013 est. |
+| 61 | Indonesia | 12.66 | 31 December 2015 est. |
+| 62 | Suriname | 12.62 | 31 December 2015 est. |
+| 63 | Georgia | 12.49 | 31 December 2015 est. |
+| 64 | Uzbekistan | 12.44 | 31 December 2013 est. |
+| 65 | Seychelles | 12.36 | 31 December 2015 est. |
+| 66 | Nicaragua | 12.05 | 31 December 2015 est. |
+| 67 | Bangladesh | 11.71 | 31 December 2015 est. |
+| 68 | Cambodia | 11.71 | 31 December 2015 est. |
+| 69 | Egypt | 11.63 | 31 December 2015 est. |
+| 70 | Djibouti | 11.62 | 31 December 2015 est. |
+| 71 | Ethiopia | 11.50 | 31 December 2015 est. |
+| 72 | Colombia | 11.45 | 31 December 2015 est. |
+| 73 | Serbia | 11.00 | 31 December 2015 est. |
+| 74 | Tuvalu | 10.60 | 31 December 2013 est. |
+| 75 | Lesotho | 10.59 | 31 December 2015 est. |
+| 76 | Maldives | 10.50 | 31 December 2012 est. |
+| 77 | Comoros | 10.50 | 31 December 2015 est. |
+| 78 | Solomon Islands | 10.48 | 31 December 2015 est. |
+| 79 | Cabo Verde | 10.41 | 31 December 2015 est. |
+| 80 | Belize | 10.32 | 31 December 2015 est. |
+| 81 | India | 10.01 | 31 December 2015 est. |
+| 82 | Antigua and Barbuda | 9.80 | 31 December 2015 est. |
+| 83 | Nepal | 9.80 | 31 December 2015 est. |
+| 84 | Kazakhstan | 9.56 | 31 December 2015 est. |
+| 85 | South Africa | 9.42 | 31 December 2015 est. |
+| 86 | Samoa | 9.39 | 31 December 2015 est. |
+| 87 | Mali | 9.30 | 31 December 2015 est. |
+| 88 | Saint Kitts and Nevis | 9.30 | 31 December 2015 est. |
+| 89 | Saint Vincent and the Grenadines | 9.30 | 31 December 2015 est. |
+| 90 | Montenegro | 9.22 | 31 December 2014 est. |
+| 91 | Anguilla | 9.10 | 31 December 2015 est. |
+| 92 | Swaziland | 9.04 | 31 December 2015 est. |
+| 93 | Grenada | 8.96 | 31 December 2015 est. |
+| 94 | Saint Lucia | 8.86 | 31 December 2015 est. |
+| 95 | Papua New Guinea | 8.73 | 31 December 2015 est. |
+| 96 | Albania | 8.70 | 31 December 2015 est. |
+| 97 | Dominica | 8.70 | 31 December 2015 est. |
+| 98 | Mauritius | 8.50 | 31 December 2015 est. |
+| 99 | Pakistan | 8.37 | 31 December 2015 est. |
+| 100 | Ecuador | 8.33 | 31 December 2015 est. |
+| 101 | Aruba | 8.25 | 31 December 2015 est. |
+| 102 | Jordan | 8.24 | 31 December 2015 est. |
+| 103 | Barbados | 8.10 | 31 December 2015 est. |
+| 104 | Tonga | 8.09 | 31 December 2015 est. |
+| 105 | Bolivia | 8.07 | 31 December 2015 est. |
+| 106 | Trinidad and Tobago | 8.00 | 31 December 2015 est. |
+| 107 | Algeria | 8.00 | 31 December 2015 est. |
+| 108 | Botswana | 7.95 | 31 December 2015 est. |
+| 109 | Montserrat | 7.82 | 31 December 2015 est. |
+| 110 | Iceland | 7.61 | 31 December 2015 est. |
+| 111 | Bulgaria | 7.48 | 31 December 2015 est. |
+| 112 | Panama | 7.46 | 31 December 2015 est. |
+| 113 | Namibia | 7.41 | 17 February 2016 est. |
+| 114 | Tunisia | 7.31 | 31 December 2014 est. |
+| 115 | Vietnam | 7.12 | 31 December 2015 est. |
+| 116 | Micronesia, Federated States of | 7.10 | 2013 est. |
+| 117 | Lebanon | 7.09 | 31 December 2015 est. |
+| 118 | Macedonia | 7.08 | 31 December 2015 est. |
+| 119 | Sri Lanka | 6.96 | 31 December 2015 est. |
+| 120 | Saudi Arabia | 6.90 | 31 December 2015 est. |
+| 121 | West Bank | 6.80 | 31 December 2015 est. |
+| 122 | Romania | 6.77 | 31 December 2015 est. |
+| 123 | Thailand | 6.56 | 31 December 2015 est. |
+| 124 | El Salvador | 6.13 | 31 December 2015 est. |
+| 125 | Iraq | 6.00 | 31 December 2015 est. |
+| 126 | Libya | 6.00 | 31 December 2015 est. |
+| 127 | Morocco | 6.00 | 31 December 2015 est. |
+| 128 | San Marino | 5.92 | 31 December 2011 est. |
+| 129 | Greece | 5.89 | 31 December 2015 est. |
+| 130 | Croatia | 5.83 | 31 December 2015 est. |
+| 131 | Bosnia and Herzegovina | 5.79 | 31 December 2015 est. |
+| 132 | Fiji | 5.79 | 31 December 2015 est. |
+| 133 | New Zealand | 5.76 | 31 December 2015 est. |
+| 134 | Philippines | 5.58 | 31 December 2015 est. |
+| 135 | Australia | 5.58 | 31 December 2015 est. |
+| 136 | Chile | 5.52 | 31 December 2015 est. |
+| 137 | Brunei | 5.50 | 31 December 2015 est. |
+| 138 | Singapore | 5.35 | 31 December 2015 est. |
+| 139 | Macau | 5.25 | 31 December 2015 est. |
+| 140 | Bahrain | 5.16 | 31 December 2015 est. |
+| 141 | Hong Kong | 5.00 | 31 December 2015 est. |
+| 142 | Poland | 4.92 | 31 December 2015 est. |
+| 143 | Bahamas, The | 4.80 | 31 December 2015 est. |
+| 144 | Oman | 4.76 | 31 December 2015 est. |
+| 145 | Cyprus | 4.69 | 31 December 2015 est. |
+| 146 | Malaysia | 4.57 | 31 December 2015 est. |
+| 147 | United Kingdom | 4.51 | 31 December 2015 est. |
+| 148 | Qatar | 4.50 | 31 December 2015 est. |
+| 149 | Latvia | 4.50 | 31 December 2015 est. |
+| 150 | Portugal | 4.49 | 31 December 2015 est. |
+| 151 | Estonia | 4.48 | 31 December 2015 est. |
+| 152 | China | 4.35 | 31 December 2015 est. |
+| 153 | Kuwait | 4.30 | 31 December 2015 est. |
+| 154 | Czechia | 4.28 | 31 December 2015 est. |
+| 155 | Italy | 4.13 | 31 December 2015 est. |
+| 156 | Vanuatu | 3.63 | 31 December 2015 est. |
+| 157 | Korea, South | 3.53 | 31 December 2015 est. |
+| 158 | Niger | 3.50 | 31 December 2015 est. |
+| 159 | Slovenia | 3.49 | 31 December 2015 est. |
+| 160 | Israel | 3.46 | 31 December 2015 est. |
+| 161 | Mexico | 3.42 | 31 December 2015 est. |
+| 162 | Denmark | 3.42 | 31 December 2015 est. |
+| 163 | Ireland | 3.40 | 31 December 2015 est. |
+| 164 | Malta | 3.40 | 31 December 2015 est. |
+| 165 | Puerto Rico | 3.30 | 31 December 2015 est. |
+| 166 | United States | 3.26 | 31 December 2015 est. |
+| 167 | Lithuania | 3.10 | 31 December 2015 est. |
+| 168 | Hungary | 2.90 | 31 December 2015 est. |
+| 169 | Taiwan | 2.83 | 31 December 2015 est. |
+| 170 | Canada | 2.78 | 31 December 2015 est. |
+| 171 | Slovakia | 2.78 | 31 December 2015 est. |
+| 172 | Spain | 2.74 | 31 December 2015 est. |
+| 173 | Switzerland | 2.68 | 31 December 2015 est. |
+| 174 | Cote d'Ivoire | 2.50 | 31 December 2015 est. |
+| 175 | Belgium | 2.46 | 31 December 2015 est. |
+| 176 | Finland | 2.00 | 31 December 2015 est. |
+| 177 | Austria | 2.00 | 31 December 2015 est. |
+| 178 | Sweden | 1.96 | 31 December 2015 est. |
+| 179 | France | 1.93 | 31 December 2015 est. |
+| 180 | Netherlands | 1.85 | 31 December 2015 est. |
+| 181 | Germany | 1.84 | 31 December 2015 est. |
+| 182 | Norway | 1.75 | 31 December 2015 est. |
+| 183 | Japan | 1.48 | 31 December 2015 est. |
+| 184 | European Union | .32 | 31 December 2014 est. |
+
+

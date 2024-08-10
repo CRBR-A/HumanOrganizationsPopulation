@@ -1,0 +1,9 @@
+MAPS  
+License : public domain  
+Source : https://ian.macky.net/pat/index.html  
+
+TEXT and TABLES (DATA)
+THE WORLD FACTBOOK
+license : public domain
+source : https://www.cia.gov/the-world-factbook/
+source (archives) : https://www.cia.gov/the-world-factbook/about/archives/

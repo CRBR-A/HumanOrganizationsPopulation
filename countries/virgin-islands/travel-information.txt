@@ -1,0 +1,27 @@
+Telephone Code: 340
+Local Emergency Phone: 911 (USA)
+Climate: Subtropical, tempered by easterly trade winds, relatively low humidity, little seasonal temperature variation; rainy season September to November
+Currency (Code): Dollar (USD)
+Electricity: 110 V
+Voltage: 60 Hz
+Plug types(s): A, B
+Major Languages: English, Spanish or Spanish Creole, French or French Creole
+Major Religions: Protestant 59% (Baptist 42%, Episcopalian 17%), Roman Catholic 34%, other 7%
+Time Difference: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested for non-US citizens.
+Road Driving Side: Left
+Tourist Destinations: Charlotte Amalie; Virgin Islands National Park; Trunk Bay Beach & Underwater Snorkel Trail; Buck Island Reef National Monument; Magens Bay; Cruz Bay; Coral World Ocean Park
+Major Sports: Soccer, cricket, baseball, basketball
+Cultural Practices: Men without shirts and women in bathing suits or skimpy attire are frowned upon anywhere but the beach.
+Tipping Guidelines: Tipping is the same as the US or Europe - 15% of your restaurant check, more if service has been exceptional. An extra dollar or two for your taxi driver is fine, more if he/she handles bags or conducts a good island tour.
+Souvenirs: Hand-painted or dyed clothing, pottery, conch jewelry, rum, teas, spices, land and seascape art, carved wooden items, straw work items
+Traditional Cuisine: Fish and Fungi --- cornmeal and okra cooked into a thick mash served with fried whole fish seasoned Creole-style and topped with a sweet onion gravy
+
+---
+country: Virgin Islands
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Virgin Islands/travel-facts>
+license: public domain (U.S.)
+...

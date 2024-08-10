@@ -1,0 +1,14 @@
+| Precautions | Exercise increased caution in Nepal due to the potential for isolated political violence.   |
+| | Consult the link below for updates to travel advisories and statements on safety, security, local laws, and special circumstances in this country. |
+| | <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html> |
+| Passport/Visa Requirements | US citizens should make sure their passport will not expire for at least 6 months after they enter the country even if they do not intend to stay that long. They should also make sure they have at least 1 blank page in their passport for any entry stamp and or visa that will be required. A visa is required. US citizens will need to get in touch with the country's embassy or nearest consulate to obtain a visa prior to visiting the country. |
+| Vaccinations | An International Certificate of Vaccination for yellow fever is required for travelers arriving from countries with a risk of yellow fever transmission and for travelers having transited through the airport of a country with risk of yellow fever transmission. See WHO recommendations.  <http://www.who.int/> |
+| US Embassy/Consulate | +977 1 423-4000, +977 1 400-7272; US Embassy in Kathmandu, Embassy of the United States of America, Maharajgunj, Kathmandu, Nepal; usembktm@state.gov; https://np.usembassy.gov/ |
+
+---
+country: Nepal
+date: June 23, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Nepal/travel-facts>
+license: public domain (U.S.)
+...

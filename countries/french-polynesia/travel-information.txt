@@ -1,0 +1,29 @@
+Telephone Code: 689
+Local Emergency Phone - Ambulance: 15
+Local Emergency Phone - Fire: 18
+Local Emergency Phone - Police: 17
+Climate: Tropical, but moderate
+Currency (Code): Comptoirs Francais du Pacifique francs (XPF)
+Electricity: 220 V
+Voltage: 60 Hz
+Plug types(s): C, D, E
+Major Languages: French, Polynesian
+Major Religions: Protestant 54%, Roman Catholic 30%
+Time Difference: UTC-10 (5 hours behind Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Bora Bora (includes Mount Otemanu); Rangiroa (includes Ile aux Recifs); Maupiti (includes Tereia Beach); Moorea (includes Magic Mountain); Tuamotu Islands
+Major Sports: Soccer, va'a (outrigger canoe racing), surfing, rugby
+Cultural Practices: Tahitians tend to dress up when dining out.
+Tipping Guidelines: Many hotels and restaurants include a service charge. It is considerate to leave a little extra for outstanding service. At restaurants that do not add service charges, tip 10% of the bill. Taxi drivers customarily are tipped 10% of the fare.
+Souvenirs: Black pearls, mother-of-pearl jewelry and decorative items, pareau cloth, wood and stone carvings, vanilla
+Traditional Cuisine: Poisson cru --- raw tuna marinated in lime juice and coconut milk and served with various vegetables; often, fresh coconut meat is wrapped in cloth, and the milky juice is then squeezed over the fish and vegetables
+
+---
+country: French Polynesia
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/French Polynesia/travel-facts>
+license: public domain (U.S.)
+...

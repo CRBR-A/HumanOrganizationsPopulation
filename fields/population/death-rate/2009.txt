@@ -1,0 +1,228 @@
+CIA - The World Factbook --  Death rate   
+
+This entry gives the average annual number of deaths during a year per 1,000 population at midyear; also known as crude death rate. The death rate, while only a rough indicator of the mortality situation in a country, accurately indicates the current mortality impact on population growth. This indicator is significantly affected by age distribution, and most countries will eventually show a rise in the overall death rate, in spite of continued decline in mortality at all ages, as declining fertility results in an aging population.
+
+| Rank | country | (deaths/1,000 population) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Swaziland | 30.83 | July 2009 est. |
+| 2 | Angola | 24.08 | July 2009 est. |
+| 3 | Lesotho | 22.20 | July 2009 est. |
+| 4 | Sierra Leone | 21.91 | July 2009 est. |
+| 5 | Zambia | 21.34 | July 2009 est. |
+| 6 | Liberia | 20.73 | July 2009 est. |
+| 7 | Mozambique | 20.07 | July 2009 est. |
+| 8 | Afghanistan | 19.18 | July 2009 est. |
+| 9 | Djibouti | 19.10 | July 2009 est. |
+| 10 | Central African Republic | 17.84 | July 2009 est. |
+| 11 | Malawi | 17.60 | July 2009 est. |
+| 12 | South Africa | 16.99 | July 2009 est. |
+| 13 | Nigeria | 16.56 | July 2009 est. |
+| 14 | Zimbabwe | 16.19 | July 2009 est. |
+| 15 | Chad | 16.09 | July 2009 est. |
+| 16 | Russia | 16.06 | July 2009 est. |
+| 17 | Mali | 15.82 | July 2009 est. |
+| 18 | Ukraine | 15.81 | July 2009 est. |
+| 19 | Guinea-Bissau | 15.79 | July 2009 est. |
+| 20 | Somalia | 15.55 | July 2009 est. |
+| 21 | Niger | 14.83 | July 2009 est. |
+| 22 | Bulgaria | 14.31 | July 2009 est. |
+| 23 | Rwanda | 14.02 | July 2009 est. |
+| 24 | Belarus | 13.86 | July 2009 est. |
+| 25 | Serbia | 13.86 | 2009 est. |
+| 26 | Latvia | 13.62 | July 2009 est. |
+| 27 | Estonia | 13.42 | July 2009 est. |
+| 28 | Burkina Faso | 13.30 | July 2009 est. |
+| 29 | Namibia | 13.30 | July 2009 est. |
+| 30 | Hungary | 12.94 | July 2009 est. |
+| 31 | Sudan | 12.94 | July 2009 est. |
+| 32 | Gabon | 12.76 | July 2009 est. |
+| 33 | Monaco | 12.74 | July 2009 est. |
+| 34 | Burundi | 12.67 | July 2009 est. |
+| 35 | Tanzania | 12.59 | July 2009 est. |
+| 36 | Cameroon | 12.20 | July 2009 est. |
+| 37 | Uganda | 12.09 | July 2009 est. |
+| 38 | Congo, Republic of the | 12.01 | July 2009 est. |
+| 39 | Romania | 11.88 | July 2009 est. |
+| 40 | Croatia | 11.75 | July 2009 est. |
+| 41 | Congo, Democratic Republic of the | 11.63 | July 2009 est. |
+| 42 | Ethiopia | 11.55 | July 2009 est. |
+| 43 | Gambia, The | 11.49 | July 2009 est. |
+| 44 | Western Sahara | 11.49 | July 2009 est. |
+| 45 | Lithuania | 11.18 | July 2009 est. |
+| 46 | Guinea | 11.00 | July 2009 est. |
+| 47 | Germany | 10.90 | July 2009 est. |
+| 48 | Cote d'Ivoire | 10.78 | July 2009 est. |
+| 49 | Moldova | 10.78 | July 2009 est. |
+| 50 | Laos | 10.78 | July 2009 est. |
+| 51 | Isle of Man | 10.76 | July 2009 est. |
+| 52 | Czech Republic | 10.74 | July 2009 est. |
+| 53 | Italy | 10.72 | July 2009 est. |
+| 54 | Portugal | 10.68 | July 2009 est. |
+| 55 | Slovenia | 10.62 | July 2009 est. |
+| 56 | Korea, North | 10.52 | July 2009 est. |
+| 57 | Greece | 10.51 | July 2009 est. |
+| 58 | Belgium | 10.44 | July 2009 est. |
+| 59 | Denmark | 10.22 | July 2009 est. |
+| 60 | Sweden | 10.21 | July 2009 est. |
+| 61 | Guernsey | 10.16 | July 2009 est. |
+| 62 | Finland | 10.07 | July 2009 est. |
+| 63 | Poland | 10.05 | July 2009 est. |
+| 64 | United Kingdom | 10.02 | July 2009 est. |
+| 65 | Spain | 9.99 | July 2009 est. |
+| 66 | Austria | 9.98 | July 2009 est. |
+| 67 | Senegal | 9.75 | July 2009 est. |
+| 68 | Kenya | 9.72 | July 2009 est. |
+| 69 | Georgia | 9.65 | July 2009 est. |
+| 70 | Gibraltar | 9.56 | July 2009 est. |
+| 71 | Japan | 9.54 | July 2009 est. |
+| 72 | Slovakia | 9.53 | July 2009 est. |
+| 73 | Equatorial Guinea | 9.49 | July 2009 est. |
+| 74 | Benin | 9.45 | July 2009 est. |
+| 75 | Kazakhstan | 9.39 | July 2009 est. |
+| 76 | Togo | 9.33 | July 2009 est. |
+| 77 | Bahamas, The | 9.32 | July 2009 est. |
+| 78 | Norway | 9.29 | July 2009 est. |
+| 79 | Jersey | 9.26 | July 2009 est. |
+| 80 | Ghana | 9.24 | July 2009 est. |
+| 81 | Bangladesh | 9.23 | July 2009 est. |
+| 82 | Mauritania | 9.16 | July 2009 est. |
+| 83 | Burma | 9.14 | July 2009 est. |
+| 84 | Uruguay | 9.09 | July 2009 est. |
+| 85 | Macedonia | 8.83 | July 2009 est. |
+| 86 | Netherlands | 8.74 | July 2009 est. |
+| 87 | Faroe Islands | 8.66 | July 2009 est. |
+| 88 | Haiti | 8.65 | July 2009 est. |
+| 89 | Bosnia and Herzegovina | 8.63 | July 2009 est. |
+| 90 | Montenegro | 8.63 | July 2009 est. |
+| 91 | Switzerland | 8.59 | July 2009 est. |
+| 92 | France | 8.56 | July 2009 est. |
+| 93 | Botswana | 8.52 | July 2009 est. |
+| 94 | San Marino | 8.48 | July 2009 est. |
+| 95 | Luxembourg | 8.44 | July 2009 est. |
+| 96 | Montserrat | 8.44 | July 2009 est. |
+| 97 | Eritrea | 8.43 | July 2009 est. |
+| 98 | Barbados | 8.41 | July 2009 est. |
+| 99 | Armenia | 8.39 | July 2009 est. |
+| 100 | Malta | 8.38 | July 2009 est. |
+| 101 | United States | 8.38 | July 2009 est. |
+| 102 | Guyana | 8.31 | July 2009 est. |
+| 103 | Azerbaijan | 8.30 | July 2009 est. |
+| 104 | Dominica | 8.20 | July 2009 est. |
+| 105 | World | 8.20 | 2009 est. |
+| 106 | Greenland | 8.14 | July 2009 est. |
+| 107 | Madagascar | 8.14 | July 2009 est. |
+| 108 | Trinidad and Tobago | 8.11 | July 2009 est. |
+| 109 | Cambodia | 8.08 | July 2009 est. |
+| 110 | Saint Kitts and Nevis | 8.05 | July 2009 est. |
+| 111 | Palau | 7.89 | July 2009 est. |
+| 112 | Kiribati | 7.85 | July 2009 est. |
+| 113 | Cyprus | 7.80 | July 2009 est. |
+| 114 | Ireland | 7.75 | July 2009 est. |
+| 115 | Puerto Rico | 7.75 | July 2009 est. |
+| 116 | Canada | 7.74 | July 2009 est. |
+| 117 | Aruba | 7.71 | July 2009 est. |
+| 118 | Pakistan | 7.68 | July 2009 est. |
+| 119 | Yemen | 7.61 | July 2009 est. |
+| 120 | Comoros | 7.57 | July 2009 est. |
+| 121 | Vanuatu | 7.55 | July 2009 est. |
+| 122 | Argentina | 7.41 | July 2009 est. |
+| 123 | Bhutan | 7.39 | July 2009 est. |
+| 124 | Liechtenstein | 7.39 | July 2009 est. |
+| 125 | Bermuda | 7.30 | July 2009 est. |
+| 126 | Thailand | 7.25 | July 2009 est. |
+| 127 | Cuba | 7.24 | July 2009 est. |
+| 128 | Mayotte | 7.20 | July 2009 est. |
+| 129 | China | 7.06 | July 2009 est. |
+| 130 | Bolivia | 7.05 | July 2009 est. |
+| 131 | New Zealand | 7.05 | July 2009 est. |
+| 132 | Nepal | 6.97 | July 2009 est. |
+| 133 | Saint Pierre and Miquelon | 6.95 | July 2009 est. |
+| 134 | Tuvalu | 6.95 | July 2009 est. |
+| 135 | Seychelles | 6.93 | July 2009 est. |
+| 136 | Kyrgyzstan | 6.91 | July 2009 est. |
+| 137 | Saint Vincent and the Grenadines | 6.91 | July 2009 est. |
+| 138 | Papua New Guinea | 6.86 | July 2009 est. |
+| 139 | Iceland | 6.85 | July 2009 est. |
+| 140 | Tajikistan | 6.83 | July 2009 est. |
+| 141 | Saint Lucia | 6.80 | July 2009 est. |
+| 142 | Hong Kong | 6.76 | July 2009 est. |
+| 143 | Taiwan | 6.76 | July 2009 est. |
+| 144 | Virgin Islands | 6.75 | July 2009 est. |
+| 145 | Australia | 6.74 | July 2009 est. |
+| 146 | Saint Helena | 6.68 | July 2009 est. |
+| 147 | Mauritius | 6.59 | July 2009 est. |
+| 148 | Netherlands Antilles | 6.48 | July 2009 est. |
+| 149 | Jamaica | 6.43 | July 2009 est. |
+| 150 | Nauru | 6.42 | July 2009 est. |
+| 151 | Brazil | 6.35 | July 2009 est. |
+| 152 | Turkmenistan | 6.31 | July 2009 est. |
+| 153 | Indonesia | 6.25 | July 2009 est. |
+| 154 | India | 6.23 | July 2009 est. |
+| 155 | Cape Verde | 6.22 | July 2009 est. |
+| 156 | Vietnam | 6.17 | July 2009 est. |
+| 157 | Peru | 6.14 | July 2009 est. |
+| 158 | Sri Lanka | 6.13 | July 2009 est. |
+| 159 | Mongolia | 6.12 | July 2009 est. |
+| 160 | Turkey | 6.10 | July 2009 est. |
+| 161 | Grenada | 6.09 | July 2009 est. |
+| 162 | Lebanon | 6.03 | July 2009 est. |
+| 163 | Timor-Leste | 5.98 | July 2009 est. |
+| 164 | Antigua and Barbuda | 5.94 | July 2009 est. |
+| 165 | Korea, South | 5.94 | July 2009 est. |
+| 166 | Andorra | 5.89 | July 2009 est. |
+| 167 | Chile | 5.84 | July 2009 est. |
+| 168 | Belize | 5.80 | July 2009 est. |
+| 169 | Sao Tome and Principe | 5.80 | July 2009 est. |
+| 170 | Samoa | 5.79 | July 2009 est. |
+| 171 | Iran | 5.72 | July 2009 est. |
+| 172 | New Caledonia | 5.68 | July 2009 est. |
+| 173 | Fiji | 5.66 | July 2009 est. |
+| 174 | Albania | 5.55 | July 2009 est. |
+| 175 | Colombia | 5.54 | July 2009 est. |
+| 176 | Suriname | 5.51 | July 2009 est. |
+| 177 | El Salvador | 5.47 | July 2009 est. |
+| 178 | Morocco | 5.45 | July 2009 est. |
+| 179 | Israel | 5.43 | July 2009 est. |
+| 180 | Honduras | 5.41 | July 2009 est. |
+| 181 | Uzbekistan | 5.29 | July 2009 est. |
+| 182 | Dominican Republic | 5.28 | July 2009 est. |
+| 183 | Tunisia | 5.20 | July 2009 est. |
+| 184 | Venezuela | 5.12 | July 2009 est. |
+| 185 | Guatemala | 5.11 | July 2009 est. |
+| 186 | Philippines | 5.10 | July 2009 est. |
+| 187 | Egypt | 5.08 | July 2009 est. |
+| 188 | Iraq | 5.03 | July 2009 est. |
+| 189 | Malaysia | 5.02 | July 2009 est. |
+| 190 | Tonga | 5.02 | July 2009 est. |
+| 191 | Ecuador | 4.99 | July 2009 est. |
+| 192 | Cayman Islands | 4.89 | July 2009 est. |
+| 193 | Mexico | 4.80 | July 2009 est. |
+| 194 | French Polynesia | 4.73 | July 2009 est. |
+| 195 | Panama | 4.66 | July 2009 est. |
+| 196 | Singapore | 4.66 | July 2009 est. |
+| 197 | Algeria | 4.64 | July 2009 est. |
+| 198 | Syria | 4.61 | July 2009 est. |
+| 199 | Marshall Islands | 4.49 | July 2009 est. |
+| 200 | Micronesia, Federated States of | 4.46 | July 2009 est. |
+| 201 | Paraguay | 4.46 | July 2009 est. |
+| 202 | Bahrain | 4.37 | July 2009 est. |
+| 203 | British Virgin Islands | 4.37 | July 2009 est. |
+| 204 | Anguilla | 4.36 | July 2009 est. |
+| 205 | Costa Rica | 4.34 | July 2009 est. |
+| 206 | Nicaragua | 4.30 | July 2009 est. |
+| 207 | Turks and Caicos Islands | 4.18 | July 2009 est. |
+| 208 | American Samoa | 4.10 | July 2009 est. |
+| 209 | Solomon Islands | 3.77 | July 2009 est. |
+| 210 | West Bank | 3.66 | July 2009 est. |
+| 211 | Oman | 3.65 | July 2009 est. |
+| 212 | Maldives | 3.65 | July 2009 est. |
+| 213 | Macau | 3.50 | July 2009 est. |
+| 214 | Libya | 3.45 | July 2009 est. |
+| 215 | Gaza Strip | 3.44 | July 2009 est. |
+| 216 | Brunei | 3.29 | July 2009 est. |
+| 217 | Jordan | 2.75 | July 2009 est. |
+| 218 | Saudi Arabia | 2.47 | July 2009 est. |
+| 219 | Qatar | 2.46 | July 2009 est. |
+| 220 | Kuwait | 2.35 | July 2009 est. |
+| 221 | Northern Mariana Islands | 2.32 | July 2009 est. |
+| 222 | United Arab Emirates | 2.11 | July 2009 est. |

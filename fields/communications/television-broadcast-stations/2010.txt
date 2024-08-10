@@ -1,0 +1,234 @@
+CIA - The World Factbook --  Television broadcast stations   
+
+| Rank | country | Television broadcast stations | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Russia | 7,306.00 | 1998 |
+| 2 | China | 3,240.00 | 1997 |
+| 3 | European Union | 2,700.00 | NA |
+| 4 | United States | 2,218.00 | 2006 |
+| 5 | India | 1,400.00 | 2009 |
+| 6 | United Kingdom | 940.00 | 2008 |
+| 7 | Mexico | 729.00 | 2009 |
+| 8 | Ukraine | 647.00 | 2006 |
+| 9 | Romania | 623.00 | 2006 |
+| 10 | France | 584.00 | 1995 |
+| 11 | South Africa | 556.00 | 1997 |
+| 12 | Spain | 379.00 | 2008 |
+| 13 | Germany | 373.00 | 1995 |
+| 14 | Italy | 358.00 | 1995 |
+| 15 | Netherlands | 342.00 | 2009 |
+| 16 | Philippines | 297.00 | 2008 |
+| 17 | Sweden | 252.00 | 2008 |
+| 18 | Turkey | 251.00 | 2009 |
+| 19 | Japan | 211.00 | 1999 |
+| 20 | Denmark | 172.00 | 2008 |
+| 21 | Canada | 148.00 | 2007 |
+| 22 | Brazil | 138.00 | 1997 |
+| 23 | Serbia | 138.00 | 2009 |
+| 24 | Finland | 120.00 | NA |
+| 25 | Saudi Arabia | 117.00 | 1997 |
+| 26 | Thailand | 111.00 | 2006 |
+| 27 | Switzerland | 106.00 | 2007 |
+| 28 | Australia | 104.00 | 1997 |
+| 29 | Mongolia | 99.00 | 2009 |
+| 30 | Hungary | 95.00 | 2008 |
+| 31 | Malaysia | 88.00 | 2006 |
+| 32 | Macedonia | 76.00 | 2009 |
+| 33 | Taiwan | 76.00 | 2007 |
+| 34 | Poland | 75.00 | 2008 |
+| 35 | Czech Republic | 71.00 | 2008 |
+| 36 | Norway | 69.00 | 2008 |
+| 37 | Vietnam | 67.00 | 2006 |
+| 38 | Venezuela | 66.00 | 1997 |
+| 39 | Albania | 65.00 | 2005 |
+| 40 | Egypt | 64.00 | 2010 |
+| 41 | Chile | 63.00 | 1997 |
+| 42 | Uruguay | 62.00 | 2005 |
+| 43 | Colombia | 60.00 | 1997 |
+| 44 | Cuba | 58.00 | 1997 |
+| 45 | Korea, South | 57.00 | 2008 |
+| 46 | Indonesia | 54.00 | 2006 |
+| 47 | Armenia | 48.00 | 2006 |
+| 48 | Bolivia | 48.00 | 1997 |
+| 49 | Belarus | 47.00 | 1995 |
+| 50 | Algeria | 46.00 | 1995 |
+| 51 | Lithuania | 44.00 | 2008 |
+| 52 | Syria | 44.00 | 1995 |
+| 53 | Argentina | 42.00 | 1997 |
+| 54 | Portugal | 42.00 | 2008 |
+| 55 | New Zealand | 41.00 | 1997 |
+| 56 | Moldova | 40.00 | 2006 |
+| 57 | Bulgaria | 39.00 | 2001 |
+| 58 | Panama | 38.00 | 1998 |
+| 59 | Latvia | 37.00 | 2008 |
+| 60 | Slovakia | 37.00 | 2008 |
+| 61 | Croatia | 36.00 | 1995 |
+| 62 | Greece | 36.00 | 1995 |
+| 63 | Puerto Rico | 34.00 | 2008 |
+| 64 | Bosnia and Herzegovina | 33.00 | 1995 |
+| 65 | Slovenia | 31.00 | 2006 |
+| 66 | West Bank | 31.00 | 2010 |
+| 67 | Iran | 29.00 | 1997 |
+| 68 | Iraq | 28.00 | 2009 |
+| 69 | Laos | 28.00 | 2010 |
+| 70 | Uzbekistan | 28.00 | 2006 |
+| 71 | Guatemala | 26.00 | 1997 |
+| 72 | Tunisia | 26.00 | 1995 |
+| 73 | Belgium | 25.00 | 1997 |
+| 74 | Dominican Republic | 25.00 | 2003 |
+| 75 | Tajikistan | 24.00 | 2009 |
+| 76 | Costa Rica | 20.00 | 2002 |
+| 77 | Pakistan | 20.00 | 2006 |
+| 78 | Bangladesh | 17.00 | 2009 |
+| 79 | Afghanistan | 16.00 | 2009 |
+| 80 | Zimbabwe | 16.00 | 1997 |
+| 81 | Nicaragua | 16.00 | 2009 |
+| 82 | Estonia | 15.00 | 2008 |
+| 83 | United Arab Emirates | 15.00 | 2004 |
+| 84 | Cote d'Ivoire | 14.00 | 1998 |
+| 85 | Iceland | 14.00 | 1997 |
+| 86 | Kuwait | 13.00 | 1997 |
+| 87 | Peru | 13.00 | 1997 |
+| 88 | Oman | 13.00 | 1999 |
+| 89 | Montenegro | 13.00 | 2004 |
+| 90 | Georgia | 12.00 | 1998 |
+| 91 | Swaziland | 12.00 | 2004 |
+| 92 | Sri Lanka | 12.00 | 2009 |
+| 93 | Lebanon | 12.00 | 2009 |
+| 94 | Libya | 12.00 | 1999 |
+| 95 | Kazakhstan | 12.00 | 1998 |
+| 96 | Honduras | 11.00 | 1997 |
+| 97 | Azerbaijan | 10.00 | 2010 |
+| 98 | Austria | 9.00 | 2010 |
+| 99 | Cambodia | 9.00 | 2009 |
+| 100 | Zambia | 9.00 | 2001 |
+| 101 | Nepal | 9.00 | 2008 |
+| 102 | Cyprus | 8.00 | 2004 |
+| 103 | Kenya | 8.00 | 2008 |
+| 104 | Uganda | 8.00 | 2001 |
+| 105 | Morocco | 8.00 | 2009 |
+| 106 | Kyrgyzstan | 8.00 | 2007 |
+| 107 | Belize | 7.00 | 2008 |
+| 108 | Senegal | 7.00 | 2008 |
+| 109 | French Polynesia | 7.00 | 1997 |
+| 110 | Israel | 7.00 | 2009 |
+| 111 | Jamaica | 7.00 | 1997 |
+| 112 | Ghana | 7.00 | 2007 |
+| 113 | Ecuador | 7.00 | 2000 |
+| 114 | Angola | 6.00 | 2000 |
+| 115 | Trinidad and Tobago | 6.00 | 2005 |
+| 116 | Paraguay | 6.00 | 2009 |
+| 117 | New Caledonia | 6.00 | 1997 |
+| 118 | Malta | 6.00 | 2009 |
+| 119 | Guinea | 6.00 | 2001 |
+| 120 | Benin | 6.00 | 2007 |
+| 121 | El Salvador | 5.00 | 1997 |
+| 122 | Liberia | 5.00 | 2007 |
+| 123 | Luxembourg | 5.00 | 1999 |
+| 124 | Virgin Islands | 5.00 | 2006 |
+| 125 | Niger | 5.00 | 2007 |
+| 126 | Monaco | 5.00 | 1998 |
+| 127 | Bahrain | 4.00 | 1997 |
+| 128 | Cayman Islands | 4.00 | 2004 |
+| 129 | Cocos (Keeling) Islands | 4.00 | 2007 |
+| 130 | Burma | 4.00 | 2008 |
+| 131 | Brunei | 4.00 | 2006 |
+| 132 | Congo, Democratic Republic of the | 4.00 | 2001 |
+| 133 | Turkmenistan | 4.00 | 2008 |
+| 134 | Somalia | 4.00 | 2001 |
+| 135 | Mozambique | 4.00 | 2008 |
+| 136 | Korea, North | 4.00 | 2003 |
+| 137 | Jordan | 4.00 | 2009 |
+| 138 | Ireland | 4.00 | 2008 |
+| 139 | Gabon | 4.00 | 2001 |
+| 140 | Bermuda | 3.00 | 2005 |
+| 141 | Nigeria | 3.00 | 2001 |
+| 142 | Yemen | 3.00 | 2007 |
+| 143 | Tonga | 3.00 | 2004 |
+| 144 | Togo | 3.00 | 1997 |
+| 145 | Tanzania | 3.00 | 1999 |
+| 146 | Suriname | 3.00 | 2000 |
+| 147 | Sudan | 3.00 | 1997 |
+| 148 | Papua New Guinea | 3.00 | 2004 |
+| 149 | Micronesia, Federated States of | 3.00 | 2004 |
+| 150 | Mayotte | 3.00 | 2001 |
+| 151 | Burkina Faso | 3.00 | NA |
+| 152 | Guyana | 3.00 | 1997 |
+| 153 | Faroe Islands | 3.00 | September 1995 |
+| 154 | Antigua and Barbuda | 2.00 | 1997 |
+| 155 | Haiti | 2.00 | 1997 |
+| 156 | Wallis and Futuna | 2.00 | 2000 |
+| 157 | Samoa | 2.00 | 2002 |
+| 158 | Saint Lucia | 2.00 | 2003 |
+| 159 | Rwanda | 2.00 | 2004 |
+| 160 | Namibia | 2.00 | 2007 |
+| 161 | Mauritius | 2.00 | 1997 |
+| 162 | Marshall Islands | 2.00 | 2005 |
+| 163 | Mali | 2.00 | 2007 |
+| 164 | Maldives | 2.00 | 2009 |
+| 165 | Jersey | 2.00 | 2008 |
+| 166 | Sierra Leone | 2.00 | 1999 |
+| 167 | Seychelles | 2.00 | 1997 |
+| 168 | Sao Tome and Principe | 2.00 | 2001 |
+| 169 | Hong Kong | 2.00 | 2009 |
+| 170 | Grenada | 2.00 | 2009 |
+| 171 | Eritrea | 2.00 | 2006 |
+| 172 | Falkland Islands (Islas Malvinas) | 2.00 | 2006 |
+| 173 | Bahamas, The | 2.00 | 2006 |
+| 174 | Botswana | 2.00 | 2007 |
+| 175 | American Samoa | 1.00 | 2006 |
+| 176 | British Indian Ocean Territory | 1.00 | 1997 |
+| 177 | Vanuatu | 1.00 | 2004 |
+| 178 | Timor-Leste | 1.00 | NA |
+| 179 | Qatar | 1.00 | 2001 |
+| 180 | Palau | 1.00 | 2005 |
+| 181 | Northern Mariana Islands | 1.00 | 2006 |
+| 182 | Norfolk Island | 1.00 | 2005 |
+| 183 | Niue | 1.00 | 1997 |
+| 184 | Nauru | 1.00 | 1997 |
+| 185 | Montserrat | 1.00 | 1997 |
+| 186 | Mauritania | 1.00 | 2002 |
+| 187 | Greenland | 1.00 | 1997 |
+| 188 | Singapore | 1.00 | 2008 |
+| 189 | San Marino | 1.00 | 1997 |
+| 190 | Saint Vincent and the Grenadines | 1.00 | 2004 |
+| 191 | Saint Kitts and Nevis | 1.00 | 2003 |
+| 192 | Gibraltar | 1.00 | 1997 |
+| 193 | Gaza Strip | 1.00 | 2008 |
+| 194 | Gambia, The | 1.00 | 1997 |
+| 195 | Ethiopia | 1.00 | 2001 |
+| 196 | Equatorial Guinea | 1.00 | 2001 |
+| 197 | Dominica | 1.00 | 2004 |
+| 198 | Djibouti | 1.00 | 2001 |
+| 199 | Cook Islands | 1.00 | 2004 |
+| 200 | Malawi | 1.00 | 2001 |
+| 201 | Madagascar | 1.00 | 2001 |
+| 202 | Macau | 1.00 | 2009 |
+| 203 | Lesotho | 1.00 | 2007 |
+| 204 | Kiribati | 1.00 | 2002 |
+| 205 | Holy See (Vatican City) | 1.00 | 2008 |
+| 206 | Guinea-Bissau | 1.00 | 2007 |
+| 207 | Guernsey | 1.00 | 1997 |
+| 208 | Congo, Republic of the | 1.00 | 2001 |
+| 209 | Chad | 1.00 | 2001 |
+| 210 | Central African Republic | 1.00 | 2001 |
+| 211 | Cape Verde | 1.00 | 2001 |
+| 212 | Cameroon | 1.00 | 2001 |
+| 213 | Burundi | 1.00 | 2001 |
+| 214 | British Virgin Islands | 1.00 | 1997 |
+| 215 | Bhutan | 1.00 | 2007 |
+| 216 | Antarctica | 1.00 | 2002 |
+| 217 | Barbados | 1.00 | 2004 |
+| 218 | Andorra | 1.00 | 2009 |
+| 219 | Aruba | 1.00 | 1997 |
+| 220 | Anguilla | 1.00 | 1997 |
+| 221 | Akrotiri | 0.00 | 2006 |
+| 222 | Turks and Caicos Islands | 0.00 | 2003 |
+| 223 | Wake Island | 0.00 | 2005 |
+| 224 | Tuvalu | 0.00 | 2004 |
+| 225 | South Georgia and South Sandwich Islands | 0.00 | 2003 |
+| 226 | Dhekelia | 0.00 | 2006 |
+| 227 | Isle of Man | 0.00 | 1999 |
+| 228 | Saint Pierre and Miquelon | 0.00 | 1997 |
+| 229 | Saint Helena, Ascension, and Tristan da Cunha | 0.00 | 2005 |
+| 230 | Christmas Island | 0.00 | 2006 |

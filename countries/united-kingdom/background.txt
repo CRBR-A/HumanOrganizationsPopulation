@@ -1,0 +1,9 @@
+The United Kingdom has historically played a leading role in developing parliamentary democracy and in advancing literature and science. At its zenith in the 19th century, the British Empire stretched over one-fourth of the earth's surface. The first half of the 20th century saw the UK's strength seriously depleted in two world wars and the Irish Republic's withdrawal from the union. The second half witnessed the dismantling of the Empire and the UK rebuilding itself into a modern and prosperous European nation. As one of five permanent members of the UN Security Council and a founding member of NATO and the Commonwealth, the UK pursues a global approach to foreign policy. The Scottish Parliament, the National Assembly for Wales, and the Northern Ireland Assembly were established in 1998.  
+The UK has been an active member of the EU since its accession in 1973, although it chose to remain outside the Economic and Monetary Union. However, motivated in part by frustration at a remote bureaucracy in Brussels and massive migration into the country, UK citizens on 23 June 2016 narrowly voted to leave the EU. The UK is scheduled to depart the EU on 31 January 2020, but negotiations on the future EU-UK economic and security relationship will continue throughout 2020 and potentially beyond.  
+
+---
+country: United Kingdom
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/United Kingdom/>
+license: public domain (U.S.)
+...

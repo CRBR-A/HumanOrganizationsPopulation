@@ -1,0 +1,201 @@
+CIA - The World Factbook --  CURRENT ACCOUNT BALANCE
+
+Current account balance compares a country's net trade in goods and services, plus net earnings, and net transfer payments to and from the rest of the world during the period specified. These figures are calculated on an exchange rate basis.
+
+| Rank | Country | CURRENT ACCOUNT BALANCE | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Germany | $257,700,000,000 | 2014 est. |
+| 2 | China | $204,300,000,000 | 2014 est. |
+| 3 | Saudi Arabia | $108,700,000,000 | 2014 est. |
+| 4 | Netherlands | $79,200,000,000 | 2014 est. |
+| 5 | Korea, South | $79,000,000,000 | 2014 est. |
+| 6 | Switzerland | $76,200,000,000 | 2014 est. |
+| 7 | Kuwait | $66,050,000,000 | 2014 est. |
+| 8 | Singapore | $62,580,000,000 | 2014 est. |
+| 9 | Taiwan | $59,810,000,000 | 2014 est. |
+| 10 | Norway | $58,000,000,000 | 2014 est. |
+| 11 | United Arab Emirates | $53,900,000,000 | 2014 est. |
+| 12 | Russia | $51,970,000,000 | 2014 est. |
+| 13 | Qatar | $39,000,000,000 | 2014 est. |
+| 14 | Sweden | $32,500,000,000 | 2014 est. |
+| 15 | Japan | $31,100,000,000 | 2014 est. |
+| 16 | Iran | $28,880,000,000 | 2014 est. |
+| 17 | Italy | $27,700,000,000 | 2014 est. |
+| 18 | Denmark | $23,000,000,000 | 2014 est. |
+| 19 | Iraq | $21,120,000,000 | 2014 est. |
+| 20 | Macau | $20,770,000,000 | 2013 est. |
+| 21 | Malaysia | $18,900,000,000 | 2014 est. |
+| 22 | Nigeria | $18,240,000,000 | 2014 est. |
+| 23 | Ireland | $16,900,000,000 | 2014 est. |
+| 24 | Spain | $12,800,000,000 | 2014 est. |
+| 25 | Israel | $11,490,000,000 | 2014 est. |
+| 26 | Azerbaijan | $11,190,000,000 | 2014 est. |
+| 27 | Vietnam | $10,540,000,000 | 2014 est. |
+| 28 | Thailand | $10,170,000,000 | 2014 est. |
+| 29 | Philippines | $8,668,000,000 | 2014 est. |
+| 30 | Oman | $7,978,000,000 | 2014 est. |
+| 31 | Kazakhstan | $7,120,000,000 | 2014 est. |
+| 32 | Brunei | $6,124,000,000 | 2014 est. |
+| 33 | Venezuela | $5,266,000,000 | 2014 est. |
+| 34 | Austria | $4,500,000,000 | 2014 est. |
+| 35 | Angola | $4,300,000,000 | 2014 est. |
+| 36 | Luxembourg | $2,700,000,000 | 2014 est. |
+| 37 | Slovenia | $2,664,000,000 | 2014 est. |
+| 38 | Timor-Leste | $2,592,000,000 | 2013 est. |
+| 39 | Bahrain | $2,546,000,000 | 2014 est. |
+| 40 | Hungary | $2,225,000,000 | 2014 est. |
+| 41 | Greece | $1,717,000,000 | 2014 est. |
+| 42 | Trinidad and Tobago | $1,689,000,000 | 2014 est. |
+| 43 | Portugal | $1,400,000,000 | 2014 est. |
+| 44 | Botswana | $1,348,000,000 | 2014 est. |
+| 45 | Uzbekistan | $1,311,000,000 | 2014 est. |
+| 46 | Bangladesh | $1,261,000,000 | 2014 est. |
+| 47 | Bolivia | $1,133,000,000 | 2014 est. |
+| 48 | Paraguay | $1,099,000,000 | 2014 est. |
+| 49 | Papua New Guinea | $913,600,000 | 2014 est. |
+| 50 | Nepal | $912,200,000 | 2014 est. |
+| 51 | Croatia | $624,500,000 | 2014 est. |
+| 52 | Slovakia | $613,900,000 | 2014 est. |
+| 53 | Ecuador | $613,400,000 | 2014 est. |
+| 54 | Czech Republic | $522,000,000 | 2014 est. |
+| 55 | British Virgin Islands | $362,600,000 | 2010 est. |
+| 56 | Turkmenistan | $208,800,000 | 2014 est. |
+| 57 | Iceland | $200,000,000 | 2014 est. |
+| 58 | Congo, Republic of the | $170,700,000 | 2014 est. |
+| 59 | Swaziland | $47,500,000 | 2014 est. |
+| 60 | Malta | $28,000,000 | 2014 est. |
+| 61 | Cook Islands | $26,670,000 | 2005 |
+| 62 | Solomon Islands | -$1,200,000 | 2012 est. |
+| 63 | Zambia | -$1,700,000 | 2014 est. |
+| 64 | Tuvalu | -$7,700,000 | 2010 est. |
+| 65 | Palau | -$20,800,000 | 2010 est. |
+| 66 | Micronesia, Federated States of | -$34,300,000 | FY05 est. |
+| 67 | Kiribati | -$35,010,000 | 2010 est. |
+| 68 | Guinea-Bissau | -$39,400,000 | 2014 est. |
+| 69 | Comoros | -$48,400,000 | 2014 est. |
+| 70 | Anguilla | -$51,800,000 | 2014 est. |
+| 71 | Cote d'Ivoire | -$55,100,000 | 2014 est. |
+| 72 | Vanuatu | -$66,100,000 | 2014 est. |
+| 73 | Sao Tome and Principe | -$70,100,000 | 2014 est. |
+| 74 | Belize | -$73,600,000 | 2014 est. |
+| 75 | Samoa | -$76,110,000 | 2011 est. |
+| 76 | Dominica | -$77,400,000 | 2014 est. |
+| 77 | Tonga | -$91,000,000 | 2014 est. |
+| 78 | Mali | -$93,000,000 | 2014 est. |
+| 79 | Estonia | -$118,400,000 | 2014 est. |
+| 80 | Djibouti | -$122,400,000 | 2014 est. |
+| 81 | Suriname | -$140,800,000 | 2014 est. |
+| 82 | Saint Kitts and Nevis | -$144,500,000 | 2014 est. |
+| 83 | Central African Republic | -$144,700,000 | 2014 est. |
+| 84 | Cabo Verde | -$162,000,000 | 2014 est. |
+| 85 | Gambia, The | -$163,200,000 | 2014 est. |
+| 86 | Antigua and Barbuda | -$163,700,000 | 2014 est. |
+| 87 | Saint Lucia | -$175,400,000 | 2014 est. |
+| 88 | Eritrea | -$193,500,000 | 2014 est. |
+| 89 | Saint Vincent and the Grenadines | -$200,700,000 | 2014 est. |
+| 90 | Hong Kong | -$205,400,000 | 2014 est. |
+| 91 | Fiji | -$214,000,000 | 2014 est. |
+| 92 | Grenada | -$214,400,000 | 2013 est. |
+| 93 | Gabon | -$215,200,000 | 2014 est. |
+| 94 | Cyprus | -$229,000,000 | 2014 est. |
+| 95 | Maldives | -$232,400,000 | 2013 est. |
+| 96 | Tajikistan | -$259,100,000 | 2014 est. |
+| 97 | Latvia | -$286,400,000 | 2014 est. |
+| 98 | Bulgaria | -$309,300,000 | 2014 est. |
+| 99 | Bhutan | -$328,100,000 | 2014 est. |
+| 100 | Macedonia | -$332,800,000 | 2014 est. |
+| 101 | Seychelles | -$338,500,000 | 2014 est. |
+| 102 | Barbados | -$402,700,000 | 2014 est. |
+| 103 | Lesotho | -$449,100,000 | 2014 est. |
+| 104 | Moldova | -$462,800,000 | 2014 est. |
+| 105 | Burundi | -$554,000,000 | 2014 est. |
+| 106 | Guyana | -$586,000,000 | 2014 est. |
+| 107 | Togo | -$595,300,000 | 2014 est. |
+| 108 | Rwanda | -$663,100,000 | 2014 est. |
+| 109 | Afghanistan | -$743,900,000 | 2011 est. |
+| 110 | Lithuania | -$802,000,000 | 2014 est. |
+| 111 | Laos | -$811,800,000 | 2014 est. |
+| 112 | Sierra Leone | -$892,300,000 | 2014 est. |
+| 113 | Namibia | -$902,900,000 | 2014 est. |
+| 114 | Kosovo | -$919,700,000 | 2014 est. |
+| 115 | Cuba | -$945,100,000 | 2014 est. |
+| 116 | Jamaica | -$953,100,000 | 2014 est. |
+| 117 | Benin | -$956,400,000 | 2014 est. |
+| 118 | Liberia | -$992,800,000 | 2014 est. |
+| 119 | Chad | -$997,000,000 | 2014 est. |
+| 120 | Malawi | -$1,014,000,000 | 2014 est. |
+| 121 | Armenia | -$1,038,000,000 | 2014 est. |
+| 122 | Zimbabwe | -$1,045,000,000 | 2014 est. |
+| 123 | Burkina Faso | -$1,050,000,000 | 2014 est. |
+| 124 | Guinea | -$1,050,000,000 | 2014 est. |
+| 125 | Mauritius | -$1,108,000,000 | 2014 est. |
+| 126 | Mongolia | -$1,223,000,000 | 2014 est. |
+| 127 | Cameroon | -$1,253,000,000 | 2014 est. |
+| 128 | Haiti | -$1,282,000,000 | 2014 est. |
+| 129 | Georgia | -$1,312,000,000 | 2014 est. |
+| 130 | Niger | -$1,372,000,000 | 2014 est. |
+| 131 | Bosnia and Herzegovina | -$1,376,000,000 | 2014 est. |
+| 132 | Nicaragua | -$1,378,000,000 | 2014 est. |
+| 133 | Finland | -$1,400,000,000 | 2014 est. |
+| 134 | Senegal | -$1,474,000,000 | 2014 est. |
+| 135 | El Salvador | -$1,484,000,000 | 2014 est. |
+| 136 | Bahamas, The | -$1,490,000,000 | 2014 est. |
+| 137 | Equatorial Guinea | -$1,509,000,000 | 2014 est. |
+| 138 | Guatemala | -$1,527,000,000 | 2014 est. |
+| 139 | Mauritania | -$1,588,000,000 | 2014 est. |
+| 140 | Albania | -$1,611,000,000 | 2014 est. |
+| 141 | Madagascar | -$1,625,000,000 | 2014 est. |
+| 142 | Honduras | -$1,703,000,000 | 2014 est. |
+| 143 | Kyrgyzstan | -$1,728,000,000 | 2014 est. |
+| 144 | Cambodia | -$1,791,000,000 | 2014 est. |
+| 145 | Dominican Republic | -$1,852,000,000 | 2014 est. |
+| 146 | Montenegro | -$1,938,000,000 | 2012 est. |
+| 147 | Sri Lanka | -$2,067,000,000 | 2014 est. |
+| 148 | Algeria | -$2,117,000,000 | 2014 est. |
+| 149 | Serbia | -$2,153,000,000 | 2014 est. |
+| 150 | Uganda | -$2,224,000,000 | 2014 est. |
+| 151 | Congo, Democratic Republic of the | -$2,297,000,000 | 2014 est. |
+| 152 | Yemen | -$2,450,000,000 | 2014 est. |
+| 153 | Costa Rica | -$2,569,000,000 | 2014 est. |
+| 154 | West Bank | -$2,894,000,000 | 2014 est. |
+| 155 | Pakistan | -$2,971,000,000 | FY2014 est. |
+| 156 | Belarus | -$3,042,000,000 | 2014 est. |
+| 157 | Uruguay | -$3,067,000,000 | 2014 est. |
+| 158 | Jordan | -$3,192,000,000 | 2014 est. |
+| 159 | Ethiopia | -$3,534,000,000 | 2014 est. |
+| 160 | Burma | -$3,738,000,000 | 2014 est. |
+| 161 | Chile | -$3,805,000,000 | 2014 est. |
+| 162 | Ghana | -$4,009,000,000 | 2014 est. |
+| 163 | Lebanon | -$4,204,000,000 | 2014 est. |
+| 164 | Panama | -$4,288,000,000 | 2014 est. |
+| 165 | Romania | -$4,310,000,000 | 2014 est. |
+| 166 | Tunisia | -$4,396,000,000 | 2014 est. |
+| 167 | Argentina | -$4,570,000,000 | 2014 est. |
+| 168 | Syria | -$4,575,000,000 | 2014 est. |
+| 169 | Kenya | -$5,010,000,000 | 2014 est. |
+| 170 | Tanzania | -$5,190,000,000 | 2014 est. |
+| 171 | Sudan | -$5,762,000,000 | 2014 est. |
+| 172 | Poland | -$6,008,000,000 | 2014 est. |
+| 173 | Ukraine | -$6,062,000,000 | 2014 est. |
+| 174 | Mozambique | -$6,322,000,000 | 2014 est. |
+| 175 | Egypt | -$7,463,000,000 | 2014 est. |
+| 176 | Morocco | -$7,597,000,000 | 2014 est. |
+| 177 | Libya | -$7,973,000,000 | 2014 est. |
+| 178 | New Zealand | -$8,667,000,000 | 2014 est. |
+| 179 | Belgium | -$10,000,000,000 | 2014 est. |
+| 180 | Peru | -$10,630,000,000 | 2014 est. |
+| 181 | Colombia | -$16,080,000,000 | 2014 est. |
+| 182 | South Africa | -$17,560,000,000 | 2014 est. |
+| 183 | Mexico | -$21,920,000,000 | 2014 est. |
+| 184 | Indonesia | -$25,490,000,000 | 2014 est. |
+| 185 | France | -$33,900,000,000 | 2014 est. |
+| 186 | European Union | -$34,490,000,000 | 2011 est. |
+| 187 | Australia | -$37,000,000,000 | 2014 est. |
+| 188 | India | -$42,990,000,000 | 2014 est. |
+| 189 | Turkey | -$47,460,000,000 | 2014 est. |
+| 190 | Canada | -$50,800,000,000 | 2014 est. |
+| 191 | Brazil | -$80,920,000,000 | 2014 est. |
+| 192 | United Kingdom | -$117,900,000,000 | 2014 est. |
+| 193 | United States | -$385,800,000,000 | 2014 est. |
+
+

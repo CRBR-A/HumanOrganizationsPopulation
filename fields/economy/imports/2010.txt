@@ -1,0 +1,228 @@
+CIA - The World Factbook --  Imports   
+
+This entry provides the total US dollar amount of merchandise imports on a c.i.f. (cost, insurance, and freight) or f.o.b. (free on board) basis. These figures are calculated on an exchange rate basis, i.e., not in purchasing power parity (PPP) terms.
+
+| Rank | country | Imports | Date of Information |
+| --- | --- | --- | --- |
+| 1 | United States | $ 1,903,000,000,000 | 2010 est. |
+| 2 | European Union | $ 1,690,000,000,000 | 2007 |
+| 3 | China | $ 1,307,000,000,000 | 2010 est. |
+| 4 | Germany | $ 1,120,000,000,000 | 2010 est. |
+| 5 | Japan | $ 636,800,000,000 | 2010 est. |
+| 6 | France | $ 577,700,000,000 | 2010 est. |
+| 7 | United Kingdom | $ 546,500,000,000 | 2010 est. |
+| 8 | Italy | $ 459,700,000,000 | 2010 est. |
+| 9 | Korea, South | $ 417,900,000,000 | 2010 est. |
+| 10 | Hong Kong | $ 413,000,000,000 | 2010 est. |
+| 11 | Netherlands | $ 408,400,000,000 | 2010 est. |
+| 12 | Canada | $ 406,400,000,000 | 2010 est. |
+| 13 | India | $ 327,000,000,000 | 2010 est. |
+| 14 | Spain | $ 324,600,000,000 | 2010 est. |
+| 15 | Singapore | $ 315,600,000,000 | 2010 est. |
+| 16 | Mexico | $ 306,000,000,000 | 2010 est. |
+| 17 | Belgium | $ 281,700,000,000 | 2010 est. |
+| 18 | Taiwan | $ 250,200,000,000 | 2010 est. |
+| 19 | Russia | $ 237,300,000,000 | 2010 est. |
+| 20 | Switzerland | $ 220,400,000,000 | 2010 est. |
+| 21 | Australia | $ 200,400,000,000 | 2010 est. |
+| 22 | Brazil | $ 187,700,000,000 | 2010 est. |
+| 23 | Poland | $ 167,400,000,000 | 2010 est. |
+| 24 | Turkey | $ 166,300,000,000 | 2010 est. |
+| 25 | United Arab Emirates | $ 159,000,000,000 | 2010 est. |
+| 26 | Sweden | $ 158,600,000,000 | 2010 est. |
+| 27 | Thailand | $ 156,900,000,000 | 2010 est. |
+| 28 | Austria | $ 156,000,000,000 | 2010 est. |
+| 29 | Malaysia | $ 149,200,000,000 | 2010 est. |
+| 30 | Indonesia | $ 111,100,000,000 | 2010 est. |
+| 31 | Czech Republic | $ 109,200,000,000 | 2010 est. |
+| 32 | Saudi Arabia | $ 99,170,000,000 | 2010 est. |
+| 33 | Denmark | $ 90,830,000,000 | 2010 est. |
+| 34 | Hungary | $ 87,440,000,000 | 2010 est. |
+| 35 | Vietnam | $ 81,730,000,000 | 2010 est. |
+| 36 | South Africa | $ 77,040,000,000 | 2010 est. |
+| 37 | Norway | $ 74,020,000,000 | 2010 est. |
+| 38 | Ireland | $ 70,360,000,000 | 2010 est. |
+| 39 | Finland | $ 69,110,000,000 | 2010 est. |
+| 40 | Portugal | $ 68,220,000,000 | 2010 est. |
+| 41 | Slovakia | $ 62,430,000,000 | 2010 est. |
+| 42 | Romania | $ 59,840,000,000 | 2010 est. |
+| 43 | Iran | $ 58,970,000,000 | 2010 est. |
+| 44 | Philippines | $ 57,240,000,000 | 2010 est. |
+| 45 | Israel | $ 55,600,000,000 | 2010 est. |
+| 46 | Chile | $ 54,230,000,000 | 2010 est. |
+| 47 | Ukraine | $ 53,540,000,000 | 2010 est. |
+| 48 | Argentina | $ 52,610,000,000 | 2010 est. |
+| 49 | Egypt | $ 46,520,000,000 | 2010 est. |
+| 50 | Greece | $ 44,900,000,000 | 2010 est. |
+| 51 | Iraq | $ 42,560,000,000 | 2010 est. |
+| 52 | Algeria | $ 37,070,000,000 | 2010 est. |
+| 53 | Colombia | $ 36,260,000,000 | 2010 est. |
+| 54 | Morocco | $ 34,190,000,000 | 2010 est. |
+| 55 | Nigeria | $ 34,180,000,000 | 2010 est. |
+| 56 | Pakistan | $ 32,710,000,000 | 2010 est. |
+| 57 | Venezuela | $ 31,370,000,000 | 2010 est. |
+| 58 | New Zealand | $ 30,240,000,000 | 2010 est. |
+| 59 | Kazakhstan | $ 30,110,000,000 | 2010 est. |
+| 60 | Belarus | $ 29,790,000,000 | 2010 est. |
+| 61 | Puerto Rico | $ 29,100,000,000 | 2001 |
+| 62 | Slovenia | $ 25,960,000,000 | 2010 est. |
+| 63 | Peru | $ 25,740,000,000 | 2010 est. |
+| 64 | Libya | $ 24,470,000,000 | 2010 est. |
+| 65 | Luxembourg | $ 23,670,000,000 | 2010 est. |
+| 66 | Qatar | $ 23,380,000,000 | 2010 est. |
+| 67 | Bulgaria | $ 22,780,000,000 | 2010 est. |
+| 68 | Bangladesh | $ 21,340,000,000 | 2010 |
+| 69 | Croatia | $ 20,930,000,000 | 2010 est. |
+| 70 | Kuwait | $ 20,360,000,000 | 2010 est. |
+| 71 | Lithuania | $ 20,340,000,000 | 2010 est. |
+| 72 | Tunisia | $ 20,020,000,000 | 2010 est. |
+| 73 | Oman | $ 19,300,000,000 | 2010 est. |
+| 74 | Angola | $ 18,100,000,000 | 2010 est. |
+| 75 | Lebanon | $ 17,970,000,000 | 2010 est. |
+| 76 | Ecuador | $ 17,650,000,000 | 2010 est. |
+| 77 | Panama | $ 16,050,000,000 | 2010 est. |
+| 78 | Serbia | $ 15,780,000,000 | 2010 est. |
+| 79 | Dominican Republic | $ 14,530,000,000 | 2010 est. |
+| 80 | Costa Rica | $ 13,690,000,000 | 2010 est. |
+| 81 | Syria | $ 13,570,000,000 | 2010 est. |
+| 82 | Jordan | $ 12,970,000,000 | 2010 est. |
+| 83 | Guatemala | $ 12,650,000,000 | 2010 est. |
+| 84 | Bahrain | $ 12,140,000,000 | 2010 est. |
+| 85 | Sri Lanka | $ 11,600,000,000 | 2010 est. |
+| 86 | Estonia | $ 11,520,000,000 | 2010 est. |
+| 87 | Kenya | $ 10,400,000,000 | 2010 est. |
+| 88 | Cuba | $ 10,250,000,000 | 2010 est. |
+| 89 | Ghana | $ 10,180,000,000 | 2010 est. |
+| 90 | Uzbekistan | $ 9,440,000,000 | 2010 est. |
+| 91 | Bosnia and Herzegovina | $ 9,403,000,000 | 2010 est. |
+| 92 | Paraguay | $ 9,242,000,000 | 2010 est. |
+| 93 | Latvia | $ 9,153,000,000 | 2010 est. |
+| 94 | Honduras | $ 8,878,000,000 | 2010 est. |
+| 95 | Uruguay | $ 8,519,000,000 | 2010 est. |
+| 96 | Sudan | $ 8,483,000,000 | 2010 est. |
+| 97 | Yemen | $ 8,350,000,000 | 2010 est. |
+| 98 | Trinidad and Tobago | $ 8,234,000,000 | 2010 est. |
+| 99 | El Salvador | $ 7,980,000,000 | 2010 est. |
+| 100 | Cyprus | $ 7,962,000,000 | 2010 est. |
+| 101 | Ethiopia | $ 7,517,000,000 | 2010 est. |
+| 102 | Liberia | $ 7,143,000,000 | 2006 |
+| 103 | Azerbaijan | $ 7,035,000,000 | 2010 est. |
+| 104 | Cote d'Ivoire | $ 7,015,000,000 | 2010 est. |
+| 105 | Cambodia | $ 6,944,000,000 | 2010 est. |
+| 106 | Tanzania | $ 6,334,000,000 | 2010 est. |
+| 107 | Equatorial Guinea | $ 5,743,000,000 | 2010 est. |
+| 108 | Jamaica | $ 5,378,000,000 | 2010 est. |
+| 109 | Afghanistan | $ 5,300,000,000 | 2008 est. |
+| 110 | Nepal | $ 5,260,000,000 | 2009 |
+| 111 | Congo, Democratic Republic of the | $ 5,200,000,000 | 2009 est. |
+| 112 | Namibia | $ 5,152,000,000 | 2010 est. |
+| 113 | Macedonia | $ 5,113,000,000 | 2010 est. |
+| 114 | Bolivia | $ 5,006,000,000 | 2010 est. |
+| 115 | Zambia | $ 4,949,000,000 | 2010 est. |
+| 116 | Turkmenistan | $ 4,888,000,000 | 2010 est. |
+| 117 | Cameroon | $ 4,869,000,000 | 2010 est. |
+| 118 | Georgia | $ 4,828,000,000 | 2010 est. |
+| 119 | Nicaragua | $ 4,700,000,000 | 2010 est. |
+| 120 | Virgin Islands | $ 4,609,000,000 | 2001 |
+| 121 | Burma | $ 4,532,000,000 | 2010 est. |
+| 122 | Botswana | $ 4,518,000,000 | 2010 est. |
+| 123 | Macau | $ 4,500,000,000 | 2009 est. |
+| 124 | Senegal | $ 4,474,000,000 | 2010 est. |
+| 125 | Uganda | $ 4,474,000,000 | 2010 est. |
+| 126 | Albania | $ 4,337,000,000 | 2010 est. |
+| 127 | Malta | $ 4,074,000,000 | 2010 est. |
+| 128 | Mauritius | $ 3,935,000,000 | 2010 est. |
+| 129 | West Bank | $ 3,772,000,000 | 2008 |
+| 130 | San Marino | $ 3,744,000,000 | 2007 |
+| 131 | Iceland | $ 3,677,000,000 | 2010 est. |
+| 132 | Moldova | $ 3,660,000,000 | 2010 est. |
+| 133 | Congo, Republic of the | $ 3,607,000,000 | 2010 est. |
+| 134 | Papua New Guinea | $ 3,547,000,000 | 2010 est. |
+| 135 | Mozambique | $ 3,527,000,000 | 2010 est. |
+| 136 | Tajikistan | $ 3,301,000,000 | 2010 est. |
+| 137 | Fiji | $ 3,120,000,000 | 2006 |
+| 138 | Korea, North | $ 3,096,000,000 | 2009 |
+| 139 | Kyrgyzstan | $ 3,075,000,000 | 2010 est. |
+| 140 | Armenia | $ 2,988,000,000 | 2010 est. |
+| 141 | Gibraltar | $ 2,967,000,000 | 2004 est. |
+| 142 | Zimbabwe | $ 2,871,000,000 | 2010 est. |
+| 143 | Chad | $ 2,631,000,000 | 2010 est. |
+| 144 | Brunei | $ 2,610,000,000 | 2008 est. |
+| 145 | Liechtenstein | $ 2,590,000,000 | 2008 |
+| 146 | Haiti | $ 2,446,000,000 | 2010 est. |
+| 147 | Gabon | $ 2,433,000,000 | 2010 est. |
+| 148 | Bahamas, The | $ 2,401,000,000 | 2006 |
+| 149 | Mali | $ 2,358,000,000 | 2006 |
+| 150 | Mongolia | $ 2,131,000,000 | 2009 |
+| 151 | New Caledonia | $ 1,998,000,000 | 2006 |
+| 152 | Madagascar | $ 1,958,000,000 | 2010 est. |
+| 153 | Benin | $ 1,812,000,000 | 2010 est. |
+| 154 | Andorra | $ 1,801,000,000 | 2008 |
+| 155 | Lesotho | $ 1,766,000,000 | 2010 est. |
+| 156 | French Polynesia | $ 1,706,000,000 | 2005 est. |
+| 157 | Malawi | $ 1,675,000,000 | 2010 est. |
+| 158 | Swaziland | $ 1,643,000,000 | 2010 est. |
+| 159 | Barbados | $ 1,586,000,000 | 2006 |
+| 160 | Guinea | $ 1,551,000,000 | 2010 est. |
+| 161 | Laos | $ 1,504,000,000 | 2010 est. |
+| 162 | Burkina Faso | $ 1,480,000,000 | 2010 est. |
+| 163 | Mauritania | $ 1,475,000,000 | 2006 |
+| 164 | Guyana | $ 1,366,000,000 | 2010 est. |
+| 165 | Curacao | $ 1,340,000,000 | 2008 est. |
+| 166 | Togo | $ 1,337,000,000 | 2010 est. |
+| 167 | Suriname | $ 1,297,000,000 | 2006 est. |
+| 168 | Bermuda | $ 1,162,000,000 | 2006 |
+| 169 | Aruba | $ 1,054,000,000 | 2006 |
+| 170 | Rwanda | $ 1,047,000,000 | 2010 est. |
+| 171 | Faroe Islands | $ 983,000,000 | 2008 |
+| 172 | Monaco | $ 916,100,000 | 2005 |
+| 173 | Cayman Islands | $ 876,500,000 | 2008 |
+| 174 | Greenland | $ 867,000,000 | 2008 |
+| 175 | Cape Verde | $ 858,000,000 | 2010 est. |
+| 176 | Seychelles | $ 831,000,000 | 2010 est. |
+| 177 | Niger | $ 800,000,000 | 2006 |
+| 178 | Somalia | $ 798,000,000 | 2006 |
+| 179 | Saint Lucia | $ 791,000,000 | 2006 |
+| 180 | Maldives | $ 782,000,000 | 2008 est. |
+| 181 | Belize | $ 740,000,000 | 2010 est. |
+| 182 | Eritrea | $ 738,000,000 | 2010 est. |
+| 183 | Djibouti | $ 644,000,000 | 2009 est. |
+| 184 | Montenegro | $ 601,700,000 | 2003 |
+| 185 | Saint Vincent and the Grenadines | $ 578,000,000 | 2006 |
+| 186 | Sierra Leone | $ 560,000,000 | 2006 |
+| 187 | Bhutan | $ 533,000,000 | 2008 |
+| 188 | Antigua and Barbuda | $ 522,800,000 | 2007 est. |
+| 189 | Saint Kitts and Nevis | $ 383,000,000 | 2006 |
+| 190 | Grenada | $ 343,000,000 | 2006 |
+| 191 | Mayotte | $ 341,000,000 | 2005 |
+| 192 | Burundi | $ 336,000,000 | 2010 est. |
+| 193 | Samoa | $ 324,000,000 | 2006 |
+| 194 | American Samoa | $ 308,800,000 | FY04 est. |
+| 195 | Gambia, The | $ 306,000,000 | 2010 est. |
+| 196 | Dominica | $ 296,000,000 | 2006 |
+| 197 | Solomon Islands | $ 256,000,000 | 2006 |
+| 198 | Central African Republic | $ 237,300,000 | 2007 est. |
+| 199 | Northern Mariana Islands | $ 214,400,000 | 2001 |
+| 200 | Timor-Leste | $ 202,000,000 | 2004 est. |
+| 201 | Guinea-Bissau | $ 200,000,000 | 2006 |
+| 202 | Turks and Caicos Islands | $ 175,600,000 | 2000 |
+| 203 | Vanuatu | $ 156,000,000 | 2006 |
+| 204 | Anguilla | $ 143,000,000 | 2006 |
+| 205 | Comoros | $ 143,000,000 | 2006 |
+| 206 | Tonga | $ 139,000,000 | 2006 |
+| 207 | Micronesia, Federated States of | $ 132,700,000 | 2004 |
+| 208 | Palau | $ 107,300,000 | 2004 est. |
+| 209 | Sao Tome and Principe | $ 99,000,000 | 2010 est. |
+| 210 | Falkland Islands (Islas Malvinas) | $ 90,000,000 | 2004 est. |
+| 211 | Cook Islands | $ 81,040,000 | 2005 |
+| 212 | Marshall Islands | $ 79,400,000 | 2008 est. |
+| 213 | Saint Pierre and Miquelon | $ 68,200,000 | 2005 est. |
+| 214 | Kiribati | $ 62,000,000 | 2004 est. |
+| 215 | Wallis and Futuna | $ 61,170,000 | 2004 |
+| 216 | Saint Helena, Ascension, and Tristan da Cunha | $ 45,000,000 | 2004 est. |
+| 217 | Nauru | $ 20,000,000 | 2004 est. |
+| 218 | Norfolk Island | $ 17,900,000 | |
+| 219 | Montserrat | $ 17,000,000 | |
+| 220 | Tuvalu | $ 12,910,000 | 2005 |
+| 221 | Niue | $ 9,038,000 | 2004 |
+| 222 | Tokelau | $ 969,200 | 2002 |

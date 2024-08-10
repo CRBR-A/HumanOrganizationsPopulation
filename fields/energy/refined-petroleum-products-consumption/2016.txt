@@ -1,0 +1,220 @@
+CIA - The World Factbook --  REFINED PETROLEUM PRODUCTS - CONSUMPTION
+
+Refined petroleum products - consumption is the country's total consumption of refined petroleum products, in barrels per day (bbl/day).
+
+| Rank | Country | (BBL/DAY) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | United States | 19,030,000 | 2014 est. |
+| 2 | European Union | 12,530,000 | 2014 est. |
+| 3 | China | 10,480,000 | 2013 est. |
+| 4 | Japan | 4,297,000 | 2014 est. |
+| 5 | India | 3,660,000 | 2013 est. |
+| 6 | Brazil | 3,003,000 | 2013 est. |
+| 7 | Saudi Arabia | 2,961,000 | 2013 est. |
+| 8 | Russia | 2,800,000 | 2014 est. |
+| 9 | Canada | 2,413,000 | 2014 est. |
+| 10 | Germany | 2,399,000 | 2014 est. |
+| 11 | Korea, South | 2,350,000 | 2014 est. |
+| 12 | Mexico | 1,966,000 | 2014 est. |
+| 13 | Iran | 1,885,000 | 2013 est. |
+| 14 | Indonesia | 1,718,000 | 2013 est. |
+| 15 | France | 1,706,000 | 2014 est. |
+| 16 | United Kingdom | 1,505,000 | 2014 est. |
+| 17 | Singapore | 1,240,000 | 2013 est. |
+| 18 | Italy | 1,235,000 | 2014 est. |
+| 19 | Spain | 1,209,000 | 2014 est. |
+| 20 | Thailand | 1,171,000 | 2013 est. |
+| 21 | Australia | 1,082,000 | 2014 est. |
+| 22 | Netherlands | 960,600 | 2014 est. |
+| 23 | Taiwan | 818,700 | 2015 est. |
+| 24 | Argentina | 770,000 | 2013 est. |
+| 25 | Egypt | 752,000 | 2013 est. |
+| 26 | Iraq | 750,000 | 2013 est. |
+| 27 | Venezuela | 746,000 | 2013 est. |
+| 28 | Turkey | 718,600 | 2014 est. |
+| 29 | United Arab Emirates | 694,000 | 2013 est. |
+| 30 | Malaysia | 680,000 | 2013 est. |
+| 31 | Belgium | 618,700 | 2014 est. |
+| 32 | South Africa | 612,000 | 2013 est. |
+| 33 | Poland | 510,400 | 2014 est. |
+| 34 | Vietnam | 471,000 | 2013 est. |
+| 35 | Kuwait | 467,000 | 2013 est. |
+| 36 | Pakistan | 434,000 | 2013 est. |
+| 37 | Algeria | 390,000 | 2013 est. |
+| 38 | Hong Kong | 360,000 | 2013 est. |
+| 39 | Colombia | 324,000 | 2013 est. |
+| 40 | Chile | 323,300 | 2014 est. |
+| 41 | Philippines | 314,000 | 2013 est. |
+| 42 | Sweden | 295,200 | 2014 est. |
+| 43 | Morocco | 293,000 | 2013 est. |
+| 44 | Greece | 282,600 | 2014 est. |
+| 45 | Nigeria | 280,000 | 2013 est. |
+| 46 | Austria | 260,700 | 2014 est. |
+| 47 | Ukraine | 255,000 | 2013 est. |
+| 48 | Ecuador | 254,000 | 2013 est. |
+| 49 | Kazakhstan | 248,000 | 2013 est. |
+| 50 | Portugal | 244,200 | 2014 est. |
+| 51 | Libya | 242,000 | 2013 est. |
+| 52 | Switzerland | 238,500 | 2014 est. |
+| 53 | Israel | 234,600 | 2014 est. |
+| 54 | Qatar | 230,000 | 2013 est. |
+| 55 | Peru | 226,000 | 2013 est. |
+| 56 | Norway | 225,200 | 2014 est. |
+| 57 | Syria | 224,000 | 2013 est. |
+| 58 | Czechia | 201,000 | 2014 est. |
+| 59 | Finland | 196,300 | 2014 est. |
+| 60 | Romania | 188,000 | 2013 est. |
+| 61 | Oman | 172,000 | 2013 est. |
+| 62 | Belarus | 171,000 | 2013 est. |
+| 63 | Cuba | 170,000 | 2013 est. |
+| 64 | New Zealand | 156,600 | 2014 est. |
+| 65 | Denmark | 153,900 | 2014 est. |
+| 66 | Turkmenistan | 144,000 | 2013 est. |
+| 67 | Ireland | 142,500 | 2014 est. |
+| 68 | Hungary | 140,900 | 2014 est. |
+| 69 | Panama | 134,000 | 2013 est. |
+| 70 | Jordan | 134,000 | 2013 est. |
+| 71 | Yemen | 134,000 | 2013 est. |
+| 72 | Puerto Rico | 133,700 | 2014 est. |
+| 73 | Lebanon | 125,000 | 2013 est. |
+| 74 | Angola | 112,000 | 2013 est. |
+| 75 | Virgin Islands | 110,500 | 2014 est. |
+| 76 | Bangladesh | 109,000 | 2013 est. |
+| 77 | Sri Lanka | 108,000 | 2013 est. |
+| 78 | Azerbaijan | 99,000 | 2013 est. |
+| 79 | Bulgaria | 89,000 | 2013 est. |
+| 80 | Guatemala | 87,840 | 2015 est. |
+| 81 | Tunisia | 86,000 | 2013 est. |
+| 82 | Kenya | 84,000 | 2013 est. |
+| 83 | Dominican Republic | 80,820 | 2014 est. |
+| 84 | Svalbard | 80,250 | 2013 est. |
+| 85 | Ghana | 75,000 | 2013 est. |
+| 86 | Croatia | 75,000 | 2013 est. |
+| 87 | Slovakia | 73,320 | 2014 est. |
+| 88 | Curacao | 72,000 | 2010 est. |
+| 89 | Bolivia | 71,000 | 2013 est. |
+| 90 | Uzbekistan | 69,000 | 2013 est. |
+| 91 | Serbia | 67,980 | 2014 est. |
+| 92 | Uruguay | 64,000 | 2013 est. |
+| 93 | Luxembourg | 56,610 | 2014 est. |
+| 94 | Lithuania | 55,000 | 2013 est. |
+| 95 | Gibraltar | 53,000 | 2013 est. |
+| 96 | Jamaica | 53,000 | 2013 est. |
+| 97 | Cyprus | 53,000 | 2013 est. |
+| 98 | Ethiopia | 51,000 | 2013 est. |
+| 99 | Bahrain | 50,000 | 2013 est. |
+| 100 | Costa Rica | 50,000 | 2013 est. |
+| 101 | Slovenia | 49,100 | 2014 est. |
+| 102 | Honduras | 49,000 | 2013 est. |
+| 103 | El Salvador | 45,000 | 2013 est. |
+| 104 | Afghanistan | 43,000 | 2013 est. |
+| 105 | Malta | 42,000 | 2013 est. |
+| 106 | Trinidad and Tobago | 42,000 | 2013 est. |
+| 107 | Cameroon | 38,000 | 2013 est. |
+| 108 | Senegal | 38,000 | 2013 est. |
+| 109 | Paraguay | 35,000 | 2013 est. |
+| 110 | Tanzania | 35,000 | 2013 est. |
+| 111 | Latvia | 34,000 | 2013 est. |
+| 112 | Bosnia and Herzegovina | 34,000 | 2013 est. |
+| 113 | Kyrgyzstan | 33,000 | 2013 est. |
+| 114 | Estonia | 32,100 | 2014 est. |
+| 115 | Benin | 31,000 | 2013 est. |
+| 116 | Nicaragua | 28,700 | 2014 est. |
+| 117 | Cambodia | 28,000 | 2013 est. |
+| 118 | Sudan | 26,750 | 2013 est. |
+| 119 | Cote d'Ivoire | 26,000 | 2013 est. |
+| 120 | Albania | 25,000 | 2013 est. |
+| 121 | Burma | 25,000 | 2013 est. |
+| 122 | Mongolia | 24,000 | 2013 est. |
+| 123 | Mauritius | 24,000 | 2013 est. |
+| 124 | Bahamas, The | 23,000 | 2013 est. |
+| 125 | Uganda | 22,000 | 2013 est. |
+| 126 | Namibia | 22,000 | 2013 est. |
+| 127 | Georgia | 21,000 | 2013 est. |
+| 128 | Nepal | 20,000 | 2013 est. |
+| 129 | Congo, Democratic Republic of the | 20,000 | 2013 est. |
+| 130 | Papua New Guinea | 20,000 | 2013 est. |
+| 131 | Zambia | 18,000 | 2013 est. |
+| 132 | Gabon | 18,000 | 2013 est. |
+| 133 | Brunei | 18,000 | 2013 est. |
+| 134 | Botswana | 18,000 | 2013 est. |
+| 135 | Mozambique | 17,000 | 2013 est. |
+| 136 | Korea, North | 17,000 | 2013 est. |
+| 137 | Suriname | 17,000 | 2013 est. |
+| 138 | Iceland | 16,310 | 2014 est. |
+| 139 | West Bank | 16,000 | 2013 est. |
+| 140 | Moldova | 16,000 | 2013 est. |
+| 141 | Macedonia | 15,070 | 2014 est. |
+| 142 | Congo, Republic of the | 15,000 | 2013 est. |
+| 143 | Haiti | 15,000 | 2013 est. |
+| 144 | New Caledonia | 14,500 | 2013 est. |
+| 145 | Zimbabwe | 14,000 | 2013 est. |
+| 146 | Togo | 13,000 | 2013 est. |
+| 147 | Mauritania | 12,800 | 2013 est. |
+| 148 | Guam | 12,510 | 2014 est. |
+| 149 | Madagascar | 12,000 | 2013 est. |
+| 150 | Burkina Faso | 12,000 | 2013 est. |
+| 151 | Tajikistan | 12,000 | 2013 est. |
+| 152 | Guyana | 10,800 | 2013 est. |
+| 153 | Macau | 10,680 | 2013 est. |
+| 154 | Fiji | 9,400 | 2013 est. |
+| 155 | Barbados | 9,000 | 2013 est. |
+| 156 | Guinea | 9,000 | 2013 est. |
+| 157 | Armenia | 8,700 | 2013 est. |
+| 158 | Djibouti | 8,000 | 2013 est. |
+| 159 | French Polynesia | 7,000 | 2013 est. |
+| 160 | Greenland | 7,000 | 2013 est. |
+| 161 | Maldives | 6,900 | 2013 est. |
+| 162 | Seychelles | 6,800 | 2013 est. |
+| 163 | Aruba | 6,400 | 2013 est. |
+| 164 | Montenegro | 6,000 | 2013 est. |
+| 165 | Malawi | 6,000 | 2013 est. |
+| 166 | Somalia | 5,600 | 2013 est. |
+| 167 | Rwanda | 5,300 | 2013 est. |
+| 168 | Niger | 5,000 | 2013 est. |
+| 169 | Antigua and Barbuda | 4,900 | 2013 est. |
+| 170 | Faroe Islands | 4,900 | 2013 est. |
+| 171 | Equatorial Guinea | 4,900 | 2013 est. |
+| 172 | Swaziland | 4,800 | 2013 est. |
+| 173 | Mali | 4,700 | 2013 est. |
+| 174 | Bermuda | 4,600 | 2013 est. |
+| 175 | Sierra Leone | 4,400 | 2013 est. |
+| 176 | Liberia | 3,750 | 2013 est. |
+| 177 | Cayman Islands | 3,700 | 2013 est. |
+| 178 | Eritrea | 3,500 | 2013 est. |
+| 179 | Belize | 3,500 | 2013 est. |
+| 180 | Laos | 3,200 | 2013 est. |
+| 181 | Gambia, The | 3,100 | 2013 est. |
+| 182 | Saint Lucia | 3,000 | 2013 est. |
+| 183 | Guinea-Bissau | 2,700 | 2013 est. |
+| 184 | Cabo Verde | 2,600 | 2013 est. |
+| 185 | American Samoa | 2,375 | 2013 est. |
+| 186 | Central African Republic | 2,300 | 2013 est. |
+| 187 | Grenada | 2,000 | 2013 est. |
+| 188 | Bhutan | 2,000 | 2013 est. |
+| 189 | Western Sahara | 1,700 | 2013 est. |
+| 190 | Saint Kitts and Nevis | 1,700 | 2013 est. |
+| 191 | Chad | 1,700 | 2013 est. |
+| 192 | Lesotho | 1,600 | 2013 est. |
+| 193 | Saint Vincent and the Grenadines | 1,500 | 2013 est. |
+| 194 | Solomon Islands | 1,500 | 2013 est. |
+| 195 | Burundi | 1,500 | 2013 est. |
+| 196 | Turks and Caicos Islands | 1,300 | 2013 est. |
+| 197 | Timor-Leste | 1,300 | 2013 est. |
+| 198 | Tonga | 1,200 | 2013 est. |
+| 199 | Samoa | 1,100 | 2013 est. |
+| 200 | Nauru | 1,000 | 2013 est. |
+| 201 | Vanuatu | 1,000 | 2013 est. |
+| 202 | Comoros | 1,000 | 2013 est. |
+| 203 | Sao Tome and Principe | 900 | 2013 est. |
+| 204 | Dominica | 900 | 2013 est. |
+| 205 | British Virgin Islands | 800 | 2013 est. |
+| 206 | Saint Pierre and Miquelon | 600 | 2013 est. |
+| 207 | Montserrat | 570 | 2013 est. |
+| 208 | Cook Islands | 500 | 2013 est. |
+| 209 | Kiribati | 400 | 2013 est. |
+| 210 | Falkland Islands (Islas Malvinas) | 300 | 2013 est. |
+| 211 | Saint Helena, Ascension, and Tristan da Cunha | 60 | 2013 est. |
+| 212 | Niue | 20 | 2013 est. |
+
+

@@ -1,0 +1,27 @@
+Telephone Code: 996
+Local Emergency Phone: 103
+Climate: Dry continental to polar in high Tien Shan Mountains; subtropical in southwest (Fergana Valley); temperate in northern foothill zone
+Currency (Code): Soms (KGS)
+Electricity: 220 V
+Voltage: 50 Hz
+Plug types(s): C, F
+Major Languages: Kyrgyz (official), Uzbek, Russian
+Major Religions: Muslim 90% (majority Sunni), Christian 7% (Russian Orthodox 3%), other 3% (includes Jewish, Buddhist, Baha'i)
+Time Difference: UTC+6 (11 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Issyk Kul Lake; Bishkek; Ala Archa National Park; Burana Tower; Song Kul; Tash Rabat; Sulaiman-Too; Tien Shan mountain range; Kyrgyz yurt
+Major Sports: Soccer, wrestling, ice hockey
+Cultural Practices: Eldest and most respected members of a party will often sit at the head of the table, furthest from the door.
+Tipping Guidelines: In general, most restaurants include a 10-15% service charge and tipping is not required.
+Souvenirs: felt rugs and felt-crafted clothing/cloth and decorative items, silver jewelry, chess sets, miniature wood-carved yurts
+Traditional Cuisine: Beshbarmak --- horse or lamb meat with flat noodles and onion sauce
+
+---
+country: Kyrgyzstan
+date: June 23, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Kyrgyzstan/travel-facts>
+license: public domain (U.S.)
+...

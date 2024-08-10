@@ -1,0 +1,213 @@
+CIA - The World Factbook --  Natural gas - exports   
+
+This entry is the total natural gas exported in cubic meters (cu m).
+
+| Rank | country | (cu m) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Russia | 243,400,000,000 | 2008 |
+| 2 | Canada | 102,800,000,000 | 2008 |
+| 3 | Norway | 95,230,000,000 | 2008 |
+| 4 | Netherlands | 61,720,000,000 | 2008 |
+| 5 | Algeria | 59,670,000,000 | 2008 |
+| 6 | Qatar | 56,780,000,000 | 2008 |
+| 7 | Turkmenistan | 48,500,000,000 | 2008 |
+| 8 | Indonesia | 33,500,000,000 | 2008 |
+| 9 | Malaysia | 31,030,000,000 | 2008 |
+| 10 | United States | 28,490,000,000 | 2008 |
+| 11 | Nigeria | 20,550,000,000 | 2008 |
+| 12 | Australia | 19,480,000,000 | 2008 |
+| 13 | Trinidad and Tobago | 17,360,000,000 | 2008 |
+| 14 | Egypt | 16,920,000,000 | 2008 |
+| 15 | Uzbekistan | 15,000,000,000 | 2008 |
+| 16 | Germany | 12,680,000,000 | 2008 |
+| 17 | Bolivia | 11,790,000,000 | 2008 |
+| 18 | Oman | 10,890,000,000 | 2008 |
+| 19 | United Kingdom | 10,500,000,000 | 2008 |
+| 20 | Libya | 10,400,000,000 | 2008 |
+| 21 | Kazakhstan | 9,221,000,000 | 2008 |
+| 22 | Brunei | 9,200,000,000 | 2008 |
+| 23 | Burma | 8,550,000,000 | 2008 |
+| 24 | United Arab Emirates | 7,567,000,000 | 2008 |
+| 25 | Azerbaijan | 5,564,000,000 | 2008 |
+| 26 | Denmark | 5,516,000,000 | 2008 |
+| 27 | Equatorial Guinea | 5,170,000,000 | 2008 |
+| 28 | Iran | 4,246,000,000 | 2008 |
+| 29 | China | 3,360,000,000 | 2008 |
+| 30 | Mozambique | 3,200,000,000 | 2008 |
+| 31 | Ukraine | 3,200,000,000 | 2007 |
+| 32 | Austria | 2,788,000,000 | 2008 |
+| 33 | Mexico | 1,136,000,000 | 2008 |
+| 34 | France | 1,000,000,000 | 2008 |
+| 35 | Czech Republic | 968,000,000 | 2008 |
+| 36 | Colombia | 900,000,000 | 2008 |
+| 37 | Argentina | 890,000,000 | 2008 |
+| 38 | Turkey | 435,000,000 | 2008 |
+| 39 | Croatia | 310,000,000 | 2007 |
+| 40 | Italy | 210,000,000 | 2008 |
+| 41 | Slovakia | 186,000,000 | 2008 |
+| 42 | Poland | 39,000,000 | 2008 |
+| 43 | Hungary | 21,000,000 | 2008 |
+| 44 | Aruba | 0 | 2008 |
+| 45 | Bahrain | 0 | 2008 |
+| 46 | Botswana | 0 | 2008 |
+| 47 | Solomon Islands | 0 | 2008 |
+| 48 | Belarus | 0 | 2008 |
+| 49 | Benin | 0 | 2008 |
+| 50 | Bosnia and Herzegovina | 0 | 2008 |
+| 51 | Belize | 0 | 2008 |
+| 52 | Bangladesh | 0 | 2008 |
+| 53 | Bahamas, The | 0 | 2008 |
+| 54 | Belgium | 0 | 2008 |
+| 55 | Bermuda | 0 | 2008 |
+| 56 | Faroe Islands | 0 | 2008 |
+| 57 | Falkland Islands (Islas Malvinas) | 0 | 2008 |
+| 58 | Fiji | 0 | 2008 |
+| 59 | Finland | 0 | 2008 |
+| 60 | Ethiopia | 0 | 2008 |
+| 61 | El Salvador | 0 | 2008 |
+| 62 | Eritrea | 0 | 2008 |
+| 63 | Estonia | 0 | 2008 |
+| 64 | Cape Verde | 0 | 2008 |
+| 65 | India | 0 | 2008 |
+| 66 | Iceland | 0 | 2008 |
+| 67 | Honduras | 0 | 2008 |
+| 68 | Hong Kong | 0 | 2008 |
+| 69 | Haiti | 0 | 2008 |
+| 70 | Guyana | 0 | 2008 |
+| 71 | Guinea | 0 | 2008 |
+| 72 | Guatemala | 0 | 2008 |
+| 73 | Greece | 0 | 2008 |
+| 74 | Liberia | 0 | 2008 |
+| 75 | Lithuania | 0 | 2008 |
+| 76 | Latvia | 0 | 2008 |
+| 77 | Lebanon | 0 | 2008 |
+| 78 | Laos | 0 | 2008 |
+| 79 | Kuwait | 0 | 2008 |
+| 80 | Korea, South | 0 | 2008 |
+| 81 | Kiribati | 0 | 2008 |
+| 82 | Korea, North | 0 | 2008 |
+| 83 | Zimbabwe | 0 | 2008 |
+| 84 | Zambia | 0 | 2008 |
+| 85 | Yemen | 0 | 2008 |
+| 86 | Swaziland | 0 | 2008 |
+| 87 | Samoa | 0 | 2008 |
+| 88 | Western Sahara | 0 | 2008 |
+| 89 | Namibia | 0 | 2008 |
+| 90 | Virgin Islands | 0 | 2008 |
+| 91 | Vietnam | 0 | 2008 |
+| 92 | British Virgin Islands | 0 | 2008 |
+| 93 | Venezuela | 0 | 2008 |
+| 94 | Saint Vincent and the Grenadines | 0 | 2008 |
+| 95 | Uruguay | 0 | 2008 |
+| 96 | Burkina Faso | 0 | 2008 |
+| 97 | Uganda | 0 | 2008 |
+| 98 | Tanzania | 0 | 2008 |
+| 99 | Taiwan | 0 | 2008 |
+| 100 | Timor-Leste | 0 | 2008 |
+| 101 | Tunisia | 0 | 2008 |
+| 102 | Sao Tome and Principe | 0 | 2008 |
+| 103 | Togo | 0 | 2008 |
+| 104 | Tonga | 0 | 2008 |
+| 105 | Turks and Caicos Islands | 0 | 2008 |
+| 106 | Tajikistan | 0 | 2008 |
+| 107 | Thailand | 0 | 2008 |
+| 108 | Switzerland | 0 | 2008 |
+| 109 | Syria | 0 | NA |
+| 110 | Sweden | 0 | 2008 |
+| 111 | Sudan | 0 | 2008 |
+| 112 | Saint Lucia | 0 | 2008 |
+| 113 | Spain | 0 | 2008 |
+| 114 | Somalia | 0 | 2008 |
+| 115 | Singapore | 0 | 2008 |
+| 116 | Sierra Leone | 0 | 2008 |
+| 117 | Slovenia | 0 | 2008 |
+| 118 | Saint Helena | 0 | 2008 |
+| 119 | Senegal | 0 | 2008 |
+| 120 | South Africa | 0 | 2008 |
+| 121 | Seychelles | 0 | 2008 |
+| 122 | Saint Kitts and Nevis | 0 | 2008 |
+| 123 | Saint Pierre and Miquelon | 0 | 2008 |
+| 124 | Saudi Arabia | 0 | 2008 |
+| 125 | Rwanda | 0 | 2008 |
+| 126 | Puerto Rico | 0 | 2008 |
+| 127 | Philippines | 0 | 2008 |
+| 128 | Romania | 0 | 2008 |
+| 129 | Serbia | 0 | 2005 |
+| 130 | Guinea-Bissau | 0 | 2008 |
+| 131 | Papua New Guinea | 0 | 2008 |
+| 132 | Portugal | 0 | 2008 |
+| 133 | Panama | 0 | 2008 |
+| 134 | Pakistan | 0 | 2008 |
+| 135 | Peru | 0 | 2008 |
+| 136 | Paraguay | 0 | 2008 |
+| 137 | New Zealand | 0 | 2008 |
+| 138 | Nicaragua | 0 | 2008 |
+| 139 | Netherlands Antilles | 0 | 2008 |
+| 140 | Suriname | 0 | 2008 |
+| 141 | Nauru | 0 | 2008 |
+| 142 | Nepal | 0 | 2008 |
+| 143 | Vanuatu | 0 | 2008 |
+| 144 | Niger | 0 | 2008 |
+| 145 | Niue | 0 | 2008 |
+| 146 | New Caledonia | 0 | 2008 |
+| 147 | Maldives | 0 | 2008 |
+| 148 | Malta | 0 | 2008 |
+| 149 | Mauritania | 0 | 2008 |
+| 150 | Mauritius | 0 | 2008 |
+| 151 | Morocco | 0 | 2008 |
+| 152 | Mali | 0 | 2008 |
+| 153 | Macedonia | 0 | 2008 |
+| 154 | Malawi | 0 | 2008 |
+| 155 | Montserrat | 0 | 2008 |
+| 156 | Mongolia | 0 | 2008 |
+| 157 | Moldova | 0 | 2008 |
+| 158 | Macau | 0 | 2008 |
+| 159 | Madagascar | 0 | 2008 |
+| 160 | Luxembourg | 0 | 2008 |
+| 161 | Lesotho | 0 | 2008 |
+| 162 | Kyrgyzstan | 0 | 2008 |
+| 163 | Kenya | 0 | 2008 |
+| 164 | Jordan | 0 | 2008 |
+| 165 | Jamaica | 0 | 2008 |
+| 166 | Japan | 0 | 2008 |
+| 167 | Iraq | 0 | 2008 |
+| 168 | Cote d'Ivoire | 0 | 2008 |
+| 169 | Israel | 0 | 2008 |
+| 170 | Greenland | 0 | 2008 |
+| 171 | Grenada | 0 | 2008 |
+| 172 | Gibraltar | 0 | 2008 |
+| 173 | Ghana | 0 | 2008 |
+| 174 | Georgia | 0 | 2008 |
+| 175 | Gabon | 0 | 2008 |
+| 176 | Gambia, The | 0 | 2008 |
+| 177 | French Polynesia | 0 | 2008 |
+| 178 | Cuba | 0 | 2008 |
+| 179 | Central African Republic | 0 | 2008 |
+| 180 | Costa Rica | 0 | 2008 |
+| 181 | Comoros | 0 | 2008 |
+| 182 | Cameroon | 0 | 2008 |
+| 183 | Cayman Islands | 0 | 2008 |
+| 184 | Chile | 0 | 2008 |
+| 185 | Congo, Democratic Republic of the | 0 | 2008 |
+| 186 | Ireland | 0 | 2008 |
+| 187 | Ecuador | 0 | 2008 |
+| 188 | Dominican Republic | 0 | 2008 |
+| 189 | Dominica | 0 | 2008 |
+| 190 | Djibouti | 0 | 2008 |
+| 191 | Cyprus | 0 | 2008 |
+| 192 | Cook Islands | 0 | 2008 |
+| 193 | Congo, Republic of the | 0 | 2008 |
+| 194 | Sri Lanka | 0 | 2008 |
+| 195 | Chad | 0 | 2008 |
+| 196 | Cambodia | 0 | 2008 |
+| 197 | Burundi | 0 | 2008 |
+| 198 | Bulgaria | 0 | 2008 |
+| 199 | Bhutan | 0 | 2008 |
+| 200 | Brazil | 0 | 2008 |
+| 201 | Barbados | 0 | 2008 |
+| 202 | Armenia | 0 | 2008 |
+| 203 | American Samoa | 0 | 2008 |
+| 204 | Angola | 0 | 2008 |
+| 205 | Albania | 0 | 2008 |
+| 206 | Afghanistan | 0 | 2008 |
+| 207 | Antigua and Barbuda | 0 | 2008 |

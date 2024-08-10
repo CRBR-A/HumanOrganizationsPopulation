@@ -1,0 +1,231 @@
+CIA - The World Factbook --  ROADWAYS
+
+Roadways compares the total length of the road network and includes the length of the paved and unpaved portions.
+
+| Rank | Country | (KM) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | United States | 6,586,610 | 2012 |
+| 2 | India | 4,689,842 | 2013 |
+| 3 | China | 4,106,387 | 2011 |
+| 4 | Brazil | 1,580,964 | 2010 |
+| 5 | Russia | 1,283,387 | 2012 |
+| 6 | Japan | 1,210,251 | 2010 |
+| 7 | Canada | 1,042,300 | 2008 |
+| 8 | France | 1,028,446 | 2010 |
+| 9 | Australia | 823,217 | 2011 |
+| 10 | South Africa | 747,014 | 2014 |
+| 11 | Spain | 683,175 | 2011 |
+| 12 | Germany | 645,000 | 2010 |
+| 13 | Sweden | 579,564 | 2010 |
+| 14 | Indonesia | 496,607 | 2011 |
+| 15 | Italy | 487,700 | 2007 |
+| 16 | Poland | 412,035 | 2012 |
+| 17 | United Kingdom | 394,428 | 2009 |
+| 18 | Turkey | 385,748 | 2012 |
+| 19 | Mexico | 377,660 | 2012 |
+| 20 | Pakistan | 262,256 | 2010 |
+| 21 | Argentina | 231,374 | 2004 |
+| 22 | Saudi Arabia | 221,372 | 2006 |
+| 23 | Philippines | 213,151 | 2009 |
+| 24 | Vietnam | 206,633 | 2013 |
+| 25 | Hungary | 199,567 | 2010 |
+| 26 | Iran | 198,866 | 2010 |
+| 27 | Nigeria | 193,200 | 2004 |
+| 28 | Thailand | 180,053 | 2006 |
+| 29 | Ukraine | 169,694 | 2012 |
+| 30 | Kenya | 160,878 | 2013 |
+| 31 | Belgium | 154,012 | 2010 |
+| 32 | Congo, Democratic Republic of the | 153,497 | 2004 |
+| 33 | Malaysia | 144,403 | 2010 |
+| 34 | Colombia | 141,374 | 2010 |
+| 35 | Peru | 140,672 | 2012 |
+| 36 | Netherlands | 139,295 | 2012 |
+| 37 | Egypt | 137,430 | 2010 |
+| 38 | Czechia | 130,671 | 2010 |
+| 39 | Austria | 124,508 | 2012 |
+| 40 | Greece | 116,960 | 2010 |
+| 41 | Sri Lanka | 114,093 | 2010 |
+| 42 | Algeria | 113,655 | 2010 |
+| 43 | Ghana | 109,515 | 2009 |
+| 44 | Korea, South | 104,983 | 2009 |
+| 45 | Libya | 100,024 | 2003 |
+| 46 | Kazakhstan | 97,418 | 2012 |
+| 47 | Zimbabwe | 97,267 | 2002 |
+| 48 | Venezuela | 96,155 | 2002 |
+| 49 | Ireland | 96,036 | 2014 |
+| 50 | New Zealand | 94,160 | 2012 |
+| 51 | Norway | 93,870 | 2013 |
+| 52 | Uzbekistan | 86,496 | 2000 |
+| 53 | Tanzania | 86,472 | 2010 |
+| 54 | Belarus | 86,392 | 2010 |
+| 55 | Romania | 84,185 | 2012 |
+| 56 | Lithuania | 84,166 | 2012 |
+| 57 | Portugal | 82,900 | 2008 |
+| 58 | Cote d'Ivoire | 81,996 | 2007 |
+| 59 | Bolivia | 80,488 | 2010 |
+| 60 | Finland | 78,000 | 2012 |
+| 61 | Chile | 77,764 | 2010 |
+| 62 | Uruguay | 77,732 | 2010 |
+| 63 | Denmark | 73,929 | 2012 |
+| 64 | Latvia | 72,440 | 2013 |
+| 65 | Switzerland | 71,464 | 2011 |
+| 66 | Yemen | 71,300 | 2005 |
+| 67 | Syria | 69,873 | 2010 |
+| 68 | Cuba | 60,858 | 2001 |
+| 69 | Oman | 60,240 | 2012 |
+| 70 | Iraq | 59,623 | 2012 |
+| 71 | Turkmenistan | 58,592 | 2002 |
+| 72 | Estonia | 58,412 | 2011 |
+| 73 | Morocco | 58,395 | 2010 |
+| 74 | Azerbaijan | 52,942 | 2006 |
+| 75 | Angola | 51,429 | 2001 |
+| 76 | Cameroon | 51,350 | 2011 |
+| 77 | Mongolia | 49,249 | 2013 |
+| 78 | Ethiopia | 44,359 | 2007 |
+| 79 | Guinea | 44,348 | 2003 |
+| 80 | Serbia | 44,248 | 2010 |
+| 81 | Namibia | 44,138 | 2010 |
+| 82 | Slovakia | 43,916 | 2010 |
+| 83 | Ecuador | 43,670 | 2007 |
+| 84 | Afghanistan | 42,150 | 2006 |
+| 85 | Taiwan | 41,475 | 2009 |
+| 86 | Zambia | 40,454 | |
+| 87 | Chad | 40,000 | 2011 |
+| 88 | Cambodia | 39,618 | 2009 |
+| 89 | Laos | 39,568 | 2007 |
+| 90 | Costa Rica | 39,018 | 2010 |
+| 91 | Slovenia | 38,985 | 2012 |
+| 92 | Madagascar | 34,476 | 2010 |
+| 93 | Burma | 34,377 | 2010 |
+| 94 | Kyrgyzstan | 34,000 | 2007 |
+| 95 | Paraguay | 32,059 | 2010 |
+| 96 | Mozambique | 30,331 | 2009 |
+| 97 | Croatia | 29,410 | 2011 |
+| 98 | Tajikistan | 27,767 | 2000 |
+| 99 | Puerto Rico | 26,862 | 2012 |
+| 100 | Korea, North | 25,554 | 2006 |
+| 101 | Nicaragua | 23,897 | 2012 |
+| 102 | Bosnia and Herzegovina | 22,926 | 2010 |
+| 103 | Mali | 22,474 | 2009 |
+| 104 | Jamaica | 22,121 | 2011 |
+| 105 | Somalia | 22,100 | 2000 |
+| 106 | Bangladesh | 21,269 | 2010 |
+| 107 | Central African Republic | 20,278 | 2010 |
+| 108 | Cyprus | 20,006 | 2011 |
+| 109 | Uganda | 20,000 | 2011 |
+| 110 | Dominican Republic | 19,705 | 2002 |
+| 111 | Bulgaria | 19,512 | 2011 |
+| 112 | Tunisia | 19,418 | 2010 |
+| 113 | Georgia | 19,109 | 2010 |
+| 114 | Niger | 18,949 | 2010 |
+| 115 | Israel | 18,566 | 2011 |
+| 116 | Albania | 18,000 | 2002 |
+| 117 | Botswana | 17,916 | 2011 |
+| 118 | Congo, Republic of the | 17,289 | 2004 |
+| 119 | Benin | 16,000 | 2006 |
+| 120 | Malawi | 15,450 | 2011 |
+| 121 | Burkina Faso | 15,272 | 2010 |
+| 122 | Panama | 15,137 | 2010 |
+| 123 | Honduras | 14,742 | 2012 |
+| 124 | Macedonia | 14,038 | 2012 |
+| 125 | Senegal | 14,008 | 2003 |
+| 126 | Iceland | 12,890 | 2012 |
+| 127 | Burundi | 12,322 | 2004 |
+| 128 | Sudan | 11,900 | 2000 |
+| 129 | Togo | 11,652 | 2007 |
+| 130 | Guatemala | 11,501 | 2010 |
+| 131 | Sierra Leone | 11,300 | 2002 |
+| 132 | Nepal | 10,844 | 2010 |
+| 133 | Mauritania | 10,628 | 2010 |
+| 134 | Liberia | 10,600 | 2000 |
+| 135 | Bhutan | 10,578 | 2013 |
+| 136 | Qatar | 9,830 | 2010 |
+| 137 | Moldova | 9,352 | 2012 |
+| 138 | Papua New Guinea | 9,349 | 2011 |
+| 139 | Gabon | 9,170 | 2007 |
+| 140 | Trinidad and Tobago | 8,320 | 2001 |
+| 141 | Guyana | 7,970 | 2000 |
+| 142 | Montenegro | 7,763 | 2010 |
+| 143 | Armenia | 7,705 | 2012 |
+| 144 | Jordan | 7,203 | 2011 |
+| 145 | South Sudan | 7,000 | 2012 |
+| 146 | Lebanon | 6,970 | 2005 |
+| 147 | Kosovo | 6,955 | 2012 |
+| 148 | El Salvador | 6,918 | 2010 |
+| 149 | Kuwait | 6,608 | 2010 |
+| 150 | Timor-Leste | 6,040 | 2005 |
+| 151 | Lesotho | 5,940 | 2011 |
+| 152 | New Caledonia | 5,622 | 2006 |
+| 153 | Rwanda | 4,700 | 2012 |
+| 154 | West Bank | 4,686 | 2010 |
+| 155 | Suriname | 4,304 | 2003 |
+| 156 | Haiti | 4,266 | 2009 |
+| 157 | Bahrain | 4,122 | 2010 |
+| 158 | United Arab Emirates | 4,080 | 2008 |
+| 159 | Eritrea | 4,010 | 2000 |
+| 160 | Gambia, The | 3,740 | 2011 |
+| 161 | Swaziland | 3,594 | 2002 |
+| 162 | Guinea-Bissau | 3,455 | 2002 |
+| 163 | Fiji | 3,440 | 2011 |
+| 164 | Singapore | 3,425 | 2012 |
+| 165 | Malta | 3,096 | 2008 |
+| 166 | Djibouti | 3,065 | 2000 |
+| 167 | Brunei | 3,029 | 2010 |
+| 168 | Luxembourg | 2,899 | 2011 |
+| 169 | Equatorial Guinea | 2,880 | 2000 |
+| 170 | Belize | 2,870 | 2011 |
+| 171 | Bahamas, The | 2,700 | 2011 |
+| 172 | French Polynesia | 2,590 | 1999 |
+| 173 | Samoa | 2,337 | 2001 |
+| 174 | Mauritius | 2,149 | 2012 |
+| 175 | Hong Kong | 2,090 | 2012 |
+| 176 | Marshall Islands | 2,028 | 2007 |
+| 177 | Barbados | 1,600 | 2011 |
+| 178 | Dominica | 1,512 | 2010 |
+| 179 | Solomon Islands | 1,390 | 2011 |
+| 180 | Cabo Verde | 1,350 | 2013 |
+| 181 | Virgin Islands | 1,260 | 2008 |
+| 182 | Saint Lucia | 1,210 | 2011 |
+| 183 | Antigua and Barbuda | 1,170 | 2011 |
+| 184 | Grenada | 1,127 | 2001 |
+| 185 | Vanuatu | 1,070 | 2000 |
+| 186 | Guam | 1,045 | 2008 |
+| 187 | Comoros | 880 | 2002 |
+| 188 | Saint Vincent and the Grenadines | 829 | 2003 |
+| 189 | Cayman Islands | 785 | 2007 |
+| 190 | Tonga | 680 | 2011 |
+| 191 | Kiribati | 670 | 2011 |
+| 192 | Jersey | 576 | 2010 |
+| 193 | Curacao | 550 | |
+| 194 | Northern Mariana Islands | 536 | 2008 |
+| 195 | Seychelles | 508 | 2010 |
+| 196 | Isle of Man | 500 | 2008 |
+| 197 | Faroe Islands | 463 | 2006 |
+| 198 | Bermuda | 447 | 2010 |
+| 199 | Falkland Islands (Islas Malvinas) | 440 | 2008 |
+| 200 | Macau | 413 | 2009 |
+| 201 | Saint Kitts and Nevis | 383 | 2002 |
+| 202 | Liechtenstein | 380 | 2012 |
+| 203 | Andorra | 320 | 2008 |
+| 204 | Sao Tome and Principe | 320 | 2000 |
+| 205 | Cook Islands | 320 | 2003 |
+| 206 | San Marino | 292 | 2006 |
+| 207 | American Samoa | 241 | 2008 |
+| 208 | Micronesia, Federated States of | 240 | 2000 |
+| 209 | British Virgin Islands | 200 | 2007 |
+| 210 | Saint Helena, Ascension, and Tristan da Cunha | 198 | 2002 |
+| 211 | Anguilla | 175 | 2004 |
+| 212 | Christmas Island | 140 | 2011 |
+| 213 | Turks and Caicos Islands | 121 | 2003 |
+| 214 | Niue | 120 | 2011 |
+| 215 | Saint Pierre and Miquelon | 117 | 2009 |
+| 216 | Maldives | 88 | 2013 |
+| 217 | Norfolk Island | 80 | 2008 |
+| 218 | Monaco | 77 | 2010 |
+| 219 | Sint Maarten | 53 | |
+| 220 | Nauru | 30 | 2002 |
+| 221 | Gibraltar | 29 | 2007 |
+| 222 | Cocos (Keeling) Islands | 22 | 2007 |
+| 223 | Tuvalu | 8 | 2011 |
+
+

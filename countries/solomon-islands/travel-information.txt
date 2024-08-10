@@ -1,0 +1,27 @@
+Telephone Code: 677
+Local Emergency Phone: 911
+Climate: Tropical monsoon; few temperature and weather extremes
+Currency (Code): Solomon Islands dollars (SBD)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): G, I
+Major Languages: Melanesian pidgin, English; note: 120 indigenous languages
+Major Religions: Protestant 73.4% (Church of Melanesia, South Sea Evangelical, Seventh Day Adventist, United Church, Christian Fellowship Church), Roman Catholic 19.6%, other Christian 2.9%
+Time Difference: UTC+11 (16 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Left
+Tourist Destinations: East Rennell; Guadalcanal American Memorial; Bonegi I & II; Morovo Lagoon; Tenaru Falls
+Major Sports: Rugby, soccer, futsal (indoor court soccer), beach soccer
+Cultural Practices: Tourists are advised to dress modestly and cursing is a crime punishable by a fine, jail time, or both.
+Tipping Guidelines: There is no tipping and visitors are requested to honor this local custom. However, visitors can contribute to a shared tipping box whose contents are distributed at Christmas.
+Souvenirs: Wood carvings, woven baskets and other woven goods, mother-of-pearl and shell jewelry and other decorative items
+Traditional Cuisine: Poi --- a savory side dish of rinsed taro roots turned into a paste
+
+---
+country: Solomon Islands
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Solomon Islands/travel-facts>
+license: public domain (U.S.)
+...

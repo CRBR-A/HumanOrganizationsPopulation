@@ -1,0 +1,29 @@
+Telephone Code: 246
+Local Emergency Phone - Ambulance: 115, 119
+Local Emergency Phone - Fire: 113, 119
+Local Emergency Phone - Police: 112, 119
+Climate: Tropical; rainy season (June to October)
+Currency (Code): Barbadian dollars (BBD)
+Electricity: 115 V
+Voltage: 50 Hz
+Plug types(s): A, B (2 flat blades)
+Major Languages: English, Bajan Creole
+Major Religions: Protestant 66.4%, Roman Catholic 3.8%, other Christians 5.4%, Rastafarian 1%
+Time Difference: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)
+Potable Water: Yes
+International Driving Permit: Suggested; additionally, traveler will need to present their US driver's license & IDP to local police to pay a special registration fee
+Road Driving Side: Left
+Tourist Destinations: St. Nicholas Abbey; Barbados Wildlife Reserve; Farley Hill National Park; Hunte's Gardens; dozens of excellent white sand beaches; Andromeda Botanic Gardens
+Major Sports: Soccer, cricket
+Cultural Practices: Wearing military style clothing is considered rude or strange.
+Tipping Guidelines: A service charge of 10-15% is typically added to your bill at hotels and restaurants. Additional tipping is at your discretion and should reflect the quality of service you received. The standard tipping is approximately 10%. Always agree on the fare with the taxi driver before starting the trip. Tip bellhops $1 (USD) per bag and housekeeping $2 (USD) per room per day.
+Souvenirs: Straw bags and other handicrafts, batiks, paintings/wood works; duty-free luxury items, rum
+Traditional Cuisine: Cou-cou (or fungie) --- lightly seasoned cooked cornmeal mixed with okra and water; often served with flying fish steamed with lime juice, spices, and vegetables or fried and served with a spicy sauce
+
+---
+country: Barbados
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Barbados/travel-facts>
+license: public domain (U.S.)
+...

@@ -1,0 +1,8 @@
+Once the center of the Caribbean slave trade, the island of Curacao was hard hit by the abolition of slavery in 1863. Its prosperity (and that of neighboring Aruba) was restored in the early 20th century with the construction of oil refineries to service newly discovered Venezuelan oil fields. The island of Saint Martin is shared with France; its southern portion is named Sint Maarten and is part of the Netherlands Antilles; its northern portion, called Saint Martin, is an overseas collectivity of France.  
+
+---
+country: Netherlands Antilles
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Netherlands Antilles/>
+license: public domain (U.S.)
+...

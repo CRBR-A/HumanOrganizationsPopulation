@@ -1,0 +1,27 @@
+Telephone Code: 649
+Local Emergency Phone: 999, 911
+Climate: Tropical; marine; moderated by trade winds; sunny and relatively dry
+Currency (Code): Dollar (USD)
+Electricity: 120 V
+Voltage: 60 Hz
+Plug types(s): A, B
+Major Languages: English
+Major Religions: Protestant 72.8%, Roman Catholic 11.4%, Jehovah's Witness 1.8%
+Time Difference: UTC-5 (same time as Washington, DC, during Standard Time)
+Potable Water: Yes
+International Driving Permit: Suggested
+Road Driving Side: Left
+Tourist Destinations: Crossing Place trail hike; Mudjin Harbour; Pine Cay; Salt Cay; Conch Bar Caves National Park; Grand Turk Lighthouse; Turks & Caicos National Museum
+Major Sports: Soccer, sailing
+Cultural Practices: Dining does not usually call for formal wear, but stylish and appropriate clothing is expected.
+Tipping Guidelines: Check your bill to see if a 10% service charge has been added. If so, you may supplement it by 5% or even more if service was outstanding. If no service charge has been added, then tip as you would in the US, about 15%. Be aware that when a large party dines together, a hefty service fee may be added at the end. Taxi drivers expect about a 10% tip.
+Souvenirs: Handmade baskets and plaited straw hats, hand-screened cloth, ocean-themed wood carvings including wooden boats and models, conch shell items, sea glass and other beaded jewelry, wind chimes, rum, ceramics
+Traditional Cuisine: Cracked Conch --- conch meat pounded with a meat tenderizer, seasoned, coated in a flour batter, and then deep fried
+
+---
+country: Turks and Caicos Islands
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Turks and Caicos Islands/travel-facts>
+license: public domain (U.S.)
+...

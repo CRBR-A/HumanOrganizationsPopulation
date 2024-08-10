@@ -1,0 +1,27 @@
+Telephone Code: 268
+Local Emergency Phone: Local numbers only
+Climate: Varies from tropical to near temperate
+Currency (Code): Emalangeni (SZL)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): M
+Major Languages: English (used for government business), siSwati
+Major Religions: Christian 90% (Zionist - 40%, Roman Catholic 20%, other 30% - includes Anglican, Methodist, Mormon, Jehovah's Witness), Muslim 2%
+Time Difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Left
+Tourist Destinations: Hlane Royal National Park; Mbuluzi Game Reserve; Mlawula Nature Reserve; Mlilwane Wildlife Sanctuary; Malolotja Nature Reserve, Phophonyane Falls Nature Reserve
+Major Sports: Soccer, rugby, cricket
+Cultural Practices: If sitting on the ground, it is considered very rude to point one's feet at another person.
+Tipping Guidelines: Service charges are not normally included in bills, but tips of 10% are customary.
+Souvenirs: Woven rugs, clay pots, sisal woven baskets, traditional dyed cloth or hand-loomed mohair items, glass-bead or precious-metal jewelry, carved wooden statues, sheet-metal toys
+Traditional Cuisine: Karoo roast ostrich steak --- thinly sliced ostrich steaks marinated in red wine and juniper berries with salt and pepper then fried in butter and served with onions sautéed with peppercorns, white wine, and heavy cream; traditionally accompanied with a pumpkin and ground maize mash
+
+---
+country: Eswatini
+date: June 06, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Eswatini/travel-facts>
+license: public domain (U.S.)
+...

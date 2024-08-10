@@ -1,0 +1,261 @@
+CIA - The World Factbook --  Household income or consumption by percentage share   
+
+Data on household income or consumption come from household surveys, the results adjusted for household size. Nations use different standards and procedures in collecting and adjusting the data. Surveys based on income will normally show a more unequal distribution than surveys based on consumption. The quality of surveys is improving with time, yet caution is still necessary in making inter-country comparisons.
+
+| Rank | country | (%) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Namibia | 64.50 | 2003 |
+| 2 | Haiti | 47.70 | 2001 |
+| 3 | Colombia | 45.90 | 2006 |
+| 4 | South Africa | 44.70 | 2000 |
+| 5 | Bolivia | 44.10 | 2005 |
+| 6 | Ecuador | 43.30 | 2007 |
+| 7 | Brazil | 43.00 | 2007 |
+| 8 | Guatemala | 42.40 | 2006 |
+| 9 | Paraguay | 42.30 | 2007 |
+| 10 | Honduras | 42.20 | 2006 |
+| 11 | Nicaragua | 41.80 | 2005 |
+| 12 | Chile | 41.70 | 2006 |
+| 13 | Madagascar | 41.50 | 2005 |
+| 14 | Panama | 41.40 | 2006 |
+| 15 | Armenia | 41.30 | 2004 |
+| 16 | Taiwan | 41.10 | 2002 est. |
+| 17 | Guinea | 41.00 | 2006 |
+| 18 | Swaziland | 40.70 | 2001 |
+| 19 | Nepal | 40.60 | 2006 |
+| 20 | Papua New Guinea | 40.50 | 1996 |
+| 21 | Zimbabwe | 40.40 | 1995 |
+| 22 | Sri Lanka | 39.70 | 2004 |
+| 23 | Lesotho | 39.40 | 2003 |
+| 24 | Mozambique | 39.20 | 2003 |
+| 25 | Zambia | 38.80 | 2004 |
+| 26 | Dominican Republic | 38.70 | 2005 |
+| 27 | Rwanda | 38.20 | 2000 |
+| 28 | Mexico | 37.90 | 2006 |
+| 29 | Peru | 37.90 | 2006 |
+| 30 | Kenya | 37.80 | 2005 |
+| 31 | El Salvador | 37.00 | 2005 |
+| 32 | Gambia, The | 36.90 | 2003 |
+| 33 | Jamaica | 35.80 | 2004 |
+| 34 | Niger | 35.70 | 2005 |
+| 35 | Costa Rica | 35.50 | 2005 |
+| 36 | Cameroon | 35.40 | 2001 |
+| 37 | Argentina | 35.00 | January-March 2007 |
+| 38 | Uruguay | 34.80 | 2006 |
+| 39 | Cambodia | 34.20 | 2007 |
+| 40 | Uganda | 34.10 | 2005 |
+| 41 | Cote d'Ivoire | 34.00 | 2002 |
+| 42 | Guyana | 33.80 | 1999 |
+| 43 | Thailand | 33.70 | 2004 |
+| 44 | Sierra Leone | 33.60 | 2003 |
+| 45 | Morocco | 33.20 | 2007 |
+| 46 | Turkey | 33.20 | 2005 |
+| 47 | Central African Republic | 33.00 | 2003 |
+| 48 | Ghana | 32.80 | 2006 |
+| 49 | Venezuela | 32.70 | 2006 |
+| 50 | Burma | 32.40 | 1998 |
+| 51 | Nigeria | 32.40 | 2004 |
+| 52 | Indonesia | 32.30 | 2006 |
+| 53 | Burkina Faso | 32.20 | 2004 |
+| 54 | Malawi | 31.90 | 2004 |
+| 55 | Turkmenistan | 31.70 | 1998 |
+| 56 | Tunisia | 31.50 | 2000 |
+| 57 | China | 31.40 | 2004 |
+| 58 | Philippines | 31.20 | 2006 |
+| 59 | India | 31.10 | 2005 |
+| 60 | Yemen | 30.80 | 2005 |
+| 61 | Jordan | 30.70 | 2006 |
+| 62 | Mali | 30.50 | 2006 |
+| 63 | Russia | 30.40 | September 2007 |
+| 64 | Senegal | 30.10 | 2005 |
+| 65 | United States | 30.00 | 2007 est. |
+| 66 | Vietnam | 29.80 | 2006 |
+| 67 | Iran | 29.60 | 2005 |
+| 68 | Macedonia | 29.60 | 2003 |
+| 69 | Uzbekistan | 29.60 | 2003 |
+| 70 | Mauritania | 29.50 | 2000 |
+| 71 | Benin | 29.00 | 2003 |
+| 72 | Laos | 28.50 | 2002 |
+| 73 | Malaysia | 28.50 | 2004 est. |
+| 74 | United Kingdom | 28.50 | 1999 |
+| 75 | Belgium | 28.40 | 2000 |
+| 76 | Portugal | 28.40 | 1995 est. |
+| 77 | Moldova | 28.20 | 2004 |
+| 78 | Burundi | 28.00 | 2006 |
+| 79 | Guinea-Bissau | 28.00 | 2002 |
+| 80 | Estonia | 27.70 | 2004 |
+| 81 | Egypt | 27.60 | 2005 |
+| 82 | Bosnia and Herzegovina | 27.40 | 2004 |
+| 83 | Lithuania | 27.40 | 2003 |
+| 84 | Latvia | 27.40 | 2004 |
+| 85 | Ireland | 27.20 | 2000 |
+| 86 | Poland | 27.20 | 2005 |
+| 87 | Bahamas, The | 27.00 | 2000 |
+| 88 | Georgia | 27.00 | 2005 |
+| 89 | Tanzania | 26.90 | 2000 |
+| 90 | Algeria | 26.80 | 1995 |
+| 91 | Italy | 26.80 | 2000 |
+| 92 | Bangladesh | 26.60 | 2005 |
+| 93 | Spain | 26.60 | 2000 |
+| 94 | Kazakhstan | 26.50 | 2004 est. |
+| 95 | Pakistan | 26.50 | 2005 |
+| 96 | Greece | 26.00 | 2000 est. |
+| 97 | Albania | 25.90 | 2005 |
+| 98 | Kyrgyzstan | 25.90 | 2004 |
+| 99 | Switzerland | 25.90 | 2000 |
+| 100 | Ukraine | 25.70 | 2006 |
+| 101 | Ethiopia | 25.60 | 2005 |
+| 102 | Tajikistan | 25.60 | 2007 est. |
+| 103 | Bulgaria | 25.50 | 2007 |
+| 104 | Australia | 25.40 | 1994 |
+| 105 | European Union | 25.20 | 2001 est. |
+| 106 | Mongolia | 24.90 | 2005 |
+| 107 | Canada | 24.80 | 2000 |
+| 108 | France | 24.80 | 2004 |
+| 109 | Finland | 24.70 | 2007 |
+| 110 | Slovenia | 24.60 | 2004 |
+| 111 | Israel | 24.20 | 2007 |
+| 112 | Korea, South | 24.20 | 2007 |
+| 113 | Hungary | 24.10 | 2004 |
+| 114 | Denmark | 24.00 | 2000 est. |
+| 115 | Luxembourg | 23.80 | 2000 |
+| 116 | Norway | 23.40 | 2000 |
+| 117 | Singapore | 23.20 | 2008 |
+| 118 | Croatia | 23.10 | 2005 est. |
+| 119 | Netherlands | 22.90 | 1999 |
+| 120 | Austria | 22.50 | 2004 |
+| 121 | Czech Republic | 22.40 | 1996 |
+| 122 | Sweden | 22.20 | 2000 |
+| 123 | Germany | 22.10 | 2000 |
+| 124 | Belarus | 22.00 | 2005 |
+| 125 | Japan | 21.70 | 1993 |
+| 126 | Slovakia | 20.90 | 1996 |
+| 127 | Romania | 20.80 | 2006 |
+| 128 | Azerbaijan | 17.50 | 2005 |
+| 129 | Taiwan | 6.70 | 2002 est. |
+| 130 | Azerbaijan | 6.10 | 2005 |
+| 131 | Japan | 4.80 | 1993 |
+| 132 | Singapore | 4.40 | 2008 |
+| 133 | Bangladesh | 4.30 | 2005 |
+| 134 | Czech Republic | 4.30 | 1996 |
+| 135 | Burundi | 4.10 | 2006 |
+| 136 | Ethiopia | 4.10 | 2005 |
+| 137 | Egypt | 3.90 | 2005 |
+| 138 | Norway | 3.90 | 2000 |
+| 139 | Pakistan | 3.90 | 2005 |
+| 140 | Belarus | 3.60 | 2005 |
+| 141 | Croatia | 3.60 | 2005 est. |
+| 142 | Finland | 3.60 | 2007 |
+| 143 | Kyrgyzstan | 3.60 | 2004 |
+| 144 | Sweden | 3.60 | 2000 |
+| 145 | India | 3.60 | 2005 |
+| 146 | Hungary | 3.50 | 2004 |
+| 147 | Luxembourg | 3.50 | 2000 |
+| 148 | Belgium | 3.40 | 2000 |
+| 149 | Ukraine | 3.40 | 2006 |
+| 150 | Slovenia | 3.40 | 2004 |
+| 151 | Laos | 3.40 | 2002 |
+| 152 | Austria | 3.30 | 2004 |
+| 153 | Kazakhstan | 3.30 | 2004 est. |
+| 154 | Tajikistan | 3.30 | 2007 est. |
+| 155 | Albania | 3.20 | 2005 |
+| 156 | Germany | 3.20 | 2000 |
+| 157 | Benin | 3.10 | 2003 |
+| 158 | Vietnam | 3.10 | 2006 |
+| 159 | Portugal | 3.10 | 1995 est. |
+| 160 | Slovakia | 3.10 | 1996 |
+| 161 | Bulgaria | 3.00 | 2007 |
+| 162 | Poland | 3.00 | 2005 |
+| 163 | Malawi | 3.00 | 2004 |
+| 164 | Jordan | 3.00 | 2006 |
+| 165 | Cambodia | 3.00 | 2007 |
+| 166 | France | 3.00 | 2004 |
+| 167 | Moldova | 3.00 | 2004 |
+| 168 | Indonesia | 3.00 | 2006 |
+| 169 | Ireland | 2.90 | 2000 |
+| 170 | Switzerland | 2.90 | 2000 |
+| 171 | Tanzania | 2.90 | 2000 |
+| 172 | Yemen | 2.90 | 2005 |
+| 173 | Guinea-Bissau | 2.90 | 2002 |
+| 174 | Mongolia | 2.90 | 2005 |
+| 175 | Algeria | 2.80 | 1995 |
+| 176 | Uzbekistan | 2.80 | 2003 |
+| 177 | Burkina Faso | 2.80 | 2004 |
+| 178 | European Union | 2.80 | 2001 est. |
+| 179 | Burma | 2.80 | 1998 |
+| 180 | Bosnia and Herzegovina | 2.80 | 2004 |
+| 181 | Estonia | 2.70 | 2004 |
+| 182 | Korea, South | 2.70 | 2007 |
+| 183 | Latvia | 2.70 | 2004 |
+| 184 | Lithuania | 2.70 | 2003 |
+| 185 | Morocco | 2.70 | 2007 |
+| 186 | Nepal | 2.70 | 2006 |
+| 187 | Mali | 2.70 | 2006 |
+| 188 | Canada | 2.60 | 2000 |
+| 189 | Iran | 2.60 | 2005 |
+| 190 | Israel | 2.60 | 2007 |
+| 191 | Malaysia | 2.60 | 2004 est. |
+| 192 | Sierra Leone | 2.60 | 2003 |
+| 193 | Thailand | 2.60 | 2004 |
+| 194 | Uganda | 2.60 | 2005 |
+| 195 | Turkmenistan | 2.60 | 1998 |
+| 196 | Spain | 2.60 | 2000 |
+| 197 | Madagascar | 2.60 | 2005 |
+| 198 | Greece | 2.50 | 2000 est. |
+| 199 | Mauritania | 2.50 | 2000 |
+| 200 | Senegal | 2.50 | 2005 |
+| 201 | Netherlands | 2.50 | 1999 |
+| 202 | China | 2.40 | 2004 |
+| 203 | Georgia | 2.40 | 2005 |
+| 204 | Philippines | 2.40 | 2006 |
+| 205 | Macedonia | 2.40 | 2003 |
+| 206 | Cameroon | 2.30 | 2001 |
+| 207 | Italy | 2.30 | 2000 |
+| 208 | Niger | 2.30 | 2005 |
+| 209 | Tunisia | 2.30 | 2000 |
+| 210 | Central African Republic | 2.10 | 2003 |
+| 211 | Jamaica | 2.10 | 2004 |
+| 212 | United Kingdom | 2.10 | 1999 |
+| 213 | Rwanda | 2.10 | 2000 |
+| 214 | Mozambique | 2.10 | 2003 |
+| 215 | Australia | 2.00 | 1994 |
+| 216 | Zimbabwe | 2.00 | 1995 |
+| 217 | United States | 2.00 | 2007 est. |
+| 218 | Nigeria | 2.00 | 2004 |
+| 219 | Cote d'Ivoire | 2.00 | 2002 |
+| 220 | Ghana | 2.00 | 2006 |
+| 221 | Denmark | 2.00 | 2000 est. |
+| 222 | Gambia, The | 2.00 | 2003 |
+| 223 | Guinea | 1.90 | 2006 |
+| 224 | Russia | 1.90 | September 2007 |
+| 225 | Turkey | 1.90 | 2005 |
+| 226 | Kenya | 1.80 | 2005 |
+| 227 | Mexico | 1.80 | 2006 |
+| 228 | Papua New Guinea | 1.70 | 1996 |
+| 229 | Uruguay | 1.70 | 2006 |
+| 230 | Venezuela | 1.70 | 2006 |
+| 231 | Armenia | 1.60 | 2004 |
+| 232 | Swaziland | 1.60 | 2001 |
+| 233 | Chile | 1.60 | 2006 |
+| 234 | Costa Rica | 1.50 | 2005 |
+| 235 | Peru | 1.50 | 2006 |
+| 236 | Dominican Republic | 1.50 | 2005 |
+| 237 | Nicaragua | 1.40 | 2005 |
+| 238 | Guatemala | 1.30 | 2006 |
+| 239 | Guyana | 1.30 | 1999 |
+| 240 | South Africa | 1.30 | 2000 |
+| 241 | Ecuador | 1.20 | 2007 |
+| 242 | Zambia | 1.20 | 2004 |
+| 243 | Romania | 1.20 | 2006 |
+| 244 | Brazil | 1.10 | 2007 |
+| 245 | Sri Lanka | 1.10 | 2004 |
+| 246 | Paraguay | 1.10 | 2007 |
+| 247 | Argentina | 1.00 | January-March 2007 |
+| 248 | Lesotho | 1.00 | 2003 |
+| 249 | El Salvador | 1.00 | 2005 |
+| 250 | Colombia | 0.80 | 2006 |
+| 251 | Panama | 0.80 | 2006 |
+| 252 | Haiti | 0.70 | 2001 |
+| 253 | Honduras | 0.70 | 2006 |
+| 254 | Bolivia | 0.50 | 2005 |
+| 255 | Namibia | 0.50 | 2003 |

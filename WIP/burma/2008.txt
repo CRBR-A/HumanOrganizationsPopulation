@@ -1,0 +1,265 @@
+CIA - The World Factbook -- Burma
+
+| Geography | Burma |
+| --- | --- |
+| Location: | Southeastern Asia, bordering the Andaman Sea and the Bay of Bengal, between Bangladesh and Thailand |
+| Geographic coordinates: | 22 00 N, 98 00 E |
+| Map references: | Southeast Asia |
+| Area: | total: 678,500 sq km |
+| | land: 657,740 sq km |
+| | water: 20,760 sq km |
+| Area - comparative: | slightly smaller than Texas |
+| Land boundaries: | total: 5,876 km |
+| | border countries: Bangladesh 193 km, China 2,185 km, India 1,463 km, Laos 235 km, Thailand 1,800 km |
+| Coastline: | 1,930 km |
+| Maritime claims: | territorial sea: 12 nm |
+| | contiguous zone: 24 nm |
+| | exclusive economic zone: 200 nm |
+| | continental shelf: 200 nm or to the edge of the continental margin |
+| Climate: | tropical monsoon; cloudy, rainy, hot, humid summers (southwest monsoon, June to September); less cloudy, scant rainfall, mild temperatures, lower humidity during winter (northeast monsoon, December to April) |
+| Terrain: | central lowlands ringed by steep, rugged highlands |
+| Elevation extremes: | lowest point: Andaman Sea 0 m |
+| | highest point: Hkakabo Razi 5,881 m |
+| Natural resources: | petroleum, timber, tin, antimony, zinc, copper, tungsten, lead, coal, marble, limestone, precious stones, natural gas, hydropower |
+| Land use: | arable land: 14.92% |
+| | permanent crops: 1.31% |
+| | other: 83.77% (2005) |
+| Irrigated land: | 18,700 sq km (2003) |
+| Total renewable water resources: | 1,045.6 cu km (1999) |
+| Freshwater withdrawal (domestic/industrial/agricultural): | total: 33.23 cu km/yr (1%/1%/98%) |
+| | per capita: 658 cu m/yr (2000) |
+| Natural hazards: | destructive earthquakes and cyclones; flooding and landslides common during rainy season (June to September); periodic droughts |
+| Environment - current issues: | deforestation; industrial pollution of air, soil, and water; inadequate sanitation and water treatment contribute to disease |
+| Environment - international agreements: | party to: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Law of the Sea, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94 |
+| | signed, but not ratified: none of the selected agreements |
+| Geography - note: | strategic location near major Indian Ocean shipping lanes |
+
+| People | Burma |
+| --- | --- |
+| Population: | 47,758,180 |
+| | note: estimates for this country take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2008 est.) |
+| Age structure: | 0-14 years: 25.7% (male 6,236,484/female 6,038,576) |
+| | 15-64 years: 68.9% (male 16,300,380/female 16,627,045) |
+| | 65 years and over: 5.4% (male 1,098,344/female 1,457,352) (2008 est.) |
+| Median age: | total: 27.8 years |
+| | male: 27.2 years |
+| | female: 28.4 years (2008 est.) |
+| Population growth rate: | 0.8% (2008 est.) |
+| Birth rate: | 17.23 births/1,000 population (2008 est.) |
+| Death rate: | 9.23 deaths/1,000 population (2008 est.) |
+| Net migration rate: | NA (2008 est.) |
+| Sex ratio: | at birth: 1.06 male(s)/female |
+| | under 15 years: 1.03 male(s)/female |
+| | 15-64 years: 0.98 male(s)/female |
+| | 65 years and over: 0.75 male(s)/female |
+| | total population: 0.98 male(s)/female (2008 est.) |
+| Infant mortality rate: | total: 49.12 deaths/1,000 live births |
+| | male: 55.53 deaths/1,000 live births |
+| | female: 42.33 deaths/1,000 live births (2008 est.) |
+| Life expectancy at birth: | total population: 62.94 years |
+| | male: 60.73 years |
+| | female: 65.28 years (2008 est.) |
+| Total fertility rate: | 1.92 children born/woman (2008 est.) |
+| HIV/AIDS - adult prevalence rate: | 1.2% (2003 est.) |
+| HIV/AIDS - people living with HIV/AIDS: | 330,000 (2003 est.) |
+| HIV/AIDS - deaths: | 20,000 (2003 est.) |
+| Major infectious diseases: | degree of risk: very high |
+| | food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | vectorborne diseases: dengue fever and malaria |
+| | water contact disease: leptospirosis |
+| | animal contact disease: rabies |
+| | note: highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2008) |
+| Nationality: | noun: Burmese (singular and plural) |
+| | adjective: Burmese |
+| Ethnic groups: | Burman 68%, Shan 9%, Karen 7%, Rakhine 4%, Chinese 3%, Indian 2%, Mon 2%, other 5% |
+| Religions: | Buddhist 89%, Christian 4% (Baptist 3%, Roman Catholic 1%), Muslim 4%, animist 1%, other 2% |
+| Languages: | Burmese, minority ethnic groups have their own languages |
+| Literacy: | definition: age 15 and over can read and write |
+| | total population: 89.9% |
+| | male: 93.9% |
+| | female: 86.4% (2006 est.) |
+| School life expectancy (primary to tertiary education): | total: 8 years |
+| | male: 8 years |
+| | female: 8 years (2001) |
+| Education expenditures: | 1.2% of GDP (2001) |
+
+| Government | Burma |
+| --- | --- |
+| Country name: | conventional long form: Union of Burma |
+| | conventional short form: Burma |
+| | local long form: Pyidaungzu Myanma Naingngandaw (translated by the US Government as Union of Myanma and by the Burmese as Union of Myanmar) |
+| | local short form: Myanma Naingngandaw |
+| | former: Socialist Republic of the Union of Burma |
+| | note: since 1989 the military authorities in Burma have promoted the name Myanmar as a conventional name for their state; this decision was not approved by any sitting legislature in Burma, and the US Government did not adopt the name, which is a derivative of the Burmese short-form name Myanma Naingngandaw |
+| Government type: | military junta |
+| Capital: | name: Rangoon (Yangon) |
+| | geographic coordinates: 16 48 N, 96 09 E |
+| | time difference: UTC+6.5 (11.5 hours ahead of Washington, DC during Standard Time) |
+| | note: Nay Pyi Taw is administrative capital |
+| Administrative divisions: | 7 divisions (taing-myar, singular - taing) and 7 states (pyi ne-myar, singular - pyi ne) |
+| | divisions: Ayeyarwady, Bago, Magway, Mandalay, Sagaing, Tanintharyi, Yangon |
+| | states: Chin, Kachin, Kayah, Kayin, Mon, Rakhine, Shan |
+| Independence: | 4 January 1948 (from UK) |
+| National holiday: | Independence Day, 4 January (1948); Union Day, 12 February (1947) |
+| Constitution: | 30 May 2008 |
+| Legal system: | based on English common law; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: Chairman of the State Peace and Development Council (SPDC) Sr. Gen. THAN SHWE (since 23 April 1992) |
+| | head of government: Prime Minister, Lt. Gen THEIN SEIN (since 24 October 2007) |
+| | cabinet: Cabinet is overseen by SPDC; military junta assumed power 18 September 1988 under name State Law and Order Restoration Council (SLORC) |
+| | elections: none |
+| Legislative branch: | unicameral People's Assembly or Pyithu Hluttaw (485 seats; members elected by popular vote to serve four-year terms) |
+| | elections: last held 27 May 1990, but Assembly never allowed by junta to convene (junta has announced plans to hold elections in 2010) |
+| | election results: percent of vote by party - NA; seats by party - NLD 392 (opposition), SNLD 23 (opposition), NUP 10 (pro-government), other 60 |
+| Judicial branch: | remnants of the British-era legal system are in place, but there is no guarantee of a fair public trial; the judiciary is not independent of the executive |
+| Political parties and leaders: | National League for Democracy or NLD [AUNG SHWE, AUNG SAN SUU KYI]; National Unity Party or NUP (pro-regime) [TUN YE]; Shan Nationalities League for Democracy or SNLD [HKUN HTUN OO]; and other smaller parties |
+| Political pressure groups and leaders: | Ethnic Nationalities Council or ENC (based in Thailand); Federation of Trade Unions-Burma or FTUB (exile trade union and labor advocates); National Coalition Government of the Union of Burma or NCGUB (self-proclaimed government in exile) ["Prime Minister" Dr. SEIN WIN] consists of individuals, some legitimately elected to the People's Assembly in 1990 (the group fled to a border area and joined insurgents in December 1990 to form parallel government in exile); Kachin Independence Organization or KIO; Karen National Union or KNU; Karenni National People's Party or KNPP; National Council-Union of Burma or NCUB (exile coalition of opposition groups); United Wa State Army or UWSA; Union Solidarity and Development Association or USDA (pro-regime, a social and political mass-member organization) [HTAY OO, general secretary]; 88 Generation Students (pro-democracy movement) [MIN KO NAING] |
+| | other: several Shan factions |
+| International organization participation: | ADB, APT, ARF, ASEAN, BIMSTEC, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, ISO (correspondent), ITU, NAM, OPCW (signatory), SAARC (observer), UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador (vacant); Charge d'Affaires MYINT LWIN |
+| | chancery: 2300 S Street NW, Washington, DC 20008 |
+| | telephone: [1] (202) 332-3344 |
+| | FAX: [1] (202) 332-4351 |
+| | consulate(s) general: New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador (vacant); Charge d'Affaires Larry M. DINGER |
+| | embassy: 110 University Avenue, Kamayut Township, Rangoon |
+| | mailing address: Box B, APO AP 96546 |
+| | telephone: [95] (1) 536-509, 535-756, 538-038 |
+| | FAX: [95] (1) 650-306 |
+| Flag description: | red with a blue rectangle in the upper hoist-side corner bearing 14, white, five-pointed stars encircling a cogwheel containing a stalk of rice; the 14 stars represent the seven administrative divisions and seven states |
+
+| Economy | Burma |
+| --- | --- |
+| Economy - overview: | Burma, a resource-rich country, suffers from pervasive government controls, inefficient economic policies, and rural poverty. The junta took steps in the early 1990s to liberalize the economy after decades of failure under the "Burmese Way to Socialism," but those efforts stalled, and some of the liberalization measures were rescinded. Despite Burma's increasing oil and gas revenue, socio-economic conditions have deteriorated due to the regime's mismanagement of the economy. Lacking monetary or fiscal stability, the economy suffers from serious macroeconomic imbalances - including rising inflation, fiscal deficits, multiple official exchange rates that overvalue the Burmese kyat, a distorted interest rate regime, unreliable statistics, and an inability to reconcile national accounts to determine a realistic GDP figure. Most overseas development assistance ceased after the junta began to suppress the democracy movement in 1988 and subsequently refused to honor the results of the 1990 legislative elections. In response to the government of Burma's attack in May 2003 on AUNG SAN SUU KYI and her convoy, the US imposed new economic sanctions in August 2003 including a ban on imports of Burmese products and a ban on provision of financial services by US persons. Further, a poor investment climate hampers attracting outside investment slowing the inflow of foreign exchange. The most productive sectors will continue to be in extractive industries, especially oil and gas, mining, and timber with the latter especially causing environmental degradation. Other areas, such as manufacturing and services, are struggling with inadequate infrastructure, unpredictable import/export policies, deteriorating health and education systems, and endemic corruption. A major banking crisis in 2003 shuttered the country's 20 private banks and disrupted the economy. As of 2007, the largest private banks operated under tight restrictions limiting the private sector's access to formal credit. Moreover, the September 2007 crackdown on prodemocracy demonstrators, including thousands of monks, further strained the economy as the tourism industry, which directly employs about 500,000 people, suffered dramatic declines in foreign visitor levels. In November 2007, the European Union announced new sanctions banning investment and trade in Burmese gems, timber and precious stones, while the United States expanded its sanctions list to include more Burmese government and military officials and their family members, as well as prominent regime business cronies, their family members, and associated companies. Official statistics are inaccurate. Published statistics on foreign trade are greatly understated because of the size of the black market and unofficial border trade - often estimated to be as large as the official economy. Though the Burmese government has good economic relations with its neighbors, better investment and business climates and an improved political situation are needed to promote serious foreign investment, exports, and tourism. |
+| GDP (purchasing power parity): | $91.13 billion (2007 est.) |
+| GDP (official exchange rate): | $13.53 billion (2007 est.) |
+| GDP - real growth rate: | 3.8% (2007 est.) |
+| GDP - per capita (PPP): | $1,900 (2007 est.) |
+| GDP - composition by sector: | agriculture: 42.4% |
+| | industry: 18.9% |
+| | services: 38.7% (2007 est.) |
+| Labor force: | 29.26 million (2007 est.) |
+| Labor force - by occupation: | agriculture: 70% |
+| | industry: 7% |
+| | services: 23% (2001) |
+| Unemployment rate: | 5.2% (2007 est.) |
+| Population below poverty line: | 32.7% (2007 est.) |
+| Household income or consumption by percentage share: | lowest 10%: 2.8% |
+| | highest 10%: 32.4% (1998) |
+| Investment (gross fixed): | 13.1% of GDP (2007 est.) |
+| Budget: | revenues: NA |
+| | expenditures: NA (2007 est.) |
+| Fiscal year: | 1 April - 31 March |
+| Inflation rate (consumer prices): | 35% (2007 est.) |
+| Central bank discount rate: | 12% (31 December 2007) |
+| Commercial bank prime lending rate: | 17% (31 December 2007) |
+| Stock of money: | $598 billion |
+| | note: This number reflects the vastly overvalued official exchange rate of 5.38 kyat per dollar. At the unofficial black market rate of 1305 kyat per dollar, the stock of kyats would equal only US$2.465 billion and Burma's velocity of money (the number of times money turns over in the course of a year) would be six, in line with the velocity of money for other countries in the region. (31 December 2007) |
+| Stock of quasi money: | $216.9 billion (31 December 2007) |
+| Stock of domestic credit: | $887.7 billion (31 December 2007) |
+| Agriculture - products: | rice, pulses, beans, sesame, groundnuts, sugarcane; hardwood; fish and fish products |
+| Industries: | agricultural processing; wood and wood products; copper, tin, tungsten, iron; cement, construction materials; pharmaceuticals; fertilizer; natural gas; garments, jade and gems |
+| Industrial production growth rate: | 9% (2007 est.) |
+| Electricity - production: | 5.961 billion kWh (2006 est.) |
+| Electricity - consumption: | 4.289 billion kWh (2006 est.) |
+| Electricity - exports: | 0 kWh (2007 est.) |
+| Electricity - imports: | 0 kWh (2007 est.) |
+| Electricity - production by source: | fossil fuel: 44.5% |
+| | hydro: 43.4% |
+| | nuclear: 0% |
+| | other: 12.1% (2002) |
+| Oil - production: | 21,900 bbl/day (2007 est.) |
+| Oil - consumption: | 43,140 bbl/day (2006 est.) |
+| Oil - exports: | 5,000 bbl/day (2006 est.) |
+| Oil - imports: | 22,180 bbl/day (2005 est.) |
+| Oil - proved reserves: | 50 million bbl (1 January 2008 est.) |
+| Natural gas - production: | 12.6 billion cu m (2006 est.) |
+| Natural gas - consumption: | 3.62 billion cu m (2006 est.) |
+| Natural gas - exports: | 9.9 billion cu m (2007 est.) |
+| Natural gas - imports: | 0 cu m (2007 est.) |
+| Natural gas - proved reserves: | 283.2 billion cu m (1 January 2008 est.) |
+| Current account balance: | $1.427 billion (2007 est.) |
+| Exports: | $6.122 billion f.o.b. |
+| | note: official export figures are grossly underestimated due to the value of timber, gems, narcotics, rice, and other products smuggled to Thailand, China, and Bangladesh (2007 est.) |
+| Exports - commodities: | natural gas, wood products, pulses, beans, fish, rice, clothing, jade and gems |
+| Exports - partners: | Thailand 44.3%, India 14.5%, China 7.1%, Japan 5.7% (2007) |
+| Imports: | $2.942 billion f.o.b. |
+| | note: import figures are grossly underestimated due to the value of consumer goods, diesel fuel, and other products smuggled in from Thailand, China, Malaysia, and India (2007 est.) |
+| Imports - commodities: | fabric, petroleum products, fertilizer, plastics, machinery, transport equipment; cement, construction materials, crude oil; food products, edible oil |
+| Imports - partners: | China 33.7%, Thailand 19.1%, Singapore 15.5%, South Korea 5.8%, Indonesia 5.2%, Malaysia 4.2% (2007) |
+| Economic aid - recipient: | $144.7 million (2005 est.) |
+| Reserves of foreign exchange and gold: | $2.262 billion (31 December 2007 est.) |
+| Debt - external: | $7.022 billion (31 December 2007 est.) |
+| Market value of publicly traded shares: | $NA |
+| Currency (code): | kyat (MMK) |
+| Currency code: | MMK |
+| Exchange rates: | kyats (MMK) per US dollar - 1,296 (2007), 1,280 (2006), 5.761 (2005), 5.7459 (2004), 6.0764 (2003) |
+| | note: unofficial exchange rates ranged in 2004 from 815 kyat/US dollar to nearly 970 kyat/US dollar, and by yearend 2005, the unofficial exchange rate was 1,075 kyat/US dollar; data shown for 2003-05 are official exchange rates |
+
+| Communications | Burma |
+| --- | --- |
+| Telephones - main lines in use: | 503,900 (2005) |
+| Telephones - mobile cellular: | 214,200 (2006) |
+| Telephone system: | general assessment: meets minimum requirements for local and intercity service for business and government |
+| | domestic: system barely capable of providing basic service; cellular phone system is grossly underdeveloped with a subscribership base of less than 1 per 100 persons |
+| | international: country code - 95; landing point for the SEA-ME-WE-3 optical telecommunications submarine cable that provides links to Asia, the Middle East, and Europe; satellite earth stations - 2, Intelsat (Indian Ocean) and ShinSat (2007) |
+| Radio broadcast stations: | AM 1, FM 2, shortwave 3 (2007) |
+| Radios: | 4.2 million (1997) |
+| Television broadcast stations: | 4 (2008) |
+| Televisions: | 320,000 (2000) |
+| Internet country code: | .mm |
+| Internet hosts: | 108 (2008) |
+| Internet Service Providers (ISPs): | 1 |
+| | note: as of September 2000, Internet connections were legal only for the government, tourist offices, and a few large businesses (2000) |
+| Internet users: | 40,000 (2007) |
+
+| Transportation | Burma |
+| --- | --- |
+| Airports: | 86 (2007) |
+| Airports - with paved runways: | total: 25 |
+| | over 3,047 m: 8 |
+| | 2,438 to 3,047 m: 10 |
+| | 1,524 to 2,437 m: 5 |
+| | 914 to 1,523 m: 1 |
+| | under 914 m: 1 (2007) |
+| Airports - with unpaved runways: | total: 61 |
+| | over 3,047 m: 1 |
+| | 1,524 to 2,437 m: 14 |
+| | 914 to 1,523 m: 14 |
+| | under 914 m: 32 (2007) |
+| Heliports: | 4 (2007) |
+| Pipelines: | gas 2,790 km; oil 558 km (2007) |
+| Railways: | total: 3,955 km |
+| | narrow gauge: 3,955 km 1.000-m gauge (2006) |
+| Roadways: | total: 27,000 km |
+| | paved: 3,200 km |
+| | unpaved: 23,800 km (2006) |
+| Waterways: | 12,800 km (2007) |
+| Merchant marine: | total: 24 |
+| | by type: bulk carrier 1, cargo 17, passenger 2, passenger/cargo 3, specialized tanker 1 |
+| | foreign-owned: 3 (Cyprus 1, Germany 1, Japan 1) |
+| | registered in other countries: 1 (Panama 1) (2008) |
+| Ports and terminals: | Moulmein, Rangoon, Sittwe |
+
+| Military | Burma |
+| --- | --- |
+| Military branches: | Myanmar Armed Forces (Tatmadaw): Army, Navy, Air Force (Tatmadaw Lay) (2008) |
+| Military service age and obligation: | 18 years of age for voluntary military service for both sexes; forced conscription of children, although officially prohibited, reportedly continues (2007) |
+| Manpower available for military service: | males age 16-49: 13,402,788 |
+| | females age 16-49: 13,437,042 (2008 est.) |
+| Manpower fit for military service: | males age 16-49: 9,031,046 |
+| | females age 16-49: 9,396,547 (2008 est.) |
+| Manpower reaching militarily significant age annually: | male: 423,809 |
+| | female: 415,843 (2008 est.) |
+| Military expenditures: | 2.1% of GDP (2005 est.) |
+
+| Transnational Issues | Burma |
+| --- | --- |
+| Disputes - international: | over half of Burma's population consists of diverse ethnic groups who have substantial numbers of kin in neighboring countries; Thailand must deal with Karen and other ethnic refugees, asylum seekers, and rebels, as well as illegal cross-border activities from Burma; Thailand is studying the feasibility of jointly constructing the Hatgyi Dam on the Salween River near the border with Burma; citing environmental, cultural, and social concerns, China is reconsidering construction of 13 dams on the Salween River but energy-starved Burma with backing from Thailand remains intent on building five hydro-electric dams downstream, despite identical regional and international protests; India seeks cooperation from Burma to keep Indian Nagaland separatists, such as the United Liberation Front of Assam, from hiding in remote Burmese Uplands; after 21 years, Bangladesh resumes talks with Burma on delimiting a maritime boundary in January 2008 |
+| Refugees and internally displaced persons: | IDPs: 503,000 (government offensives against ethnic insurgent groups near the eastern borders; most IDPs are ethnic Karen, Karenni, Shan, Tavoyan, and Mon) (2007) |
+| Trafficking in persons: | current situation: Burma is a source country for women, children, and men trafficked for the purpose of forced labor and commercial sexual exploitation; Burmese women and children are trafficked to East and Southeast Asia for commercial sexual exploitation, domestic servitude, and forced labor; Burmese children are subjected to conditions of forced labor in Thailand as hawkers, beggars, and for work in shops, agriculture, fish processing, and small-scale industries; women are trafficked for commercial sexual exploitation to Malaysia and China; some trafficking victims transit Burma from Bangladesh to Malaysia and from China to Thailand; internal trafficking occurs primarily from villages to urban centers and economic hubs for labor in industrial zones, agricultural estates, and commercial sexual exploitation; military and civilian officials continue to use a significant amount of forced labor; ethnic insurgent groups also used compulsory labor of adults and unlawful recruitment of children; the military junta's gross economic mismanagement, human rights abuses, and its policy of using forced labor are the top causal factors for Burma's significant trafficking problem |
+| | tier rating: Tier 3 - Burma does not fully comply with the minimum standards for the elimination of trafficking and is not making significant efforts to do so; military and civilian officials remain directly involved in significant acts of forced labor and unlawful conscription of child soldiers (2008) |
+| Illicit drugs: | remains world's second-largest producer of illicit opium with an estimated production in 2008 of 340 metric tons, an increase of 26%, and cultivation in 2008 was 22,500 hectares, a 4% increase from 2007; production in the United Wa State Army's areas of greatest control remains low; Shan state is the source of 94% of poppy cultivation; lack of government will to take on major narcotrafficking groups and lack of serious commitment against money laundering continues to hinder the overall antidrug effort; major source of methamphetamine and heroin for regional consumption; currently under Financial Action Task Force countermeasures due to continued failure to address its inadequate money-laundering controls (2008) |
+
+---
+This page was last updated on 18 December, 2008                      

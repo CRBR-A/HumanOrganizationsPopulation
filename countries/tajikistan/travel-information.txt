@@ -1,0 +1,27 @@
+Telephone Code: 992
+Local Emergency Phone: 3
+Climate: Mid-latitude continental, hot summers, mild winters; semiarid to polar in Pamir Mountains
+Currency (Code): Tajikistani somoni (TJS)
+Electricity: 220 V
+Voltage: 50 Hz
+Plug types(s): C, F
+Major Languages: Tajik, Uzbek, Kyrgyz, Russian
+Major Religions: Muslim 98% (Sunni 95%, Shia 3%), other 2%
+Time Difference: UTC+5 (10 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Dushanbe; Pamir Highway; Jisev Valley Hiking; Iskanderkul Lake; Murghab; Bulunkul & Yashilkul Lakes Trekking
+Major Sports: Baseball, soccer, basketball, golf, softball
+Cultural Practices: Best not to use your left hand for exchanges of money, gifts, shaking hands, or passing food. The use of ones left hand is considered unclean.
+Tipping Guidelines: It is standard to tip a bellhop $1 (USD) per bag; although not expected, tipping the hotel cleaning staff is appropriate. Taxi drivers do not expect tips.
+Souvenirs: Arabic words worked into jewelry, musical instruments, utensils, and small sculptures; carved furniture; hand-woven carpets; brocade fabric items; gold-embroidered rumol belts, toki kallapush scullcaps, and other items; dried apricots; Soviet-era memorabilia
+Traditional Cuisine: Qurutob --- dried balls of cheese are soaked in water and the resulting salty liquid is used as the base of the dish; strips of flatbread are placed on top and the mixture is usually topped with a variety of vegetables, meat, or garnished with chili peppers
+
+---
+country: Tajikistan
+date: June 23, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Tajikistan/travel-facts>
+license: public domain (U.S.)
+...

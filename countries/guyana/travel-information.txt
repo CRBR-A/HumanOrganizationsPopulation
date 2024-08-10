@@ -1,0 +1,27 @@
+Telephone Code: 592
+Local Emergency Phone: 999
+Climate: Tropical; hot, humid, moderated by northeast trade winds; two rainy seasons (May to August, November to January)
+Currency (Code): Guyanese dollars (GYD)
+Electricity: 120 V, 240 V
+Voltage: 60 Hz
+Plug types(s): A, B, D, G
+Major Languages: English, Guyanese Creole, Amerindian languages (including Caribbean and Arawak languages), Indian languages (including Caribbean Hindustani), Chinese
+Major Religions: Protestant 34.8%, Hindu 24.8%, Roman Catholic 7.1%, Muslim 6.8%, Jehovah's Witness 1.3%, Rastafarian 0.5%, other Christian 20.8%
+Time Difference: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Left
+Tourist Destinations: Kaieteur Falls; Canopy Walkway; Marshall Falls; Saint George's Cathedral; Orinduik Falls; Shell Beach
+Major Sports: Cricket, soccer, field hockey, rounders (similar to baseball)
+Cultural Practices: Direct eye contact is appreciated in Guyana, and refusal to meet someone's gaze can be seen as suspicious.
+Tipping Guidelines: In restaurants, 10-15% of the bill is conventional. A tip of $2-10 (USD) a day for your guide and $1-3 (USD) for your driver is acceptable.
+Souvenirs: Carved wooden animals, handmade slippers, leather goods, beadwork, woven cloth hammocks and dyed fabrics, glassware
+Traditional Cuisine: Pepperpot --- a stewed meat dish with beef, pork, or mutton, flavored with cinnamon, cassareep (a sauce made from the cassava root), and other ingredients, including Caribbean hot peppers; typically served with homemade bread, rice, or roti and/or boiled vegetables such as cassava, eddoes, sweet potatoes, and green or ripe plantains
+
+---
+country: Guyana
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Guyana/travel-facts>
+license: public domain (U.S.)
+...

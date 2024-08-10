@@ -1,0 +1,29 @@
+Telephone Code: 502
+Local Emergency Phone - Ambulance: 123
+Local Emergency Phone - Fire: 123
+Local Emergency Phone - Police: 110
+Climate: Tropical; hot, humid in lowlands; cooler in highlands
+Currency (Code): Quetzales (GTQ)
+Electricity: 120 V
+Voltage: 60 Hz
+Plug types(s): A, B
+Major Languages: Spanish, Maya languages
+Major Religions: Roman Catholic 41.7%, Evangelical 38.8%, other 2.7%, atheist 0.1%
+Time Difference: UTC-6 (1 hour behind Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested; additionally, if you plan to drive in Guatemala, you will need an Inter-American Driving Permit issued by the AAA
+Road Driving Side: Right
+Tourist Destinations: Mayan ruins of Tikal; Antigua Guatemala; Lake Atitlan; Chichicastenango Market; Quetzaltenango; Archaeological Park & Ruins of Quirigua
+Major Sports: Soccer, futsal (type of indoor soccer on a hard court)
+Cultural Practices: Wine and flowers are appropriate gifts if invited to a household but avoid white flowers because they symbolize mourning.
+Tipping Guidelines: Tipping is a question of rewarding good service rather than an obligation. Restaurant bills do not include gratuities so adding 10% is customary. Bellhops and maids expect tips only in the most expensive hotels.
+Souvenirs: Coffee, Mayan native textiles and jewelry, jade, wood carvings, leather goods, hammocks, baskets, ceramics
+Traditional Cuisine: Pepián --- a spicy stew made with chicken, beef, or pork and containing both fruit and vegetables and a mix of spices; traditionally served with rice and tortillas or Pupusas (thick corn tortillas stuffed with a variety of fillings including refried beans, cheese, or pork and then fried)
+
+---
+country: Guatemala
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Guatemala/travel-facts>
+license: public domain (U.S.)
+...

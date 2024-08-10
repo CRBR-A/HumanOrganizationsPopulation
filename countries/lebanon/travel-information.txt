@@ -1,0 +1,27 @@
+Telephone Code: 961
+Local Emergency Phone: 112
+Climate: Mediterranean; mild to cool, wet winters with hot, dry summers; the Lebanon Mountains experience heavy winter snows
+Currency (Code): Lebanese pounds (LBP)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, D, G
+Major Languages: Arabic, French, English, Armenian
+Major Religions: Muslim 61.1% (30.6% Sunni, 30.5% Shia, some Alawites and Ismailis), Christian 33.7%, Druze 5.2%
+Time Difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time); daylight saving time: +1hr, begins last Sunday in March, ends last Sunday in October
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Baalbek; Beirut (includes National Museum and Corniche); Cedars of God Nature Preserve; Byblos; Beiteddine Palace; Kadisha Valley; Tyre
+Major Sports: Soccer, basketball
+Cultural Practices: When invited to a home bring a gift for the host; it is considered polite to additionally bring chocolates for the children of the house.
+Tipping Guidelines: Waiters are usually tipped 10-15%, but check your bill as some places automatically add a 15% service charge. Hotel porters and parking valets appreciate small bills as a gratuity.
+Souvenirs: Jewelry, copperware, glassware, brass tea sets, baskets
+Traditional Cuisine: Tabbouleh --- a salad made with tomatoes, parsley, bulgur, and onions mixed in a sauce of lemon juice, olive oil, and salt; often served with Kibbeh (ground lamb, bulgur, and seasonings baked, fried, stuffed, or served raw)
+
+---
+country: Lebanon
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Lebanon/travel-facts>
+license: public domain (U.S.)
+...

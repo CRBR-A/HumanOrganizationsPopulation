@@ -1,0 +1,29 @@
+Telephone Code: 55
+Local Emergency Phone - Ambulance: 192 or 193 
+Local Emergency Phone - Fire: 193
+Local Emergency Phone - Police: 190
+Climate: Mostly tropical, but temperate in south
+Currency (Code): Reals (BRL)
+Electricity: 220 V
+Voltage: 60 Hz
+Plug types(s): C, N (No standard voltage)
+Major Languages: Portuguese
+Major Religions: Roman Catholic 64.6%, other Catholic 0.4%, Protestant 22.2%, other Christian 0.7%, Spiritis 2.2%
+Time Difference: Federal District (UTC -3), Llha Fernando de Noronha (UTC -2), Manaus (UTC -4), Rio Branco (UTC -5)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested; if you plan to drive in Brazil, you will need an Inter-American Driving Permit issued by the AAA
+Road Driving Side: Right
+Tourist Destinations: Rio Carnival; Iguazu Falls; Lencois Maranhenses National Park; Christ the Redeemer Statue; Fernando De Noronha archipelago; Amazon Theatre; Canoa Quebrada; Botanical Garden of Curitiba; Amazon Rain Forest
+Major Sports: Soccer, volleyball, basketball, capoeria (Afro-Brazilian martial art that combines elements of dance, acrobatics, and music)
+Cultural Practices: Street markets (feira) are a popular feature in all areas of Brazil. They offer a wide selection of unique foods. Coxinha (ko-sheen-ya), a type of minced chicken [croquettes], is especially popular.
+Tipping Guidelines: A standard service fee of 10% is included at most restaurants and bars; if not, you may leave a 10-15% tip. Round up the fare for a taxi driver's tip. Leave loose change for housekeeping each night.
+Souvenirs: Woven hammocks, carved wooden figurines and musical instruments, gold and silver gemstone jewelry, handmade lace, feather headdresses
+Traditional Cuisine: Feijoada --- kidney or black beans stewed with beef and pork and sometimes vegetables
+
+---
+country: Brasília, DF; https://br.usembassy.gov/; BrasilliaACS@state.gov |
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Brasília, DF; https://br.usembassy.gov/; BrasilliaACS@state.gov |/travel-facts>
+license: public domain (U.S.)
+...

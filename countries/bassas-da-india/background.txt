@@ -1,0 +1,8 @@
+This atoll is a volcanic rock surrounded by reefs and is awash at high tide. A French possession since 1897, it was placed under the administration of a commissioner residing in Reunion in 1968.  
+
+---
+country: Bassas da India
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Bassas da India/>
+license: public domain (U.S.)
+...

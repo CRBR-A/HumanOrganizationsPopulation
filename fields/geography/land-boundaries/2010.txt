@@ -1,0 +1,930 @@
+CIA - The World Factbook --  Land boundaries   
+
+This entry contains the total length of all land boundaries and the individual lengths for each of the contiguous border countries. When available, official lengths published by national statistical agencies are used. Because surveying methods may differ, country border lengths reported by contiguous countries may differ.
+
+| Rank | country | (km) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | China | 22,117.00 | NA |
+| 2 | Russia | 20,241.50 | NA |
+| 3 | Brazil | 16,885.00 | NA |
+| 4 | India | 14,103.00 | NA |
+| 5 | European Union | 12,440.80 | NA |
+| 6 | Kazakhstan | 12,185.00 | NA |
+| 7 | United States | 12,034.00 | NA |
+| 8 | Congo, Democratic Republic of the | 10,730.00 | NA |
+| 9 | Argentina | 9,861.00 | NA |
+| 10 | Canada | 8,893.00 | NA |
+| 11 | United States | 8,893.00 | NA |
+| 12 | Canada | 8,893.00 | NA |
+| 13 | Mongolia | 8,220.00 | NA |
+| 14 | Sudan | 7,687.00 | NA |
+| 15 | Peru | 7,461.00 | NA |
+| 16 | Mali | 7,243.00 | NA |
+| 17 | Bolivia | 6,940.00 | NA |
+| 18 | Kazakhstan | 6,846.00 | NA |
+| 19 | Russia | 6,846.00 | NA |
+| 20 | Pakistan | 6,774.00 | NA |
+| 21 | Algeria | 6,343.00 | NA |
+| 22 | Chile | 6,339.00 | NA |
+| 23 | Colombia | 6,309.00 | NA |
+| 24 | Uzbekistan | 6,221.00 | NA |
+| 25 | Chad | 5,968.00 | NA |
+| 26 | Burma | 5,876.00 | NA |
+| 27 | Niger | 5,697.00 | NA |
+| 28 | Zambia | 5,664.00 | NA |
+| 29 | Afghanistan | 5,529.00 | NA |
+| 30 | Congo, Republic of the | 5,504.00 | NA |
+| 31 | Iran | 5,440.00 | NA |
+| 32 | Ethiopia | 5,328.00 | NA |
+| 33 | Argentina | 5,308.00 | NA |
+| 34 | Chile | 5,308.00 | NA |
+| 35 | Central African Republic | 5,203.00 | NA |
+| 36 | Angola | 5,198.00 | NA |
+| 37 | Laos | 5,083.00 | NA |
+| 38 | Mauritania | 5,074.00 | NA |
+| 39 | Venezuela | 4,993.00 | NA |
+| 40 | Thailand | 4,863.00 | NA |
+| 41 | South Africa | 4,862.00 | NA |
+| 42 | China | 4,677.00 | NA |
+| 43 | Mongolia | 4,677.00 | NA |
+| 44 | Vietnam | 4,639.00 | NA |
+| 45 | Cameroon | 4,591.00 | NA |
+| 46 | Mozambique | 4,571.00 | NA |
+| 47 | Ukraine | 4,566.00 | NA |
+| 48 | Saudi Arabia | 4,431.00 | NA |
+| 49 | Mexico | 4,353.00 | NA |
+| 50 | Libya | 4,348.00 | NA |
+| 51 | Bangladesh | 4,246.00 | NA |
+| 52 | Bangladesh | 4,053.00 | NA |
+| 53 | India | 4,053.00 | NA |
+| 54 | Nigeria | 4,047.00 | NA |
+| 55 | Botswana | 4,013.00 | NA |
+| 56 | Paraguay | 3,995.00 | NA |
+| 57 | Namibia | 3,936.00 | NA |
+| 58 | Tanzania | 3,861.00 | NA |
+| 59 | Turkmenistan | 3,736.00 | NA |
+| 60 | Tajikistan | 3,651.00 | NA |
+| 61 | Iraq | 3,650.00 | NA |
+| 62 | Germany | 3,621.00 | NA |
+| 63 | China | 3,605.00 | NA |
+| 64 | Russia | 3,605.00 | NA |
+| 65 | Mongolia | 3,543.00 | NA |
+| 66 | Kenya | 3,477.00 | NA |
+| 67 | Russia | 3,441.00 | NA |
+| 68 | Bolivia | 3,423.00 | NA |
+| 69 | Brazil | 3,423.00 | NA |
+| 70 | Guinea | 3,399.00 | NA |
+| 71 | China | 3,380.00 | NA |
+| 72 | India | 3,380.00 | NA |
+| 73 | Belarus | 3,306.00 | NA |
+| 74 | Burkina Faso | 3,193.00 | NA |
+| 75 | Mexico | 3,141.00 | NA |
+| 76 | United States | 3,141.00 | NA |
+| 77 | Cote d'Ivoire | 3,110.00 | NA |
+| 78 | Zimbabwe | 3,066.00 | NA |
+| 79 | Kyrgyzstan | 3,051.00 | NA |
+| 80 | Poland | 3,047.00 | NA |
+| 81 | Brazil | 2,995.00 | NA |
+| 82 | Peru | 2,995.00 | NA |
+| 83 | Guyana | 2,949.00 | NA |
+| 84 | Nepal | 2,926.00 | NA |
+| 85 | India | 2,912.00 | NA |
+| 86 | Pakistan | 2,912.00 | NA |
+| 87 | France | 2,889.00 | NA |
+| 88 | Malawi | 2,881.00 | NA |
+| 89 | Indonesia | 2,830.00 | NA |
+| 90 | Uganda | 2,698.00 | NA |
+| 91 | Malaysia | 2,669.00 | NA |
+| 92 | Egypt | 2,665.00 | NA |
+| 93 | Finland | 2,654.00 | NA |
+| 94 | Turkey | 2,648.00 | NA |
+| 95 | Senegal | 2,640.00 | NA |
+| 96 | Cambodia | 2,572.00 | NA |
+| 97 | Austria | 2,562.00 | NA |
+| 98 | Gabon | 2,551.00 | NA |
+| 99 | Norway | 2,542.00 | NA |
+| 100 | Angola | 2,511.00 | NA |
+| 101 | Congo, Democratic Republic of the | 2,511.00 | NA |
+| 102 | Romania | 2,508.00 | NA |
+| 103 | Afghanistan | 2,430.00 | NA |
+| 104 | Pakistan | 2,430.00 | NA |
+| 105 | Congo, Democratic Republic of the | 2,410.00 | NA |
+| 106 | Congo, Republic of the | 2,410.00 | NA |
+| 107 | European Union | 2,348.00 | NA |
+| 108 | Somalia | 2,340.00 | NA |
+| 109 | European Union | 2,257.00 | NA |
+| 110 | Syria | 2,253.00 | NA |
+| 111 | Mali | 2,237.00 | NA |
+| 112 | Mauritania | 2,237.00 | NA |
+| 113 | Sweden | 2,233.00 | NA |
+| 114 | Kazakhstan | 2,203.00 | NA |
+| 115 | Uzbekistan | 2,203.00 | NA |
+| 116 | Brazil | 2,200.00 | NA |
+| 117 | Venezuela | 2,200.00 | NA |
+| 118 | Burma | 2,185.00 | NA |
+| 119 | Hungary | 2,185.00 | NA |
+| 120 | China | 2,185.00 | NA |
+| 121 | Laos | 2,130.00 | NA |
+| 122 | Vietnam | 2,130.00 | NA |
+| 123 | Ghana | 2,094.00 | NA |
+| 124 | Colombia | 2,050.00 | NA |
+| 125 | Venezuela | 2,050.00 | NA |
+| 126 | Western Sahara | 2,046.00 | NA |
+| 127 | Serbia | 2,026.00 | NA |
+| 128 | Morocco | 2,017.90 | NA |
+| 129 | Azerbaijan | 2,013.00 | NA |
+| 130 | Ecuador | 2,010.00 | NA |
+| 131 | Benin | 1,989.00 | NA |
+| 132 | Czech Republic | 1,989.00 | NA |
+| 133 | Croatia | 1,982.00 | NA |
+| 134 | Congo, Democratic Republic of the | 1,930.00 | NA |
+| 135 | Zambia | 1,930.00 | NA |
+| 136 | Spain | 1,917.80 | NA |
+| 137 | Congo, Republic of the | 1,903.00 | NA |
+| 138 | Gabon | 1,903.00 | NA |
+| 139 | Italy | 1,899.20 | NA |
+| 140 | Argentina | 1,880.00 | NA |
+| 141 | Paraguay | 1,880.00 | NA |
+| 142 | Switzerland | 1,852.00 | NA |
+| 143 | Botswana | 1,840.00 | NA |
+| 144 | South Africa | 1,840.00 | NA |
+| 145 | European Union | 1,811.00 | NA |
+| 146 | Bulgaria | 1,808.00 | NA |
+| 147 | Burma | 1,800.00 | NA |
+| 148 | Peru | 1,800.00 | NA |
+| 149 | Thailand | 1,800.00 | NA |
+| 150 | Colombia | 1,800.00 | NA |
+| 151 | Indonesia | 1,782.00 | NA |
+| 152 | Malaysia | 1,782.00 | NA |
+| 153 | Laos | 1,754.00 | NA |
+| 154 | Thailand | 1,754.00 | NA |
+| 155 | Yemen | 1,746.00 | NA |
+| 156 | Suriname | 1,703.00 | NA |
+| 157 | Cameroon | 1,690.00 | NA |
+| 158 | Nepal | 1,690.00 | NA |
+| 159 | Nigeria | 1,690.00 | NA |
+| 160 | India | 1,690.00 | NA |
+| 161 | Guatemala | 1,687.00 | NA |
+| 162 | Korea, North | 1,673.00 | NA |
+| 163 | Uruguay | 1,648.00 | NA |
+| 164 | Togo | 1,647.00 | NA |
+| 165 | Brazil | 1,644.00 | NA |
+| 166 | Colombia | 1,644.00 | NA |
+| 167 | Jordan | 1,635.00 | NA |
+| 168 | Eritrea | 1,626.00 | NA |
+| 169 | Turkmenistan | 1,621.00 | NA |
+| 170 | Uzbekistan | 1,621.00 | NA |
+| 171 | Norway | 1,619.00 | NA |
+| 172 | Sweden | 1,619.00 | NA |
+| 173 | Brazil | 1,606.00 | NA |
+| 174 | Ethiopia | 1,606.00 | NA |
+| 175 | Guyana | 1,606.00 | NA |
+| 176 | Sudan | 1,606.00 | NA |
+| 177 | Ethiopia | 1,600.00 | NA |
+| 178 | Somalia | 1,600.00 | NA |
+| 179 | Liberia | 1,585.00 | NA |
+| 180 | Central African Republic | 1,577.00 | NA |
+| 181 | Congo, Democratic Republic of the | 1,577.00 | NA |
+| 182 | Russia | 1,576.00 | NA |
+| 183 | Ukraine | 1,576.00 | NA |
+| 184 | Lithuania | 1,574.00 | NA |
+| 185 | Malawi | 1,569.00 | NA |
+| 186 | Mozambique | 1,569.00 | NA |
+| 187 | Mauritania | 1,561.00 | NA |
+| 188 | Western Sahara | 1,561.00 | NA |
+| 189 | Algeria | 1,559.00 | NA |
+| 190 | Morocco | 1,559.00 | NA |
+| 191 | Bosnia and Herzegovina | 1,538.00 | NA |
+| 192 | China | 1,533.00 | NA |
+| 193 | Kazakhstan | 1,533.00 | NA |
+| 194 | Honduras | 1,520.00 | NA |
+| 195 | Niger | 1,497.00 | NA |
+| 196 | Nigeria | 1,497.00 | NA |
+| 197 | Slovakia | 1,474.00 | NA |
+| 198 | Burma | 1,463.00 | NA |
+| 199 | India | 1,463.00 | NA |
+| 200 | Georgia | 1,461.00 | NA |
+| 201 | Iran | 1,458.00 | NA |
+| 202 | Iraq | 1,458.00 | NA |
+| 203 | Yemen | 1,458.00 | NA |
+| 204 | Saudi Arabia | 1,458.00 | NA |
+| 205 | Tunisia | 1,424.00 | NA |
+| 206 | Ecuador | 1,420.00 | NA |
+| 207 | Peru | 1,420.00 | NA |
+| 208 | China | 1,416.00 | NA |
+| 209 | Korea, North | 1,416.00 | NA |
+| 210 | Moldova | 1,390.00 | NA |
+| 211 | Belgium | 1,385.00 | NA |
+| 212 | Latvia | 1,382.00 | NA |
+| 213 | Algeria | 1,376.00 | NA |
+| 214 | Angola | 1,376.00 | NA |
+| 215 | Namibia | 1,376.00 | NA |
+| 216 | Mali | 1,376.00 | NA |
+| 217 | Oman | 1,374.00 | NA |
+| 218 | Brazil | 1,365.00 | NA |
+| 219 | Paraguay | 1,365.00 | NA |
+| 220 | Botswana | 1,360.00 | NA |
+| 221 | Sudan | 1,360.00 | NA |
+| 222 | Namibia | 1,360.00 | NA |
+| 223 | Chad | 1,360.00 | NA |
+| 224 | Finland | 1,313.00 | NA |
+| 225 | Russia | 1,313.00 | NA |
+| 226 | China | 1,281.00 | NA |
+| 227 | Vietnam | 1,281.00 | NA |
+| 228 | Egypt | 1,273.00 | NA |
+| 229 | Sudan | 1,273.00 | NA |
+| 230 | Argentina | 1,261.00 | NA |
+| 231 | Brazil | 1,261.00 | NA |
+| 232 | European Union | 1,257.00 | NA |
+| 233 | Armenia | 1,254.00 | NA |
+| 234 | China | 1,236.00 | NA |
+| 235 | Nepal | 1,236.00 | NA |
+| 236 | Mozambique | 1,231.00 | NA |
+| 237 | Zimbabwe | 1,231.00 | NA |
+| 238 | Nicaragua | 1,231.00 | NA |
+| 239 | Cambodia | 1,228.00 | NA |
+| 240 | Greece | 1,228.00 | NA |
+| 241 | Vietnam | 1,228.00 | NA |
+| 242 | Kazakhstan | 1,224.00 | NA |
+| 243 | Kyrgyzstan | 1,224.00 | NA |
+| 244 | Portugal | 1,214.00 | NA |
+| 245 | Portugal | 1,214.00 | NA |
+| 246 | Spain | 1,214.00 | NA |
+| 247 | Afghanistan | 1,206.00 | NA |
+| 248 | Tajikistan | 1,206.00 | NA |
+| 249 | Central African Republic | 1,197.00 | NA |
+| 250 | Chad | 1,197.00 | NA |
+| 251 | France | 1,183.00 | NA |
+| 252 | Chad | 1,175.00 | NA |
+| 253 | Niger | 1,175.00 | NA |
+| 254 | Central African Republic | 1,165.00 | NA |
+| 255 | Sudan | 1,165.00 | NA |
+| 256 | Tajikistan | 1,161.00 | NA |
+| 257 | Uzbekistan | 1,161.00 | NA |
+| 258 | Egypt | 1,115.00 | NA |
+| 259 | Libya | 1,115.00 | NA |
+| 260 | Angola | 1,110.00 | NA |
+| 261 | Zambia | 1,110.00 | NA |
+| 262 | Kyrgyzstan | 1,099.00 | NA |
+| 263 | Uzbekistan | 1,099.00 | NA |
+| 264 | Cameroon | 1,094.00 | NA |
+| 265 | Chad | 1,094.00 | NA |
+| 266 | Slovenia | 1,086.00 | NA |
+| 267 | Bhutan | 1,075.00 | NA |
+| 268 | Bolivia | 1,075.00 | NA |
+| 269 | Peru | 1,075.00 | NA |
+| 270 | Brazil | 1,068.00 | NA |
+| 271 | Uruguay | 1,068.00 | NA |
+| 272 | Chad | 1,055.00 | NA |
+| 273 | Libya | 1,055.00 | NA |
+| 274 | European Union | 1,050.00 | NA |
+| 275 | Netherlands | 1,027.00 | NA |
+| 276 | Israel | 1,017.00 | NA |
+| 277 | Burkina Faso | 1,000.00 | NA |
+| 278 | Mali | 1,000.00 | NA |
+| 279 | European Union | 999.00 | NA |
+| 280 | Iran | 992.00 | NA |
+| 281 | Turkmenistan | 992.00 | NA |
+| 282 | Algeria | 982.00 | NA |
+| 283 | Libya | 982.00 | NA |
+| 284 | Burundi | 974.00 | NA |
+| 285 | Namibia | 967.00 | NA |
+| 286 | South Africa | 967.00 | NA |
+| 287 | Algeria | 965.00 | NA |
+| 288 | Tunisia | 965.00 | NA |
+| 289 | Guatemala | 962.00 | NA |
+| 290 | Mexico | 962.00 | NA |
+| 291 | Belarus | 959.00 | NA |
+| 292 | Russia | 959.00 | NA |
+| 293 | Sierra Leone | 958.00 | NA |
+| 294 | Algeria | 956.00 | NA |
+| 295 | Niger | 956.00 | NA |
+| 296 | European Union | 945.00 | NA |
+| 297 | Moldova | 940.00 | NA |
+| 298 | Ukraine | 940.00 | NA |
+| 299 | Afghanistan | 936.00 | NA |
+| 300 | Iran | 936.00 | NA |
+| 301 | Kenya | 933.00 | NA |
+| 302 | Uganda | 933.00 | NA |
+| 303 | Bosnia and Herzegovina | 932.00 | NA |
+| 304 | Croatia | 932.00 | NA |
+| 305 | Honduras | 922.00 | NA |
+| 306 | Nicaragua | 922.00 | NA |
+| 307 | Eritrea | 912.00 | NA |
+| 308 | Ethiopia | 912.00 | NA |
+| 309 | Iran | 909.00 | NA |
+| 310 | Lesotho | 909.00 | NA |
+| 311 | Lesotho | 909.00 | NA |
+| 312 | Pakistan | 909.00 | NA |
+| 313 | South Africa | 909.00 | NA |
+| 314 | Rwanda | 893.00 | NA |
+| 315 | Belarus | 891.00 | NA |
+| 316 | Ukraine | 891.00 | NA |
+| 317 | Ghana | 877.00 | NA |
+| 318 | Togo | 877.00 | NA |
+| 319 | Kyrgyzstan | 870.00 | NA |
+| 320 | Tajikistan | 870.00 | NA |
+| 321 | United Arab Emirates | 867.00 | NA |
+| 322 | Ethiopia | 861.00 | NA |
+| 323 | Kenya | 861.00 | NA |
+| 324 | Bolivia | 860.00 | NA |
+| 325 | Chile | 860.00 | NA |
+| 326 | China | 858.00 | NA |
+| 327 | Guinea | 858.00 | NA |
+| 328 | Kyrgyzstan | 858.00 | NA |
+| 329 | Mali | 858.00 | NA |
+| 330 | Malawi | 837.00 | NA |
+| 331 | Zambia | 837.00 | NA |
+| 332 | Argentina | 832.00 | NA |
+| 333 | Bolivia | 832.00 | NA |
+| 334 | Syria | 822.00 | NA |
+| 335 | Turkey | 822.00 | NA |
+| 336 | Mali | 821.00 | NA |
+| 337 | Niger | 821.00 | NA |
+| 338 | Indonesia | 820.00 | NA |
+| 339 | Papua New Guinea | 820.00 | NA |
+| 340 | Papua New Guinea | 820.00 | NA |
+| 341 | Czech Republic | 815.00 | NA |
+| 342 | Iraq | 814.00 | NA |
+| 343 | Saudi Arabia | 814.00 | NA |
+| 344 | Botswana | 813.00 | NA |
+| 345 | Zimbabwe | 813.00 | NA |
+| 346 | Senegal | 813.00 | NA |
+| 347 | Mauritania | 813.00 | NA |
+| 348 | Cambodia | 803.00 | NA |
+| 349 | Thailand | 803.00 | NA |
+| 350 | Cameroon | 797.00 | NA |
+| 351 | Central African Republic | 797.00 | NA |
+| 352 | Zambia | 797.00 | NA |
+| 353 | Zimbabwe | 797.00 | NA |
+| 354 | Austria | 784.00 | NA |
+| 355 | Germany | 784.00 | NA |
+| 356 | Benin | 773.00 | NA |
+| 357 | Nigeria | 773.00 | NA |
+| 358 | Kenya | 769.00 | NA |
+| 359 | Tanzania | 769.00 | NA |
+| 360 | Macedonia | 766.00 | NA |
+| 361 | Congo, Democratic Republic of the | 765.00 | NA |
+| 362 | Uganda | 765.00 | NA |
+| 363 | Mozambique | 756.00 | NA |
+| 364 | Tanzania | 756.00 | NA |
+| 365 | Bolivia | 750.00 | NA |
+| 366 | Paraguay | 750.00 | NA |
+| 367 | Afghanistan | 744.00 | NA |
+| 368 | Turkmenistan | 744.00 | NA |
+| 369 | Saudi Arabia | 744.00 | NA |
+| 370 | Jordan | 744.00 | NA |
+| 371 | Guyana | 743.00 | NA |
+| 372 | Venezuela | 743.00 | NA |
+| 373 | Gambia, The | 740.00 | NA |
+| 374 | Senegal | 740.00 | NA |
+| 375 | Switzerland | 740.00 | NA |
+| 376 | Italy | 740.00 | NA |
+| 377 | Gambia, The | 740.00 | NA |
+| 378 | Brazil | 730.00 | NA |
+| 379 | Finland | 727.00 | NA |
+| 380 | Norway | 727.00 | NA |
+| 381 | Guinea-Bissau | 724.00 | NA |
+| 382 | Georgia | 723.00 | NA |
+| 383 | Russia | 723.00 | NA |
+| 384 | Albania | 717.00 | NA |
+| 385 | Cote d'Ivoire | 716.00 | NA |
+| 386 | Liberia | 716.00 | NA |
+| 387 | Kosovo | 702.00 | NA |
+| 388 | Kenya | 682.00 | NA |
+| 389 | Somalia | 682.00 | NA |
+| 390 | Belarus | 680.00 | NA |
+| 391 | Lithuania | 680.00 | NA |
+| 392 | Hungary | 676.00 | NA |
+| 393 | Saudi Arabia | 676.00 | NA |
+| 394 | Slovakia | 676.00 | NA |
+| 395 | Oman | 676.00 | NA |
+| 396 | France | 673.00 | NA |
+| 397 | Cote d'Ivoire | 668.00 | NA |
+| 398 | Ghana | 668.00 | NA |
+| 399 | Guinea | 652.00 | NA |
+| 400 | Sierra Leone | 652.00 | NA |
+| 401 | Germany | 646.00 | NA |
+| 402 | Benin | 644.00 | NA |
+| 403 | Togo | 644.00 | NA |
+| 404 | Costa Rica | 639.00 | NA |
+| 405 | Estonia | 633.00 | NA |
+| 406 | Burkina Faso | 628.00 | NA |
+| 407 | Niger | 628.00 | NA |
+| 408 | Sudan | 628.00 | NA |
+| 409 | Congo, Democratic Republic of the | 628.00 | NA |
+| 410 | Montenegro | 625.00 | NA |
+| 411 | France | 623.00 | NA |
+| 412 | Spain | 623.00 | NA |
+| 413 | Belgium | 620.00 | NA |
+| 414 | France | 620.00 | NA |
+| 415 | Czech Republic | 615.00 | NA |
+| 416 | Poland | 615.00 | NA |
+| 417 | Finland | 614.00 | NA |
+| 418 | Sweden | 614.00 | NA |
+| 419 | Cote d'Ivoire | 610.00 | NA |
+| 420 | Guinea | 610.00 | NA |
+| 421 | Bulgaria | 608.00 | NA |
+| 422 | Romania | 608.00 | NA |
+| 423 | Belarus | 605.00 | NA |
+| 424 | Bhutan | 605.00 | NA |
+| 425 | Syria | 605.00 | NA |
+| 426 | Sudan | 605.00 | NA |
+| 427 | Poland | 605.00 | NA |
+| 428 | Iraq | 605.00 | NA |
+| 429 | India | 605.00 | NA |
+| 430 | Eritrea | 605.00 | NA |
+| 431 | Guyana | 600.00 | NA |
+| 432 | Suriname | 600.00 | NA |
+| 433 | Brazil | 593.00 | NA |
+| 434 | Suriname | 593.00 | NA |
+| 435 | Colombia | 590.00 | NA |
+| 436 | Ecuador | 590.00 | NA |
+| 437 | Burkina Faso | 584.00 | NA |
+| 438 | Cote d'Ivoire | 584.00 | NA |
+| 439 | Argentina | 580.00 | NA |
+| 440 | Uruguay | 580.00 | NA |
+| 441 | Germany | 577.00 | NA |
+| 442 | Netherlands | 577.00 | NA |
+| 443 | Latvia | 576.00 | NA |
+| 444 | Lithuania | 576.00 | NA |
+| 445 | France | 573.00 | NA |
+| 446 | Switzerland | 573.00 | NA |
+| 447 | Armenia | 566.00 | NA |
+| 448 | Azerbaijan | 566.00 | NA |
+| 449 | Guinea | 563.00 | NA |
+| 450 | Liberia | 563.00 | NA |
+| 451 | Panama | 555.00 | NA |
+| 452 | Burkina Faso | 549.00 | NA |
+| 453 | Ghana | 549.00 | NA |
+| 454 | El Salvador | 545.00 | NA |
+| 455 | Cambodia | 541.00 | NA |
+| 456 | Laos | 541.00 | NA |
+| 457 | Equatorial Guinea | 539.00 | NA |
+| 458 | Swaziland | 535.00 | NA |
+| 459 | Cote d'Ivoire | 532.00 | NA |
+| 460 | Mali | 532.00 | NA |
+| 461 | Cameroon | 523.00 | NA |
+| 462 | Pakistan | 523.00 | NA |
+| 463 | China | 523.00 | NA |
+| 464 | Congo, Republic of the | 523.00 | NA |
+| 465 | Belize | 516.00 | NA |
+| 466 | Djibouti | 516.00 | NA |
+| 467 | France | 510.00 | NA |
+| 468 | Suriname | 510.00 | NA |
+| 469 | Malaysia | 506.00 | NA |
+| 470 | Thailand | 506.00 | NA |
+| 471 | Iran | 499.00 | NA |
+| 472 | Turkey | 499.00 | NA |
+| 473 | Bulgaria | 494.00 | NA |
+| 474 | Greece | 494.00 | NA |
+| 475 | Mozambique | 491.00 | NA |
+| 476 | South Africa | 491.00 | NA |
+| 477 | France | 488.00 | NA |
+| 478 | Italy | 488.00 | NA |
+| 479 | Romania | 476.00 | NA |
+| 480 | Serbia | 476.00 | NA |
+| 481 | Malawi | 475.00 | NA |
+| 482 | Tanzania | 475.00 | NA |
+| 483 | Bhutan | 470.00 | NA |
+| 484 | China | 470.00 | NA |
+| 485 | Central African Republic | 467.00 | NA |
+| 486 | Congo, Republic of the | 467.00 | NA |
+| 487 | Algeria | 463.00 | NA |
+| 488 | Mauritania | 463.00 | NA |
+| 489 | Kuwait | 462.00 | NA |
+| 490 | Congo, Democratic Republic of the | 459.00 | NA |
+| 491 | Tanzania | 459.00 | NA |
+| 492 | Tunisia | 459.00 | NA |
+| 493 | Libya | 459.00 | NA |
+| 494 | Saudi Arabia | 457.00 | NA |
+| 495 | United Arab Emirates | 457.00 | NA |
+| 496 | Germany | 456.00 | NA |
+| 497 | Poland | 456.00 | NA |
+| 498 | Croatia | 455.00 | NA |
+| 499 | Slovenia | 455.00 | NA |
+| 500 | Lebanon | 454.00 | NA |
+| 501 | Burundi | 451.00 | NA |
+| 502 | Tanzania | 451.00 | NA |
+| 503 | France | 451.00 | NA |
+| 504 | Germany | 451.00 | NA |
+| 505 | Belgium | 450.00 | NA |
+| 506 | European Union | 450.00 | NA |
+| 507 | Romania | 450.00 | NA |
+| 508 | Netherlands | 450.00 | NA |
+| 509 | Moldova | 450.00 | NA |
+| 510 | European Union | 446.00 | NA |
+| 511 | Hungary | 443.00 | NA |
+| 512 | Morocco | 443.00 | NA |
+| 513 | Romania | 443.00 | NA |
+| 514 | Western Sahara | 443.00 | NA |
+| 515 | Sudan | 435.00 | NA |
+| 516 | Uganda | 435.00 | NA |
+| 517 | Azerbaijan | 432.00 | NA |
+| 518 | Iran | 432.00 | NA |
+| 519 | Russia | 432.00 | NA |
+| 520 | Poland | 432.00 | NA |
+| 521 | Austria | 430.00 | NA |
+| 522 | Swaziland | 430.00 | NA |
+| 523 | South Africa | 430.00 | NA |
+| 524 | Italy | 430.00 | NA |
+| 525 | Poland | 428.00 | NA |
+| 526 | Ukraine | 428.00 | NA |
+| 527 | China | 423.00 | NA |
+| 528 | Laos | 423.00 | NA |
+| 529 | Poland | 420.00 | NA |
+| 530 | Slovakia | 420.00 | NA |
+| 531 | Mali | 419.00 | NA |
+| 532 | Zambia | 419.00 | NA |
+| 533 | Senegal | 419.00 | NA |
+| 534 | Mozambique | 419.00 | NA |
+| 535 | China | 414.00 | NA |
+| 536 | Tajikistan | 414.00 | NA |
+| 537 | Oman | 410.00 | NA |
+| 538 | United Arab Emirates | 410.00 | NA |
+| 539 | West Bank | 404.00 | NA |
+| 540 | Tanzania | 396.00 | NA |
+| 541 | Uganda | 396.00 | NA |
+| 542 | European Union | 394.00 | NA |
+| 543 | Guinea | 386.00 | NA |
+| 544 | Guinea-Bissau | 386.00 | NA |
+| 545 | Libya | 383.00 | NA |
+| 546 | Sudan | 383.00 | NA |
+| 547 | Brunei | 381.00 | NA |
+| 548 | Brunei | 381.00 | NA |
+| 549 | Malaysia | 381.00 | NA |
+| 550 | Kazakhstan | 379.00 | NA |
+| 551 | Turkmenistan | 379.00 | NA |
+| 552 | Jordan | 375.00 | NA |
+| 553 | Lebanon | 375.00 | NA |
+| 554 | Syria | 375.00 | NA |
+| 555 | Syria | 375.00 | NA |
+| 556 | Austria | 366.00 | NA |
+| 557 | Hungary | 366.00 | NA |
+| 558 | Austria | 362.00 | NA |
+| 559 | Ukraine | 362.00 | NA |
+| 560 | Romania | 362.00 | NA |
+| 561 | Czech Republic | 362.00 | NA |
+| 562 | Dominican Republic | 360.00 | NA |
+| 563 | Haiti | 360.00 | NA |
+| 564 | United Kingdom | 360.00 | NA |
+| 565 | United Kingdom | 360.00 | NA |
+| 566 | Ireland | 360.00 | NA |
+| 567 | Ireland | 360.00 | NA |
+| 568 | Haiti | 360.00 | NA |
+| 569 | Dominican Republic | 360.00 | NA |
+| 570 | Luxembourg | 359.00 | NA |
+| 571 | Bosnia and Herzegovina | 357.00 | NA |
+| 572 | Libya | 354.00 | NA |
+| 573 | Niger | 354.00 | NA |
+| 574 | Iraq | 352.00 | NA |
+| 575 | Turkey | 352.00 | NA |
+| 576 | Serbia | 352.00 | NA |
+| 577 | Kosovo | 352.00 | NA |
+| 578 | Equatorial Guinea | 350.00 | NA |
+| 579 | Gabon | 350.00 | NA |
+| 580 | Djibouti | 349.00 | NA |
+| 581 | Ethiopia | 349.00 | NA |
+| 582 | Estonia | 343.00 | NA |
+| 583 | Latvia | 343.00 | NA |
+| 584 | El Salvador | 342.00 | NA |
+| 585 | Honduras | 342.00 | NA |
+| 586 | Guinea-Bissau | 338.00 | NA |
+| 587 | Tanzania | 338.00 | NA |
+| 588 | Senegal | 338.00 | NA |
+| 589 | Zambia | 338.00 | NA |
+| 590 | Germany | 334.00 | NA |
+| 591 | Switzerland | 334.00 | NA |
+| 592 | Austria | 330.00 | NA |
+| 593 | Guinea | 330.00 | NA |
+| 594 | Slovenia | 330.00 | NA |
+| 595 | Senegal | 330.00 | NA |
+| 596 | Panama | 330.00 | NA |
+| 597 | Costa Rica | 330.00 | NA |
+| 598 | Croatia | 329.00 | NA |
+| 599 | Hungary | 329.00 | NA |
+| 600 | Azerbaijan | 322.00 | NA |
+| 601 | Georgia | 322.00 | NA |
+| 602 | Bulgaria | 318.00 | NA |
+| 603 | Serbia | 318.00 | NA |
+| 604 | Costa Rica | 309.00 | NA |
+| 605 | Nicaragua | 309.00 | NA |
+| 606 | Israel | 307.00 | NA |
+| 607 | West Bank | 307.00 | NA |
+| 608 | Benin | 306.00 | NA |
+| 609 | Burkina Faso | 306.00 | NA |
+| 610 | Liberia | 306.00 | NA |
+| 611 | Sierra Leone | 306.00 | NA |
+| 612 | Serbia | 302.00 | NA |
+| 613 | Cameroon | 298.00 | NA |
+| 614 | Gabon | 298.00 | NA |
+| 615 | Latvia | 292.00 | NA |
+| 616 | Russia | 292.00 | NA |
+| 617 | Burundi | 290.00 | NA |
+| 618 | Rwanda | 290.00 | NA |
+| 619 | Russia | 290.00 | NA |
+| 620 | Estonia | 290.00 | NA |
+| 621 | Oman | 288.00 | NA |
+| 622 | Yemen | 288.00 | NA |
+| 623 | Azerbaijan | 284.00 | NA |
+| 624 | Russia | 284.00 | NA |
+| 625 | Albania | 282.00 | NA |
+| 626 | European Union | 282.00 | NA |
+| 627 | Greece | 282.00 | NA |
+| 628 | Armenia | 268.00 | NA |
+| 629 | Turkey | 268.00 | NA |
+| 630 | Belize | 266.00 | NA |
+| 631 | Benin | 266.00 | NA |
+| 632 | Guatemala | 266.00 | NA |
+| 633 | Israel | 266.00 | NA |
+| 634 | Niger | 266.00 | NA |
+| 635 | Egypt | 266.00 | NA |
+| 636 | Guatemala | 256.00 | NA |
+| 637 | Honduras | 256.00 | NA |
+| 638 | Georgia | 252.00 | NA |
+| 639 | Turkey | 252.00 | NA |
+| 640 | Belize | 250.00 | NA |
+| 641 | Mexico | 250.00 | NA |
+| 642 | Bosnia and Herzegovina | 249.00 | NA |
+| 643 | Greece | 246.00 | NA |
+| 644 | Macedonia | 246.00 | NA |
+| 645 | Croatia | 241.00 | NA |
+| 646 | Serbia | 241.00 | NA |
+| 647 | Bulgaria | 240.00 | NA |
+| 648 | Turkey | 240.00 | NA |
+| 649 | Iraq | 240.00 | NA |
+| 650 | Kuwait | 240.00 | NA |
+| 651 | Israel | 238.00 | NA |
+| 652 | Korea, North | 238.00 | NA |
+| 653 | Jordan | 238.00 | NA |
+| 654 | Korea, South | 238.00 | NA |
+| 655 | Korea, South | 238.00 | NA |
+| 656 | Burma | 235.00 | NA |
+| 657 | Laos | 235.00 | NA |
+| 658 | Burundi | 233.00 | NA |
+| 659 | Zambia | 233.00 | NA |
+| 660 | Congo, Democratic Republic of the | 233.00 | NA |
+| 661 | Namibia | 233.00 | NA |
+| 662 | Kenya | 232.00 | NA |
+| 663 | Sudan | 232.00 | NA |
+| 664 | Indonesia | 228.00 | NA |
+| 665 | Timor-Leste | 228.00 | NA |
+| 666 | Timor-Leste | 228.00 | NA |
+| 667 | Lithuania | 227.00 | NA |
+| 668 | Russia | 227.00 | NA |
+| 669 | Colombia | 225.00 | NA |
+| 670 | Montenegro | 225.00 | NA |
+| 671 | Zimbabwe | 225.00 | NA |
+| 672 | South Africa | 225.00 | NA |
+| 673 | Panama | 225.00 | NA |
+| 674 | Kuwait | 222.00 | NA |
+| 675 | Saudi Arabia | 222.00 | NA |
+| 676 | Armenia | 221.00 | NA |
+| 677 | Azerbaijan | 221.00 | NA |
+| 678 | Congo, Democratic Republic of the | 217.00 | NA |
+| 679 | Rwanda | 217.00 | NA |
+| 680 | Tanzania | 217.00 | NA |
+| 681 | Rwanda | 217.00 | NA |
+| 682 | Greece | 206.00 | NA |
+| 683 | Turkey | 206.00 | NA |
+| 684 | El Salvador | 203.00 | NA |
+| 685 | Guatemala | 203.00 | NA |
+| 686 | Angola | 201.00 | NA |
+| 687 | Congo, Republic of the | 201.00 | NA |
+| 688 | Italy | 199.00 | NA |
+| 689 | Slovenia | 199.00 | NA |
+| 690 | Czech Republic | 197.00 | NA |
+| 691 | Slovakia | 197.00 | NA |
+| 692 | Norway | 196.00 | NA |
+| 693 | Russia | 196.00 | NA |
+| 694 | Bangladesh | 193.00 | NA |
+| 695 | Burma | 193.00 | NA |
+| 696 | Cameroon | 189.00 | NA |
+| 697 | Equatorial Guinea | 189.00 | NA |
+| 698 | Iraq | 181.00 | NA |
+| 699 | Jordan | 181.00 | NA |
+| 700 | Azerbaijan | 179.00 | NA |
+| 701 | Iran | 179.00 | NA |
+| 702 | Ukraine | 176.00 | NA |
+| 703 | Albania | 172.00 | NA |
+| 704 | Montenegro | 172.00 | NA |
+| 705 | Belarus | 171.00 | NA |
+| 706 | Chile | 171.00 | NA |
+| 707 | Peru | 171.00 | NA |
+| 708 | Latvia | 171.00 | NA |
+| 709 | Romania | 169.00 | NA |
+| 710 | Uganda | 169.00 | NA |
+| 711 | Rwanda | 169.00 | NA |
+| 712 | Belgium | 167.00 | NA |
+| 713 | Germany | 167.00 | NA |
+| 714 | Hungary | 166.00 | NA |
+| 715 | Armenia | 164.00 | NA |
+| 716 | Switzerland | 164.00 | NA |
+| 717 | Georgia | 164.00 | NA |
+| 718 | Austria | 164.00 | NA |
+| 719 | Kosovo | 159.00 | NA |
+| 720 | Macedonia | 159.00 | NA |
+| 721 | Albania | 151.00 | NA |
+| 722 | Macedonia | 151.00 | NA |
+| 723 | Serbia | 151.00 | NA |
+| 724 | Cyprus | 150.40 | NA |
+| 725 | Belgium | 148.00 | NA |
+| 726 | Macedonia | 148.00 | NA |
+| 727 | Bulgaria | 148.00 | NA |
+| 728 | Luxembourg | 148.00 | NA |
+| 729 | Germany | 138.00 | NA |
+| 730 | Luxembourg | 138.00 | NA |
+| 731 | Afghanistan | 137.00 | NA |
+| 732 | Uzbekistan | 137.00 | NA |
+| 733 | Burkina Faso | 126.00 | NA |
+| 734 | Togo | 126.00 | NA |
+| 735 | Montenegro | 124.00 | NA |
+| 736 | Serbia | 124.00 | NA |
+| 737 | Andorra | 120.30 | NA |
+| 738 | European Union | 120.30 | NA |
+| 739 | Albania | 112.00 | NA |
+| 740 | Kosovo | 112.00 | NA |
+| 741 | Djibouti | 109.00 | NA |
+| 742 | Eritrea | 109.00 | NA |
+| 743 | Mozambique | 105.00 | NA |
+| 744 | Swaziland | 105.00 | NA |
+| 745 | Dhekelia | 103.00 | NA |
+| 746 | Dhekelia | 103.00 | NA |
+| 747 | Ukraine | 103.00 | NA |
+| 748 | Hungary | 103.00 | NA |
+| 749 | Hungary | 102.00 | NA |
+| 750 | Slovenia | 102.00 | NA |
+| 751 | Jordan | 97.00 | NA |
+| 752 | West Bank | 97.00 | NA |
+| 753 | Austria | 91.00 | NA |
+| 754 | Slovakia | 91.00 | NA |
+| 755 | Poland | 91.00 | NA |
+| 756 | Lithuania | 91.00 | NA |
+| 757 | Slovakia | 90.00 | NA |
+| 758 | Ukraine | 90.00 | NA |
+| 759 | Chad | 87.00 | NA |
+| 760 | Nigeria | 87.00 | NA |
+| 761 | Israel | 79.00 | NA |
+| 762 | Montenegro | 79.00 | NA |
+| 763 | Lebanon | 79.00 | NA |
+| 764 | Kosovo | 79.00 | NA |
+| 765 | Afghanistan | 76.00 | NA |
+| 766 | China | 76.00 | NA |
+| 767 | Syria | 76.00 | NA |
+| 768 | Liechtenstein | 76.00 | NA |
+| 769 | Israel | 76.00 | NA |
+| 770 | France | 73.00 | NA |
+| 771 | Luxembourg | 73.00 | NA |
+| 772 | Denmark | 68.00 | NA |
+| 773 | Denmark | 68.00 | NA |
+| 774 | Germany | 68.00 | NA |
+| 775 | Andorra | 63.70 | NA |
+| 776 | Spain | 63.70 | NA |
+| 777 | Gaza Strip | 62.00 | NA |
+| 778 | Serbia | 62.00 | NA |
+| 779 | Macedonia | 62.00 | NA |
+| 780 | Qatar | 60.00 | NA |
+| 781 | Qatar | 60.00 | NA |
+| 782 | Saudi Arabia | 60.00 | NA |
+| 783 | Djibouti | 58.00 | NA |
+| 784 | Somalia | 58.00 | NA |
+| 785 | Andorra | 56.60 | NA |
+| 786 | France | 56.60 | NA |
+| 787 | Gaza Strip | 51.00 | NA |
+| 788 | Israel | 51.00 | NA |
+| 789 | Akrotiri | 47.40 | NA |
+| 790 | Akrotiri | 47.40 | NA |
+| 791 | Algeria | 42.00 | NA |
+| 792 | Western Sahara | 42.00 | NA |
+| 793 | Liechtenstein | 41.10 | NA |
+| 794 | Switzerland | 41.00 | NA |
+| 795 | China | 40.00 | NA |
+| 796 | Russia | 40.00 | NA |
+| 797 | Italy | 39.00 | NA |
+| 798 | European Union | 39.00 | NA |
+| 799 | San Marino | 39.00 | NA |
+| 800 | San Marino | 39.00 | NA |
+| 801 | Armenia | 35.00 | NA |
+| 802 | Austria | 35.00 | NA |
+| 803 | Iran | 35.00 | NA |
+| 804 | Liechtenstein | 34.90 | NA |
+| 805 | European Union | 34.90 | NA |
+| 806 | China | 30.00 | NA |
+| 807 | Hong Kong | 30.00 | NA |
+| 808 | Hong Kong | 30.00 | NA |
+| 809 | Cuba | 29.00 | NA |
+| 810 | Cuba | 29.00 | NA |
+| 811 | Croatia | 25.00 | NA |
+| 812 | Montenegro | 25.00 | NA |
+| 813 | Korea, North | 19.00 | NA |
+| 814 | Russia | 17.50 | NA |
+| 815 | Saint Martin | 15.00 | NA |
+| 816 | Sint Maarten | 15.00 | NA |
+| 817 | Saint Martin | 15.00 | NA |
+| 818 | Sint Maarten | 15.00 | NA |
+| 819 | Egypt | 11.00 | NA |
+| 820 | Gaza Strip | 11.00 | NA |
+| 821 | Morocco | 9.60 | NA |
+| 822 | Spain | 9.60 | NA |
+| 823 | Azerbaijan | 9.00 | NA |
+| 824 | Turkey | 9.00 | NA |
+| 825 | Morocco | 6.30 | NA |
+| 826 | Spain | 6.30 | NA |
+| 827 | France | 4.40 | NA |
+| 828 | European Union | 4.40 | NA |
+| 829 | Monaco | 4.40 | NA |
+| 830 | Monaco | 4.40 | NA |
+| 831 | Holy See (Vatican City) | 3.20 | NA |
+| 832 | European Union | 3.20 | NA |
+| 833 | Italy | 3.20 | NA |
+| 834 | Holy See (Vatican City) | 3.20 | NA |
+| 835 | Gibraltar | 1.20 | NA |
+| 836 | Gibraltar | 1.20 | NA |
+| 837 | Spain | 1.20 | NA |
+| 838 | China | 0.34 | NA |
+| 839 | Macau | 0.34 | NA |
+| 840 | Macau | 0.34 | NA |
+| 841 | American Samoa | 0.00 | NA |
+| 842 | Anguilla | 0.00 | NA |
+| 843 | Antarctica | 0.00 | NA |
+| 844 | Antigua and Barbuda | 0.00 | NA |
+| 845 | Montserrat | 0.00 | NA |
+| 846 | Micronesia, Federated States of | 0.00 | NA |
+| 847 | Mayotte | 0.00 | NA |
+| 848 | Mauritius | 0.00 | NA |
+| 849 | Marshall Islands | 0.00 | NA |
+| 850 | Malta | 0.00 | NA |
+| 851 | Maldives | 0.00 | NA |
+| 852 | Madagascar | 0.00 | NA |
+| 853 | Isle of Man | 0.00 | NA |
+| 854 | Spratly Islands | 0.00 | NA |
+| 855 | South Georgia and South Sandwich Islands | 0.00 | NA |
+| 856 | Solomon Islands | 0.00 | NA |
+| 857 | Singapore | 0.00 | NA |
+| 858 | Seychelles | 0.00 | NA |
+| 859 | Sao Tome and Principe | 0.00 | NA |
+| 860 | Samoa | 0.00 | NA |
+| 861 | Saint Vincent and the Grenadines | 0.00 | NA |
+| 862 | Saint Pierre and Miquelon | 0.00 | NA |
+| 863 | Taiwan | 0.00 | NA |
+| 864 | Wallis and Futuna | 0.00 | NA |
+| 865 | Wake Island | 0.00 | NA |
+| 866 | Virgin Islands | 0.00 | NA |
+| 867 | Vanuatu | 0.00 | NA |
+| 868 | Tuvalu | 0.00 | NA |
+| 869 | Turks and Caicos Islands | 0.00 | NA |
+| 870 | Trinidad and Tobago | 0.00 | NA |
+| 871 | Tonga | 0.00 | NA |
+| 872 | Tokelau | 0.00 | NA |
+| 873 | Svalbard | 0.00 | NA |
+| 874 | Sri Lanka | 0.00 | NA |
+| 875 | Saint Lucia | 0.00 | NA |
+| 876 | Saint Kitts and Nevis | 0.00 | NA |
+| 877 | Saint Helena, Ascension, and Tristan da Cunha | 0.00 | NA |
+| 878 | Saint Barthelemy | 0.00 | NA |
+| 879 | Puerto Rico | 0.00 | NA |
+| 880 | Pitcairn Islands | 0.00 | NA |
+| 881 | Philippines | 0.00 | NA |
+| 882 | Paracel Islands | 0.00 | NA |
+| 883 | Palau | 0.00 | NA |
+| 884 | Northern Mariana Islands | 0.00 | NA |
+| 885 | Norfolk Island | 0.00 | NA |
+| 886 | Niue | 0.00 | NA |
+| 887 | New Zealand | 0.00 | NA |
+| 888 | New Caledonia | 0.00 | NA |
+| 889 | Navassa Island | 0.00 | NA |
+| 890 | Nauru | 0.00 | NA |
+| 891 | Iceland | 0.00 | NA |
+| 892 | Heard Island and McDonald Islands | 0.00 | NA |
+| 893 | Guernsey | 0.00 | NA |
+| 894 | Grenada | 0.00 | NA |
+| 895 | Greenland | 0.00 | NA |
+| 896 | Coral Sea Islands | 0.00 | NA |
+| 897 | Cook Islands | 0.00 | NA |
+| 898 | Comoros | 0.00 | NA |
+| 899 | Kiribati | 0.00 | NA |
+| 900 | Jersey | 0.00 | NA |
+| 901 | Japan | 0.00 | NA |
+| 902 | Jan Mayen | 0.00 | NA |
+| 903 | Jamaica | 0.00 | NA |
+| 904 | Cocos (Keeling) Islands | 0.00 | NA |
+| 905 | Clipperton Island | 0.00 | NA |
+| 906 | Christmas Island | 0.00 | NA |
+| 907 | Cayman Islands | 0.00 | NA |
+| 908 | Cape Verde | 0.00 | NA |
+| 909 | British Virgin Islands | 0.00 | NA |
+| 910 | British Indian Ocean Territory | 0.00 | NA |
+| 911 | Bouvet Island | 0.00 | NA |
+| 912 | French Southern and Antarctic Lands | 0.00 | NA |
+| 913 | French Polynesia | 0.00 | NA |
+| 914 | Fiji | 0.00 | NA |
+| 915 | Faroe Islands | 0.00 | NA |
+| 916 | Falkland Islands (Islas Malvinas) | 0.00 | NA |
+| 917 | Dominica | 0.00 | NA |
+| 918 | Bermuda | 0.00 | NA |
+| 919 | Barbados | 0.00 | NA |
+| 920 | Bahrain | 0.00 | NA |
+| 921 | Bahamas, The | 0.00 | NA |
+| 922 | Aruba | 0.00 | NA |
+| 923 | Ashmore and Cartier Islands | 0.00 | NA |
+| 924 | Australia | 0.00 | NA |

@@ -1,0 +1,116 @@
+CIA - The World Factbook --  Market value of publicly traded shares   
+
+This entry gives the value of shares issued by publicly traded companies at a price determined in the national stock markets on the final day of the period indicated. It is simply the latest price per share multiplied by the total number of outstanding shares, cumulated over all companies listed on the particular exchange.
+
+| Rank | country | Market value of publicly traded shares | Date of Information |
+| --- | --- | --- | --- |
+| 1 | United States | $ 19,950,000,000,000 | 31 December 2007 |
+| 2 | European Union | $ 15,570,000,000,000 | 31 December 2008 |
+| 3 | China | $ 6,226,000,000,000 | 31 December 2007 |
+| 4 | Japan | $ 4,453,000,000,000 | 31 December 2007 |
+| 5 | United Kingdom | $ 3,859,000,000,000 | 31 December 2007 |
+| 6 | France | $ 2,771,000,000,000 | 31 December 2007 |
+| 7 | Canada | $ 2,187,000,000,000 | 31 December 2007 |
+| 8 | Germany | $ 2,106,000,000,000 | 31 December 2007 |
+| 9 | India | $ 1,819,000,000,000 | 31 December 2007 |
+| 10 | Spain | $ 1,800,000,000,000 | 31 December 2007 |
+| 11 | Russia | $ 1,503,000,000,000 | 31 December 2007 |
+| 12 | Brazil | $ 1,370,000,000,000 | 31 December 2007 |
+| 13 | Australia | $ 1,298,000,000,000 | 31 December 2007 |
+| 14 | Switzerland | $ 1,275,000,000,000 | 31 December 2007 |
+| 15 | Hong Kong | $ 1,163,000,000,000 | 31 December 2007 |
+| 16 | Korea, South | $ 1,124,000,000,000 | 31 December 2007 |
+| 17 | Italy | $ 1,073,000,000,000 | 31 December 2007 |
+| 18 | Netherlands | $ 956,500,000,000 | 31 December 2007 |
+| 19 | South Africa | $ 833,500,000,000 | 31 December 2007 |
+| 20 | Taiwan | $ 654,000,000,000 | 28 December 2007 |
+| 21 | Sweden | $ 612,500,000,000 | 31 December 2007 |
+| 22 | Saudi Arabia | $ 515,100,000,000 | 31 December 2007 |
+| 23 | Netherlands Antilles | $ 488,600,000,000 | 2003 |
+| 24 | Mexico | $ 397,700,000,000 | 31 December 2007 |
+| 25 | Belgium | $ 386,400,000,000 | 31 December 2007 |
+| 26 | Finland | $ 369,200,000,000 | 31 December 2007 |
+| 27 | Norway | $ 357,400,000,000 | 31 December 2007 |
+| 28 | Singapore | $ 353,500,000,000 | 31 December 2007 |
+| 29 | Malaysia | $ 325,700,000,000 | 31 December 2007 |
+| 30 | Turkey | $ 286,600,000,000 | 31 December 2007 |
+| 31 | Denmark | $ 277,700,000,000 | 31 December 2007 |
+| 32 | Greece | $ 264,900,000,000 | 31 December 2007 |
+| 33 | Israel | $ 236,400,000,000 | 31 December 2007 |
+| 34 | Austria | $ 228,700,000,000 | 31 December 2007 |
+| 35 | United Arab Emirates | $ 224,700,000,000 | 31 December 2007 |
+| 36 | Chile | $ 212,900,000,000 | 31 December 2007 |
+| 37 | Indonesia | $ 211,700,000,000 | 31 December 2007 |
+| 38 | Poland | $ 207,300,000,000 | 31 December 2007 |
+| 39 | Thailand | $ 196,000,000,000 | 31 December 2007 |
+| 40 | Kuwait | $ 188,000,000,000 | 31 December 2007 |
+| 41 | Luxembourg | $ 166,100,000,000 | 31 December 2007 |
+| 42 | Ireland | $ 144,000,000,000 | 31 December 2007 |
+| 43 | Egypt | $ 139,300,000,000 | 31 December 2007 |
+| 44 | Portugal | $ 132,300,000,000 | 31 December 2007 |
+| 45 | Ukraine | $ 111,800,000,000 | 31 December 2007 |
+| 46 | Peru | $ 106,000,000,000 | 31 December 2007 |
+| 47 | Philippines | $ 103,200,000,000 | 31 December 2007 |
+| 48 | Colombia | $ 102,000,000,000 | 31 December 2007 |
+| 49 | Qatar | $ 95,490,000,000 | 31 December 2007 |
+| 50 | Argentina | $ 86,680,000,000 | 31 December 2007 |
+| 51 | Nigeria | $ 86,350,000,000 | 31 December 2007 |
+| 52 | Morocco | $ 75,490,000,000 | 31 December 2007 |
+| 53 | Czech Republic | $ 73,420,000,000 | 31 December 2007 |
+| 54 | Pakistan | $ 70,260,000,000 | 31 December 2007 |
+| 55 | Croatia | $ 65,980,000,000 | 31 December 2007 |
+| 56 | Hungary | $ 47,650,000,000 | 31 December 2007 |
+| 57 | New Zealand | $ 47,450,000,000 | 31 December 2007 |
+| 58 | Iran | $ 45,570,000,000 | 31 December 2007 |
+| 59 | Romania | $ 44,930,000,000 | 31 December 2007 |
+| 60 | Kazakhstan | $ 41,380,000,000 | 31 December 2007 |
+| 61 | Jordan | $ 41,220,000,000 | 31 December 2007 |
+| 62 | Iceland | $ 40,560,000,000 | 31 December 2007 |
+| 63 | Cyprus | $ 29,480,000,000 | 31 December 2007 |
+| 64 | Slovenia | $ 28,960,000,000 | 31 December 2007 |
+| 65 | Bahrain | $ 28,130,000,000 | 31 December 2007 |
+| 66 | Serbia | $ 23,930,000,000 | 31 December 2007 |
+| 67 | Oman | $ 23,060,000,000 | 31 December 2007 |
+| 68 | Bulgaria | $ 21,790,000,000 | 31 December 2007 |
+| 69 | Vietnam | $ 19,540,000,000 | 31 December 2007 |
+| 70 | Trinidad and Tobago | $ 15,610,000,000 | 31 December 2007 |
+| 71 | Kenya | $ 13,390,000,000 | 31 December 2007 |
+| 72 | Jamaica | $ 12,330,000,000 | 31 December 2007 |
+| 73 | Lebanon | $ 10,860,000,000 | 31 December 2007 |
+| 74 | Lithuania | $ 10,130,000,000 | 31 December 2007 |
+| 75 | Cote d'Ivoire | $ 8,353,000,000 | 31 December 2007 |
+| 76 | Sri Lanka | $ 7,553,000,000 | 31 December 2007 |
+| 77 | Slovakia | $ 6,971,000,000 | 31 December 2007 |
+| 78 | Bangladesh | $ 6,793,000,000 | 31 December 2007 |
+| 79 | El Salvador | $ 6,743,000,000 | 31 December 2007 |
+| 80 | Panama | $ 6,219,000,000 | 31 December 2007 |
+| 81 | Estonia | $ 6,037,000,000 | 31 December 2007 |
+| 82 | Botswana | $ 5,887,000,000 | 31 December 2007 |
+| 83 | Mauritius | $ 5,666,000,000 | 31 December 2007 |
+| 84 | Malta | $ 5,633,000,000 | 31 December 2007 |
+| 85 | Barbados | $ 5,599,000,000 | 31 December 2007 |
+| 86 | Tunisia | $ 5,355,000,000 | 31 December 2007 |
+| 87 | Zimbabwe | $ 5,333,000,000 | 31 December 2007 |
+| 88 | Nepal | $ 4,909,000,000 | 31 December 2007 |
+| 89 | Ecuador | $ 4,266,000,000 | 31 December 2007 |
+| 90 | Montenegro | $ 3,699,000,000 | 31 December 2007 |
+| 91 | Latvia | $ 3,111,000,000 | 31 December 2007 |
+| 92 | Bermuda | $ 2,731,000,000 | 31 December 2007 |
+| 93 | Macedonia | $ 2,715,000,000 | 31 December 2007 |
+| 94 | West Bank | $ 2,475,000,000 | 31 December 2007 |
+| 95 | Ghana | $ 2,380,000,000 | 31 December 2007 |
+| 96 | Zambia | $ 2,346,000,000 | 31 December 2007 |
+| 97 | Bolivia | $ 2,263,000,000 | 31 December 2007 |
+| 98 | Costa Rica | $ 2,035,000,000 | 31 December 2007 |
+| 99 | Georgia | $ 1,389,000,000 | 31 December 2007 |
+| 100 | Namibia | $ 702,000,000 | 31 December 2007 |
+| 101 | Mongolia | $ 612,200,000 | 31 December 2007 |
+| 102 | Moldova | $ 573,900,000 | 2004 |
+| 103 | Fiji | $ 522,200,000 | 31 December 2007 |
+| 104 | Saint Kitts and Nevis | $ 439,700,000 | 31 December 2007 |
+| 105 | Guyana | $ 262,400,000 | 31 December 2007 |
+| 106 | Swaziland | $ 203,100,000 | 31 December 2007 |
+| 107 | Cayman Islands | $ 183,500,000 | 31 December 2007 |
+| 108 | Uruguay | $ 159,000,000 | 31 December 2007 |
+| 109 | Kyrgyzstan | $ 121,000,000 | 31 December 2007 |
+| 110 | Armenia | $ 105,000,000 | 31 December 2007 |

@@ -1,0 +1,27 @@
+Telephone Code: 974
+Local Emergency Phone: 999
+Climate: Arid; mild, pleasant winters; very hot, humid summers
+Currency (Code): Qatari rials (QAR)
+Electricity: 240 V
+Voltage: 50 Hz
+Plug types(s): G
+Major Languages: Arabic, English commonly used as a second language
+Major Religions: Muslim 65.2%, Christian 13.7%, Hindu 15.9%, Buddhist 3.8%, folk religion <.1%, Jewish <.1%
+Time Difference: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Doha (includes Museum of Islamic Art, the Corniche, Doha Fort, National Museum, Golden Mosque); Al Jassasiya Carvings; Al Wakra Museum; Katara Cultural Village
+Major Sports: Soccer, cricket, golf, tennis, horse racing
+Cultural Practices: Not all Arab men and women will shake hands with those of the opposite sex; wait to see if they extend their hands first.
+Tipping Guidelines: A service charge of 10% is usually added to hotel and restaurant bills, in which case tipping is not necessary, although for exceptional service many people add a bit extra. If there is no service charge, a 10-15% tip is appreciated. Taxi drivers do not expect a tip, but it is polite to round up the fare.
+Souvenirs: Pashminas, decorated Korans, incense burners, frankincense, ceremonial swords, dullah and kahwa coffee cups, halawa candy, dried dates
+Traditional Cuisine: Machboos --- a rice dish made with a variety of aromatic spices that produce a smoky taste and served with vegetables and lamb or chicken
+
+---
+country: Qatar
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Qatar/travel-facts>
+license: public domain (U.S.)
+...

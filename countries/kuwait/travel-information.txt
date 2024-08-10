@@ -1,0 +1,27 @@
+Telephone Code: 965
+Local Emergency Phone: 777
+Climate: Dry desert; intensely hot summers; short, cool winters
+Currency (Code): Kuwaiti dinars (KD)
+Electricity: 240 V
+Voltage: 50 Hz
+Plug types(s): G
+Major Languages: Arabic, English widely spoken
+Major Religions: Muslim 74.6%, Christian 18.2%; note: about 69% of the population consists of immigrants
+Time Difference: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Yes
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Kuwait Towers; Al Kout Beach; Dhow Harbor; Katara Cultural Village; Failaka Island, Grand Mosque
+Major Sports: Soccer, basketball, cricket, handball, rugby
+Cultural Practices: Giving or receiving gifts with your left hand is considered disrespectful.
+Tipping Guidelines: Tipping is largely discretionary. Restaurants and hotels often add a 15% service charge. If no service charge is included, a 10% tip is considered appropriate. Gas station attendants, bellhops, and drivers all appreciate small tips of $1-2 (USD) or the equivalent in dinars.
+Souvenirs: Wool rugs, pearl jewelry, pottery, dried fruits/nuts, tea sets
+Traditional Cuisine: Machboos (or Machboos laham) --- mutton accompanied with rice cooked in the meat's broth and a mixture of onions, raisins, and yellow split peas
+
+---
+country: Kuwait
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Kuwait/travel-facts>
+license: public domain (U.S.)
+...

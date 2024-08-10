@@ -1,0 +1,195 @@
+CIA - The World Factbook --  Health expenditures   
+
+This entry provides the total expenditure on health as a percentage of GDP. Health expenditures are broadly defined as activities performed either by institutions or individuals through the application of medical, paramedical, and/or nursing knowledge and technology, the primary purpose of which is to promote, restore, or maintain health.
+
+| Rank | country | (% of GDP) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Malta | 16.50 | 2009 |
+| 2 | United States | 16.20 | 2009 |
+| 3 | Mexico | 13.80 | 2009 |
+| 4 | Niue | 13.50 | 2009 |
+| 5 | Lesotho | 13.20 | 2009 |
+| 6 | Sierra Leone | 13.10 | 2009 |
+| 7 | Burundi | 13.10 | 2009 |
+| 8 | Timor-Leste | 12.30 | 2009 |
+| 9 | Kenya | 12.20 | 2009 |
+| 10 | Nauru | 12.10 | 2009 |
+| 11 | Moldova | 11.90 | 2009 |
+| 12 | Belgium | 11.80 | 2009 |
+| 13 | Cuba | 11.80 | 2009 |
+| 14 | Finland | 11.70 | 2009 |
+| 15 | Switzerland | 11.30 | 2009 |
+| 16 | Georgia | 11.30 | 2009 |
+| 17 | Portugal | 11.30 | 2009 |
+| 18 | Palau | 11.20 | 2009 |
+| 19 | Congo, Democratic Republic of the | 11.20 | 2009 |
+| 20 | Austria | 11.00 | 2009 |
+| 21 | Bosnia and Herzegovina | 10.90 | 2009 |
+| 22 | Canada | 10.90 | 2009 |
+| 23 | Netherlands | 10.80 | 2009 |
+| 24 | Ghana | 10.60 | 2009 |
+| 25 | Costa Rica | 10.50 | 2009 |
+| 26 | Botswana | 10.30 | 2009 |
+| 27 | Gambia, The | 10.10 | 2009 |
+| 28 | Serbia | 9.90 | 2009 |
+| 29 | Tuvalu | 9.90 | 2009 |
+| 30 | Sweden | 9.90 | 2009 |
+| 31 | New Zealand | 9.70 | 2009 |
+| 32 | Fiji | 9.70 | 2009 |
+| 33 | Iraq | 9.70 | 2009 |
+| 34 | Spain | 9.70 | 2009 |
+| 35 | Norway | 9.70 | 2009 |
+| 36 | Israel | 9.50 | 2009 |
+| 37 | Argentina | 9.50 | 2009 |
+| 38 | Nicaragua | 9.50 | 2009 |
+| 39 | Mongolia | 9.30 | 2009 |
+| 40 | Japan | 9.30 | 2009 |
+| 41 | United Kingdom | 9.30 | 2009 |
+| 42 | Slovenia | 9.10 | 2009 |
+| 43 | Rwanda | 9.00 | 2009 |
+| 44 | Brazil | 9.00 | 2009 |
+| 45 | South Africa | 8.50 | 2009 |
+| 46 | Slovakia | 8.50 | 2009 |
+| 47 | Australia | 8.50 | 2009 |
+| 48 | Panama | 8.30 | 2009 |
+| 49 | Jamaica | 8.30 | 2009 |
+| 50 | Lebanon | 8.20 | 2009 |
+| 51 | Uganda | 8.20 | 2009 |
+| 52 | Chile | 8.20 | 2009 |
+| 53 | Hungary | 8.20 | 2009 |
+| 54 | Guinea-Bissau | 8.10 | 2009 |
+| 55 | Germany | 8.10 | 2009 |
+| 56 | Latvia | 8.10 | 2009 |
+| 57 | Saint Lucia | 8.10 | 2009 |
+| 58 | Malaysia | 8.00 | 2009 |
+| 59 | Lithuania | 7.80 | 2009 |
+| 60 | Croatia | 7.80 | 2009 |
+| 61 | Andorra | 7.70 | 2009 |
+| 62 | Suriname | 7.60 | 2009 |
+| 63 | Czech Republic | 7.60 | 2009 |
+| 64 | Ireland | 7.60 | 2009 |
+| 65 | Mali | 7.50 | 2009 |
+| 66 | Greece | 7.40 | 2009 |
+| 67 | Afghanistan | 7.40 | 2009 |
+| 68 | Uruguay | 7.40 | 2009 |
+| 69 | Bulgaria | 7.40 | 2009 |
+| 70 | Honduras | 7.30 | 2009 |
+| 71 | Sudan | 7.30 | 2009 |
+| 72 | Vietnam | 7.20 | 2009 |
+| 73 | Bahamas, The | 7.20 | 2009 |
+| 74 | Grenada | 7.10 | 2009 |
+| 75 | San Marino | 7.10 | 2009 |
+| 76 | Poland | 7.10 | 2009 |
+| 77 | Sao Tome and Principe | 7.10 | 2009 |
+| 78 | Paraguay | 7.10 | 2009 |
+| 79 | Chad | 7.00 | 2009 |
+| 80 | Ukraine | 7.00 | 2009 |
+| 81 | Samoa | 7.00 | 2009 |
+| 82 | Eritrea | 7.00 | 2009 |
+| 83 | Denmark | 7.00 | 2009 |
+| 84 | Albania | 6.90 | 2009 |
+| 85 | Macedonia | 6.90 | 2009 |
+| 86 | Barbados | 6.80 | 2009 |
+| 87 | Kuwait | 6.80 | 2009 |
+| 88 | Turkey | 6.70 | 2009 |
+| 89 | Libya | 6.60 | 2009 |
+| 90 | Korea, South | 6.50 | 2009 |
+| 91 | Mauritius | 6.50 | 2009 |
+| 92 | Laos | 6.50 | 2009 |
+| 93 | Colombia | 6.40 | 2009 |
+| 94 | Egypt | 6.40 | 2009 |
+| 95 | Djibouti | 6.40 | 2009 |
+| 96 | Burkina Faso | 6.40 | 2009 |
+| 97 | Swaziland | 6.30 | 2009 |
+| 98 | Madagascar | 6.20 | 2009 |
+| 99 | Tonga | 6.20 | 2009 |
+| 100 | Tunisia | 6.20 | 2009 |
+| 101 | Niger | 6.10 | 2009 |
+| 102 | Guyana | 6.10 | 2009 |
+| 103 | Guinea | 6.10 | 2009 |
+| 104 | Dominican Republic | 6.10 | 2009 |
+| 105 | Haiti | 6.00 | 2009 |
+| 106 | Gabon | 6.00 | 2009 |
+| 107 | Cyprus | 6.00 | 2009 |
+| 108 | Saint Kitts and Nevis | 6.00 | 2009 |
+| 109 | Namibia | 5.90 | 2009 |
+| 110 | Dominica | 5.90 | 2009 |
+| 111 | Togo | 5.90 | 2009 |
+| 112 | Cambodia | 5.80 | 2009 |
+| 113 | Belarus | 5.80 | 2009 |
+| 114 | Algeria | 5.80 | 2009 |
+| 115 | Azerbaijan | 5.80 | 2009 |
+| 116 | Nepal | 5.80 | 2009 |
+| 117 | Nigeria | 5.80 | 2009 |
+| 118 | Senegal | 5.70 | 2009 |
+| 119 | Mozambique | 5.70 | 2009 |
+| 120 | Guatemala | 5.70 | 2009 |
+| 121 | Mauritania | 5.70 | 2009 |
+| 122 | Trinidad and Tobago | 5.60 | 2009 |
+| 123 | Saint Vincent and the Grenadines | 5.60 | 2009 |
+| 124 | Maldives | 5.60 | 2009 |
+| 125 | Yemen | 5.60 | 2009 |
+| 126 | Cameroon | 5.60 | 2009 |
+| 127 | Indonesia | 5.50 | 2009 |
+| 128 | Morocco | 5.50 | 2009 |
+| 129 | Bhutan | 5.50 | 2009 |
+| 130 | Solomon Islands | 5.40 | 2009 |
+| 131 | Romania | 5.40 | 2009 |
+| 132 | Russia | 5.40 | 2009 |
+| 133 | Tajikistan | 5.30 | 2009 |
+| 134 | Uzbekistan | 5.20 | 2009 |
+| 135 | Antigua and Barbuda | 5.10 | 2009 |
+| 136 | Italy | 5.10 | 2009 |
+| 137 | Cote d'Ivoire | 5.10 | 2009 |
+| 138 | Tanzania | 5.10 | 2009 |
+| 139 | Saudi Arabia | 5.00 | 2009 |
+| 140 | Ecuador | 5.00 | 2009 |
+| 141 | Malawi | 4.80 | 2009 |
+| 142 | Zambia | 4.80 | 2009 |
+| 143 | Bolivia | 4.80 | 2009 |
+| 144 | Armenia | 4.70 | 2009 |
+| 145 | Monaco | 4.70 | 2009 |
+| 146 | Angola | 4.60 | 2009 |
+| 147 | Peru | 4.60 | 2009 |
+| 148 | China | 4.60 | 2009 |
+| 149 | Bahrain | 4.50 | 2009 |
+| 150 | Jordan | 4.50 | 2009 |
+| 151 | Cook Islands | 4.40 | 2009 |
+| 152 | Central African Republic | 4.30 | 2009 |
+| 153 | Thailand | 4.30 | 2009 |
+| 154 | Estonia | 4.30 | 2009 |
+| 155 | Kazakhstan | 4.30 | 2009 |
+| 156 | Iceland | 4.20 | 2009 |
+| 157 | Benin | 4.20 | 2009 |
+| 158 | Luxembourg | 4.10 | 2009 |
+| 159 | Kyrgyzstan | 4.10 | 2009 |
+| 160 | Seychelles | 4.00 | 2009 |
+| 161 | Vanuatu | 4.00 | 2009 |
+| 162 | Sri Lanka | 4.00 | 2009 |
+| 163 | Micronesia, Federated States of | 3.90 | 2009 |
+| 164 | El Salvador | 3.90 | 2009 |
+| 165 | Cape Verde | 3.90 | 2009 |
+| 166 | Iran | 3.90 | 2009 |
+| 167 | Liberia | 3.90 | 2009 |
+| 168 | Singapore | 3.90 | 2009 |
+| 169 | Philippines | 3.80 | 2009 |
+| 170 | Ethiopia | 3.60 | 2009 |
+| 171 | France | 3.50 | 2009 |
+| 172 | Bangladesh | 3.40 | 2009 |
+| 173 | Comoros | 3.40 | 2009 |
+| 174 | Belize | 3.30 | 2009 |
+| 175 | Kiribati | 3.30 | 2009 |
+| 176 | Papua New Guinea | 3.10 | 2009 |
+| 177 | Brunei | 3.00 | 2009 |
+| 178 | Oman | 3.00 | 2009 |
+| 179 | Congo, Republic of the | 3.00 | 2009 |
+| 180 | Syria | 2.90 | 2009 |
+| 181 | United Arab Emirates | 2.80 | 2009 |
+| 182 | Pakistan | 2.60 | 2009 |
+| 183 | Qatar | 2.50 | 2009 |
+| 184 | Marshall Islands | 2.50 | 2009 |
+| 185 | India | 2.40 | 2009 |
+| 186 | Turkmenistan | 2.30 | 2009 |
+| 187 | Equatorial Guinea | 2.20 | 2009 |
+| 188 | Burma | 2.00 | 2009 |
+| 189 | Korea, North | 2.00 | 2009 |

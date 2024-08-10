@@ -1,0 +1,177 @@
+CIA - The World Factbook --  Total renewable water resources   
+
+This entry provides the long-term average water availability for a country in cubic kilometers of precipitation, recharged ground water, and surface inflows from surrounding countries. The values have been adjusted to account for overlap resulting from surface flow recharge of groundwater sources. Total renewable water resources provides the water total available to a country but does not include water resource totals that have been reserved for upstream or downstream countries through international agreements. Note that these values are averages and do not accurately reflect the total available in any given year. Annual available resources can vary greatly due to short-term and long-term climatic and weather variations.
+
+| Rank | country | (cu km) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Brazil | 8,233.00 | 2000 |
+| 2 | Russia | 4,498.00 | 1997 |
+| 3 | Canada | 3,300.00 | 1985 |
+| 4 | United States | 3,069.00 | 1985 |
+| 5 | Indonesia | 2,838.00 | 1999 |
+| 6 | China | 2,829.60 | 1999 |
+| 7 | Colombia | 2,132.00 | 2000 |
+| 8 | Peru | 1,913.00 | 2000 |
+| 9 | India | 1,907.80 | 1999 |
+| 10 | Congo, Democratic Republic of the | 1,283.00 | 2001 |
+| 11 | Venezuela | 1,233.20 | 2000 |
+| 12 | Bangladesh | 1,210.60 | 1999 |
+| 13 | Burma | 1,045.60 | 1999 |
+| 14 | Chile | 922.00 | 2000 |
+| 15 | Vietnam | 891.20 | 1999 |
+| 16 | Congo, Republic of the | 832.00 | 1987 |
+| 17 | Argentina | 814.00 | 2000 |
+| 18 | Papua New Guinea | 801.00 | 1987 |
+| 19 | Bolivia | 622.50 | 2000 |
+| 20 | Malaysia | 580.00 | 1999 |
+| 21 | Philippines | 479.00 | 1999 |
+| 22 | Cambodia | 476.10 | 1999 |
+| 23 | Mexico | 457.20 | 2000 |
+| 24 | Ecuador | 432.00 | 2000 |
+| 25 | Japan | 430.00 | 1999 |
+| 26 | Thailand | 409.90 | 1999 |
+| 27 | Australia | 398.00 | 1995 |
+| 28 | New Zealand | 397.00 | 1995 |
+| 29 | Norway | 381.40 | 2005 |
+| 30 | Madagascar | 337.00 | 1984 |
+| 31 | Paraguay | 336.00 | 2000 |
+| 32 | Laos | 333.60 | 2003 |
+| 33 | Nigeria | 286.20 | 2003 |
+| 34 | Cameroon | 285.50 | 2003 |
+| 35 | Guyana | 241.00 | 2000 |
+| 36 | Turkey | 234.00 | 2003 |
+| 37 | Pakistan | 233.80 | 2003 |
+| 38 | Liberia | 232.00 | 1987 |
+| 39 | Guinea | 226.00 | 1987 |
+| 40 | Mozambique | 216.00 | 1992 |
+| 41 | Nepal | 210.20 | 1999 |
+| 42 | Serbia | 208.50 | 2003 |
+| 43 | Nicaragua | 196.70 | 2000 |
+| 44 | France | 189.00 | 2005 |
+| 45 | Germany | 188.00 | 2005 |
+| 46 | Angola | 184.00 | 1987 |
+| 47 | Sweden | 179.00 | 2005 |
+| 48 | Italy | 175.00 | 2005 |
+| 49 | Iceland | 170.00 | 2005 |
+| 50 | Gabon | 164.00 | 1987 |
+| 51 | United Kingdom | 160.60 | 2005 |
+| 52 | Sierra Leone | 160.00 | 1987 |
+| 53 | Sudan | 154.00 | 1997 |
+| 54 | Panama | 148.00 | 2000 |
+| 55 | Central African Republic | 144.40 | 2003 |
+| 56 | Ukraine | 139.50 | 1997 |
+| 57 | Uruguay | 139.00 | 2000 |
+| 58 | Iran | 137.50 | 1997 |
+| 59 | Suriname | 122.00 | 2003 |
+| 60 | Hungary | 120.00 | 2005 |
+| 61 | Costa Rica | 112.40 | 2000 |
+| 62 | Guatemala | 111.30 | 2000 |
+| 63 | Spain | 111.10 | 2005 |
+| 64 | Ethiopia | 110.00 | 1987 |
+| 65 | Finland | 110.00 | 2005 |
+| 66 | Kazakhstan | 109.60 | 1997 |
+| 67 | Croatia | 105.50 | 1998 |
+| 68 | Zambia | 105.20 | 2001 |
+| 69 | Mali | 100.00 | 2001 |
+| 70 | Tajikistan | 99.70 | 1997 |
+| 71 | Iraq | 96.40 | 1997 |
+| 72 | Honduras | 95.90 | 2000 |
+| 73 | Bhutan | 95.00 | 1987 |
+| 74 | Tanzania | 91.00 | 2001 |
+| 75 | Netherlands | 89.70 | 2005 |
+| 76 | Egypt | 86.80 | 1997 |
+| 77 | Austria | 84.00 | 2005 |
+| 78 | Cote d'Ivoire | 81.00 | 2001 |
+| 79 | Korea, North | 77.10 | 1999 |
+| 80 | Portugal | 73.60 | 2005 |
+| 81 | Uzbekistan | 72.20 | 2003 |
+| 82 | Greece | 72.00 | 2005 |
+| 83 | Korea, South | 69.70 | 1999 |
+| 84 | Taiwan | 67.00 | 2000 |
+| 85 | Uganda | 66.00 | 1970 |
+| 86 | Afghanistan | 65.00 | 1997 |
+| 87 | Georgia | 63.30 | 1997 |
+| 88 | Poland | 63.10 | 2005 |
+| 89 | Turkmenistan | 60.90 | 1997 |
+| 90 | Belarus | 58.00 | 1997 |
+| 91 | Switzerland | 53.30 | 2005 |
+| 92 | Ghana | 53.20 | 2001 |
+| 93 | Slovakia | 50.10 | 2003 |
+| 94 | South Africa | 50.00 | 1990 |
+| 95 | Sri Lanka | 50.00 | 1999 |
+| 96 | Latvia | 49.90 | 2005 |
+| 97 | Ireland | 46.80 | 2003 |
+| 98 | Kyrgyzstan | 46.50 | 1997 |
+| 99 | Syria | 46.10 | 1997 |
+| 100 | Namibia | 45.50 | 1991 |
+| 101 | Solomon Islands | 44.70 | 1987 |
+| 102 | Chad | 43.00 | 1987 |
+| 103 | Romania | 42.30 | 2003 |
+| 104 | Albania | 41.70 | 2001 |
+| 105 | Senegal | 39.40 | 1987 |
+| 106 | Cuba | 38.10 | 2000 |
+| 107 | Bosnia and Herzegovina | 37.50 | 2003 |
+| 108 | Mongolia | 34.80 | 1999 |
+| 109 | Niger | 33.70 | 2003 |
+| 110 | Slovenia | 32.10 | 2005 |
+| 111 | Guinea-Bissau | 31.00 | 2003 |
+| 112 | Azerbaijan | 30.30 | 1997 |
+| 113 | Kenya | 30.20 | 1990 |
+| 114 | Morocco | 29.00 | 2003 |
+| 115 | Fiji | 28.60 | 1987 |
+| 116 | Equatorial Guinea | 26.00 | 2001 |
+| 117 | Benin | 25.80 | 2001 |
+| 118 | El Salvador | 25.20 | 2001 |
+| 119 | Lithuania | 24.50 | 2005 |
+| 120 | Estonia | 21.10 | 2005 |
+| 121 | Dominican Republic | 21.00 | 2000 |
+| 122 | Belgium | 20.80 | 2005 |
+| 123 | Zimbabwe | 20.00 | 1987 |
+| 124 | Bulgaria | 19.40 | 2005 |
+| 125 | Belize | 18.60 | 2000 |
+| 126 | Burkina Faso | 17.50 | 2001 |
+| 127 | Malawi | 17.30 | 2001 |
+| 128 | Czech Republic | 16.00 | 2005 |
+| 129 | Somalia | 15.70 | 1997 |
+| 130 | Botswana | 14.70 | 2001 |
+| 131 | Togo | 14.70 | 2001 |
+| 132 | Algeria | 14.30 | 1997 |
+| 133 | Haiti | 14.00 | 2000 |
+| 134 | Moldova | 11.70 | 1997 |
+| 135 | Mauritania | 11.40 | 1997 |
+| 136 | Armenia | 10.50 | 1997 |
+| 137 | Jamaica | 9.40 | 2000 |
+| 138 | Brunei | 8.50 | 1999 |
+| 139 | Gambia, The | 8.00 | 1982 |
+| 140 | Macedonia | 6.40 | 2001 |
+| 141 | Eritrea | 6.30 | 2001 |
+| 142 | Denmark | 6.10 | 2003 |
+| 143 | Rwanda | 5.20 | 2003 |
+| 144 | Lesotho | 5.20 | 1987 |
+| 145 | Lebanon | 4.80 | 1997 |
+| 146 | Tunisia | 4.60 | 2003 |
+| 147 | Swaziland | 4.50 | 1987 |
+| 148 | Yemen | 4.10 | 1997 |
+| 149 | Trinidad and Tobago | 3.80 | 2000 |
+| 150 | Burundi | 3.60 | 1987 |
+| 151 | Saudi Arabia | 2.40 | 1997 |
+| 152 | Mauritius | 2.20 | 2001 |
+| 153 | Israel | 1.70 | 2001 |
+| 154 | Luxembourg | 1.60 | 2005 |
+| 155 | Comoros | 1.20 | 2003 |
+| 156 | Oman | 1.00 | 1997 |
+| 157 | Jordan | 0.90 | 1997 |
+| 158 | Libya | 0.60 | 1997 |
+| 159 | Singapore | 0.60 | 1975 |
+| 160 | Cyprus | 0.40 | 2005 |
+| 161 | Djibouti | 0.30 | 1997 |
+| 162 | Cape Verde | 0.30 | 1990 |
+| 163 | United Arab Emirates | 0.20 | 1997 |
+| 164 | Qatar | 0.10 | 1997 |
+| 165 | Barbados | 0.10 | 2003 |
+| 166 | Bahrain | 0.10 | 1997 |
+| 167 | Antigua and Barbuda | 0.10 | 2000 |
+| 168 | Malta | 0.07 | 2005 |
+| 169 | Maldives | 0.03 | 1999 |
+| 170 | Kuwait | 0.02 | 1997 |
+| 171 | Saint Kitts and Nevis | 0.02 | 2000 |

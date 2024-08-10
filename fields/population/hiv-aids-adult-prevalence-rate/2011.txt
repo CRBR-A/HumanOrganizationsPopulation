@@ -1,0 +1,175 @@
+CIA - The World Factbook --  HIV/AIDS - adult prevalence rate   
+
+This entry gives an estimate of the percentage of adults (aged 15-49) living with HIV/AIDS. The adult prevalence rate is calculated by dividing the estimated number of adults living with HIV/AIDS at yearend by the total adult population at yearend.
+
+| Rank | country | (%) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Swaziland | 25.90 | 2009 est. |
+| 2 | Botswana | 24.80 | 2009 est. |
+| 3 | Lesotho | 23.60 | 2009 est. |
+| 4 | South Africa | 17.80 | 2009 est. |
+| 5 | Zimbabwe | 14.30 | 2009 est. |
+| 6 | Zambia | 13.50 | 2009 est. |
+| 7 | Namibia | 13.10 | 2009 est. |
+| 8 | Mozambique | 11.50 | 2009 est. |
+| 9 | Malawi | 11.00 | 2009 est. |
+| 10 | Uganda | 6.50 | 2009 est. |
+| 11 | Kenya | 6.30 | 2009 est. |
+| 12 | Tanzania | 5.60 | 2009 est. |
+| 13 | Cameroon | 5.30 | 2009 est. |
+| 14 | Gabon | 5.20 | 2009 est. |
+| 15 | Equatorial Guinea | 5.00 | 2009 est. |
+| 16 | Central African Republic | 4.70 | 2009 est. |
+| 17 | Nigeria | 3.60 | 2009 est. |
+| 18 | Congo, Republic of the | 3.40 | 2009 est. |
+| 19 | Chad | 3.40 | 2009 est. |
+| 20 | Cote d'Ivoire | 3.40 | 2009 est. |
+| 21 | Burundi | 3.30 | 2009 est. |
+| 22 | Togo | 3.20 | 2009 est. |
+| 23 | Bahamas, The | 3.10 | 2009 est. |
+| 24 | South Sudan | 3.10 | 2009 est. |
+| 25 | Rwanda | 2.90 | 2009 est. |
+| 26 | Guinea-Bissau | 2.50 | 2009 est. |
+| 27 | Djibouti | 2.50 | 2009 est. |
+| 28 | Belize | 2.30 | 2009 est. |
+| 29 | Gambia, The | 2.00 | 2009 est. |
+| 30 | Angola | 2.00 | 2009 est. |
+| 31 | Haiti | 1.90 | 2009 est. |
+| 32 | Ghana | 1.80 | 2009 est. |
+| 33 | Jamaica | 1.70 | 2009 est. |
+| 34 | Sierra Leone | 1.60 | 2009 est. |
+| 35 | Trinidad and Tobago | 1.50 | 2009 est. |
+| 36 | Liberia | 1.50 | 2009 est. |
+| 37 | Barbados | 1.40 | 2009 est. |
+| 38 | Thailand | 1.30 | 2009 est. |
+| 39 | Guinea | 1.30 | 2009 est. |
+| 40 | Guyana | 1.20 | 2009 est. |
+| 41 | Benin | 1.20 | 2009 est. |
+| 42 | Burkina Faso | 1.20 | 2009 est. |
+| 43 | Estonia | 1.20 | 2009 est. |
+| 44 | Ukraine | 1.10 | 2009 est. |
+| 45 | Sudan | 1.10 | 2009 est. |
+| 46 | Russia | 1.00 | 2009 est. |
+| 47 | Mauritius | 1.00 | 2009 est. |
+| 48 | Mali | 1.00 | 2009 est. |
+| 49 | Suriname | 1.00 | 2009 est. |
+| 50 | Papua New Guinea | 0.90 | 2009 est. |
+| 51 | Dominican Republic | 0.90 | 2009 est. |
+| 52 | Panama | 0.90 | 2009 est. |
+| 53 | Senegal | 0.90 | 2009 est. |
+| 54 | El Salvador | 0.80 | 2009 est. |
+| 55 | Eritrea | 0.80 | 2009 est. |
+| 56 | Niger | 0.80 | 2009 est. |
+| 57 | Honduras | 0.80 | 2009 est. |
+| 58 | Guatemala | 0.80 | 2009 est. |
+| 59 | Latvia | 0.70 | 2009 est. |
+| 60 | Mauritania | 0.70 | 2009 est. |
+| 61 | Somalia | 0.70 | 2009 est. |
+| 62 | Burma | 0.60 | 2009 est. |
+| 63 | Portugal | 0.60 | 2009 est. |
+| 64 | United States | 0.60 | 2009 est. |
+| 65 | Colombia | 0.50 | 2009 est. |
+| 66 | Argentina | 0.50 | 2009 est. |
+| 67 | Uruguay | 0.50 | 2009 est. |
+| 68 | Malaysia | 0.50 | 2009 est. |
+| 69 | Cambodia | 0.50 | 2009 est. |
+| 70 | Peru | 0.40 | 2009 est. |
+| 71 | Nepal | 0.40 | 2009 est. |
+| 72 | Switzerland | 0.40 | 2009 est. |
+| 73 | Vietnam | 0.40 | 2009 est. |
+| 74 | Ecuador | 0.40 | 2009 est. |
+| 75 | France | 0.40 | 2009 est. |
+| 76 | Chile | 0.40 | 2009 est. |
+| 77 | Spain | 0.40 | 2009 est. |
+| 78 | Moldova | 0.40 | 2009 est. |
+| 79 | Mexico | 0.30 | 2009 est. |
+| 80 | Luxembourg | 0.30 | 2009 est. |
+| 81 | Libya | 0.30 | 2001 est. |
+| 82 | Kyrgyzstan | 0.30 | 2009 est. |
+| 83 | Italy | 0.30 | 2009 est. |
+| 84 | India | 0.30 | 2009 est. |
+| 85 | Iceland | 0.30 | 2009 est. |
+| 86 | Costa Rica | 0.30 | 2009 est. |
+| 87 | Canada | 0.30 | 2009 est. |
+| 88 | Bermuda | 0.30 | 2005 |
+| 89 | Belarus | 0.30 | 2009 est. |
+| 90 | Austria | 0.30 | 2009 est. |
+| 91 | Paraguay | 0.30 | 2009 est. |
+| 92 | Madagascar | 0.20 | 2009 est. |
+| 93 | Netherlands | 0.20 | 2009 est. |
+| 94 | Israel | 0.20 | 2009 est. |
+| 95 | Bahrain | 0.20 | 2001 est. |
+| 96 | Ireland | 0.20 | 2009 est. |
+| 97 | Iran | 0.20 | 2009 est. |
+| 98 | Indonesia | 0.20 | 2009 est. |
+| 99 | Denmark | 0.20 | 2009 est. |
+| 100 | Bolivia | 0.20 | 2009 est. |
+| 101 | Bhutan | 0.20 | 2009 est. |
+| 102 | Tajikistan | 0.20 | 2009 est. |
+| 103 | United Arab Emirates | 0.20 | 2001 est. |
+| 104 | United Kingdom | 0.20 | 2009 est. |
+| 105 | Belgium | 0.20 | 2009 est. |
+| 106 | Nicaragua | 0.20 | 2009 est. |
+| 107 | Laos | 0.20 | 2009 est. |
+| 108 | Algeria | 0.10 | 2009 est. |
+| 109 | Algeria | 0.10 | 2009 est. |
+| 110 | Armenia | 0.10 | 2009 est. |
+| 111 | Australia | 0.10 | 2009 est. |
+| 112 | Azerbaijan | 0.10 | 2009 est. |
+| 113 | Bangladesh | 0.10 | 2009 est. |
+| 114 | Bosnia and Herzegovina | 0.10 | 2007 est. |
+| 115 | Brunei | 0.10 | 2003 est. |
+| 116 | Bulgaria | 0.10 | 2009 est. |
+| 117 | China | 0.10 | 2009 est. |
+| 118 | Comoros | 0.10 | 2009 est. |
+| 119 | Croatia | 0.10 | 2009 est. |
+| 120 | Cuba | 0.10 | 2009 est. |
+| 121 | Cyprus | 0.10 | 2003 est. |
+| 122 | Czech Republic | 0.10 | 2009 est. |
+| 123 | Egypt | 0.10 | 2009 est. |
+| 124 | Fiji | 0.10 | 2009 est. |
+| 125 | Finland | 0.10 | 2009 est. |
+| 126 | Georgia | 0.10 | 2009 est. |
+| 127 | Germany | 0.10 | 2009 est. |
+| 128 | Greece | 0.10 | 2009 est. |
+| 129 | Hong Kong | 0.10 | 2003 est. |
+| 130 | Hungary | 0.10 | 2009 est. |
+| 131 | Iraq | 0.10 | 2001 est. |
+| 132 | Japan | 0.10 | 2009 est. |
+| 133 | Jordan | 0.10 | 2001 est. |
+| 134 | Kazakhstan | 0.10 | 2009 est. |
+| 135 | Korea, South | 0.10 | 2009 est. |
+| 136 | Kuwait | 0.10 | 2001 est. |
+| 137 | Lebanon | 0.10 | 2009 est. |
+| 138 | Lithuania | 0.10 | 2009 est. |
+| 139 | Macedonia | 0.10 | 2007 est. |
+| 140 | Maldives | 0.10 | 2009 est. |
+| 141 | Malta | 0.10 | 2009 est. |
+| 142 | Mongolia | 0.10 | 2009 est. |
+| 143 | Morocco | 0.10 | 2009 est. |
+| 144 | New Zealand | 0.10 | 2009 est. |
+| 145 | Norway | 0.10 | 2009 est. |
+| 146 | Oman | 0.10 | 2009 est. |
+| 147 | Pakistan | 0.10 | 2009 est. |
+| 148 | Philippines | 0.10 | 2009 est. |
+| 149 | Poland | 0.10 | 2009 est. |
+| 150 | Poland | 0.10 | 2009 est. |
+| 151 | Qatar | 0.10 | 2009 est. |
+| 152 | Romania | 0.10 | 2009 est. |
+| 153 | Serbia | 0.10 | 2009 est. |
+| 154 | Singapore | 0.10 | 2009 est. |
+| 155 | Slovakia | 0.10 | 2009 est. |
+| 156 | Slovenia | 0.10 | 2009 est. |
+| 157 | Sri Lanka | 0.10 | 2009 est. |
+| 158 | Sweden | 0.10 | 2009 est. |
+| 159 | Syria | 0.10 | 2001 est. |
+| 160 | Tunisia | 0.10 | 2009 est. |
+| 161 | Turkey | 0.10 | 2009 est. |
+| 162 | Turkey | 0.10 | 2009 est. |
+| 163 | Turkmenistan | 0.10 | 2007 est. |
+| 164 | Uzbekistan | 0.10 | 2009 est. |
+| 165 | Yemen | 0.10 | 2001 est. |
+| 166 | Cape Verde | 0.04 | NA |
+| 167 | Saudi Arabia | 0.01 | 2001 est. |
+| 168 | Afghanistan | 0.01 | 2001 est. |
+| 169 | Svalbard | 0.00 | 2001 |

@@ -1,0 +1,27 @@
+Telephone Code: 671
+Local Emergency Phone: 911 (USA)
+Climate: Tropical marine; generally warm and humid, moderated by northeast trade winds; dry season (January to June), rainy season (July to December); little seasonal temperature variation
+Currency (Code): US $ (USD)
+Electricity: 110 V
+Voltage: 60 Hz
+Plug types(s): A, B
+Major Languages: English, Filipino, Chamorro, other Pacific island languages, Asian languages
+Major Religions: Christian (predominantly Roman Catholic) 94.2%, folk religions 1.5%, Buddhist 1.1%
+Time Difference: UTC+10 (15 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Yes
+International Driving Permit: Suggested for non-US citizens.
+Road Driving Side: Right
+Tourist Destinations: Chamorro Village; Guam Museum; Dulce Nombre de Maria Cathedral Basilica; Fort Apugan; Latte Stone Park; Ritidian Point; Two Lover's Point; War in the Pacific National Historic Park (includes Apaca Point)
+Major Sports: Soccer, basketball, rugby
+Cultural Practices: Respect for family, community, and elders are major components of traditional Chamorro culture. Island culture has also been heavily influenced by both Spanish and American customs. The latter are pervasive in government and the media. Korean, Micronesian, Filipino, Chinese and Japanese immigrants have also enriched Guam's culture.
+Tipping Guidelines: Tipping is common practice in the same way as it is in the US.
+Souvenirs: Marmar flower headbands, woven baskets, shell necklaces and beaded jewelry, sarongs, machetes with carved wooden handles, natural beauty products
+Traditional Cuisine: Kelaguen --- a seafood, fish, or meat dish served either as a main course, appetizer, or side dish; the ingredients are typically marinated in a combination of lemon juice, salt, and hot peppers and sometimes enriched with grated fresh coconut
+
+---
+country: Guam
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Guam/travel-facts>
+license: public domain (U.S.)
+...

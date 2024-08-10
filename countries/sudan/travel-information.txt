@@ -1,0 +1,27 @@
+Telephone Code: 249
+Local Emergency Phone: Local numbers only
+Climate: Hot and dry; arid desert; rainy season varies by region (April to November)
+Currency (Code): Sudanese pounds (SDG)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, D
+Major Languages: Arabic, English, Nubian, Ta Bedawie, Fur
+Major Religions: Sunni Muslim, small Christian minority
+Time Difference: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Gebel Barkal & Napata; Archaeological Sites of the "Island of Meroe"; Sanganeb Marine National Park & Dungonalo Bay on Mukkawar Island
+Major Sports: Soccer, basketball, track and field
+Cultural Practices: It is considered rude to not remove one's shoes before entering a household.
+Tipping Guidelines: Tipping is not customary.
+Souvenirs: Ebony carved items, basketwork, tribal art, gold and silver jewelry, spices
+Traditional Cuisine: Ful Medames --- a vegetarian dish typically made with fava beans and served with toppings such as tomatoes, greens, feta, red onions, hard-boiled eggs, or shata (hot sauce)
+
+---
+country: Sudan
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Sudan/travel-facts>
+license: public domain (U.S.)
+...

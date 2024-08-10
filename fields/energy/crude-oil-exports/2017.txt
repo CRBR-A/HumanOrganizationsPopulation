@@ -1,0 +1,224 @@
+CIA - The World Factbook --  CRUDE OIL - EXPORTS
+
+Crude oil - exports is the total amount of crude oil exported, in barrels per day (bbl/day).
+
+| Rank | Country | (BBL/DAY) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Saudi Arabia | 7,273,000 | 2014 est. |
+| 2 | Russia | 5,116,000 | 2016 est. |
+| 3 | Iraq | 2,792,000 | 2014 est. |
+| 4 | United Arab Emirates | 2,684,000 | 2014 est. |
+| 5 | Canada | 2,671,000 | 2016 est. |
+| 6 | Nigeria | 2,279,000 | 2014 est. |
+| 7 | Nepal | 2,016,000 | 1 |
+| 8 | Angola | 1,700,000 | 2014 est. |
+| 9 | Kuwait | 1,656,000 | 2014 est. |
+| 10 | Venezuela | 1,514,000 | 2014 est. |
+| 11 | Norway | 1,395,000 | 2016 est. |
+| 12 | Iran | 1,342,000 | 2014 est. |
+| 13 | Kazakhstan | 1,292,000 | 2016 est. |
+| 14 | Qatar | 1,255,000 | 2014 est. |
+| 15 | Mexico | 1,224,000 | 2016 est. |
+| 16 | Algeria | 798,900 | 2014 est. |
+| 17 | Oman | 745,800 | 2014 est. |
+| 18 | Azerbaijan | 721,600 | 2014 est. |
+| 19 | Colombia | 681,900 | 2014 est. |
+| 20 | United Kingdom | 636,200 | 2016 est. |
+| 21 | United States | 590,900 | 2016 est. |
+| 22 | Brazil | 518,800 | 2014 est. |
+| 23 | Ecuador | 400,700 | 2014 est. |
+| 24 | Libya | 383,500 | 2014 est. |
+| 25 | Malaysia | 310,900 | 2014 est. |
+| 26 | Indonesia | 289,300 | 2014 est. |
+| 27 | Equatorial Guinea | 278,000 | 2014 est. |
+| 28 | Congo, Republic of the | 254,400 | 2014 est. |
+| 29 | Australia | 213,600 | 2016 est. |
+| 30 | Gabon | 202,000 | 2014 est. |
+| 31 | Egypt | 197,700 | 2014 est. |
+| 32 | Vietnam | 183,600 | 2014 est. |
+| 33 | South Sudan | 155,200 | 2014 est. |
+| 34 | Sudan | 152,100 | 2014 est. |
+| 35 | Brunei | 119,500 | 2014 est. |
+| 36 | Chad | 105,000 | 2014 est. |
+| 37 | Ghana | 99,890 | 2015 est. |
+| 38 | Denmark | 78,370 | 2016 est. |
+| 39 | Timor-Leste | 74,230 | 2014 est. |
+| 40 | Cameroon | 64,290 | 2014 est. |
+| 41 | Turkmenistan | 62,880 | 2014 est. |
+| 42 | Yemen | 49,590 | 2014 est. |
+| 43 | Tunisia | 46,370 | 2014 est. |
+| 44 | Argentina | 38,600 | 2014 est. |
+| 45 | Cote d'Ivoire | 34,720 | 2014 est. |
+| 46 | Trinidad and Tobago | 32,620 | 2014 est. |
+| 47 | China | 32,000 | 2014 est. |
+| 48 | Belarus | 31,770 | 2014 est. |
+| 49 | New Zealand | 30,560 | 2016 est. |
+| 50 | Uzbekistan | 27,000 | 2014 est. |
+| 51 | Congo, Democratic Republic of the | 20,000 | 2014 est. |
+| 52 | Albania | 19,100 | 2014 est. |
+| 53 | Papua New Guinea | 17,400 | 2014 est. |
+| 54 | Svalbard | 16,070 | 2012 est. |
+| 55 | Peru | 15,560 | 2014 est. |
+| 56 | Mongolia | 14,360 | 2014 est. |
+| 57 | Thailand | 12,200 | 2014 est. |
+| 58 | Italy | 11,610 | 2016 est. |
+| 59 | Singapore | 11,460 | 2014 est. |
+| 60 | Guatemala | 7,407 | 2016 est. |
+| 61 | Mauritania | 6,750 | 2014 est. |
+| 62 | Netherlands | 6,335 | 2016 est. |
+| 63 | Philippines | 4,942 | 2016 est. |
+| 64 | Poland | 4,520 | 2016 est. |
+| 65 | Greece | 3,082 | 2016 est. |
+| 66 | Belize | 3,000 | 2014 est. |
+| 67 | Burma | 2,814 | 2014 est. |
+| 68 | Germany | 1,987 | 2016 est. |
+| 69 | Ukraine | 1,336 | 2014 est. |
+| 70 | Lithuania | 1,238 | 2014 est. |
+| 71 | Romania | 1,049 | 2014 est. |
+| 72 | Hungary | 1,042 | 2016 est. |
+| 73 | Georgia | 1,002 | 2014 est. |
+| 74 | Barbados | 765 | 2014 est. |
+| 75 | Czechia | 519 | 2016 est. |
+| 76 | Pakistan | 493 | 2014 est. |
+| 77 | Switzerland | 319 | 2016 est. |
+| 78 | Bangladesh | 313 | 2014 est. |
+| 79 | El Salvador | 220 | 2014 est. |
+| 80 | Macedonia | 142 | 2014 est. |
+| 81 | Slovakia | 130 | 2016 est. |
+| 82 | Tajikistan | 79 | 2014 est. |
+| 83 | Kyrgyzstan | 20 | 2014 est. |
+| 84 | Aruba | 0 | 2014 est. |
+| 85 | Antigua and Barbuda | 0 | 2014 est. |
+| 86 | Afghanistan | 0 | 2014 est. |
+| 87 | Armenia | 0 | 2014 est. |
+| 88 | Andorra | 0 | 2016 |
+| 89 | American Samoa | 0 | 2014 est. |
+| 90 | Austria | 0 | 2016 est. |
+| 91 | Bahrain | 0 | 2014 est. |
+| 92 | Botswana | 0 | 2014 est. |
+| 93 | Bermuda | 0 | 2014 est. |
+| 94 | Belgium | 0 | 2016 est. |
+| 95 | Bahamas, The | 0 | 2014 est. |
+| 96 | Bosnia and Herzegovina | 0 | 2014 est. |
+| 97 | Bolivia | 0 | 2014 est. |
+| 98 | Benin | 0 | 2014 est. |
+| 99 | Solomon Islands | 0 | 2014 est. |
+| 100 | Bhutan | 0 | 2014 est. |
+| 101 | Bulgaria | 0 | 2014 est. |
+| 102 | Burundi | 0 | 2014 est. |
+| 103 | Cambodia | 0 | 2014 est. |
+| 104 | Sri Lanka | 0 | 2014 est. |
+| 105 | Chile | 0 | 2016 est. |
+| 106 | Cayman Islands | 0 | 2014 est. |
+| 107 | Comoros | 0 | 2014 est. |
+| 108 | Costa Rica | 0 | 2014 est. |
+| 109 | Central African Republic | 0 | 2014 est. |
+| 110 | Cuba | 0 | 2014 est. |
+| 111 | Cabo Verde | 0 | 2014 est. |
+| 112 | Cook Islands | 0 | 2014 est. |
+| 113 | Cyprus | 0 | 2014 est. |
+| 114 | Djibouti | 0 | 2014 est. |
+| 115 | Dominica | 0 | 2014 est. |
+| 116 | Dominican Republic | 0 | 2014 est. |
+| 117 | Ireland | 0 | 2016 est. |
+| 118 | Estonia | 0 | 2016 est. |
+| 119 | Eritrea | 0 | 2014 est. |
+| 120 | Ethiopia | 0 | 2014 est. |
+| 121 | Finland | 0 | 2016 est. |
+| 122 | Fiji | 0 | 2014 est. |
+| 123 | Falkland Islands (Islas Malvinas) | 0 | 2014 est. |
+| 124 | Micronesia, Federated States of | 0 | 2014 |
+| 125 | Faroe Islands | 0 | 2014 est. |
+| 126 | French Polynesia | 0 | 2014 est. |
+| 127 | France | 0 | 2016 est. |
+| 128 | Gambia, The | 0 | 2014 est. |
+| 129 | Gibraltar | 0 | 2014 est. |
+| 130 | Grenada | 0 | 2014 est. |
+| 131 | Greenland | 0 | 2014 est. |
+| 132 | Guam | 0 | 2014 est. |
+| 133 | Guinea | 0 | 2014 est. |
+| 134 | Guyana | 0 | 2014 est. |
+| 135 | Haiti | 0 | 2014 est. |
+| 136 | Hong Kong | 0 | 2014 est. |
+| 137 | Honduras | 0 | 2014 est. |
+| 138 | Croatia | 0 | 2014 est. |
+| 139 | Iceland | 0 | 2016 est. |
+| 140 | India | 0 | 2014 est. |
+| 141 | Israel | 0 | 2016 est. |
+| 142 | Japan | 0 | 2016 est. |
+| 143 | Jamaica | 0 | 2014 est. |
+| 144 | Jordan | 0 | 2014 est. |
+| 145 | Kenya | 0 | 2014 est. |
+| 146 | Korea, North | 0 | 2014 est. |
+| 147 | Kiribati | 0 | 2014 est. |
+| 148 | Korea, South | 0 | 2016 est. |
+| 149 | Kosovo | 0 | 2014 est. |
+| 150 | Laos | 0 | 2014 est. |
+| 151 | Lebanon | 0 | 2014 est. |
+| 152 | Latvia | 0 | 2016 est. |
+| 153 | Liberia | 0 | 2014 est. |
+| 154 | Lesotho | 0 | 2014 est. |
+| 155 | Luxembourg | 0 | 2016 est. |
+| 156 | Madagascar | 0 | 2014 est. |
+| 157 | Macau | 0 | 2014 est. |
+| 158 | Moldova | 0 | 2014 est. |
+| 159 | Montserrat | 0 | 2014 est. |
+| 160 | Malawi | 0 | 2014 est. |
+| 161 | Montenegro | 0 | 2014 est. |
+| 162 | Mali | 0 | 2014 est. |
+| 163 | Morocco | 0 | 2014 est. |
+| 164 | Mauritius | 0 | 2014 est. |
+| 165 | Malta | 0 | 2014 est. |
+| 166 | Maldives | 0 | 2014 est. |
+| 167 | Mozambique | 0 | 2014 est. |
+| 168 | New Caledonia | 0 | 2014 est. |
+| 169 | Niue | 0 | 2014 est. |
+| 170 | Niger | 0 | 2014 est. |
+| 171 | Vanuatu | 0 | 2014 est. |
+| 172 | Nauru | 0 | 2014 est. |
+| 173 | Suriname | 0 | 2014 est. |
+| 174 | Nicaragua | 0 | 2014 est. |
+| 175 | Paraguay | 0 | 2014 est. |
+| 176 | Panama | 0 | 2014 est. |
+| 177 | Portugal | 0 | 2016 est. |
+| 178 | Guinea-Bissau | 0 | 2014 est. |
+| 179 | Serbia | 0 | 2016 est. |
+| 180 | Marshall Islands | 0 | 2014 est. |
+| 181 | Puerto Rico | 0 | 2014 est. |
+| 182 | Rwanda | 0 | 2014 est. |
+| 183 | Saint Pierre and Miquelon | 0 | 2014 est. |
+| 184 | Saint Kitts and Nevis | 0 | 2014 est. |
+| 185 | Seychelles | 0 | 2014 est. |
+| 186 | South Africa | 0 | 2014 est. |
+| 187 | Senegal | 0 | 2014 est. |
+| 188 | Saint Helena, Ascension, and Tristan da Cunha | 0 | 2014 est. |
+| 189 | Slovenia | 0 | 2016 est. |
+| 190 | Sierra Leone | 0 | 2014 est. |
+| 191 | Somalia | 0 | 2014 est. |
+| 192 | Spain | 0 | 2016 est. |
+| 193 | Saint Lucia | 0 | 2014 est. |
+| 194 | Sweden | 0 | 2016 est. |
+| 195 | Syria | 0 | 2014 est. |
+| 196 | Turks and Caicos Islands | 0 | 2014 est. |
+| 197 | Tonga | 0 | 2014 est. |
+| 198 | Togo | 0 | 2014 est. |
+| 199 | Sao Tome and Principe | 0 | 2014 est. |
+| 200 | Turkey | 0 | 2016 est. |
+| 201 | Tuvalu | 0 | 2014 |
+| 202 | Taiwan | 0 | 2016 est. |
+| 203 | Tanzania | 0 | 2014 est. |
+| 204 | Uganda | 0 | 2014 est. |
+| 205 | Burkina Faso | 0 | 2014 est. |
+| 206 | Uruguay | 0 | 2014 est. |
+| 207 | Saint Vincent and the Grenadines | 0 | 2014 est. |
+| 208 | British Virgin Islands | 0 | 2014 est. |
+| 209 | Virgin Islands | 0 | 2014 est. |
+| 210 | Namibia | 0 | 2014 est. |
+| 211 | West Bank | 0 | 2014 est. |
+| 212 | Western Sahara | 0 | 2014 est. |
+| 213 | Samoa | 0 | 2014 est. |
+| 214 | Swaziland | 0 | 2014 est. |
+| 215 | Zambia | 0 | 2014 est. |
+| 216 | Zimbabwe | 0 | 2014 est. |
+
+

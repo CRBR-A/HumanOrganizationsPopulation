@@ -1,0 +1,12 @@
+| Precautions | Depending on the area of Mexico to be visited, the US Department of State currently recommends US citizens follow a range of travel guidance from Exercise Normal Precautions to DO NOT TRAVEL. Violent crime such as homicide, kidnapping, carjacking, and robbery is widespread and common in Mexico. The U.S. government has limited ability to provide emergency services to U.S. citizens in many areas of Mexico, as travel by U.S. government employees to certain areas is prohibited or restricted. Consult the link below for updates to travel advisories and statements on safety, security, local laws, and special circumstances for specific destinations within the country.  <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html> |
+| Passport/Visa Requirements | US citizens should make sure their passport is valid at the date of their entering the country. They should also make sure they have at least 1 blank page in their passport for any entry stamp that will be required. A visa is not required if stay is less than 180 days. |
+| Vaccinations | See WHO recommendations  <http://www.who.int/> |
+| US Embassy/Consulate | (011- 52-55) 5080-2000; US Embassy in Mexico City, Paseo de la Reforma 305, Colonia Cuauhtemoc, 06500 Mexico, D.F.; ACSMexicoCity@state.gov; https://mx.usembassy.gov/ |
+
+---
+country: Mexico
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Mexico/travel-facts>
+license: public domain (U.S.)
+...

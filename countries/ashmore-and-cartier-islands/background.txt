@@ -1,0 +1,8 @@
+These uninhabited islands came under Australian authority in 1931; formal administration began two years later. Ashmore Reef supports a rich and diverse avian and marine habitat; in 1983, it became a National Nature Reserve. Cartier Island, a former bombing range, became a marine reserve in 2000.  
+
+---
+country: Ashmore and Cartier Islands
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Ashmore and Cartier Islands/>
+license: public domain (U.S.)
+...

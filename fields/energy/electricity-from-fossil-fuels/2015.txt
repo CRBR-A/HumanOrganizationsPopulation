@@ -1,0 +1,219 @@
+CIA - The World Factbook --  ELECTRICITY - FROM FOSSIL FUELS
+
+Electricity â€“ from fossil fuels measures the capacity of plants that generate electricity by burning fossil fuels (such as coal, petroleum products, and natural gas), expressed as a share of the country's total generating capacity.
+
+| Rank | Country | (% OF TOTAL INSTALLED CAPACITY) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Antigua and Barbuda | 100.0 | 2011 est. |
+| 2 | Yemen | 100.0 | 2011 est. |
+| 3 | American Samoa | 100.0 | 2011 est. |
+| 4 | Bahrain | 100.0 | 2011 est. |
+| 5 | Barbados | 100.0 | 2011 est. |
+| 6 | Botswana | 100.0 | 2011 est. |
+| 7 | Bahamas, The | 100.0 | 2011 est. |
+| 8 | Solomon Islands | 100.0 | 2011 est. |
+| 9 | Brunei | 100.0 | 2011 est. |
+| 10 | Chad | 100.0 | 2011 est. |
+| 11 | Cayman Islands | 100.0 | 2011 est. |
+| 12 | Djibouti | 100.0 | 2011 est. |
+| 13 | Gambia, The | 100.0 | 2011 est. |
+| 14 | Gibraltar | 100.0 | 2011 est. |
+| 15 | Greenland | 100.0 | 2011 est. |
+| 16 | Guam | 100.0 | 2011 est. |
+| 17 | Hong Kong | 100.0 | 2013 est. |
+| 18 | Kiribati | 100.0 | 2011 est. |
+| 19 | Kuwait | 100.0 | 2011 est. |
+| 20 | Liberia | 100.0 | 2011 est. |
+| 21 | Libya | 100.0 | 2011 est. |
+| 22 | Macau | 100.0 | 2013 est. |
+| 23 | Montserrat | 100.0 | 2011 est. |
+| 24 | Oman | 100.0 | 2011 est. |
+| 25 | Niue | 100.0 | 2011 est. |
+| 26 | Niger | 100.0 | 2011 est. |
+| 27 | Nauru | 100.0 | 2011 est. |
+| 28 | Guinea-Bissau | 100.0 | 2011 est. |
+| 29 | Qatar | 100.0 | 2011 est. |
+| 30 | Saudi Arabia | 100.0 | 2011 est. |
+| 31 | Seychelles | 100.0 | 2011 est. |
+| 32 | Saint Helena, Ascension, and Tristan da Cunha | 100.0 | 2011 est. |
+| 33 | Somalia | 100.0 | 2011 est. |
+| 34 | Saint Lucia | 100.0 | 2011 est. |
+| 35 | Turks and Caicos Islands | 100.0 | 2011 est. |
+| 36 | Tonga | 100.0 | 2011 est. |
+| 37 | Turkmenistan | 100.0 | 2011 est. |
+| 38 | British Virgin Islands | 100.0 | 2011 est. |
+| 39 | Virgin Islands | 100.0 | 2011 est. |
+| 40 | West Bank | 100.0 | 2011 est. |
+| 41 | Western Sahara | 100.0 | 2011 est. |
+| 42 | United Arab Emirates | 100.0 | 2011 est. |
+| 43 | Mongolia | 99.9 | 2011 est. |
+| 44 | Maldives | 99.9 | 2011 est. |
+| 45 | Trinidad and Tobago | 99.8 | 2011 est. |
+| 46 | Senegal | 99.7 | 2011 est. |
+| 47 | Belarus | 99.7 | 2011 est. |
+| 48 | Jordan | 99.6 | 2011 est. |
+| 49 | Benin | 99.4 | 2011 est. |
+| 50 | Cook Islands | 98.9 | 2011 est. |
+| 51 | Cuba | 98.8 | 2011 est. |
+| 52 | Eritrea | 98.7 | 2011 est. |
+| 53 | Grenada | 98.6 | 2011 est. |
+| 54 | Bermuda | 98.2 | 2012 est. |
+| 55 | Algeria | 98.0 | 2011 est. |
+| 56 | Saint Pierre and Miquelon | 97.7 | 2011 est. |
+| 57 | Bangladesh | 97.7 | 2013 est. |
+| 58 | Malta | 97.5 | 2013 est. |
+| 59 | Singapore | 97.4 | 2011 est. |
+| 60 | Israel | 97.4 | 2011 est. |
+| 61 | Puerto Rico | 97.2 | 2011 est. |
+| 62 | Tunisia | 97.1 | 2011 est. |
+| 63 | Moldova | 96.4 | 2013 est. |
+| 64 | Guyana | 96.0 | 2011 est. |
+| 65 | Comoros | 95.5 | 2011 est. |
+| 66 | Saint Kitts and Nevis | 95.2 | 2011 est. |
+| 67 | South Africa | 93.6 | 2011 est. |
+| 68 | Iraq | 92.0 | 2013 est. |
+| 69 | Jamaica | 91.7 | 2011 est. |
+| 70 | Poland | 91.5 | 2011 est. |
+| 71 | Estonia | 91.1 | 2011 est. |
+| 72 | Aruba | 90.6 | 2011 est. |
+| 73 | Equatorial Guinea | 90.2 | 2011 est. |
+| 74 | Falkland Islands (Islas Malvinas) | 90.0 | 2011 est. |
+| 75 | Egypt | 90.0 | 2011 est. |
+| 76 | Malaysia | 89.4 | 2011 est. |
+| 77 | Vanuatu | 89.3 | 2011 est. |
+| 78 | Syria | 89.2 | 2011 est. |
+| 79 | Thailand | 89.0 | 2012 est. |
+| 80 | Lithuania | 88.7 | 2011 est. |
+| 81 | Lebanon | 88.1 | 2011 est. |
+| 82 | Kazakhstan | 88.1 | 2011 est. |
+| 83 | Cyprus | 86.9 | 2011 est. |
+| 84 | Burkina Faso | 86.6 | 2011 est. |
+| 85 | Iran | 86.5 | 2011 est. |
+| 86 | Uzbekistan | 86.0 | 2011 est. |
+| 87 | Saint Vincent and the Grenadines | 85.1 | 2011 est. |
+| 88 | Netherlands | 85.1 | 2012 est. |
+| 89 | Indonesia | 84.7 | 2011 est. |
+| 90 | Azerbaijan | 84.4 | 2011 est. |
+| 91 | Taiwan | 81.6 | 2011 est. |
+| 92 | Dominican Republic | 81.4 | 2011 est. |
+| 93 | Australia | 79.7 | 2011 est. |
+| 94 | French Polynesia | 79.0 | 2011 est. |
+| 95 | Haiti | 77.3 | 2011 est. |
+| 96 | Ireland | 77.2 | 2011 est. |
+| 97 | New Caledonia | 76.8 | 2011 est. |
+| 98 | Luxembourg | 76.8 | 2011 est. |
+| 99 | United States | 76.3 | 2011 est. |
+| 100 | United Kingdom | 76.0 | 2012 est. |
+| 101 | Mexico | 75.7 | 2011 est. |
+| 102 | Mauritius | 75.6 | 2011 est. |
+| 103 | Sao Tome and Principe | 75.0 | 2011 est. |
+| 104 | Madagascar | 74.0 | 2011 est. |
+| 105 | Morocco | 73.2 | 2011 est. |
+| 106 | Korea, South | 72.4 | 2011 est. |
+| 107 | Samoa | 71.3 | 2011 est. |
+| 108 | Japan | 71.0 | 2011 est. |
+| 109 | Hungary | 70.7 | 2011 est. |
+| 110 | Russia | 69.2 | 2012 est. |
+| 111 | China | 69.1 | 2013 est. |
+| 112 | Cabo Verde | 68.4 | 2011 est. |
+| 113 | Argentina | 68.3 | 2011 est. |
+| 114 | Pakistan | 68.0 | 2011 est. |
+| 115 | India | 67.9 | 31 March 2012 est. |
+| 116 | Guinea | 67.8 | 2011 est. |
+| 117 | Nigeria | 67.1 | 2011 est. |
+| 118 | Mauritania | 66.9 | 2011 est. |
+| 119 | Macedonia | 66.4 | 2013 est. |
+| 120 | Greece | 66.3 | 2011 est. |
+| 121 | Italy | 66.3 | 2011 est. |
+| 122 | Philippines | 66.2 | 2011 est. |
+| 123 | Faroe Islands | 64.9 | 2011 est. |
+| 124 | Ukraine | 64.9 | 2011 est. |
+| 125 | Bolivia | 63.6 | 2012 est. |
+| 126 | Czech Republic | 63.6 | 2012 est. |
+| 127 | Cambodia | 63.0 | 2011 est. |
+| 128 | Turkey | 62.8 | 2011 est. |
+| 129 | Zimbabwe | 62.1 | 2011 est. |
+| 130 | Denmark | 61.5 | 2011 est. |
+| 131 | Andorra | 61.3 | 2010 est. |
+| 132 | Papua New Guinea | 61.1 | 2011 est. |
+| 133 | Chile | 60.6 | 2011 est. |
+| 134 | Cote d'Ivoire | 60.3 | 2011 est. |
+| 135 | Honduras | 60.0 | 2011 est. |
+| 136 | Swaziland | 59.7 | 2011 est. |
+| 137 | Peru | 59.6 | 2011 est. |
+| 138 | Gabon | 59.0 | 2011 est. |
+| 139 | Nicaragua | 57.6 | 2013 est. |
+| 140 | Serbia | 57.5 | 2013 est. |
+| 141 | Ecuador | 56.0 | 2011 est. |
+| 142 | Guatemala | 55.8 | 2011 est. |
+| 143 | Sri Lanka | 55.4 | 2011 est. |
+| 144 | Romania | 55.1 | 2012 est. |
+| 145 | Vietnam | 55.0 | 2012 est. |
+| 146 | Armenia | 54.9 | 2011 est. |
+| 147 | Suriname | 54.1 | 2011 est. |
+| 148 | El Salvador | 53.1 | 2011 est. |
+| 149 | Finland | 52.1 | 2011 est. |
+| 150 | Congo, Republic of the | 51.2 | 2012 est. |
+| 151 | Germany | 51.0 | 2012 est. |
+| 152 | European Union | 50.5 | 2011 est. |
+| 153 | Fiji | 49.0 | 2011 est. |
+| 154 | Portugal | 49.0 | 2011 est. |
+| 155 | Belize | 48.8 | 2011 est. |
+| 156 | Croatia | 48.8 | 2011 est. |
+| 157 | Mali | 48.4 | 2011 est. |
+| 158 | Bulgaria | 48.1 | 2011 est. |
+| 159 | Korea, North | 47.4 | 2011 est. |
+| 160 | Belgium | 46.3 | 2011 est. |
+| 161 | Ghana | 45.9 | 2011 est. |
+| 162 | Slovakia | 43.6 | 2011 est. |
+| 163 | Panama | 43.5 | 2011 est. |
+| 164 | Bosnia and Herzegovina | 43.3 | 2012 est. |
+| 165 | Central African Republic | 43.2 | 2011 est. |
+| 166 | Kenya | 43.2 | 2011 est. |
+| 167 | Spain | 43.0 | 2011 est. |
+| 168 | Uruguay | 41.6 | 2011 est. |
+| 169 | Rwanda | 39.9 | 2011 est. |
+| 170 | Angola | 39.6 | 2011 est. |
+| 171 | Georgia | 38.8 | 2011 est. |
+| 172 | Slovenia | 36.6 | 2012 est. |
+| 173 | Venezuela | 35.7 | 2012 est. |
+| 174 | Tanzania | 33.5 | 2011 est. |
+| 175 | Sierra Leone | 33.3 | 2011 est. |
+| 176 | Colombia | 32.4 | 2011 est. |
+| 177 | Namibia | 31.8 | 2013 est. |
+| 178 | Canada | 31.3 | 2011 est. |
+| 179 | New Zealand | 30.9 | 2011 est. |
+| 180 | Sudan | 30.7 | 2010 est. |
+| 181 | South Sudan | 30.7 | 2010 est. |
+| 182 | Costa Rica | 29.3 | 2011 est. |
+| 183 | Cameroon | 28.6 | 2011 est. |
+| 184 | Austria | 28.3 | 2011 est. |
+| 185 | Latvia | 26.5 | 2011 est. |
+| 186 | Burma | 26.1 | 2011 est. |
+| 187 | France | 24.7 | 2011 est. |
+| 188 | Montenegro | 24.2 | 2011 est. |
+| 189 | Afghanistan | 23.5 | 2011 est. |
+| 190 | Togo | 21.7 | 2011 est. |
+| 191 | Kyrgyzstan | 21.1 | 2011 est. |
+| 192 | Uganda | 21.0 | 2011 est. |
+| 193 | Dominica | 20.4 | 2011 est. |
+| 194 | Brazil | 18.8 | 2011 est. |
+| 195 | Mozambique | 10.3 | 2011 est. |
+| 196 | Ethiopia | 9.6 | 2011 est. |
+| 197 | Tajikistan | 9.0 | 2013 est. |
+| 198 | Nepal | 7.6 | 2011 est. |
+| 199 | Sweden | 7.1 | 2011 est. |
+| 200 | Albania | 5.6 | 2012 est. |
+| 201 | Norway | 4.6 | 2011 est. |
+| 202 | Iceland | 4.5 | 2011 est. |
+| 203 | Switzerland | 3.0 | 2011 est. |
+| 204 | Laos | 1.9 | 2011 est. |
+| 205 | Burundi | 1.9 | 2011 est. |
+| 206 | Congo, Democratic Republic of the | 1.4 | 2011 est. |
+| 207 | Bhutan | 0.7 | 2011 est. |
+| 208 | Zambia | 0.4 | 2011 est. |
+| 209 | Malawi | 0.3 | 2011 est. |
+| 210 | Paraguay | 0.1 | 2011 est. |
+| 211 | Lesotho | 0.0 | 2011 est. |
+
+

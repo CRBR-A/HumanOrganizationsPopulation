@@ -1,0 +1,29 @@
+Telephone Code: 62
+Local Emergency Phone - Ambulance: 118
+Local Emergency Phone - Fire: 113
+Local Emergency Phone - Police: 110
+Climate: Tropical; hot, humid; more moderate in highlands
+Currency (Code): Indonesian rupiah (IDR)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, F
+Major Languages: Bahasa Indonesia, English, Dutch, local dialects (Javanese); note: more than 700 languages are used in Indonesia
+Major Religions: Muslim 87.2%, Protestant 7%, Roman Catholic 2.9%, Hindu 1.7%, other 0.9% (includes Buddhist and Confucian)
+Time Difference: UTC+7 (12 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Left
+Tourist Destinations: Bali; Tongkonan architecture; Dayak villages; Lake Toba; Mount Krakatoa; Rinjani National Park; Pura Tanah Lot; Banda Islands; Sangiran Early Man Site; Borobudur Temple
+Major Sports: Soccer, badminton, basketball, boxing, surfing
+Cultural Practices: Aggressive body language such as hands on hips or crossed arms is considered to be in poor taste. Try to express dissatisfaction without loud body language.
+Tipping Guidelines: Tipping is not expected. Tipping 10-15% of the total bill is appropriate in restaurants, if not included in a service charge. Round up taxi fares. Tip porters, bellhops and housekeeping with loose change.
+Souvenirs: Batik and ikat fabrics; paper, silk, and light wood kites; silver items, woven basketware, bamboo items and wood carved bowls, furniture and antiques
+Traditional Cuisine: Nasi Goreng --- rice stir-fried with shrimp, shallots, and soy sauce and topped with a fried egg; often accompanied with a grilled sausage
+
+---
+country: 5, Jakarta 10110, Indonesia; jakartaacs@state.gov; https://id.usembassy.gov/ |
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/5, Jakarta 10110, Indonesia; jakartaacs@state.gov; https://id.usembassy.gov/ |/travel-facts>
+license: public domain (U.S.)
+...

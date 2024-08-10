@@ -1,0 +1,1044 @@
+CIA - The World Factbook --  Imports - partners   
+
+This entry provides a rank ordering of trading partners starting with the most important; it sometimes includes the percent of total dollar value.
+
+| Rank | country | (%) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Saint Lucia | 77.80 | 2010 |
+| 2 | Laos | 65.60 | 2010 |
+| 3 | Bermuda | 63.10 | 2010 |
+| 4 | Sao Tome and Principe | 61.00 | 2010 |
+| 5 | Kyrgyzstan | 61.00 | 2010 |
+| 6 | Mexico | 60.60 | 2010 |
+| 7 | Greenland | 59.50 | 2010 |
+| 8 | Zimbabwe | 58.00 | 2010 |
+| 9 | Nepal | 56.20 | 2010 |
+| 10 | Belarus | 51.80 | 2010 |
+| 11 | Faroe Islands | 51.10 | 2010 |
+| 12 | Haiti | 51.00 | 2010 est. |
+| 13 | Aruba | 50.80 | 2010 |
+| 14 | Honduras | 50.70 | 2010 |
+| 15 | Canada | 50.40 | 2010 |
+| 16 | Togo | 48.00 | 2010 |
+| 17 | Hong Kong | 45.10 | 2010 |
+| 18 | Dominica | 44.80 | 2010 |
+| 19 | Dominican Republic | 44.00 | 2010 |
+| 20 | Austria | 44.00 | 2010 |
+| 21 | Grenada | 43.70 | 2010 |
+| 22 | Papua New Guinea | 42.10 | 2010 |
+| 23 | Cape Verde | 41.60 | 2010 |
+| 24 | Malawi | 41.40 | 2010 |
+| 25 | Korea, North | 40.60 | 2010 |
+| 26 | Costa Rica | 40.10 | 2010 |
+| 27 | Saint Kitts and Nevis | 39.50 | 2010 |
+| 28 | Burma | 38.90 | 2010 |
+| 29 | Ireland | 37.70 | 2010 |
+| 30 | Liberia | 37.20 | 2010 |
+| 31 | Bermuda | 36.20 | 2010 |
+| 32 | Tajikistan | 35.30 | 2010 |
+| 33 | Benin | 35.20 | 2010 |
+| 34 | Cuba | 35.20 | 2010 |
+| 35 | Zambia | 35.00 | 2010 |
+| 36 | Guatemala | 34.60 | 2010 |
+| 37 | Argentina | 34.50 | 2010 |
+| 38 | Kazakhstan | 34.30 | 2010 |
+| 39 | Korea, North | 34.20 | 2010 |
+| 40 | Belize | 34.00 | 2010 |
+| 41 | Ukraine | 33.90 | 2010 |
+| 42 | Brunei | 33.50 | 2010 |
+| 43 | Mongolia | 33.20 | 2010 est. |
+| 44 | Lithuania | 32.90 | 2010 |
+| 45 | Jamaica | 32.60 | 2010 |
+| 46 | Barbados | 32.50 | 2010 |
+| 47 | El Salvador | 32.10 | 2010 |
+| 48 | Switzerland | 32.00 | 2010 |
+| 49 | New Caledonia | 31.80 | 2010 |
+| 50 | Tonga | 31.60 | 2010 |
+| 51 | Somalia | 31.50 | 2010 |
+| 52 | Luxembourg | 31.40 | 2010 |
+| 53 | Portugal | 31.30 | 2010 |
+| 54 | Macau | 31.10 | 2010 est. |
+| 55 | Fiji | 31.10 | 2010 |
+| 56 | Mongolia | 30.50 | 2010 est. |
+| 57 | Ecuador | 29.60 | 2010 |
+| 58 | Chad | 29.40 | 2010 |
+| 59 | Gabon | 29.40 | 2010 |
+| 60 | Poland | 29.10 | 2010 |
+| 61 | Afghanistan | 29.10 | 2010 |
+| 62 | Solomon Islands | 29.00 | 2010 |
+| 63 | Mozambique | 28.60 | 2010 |
+| 64 | Albania | 28.00 | 2010 est. |
+| 65 | Trinidad and Tobago | 27.80 | 2010 |
+| 66 | Central African Republic | 27.80 | 2010 |
+| 67 | Kazakhstan | 27.70 | 2010 |
+| 68 | Paraguay | 27.70 | 2010 |
+| 69 | Bolivia | 27.40 | 2010 |
+| 70 | Lesotho | 26.90 | 2010 |
+| 71 | Venezuela | 26.60 | 2010 |
+| 72 | Suriname | 26.60 | 2010 |
+| 73 | Cambodia | 26.50 | 2010 |
+| 74 | Liberia | 26.30 | 2010 |
+| 75 | Hungary | 26.10 | 2010 est. |
+| 76 | Burkina Faso | 26.10 | 2010 |
+| 77 | Czech Republic | 25.60 | 2010 est. |
+| 78 | Colombia | 25.50 | 2010 est. |
+| 79 | Uzbekistan | 25.40 | 2010 |
+| 80 | Panama | 25.30 | 2010 |
+| 81 | Oman | 25.10 | 2010 |
+| 82 | Cambodia | 25.10 | 2010 |
+| 83 | Luxembourg | 25.10 | 2010 |
+| 84 | Maldives | 24.70 | 2010 |
+| 85 | Barbados | 24.70 | 2010 |
+| 86 | Bahrain | 24.70 | 2010 |
+| 87 | Peru | 24.70 | 2010 |
+| 88 | Guyana | 24.20 | 2010 |
+| 89 | Iraq | 24.20 | 2010 |
+| 90 | Malta | 24.10 | 2010 |
+| 91 | Vietnam | 23.80 | 2010 est. |
+| 92 | Bahamas, The | 23.60 | 2010 |
+| 93 | Zambia | 23.50 | 2010 |
+| 94 | Tajikistan | 23.50 | 2010 |
+| 95 | Nicaragua | 23.40 | 2010 |
+| 96 | Afghanistan | 23.30 | 2010 |
+| 97 | Saint Vincent and the Grenadines | 23.30 | 2010 |
+| 98 | Burma | 23.20 | 2010 |
+| 99 | Guyana | 23.10 | 2010 |
+| 100 | Lesotho | 23.10 | 2010 |
+| 101 | Nepal | 22.50 | 2010 |
+| 102 | Faroe Islands | 22.40 | 2010 |
+| 103 | Cote d'Ivoire | 22.40 | 2010 |
+| 104 | Tonga | 22.30 | 2010 |
+| 105 | Gambia, The | 22.30 | 2010 |
+| 106 | Bosnia and Herzegovina | 22.20 | 2010 |
+| 107 | Bermuda | 22.20 | 2010 |
+| 108 | Armenia | 22.10 | 2010 |
+| 109 | Japan | 22.10 | 2010 |
+| 110 | Lesotho | 22.10 | 2010 |
+| 111 | Samoa | 21.80 | 2010 |
+| 112 | Guinea-Bissau | 21.80 | 2010 |
+| 113 | Sudan | 21.70 | 2010 |
+| 114 | Solomon Islands | 21.70 | 2010 |
+| 115 | Turkmenistan | 21.60 | 2010 |
+| 116 | Equatorial Guinea | 21.40 | 2010 |
+| 117 | Seychelles | 21.10 | 2010 |
+| 118 | Denmark | 21.10 | 2010 |
+| 119 | Greenland | 20.80 | 2010 |
+| 120 | Thailand | 20.80 | 2010 |
+| 121 | Taiwan | 20.70 | 2010 est. |
+| 122 | Guinea-Bissau | 20.50 | 2010 |
+| 123 | Tunisia | 20.40 | 2010 |
+| 124 | Mauritius | 20.30 | 2010 |
+| 125 | Tunisia | 20.20 | 2010 |
+| 126 | Turkmenistan | 20.00 | 2010 |
+| 127 | Brunei | 19.90 | 2010 |
+| 128 | Jordan | 19.80 | 2010 |
+| 129 | Panama | 19.60 | 2010 |
+| 130 | Rwanda | 19.60 | 2010 |
+| 131 | Congo, Republic of the | 19.60 | 2010 |
+| 132 | United States | 19.50 | 2010 |
+| 133 | Sri Lanka | 19.40 | 2010 |
+| 134 | France | 19.30 | 2010 |
+| 135 | Bahamas, The | 19.30 | 2010 |
+| 136 | Congo, Democratic Republic of the | 19.20 | 2010 |
+| 137 | Fiji | 19.10 | 2010 |
+| 138 | Cameroon | 19.10 | 2010 |
+| 139 | Belgium | 19.10 | 2010 |
+| 140 | Cyprus | 19.00 | 2010 |
+| 141 | Haiti | 19.00 | 2010 est. |
+| 142 | Slovakia | 18.90 | 2010 |
+| 143 | Bangladesh | 18.90 | 2010 |
+| 144 | Grenada | 18.80 | 2010 |
+| 145 | Australia | 18.70 | 2010 |
+| 146 | Iraq | 18.60 | 2010 |
+| 147 | Uruguay | 18.60 | 2010 est. |
+| 148 | Vanuatu | 18.40 | 2010 |
+| 149 | Slovakia | 18.30 | 2010 |
+| 150 | Sweden | 18.30 | 2010 |
+| 151 | New Zealand | 18.10 | 2010 |
+| 152 | Algeria | 18.00 | 2010 |
+| 153 | Djibouti | 18.00 | 2010 |
+| 154 | Pakistan | 17.90 | 2010 |
+| 155 | Korea, South | 17.90 | 2010 |
+| 156 | Niger | 17.80 | 2010 |
+| 157 | Azerbaijan | 17.70 | 2010 |
+| 158 | Cape Verde | 17.70 | 2010 |
+| 159 | Djibouti | 17.70 | 2010 |
+| 160 | Rwanda | 17.70 | 2010 |
+| 161 | Paraguay | 17.60 | 2010 |
+| 162 | Vanuatu | 17.60 | 2010 |
+| 163 | United Arab Emirates | 17.50 | 2010 |
+| 164 | Iran | 17.40 | 2010 |
+| 165 | Angola | 17.40 | 2010 |
+| 166 | Finland | 17.40 | 2010 |
+| 167 | Liberia | 17.30 | 2010 |
+| 168 | Bolivia | 17.30 | 2010 |
+| 169 | Uzbekistan | 17.30 | 2010 |
+| 170 | Tanzania | 17.30 | 2010 |
+| 171 | Kyrgyzstan | 17.20 | 2010 |
+| 172 | Maldives | 17.20 | 2010 |
+| 173 | Montenegro | 17.20 | 2009 |
+| 174 | Uganda | 17.10 | 2010 |
+| 175 | Saint Kitts and Nevis | 17.00 | 2010 |
+| 176 | Saint Vincent and the Grenadines | 17.00 | 2010 |
+| 177 | Chile | 17.00 | 2010 |
+| 178 | Morocco | 16.90 | 2010 |
+| 179 | Romania | 16.80 | 2010 |
+| 180 | Nicaragua | 16.70 | 2010 |
+| 181 | Iran | 16.70 | 2010 |
+| 182 | Uruguay | 16.70 | 2010 est. |
+| 183 | Paraguay | 16.60 | 2010 |
+| 184 | Samoa | 16.60 | 2010 |
+| 185 | Ghana | 16.60 | 2010 |
+| 186 | Niger | 16.50 | 2010 |
+| 187 | Belgium | 16.40 | 2010 |
+| 188 | Moldova | 16.30 | 2010 |
+| 189 | Libya | 16.30 | 2010 |
+| 190 | Latvia | 16.30 | 2010 |
+| 191 | Bulgaria | 16.30 | 2010 |
+| 192 | Korea, South | 16.20 | 2010 |
+| 193 | Italy | 16.20 | 2010 |
+| 194 | Samoa | 16.20 | 2010 |
+| 195 | Slovenia | 16.20 | 2010 |
+| 196 | Burkina Faso | 16.00 | 2010 |
+| 197 | Suriname | 16.00 | 2010 |
+| 198 | New Zealand | 16.00 | 2010 |
+| 199 | Bermuda | 15.90 | 2010 |
+| 200 | Senegal | 15.90 | 2010 |
+| 201 | Burundi | 15.80 | 2010 |
+| 202 | Eritrea | 15.70 | 2010 |
+| 203 | Estonia | 15.70 | 2010 |
+| 204 | Comoros | 15.60 | 2010 |
+| 205 | Comoros | 15.50 | 2010 |
+| 206 | Netherlands | 15.50 | 2010 |
+| 207 | Qatar | 15.50 | 2010 |
+| 208 | Slovenia | 15.50 | 2010 |
+| 209 | Moldova | 15.40 | 2010 |
+| 210 | Tanzania | 15.40 | 2010 |
+| 211 | Nigeria | 15.40 | 2010 |
+| 212 | Oman | 15.40 | 2010 |
+| 213 | Cambodia | 15.30 | 2010 |
+| 214 | Paraguay | 15.20 | 2010 |
+| 215 | Croatia | 15.20 | 2010 |
+| 216 | Fiji | 15.10 | 2010 |
+| 217 | Ethiopia | 15.10 | 2010 |
+| 218 | Indonesia | 15.10 | 2010 |
+| 219 | Suriname | 15.10 | 2010 |
+| 220 | Sri Lanka | 15.10 | 2010 |
+| 221 | Brazil | 15.00 | 2010 |
+| 222 | Georgia | 15.00 | 2010 |
+| 223 | Jamaica | 15.00 | 2010 |
+| 224 | Indonesia | 14.90 | 2010 |
+| 225 | Finland | 14.70 | 2010 |
+| 226 | Russia | 14.70 | 2010 |
+| 227 | Sierra Leone | 14.70 | 2010 |
+| 228 | Madagascar | 14.60 | 2010 |
+| 229 | Laos | 14.60 | 2010 |
+| 230 | Finland | 14.50 | 2010 |
+| 231 | Azerbaijan | 14.50 | 2010 |
+| 232 | Saint Vincent and the Grenadines | 14.50 | 2010 |
+| 233 | Jamaica | 14.50 | 2010 |
+| 234 | Montenegro | 14.40 | 2009 |
+| 235 | Iraq | 14.40 | 2010 |
+| 236 | Chad | 14.30 | 2010 |
+| 237 | Belize | 14.30 | 2010 |
+| 238 | United States | 14.20 | 2010 |
+| 239 | Taiwan | 14.20 | 2010 est. |
+| 240 | Morocco | 14.20 | 2010 |
+| 241 | Kuwait | 14.20 | 2010 |
+| 242 | Uganda | 14.10 | 2010 |
+| 243 | Philippines | 14.10 | 2010 |
+| 244 | Norway | 14.10 | 2010 |
+| 245 | New Caledonia | 14.10 | 2010 |
+| 246 | Brazil | 14.10 | 2010 |
+| 247 | Angola | 14.00 | 2010 |
+| 248 | United Arab Emirates | 14.00 | 2010 |
+| 249 | Uzbekistan | 13.90 | 2010 |
+| 250 | Argentina | 13.80 | 2010 |
+| 251 | Equatorial Guinea | 13.80 | 2010 |
+| 252 | Ireland | 13.80 | 2010 |
+| 253 | New Caledonia | 13.80 | 2010 |
+| 254 | Portugal | 13.80 | 2010 |
+| 255 | Denmark | 13.70 | 2010 |
+| 256 | Philippines | 13.60 | 2010 |
+| 257 | Senegal | 13.60 | 2010 |
+| 258 | Mali | 13.60 | 2010 |
+| 259 | Kenya | 13.60 | 2010 |
+| 260 | Chile | 13.60 | 2010 |
+| 261 | Bosnia and Herzegovina | 13.50 | 2010 |
+| 262 | Uruguay | 13.50 | 2010 est. |
+| 263 | Yemen | 13.50 | 2010 |
+| 264 | Russia | 13.50 | 2010 |
+| 265 | South Africa | 13.40 | 2010 |
+| 266 | Dominica | 13.40 | 2010 |
+| 267 | Kenya | 13.40 | 2010 |
+| 268 | Colombia | 13.40 | 2010 est. |
+| 269 | Cameroon | 13.30 | 2010 |
+| 270 | Thailand | 13.30 | 2010 |
+| 271 | Bosnia and Herzegovina | 13.30 | 2010 |
+| 272 | Papua New Guinea | 13.10 | 2010 |
+| 273 | United Kingdom | 13.10 | 2010 |
+| 274 | Samoa | 13.00 | 2010 |
+| 275 | Peru | 13.00 | 2010 |
+| 276 | Germany | 13.00 | 2009 |
+| 277 | Brunei | 13.00 | 2010 |
+| 278 | Albania | 13.00 | 2010 est. |
+| 279 | Djibouti | 12.90 | 2010 |
+| 280 | Burma | 12.90 | 2010 |
+| 281 | Vanuatu | 12.90 | 2010 |
+| 282 | Serbia | 12.80 | 2010 est. |
+| 283 | Israel | 12.80 | 2010 |
+| 284 | Ghana | 12.70 | 2010 |
+| 285 | Equatorial Guinea | 12.70 | 2010 |
+| 286 | Bangladesh | 12.70 | 2010 |
+| 287 | Spain | 12.60 | 2010 |
+| 288 | Cote d'Ivoire | 12.60 | 2010 |
+| 289 | Malaysia | 12.60 | 2010 est. |
+| 290 | Netherlands | 12.60 | 2010 |
+| 291 | Malaysia | 12.60 | 2010 est. |
+| 292 | China | 12.60 | 2010 |
+| 293 | Croatia | 12.50 | 2010 |
+| 294 | Congo, Democratic Republic of the | 12.50 | 2010 |
+| 295 | Indonesia | 12.50 | 2010 |
+| 296 | Saint Vincent and the Grenadines | 12.40 | 2010 |
+| 297 | India | 12.40 | 2010 |
+| 298 | Cameroon | 12.40 | 2010 |
+| 299 | Saudi Arabia | 12.40 | 2010 |
+| 300 | Norway | 12.40 | 2010 |
+| 301 | Mauritania | 12.30 | 2010 |
+| 302 | Panama | 12.30 | 2010 |
+| 303 | Chad | 12.20 | 2010 |
+| 304 | Yemen | 12.20 | 2010 |
+| 305 | Bahrain | 12.20 | 2010 |
+| 306 | Kosovo | 12.20 | 2009 |
+| 307 | Aruba | 12.00 | 2010 |
+| 308 | Estonia | 11.90 | 2010 |
+| 309 | Bolivia | 11.90 | 2010 |
+| 310 | Eritrea | 11.90 | 2010 |
+| 311 | Czech Republic | 11.90 | 2010 est. |
+| 312 | Central African Republic | 11.90 | 2010 |
+| 313 | Egypt | 11.80 | 2010 |
+| 314 | Guatemala | 11.80 | 2010 |
+| 315 | United States | 11.80 | 2010 |
+| 316 | Bulgaria | 11.80 | 2010 |
+| 317 | Congo, Republic of the | 11.70 | 2010 |
+| 318 | Singapore | 11.70 | 2010 |
+| 319 | Cuba | 11.70 | 2010 |
+| 320 | Romania | 11.60 | 2010 |
+| 321 | Luxembourg | 11.60 | 2010 |
+| 322 | Turkey | 11.60 | 2010 |
+| 323 | Vietnam | 11.60 | 2010 est. |
+| 324 | Estonia | 11.60 | 2010 |
+| 325 | Guinea | 11.50 | 2010 |
+| 326 | Trinidad and Tobago | 11.50 | 2010 |
+| 327 | Singapore | 11.50 | 2010 |
+| 328 | Macedonia | 11.50 | 2010 |
+| 329 | Spain | 11.50 | 2010 |
+| 330 | El Salvador | 11.50 | 2010 |
+| 331 | Liberia | 11.50 | 2010 |
+| 332 | Estonia | 11.50 | 2010 |
+| 333 | Malaysia | 11.40 | 2010 est. |
+| 334 | Madagascar | 11.40 | 2010 |
+| 335 | Latvia | 11.40 | 2010 |
+| 336 | France | 11.40 | 2010 |
+| 337 | Bosnia and Herzegovina | 11.40 | 2010 |
+| 338 | Argentina | 11.40 | 2010 |
+| 339 | Venezuela | 11.40 | 2010 |
+| 340 | Saint Lucia | 11.40 | 2010 |
+| 341 | New Caledonia | 11.40 | 2010 |
+| 342 | Mauritania | 11.40 | 2010 |
+| 343 | Bahamas, The | 11.30 | 2010 |
+| 344 | Belgium | 11.30 | 2010 |
+| 345 | Syria | 11.20 | 2010 |
+| 346 | South Africa | 11.20 | 2010 |
+| 347 | Saudi Arabia | 11.10 | 2010 |
+| 348 | Australia | 11.10 | 2010 |
+| 349 | Macedonia | 11.10 | 2010 |
+| 350 | Eritrea | 11.10 | 2010 |
+| 351 | Tonga | 11.00 | 2010 |
+| 352 | Canada | 11.00 | 2010 |
+| 353 | Haiti | 11.00 | 2010 est. |
+| 354 | Moldova | 11.00 | 2010 |
+| 355 | Lithuania | 11.00 | 2010 |
+| 356 | Mali | 11.00 | 2010 |
+| 357 | Equatorial Guinea | 10.90 | 2010 |
+| 358 | Mauritania | 10.80 | 2010 |
+| 359 | Vietnam | 10.80 | 2010 est. |
+| 360 | Tonga | 10.80 | 2010 |
+| 361 | Singapore | 10.80 | 2010 |
+| 362 | Jordan | 10.80 | 2010 |
+| 363 | Armenia | 10.70 | 2010 |
+| 364 | Gambia, The | 10.70 | 2010 |
+| 365 | Malaysia | 10.70 | 2010 est. |
+| 366 | Dominica | 10.70 | 2010 |
+| 367 | Pakistan | 10.70 | 2010 |
+| 368 | Sierra Leone | 10.70 | 2010 |
+| 369 | Mauritius | 10.60 | 2010 |
+| 370 | Greece | 10.60 | 2010 |
+| 371 | Algeria | 10.60 | 2010 |
+| 372 | Pakistan | 10.60 | 2010 |
+| 373 | Slovenia | 10.60 | 2010 |
+| 374 | Serbia | 10.60 | 2010 est. |
+| 375 | Macau | 10.50 | 2010 est. |
+| 376 | New Zealand | 10.50 | 2010 |
+| 377 | Lebanon | 10.40 | 2010 |
+| 378 | Egypt | 10.40 | 2010 |
+| 379 | Mauritius | 10.30 | 2010 |
+| 380 | Libya | 10.30 | 2010 |
+| 381 | Lebanon | 10.30 | 2010 |
+| 382 | Mozambique | 10.30 | 2010 |
+| 383 | Switzerland | 10.20 | 2010 |
+| 384 | Syria | 10.10 | 2010 |
+| 385 | Korea, South | 10.10 | 2010 |
+| 386 | Taiwan | 10.00 | 2010 est. |
+| 387 | Mali | 10.00 | 2010 |
+| 388 | Latvia | 10.00 | 2010 |
+| 389 | Panama | 10.00 | 2010 |
+| 390 | Gabon | 9.90 | 2010 |
+| 391 | Philippines | 9.90 | 2010 |
+| 392 | Japan | 9.90 | 2010 |
+| 393 | China | 9.90 | 2010 |
+| 394 | Greece | 9.90 | 2010 |
+| 395 | Algeria | 9.90 | 2010 |
+| 396 | Azerbaijan | 9.90 | 2010 |
+| 397 | Montenegro | 9.90 | 2009 |
+| 398 | Mauritius | 9.70 | 2010 |
+| 399 | Kenya | 9.70 | 2010 |
+| 400 | Libya | 9.70 | 2010 |
+| 401 | Nigeria | 9.70 | 2010 |
+| 402 | Gambia, The | 9.70 | 2010 |
+| 403 | Bolivia | 9.60 | 2010 |
+| 404 | Azerbaijan | 9.60 | 2010 |
+| 405 | Venezuela | 9.60 | 2010 |
+| 406 | Hong Kong | 9.60 | 2010 |
+| 407 | Greece | 9.60 | 2010 |
+| 408 | Cyprus | 9.50 | 2010 |
+| 409 | Turkey | 9.50 | 2010 |
+| 410 | Comoros | 9.50 | 2010 |
+| 411 | Kuwait | 9.50 | 2010 |
+| 412 | Kosovo | 9.50 | 2009 |
+| 413 | Ethiopia | 9.50 | 2010 |
+| 414 | Slovakia | 9.50 | 2010 |
+| 415 | Belize | 9.50 | 2010 |
+| 416 | Colombia | 9.40 | 2010 est. |
+| 417 | Turkey | 9.30 | 2010 |
+| 418 | Panama | 9.30 | 2010 |
+| 419 | Nigeria | 9.30 | 2010 |
+| 420 | Ecuador | 9.30 | 2010 |
+| 421 | Philippines | 9.30 | 2010 |
+| 422 | Gabon | 9.20 | 2010 |
+| 423 | Macau | 9.20 | 2010 est. |
+| 424 | Luxembourg | 9.20 | 2010 |
+| 425 | Congo, Democratic Republic of the | 9.20 | 2010 |
+| 426 | Turkmenistan | 9.20 | 2010 |
+| 427 | Georgia | 9.20 | 2010 |
+| 428 | Bermuda | 9.10 | 2010 |
+| 429 | Venezuela | 9.10 | 2010 |
+| 430 | Uruguay | 9.10 | 2010 est. |
+| 431 | United Kingdom | 9.10 | 2010 |
+| 432 | Tunisia | 9.10 | 2010 |
+| 433 | Sri Lanka | 9.10 | 2010 |
+| 434 | Cyprus | 9.00 | 2010 |
+| 435 | Iceland | 9.00 | 2010 |
+| 436 | Angola | 9.00 | 2010 |
+| 437 | Croatia | 9.00 | 2010 |
+| 438 | Qatar | 9.00 | 2010 |
+| 439 | Lithuania | 8.90 | 2010 |
+| 440 | Yemen | 8.90 | 2010 |
+| 441 | Zambia | 8.90 | 2010 |
+| 442 | Korea, North | 8.90 | 2010 |
+| 443 | Eritrea | 8.90 | 2010 |
+| 444 | Ethiopia | 8.80 | 2010 |
+| 445 | Congo, Democratic Republic of the | 8.80 | 2010 |
+| 446 | Nicaragua | 8.80 | 2010 |
+| 447 | Poland | 8.80 | 2010 |
+| 448 | Australia | 8.70 | 2010 |
+| 449 | Zimbabwe | 8.70 | 2010 |
+| 450 | Romania | 8.70 | 2010 |
+| 451 | Iceland | 8.70 | 2010 |
+| 452 | Fiji | 8.60 | 2010 |
+| 453 | Moldova | 8.60 | 2010 |
+| 454 | Malta | 8.60 | 2010 |
+| 455 | Maldives | 8.60 | 2010 |
+| 456 | Macau | 8.60 | 2010 est. |
+| 457 | Vanuatu | 8.60 | 2010 |
+| 458 | Senegal | 8.60 | 2010 |
+| 459 | Senegal | 8.60 | 2010 |
+| 460 | Switzerland | 8.50 | 2010 |
+| 461 | Sweden | 8.50 | 2010 |
+| 462 | Norway | 8.50 | 2010 |
+| 463 | Uganda | 8.50 | 2010 |
+| 464 | Malta | 8.50 | 2010 |
+| 465 | Serbia | 8.50 | 2010 est. |
+| 466 | Chile | 8.50 | 2010 |
+| 467 | Ukraine | 8.50 | 2010 |
+| 468 | Iceland | 8.50 | 2010 |
+| 469 | Congo, Republic of the | 8.50 | 2010 |
+| 470 | Georgia | 8.50 | 2010 |
+| 471 | Cuba | 8.50 | 2010 |
+| 472 | Italy | 8.50 | 2010 |
+| 473 | Suriname | 8.40 | 2010 |
+| 474 | Seychelles | 8.40 | 2010 |
+| 475 | Rwanda | 8.40 | 2010 |
+| 476 | Kenya | 8.40 | 2010 |
+| 477 | Ghana | 8.40 | 2010 |
+| 478 | Cyprus | 8.40 | 2010 |
+| 479 | Bermuda | 8.40 | 2010 |
+| 480 | Vietnam | 8.40 | 2010 est. |
+| 481 | Uruguay | 8.30 | 2010 est. |
+| 482 | Uzbekistan | 8.30 | 2010 |
+| 483 | Central African Republic | 8.30 | 2010 |
+| 484 | Macedonia | 8.30 | 2010 |
+| 485 | Netherlands | 8.30 | 2010 |
+| 486 | Sweden | 8.30 | 2010 |
+| 487 | Tajikistan | 8.30 | 2010 |
+| 488 | Togo | 8.30 | 2010 |
+| 489 | Uganda | 8.20 | 2010 |
+| 490 | Malta | 8.20 | 2010 |
+| 491 | Honduras | 8.20 | 2010 |
+| 492 | Germany | 8.20 | 2009 |
+| 493 | Finland | 8.20 | 2010 |
+| 494 | Vanuatu | 8.20 | 2010 |
+| 495 | Macedonia | 8.20 | 2010 |
+| 496 | El Salvador | 8.20 | 2010 |
+| 497 | Estonia | 8.20 | 2010 |
+| 498 | Somalia | 8.20 | 2010 |
+| 499 | Israel | 8.10 | 2010 |
+| 500 | Iceland | 8.10 | 2010 |
+| 501 | Chad | 8.10 | 2010 |
+| 502 | Ecuador | 8.10 | 2010 |
+| 503 | Maldives | 8.10 | 2010 |
+| 504 | Ukraine | 8.10 | 2010 |
+| 505 | Sudan | 8.00 | 2010 |
+| 506 | France | 8.00 | 2010 |
+| 507 | Cyprus | 8.00 | 2010 |
+| 508 | Congo, Republic of the | 8.00 | 2010 |
+| 509 | Benin | 8.00 | 2010 |
+| 510 | Bahamas, The | 8.00 | 2010 |
+| 511 | Brazil | 7.90 | 2010 |
+| 512 | Guatemala | 7.90 | 2010 |
+| 513 | Solomon Islands | 7.90 | 2010 |
+| 514 | Italy | 7.90 | 2010 |
+| 515 | Congo, Republic of the | 7.90 | 2010 |
+| 516 | Tanzania | 7.90 | 2010 |
+| 517 | Singapore | 7.90 | 2010 |
+| 518 | Morocco | 7.90 | 2010 |
+| 519 | Papua New Guinea | 7.90 | 2010 |
+| 520 | Chile | 7.90 | 2010 |
+| 521 | Bolivia | 7.80 | 2010 |
+| 522 | Bahrain | 7.80 | 2010 |
+| 523 | Malawi | 7.80 | 2010 |
+| 524 | Trinidad and Tobago | 7.80 | 2010 |
+| 525 | Burundi | 7.80 | 2010 |
+| 526 | Montenegro | 7.80 | 2009 |
+| 527 | Montenegro | 7.70 | 2009 |
+| 528 | Turkmenistan | 7.70 | 2010 |
+| 529 | United Arab Emirates | 7.70 | 2010 |
+| 530 | Hungary | 7.70 | 2010 est. |
+| 531 | Sudan | 7.70 | 2010 |
+| 532 | Hong Kong | 7.60 | 2010 |
+| 533 | Burundi | 7.60 | 2010 |
+| 534 | Belize | 7.60 | 2010 |
+| 535 | Afghanistan | 7.60 | 2010 |
+| 536 | Syria | 7.60 | 2010 |
+| 537 | Lebanon | 7.60 | 2010 |
+| 538 | Ireland | 7.60 | 2010 |
+| 539 | Iran | 7.60 | 2010 |
+| 540 | Latvia | 7.50 | 2010 |
+| 541 | Lebanon | 7.50 | 2010 |
+| 542 | United Kingdom | 7.50 | 2010 |
+| 543 | Malawi | 7.50 | 2010 |
+| 544 | Dominica | 7.50 | 2010 |
+| 545 | Iceland | 7.50 | 2010 |
+| 546 | Burundi | 7.50 | 2010 |
+| 547 | Bulgaria | 7.50 | 2010 |
+| 548 | France | 7.50 | 2010 |
+| 549 | Samoa | 7.50 | 2010 |
+| 550 | Bahamas, The | 7.50 | 2010 |
+| 551 | Djibouti | 7.50 | 2010 |
+| 552 | New Zealand | 7.40 | 2010 |
+| 553 | Peru | 7.40 | 2010 |
+| 554 | Sao Tome and Principe | 7.40 | 2010 |
+| 555 | Slovakia | 7.40 | 2010 |
+| 556 | Somalia | 7.40 | 2010 |
+| 557 | Spain | 7.30 | 2010 |
+| 558 | Qatar | 7.30 | 2010 |
+| 559 | Portugal | 7.30 | 2010 |
+| 560 | Kuwait | 7.30 | 2010 |
+| 561 | Denmark | 7.30 | 2010 |
+| 562 | China | 7.30 | 2010 |
+| 563 | Benin | 7.20 | 2010 |
+| 564 | Azerbaijan | 7.20 | 2010 |
+| 565 | Eritrea | 7.20 | 2010 |
+| 566 | Niger | 7.20 | 2010 |
+| 567 | Nicaragua | 7.20 | 2010 |
+| 568 | Mozambique | 7.20 | 2010 |
+| 569 | Kuwait | 7.20 | 2010 |
+| 570 | Germany | 7.20 | 2009 |
+| 571 | Eritrea | 7.20 | 2010 |
+| 572 | Serbia | 7.20 | 2010 est. |
+| 573 | Croatia | 7.20 | 2010 |
+| 574 | Bulgaria | 7.10 | 2010 |
+| 575 | Cote d'Ivoire | 7.10 | 2010 |
+| 576 | Saudi Arabia | 7.10 | 2010 |
+| 577 | Sri Lanka | 7.00 | 2010 |
+| 578 | Dominican Republic | 7.00 | 2010 |
+| 579 | Algeria | 7.00 | 2010 |
+| 580 | Latvia | 7.00 | 2010 |
+| 581 | Azerbaijan | 7.00 | 2010 |
+| 582 | South Africa | 7.00 | 2010 |
+| 583 | Tanzania | 7.00 | 2010 |
+| 584 | Iceland | 7.00 | 2010 |
+| 585 | Macedonia | 7.00 | 2010 |
+| 586 | Congo, Democratic Republic of the | 6.90 | 2010 |
+| 587 | Brazil | 6.90 | 2010 |
+| 588 | Brunei | 6.90 | 2010 |
+| 589 | Burundi | 6.90 | 2010 |
+| 590 | Comoros | 6.90 | 2010 |
+| 591 | Saudi Arabia | 6.90 | 2010 |
+| 592 | Lebanon | 6.90 | 2010 |
+| 593 | Indonesia | 6.90 | 2010 |
+| 594 | Cape Verde | 6.90 | 2010 |
+| 595 | Trinidad and Tobago | 6.90 | 2010 |
+| 596 | Austria | 6.80 | 2010 |
+| 597 | Spain | 6.80 | 2010 |
+| 598 | Kenya | 6.80 | 2010 |
+| 599 | Netherlands | 6.80 | 2010 |
+| 600 | Seychelles | 6.80 | 2010 |
+| 601 | Libya | 6.80 | 2010 |
+| 602 | Kosovo | 6.80 | 2009 |
+| 603 | Estonia | 6.80 | 2010 |
+| 604 | Denmark | 6.80 | 2010 |
+| 605 | Germany | 6.80 | 2009 |
+| 606 | France | 6.80 | 2010 |
+| 607 | Hungary | 6.80 | 2010 est. |
+| 608 | Mali | 6.80 | 2010 |
+| 609 | Belarus | 6.80 | 2010 |
+| 610 | Nicaragua | 6.70 | 2010 |
+| 611 | Sierra Leone | 6.70 | 2010 |
+| 612 | Faroe Islands | 6.70 | 2010 |
+| 613 | Guyana | 6.70 | 2010 |
+| 614 | Bahamas, The | 6.70 | 2010 |
+| 615 | Vietnam | 6.70 | 2010 est. |
+| 616 | Niger | 6.70 | 2010 |
+| 617 | Guyana | 6.70 | 2010 |
+| 618 | Equatorial Guinea | 6.70 | 2010 |
+| 619 | Costa Rica | 6.60 | 2010 |
+| 620 | Cambodia | 6.60 | 2010 |
+| 621 | Angola | 6.60 | 2010 |
+| 622 | Turkey | 6.60 | 2010 |
+| 623 | Sierra Leone | 6.60 | 2010 |
+| 624 | Seychelles | 6.60 | 2010 |
+| 625 | Papua New Guinea | 6.60 | 2010 |
+| 626 | Mexico | 6.60 | 2010 |
+| 627 | Lesotho | 6.60 | 2010 |
+| 628 | Laos | 6.60 | 2010 |
+| 629 | Kosovo | 6.60 | 2009 |
+| 630 | Iraq | 6.60 | 2010 |
+| 631 | Greenland | 6.60 | 2010 |
+| 632 | Cambodia | 6.50 | 2010 |
+| 633 | Qatar | 6.50 | 2010 |
+| 634 | Japan | 6.50 | 2010 |
+| 635 | Somalia | 6.50 | 2010 |
+| 636 | Georgia | 6.50 | 2010 |
+| 637 | Czech Republic | 6.50 | 2010 est. |
+| 638 | Egypt | 6.50 | 2010 |
+| 639 | Eritrea | 6.50 | 2010 |
+| 640 | Philippines | 6.50 | 2010 |
+| 641 | India | 6.50 | 2010 |
+| 642 | Madagascar | 6.40 | 2010 |
+| 643 | Sierra Leone | 6.40 | 2010 |
+| 644 | Yemen | 6.40 | 2010 |
+| 645 | Taiwan | 6.40 | 2010 est. |
+| 646 | Bosnia and Herzegovina | 6.40 | 2010 |
+| 647 | Burundi | 6.40 | 2010 |
+| 648 | Egypt | 6.40 | 2010 |
+| 649 | Indonesia | 6.40 | 2010 |
+| 650 | Libya | 6.40 | 2010 |
+| 651 | Samoa | 6.30 | 2010 |
+| 652 | United States | 6.30 | 2010 |
+| 653 | Iran | 6.30 | 2010 |
+| 654 | Guinea | 6.30 | 2010 |
+| 655 | Albania | 6.30 | 2010 est. |
+| 656 | Israel | 6.30 | 2010 |
+| 657 | Lithuania | 6.30 | 2010 |
+| 658 | Aruba | 6.30 | 2010 |
+| 659 | Norway | 6.30 | 2010 |
+| 660 | Equatorial Guinea | 6.30 | 2010 |
+| 661 | Netherlands | 6.20 | 2010 |
+| 662 | Morocco | 6.20 | 2010 |
+| 663 | Malaysia | 6.20 | 2010 est. |
+| 664 | Libya | 6.20 | 2010 |
+| 665 | Ghana | 6.20 | 2010 |
+| 666 | Vanuatu | 6.20 | 2010 |
+| 667 | Uganda | 6.20 | 2010 |
+| 668 | Sweden | 6.20 | 2010 |
+| 669 | Togo | 6.10 | 2010 |
+| 670 | Malawi | 6.10 | 2010 |
+| 671 | Saudi Arabia | 6.10 | 2010 |
+| 672 | Solomon Islands | 6.10 | 2010 |
+| 673 | Sudan | 6.10 | 2010 |
+| 674 | Montenegro | 6.10 | 2009 |
+| 675 | Greece | 6.10 | 2010 |
+| 676 | Kuwait | 6.10 | 2010 |
+| 677 | Georgia | 6.10 | 2010 |
+| 678 | Morocco | 6.10 | 2010 |
+| 679 | Dominican Republic | 6.10 | 2010 |
+| 680 | United Kingdom | 6.10 | 2010 |
+| 681 | Qatar | 6.10 | 2010 |
+| 682 | Jordan | 6.10 | 2010 |
+| 683 | Armenia | 6.10 | 2010 |
+| 684 | Denmark | 6.10 | 2010 |
+| 685 | Bangladesh | 6.00 | 2010 |
+| 686 | Bahrain | 6.00 | 2010 |
+| 687 | Nicaragua | 6.00 | 2010 |
+| 688 | Mongolia | 6.00 | 2010 est. |
+| 689 | Romania | 6.00 | 2010 |
+| 690 | Poland | 6.00 | 2010 |
+| 691 | Iceland | 6.00 | 2010 |
+| 692 | Seychelles | 6.00 | 2010 |
+| 693 | Bulgaria | 6.00 | 2010 |
+| 694 | Angola | 6.00 | 2010 |
+| 695 | Thailand | 5.90 | 2010 |
+| 696 | Thailand | 5.90 | 2010 |
+| 697 | Uganda | 5.90 | 2010 |
+| 698 | Hungary | 5.90 | 2010 est. |
+| 699 | Macau | 5.90 | 2010 est. |
+| 700 | Morocco | 5.90 | 2010 |
+| 701 | Georgia | 5.90 | 2010 |
+| 702 | Austria | 5.90 | 2010 |
+| 703 | Benin | 5.90 | 2010 |
+| 704 | Colombia | 5.90 | 2010 est. |
+| 705 | Croatia | 5.90 | 2010 |
+| 706 | Ecuador | 5.90 | 2010 |
+| 707 | Eritrea | 5.90 | 2010 |
+| 708 | Norway | 5.90 | 2010 |
+| 709 | United Kingdom | 5.80 | 2010 |
+| 710 | India | 5.80 | 2010 |
+| 711 | Israel | 5.80 | 2010 |
+| 712 | Mozambique | 5.80 | 2010 |
+| 713 | Poland | 5.80 | 2010 |
+| 714 | Singapore | 5.80 | 2010 |
+| 715 | Congo, Democratic Republic of the | 5.80 | 2010 |
+| 716 | Bahrain | 5.80 | 2010 |
+| 717 | Barbados | 5.80 | 2010 |
+| 718 | Bosnia and Herzegovina | 5.80 | 2010 |
+| 719 | Burma | 5.80 | 2010 |
+| 720 | Chile | 5.80 | 2010 |
+| 721 | Congo, Democratic Republic of the | 5.80 | 2010 |
+| 722 | Angola | 5.80 | 2010 |
+| 723 | Somalia | 5.70 | 2010 |
+| 724 | Comoros | 5.70 | 2010 |
+| 725 | Sweden | 5.70 | 2010 |
+| 726 | Turkmenistan | 5.70 | 2010 |
+| 727 | India | 5.70 | 2010 |
+| 728 | Indonesia | 5.70 | 2010 |
+| 729 | Iran | 5.70 | 2010 |
+| 730 | Kyrgyzstan | 5.70 | 2010 |
+| 731 | Libya | 5.70 | 2010 |
+| 732 | Maldives | 5.70 | 2010 |
+| 733 | Maldives | 5.70 | 2010 |
+| 734 | Mauritania | 5.70 | 2010 |
+| 735 | Portugal | 5.70 | 2010 |
+| 736 | Rwanda | 5.70 | 2010 |
+| 737 | Sierra Leone | 5.70 | 2010 |
+| 738 | Armenia | 5.70 | 2010 |
+| 739 | Sudan | 5.70 | 2010 |
+| 740 | Slovakia | 5.60 | 2010 |
+| 741 | Guinea-Bissau | 5.60 | 2010 |
+| 742 | Tonga | 5.60 | 2010 |
+| 743 | United Arab Emirates | 5.60 | 2010 |
+| 744 | Zambia | 5.60 | 2010 |
+| 745 | Ireland | 5.60 | 2010 |
+| 746 | Jordan | 5.60 | 2010 |
+| 747 | Malaysia | 5.60 | 2010 est. |
+| 748 | Maldives | 5.60 | 2010 |
+| 749 | Moldova | 5.60 | 2010 |
+| 750 | Netherlands | 5.60 | 2010 |
+| 751 | Oman | 5.60 | 2010 |
+| 752 | Philippines | 5.60 | 2010 |
+| 753 | Poland | 5.60 | 2010 |
+| 754 | Qatar | 5.60 | 2010 |
+| 755 | Albania | 5.60 | 2010 est. |
+| 756 | Albania | 5.60 | 2010 est. |
+| 757 | Armenia | 5.60 | 2010 |
+| 758 | Armenia | 5.60 | 2010 |
+| 759 | Costa Rica | 5.60 | 2010 |
+| 760 | Germany | 5.60 | 2009 |
+| 761 | Spain | 5.60 | 2010 |
+| 762 | Suriname | 5.50 | 2010 |
+| 763 | Denmark | 5.50 | 2010 |
+| 764 | Syria | 5.50 | 2010 |
+| 765 | Turkey | 5.50 | 2010 |
+| 766 | United Kingdom | 5.50 | 2010 |
+| 767 | Indonesia | 5.50 | 2010 |
+| 768 | Lebanon | 5.50 | 2010 |
+| 769 | Mongolia | 5.50 | 2010 est. |
+| 770 | Oman | 5.50 | 2010 |
+| 771 | Pakistan | 5.50 | 2010 |
+| 772 | Romania | 5.50 | 2010 |
+| 773 | Russia | 5.50 | 2010 |
+| 774 | Cameroon | 5.50 | 2010 |
+| 775 | Canada | 5.50 | 2010 |
+| 776 | Syria | 5.50 | 2010 |
+| 777 | Sweden | 5.40 | 2010 |
+| 778 | Georgia | 5.40 | 2010 |
+| 779 | Iceland | 5.40 | 2010 |
+| 780 | Italy | 5.40 | 2010 |
+| 781 | Madagascar | 5.40 | 2010 |
+| 782 | Morocco | 5.40 | 2010 |
+| 783 | Norway | 5.40 | 2010 |
+| 784 | Qatar | 5.40 | 2010 |
+| 785 | Singapore | 5.40 | 2010 |
+| 786 | Bahamas, The | 5.40 | 2010 |
+| 787 | Belarus | 5.40 | 2010 |
+| 788 | Belgium | 5.40 | 2010 |
+| 789 | Czech Republic | 5.40 | 2010 est. |
+| 790 | Gambia, The | 5.40 | 2010 |
+| 791 | Ukraine | 5.40 | 2010 |
+| 792 | South Africa | 5.30 | 2010 |
+| 793 | Switzerland | 5.30 | 2010 |
+| 794 | Uzbekistan | 5.30 | 2010 |
+| 795 | Lebanon | 5.30 | 2010 |
+| 796 | Niger | 5.30 | 2010 |
+| 797 | Qatar | 5.30 | 2010 |
+| 798 | Rwanda | 5.30 | 2010 |
+| 799 | Sao Tome and Principe | 5.30 | 2010 |
+| 800 | Angola | 5.30 | 2010 |
+| 801 | Belgium | 5.30 | 2010 |
+| 802 | Belgium | 5.30 | 2010 |
+| 803 | Brunei | 5.30 | 2010 |
+| 804 | Burkina Faso | 5.30 | 2010 |
+| 805 | China | 5.30 | 2010 |
+| 806 | Comoros | 5.30 | 2010 |
+| 807 | Costa Rica | 5.30 | 2010 |
+| 808 | Cyprus | 5.30 | 2010 |
+| 809 | Ecuador | 5.30 | 2010 |
+| 810 | Greece | 5.30 | 2010 |
+| 811 | Guatemala | 5.30 | 2010 |
+| 812 | Honduras | 5.30 | 2010 |
+| 813 | Saint Vincent and the Grenadines | 5.20 | 2010 |
+| 814 | Gabon | 5.20 | 2010 |
+| 815 | Equatorial Guinea | 5.20 | 2010 |
+| 816 | El Salvador | 5.20 | 2010 |
+| 817 | Czech Republic | 5.20 | 2010 est. |
+| 818 | Cyprus | 5.20 | 2010 |
+| 819 | Bulgaria | 5.20 | 2010 |
+| 820 | Australia | 5.20 | 2010 |
+| 821 | Senegal | 5.20 | 2010 |
+| 822 | Gambia, The | 5.20 | 2010 |
+| 823 | Portugal | 5.20 | 2010 |
+| 824 | Mexico | 5.20 | 2010 |
+| 825 | Mali | 5.20 | 2010 |
+| 826 | Luxembourg | 5.20 | 2010 |
+| 827 | Korea, South | 5.20 | 2010 |
+| 828 | Kazakhstan | 5.20 | 2010 |
+| 829 | Japan | 5.20 | 2010 |
+| 830 | Iceland | 5.20 | 2010 |
+| 831 | Vanuatu | 5.20 | 2010 |
+| 832 | Tunisia | 5.20 | 2010 |
+| 833 | Central African Republic | 5.10 | 2010 |
+| 834 | Somalia | 5.10 | 2010 |
+| 835 | Tonga | 5.10 | 2010 |
+| 836 | Gabon | 5.10 | 2010 |
+| 837 | Australia | 5.10 | 2010 |
+| 838 | Iceland | 5.10 | 2010 |
+| 839 | Macedonia | 5.10 | 2010 |
+| 840 | Slovakia | 5.10 | 2010 |
+| 841 | France | 5.10 | 2010 |
+| 842 | Macedonia | 5.10 | 2010 |
+| 843 | Somalia | 5.00 | 2010 |
+| 844 | France | 5.00 | 2010 |
+| 845 | Argentina | 5.00 | 2010 |
+| 846 | Australia | 5.00 | 2010 |
+| 847 | Djibouti | 5.00 | 2010 |
+| 848 | Bahrain | 5.00 | 2010 |
+| 849 | Malawi | 5.00 | 2010 |
+| 850 | Chile | 5.00 | 2010 |
+| 851 | Moldova | 5.00 | 2010 |
+| 852 | Serbia | 4.90 | 2010 est. |
+| 853 | Greece | 4.90 | 2010 |
+| 854 | Somalia | 4.90 | 2010 |
+| 855 | Spain | 4.90 | 2010 |
+| 856 | Sri Lanka | 4.90 | 2010 |
+| 857 | Sweden | 4.90 | 2010 |
+| 858 | Sweden | 4.90 | 2010 |
+| 859 | United Kingdom | 4.90 | 2010 |
+| 860 | Vietnam | 4.90 | 2010 est. |
+| 861 | Korea, South | 4.90 | 2010 |
+| 862 | Kosovo | 4.90 | 2009 |
+| 863 | Niger | 4.90 | 2010 |
+| 864 | Pakistan | 4.90 | 2010 |
+| 865 | Dominican Republic | 4.90 | 2010 |
+| 866 | Slovakia | 4.90 | 2010 |
+| 867 | Saint Lucia | 4.80 | 2010 |
+| 868 | Hong Kong | 4.80 | 2010 |
+| 869 | Slovenia | 4.80 | 2010 |
+| 870 | Tanzania | 4.80 | 2010 |
+| 871 | United Arab Emirates | 4.80 | 2010 |
+| 872 | Iran | 4.80 | 2010 |
+| 873 | Latvia | 4.80 | 2010 |
+| 874 | Libya | 4.80 | 2010 |
+| 875 | Nigeria | 4.80 | 2010 |
+| 876 | Pakistan | 4.80 | 2010 |
+| 877 | Algeria | 4.80 | 2010 |
+| 878 | Belarus | 4.80 | 2010 |
+| 879 | Benin | 4.80 | 2010 |
+| 880 | Cote d'Ivoire | 4.80 | 2010 |
+| 881 | Croatia | 4.80 | 2010 |
+| 882 | Dominican Republic | 4.80 | 2010 |
+| 883 | El Salvador | 4.80 | 2010 |
+| 884 | Honduras | 4.80 | 2010 |
+| 885 | Sierra Leone | 4.80 | 2010 |
+| 886 | Saint Kitts and Nevis | 4.70 | 2010 |
+| 887 | Hong Kong | 4.70 | 2010 |
+| 888 | Seychelles | 4.70 | 2010 |
+| 889 | South Africa | 4.70 | 2010 |
+| 890 | Suriname | 4.70 | 2010 |
+| 891 | Sweden | 4.70 | 2010 |
+| 892 | Thailand | 4.70 | 2010 |
+| 893 | Yemen | 4.70 | 2010 |
+| 894 | Taiwan | 4.70 | 2010 est. |
+| 895 | Kenya | 4.70 | 2010 |
+| 896 | Kuwait | 4.70 | 2010 |
+| 897 | Mozambique | 4.70 | 2010 |
+| 898 | Oman | 4.70 | 2010 |
+| 899 | Peru | 4.70 | 2010 |
+| 900 | Russia | 4.70 | 2010 |
+| 901 | Bangladesh | 4.70 | 2010 |
+| 902 | Belize | 4.70 | 2010 |
+| 903 | Burkina Faso | 4.70 | 2010 |
+| 904 | Djibouti | 4.70 | 2010 |
+| 905 | Germany | 4.70 | 2009 |
+| 906 | Saudi Arabia | 4.70 | 2010 |
+| 907 | Samoa | 4.60 | 2010 |
+| 908 | Cyprus | 4.60 | 2010 |
+| 909 | Slovenia | 4.60 | 2010 |
+| 910 | Syria | 4.60 | 2010 |
+| 911 | Turkmenistan | 4.60 | 2010 |
+| 912 | Vanuatu | 4.60 | 2010 |
+| 913 | Israel | 4.60 | 2010 |
+| 914 | Jamaica | 4.60 | 2010 |
+| 915 | Madagascar | 4.60 | 2010 |
+| 916 | Mauritania | 4.60 | 2010 |
+| 917 | Nicaragua | 4.60 | 2010 |
+| 918 | Bahamas, The | 4.60 | 2010 |
+| 919 | Brazil | 4.60 | 2010 |
+| 920 | Brunei | 4.60 | 2010 |
+| 921 | Cuba | 4.60 | 2010 |
+| 922 | Sao Tome and Principe | 4.60 | 2010 |
+| 923 | Switzerland | 4.50 | 2010 |
+| 924 | Tunisia | 4.50 | 2010 |
+| 925 | Turkmenistan | 4.50 | 2010 |
+| 926 | India | 4.50 | 2010 |
+| 927 | Italy | 4.50 | 2010 |
+| 928 | Jordan | 4.50 | 2010 |
+| 929 | Mauritania | 4.50 | 2010 |
+| 930 | Poland | 4.50 | 2010 |
+| 931 | Qatar | 4.50 | 2010 |
+| 932 | Russia | 4.50 | 2010 |
+| 933 | Afghanistan | 4.50 | 2010 |
+| 934 | Bermuda | 4.50 | 2010 |
+| 935 | Comoros | 4.50 | 2010 |
+| 936 | Estonia | 4.50 | 2010 |
+| 937 | Ghana | 4.50 | 2010 |
+| 938 | Greece | 4.50 | 2010 |
+| 939 | Syria | 4.40 | 2010 |
+| 940 | Thailand | 4.40 | 2010 |
+| 941 | Turkey | 4.40 | 2010 |
+| 942 | Hungary | 4.40 | 2010 est. |
+| 943 | Kuwait | 4.40 | 2010 |
+| 944 | Lesotho | 4.40 | 2010 |
+| 945 | Germany | 4.40 | 2009 |
+| 946 | Malawi | 4.40 | 2010 |
+| 947 | Romania | 4.40 | 2010 |
+| 948 | Algeria | 4.40 | 2010 |
+| 949 | Barbados | 4.40 | 2010 |
+| 950 | Brunei | 4.40 | 2010 |
+| 951 | Finland | 4.40 | 2010 |
+| 952 | Lithuania | 4.40 | 2010 |
+| 953 | Solomon Islands | 4.30 | 2010 |
+| 954 | Eritrea | 4.30 | 2010 |
+| 955 | South Africa | 4.30 | 2010 |
+| 956 | Switzerland | 4.30 | 2010 |
+| 957 | Syria | 4.30 | 2010 |
+| 958 | Trinidad and Tobago | 4.30 | 2010 |
+| 959 | Uganda | 4.30 | 2010 |
+| 960 | United States | 4.30 | 2010 |
+| 961 | Yemen | 4.30 | 2010 |
+| 962 | Hungary | 4.30 | 2010 est. |
+| 963 | Madagascar | 4.30 | 2010 |
+| 964 | New Caledonia | 4.30 | 2010 |
+| 965 | Papua New Guinea | 4.30 | 2010 |
+| 966 | Peru | 4.30 | 2010 |
+| 967 | Australia | 4.30 | 2010 |
+| 968 | Belize | 4.30 | 2010 |
+| 969 | Benin | 4.30 | 2010 |
+| 970 | China | 4.30 | 2010 |
+| 971 | South Africa | 4.30 | 2010 |
+| 972 | Saudi Arabia | 4.20 | 2010 |
+| 973 | Guinea | 4.20 | 2010 |
+| 974 | Tanzania | 4.20 | 2010 |
+| 975 | Trinidad and Tobago | 4.20 | 2010 |
+| 976 | Trinidad and Tobago | 4.20 | 2010 |
+| 977 | Uruguay | 4.20 | 2010 est. |
+| 978 | Uzbekistan | 4.20 | 2010 |
+| 979 | Hungary | 4.20 | 2010 est. |
+| 980 | Iran | 4.20 | 2010 |
+| 981 | Israel | 4.20 | 2010 |
+| 982 | Japan | 4.20 | 2010 |
+| 983 | Jordan | 4.20 | 2010 |
+| 984 | Malawi | 4.20 | 2010 |
+| 985 | Moldova | 4.20 | 2010 |
+| 986 | Nigeria | 4.20 | 2010 |
+| 987 | Peru | 4.20 | 2010 |
+| 988 | Poland | 4.20 | 2010 |
+| 989 | Qatar | 4.20 | 2010 |
+| 990 | Afghanistan | 4.20 | 2010 |
+| 991 | Bulgaria | 4.20 | 2010 |
+| 992 | Burundi | 4.20 | 2010 |
+| 993 | Cuba | 4.20 | 2010 |
+| 994 | Faroe Islands | 4.20 | 2010 |
+| 995 | Gabon | 4.20 | 2010 |
+| 996 | Gambia, The | 4.20 | 2010 |
+| 997 | Germany | 4.20 | 2009 |
+| 998 | Ghana | 4.20 | 2010 |
+| 999 | Solomon Islands | 4.20 | 2010 |
+| 1000 | Slovakia | 4.10 | 2010 |
+| 1001 | Guyana | 4.10 | 2010 |
+| 1002 | Solomon Islands | 4.10 | 2010 |
+| 1003 | Turkey | 4.10 | 2010 |
+| 1004 | Ukraine | 4.10 | 2010 |
+| 1005 | Yemen | 4.10 | 2010 |
+| 1006 | Ireland | 4.10 | 2010 |
+| 1007 | Japan | 4.10 | 2010 |
+| 1008 | Japan | 4.10 | 2010 |
+| 1009 | Madagascar | 4.10 | 2010 |
+| 1010 | Malta | 4.10 | 2010 |
+| 1011 | Mozambique | 4.10 | 2010 |
+| 1012 | New Zealand | 4.10 | 2010 |
+| 1013 | Panama | 4.10 | 2010 |
+| 1014 | Philippines | 4.10 | 2010 |
+| 1015 | Romania | 4.10 | 2010 |
+| 1016 | Austria | 4.10 | 2010 |
+| 1017 | Belgium | 4.10 | 2010 |
+| 1018 | Benin | 4.10 | 2010 |
+| 1019 | Bolivia | 4.10 | 2010 |
+| 1020 | Cape Verde | 4.10 | 2010 |
+| 1021 | Colombia | 4.10 | 2010 est. |
+| 1022 | Cuba | 4.10 | 2010 |
+| 1023 | Egypt | 4.10 | 2010 |
+| 1024 | Faroe Islands | 4.10 | 2010 |
+| 1025 | Germany | 4.10 | 2009 |
+| 1026 | Guinea-Bissau | 4.10 | 2010 |
+| 1027 | Slovenia | 4.10 | 2010 |
+| 1028 | Syria | 4.00 | 2010 |
+| 1029 | Syria | 4.00 | 2010 |
+| 1030 | Kazakhstan | 4.00 | 2010 |
+| 1031 | Kosovo | 4.00 | 2009 |
+| 1032 | Montenegro | 4.00 | 2009 |
+| 1033 | Chile | 4.00 | 2010 |
+| 1034 | Saint Kitts and Nevis | 4.00 | 2010 |
+| 1035 | Bangladesh | 4.00 | 2010 |
+| 1036 | Benin | 4.00 | 2010 |
+| 1037 | Cameroon | 4.00 | 2010 |
+| 1038 | Montenegro | 4.00 | 2009 |

@@ -1,0 +1,162 @@
+CIA - The World Factbook --  HIV/AIDS - deaths   
+
+This entry gives an estimate of the number of adults and children who died of AIDS during a given calendar year.
+
+| Rank | country | HIV/AIDS - deaths | Date of Information |
+| --- | --- | --- | --- |
+| 1 | South Africa | 350,000 | 2007 est. |
+| 2 | India | 310,000 | 2001 est. |
+| 3 | Nigeria | 170,000 | 2007 est. |
+| 4 | Kenya | 150,000 | 2003 est. |
+| 5 | Zimbabwe | 140,000 | 2007 est. |
+| 6 | Congo, Democratic Republic of the | 100,000 | 2003 est. |
+| 7 | Tanzania | 96,000 | 2007 est. |
+| 8 | Mozambique | 81,000 | 2007 est. |
+| 9 | Uganda | 77,000 | 2007 est. |
+| 10 | Malawi | 68,000 | 2007 est. |
+| 11 | Ethiopia | 67,000 | 2007 est. |
+| 12 | Zambia | 56,000 | 2007 est. |
+| 13 | Russia | 40,000 | 2007 est. |
+| 14 | Cameroon | 39,000 | 2007 est. |
+| 15 | China | 39,000 | 2007 est. |
+| 16 | Cote d'Ivoire | 38,000 | 2007 est. |
+| 17 | Thailand | 30,000 | 2007 est. |
+| 18 | Burma | 25,000 | 2007 est. |
+| 19 | Sudan | 25,000 | 2007 est. |
+| 20 | Vietnam | 24,000 | 2007 est. |
+| 21 | United States | 22,000 | 2007 est. |
+| 22 | Ghana | 21,000 | 2007 est. |
+| 23 | Ukraine | 19,000 | 2007 est. |
+| 24 | Lesotho | 18,000 | 2007 est. |
+| 25 | Brazil | 15,000 | 2007 est. |
+| 26 | Chad | 14,000 | 2007 est. |
+| 27 | Angola | 11,000 | 2007 est. |
+| 28 | Botswana | 11,000 | 2007 est. |
+| 29 | Mexico | 11,000 | 2007 est. |
+| 30 | Central African Republic | 11,000 | 2007 est. |
+| 31 | Burundi | 11,000 | 2007 est. |
+| 32 | Swaziland | 10,000 | 2007 est. |
+| 33 | Colombia | 9,800 | 2007 est. |
+| 34 | Burkina Faso | 9,200 | 2007 est. |
+| 35 | Togo | 9,100 | 2007 est. |
+| 36 | Indonesia | 8,700 | 2007 est. |
+| 37 | Rwanda | 7,800 | 2007 est. |
+| 38 | Haiti | 7,200 | 2007 est. |
+| 39 | Argentina | 7,000 | 2007 est. |
+| 40 | Cambodia | 6,900 | 2007 est. |
+| 41 | Congo, Republic of the | 6,400 | 2007 est. |
+| 42 | Mali | 5,800 | 2007 est. |
+| 43 | Namibia | 5,100 | 2007 est. |
+| 44 | Pakistan | 5,100 | 2007 est. |
+| 45 | Nepal | 5,000 | 2007 est. |
+| 46 | Guinea | 4,500 | 2007 est. |
+| 47 | Iran | 4,300 | 2007 est. |
+| 48 | Dominican Republic | 4,100 | 2007 est. |
+| 49 | Venezuela | 4,100 | 2003 est. |
+| 50 | Niger | 4,000 | 2007 est. |
+| 51 | Guatemala | 3,900 | 2007 est. |
+| 52 | Malaysia | 3,900 | 2007 est. |
+| 53 | Benin | 3,300 | 2007 est. |
+| 54 | Sierra Leone | 3,300 | 2007 est. |
+| 55 | Peru | 3,300 | 2007 est. |
+| 56 | Eritrea | 2,600 | 2007 est. |
+| 57 | Gabon | 2,300 | 2007 est. |
+| 58 | Spain | 2,300 | 2007 est. |
+| 59 | Liberia | 2,300 | 2007 est. |
+| 60 | Honduras | 1,900 | 2007 est. |
+| 61 | Trinidad and Tobago | 1,900 | 2003 est. |
+| 62 | Italy | 1,900 | 2007 est. |
+| 63 | Senegal | 1,800 | 2007 est. |
+| 64 | El Salvador | 1,700 | 2007 est. |
+| 65 | France | 1,600 | 2007 est. |
+| 66 | Somalia | 1,600 | 2007 est. |
+| 67 | Jamaica | 1,500 | 2007 est. |
+| 68 | Ecuador | 1,400 | 2007 est. |
+| 69 | Belarus | 1,100 | 2007 est. |
+| 70 | Guinea-Bissau | 1,100 | 2007 est. |
+| 71 | Djibouti | 1,100 | 2007 est. |
+| 72 | Chile | 1,100 | 2007 est. |
+| 73 | Algeria | 1,000 | 2007 est. |
+| 74 | Paraguay | 1,000 | 2007 est. |
+| 75 | Papua New Guinea | 1,000 | 2007 est. |
+| 76 | Panama | 1,000 | 2007 est. |
+| 77 | Morocco | 1,000 | 2007 est. |
+| 78 | Mauritania | 1,000 | 2007 est. |
+| 79 | Madagascar | 1,000 | 2007 est. |
+| 80 | Guyana | 1,000 | 2007 est. |
+| 81 | Gambia, The | 600 | 2003 est. |
+| 82 | Bangladesh | 500 | 2007 est. |
+| 83 | Canada | 500 | 2007 est. |
+| 84 | Bolivia | 500 | 2007 est. |
+| 85 | Egypt | 500 | 2007 est. |
+| 86 | Jordan | 500 | 2003 est. |
+| 87 | Korea, South | 500 | 2007 est. |
+| 88 | Uzbekistan | 500 | 2007 est. |
+| 89 | Uruguay | 500 | 2007 est. |
+| 90 | United Kingdom | 500 | 2007 est. |
+| 91 | Tajikistan | 500 | 2007 est. |
+| 92 | Switzerland | 500 | 2007 est. |
+| 93 | Suriname | 500 | 2003 est. |
+| 94 | Portugal | 500 | 2007 est. |
+| 95 | Nicaragua | 500 | 2007 est. |
+| 96 | Latvia | 500 | 2007 est. |
+| 97 | Kazakhstan | 500 | 2007 est. |
+| 98 | Germany | 500 | 2007 est. |
+| 99 | Estonia | 500 | 2007 est. |
+| 100 | Bermuda | 392 | 2005 |
+| 101 | Equatorial Guinea | 370 | 2001 est. |
+| 102 | Romania | 350 | 2001 est. |
+| 103 | Cape Verde | 225 | NA |
+| 104 | Armenia | 200 | 2007 est. |
+| 105 | Bahamas, The | 200 | 2007 est. |
+| 106 | Netherlands | 200 | 2007 est. |
+| 107 | Mongolia | 200 | 2003 est. |
+| 108 | Lithuania | 200 | 2007 est. |
+| 109 | Lebanon | 200 | 2007 est. |
+| 110 | Kyrgyzstan | 200 | 2007 est. |
+| 111 | Israel | 200 | 2007 est. |
+| 112 | Hong Kong | 200 | 2003 est. |
+| 113 | Georgia | 200 | 2003 est. |
+| 114 | Fiji | 200 | 2003 est. |
+| 115 | Tunisia | 200 | 2007 est. |
+| 116 | Syria | 200 | 2003 est. |
+| 117 | Sri Lanka | 200 | 2003 est. |
+| 118 | Singapore | 200 | 2007 est. |
+| 119 | Poland | 200 | 2007 est. |
+| 120 | Philippines | 200 | 2007 est. |
+| 121 | Oman | 200 | 2003 est. |
+| 122 | New Zealand | 200 | 2003 est. |
+| 123 | Costa Rica | 200 | 2007 est. |
+| 124 | Brunei | 200 | 2003 est. |
+| 125 | Belize | 200 | 2007 est. |
+| 126 | Bahrain | 200 | 2003 est. |
+| 127 | Australia | 100 | 2007 est. |
+| 128 | Austria | 100 | 2003 est. |
+| 129 | Cuba | 100 | 2007 est. |
+| 130 | Denmark | 100 | 2003 est. |
+| 131 | Slovenia | 100 | 2007 est. |
+| 132 | Slovakia | 100 | 2001 est. |
+| 133 | Serbia | 100 | 2009 est. |
+| 134 | Norway | 100 | 2003 est. |
+| 135 | Moldova | 100 | 2007 est. |
+| 136 | Mauritius | 100 | 2001 est. |
+| 137 | Malta | 100 | 2003 est. |
+| 138 | Macedonia | 100 | 2003 est. |
+| 139 | Luxembourg | 100 | 2003 est. |
+| 140 | Laos | 100 | 2007 est. |
+| 141 | Japan | 100 | 2007 est. |
+| 142 | Ireland | 100 | 2007 est. |
+| 143 | Iceland | 100 | 2003 est. |
+| 144 | Hungary | 100 | 2001 est. |
+| 145 | Greece | 100 | 2007 est. |
+| 146 | Finland | 100 | 2003 est. |
+| 147 | Turkmenistan | 100 | 2004 est. |
+| 148 | Sweden | 100 | 2007 est. |
+| 149 | Bulgaria | 100 | 2001 est. |
+| 150 | Bosnia and Herzegovina | 100 | 2001 est. |
+| 151 | Belgium | 100 | 2007 est. |
+| 152 | Barbados | 100 | 2007 est. |
+| 153 | Azerbaijan | 100 | 2007 est. |
+| 154 | Croatia | 10 | 2001 est. |
+| 155 | Czech Republic | 10 | 2001 est. |
+| 156 | Svalbard | 0 | 2001 |

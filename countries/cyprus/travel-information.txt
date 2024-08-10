@@ -1,0 +1,27 @@
+Telephone Code: 357
+Local Emergency Phone: 112
+Climate: Temperate; Mediterranean with hot, dry summers and cool winters
+Currency (Code): Euro (EUR)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): G
+Major Languages: Greek 80.9%, Turkish 0.2%, English 4.1%, Romanian 2.9%, Russian 2.5%, Bulgarian 2.2%, Arabic 1.2%, Filipino 1.1%, other 4.3%
+Major Religions: Orthodox Christian 89.1%, Roman Catholic 2.9%, Protestant/Anglican 2%, Muslim 1.8%, Buddhist 1%
+Time Difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time); daylight saving time: +1hr, begins last Sunday in March, ends last Sunday in October
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Left
+Tourist Destinations: Salamis; Kolossi Castle; Cape Greco; Troodos Villages; Nicosia (includes Cyprus Museum); Nissi Beach; Paphos Archeological Park; Choirokoitia
+Major Sports: Soccer, basketball, volleyball, motorsports
+Cultural Practices: Many Turkish Cypriots lower their eyes during a greeting as a sign of respect.
+Tipping Guidelines: At restaurants, tipping 2-3 euros is sufficient. For taxis, rounding up to the nearest euro - or 5% of the final fare for exceptional service- is appreciated.
+Souvenirs: Handmade lace, woven fabric and silk items, basketware, pottery, silver items, leather goods, brandy and liqueurs
+Traditional Cuisine: Souvla --- large pieces of meat cooked on a long skewer over a charcoal barbecue; salt, spices, oil, and wine are sprinkled or brushed on the meat during the cooking process
+
+---
+country: Cyprus
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Cyprus/travel-facts>
+license: public domain (U.S.)
+...

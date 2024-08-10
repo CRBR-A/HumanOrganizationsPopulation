@@ -1,0 +1,27 @@
+Telephone Code: 256
+Local Emergency Phone: 112 (cell phone), 999 (fixed)
+Climate: Tropical; generally rainy with two dry seasons (December to February, June to August); semiarid in northeast
+Currency (Code): Ugandan shillings (UGX)
+Electricity: 240 V
+Voltage: 50 Hz
+Plug types(s): G
+Major Languages: English, Ganda or Luganda, other Niger-Congo languages, Nilo-Saharan languages, Swahili, Arabic
+Major Religions: Protestant 45.1%, Roman Catholic 39.3%, Muslim 13.7%
+Time Difference: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Left
+Tourist Destinations: Bwindi Impenetrable National Park; Kibale Forest National Park; Queen Elizabeth National Park; Ziwa Rhino Sanctuary; Murchison Falls National Park; Tombs of Bugana Kings; Uganda Wildlife Conservation Center
+Major Sports: Soccer, rugby, basketball, athletics (track and field), boxing
+Cultural Practices: Walking over pots, especially those containing food, is considered very rude.
+Tipping Guidelines: It is not customary to tip for service in hotels and bars. It is common to tip your driver and guide on a safari or hike, as well as the porter and cook that accompanies the group. Conventionally, $10-20 (USD) per person per day would be a fair benchmark.
+Souvenirs: Musical instruments, wood carvings, woven goods and batik fabric, locally made jewelry, local teas and coffees
+Traditional Cuisine: Matoke (or Matooke) --- unripe boiled, steamed, or roasted bananas typically mashed and paired with vegetable sauces, ground peanuts, or meat
+
+---
+country: Uganda
+date: June 13, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Uganda/travel-facts>
+license: public domain (U.S.)
+...

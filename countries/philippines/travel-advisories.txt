@@ -1,0 +1,14 @@
+| Precautions | Exercise increased caution to the Philippines due to crime, terrorism, civil unrest, and kidnapping. Some areas have increased risk. |
+| | Consult the link below for updates to travel advisories and statements on safety, security, local laws, and special circumstances in this country. |
+| | <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html> |
+| Passport/Visa Requirements | US citizens should make sure their passport is valid at the date of their entering the country. They should also make sure they have at least 1 blank page in their passport for any entry stamp that will be required. A visa is not required for stays under 30 days. |
+| Vaccinations | An International Certificate of Vaccination for yellow fever is required for travelers arriving from countries with a risk of yellow fever transmission and for travelers having transited through the airport of a country with risk of yellow fever transmission. On 8 October 2019, the Centers for Disease Control and Prevention issued a Travel Health Notice regarding a polio outbreak in the Philippines; CDC recommends that all travelers to the Philippines be vaccinated fully against polio; before traveling to the Philippines, adults who completed their routine polio vaccine series as children should receive a single, lifetime adult booster dose of polio vaccine. See WHO recommendations.  <http://www.who.int/> |
+| US Embassy/Consulate | [63] (2) 301-2000; US Embassy in Manila, 1201 Roxas Boulevard, Manila, Philippines 1000; acsinfomanila@state.gov; https://ph.usembassy.gov/ |
+
+---
+country: Philippines
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Philippines/travel-facts>
+license: public domain (U.S.)
+...

@@ -1,0 +1,213 @@
+CIA - The World Factbook --  Natural gas - proved reserves   
+
+This entry is the stock of proved reserves of natural gas in cubic meters (cu m). Proved reserves are those quantities of natural gas, which, by analysis of geological and engineering data, can be estimated with a high degree of confidence to be commercially recoverable from a given date forward, from known reservoirs and under current economic conditions.
+
+| Rank | country | (cu m) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Russia | 47,570,000,000,000 | 1 January 2009 est. |
+| 2 | Iran | 28,080,000,000,000 | 1 January 2009 est. |
+| 3 | Qatar | 25,260,000,000,000 | 1 January 2009 est. |
+| 4 | Saudi Arabia | 7,319,000,000,000 | 1 January 2009 est. |
+| 5 | United States | 6,731,000,000,000 | 1 January 2009 est. |
+| 6 | United Arab Emirates | 6,071,000,000,000 | 1 January 2009 est. |
+| 7 | Nigeria | 5,215,000,000,000 | 1 January 2009 est. |
+| 8 | Venezuela | 4,840,000,000,000 | 1 January 2009 est. |
+| 9 | Algeria | 4,502,000,000,000 | 1 January 2009 est. |
+| 10 | Iraq | 3,170,000,000,000 | 1 January 2009 est. |
+| 11 | Indonesia | 3,001,000,000,000 | 1 January 2009 est. |
+| 12 | Turkmenistan | 2,662,000,000,000 | 1 January 2009 est. |
+| 13 | Kazakhstan | 2,407,000,000,000 | 1 January 2009 est. |
+| 14 | Malaysia | 2,350,000,000,000 | 1 January 2009 est. |
+| 15 | European Union | 2,318,000,000,000 | 1 January 2008 est. |
+| 16 | Norway | 2,313,000,000,000 | 1 January 2009 est. |
+| 17 | China | 2,265,000,000,000 | 1 January 2009 est. |
+| 18 | Uzbekistan | 1,841,000,000,000 | 1 January 2009 est. |
+| 19 | Kuwait | 1,794,000,000,000 | 1 January 2009 est. |
+| 20 | Egypt | 1,656,000,000,000 | 1 January 2009 est. |
+| 21 | Canada | 1,640,000,000,000 | 1 January 2009 est. |
+| 22 | Libya | 1,540,000,000,000 | 1 January 2009 est. |
+| 23 | Netherlands | 1,416,000,000,000 | 1 January 2009 est. |
+| 24 | Ukraine | 1,104,000,000,000 | 1 January 2009 est. |
+| 25 | India | 1,075,000,000,000 | 1 January 2009 est. |
+| 26 | Pakistan | 885,300,000,000 | 1 January 2009 est. |
+| 27 | Azerbaijan | 849,500,000,000 | 1 January 2009 est. |
+| 28 | Australia | 849,500,000,000 | 1 January 2009 est. |
+| 29 | Oman | 849,500,000,000 | 1 January 2009 est. |
+| 30 | Bolivia | 750,400,000,000 | 1 January 2009 est. |
+| 31 | Trinidad and Tobago | 531,500,000,000 | 1 January 2009 est. |
+| 32 | Yemen | 478,500,000,000 | 1 January 2009 est. |
+| 33 | Argentina | 441,700,000,000 | 1 January 2009 est. |
+| 34 | Brunei | 390,800,000,000 | 1 January 2009 est. |
+| 35 | Mexico | 372,700,000,000 | 1 January 2009 est. |
+| 36 | Brazil | 365,000,000,000 | 1 January 2009 est. |
+| 37 | United Kingdom | 342,900,000,000 | 1 January 2009 est. |
+| 38 | Peru | 335,300,000,000 | 1 January 2009 est. |
+| 39 | Thailand | 317,100,000,000 | 1 January 2009 est. |
+| 40 | Burma | 283,200,000,000 | 1 January 2009 est. |
+| 41 | Angola | 269,800,000,000 | 1 January 2009 est. |
+| 42 | Syria | 240,700,000,000 | 1 January 2009 est. |
+| 43 | Papua New Guinea | 226,500,000,000 | 1 January 2009 est. |
+| 44 | Timor-Leste | 200,000,000,000 | 1 January 2006 est. |
+| 45 | Vietnam | 192,500,000,000 | 1 January 2009 est. |
+| 46 | Germany | 175,600,000,000 | 1 January 2009 est. |
+| 47 | Poland | 164,800,000,000 | 1 January 2009 est. |
+| 48 | Bangladesh | 141,600,000,000 | 1 January 2009 est. |
+| 49 | Cameroon | 135,100,000,000 | 1 January 2009 est. |
+| 50 | Mozambique | 127,400,000,000 | 1 January 2009 est. |
+| 51 | Colombia | 105,900,000,000 | 1 January 2009 est. |
+| 52 | Philippines | 98,540,000,000 | 1 January 2009 est. |
+| 53 | Chile | 97,970,000,000 | 1 January 2009 est. |
+| 54 | Italy | 94,150,000,000 | 1 January 2009 est. |
+| 55 | Bahrain | 92,030,000,000 | 1 January 2009 est. |
+| 56 | Congo, Republic of the | 90,610,000,000 | 1 January 2009 est. |
+| 57 | Sudan | 84,950,000,000 | 1 January 2009 est. |
+| 58 | Cuba | 70,790,000,000 | 1 January 2009 est. |
+| 59 | Tunisia | 65,130,000,000 | 1 January 2009 est. |
+| 60 | Romania | 63,000,000,000 | 1 January 2009 est. |
+| 61 | Namibia | 62,290,000,000 | 1 January 2009 est. |
+| 62 | Denmark | 61,300,000,000 | 1 January 2009 est. |
+| 63 | Rwanda | 56,630,000,000 | 1 January 2009 est. |
+| 64 | Korea, South | 50,000,000,000 | 1 January 2008 est. |
+| 65 | Afghanistan | 49,550,000,000 | 1 January 2009 est. |
+| 66 | Serbia | 48,140,000,000 | 1 January 2009 est. |
+| 67 | Equatorial Guinea | 36,810,000,000 | 1 January 2009 est. |
+| 68 | New Zealand | 33,980,000,000 | 1 January 2009 est. |
+| 69 | Croatia | 30,580,000,000 | 1 January 2009 est. |
+| 70 | Israel | 30,440,000,000 | 1 January 2009 est. |
+| 71 | Gabon | 28,320,000,000 | 1 January 2009 est. |
+| 72 | Mauritania | 28,320,000,000 | 1 January 2009 est. |
+| 73 | Cote d'Ivoire | 28,320,000,000 | 1 January 2009 est. |
+| 74 | Ethiopia | 24,920,000,000 | 1 January 2009 est. |
+| 75 | Ghana | 22,650,000,000 | 1 January 2009 est. |
+| 76 | Japan | 20,900,000,000 | 1 January 2009 est. |
+| 77 | Austria | 16,140,000,000 | 1 January 2009 est. |
+| 78 | Slovakia | 14,160,000,000 | 1 January 2009 est. |
+| 79 | Ireland | 9,911,000,000 | 1 January 2009 est. |
+| 80 | Ecuador | 8,919,000,000 | 1 January 2009 est. |
+| 81 | Georgia | 8,495,000,000 | 1 January 2009 est. |
+| 82 | Turkey | 8,495,000,000 | 1 January 2009 est. |
+| 83 | Hungary | 8,098,000,000 | 1 January 2009 est. |
+| 84 | France | 6,937,000,000 | 1 January 2009 est. |
+| 85 | Tanzania | 6,513,000,000 | 1 January 2009 est. |
+| 86 | Taiwan | 6,229,000,000 | 1 January 2009 est. |
+| 87 | Jordan | 6,031,000,000 | 1 January 2009 est. |
+| 88 | Bulgaria | 5,663,000,000 | 1 January 2009 est. |
+| 89 | Somalia | 5,663,000,000 | 1 January 2009 est. |
+| 90 | Tajikistan | 5,663,000,000 | 1 January 2009 est. |
+| 91 | Kyrgyzstan | 5,663,000,000 | 1 January 2009 est. |
+| 92 | Czech Republic | 3,964,000,000 | 1 January 2009 est. |
+| 93 | Guatemala | 2,960,000,000 | 1 January 2006 est. |
+| 94 | Belarus | 2,832,000,000 | 1 January 2009 est. |
+| 95 | Spain | 2,548,000,000 | 1 January 2009 est. |
+| 96 | Greece | 1,982,000,000 | 1 January 2009 est. |
+| 97 | Morocco | 1,501,000,000 | 1 January 2009 est. |
+| 98 | Benin | 1,133,000,000 | 1 January 2009 est. |
+| 99 | Congo, Democratic Republic of the | 991,100,000 | 1 January 2009 est. |
+| 100 | Albania | 849,500,000 | 1 January 2009 est. |
+| 101 | Barbados | 141,600,000 | 1 January 2009 est. |
+| 102 | South Africa | 27,160,000 | 1 January 2006 est. |
+| 103 | Macau | 300,000 | 1 January 2008 est. |
+| 104 | Aruba | 0 | 1 January 2009 est. |
+| 105 | Botswana | 0 | 1 January 2009 est. |
+| 106 | Belgium | 0 | 1 January 2009 est. |
+| 107 | Solomon Islands | 0 | 1 January 2009 est. |
+| 108 | Mauritius | 0 | 1 January 2009 est. |
+| 109 | Mali | 0 | 1 January 2009 est. |
+| 110 | Macedonia | 0 | 1 January 2009 est. |
+| 111 | Malawi | 0 | 1 January 2009 est. |
+| 112 | Montserrat | 0 | 1 January 2009 est. |
+| 113 | Mongolia | 0 | 1 January 2009 est. |
+| 114 | Moldova | 0 | 1 January 2009 est. |
+| 115 | Madagascar | 0 | 1 January 2006 est. |
+| 116 | Liberia | 0 | 1 January 2009 est. |
+| 117 | Zimbabwe | 0 | 1 January 2009 est. |
+| 118 | Zambia | 0 | 1 January 2009 est. |
+| 119 | Swaziland | 0 | 1 January 2009 est. |
+| 120 | Samoa | 0 | 1 January 2009 est. |
+| 121 | Western Sahara | 0 | 1 January 2009 est. |
+| 122 | Virgin Islands | 0 | 1 January 2009 est. |
+| 123 | British Virgin Islands | 0 | 1 January 2009 est. |
+| 124 | Saint Vincent and the Grenadines | 0 | 1 January 2009 est. |
+| 125 | Uruguay | 0 | 1 January 2009 est. |
+| 126 | Burkina Faso | 0 | 1 January 2009 est. |
+| 127 | Uganda | 0 | 1 January 2009 est. |
+| 128 | Sao Tome and Principe | 0 | 1 January 2009 est. |
+| 129 | Togo | 0 | 1 January 2009 est. |
+| 130 | Tonga | 0 | 1 January 2009 est. |
+| 131 | Turks and Caicos Islands | 0 | 1 January 2009 est. |
+| 132 | Switzerland | 0 | 1 January 2006 est. |
+| 133 | Sweden | 0 | 1 January 2009 est. |
+| 134 | Saint Lucia | 0 | 1 January 2009 est. |
+| 135 | Singapore | 0 | 1 January 2009 est. |
+| 136 | Sierra Leone | 0 | 1 January 2009 est. |
+| 137 | Slovenia | 0 | 1 January 2009 est. |
+| 138 | Saint Helena | 0 | 1 January 2009 est. |
+| 139 | Senegal | 0 | NA |
+| 140 | Seychelles | 0 | 1 January 2009 est. |
+| 141 | Saint Kitts and Nevis | 0 | 1 January 2009 est. |
+| 142 | Saint Pierre and Miquelon | 0 | 1 January 2009 est. |
+| 143 | Puerto Rico | 0 | 1 January 2009 est. |
+| 144 | Guinea-Bissau | 0 | 1 January 2009 est. |
+| 145 | Portugal | 0 | 1 January 2009 est. |
+| 146 | Panama | 0 | 1 January 2009 est. |
+| 147 | Paraguay | 0 | 1 January 2009 est. |
+| 148 | Nicaragua | 0 | 1 January 2009 est. |
+| 149 | Netherlands Antilles | 0 | 1 January 2009 est. |
+| 150 | Suriname | 0 | 1 January 2009 est. |
+| 151 | Nauru | 0 | 1 January 2009 est. |
+| 152 | Nepal | 0 | 1 January 2009 est. |
+| 153 | Vanuatu | 0 | 1 January 2009 est. |
+| 154 | Niger | 0 | 1 January 2009 est. |
+| 155 | Niue | 0 | 1 January 2009 est. |
+| 156 | New Caledonia | 0 | 1 January 2009 est. |
+| 157 | Maldives | 0 | 1 January 2009 est. |
+| 158 | Malta | 0 | 1 January 2009 est. |
+| 159 | Lithuania | 0 | 1 January 2009 est. |
+| 160 | Lebanon | 0 | 1 January 2009 est. |
+| 161 | Laos | 0 | 1 January 2009 est. |
+| 162 | Kiribati | 0 | 1 January 2009 est. |
+| 163 | Korea, North | 0 | 1 January 2009 est. |
+| 164 | Kenya | 0 | 1 January 2009 est. |
+| 165 | Jamaica | 0 | 1 January 2009 est. |
+| 166 | Iceland | 0 | 1 January 2009 est. |
+| 167 | Luxembourg | 0 | 1 January 2009 est. |
+| 168 | Lesotho | 0 | 1 January 2009 est. |
+| 169 | Honduras | 0 | 1 January 2009 est. |
+| 170 | Hong Kong | 0 | 1 January 2009 est. |
+| 171 | Haiti | 0 | 1 January 2009 est. |
+| 172 | Guyana | 0 | 1 January 2009 est. |
+| 173 | Guinea | 0 | 1 January 2009 est. |
+| 174 | Greenland | 0 | 1 January 2009 est. |
+| 175 | Grenada | 0 | 1 January 2009 est. |
+| 176 | Gibraltar | 0 | 1 January 2009 est. |
+| 177 | Gambia, The | 0 | 1 January 2009 est. |
+| 178 | French Polynesia | 0 | 1 January 2009 est. |
+| 179 | Faroe Islands | 0 | 1 January 2009 est. |
+| 180 | Falkland Islands (Islas Malvinas) | 0 | 1 January 2009 est. |
+| 181 | Fiji | 0 | 1 January 2009 est. |
+| 182 | Finland | 0 | 1 January 2009 est. |
+| 183 | El Salvador | 0 | 1 January 2009 est. |
+| 184 | Eritrea | 0 | 1 January 2009 est. |
+| 185 | Estonia | 0 | 1 January 2009 est. |
+| 186 | Dominican Republic | 0 | 1 January 2009 est. |
+| 187 | Dominica | 0 | 1 January 2009 est. |
+| 188 | Djibouti | 0 | 1 January 2009 est. |
+| 189 | Cyprus | 0 | 1 January 2009 est. |
+| 190 | Cook Islands | 0 | 1 January 2009 est. |
+| 191 | Cape Verde | 0 | 1 January 2009 est. |
+| 192 | Central African Republic | 0 | 1 January 2009 est. |
+| 193 | Costa Rica | 0 | 1 January 2009 est. |
+| 194 | Comoros | 0 | 1 January 2009 est. |
+| 195 | Cayman Islands | 0 | 1 January 2009 est. |
+| 196 | Sri Lanka | 0 | 1 January 2009 est. |
+| 197 | Chad | 0 | 1 January 2009 est. |
+| 198 | Cambodia | 0 | 1 January 2009 est. |
+| 199 | Burundi | 0 | 1 January 2009 est. |
+| 200 | Bhutan | 0 | 1 January 2009 est. |
+| 201 | Belize | 0 | 1 January 2009 est. |
+| 202 | Bosnia and Herzegovina | 0 | 1 January 2009 est. |
+| 203 | Bahamas, The | 0 | 1 January 2006 est. |
+| 204 | Bermuda | 0 | 1 January 2009 est. |
+| 205 | Armenia | 0 | 1 January 2009 est. |
+| 206 | American Samoa | 0 | 1 January 2009 est. |
+| 207 | Antigua and Barbuda | 0 | 1 January 2009 est. |

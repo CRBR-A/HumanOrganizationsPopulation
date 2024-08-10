@@ -1,0 +1,29 @@
+Telephone Code: 251
+Local Emergency Phone - Ambulance: 92
+Local Emergency Phone - Fire: 93
+Local Emergency Phone - Police: 91
+Climate: Tropical monsoon with wide topographically-induced variation
+Currency (Code): Birr (ETB)
+Electricity: 220 V
+Voltage: 50 Hz
+Plug types(s): C, F, G
+Major Languages: Oromo, Amharic, Somali, Tigrigna, Sidamo, Wolaytta, Gurage, Afar, Hadiyya, Gamo, Gedeo, Opuuo, Kafa, English, Arabic
+Major Religions: Ethiopian Orthodox 43.8%, Muslim 31.3%, Protestant 22.8%, Catholic 0.7%, traditional .6%
+Time Difference: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: A temporary license from a local authority is recommended. An IDP is not recognized.
+Road Driving Side: Right
+Tourist Destinations: Addis Ababa (incudes Imperial Palace, St. George's Cathedral, Holy Trinity Cathedral); Axum (Aksum); Bahir Dar; Harar Jugol; Gondar (includes Fasil Ghebbi); Simien Mountains
+Major Sports: Track and Field, soccer, basketball
+Cultural Practices: It is customary to bow when introduced to an elder or respected person. Elders are also usually introduced first when making new acquaintances.
+Tipping Guidelines: A 10-15% tip is normal for good service at restaurants and in bars. Tip $1 (USD) per bag for bellhops who carry luggage to your room and $1-2 (USD) per day for hotel staff.
+Souvenirs: Coffee, traditional clothing, shema cloth, carved-metal or wood religious crosses and other wooden items, leather goods, wickerwork, handicrafts
+Traditional Cuisine: Wat --- a stew that may be prepared with chicken, beef, lamb, a variety of vegetables, spice mixtures such as berbere, and niter kibbeh (seasoned clarified butter); typically served with injera (a spongy flat bread)
+
+---
+country: Ethiopia
+date: May 23, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Ethiopia/travel-facts>
+license: public domain (U.S.)
+...

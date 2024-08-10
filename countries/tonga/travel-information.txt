@@ -1,0 +1,27 @@
+Telephone Code: 676
+Local Emergency Phone: 911
+Climate: Tropical; modified by trade winds; warm season (December to May), cool season (May to December)
+Currency (Code): Pa'anga (TOP)
+Electricity: 240 V
+Voltage: 50 Hz
+Plug types(s): I
+Major Languages: Tongan, English
+Major Religions: Protestant 64.1%, Mormon 18.6%, Roman Catholic 14.2%
+Time Difference: UTC+13 (18 hours ahead of Washington, DC, during Standard Time); daylight saving time: +1hr, begins first Sunday in November; ends second Sunday in January
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Left
+Tourist Destinations: Nuku'alofa; Ha'atafu Beach; Mapu'a 'a Vaea Blowholes; Pangaimotu Island
+Major Sports: Rugby, soccer, American football, boxing
+Cultural Practices: Being excessively loud in public is considered very rude.
+Tipping Guidelines: Tipping in restaurants is not the norm for locals, but most tourists leave a little tip to waiters to show their appreciation. It is not customary to tip in hotels in Tonga.
+Souvenirs: Hand-woven tapa cloth, woven pandanus mats and baskets, coconut-shell handicrafts, model canoes, silver-inlaid jewelry and knives, collectable coins and stamps
+Traditional Cuisine: ʻOta ʻika --- fresh, raw fish marinated in coconut milk and citrus juice; later the fish is typically combined with vegetables including tomatoes, green onions, cucumbers, and hot peppers
+
+---
+country: Tonga
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Tonga/travel-facts>
+license: public domain (U.S.)
+...

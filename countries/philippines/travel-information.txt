@@ -1,0 +1,27 @@
+Telephone Code: 63
+Local Emergency Phone: 166117
+Climate: Tropical marine; northeast monsoon (November to April); southwest monsoon (May to October)
+Currency (Code): Philippine pesos (PHP)
+Electricity: 220 V
+Voltage: 60 Hz
+Plug types(s): A, B, C
+Major Languages: Filipino (based on Tagalog) and English; eight major dialects - Tagalog, Cebuano, Ilocano, Hiligaynon or Ilonggo, Bicol, Waray, Pampango, and Pangasinan
+Major Religions: Roman Catholic 80.6%, Protestant 8.2%, other Christians 3.4%, Muslim 5.6%, tribal religions .2%
+Time Difference: UTC+8 (13 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Chocolate Hills; Underground River Tour; Batad Rice Terraces; Historic Tour of Corregidor Island (includes Pacific War Memorial, Malinta Tunnel); Pagsanjan Falls
+Major Sports: Soccer, basketball, boxing, arnis (national martial art of the Philippines)
+Cultural Practices: Use academic, professional, or honorific titles and a person's surname until you are invited to use their first name.
+Tipping Guidelines: Do not feel pressure to leave a tip if the service is poor. Locals often round up the taxi fare.
+Souvenirs: Toy jeepney figurines; pearl jewelry and mother-of-pearl tableware; handmade bags, pouches, and bandanas; woven mats and baskets, embroidered silk traditional clothing; straw fans; handmade musical instruments; coffee
+Traditional Cuisine: Adobo --- chicken and/or pork marinated or braised in a sauce of garlic, peppercorns, and soy sauce and then fried in oil; traditionally served over a bed of rice
+
+---
+country: Philippines
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Philippines/travel-facts>
+license: public domain (U.S.)
+...

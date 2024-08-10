@@ -1,0 +1,9 @@
+Bolivia, named after independence fighter Simon BOLIVAR, broke away from Spanish rule in 1825; much of its subsequent history has consisted of a series of coups and countercoups, with the last coup occurring in 1978. Democratic civilian rule was established in 1982, but leaders have faced difficult problems of deep-seated poverty, social unrest, and illegal drug production.  
+In December 2005, Bolivians elected Movement Toward Socialism leader Evo MORALES president - by the widest margin of any leader since the restoration of civilian rule in 1982 - after he ran on a promise to change the country's traditional political class and empower the nation's poor, indigenous majority. In December 2009 and October 2014, President MORALES easily won reelection. His party maintained control of the legislative branch of the government, which has allowed him to continue his process of change. In February 2016, MORALES narrowly lost a referendum to approve a constitutional amendment that would have allowed him to compete in the 2019 presidential election. However, a 2017 Supreme Court ruling stating that term limits violate human rights provided the justification for MORALES to be chosen by his party to run again in 2019. MORALES attempted to claim victory in the 20 October 2019 election, but widespread allegations of electoral fraud, rising violence, and pressure from the military ultimately forced him to flee the country. An interim government, led by President Jeanine ANEZ Chavez, prepared new elections that took place on 18 October 2020.  
+
+---
+country: Bolivia
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Bolivia/>
+license: public domain (U.S.)
+...

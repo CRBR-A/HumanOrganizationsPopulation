@@ -1,0 +1,9 @@
+The Mongols gained fame in the 13th century when under Chinggis KHAAN they established a huge Eurasian empire through conquest. After his death the empire was divided into several powerful Mongol states, but these broke apart in the 14th century. The Mongols eventually retired to their original steppe homelands and in the late 17th century came under Chinese rule. Mongolia declared its independence from the Manchu-led Qing Empire in 1911 and achieved limited autonomy until 1919, when it again came under Chinese control. The Mongolian Revolution of 1921 ended Chinese dominance, and a communist regime, the Mongolian Peopleâ€™s Republic, took power in 1924.  
+The modern country of Mongolia, represents only part of the Mongols' historical homeland; today, more ethnic Mongolians live in the Inner Mongolia Autonomous Region in the People's Republic of China than in Mongolia. Since the country's peaceful democratic revolution in 1990, the ex-communist Mongolian People's Revolutionary Party (MPRP) - which took the name Mongolian Peopleâ€™s Party (MPP) in 2010 - has competed for political power with the Democratic Party (DP) and several other smaller parties, including a new party formed by former President ENKHBAYAR, which confusingly adopted for itself the MPRP name. In the country's most recent parliamentary elections in June 2016, Mongolians handed the MPP overwhelming control of Parliament, largely pushing out the DP, which had overseen a sharp decline in Mongoliaâ€™s economy during its control of Parliament in the preceding years. Mongolians elected a DP member, Khaltmaa BATTULGA, as president in 2017.  
+
+---
+country: Mongolia
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Mongolia/>
+license: public domain (U.S.)
+...

@@ -1,0 +1,241 @@
+CIA - The World Factbook --  Airports   
+
+This entry gives the total number of airports or airfields recognizable from the air. The runway(s) may be paved (concrete or asphalt surfaces) or unpaved (grass, earth, sand, or gravel surfaces) and may include closed or abandoned installations. Airports or airfields that are no longer recognizable (overgrown, no facilities, etc.) are not included. Note that not all airports have accommodations for refueling, maintenance, or air traffic control.
+
+| Rank | country | Airports | Date of Information |
+| --- | --- | --- | --- |
+| 1 | United States | 15,095 | 2009 |
+| 2 | Brazil | 4,000 | 2009 |
+| 3 | Mexico | 1,744 | 2009 |
+| 4 | Canada | 1,388 | 2009 |
+| 5 | Russia | 1,216 | 2009 |
+| 6 | Argentina | 1,130 | 2009 |
+| 7 | Colombia | 992 | 2009 |
+| 8 | Bolivia | 952 | 2009 |
+| 9 | Paraguay | 798 | 2009 |
+| 10 | Indonesia | 683 | 2009 |
+| 11 | South Africa | 607 | 2009 |
+| 12 | Papua New Guinea | 560 | 2009 |
+| 13 | Germany | 550 | 2009 |
+| 14 | United Kingdom | 506 | 2009 |
+| 15 | China | 482 | 2009 |
+| 16 | France | 475 | 2009 |
+| 17 | Australia | 464 | 2009 |
+| 18 | Ukraine | 425 | 2009 |
+| 19 | Ecuador | 420 | 2009 |
+| 20 | Venezuela | 406 | 2009 |
+| 21 | Guatemala | 371 | 2009 |
+| 22 | Chile | 357 | 2009 |
+| 23 | India | 349 | 2009 |
+| 24 | Iran | 316 | 2009 |
+| 25 | Philippines | 254 | 2009 |
+| 26 | Sweden | 249 | 2009 |
+| 27 | Saudi Arabia | 217 | 2009 |
+| 28 | Zimbabwe | 215 | 2009 |
+| 29 | Bulgaria | 212 | 2009 |
+| 30 | Peru | 201 | 2009 |
+| 31 | Congo, Democratic Republic of the | 194 | 2009 |
+| 32 | Angola | 192 | 2009 |
+| 33 | Kenya | 181 | 2009 |
+| 34 | Japan | 176 | 2009 |
+| 35 | Spain | 153 | 2009 |
+| 36 | Costa Rica | 151 | 2009 |
+| 37 | Finland | 148 | 2009 |
+| 38 | Pakistan | 145 | 2009 |
+| 39 | Algeria | 143 | 2009 |
+| 40 | Nicaragua | 143 | 2009 |
+| 41 | Libya | 137 | 2009 |
+| 42 | Cuba | 136 | 2009 |
+| 43 | Italy | 132 | 2009 |
+| 44 | Namibia | 129 | 2009 |
+| 45 | Oman | 128 | 2009 |
+| 46 | Poland | 125 | 2009 |
+| 47 | Tanzania | 125 | 2009 |
+| 48 | Czech Republic | 122 | 2009 |
+| 49 | Sudan | 121 | 2009 |
+| 50 | New Zealand | 120 | 2009 |
+| 51 | Malaysia | 118 | 2009 |
+| 52 | Panama | 117 | 2009 |
+| 53 | Korea, South | 116 | 2009 |
+| 54 | Honduras | 106 | 2009 |
+| 55 | Mozambique | 105 | 2009 |
+| 56 | Thailand | 105 | 2009 |
+| 57 | Iraq | 104 | 2009 |
+| 58 | Syria | 104 | 2009 |
+| 59 | Turkey | 102 | 2009 |
+| 60 | Guyana | 99 | 2009 |
+| 61 | Kazakhstan | 99 | 2009 |
+| 62 | Iceland | 99 | 2009 |
+| 63 | Norway | 98 | 2009 |
+| 64 | Zambia | 97 | 2009 |
+| 65 | Denmark | 92 | 2009 |
+| 66 | Madagascar | 89 | 2009 |
+| 67 | Lithuania | 87 | 2009 |
+| 68 | Egypt | 85 | 2009 |
+| 69 | Greece | 81 | 2009 |
+| 70 | Korea, North | 79 | 2009 |
+| 71 | Botswana | 77 | 2009 |
+| 72 | Burma | 77 | 2009 |
+| 73 | Croatia | 68 | 2009 |
+| 74 | Switzerland | 66 | 2009 |
+| 75 | Belarus | 65 | 2009 |
+| 76 | Portugal | 65 | 2009 |
+| 77 | El Salvador | 65 | 2009 |
+| 78 | Ethiopia | 63 | 2009 |
+| 79 | Bahamas, The | 62 | 2009 |
+| 80 | Somalia | 59 | 2009 |
+| 81 | Morocco | 58 | 2009 |
+| 82 | Uruguay | 57 | 2009 |
+| 83 | Nigeria | 56 | 2009 |
+| 84 | Austria | 55 | 2009 |
+| 85 | Yemen | 55 | 2009 |
+| 86 | Chad | 54 | 2009 |
+| 87 | Uzbekistan | 54 | 2009 |
+| 88 | French Polynesia | 53 | 2009 |
+| 89 | Romania | 53 | 2009 |
+| 90 | Afghanistan | 51 | 2009 |
+| 91 | Suriname | 50 | 2009 |
+| 92 | Israel | 47 | 2009 |
+| 93 | Nepal | 47 | 2009 |
+| 94 | Hungary | 46 | 2009 |
+| 95 | Mongolia | 45 | 2009 |
+| 96 | Belize | 44 | 2009 |
+| 97 | Vietnam | 44 | 2009 |
+| 98 | Gabon | 44 | 2009 |
+| 99 | Belgium | 43 | 2009 |
+| 100 | Latvia | 43 | 2009 |
+| 101 | Taiwan | 42 | 2009 |
+| 102 | United Arab Emirates | 41 | 2009 |
+| 103 | Laos | 41 | 2009 |
+| 104 | Central African Republic | 40 | 2009 |
+| 105 | Ireland | 39 | 2009 |
+| 106 | Solomon Islands | 36 | 2009 |
+| 107 | Cameroon | 36 | 2009 |
+| 108 | Dominican Republic | 35 | 2009 |
+| 109 | Uganda | 35 | 2009 |
+| 110 | Slovakia | 35 | 2009 |
+| 111 | Azerbaijan | 34 | 2009 |
+| 112 | Liberia | 33 | 2009 |
+| 113 | Malawi | 32 | 2009 |
+| 114 | Tunisia | 32 | 2009 |
+| 115 | Vanuatu | 31 | 2009 |
+| 116 | Kyrgyzstan | 29 | 2009 |
+| 117 | Puerto Rico | 29 | 2009 |
+| 118 | Fiji | 28 | 2009 |
+| 119 | Niger | 28 | 2009 |
+| 120 | Turkmenistan | 28 | 2009 |
+| 121 | Serbia | 28 | 2009 |
+| 122 | Cote d'Ivoire | 28 | 2009 |
+| 123 | Jamaica | 27 | 2009 |
+| 124 | Netherlands | 27 | 2009 |
+| 125 | Mauritania | 27 | 2009 |
+| 126 | Lesotho | 26 | 2009 |
+| 127 | Burkina Faso | 26 | 2009 |
+| 128 | Tajikistan | 26 | 2009 |
+| 129 | Antarctica | 25 | 2009 |
+| 130 | New Caledonia | 25 | 2009 |
+| 131 | Congo, Republic of the | 25 | 2009 |
+| 132 | Bosnia and Herzegovina | 25 | 2009 |
+| 133 | Georgia | 22 | 2009 |
+| 134 | Mali | 22 | 2009 |
+| 135 | Estonia | 19 | 2009 |
+| 136 | Senegal | 19 | 2009 |
+| 137 | Kiribati | 19 | 2009 |
+| 138 | Sri Lanka | 18 | 2009 |
+| 139 | Bangladesh | 17 | 2009 |
+| 140 | Cambodia | 17 | 2009 |
+| 141 | Guinea | 17 | 2009 |
+| 142 | Jordan | 17 | 2009 |
+| 143 | Slovenia | 16 | 2009 |
+| 144 | Cyprus | 15 | 2009 |
+| 145 | Marshall Islands | 15 | 2009 |
+| 146 | Greenland | 15 | 2009 |
+| 147 | Eritrea | 14 | 2009 |
+| 148 | Swaziland | 14 | 2009 |
+| 149 | Seychelles | 14 | 2009 |
+| 150 | Macedonia | 14 | 2009 |
+| 151 | Haiti | 14 | 2009 |
+| 152 | Djibouti | 13 | 2009 |
+| 153 | Armenia | 11 | 2009 |
+| 154 | Moldova | 11 | 2009 |
+| 155 | Ghana | 11 | 2009 |
+| 156 | Cape Verde | 10 | 2009 |
+| 157 | Cook Islands | 9 | 2009 |
+| 158 | Sierra Leone | 9 | 2009 |
+| 159 | Rwanda | 9 | 2009 |
+| 160 | Guinea-Bissau | 9 | 2009 |
+| 161 | Burundi | 8 | 2009 |
+| 162 | Togo | 8 | 2009 |
+| 163 | Turks and Caicos Islands | 8 | 2009 |
+| 164 | Singapore | 8 | 2009 |
+| 165 | Kosovo | 8 | 2009 |
+| 166 | Equatorial Guinea | 7 | 2009 |
+| 167 | Lebanon | 7 | 2009 |
+| 168 | Kuwait | 7 | 2009 |
+| 169 | Falkland Islands (Islas Malvinas) | 6 | 2009 |
+| 170 | Micronesia, Federated States of | 6 | 2009 |
+| 171 | Tonga | 6 | 2009 |
+| 172 | Timor-Leste | 6 | 2009 |
+| 173 | Western Sahara | 6 | 2009 |
+| 174 | Saint Vincent and the Grenadines | 6 | 2009 |
+| 175 | Trinidad and Tobago | 6 | 2009 |
+| 176 | Albania | 5 | 2009 |
+| 177 | Benin | 5 | 2009 |
+| 178 | Qatar | 5 | 2009 |
+| 179 | Netherlands Antilles | 5 | 2009 |
+| 180 | Maldives | 5 | 2009 |
+| 181 | Mauritius | 5 | 2009 |
+| 182 | Montenegro | 5 | 2009 |
+| 183 | Northern Mariana Islands | 5 | 2009 |
+| 184 | Comoros | 4 | 2009 |
+| 185 | British Virgin Islands | 4 | 2009 |
+| 186 | Samoa | 4 | 2009 |
+| 187 | Svalbard | 4 | 2009 |
+| 188 | Spratly Islands | 4 | 2009 |
+| 189 | French Southern and Antarctic Lands | 4 | 2006 |
+| 190 | Antigua and Barbuda | 3 | 2009 |
+| 191 | Bahrain | 3 | 2009 |
+| 192 | Anguilla | 3 | 2009 |
+| 193 | Grenada | 3 | 2009 |
+| 194 | American Samoa | 3 | 2009 |
+| 195 | Palau | 3 | 2009 |
+| 196 | Cayman Islands | 3 | 2009 |
+| 197 | Bhutan | 2 | 2009 |
+| 198 | Dominica | 2 | 2009 |
+| 199 | Hong Kong | 2 | 2009 |
+| 200 | Saint Pierre and Miquelon | 2 | 2009 |
+| 201 | Saint Lucia | 2 | 2009 |
+| 202 | Virgin Islands | 2 | 2009 |
+| 203 | Wallis and Futuna | 2 | 2009 |
+| 204 | West Bank | 2 | 2009 |
+| 205 | Sao Tome and Principe | 2 | 2009 |
+| 206 | Saint Kitts and Nevis | 2 | 2009 |
+| 207 | Montserrat | 2 | 2009 |
+| 208 | Luxembourg | 2 | 2009 |
+| 209 | Guernsey | 2 | 2009 |
+| 210 | Brunei | 2 | 2009 |
+| 211 | Aruba | 1 | 2009 |
+| 212 | Barbados | 1 | 2009 |
+| 213 | Wake Island | 1 | 2009 |
+| 214 | Tuvalu | 1 | 2009 |
+| 215 | Saint Barthelemy | 1 | 2009 |
+| 216 | Saint Helena | 1 | 2009 |
+| 217 | Norfolk Island | 1 | 2009 |
+| 218 | Niue | 1 | 2009 |
+| 219 | Malta | 1 | 2009 |
+| 220 | Mayotte | 1 | 2009 |
+| 221 | Macau | 1 | 2009 |
+| 222 | Christmas Island | 1 | 2009 |
+| 223 | Jan Mayen | 1 | 2009 |
+| 224 | Jersey | 1 | 2009 |
+| 225 | British Indian Ocean Territory | 1 | 2009 |
+| 226 | Saint Martin | 1 | 2009 |
+| 227 | Paracel Islands | 1 | 2009 |
+| 228 | Nauru | 1 | 2009 |
+| 229 | Isle of Man | 1 | 2009 |
+| 230 | Gaza Strip | 1 | 2009 |
+| 231 | Gibraltar | 1 | 2009 |
+| 232 | Gambia, The | 1 | 2009 |
+| 233 | Faroe Islands | 1 | 2009 |
+| 234 | Cocos (Keeling) Islands | 1 | 2009 |
+| 235 | Bermuda | 1 | 2009 |

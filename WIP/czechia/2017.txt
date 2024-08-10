@@ -1,0 +1,360 @@
+CIA - The World Factbook -- CZECHIA
+
+| Geography | CZECHIA |
+| --- | --- |
+| Location: | Central Europe, between Germany, Poland, Slovakia, and Austria |
+| Geographic coordinates: | 49 45 N, 15 30 E |
+| Map references: | Europe |
+| Area: | total: 78,867 sq km |
+| | land: 77,247 sq km |
+| | water: 1,620 sq km |
+| Area - comparative: | about two-thirds the size of Pennsylvania; slightly smaller than South Carolina |
+| Land boundaries: | total: 2,143 km |
+| | border countries (4): Austria 402 km, Germany 704 km, Poland 796 km, Slovakia 241 km |
+| Coastline: | 0 km (landlocked) |
+| Maritime claims: | none (landlocked) |
+| Climate: | temperate; cool summers; cold, cloudy, humid winters |
+| Terrain: | Bohemia in the west consists of rolling plains, hills, and plateaus surrounded by low mountains; Moravia in the east consists of very hilly country |
+| Elevation: | mean elevation: 433 m |
+| | elevation extremes: lowest point: Labe (Elbe) River 115 m |
+| | highest point: Snezka 1,602 m |
+| Natural resources: | hard coal, soft coal, kaolin, clay, graphite, timber, arable land |
+| Land use: | agricultural land: 54.8% |
+| | arable land 41%; permanent crops 1%; permanent pasture 12.8% |
+| | forest: 34.4% |
+| | other: 10.8% (2011 est.) |
+| Irrigated land: | 320 sq km (2012) |
+| Population - distribution: | a fairly even distribution throughout most of the country, but the northern and eastern regions tend to have larger urban concentrations |
+| Natural hazards: | flooding |
+| Environment - current issues: | air and water pollution in areas of northwest Bohemia and in northern Moravia around Ostrava present health risks; acid rain damaging forests; efforts to bring industry up to EU code should improve domestic pollution |
+| Environment - international agreements: | party to: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protocol, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling |
+| | signed, but not ratified: none of the selected agreements |
+| Geography - note: | landlocked; strategically located astride some of oldest and most significant land routes in Europe; Moravian Gate is a traditional military corridor between the North European Plain and the Danube in central Europe |
+
+| People and Society | CZECHIA |
+| --- | --- |
+| Population: | 10,674,723 (July 2017 est.) |
+| Nationality: | noun: Czech(s) |
+| | adjective: Czech |
+| Ethnic groups: | Czech 64.3%, Moravian 5%, Slovak 1.4%, other 1.8%, unspecified 27.5% (2011 est.) |
+| Languages: | Czech (official) 95.4%, Slovak 1.6%, other 3% (2011 census) |
+| Religions: | Roman Catholic 10.4%, Protestant (includes Czech Brethren and Hussite) 1.1%, other and unspecified 54%, none 34.5% (2011 est.) |
+| Age structure: | 0-14 years: 15.16% (male 831,150/female 786,984) |
+| | 15-24 years: 9.59% (male 527,232/female 496,530) |
+| | 25-54 years: 43.84% (male 2,403,333/female 2,276,261) |
+| | 55-64 years: 12.44% (male 646,106/female 681,541) |
+| | 65 years and over: 18.98% (male 842,384/female 1,183,202) (2017 est.) |
+| Dependency ratios: | total dependency ratio: 49.5 |
+| | youth dependency ratio: 22.6 |
+| | elderly dependency ratio: 26.9 |
+| | potential support ratio: 3.7 (2015 est.) |
+| Median age: | total: 42.1 years |
+| | male: 40.8 years |
+| | female: 43.4 years (2017 est.) |
+| Population growth rate: | 0.12% (2017 est.) |
+| Birth rate: | 9.3 births/1,000 population (2017 est.) |
+| Death rate: | 10.5 deaths/1,000 population (2017 est.) |
+| Net migration rate: | 2.3 migrant(s)/1,000 population (2017 est.) |
+| Population distribution: | a fairly even distribution throughout most of the country, but the northern and eastern regions tend to have larger urban concentrations |
+| Urbanization: | urban population: 73% of total population (2017) |
+| | rate of urbanization: 0.3% annual rate of change (2015-20 est.) |
+| Major urban areas - population: | PRAGUE (capital) 1.314 million (2015) |
+| Sex ratio: | at birth: 1.06 male(s)/female |
+| | 0-14 years: 1.06 male(s)/female |
+| | 15-24 years: 1.06 male(s)/female |
+| | 25-54 years: 1.05 male(s)/female |
+| | 55-64 years: 0.94 male(s)/female |
+| | 65 years and over: 0.7 male(s)/female |
+| | total population: 0.97 male(s)/female (2016 est.) |
+| Mother's mean age at first birth: | 28.1 years (2014 est.) |
+| Maternal mortality rate: | 4 deaths/100,000 live births (2015 est.) |
+| Infant mortality rate: | total: 2.6 deaths/1,000 live births |
+| | male: 2.8 deaths/1,000 live births |
+| | female: 2.5 deaths/1,000 live births (2017 est.) |
+| Life expectancy at birth: | total population: 78.8 years |
+| | male: 75.8 years |
+| | female: 81.9 years (2017 est.) |
+| Total fertility rate: | 1.45 children born/woman (2017 est.) |
+| Contraceptive prevalence rate: | 86.3% |
+| | note: percent of women aged 18-44 (2008) |
+| Health expenditures: | 7.4% of GDP (2014) |
+| Physicians density: | 3.68 physicians/1,000 population (2013) |
+| Hospital bed density: | 6.8 beds/1,000 population (2011) |
+| Drinking water source: | improved: |
+| | urban: 100% of population |
+| | rural: 100% of population |
+| | total: 100% of population |
+| unimproved: | urban: 0% of population |
+| | rural: 0% of population |
+| | total: 0% of population (2015 est.) |
+| Sanitation facility access: | improved: |
+| | urban: 99.1% of population |
+| | rural: 99.2% of population |
+| | total: 99.1% of population |
+| unimproved: | urban: 0.9% of population |
+| | rural: 0.8% of population |
+| | total: 0.9% of population (2015 est.) |
+| HIV/AIDS - adult prevalence rate: | <.1% (2016 est.) |
+| HIV/AIDS - people living with HIV/AIDS: | 3,400 (2016 est.) |
+| HIV/AIDS - deaths: | <100 (2016 est.) |
+| Obesity - adult prevalence rate: | 26% (2016) |
+| Education expenditures: | 4.1% of GDP (2013) |
+| Literacy: | definition: NA |
+| | total population: 99% |
+| | male: 99% |
+| | female: 99% (2011 est.) |
+| School life expectancy (primary to tertiary education): | total: 17 years |
+| | male: 16 years |
+| | female: 18 years (2014) |
+| Unemployment, youth ages 15-24: | total: 12.6% |
+| | male: 11.3% |
+| | female: 14.4% (2015 est.) |
+
+| Government | CZECHIA |
+| --- | --- |
+| Country name: | conventional long form: Czech Republic |
+| | conventional short form: Czechia |
+| | local long form: Ceska republika |
+| | local short form: Cesko |
+| | etymology: name derives from the Czechs, a West Slavic tribe who rose to prominence in the late 9th century A.D. |
+| Government type: | parliamentary republic |
+| Capital: | name: Prague |
+| | geographic coordinates: 50 05 N, 14 28 E |
+| | time difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time) |
+| | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 13 regions (kraje, singular - kraj) and 1 capital city* (hlavni mesto); Jihocesky (South Bohemia), Jihomoravsky (South Moravia), Karlovarsky (Karlovy Vary), Kralovehradecky (Hradec Kralove), Liberecky (Liberec), Moravskoslezsky (Moravia-Silesia), Olomoucky (Olomouc), Pardubicky (Pardubice), Plzensky (Pilsen), Praha (Prague)*, Stredocesky (Central Bohemia), Ustecky (Usti), Vysocina (Highlands), Zlinsky (Zlin) |
+| Independence: | 1 January 1993 (Czechoslovakia split into the Czech Republic and Slovakia); note - although 1 January is the day the Czech Republic came into being, the Czechs commemorate 28 October 1918, the day the former Czechoslovakia declared its independence from the Austro-Hungarian Empire, as their independence day |
+| National holiday: | Czechoslovak Founding Day, 28 October (1918) |
+| Constitution: | history: previous 1960; latest ratified 16 December 1992, effective 1 January 1993 |
+| | amendments: passage requires at least three-fifths concurrence by members present in both houses of Parliament; amended several times, last in 2013 (2016) |
+| Legal system: | new civil code enacted in 2014, replacing civil code of 1964 - based on former Austro-Hungarian civil codes and socialist theory - and reintroducing former Czech legal terminology |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| | citizenship by descent only: at least one parent must be a citizen of Czechia |
+| | dual citizenship recognized: no |
+| | residency requirement for naturalization: 5 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Milos ZEMAN (since 8 March 2013) |
+| | head of government: Prime Minister Bohuslav SOBOTKA (since 17 January 2014); First Deputy Prime Minister Richard BRABEC (since 24 May 2017) and Deputy Prime Minister Pavel BELOBRADEK (since 29 January 2014) |
+| | cabinet: Cabinet appointed by the president on the recommendation of the prime minister |
+| | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (limited to 2 consecutive terms); elections last held on 11-12 January 2013 with a runoff on 25-26 January 2013 (next to be held in January 2018); prime minister appointed by the president for a 4-year term |
+| | election results: Milos ZEMAN elected president; percent of popular vote - Milos ZEMAN (SPO) 54.8%, Karel SCHWARZENBERG (TOP 09) 45.2% |
+| Legislative branch: | description: bicameral Parliament or Parlament consists of the Senate or Senat (81 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms with one-third of the membership renewed every 2 years) and the Chamber of Deputies or Poslanecka Snemovna (200 seats; members directly elected in 14 multi-seat constituencies by proportional representation vote with a 5% threshold required to fill a seat; members serve 4-year terms) |
+| | elections: Senate - last held in 2 rounds on 7-8 and 14-15 October 2016 (next to be held in October 2018); Chamber of Deputies - last held on 20-21 October 2017 (next to be held on October 2021) |
+| | election results: Senate - percent of vote by party - NA; CSSD 25, KDU-CSL 14, ODS 9, ANO 7, STAN 5, SZ 4, TOP 09 2, SLK 2, SZ 2, SPO 1, Movement for Prague 1, S.cz. 1, KSCM 1, other 5, independent 2; Chamber of Deputies - percent of vote by party - ANO 29.6%, ODS 11.3%, Pirates 10.8%, SPD 10.6%, KSCM 7.8%, CSSD 7.3%, KDU-CSL 5.8%, TOP 09 5.3%, STAN 5.2%, other 6.3%; seats by party - ANO 78, ODS 25, Pirates 22, SPD 22, KSCM 15, CSSD 15, KDU-CSL 10, TOP 09 7, STAN 6 |
+| | note: Senate seats by party as of 20 May 2017 - CSSD 25, KDU-CSL 16, STAN and TOP 09 11, ODS 10, ANO 7, SPO 2, SZ 2, S.cz. 1, KSCM 1, Movement for Prague 1, independent 5 |
+| Judicial branch: | highest court(s): Supreme Court (organized into Civil Law and Commercial Division, and Criminal Division each with a court chief justice, vice justice, and several judges); Constitutional Court (consists of 15 justices); Supreme Administrative Court (consists of 28 judges) |
+| | judge selection and term of office: Supreme Court judges proposed by the Chamber of Deputies and appointed by the president; judges appointed for life; Constitutional Court judges appointed by the president and confirmed by the Senate; judges appointed for 10-year, renewable terms; Supreme Administrative Court judges selected by the president of the Court; unlimited terms |
+| | subordinate courts: High Court; superior, regional, and district courts |
+| Political parties and leaders: | Christian Democratic Union-Czechoslovak People's Party or KDU-CSL [Pavel BELOBRADEK] |
+| | Civic Democratic Party or ODS [Petr FIALA] |
+| | Communist Party of Bohemia and Moravia or KSCM [Vojtech FILIP] |
+| | Czech Pirate Party or Pirates [Ivan BARTOS] |
+| | Czech Social Democratic Party or CSSD [Lubomir ZAORALEK] |
+| | Dawn - National Coalition or Usvit-NK [Miroslav LIDINSKY] |
+| | Free Citizens Party or Svobodni [Petr MACH] |
+| | Freedom and Direct Democracy or SPD [Tomio OKAMURA] |
+| | Green Party or SZ [Matej STROPNICKY] |
+| | Mayors and Independents or STAN [Petr GAZDIK] |
+| | Movement for Prague |
+| | Movement of Dissatisfied Citizens or ANO [Andrej BABIS] |
+| | Nestranici (Non-Partisans) or NK [Vera RYBOVA] |
+| | North Bohemians or S.cz [Bronislav SCHWARZ] |
+| | Party of Civic Rights or SPO [Jan VELEBA] |
+| | Tradition Responsibility Prosperity 09 or TOP 09 [Miroslav KALOUSEK] |
+| Political pressure groups and leaders: | Czech-Moravian Confederation of Trade Unions or CMKOS [Josef STREDULA] |
+| International organization participation: | Australia Group, BIS, BSEC (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Hynek KMONICEK (since 24 April 2017) |
+| | chancery: 3900 Spring of Freedom Street NW, Washington, DC 20008 |
+| | telephone: [1] (202) 274-9100 |
+| | FAX: [1] (202) 966-8540 |
+| | consulate(s) general: Chicago, Los Angeles, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador (vacant); Charge d'Affaires Stephen B. KING (since 2017) |
+| | embassy: Trziste 15, 118 01 Prague 1 - Mala Strana |
+| | mailing address: use embassy street address |
+| | telephone: [420] 257 022 000 |
+| | FAX: [420] 257 022 809 |
+| Flag description: | two equal horizontal bands of white (top) and red with a blue isosceles triangle based on the hoist side |
+| | note: combines the white and red colors of Bohemia with blue from the arms of Moravia; is identical to the flag of the former Czechoslovakia |
+| National symbol(s): | silver (or white), double-tailed, rampant lion; national colors: white, red, blue |
+| National anthem: | name: "Kde domov muj?" (Where is My Home?) |
+| | lyrics/music: Josef Kajetan TYL/Frantisek Jan SKROUP |
+| | note: adopted 1993; the anthem was originally written as incidental music to the play "Fidlovacka" (1834), it soon became very popular as an unofficial anthem of the Czech nation; its first verse served as the official Czechoslovak anthem beginning in 1918, while the second verse (Slovak) was dropped after the split of Czechoslovakia in 1993 |
+
+| Economy | CZECHIA |
+| --- | --- |
+| Economy - overview: | Czechia is a prosperous market economy that boasts one of the highest GDP growth rates and lowest unemployment levels in the EU, but its dependence on exports makes economic growth vulnerable to contractions in external demand. Czechia’s exports comprise some 80% of GDP and largely consist of automobiles, the country’s single largest industry. Czechia acceded to the EU in 2004 but has yet to join the euro-zone. While the flexible koruna helps Czechia weather external shocks, its central bank (Czech National Bank - CNB) has since November 2013 intervened in the foreign exchange markets to cap the value of the koruna at 27/Euro, with a 2% inflation target. This intervention has also helped to keep exports competitively priced. After inflation exceeded the bank's 2% target in early 2017, the CNB indicated it expects to end its intervention in the first half of 2017, though it will continue to intervene as necessary to maintain stability of the currency. |
+| | After slowly recovering from a steep recession in 2009, the Czech economy again fell into recession in 2012 and 2013 because of a slump in demand within the EU and government austerity measures. Inflows of EU development funds underpinned a rebound in 2014-15. Real GDP growth reached 4.5% in 2015, in part due to last-minute spending of EU funds, and fell to 2.5% in 2016, still one of the highest rates in the EU. The Czech unemployment rate was 5.2% in 2016, one of the lowest rates in the EU. |
+| | Since coming to power in 2014, the new government has undertaken some reforms to try to reduce corruption, attract investment, and improve social welfare programs, which could help increase the government’s revenues and improve living conditions for Czechs. The government introduced in December 2016 an online tax reporting system intended to reduce tax evasion and increase revenues. The government also plans to remove labor market rigidities to improve the business climate, bring procurement procedures in line with EU best practices, and boost wages. The country's low unemployment rate has led to steady increases in salaries – 4-5% in each of the past two years, and the government is facing pressure from businesses to allow greater migration of qualified workers, at least from Ukraine and neighboring Central European countries. |
+| | Long-term challenges include dealing with a rapidly aging population, a shortage of skilled workers, a lagging education system, funding an unsustainable pension and health care system, and diversifying away from manufacturing and toward a more high-tech, services-based, knowledge economy. |
+| GDP (purchasing power parity): | $353.9 billion (2016 est.) |
+| | $340.6 billion (2015 est.) |
+| | $319.9 billion (2014 est.) |
+| | note: data are in 2016 dollars |
+| GDP (official exchange rate): | $195.3 billion (2016 est.) |
+| GDP - real growth rate: | 2.6% (2016 est.) |
+| | 5.3% (2015 est.) |
+| | 2.7% (2014 est.) |
+| GDP - per capita (PPP): | $33,500 (2016 est.) |
+| | $32,700 (2015 est.) |
+| | $31,200 (2014 est.) |
+| | note: data are in 2016 dollars |
+| Gross national saving: | 27.4% of GDP (2016 est.) |
+| | 28.2% of GDP (2015 est.) |
+| | 26.1% of GDP (2014 est.) |
+| GDP - composition, by end use: | household consumption: 47% |
+| | government consumption: 19.2% |
+| | investment in fixed capital: 25% |
+| | investment in inventories: 1.3% |
+| | exports of goods and services: 79.5% |
+| | imports of goods and services: -72% (2016 est.) |
+| GDP - composition, by sector of origin: | agriculture: 2.5% |
+| | industry: 37.5% |
+| | services: 60% (2016 est.) |
+| Agriculture - products: | wheat, potatoes, sugar beets, hops, fruit; pigs, poultry |
+| Industries: | motor vehicles, metallurgy, machinery and equipment, glass, armaments |
+| Industrial production growth rate: | 3.5% (2016 est.) |
+| Labor force: | 5.35 million (2016 est.) |
+| Labor force - by occupation: | agriculture: 2.8% |
+| | industry: 38% |
+| | services: 59.2% (2015) |
+| Unemployment rate: | 4% (2016 est.) |
+| | 5.1% (2015 est.) |
+| Population below poverty line: | 9.7% (2015 est.) |
+| Household income or consumption by percentage share: | lowest 10%: 4.1% |
+| | highest 10%: 21.7% (2015 est.) |
+| Distribution of family income - Gini index: | 25 (2015) |
+| | 25.1 (2014) |
+| Budget: | revenues: $78.09 billion |
+| | expenditures: $76.96 billion (2016 est.) |
+| Taxes and other revenues: | 40.5% of GDP (2016 est.) |
+| Budget surplus (+) or deficit (-): | 0.6% of GDP (2016 est.) |
+| Public debt: | 36.8% of GDP (2016 est.) |
+| | 39.9% of GDP (2015 est.) |
+| Fiscal year: | calendar year |
+| Inflation rate (consumer prices): | 0.7% (2016 est.) |
+| | 0.3% (2015 est.) |
+| Central bank discount rate: | 0.05% (31 December 2016) |
+| | 0.05% (31 December 2015) |
+| | note: this is the two-week repo, the main rate CNB uses |
+| Commercial bank prime lending rate: | 3.91% (31 December 2016 est.) |
+| | 4.28% (31 December 2015 est.) |
+| Stock of narrow money: | $133.5 billion (31 December 2016 est.) |
+| | $124.9 billion (31 December 2015 est.) |
+| Stock of broad money: | $148.7 billion (31 December 2016 est.) |
+| | $144.1 billion (31 December 2015 est.) |
+| Stock of domestic credit: | $124.3 billion (31 December 2016 est.) |
+| | $127.5 billion (31 December 2015 est.) |
+| Market value of publicly traded shares: | $44.5 billion (31 December 2016 est.) |
+| | $39.91 billion (31 December 2015 est.) |
+| | $45.63 billion (31 December 2014 est.) |
+| Current account balance: | $2.154 billion (2016 est.) |
+| | $461 million (2015 est.) |
+| Exports: | $131.1 billion (2016 est.) |
+| | $128.2 billion (2015 est.) |
+| Exports - commodities: | machinery and transport equipment, raw materials, fuel, chemicals |
+| Exports - partners: | Germany 32.4%, Slovakia 8.4%, Poland 5.8%, UK 5.2%, France 5.2%, Italy 4.3%, Austria 4.2% (2016) |
+| Imports: | $120.8 billion (2016 est.) |
+| | $120.5 billion (2015 est.) |
+| Imports - commodities: | machinery and transport equipment, raw materials and fuels, chemicals |
+| Imports - partners: | Germany 30.6%, Poland 9.6%, China 7.5%, Slovakia 6.3%, Netherlands 5.3%, Italy 4.1% (2016) |
+| Reserves of foreign exchange and gold: | $85.73 billion (31 December 2016 est.) |
+| | $64.49 billion (31 December 2015 est.) |
+| Debt - external: | $138 billion (31 December 2016 est.) |
+| | $129.2 billion (31 December 2015 est.) |
+| Stock of direct foreign investment - at home: | $139.6 billion (31 December 2016 est.) |
+| | $140.3 billion (31 December 2015 est.) |
+| Stock of direct foreign investment - abroad: | $43.09 billion (31 December 2016 est.) |
+| | $42.26 billion (31 December 2015 est.) |
+| Exchange rates: | koruny (CZK) per US dollar - |
+| | 24.44 (2016 est.) |
+| | 24.44 (2015 est.) |
+| | 24.599 (2014 est.) |
+| | 20.758 (2013 est.) |
+| | 19.59 (2012 est.) |
+
+| Energy | CZECHIA |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2016) |
+| Electricity - production: | 77.74 billion kWh (2015 est.) |
+| Electricity - consumption: | 61.16 billion kWh (2015 est.) |
+| Electricity - exports: | 24.79 billion kWh (2016 est.) |
+| Electricity - imports: | 13.82 billion kWh (2016 est.) |
+| Electricity - installed generating capacity: | 21.51 million kW (2015 est.) |
+| Electricity - from fossil fuels: | 56.6% of total installed capacity (2015 est.) |
+| Electricity - from nuclear fuels: | 18.3% of total installed capacity (2015 est.) |
+| Electricity - from hydroelectric plants: | 5.1% of total installed capacity (2015 est.) |
+| Electricity - from other renewable sources: | 14.5% of total installed capacity (2015 est.) |
+| Crude oil - production: | 2,333 bbl/day (2016 est.) |
+| Crude oil - exports: | 518.7 bbl/day (2016 est.) |
+| Crude oil - imports: | 105,800 bbl/day (2016 est.) |
+| Crude oil - proved reserves: | 15 million bbl (1 January 2017 es) |
+| Refined petroleum products - production: | 121,000 bbl/day (2016 est.) |
+| Refined petroleum products - consumption: | 180,400 bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 49,000 bbl/day (2016 est.) |
+| Refined petroleum products - imports: | 103,200 bbl/day (2016 est.) |
+| Natural gas - production: | 247 million cu m (2015 est.) |
+| Natural gas - consumption: | 11.51 billion cu m (2015 est.) |
+| Natural gas - exports: | 1 million cu m (2014 est.) |
+| Natural gas - imports: | 7.474 billion cu m (2015 est.) |
+| Natural gas - proved reserves: | 3.964 billion cu m (1 January 2017 es) |
+| Carbon dioxide emissions from consumption of energy: | 103 million Mt (2013 est.) |
+
+| Communications | CZECHIA |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 1,682,194 |
+| | subscriptions per 100 inhabitants: 16 (July 2016 est.) |
+| Telephones - mobile cellular: | total: 12,484,885 |
+| | subscriptions per 100 inhabitants: 117 (July 2016 est.) |
+| Telephone system: | general assessment: good telephone and Internet service; there are three major mobile phone providers, though the government is facing criticism for failing to promote sufficient competition, with critics complaining that Czech mobile phone and data prices are among the highest in the EU |
+| | domestic: access to the fixed-line telephone network expanded throughout the 1990s, but the number of fixed-line connections has been dropping since then; mobile telephone usage increased sharply beginning in the mid-1990s, and the number of cellular telephone subscriptions now greatly exceeds the population |
+| | international: country code - 420; satellite earth stations - 6 (2 Intersputnik - Atlantic and Indian Ocean regions, 1 Intelsat, 1 Eutelsat, 1 Inmarsat, 1 Globalstar) (2017) |
+| Broadcast media: | roughly 130 TV broadcasters operating some 350 channels with 4 publicly operated and the remainder in private hands; 16 TV stations have national coverage with 4 being publicly operated; cable and satellite TV subscription services are available; 63 radio broadcasters are registered operating roughly 80 radio stations with 15 stations publicly operated; 10 radio stations provide national coverage with the remainder local or regional (2008) |
+| Internet country code: | .cz |
+| Internet users: | total: 8,141,303 |
+| | percent of population: 76.5% (July 2016 est.) |
+
+| Transportation | CZECHIA |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 4 |
+| | inventory of registered aircraft operated by air carriers: 48 |
+| | annual passenger traffic on registered air carriers: 4,971,616 |
+| | annual freight traffic on registered air carriers: 26,619,650 mt-km (2015) |
+| Civil aircraft registration country code prefix: | OK (2016) |
+| Airports: | 128 (2013) |
+| Airports - with paved runways: | total: 41 |
+| | over 3,047 m: 2 |
+| | 2,438 to 3,047 m: 9 |
+| | 1,524 to 2,437 m: 12 |
+| | 914 to 1,523 m: 2 |
+| | under 914 m: 16 (2017) |
+| Airports - with unpaved runways: | total: 87 |
+| | 1,524 to 2,437 m: 1 |
+| | 914 to 1,523 m: 25 |
+| | under 914 m: 61 (2013) |
+| Heliports: | 1 (2013) |
+| Pipelines: | gas 7,160 km; oil 536 km; refined products 94 km (2013) |
+| Railways: | total: 9,621.5 km |
+| | standard gauge: 9,519.5 km 1.435-m gauge (3,240.5 km electrified) |
+| | narrow gauge: 102 km 0.760-m gauge (2014) |
+| Roadways: | total: 130,661 km (includes urban roads) |
+| | paved: 130,661 km (includes 730 km of expressways) (2011) |
+| Waterways: | 664 km (principally on Elbe, Vltava, Oder, and other navigable rivers, lakes, and canals) (2010) |
+| Merchant marine: | registered in other countries: 1 (Saint Vincent and the Grenadines 1) (2010) |
+| Ports and terminals: | river port(s): Prague (Vltava); Decin, Usti nad Labem (Elbe) |
+
+| Military and Security | CZECHIA |
+| --- | --- |
+| Military expenditures: | 0.98% of GDP (2016) |
+| | 0.96% of GDP (2015) |
+| | 0.97% of GDP (2014) |
+| | 0.99% of GDP (2013) |
+| | 1.03% of GDP (2012) |
+| Military branches: | Army of the Czech Republic (Armada Ceske Republiky): General Staff (Generalni Stab, includes Land Forces (Pozemni Sily) and Air Forces (Vzdusne Sily)) (2015) |
+| Military service age and obligation: | 18-28 years of age for male and female voluntary military service; no conscription (2012) |
+
+| Transnational Issues | CZECHIA |
+| --- | --- |
+| Disputes - international: | none |
+| Refugees and internally displaced persons: | stateless persons: 1,502 (2016) |
+| Illicit drugs: | transshipment point for Southwest Asian heroin and minor transit point for Latin American cocaine to Western Europe; producer of synthetic drugs for local and regional markets; susceptible to money laundering related to drug trafficking, organized crime; significant consumer of ecstasy |

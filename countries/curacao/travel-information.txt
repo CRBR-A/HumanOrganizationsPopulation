@@ -1,0 +1,27 @@
+Telephone Code: 599
+Local Emergency Phone: 112
+Climate: Tropical marine climate, ameliorated by northeast trade winds, results in mild temperatures; semiarid with average rainfall of 60 cm/year
+Currency (Code): Netherlands Antillean guilders (ANG)
+Electricity: 127 V
+Voltage: 50 Hz
+Plug types(s): A, B
+Major Languages: Papiamento (a creole language) 79.9%, Dutch 8.8%, Spanish 5.6%, English 3.1%
+Major Religions: Roman Catholic 72.8%, Pentecostal 6.6%, Protestant 3.2%, Adventist 3%, Jehovah's Witness2%, Evangelical 1.9%
+Time Difference: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)
+Potable Water: Yes
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Willemsted (includes historic Inner City, Queen Emma Bridge); Christoffelpark; Shete Boka Park; Landhuis Chobolobo; Hato Caves; Klein Curacao
+Major Sports: Soccer, baseball, sailing
+Cultural Practices: Always greet people upon arrival.
+Tipping Guidelines: Restaurants bills usually add a 8-15% service charge. Tip porters at the airport and bellhops at the hotel $1 (USD) per bag. Taxi drivers are usually tipped with 20% of the fare.
+Souvenirs: Woven baskets or straw hats, batik fabric, seashell and beaded jewelry, liquor, imported items from the Netherlands
+Traditional Cuisine: Keshi Yena --- cheese typically stuffed with chicken, vegetables, seasonings, and raisins
+
+---
+country: Curacao
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Curacao/travel-facts>
+license: public domain (U.S.)
+...

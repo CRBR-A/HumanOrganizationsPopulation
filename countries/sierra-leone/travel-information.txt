@@ -1,0 +1,29 @@
+Telephone Code: 232
+Local Emergency Phone - Ambulance: 999
+Local Emergency Phone - Fire: 019
+Local Emergency Phone - Police: 999
+Climate: Tropical; hot, humid; summer rainy season (May to December); winter dry season (December to April)
+Currency (Code): Leones (SLL)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): D, G
+Major Languages: English, Mende, Temne, Krio
+Major Religions: Muslim 77.1%, Christian 22.9%
+Time Difference: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Mount Bintumani; Tacugama Chimpanzee Sanctuary; Martello Tower; National Railway Museum; Tokeh Beach; Turtle Islands; Lakka Beach
+Major Sports: Soccer, basketball, cricket, boxing, baseball
+Cultural Practices: Hissing is the accepted way of gaining someone's attention in public.
+Tipping Guidelines: Tips at restaurants are typically not expected, but appreciated. Tipping at hotels is somewhat expected, but at your discretion.
+Souvenirs: Tribal art and ceremonial masks, woven baskets, pottery, handmade precious metal and stone jewelry, tailored clothing, bush-medicine items
+Traditional Cuisine: Cassava leaf stew --- a stew made with finely shredded Cassava leaves added to a palaver sauce made using red palm oil mixed with ingredients such as onions, pepper, fish, meat, and vegetables
+
+---
+country: Sierra Leone
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Sierra Leone/travel-facts>
+license: public domain (U.S.)
+...

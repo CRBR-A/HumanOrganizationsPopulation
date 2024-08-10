@@ -1,0 +1,29 @@
+Telephone Code: 216
+Local Emergency Phone - Ambulance: 190
+Local Emergency Phone - Fire: 198
+Local Emergency Phone - Police: 197
+Climate: Temperate in north with mild, rainy winters and hot, dry summers; desert in south
+Currency (Code): Tunisian dinars (TND)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, E
+Major Languages: Arabic, French, Berber
+Major Religions: Muslim (Sunni) 99.1%, other (includes Christian, Jewish, Shia Muslim and Baha'i) 1%
+Time Difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Tunis (includes Medina, Al-Zaytuna Mosque, Ville Nouvelle); Carthage; Bardo National Museum; Sidi Bou Said; El Jem amphitheater; Monastir; Dougga
+Major Sports: Soccer, handball, basketball, volleyball
+Cultural Practices: Eat only with the right hand, as the left is considered unclean.
+Tipping Guidelines: Tip 5-15%, or round up the bill at restaurants. Hotel porters expect 5 dinars per bag and hotel maids 20 dinars per week as a gratuity. Round up the fare for taxis or add 5% to the total.
+Souvenirs: Woven carpets/rugs, copper and brassware, olivewood sculptures, carved wooden birdcages, ceramic and tile goods, kaftans, shisha water pipes
+Traditional Cuisine: Couscous --- semolina flour sprinkled with water until it forms into tiny pellets that are then pushed through a sieve; typically steamed to a crumbly paste and tossed with a variety of ingredients including carrots, potatoes, turnips, and parsley
+
+---
+country: Tunisia
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Tunisia/travel-facts>
+license: public domain (U.S.)
+...

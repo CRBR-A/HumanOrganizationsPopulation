@@ -1,0 +1,29 @@
+Telephone Code: 371
+Local Emergency Phone - Ambulance: 112, 03
+Local Emergency Phone - Fire: 112, 01
+Local Emergency Phone - Police: 112, 02
+Climate: Maritime; wet, moderate winters
+Currency (Code): Euros (EUR)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, F
+Major Languages: Latvian, Russian
+Major Religions: Lutheran 36.2%, Roman Catholic 19.5%, Orthodox 19.1%
+Time Difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time); daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Gauja National Park; Jurmala Resort; Rundale Palace & Museum; Turaida Museum Reserve; Riga (includes Freedom Statue, Saint Peter's Church, Blackheads House)
+Major Sports: Soccer, ice hockey, basketball
+Cultural Practices: Even numbers of flowers indicate mourning, so be sure to present odd numbers of flowers in arrangements.
+Tipping Guidelines: A 10% tip for good table service at a restaurant or lounge is appreciated. Round up the bill for bartenders and cab drivers.
+Souvenirs: Amber jewelry and decorative items, ceramic items, wickerwork, silver, beer/liquor
+Traditional Cuisine: Grey Peas and Bacon --- grey peas cooked in smoked bacon, onion, and salt; rye bread
+
+---
+country: Latvia
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Latvia/travel-facts>
+license: public domain (U.S.)
+...

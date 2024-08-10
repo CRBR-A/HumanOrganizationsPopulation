@@ -1,0 +1,169 @@
+CIA - The World Factbook --  Population below poverty line   
+
+National estimates of the percentage of the population falling below the poverty line are based on surveys of sub-groups, with the results weighted by the number of people in each group. Definitions of poverty vary considerably among nations. For example, rich nations generally employ more generous standards of poverty than poor nations.
+
+| Rank | country | (%) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Haiti | 80.00 | 2003 est. |
+| 2 | Chad | 80.00 | 2001 est. |
+| 3 | Liberia | 80.00 | 2000 est. |
+| 4 | Congo, Democratic Republic of the | 71.00 | 2006 est. |
+| 5 | Sierra Leone | 70.20 | 2004 |
+| 6 | Nigeria | 70.00 | 2010 est. |
+| 7 | Suriname | 70.00 | 2002 est. |
+| 8 | Swaziland | 69.00 | 2006 |
+| 9 | Burundi | 68.00 | 2002 est. |
+| 10 | Zimbabwe | 68.00 | 2004 |
+| 11 | Sao Tome and Principe | 66.20 | 2009 est. |
+| 12 | Zambia | 64.00 | 2006 |
+| 13 | Niger | 63.00 | 1993 est. |
+| 14 | Comoros | 60.00 | 2002 est. |
+| 15 | Honduras | 60.00 | 2010 est. |
+| 16 | Namibia | 55.80 | 2005 est. |
+| 17 | Senegal | 54.00 | 2001 est. |
+| 18 | Guatemala | 54.00 | 2011 est. |
+| 19 | Malawi | 53.00 | 2004 |
+| 20 | Mozambique | 52.00 | 2009 est. |
+| 21 | Mexico | 51.30 | 2010 est. |
+| 22 | South Sudan | 50.60 | 2009 |
+| 23 | Eritrea | 50.00 | 2004 est. |
+| 24 | Kenya | 50.00 | 2000 est. |
+| 25 | Madagascar | 50.00 | 2004 est. |
+| 26 | Bolivia | 49.60 | 2010 est. |
+| 27 | Lesotho | 49.00 | 1999 |
+| 28 | Gambia, The | 48.40 | NA |
+| 29 | Cameroon | 48.00 | 2000 est. |
+| 30 | Guinea | 47.00 | 2006 est. |
+| 31 | Burkina Faso | 46.70 | 2009 est. |
+| 32 | Sudan | 46.50 | 2009 est. |
+| 33 | Congo, Republic of the | 46.50 | 2011 est. |
+| 34 | Yemen | 45.20 | 2003 |
+| 35 | Rwanda | 44.90 | 2011 est. |
+| 36 | Nicaragua | 42.50 | 2009 |
+| 37 | Cote d'Ivoire | 42.00 | 2006 est. |
+| 38 | Djibouti | 42.00 | 2007 est. |
+| 39 | Belize | 41.30 | 2010 est. |
+| 40 | Timor-Leste | 41.00 | 2009 est. |
+| 41 | Angola | 40.50 | 2006 est. |
+| 42 | Mauritania | 40.00 | 2004 est. |
+| 43 | Tajikistan | 39.60 | December 2012 est. |
+| 44 | Gaza Strip | 38.00 | 2010 est. |
+| 45 | Grenada | 38.00 | 2008 |
+| 46 | Benin | 37.40 | 2007 est. |
+| 47 | Papua New Guinea | 37.00 | 2002 est. |
+| 48 | El Salvador | 36.50 | 2010 est. |
+| 49 | Mali | 36.10 | 2005 est. |
+| 50 | Afghanistan | 36.00 | FY08/09 |
+| 51 | Tanzania | 36.00 | 2002 est. |
+| 52 | Armenia | 35.80 | 2010 est. |
+| 53 | Guyana | 35.00 | 2006 |
+| 54 | Paraguay | 34.70 | 2010 est. |
+| 55 | Dominican Republic | 34.40 | 2010 est. |
+| 56 | Colombia | 34.10 | 2011 est. |
+| 57 | Kyrgyzstan | 33.70 | 2011 est. |
+| 58 | Burma | 32.70 | 2007 est. |
+| 59 | Togo | 32.00 | 1989 est. |
+| 60 | Venezuela | 31.60 | 2011 est. |
+| 61 | Bangladesh | 31.50 | 2010 est. |
+| 62 | South Africa | 31.30 | 2009 est. |
+| 63 | Fiji | 31.00 | 2009 est. |
+| 64 | Macedonia | 30.40 | 2011 |
+| 65 | Botswana | 30.30 | 2003 |
+| 66 | Kosovo | 30.00 | 2010 est. |
+| 67 | Cabo Verde | 30.00 | 2000 |
+| 68 | Argentina | 30.00 | 2010 |
+| 69 | Turkmenistan | 30.00 | 2004 est. |
+| 70 | Mongolia | 29.80 | 2011 est. |
+| 71 | India | 29.80 | 2010 est. |
+| 72 | Ethiopia | 29.20 | FY09/10 est. |
+| 73 | Dominica | 29.00 | 2009 est. |
+| 74 | Virgin Islands | 28.90 | 2002 |
+| 75 | Ghana | 28.50 | 2007 est. |
+| 76 | Lebanon | 28.00 | 1999 est. |
+| 77 | Peru | 27.80 | 2011 est. |
+| 78 | Ecuador | 27.30 | December 2012 est. |
+| 79 | Belarus | 27.10 | 2003 est. |
+| 80 | Micronesia, Federated States of | 26.70 | 2000 |
+| 81 | Philippines | 26.50 | 2009 est. |
+| 82 | Panama | 26.00 | 2012 est. |
+| 83 | Laos | 26.00 | 2010 est. |
+| 84 | Nepal | 25.20 | 2011 est. |
+| 85 | Iraq | 25.00 | 2008 est. |
+| 86 | Costa Rica | 24.80 | 2011 est. |
+| 87 | Uganda | 24.50 | 2009 est. |
+| 88 | Ukraine | 24.10 | 2010 |
+| 89 | Tonga | 24.00 | FY03/04 |
+| 90 | Israel | 23.60 | 2007 |
+| 91 | Bhutan | 23.20 | 2008 |
+| 92 | Guam | 23.00 | 2001 est. |
+| 93 | Algeria | 23.00 | 2006 est. |
+| 94 | Anguilla | 23.00 | 2002 |
+| 95 | Pakistan | 22.30 | FY05/06 est. |
+| 96 | Romania | 22.20 | 2011 est. |
+| 97 | Moldova | 21.90 | 2010 est. |
+| 98 | Bulgaria | 21.80 | 2008 |
+| 99 | Brazil | 21.40 | 2009 est. |
+| 100 | Spain | 21.10 | 2012 |
+| 101 | Croatia | 21.10 | 2011 |
+| 102 | Slovakia | 21.00 | 2002 |
+| 103 | Cambodia | 20.00 | 2012 est. |
+| 104 | Greece | 20.00 | 2009 est. |
+| 105 | Egypt | 20.00 | 2005 est. |
+| 106 | French Polynesia | 19.70 | 2009 |
+| 107 | Italy | 19.60 | 2011 |
+| 108 | United Arab Emirates | 19.50 | 2003 |
+| 109 | Iran | 18.70 | 2007 est. |
+| 110 | Uruguay | 18.60 | 2010 est. |
+| 111 | Bosnia and Herzegovina | 18.60 | 2007 est. |
+| 112 | West Bank | 18.30 | 2010 est. |
+| 113 | Portugal | 18.00 | 2006 |
+| 114 | Estonia | 17.50 | 2010 |
+| 115 | Trinidad and Tobago | 17.00 | 2007 est. |
+| 116 | Uzbekistan | 17.00 | 2011 est. |
+| 117 | Turkey | 16.90 | 2010 |
+| 118 | Jamaica | 16.50 | 2009 est. |
+| 119 | Korea, South | 16.50 | 2011 est. |
+| 120 | Japan | 16.00 | 2010 |
+| 121 | Maldives | 16.00 | 2008 |
+| 122 | Germany | 15.50 | 2010 est. |
+| 123 | Malta | 15.40 | 2011 |
+| 124 | Belgium | 15.20 | 2007 est. |
+| 125 | United States | 15.10 | 2010 est. |
+| 126 | Chile | 15.10 | 2009 est. |
+| 127 | Morocco | 15.00 | 2007 est. |
+| 128 | Jordan | 14.20 | 2002 |
+| 129 | Hungary | 14.00 | 2012 |
+| 130 | United Kingdom | 14.00 | 2006 est. |
+| 131 | Slovenia | 13.60 | 2011 |
+| 132 | Denmark | 13.40 | 2011 |
+| 133 | China | 13.40 | 2011 |
+| 134 | Russia | 12.70 | 2011 |
+| 135 | Albania | 12.50 | 2008 est. |
+| 136 | Syria | 11.90 | 2006 est. |
+| 137 | Indonesia | 11.70 | 2012 est. |
+| 138 | Vietnam | 11.30 | 2012 est. |
+| 139 | Bermuda | 11.00 | 2008 est. |
+| 140 | Azerbaijan | 11.00 | 2009 est. |
+| 141 | Poland | 10.60 | 2008 est. |
+| 142 | Netherlands | 10.50 | 2005 |
+| 143 | Canada | 9.40 | 2008 |
+| 144 | Bahamas, The | 9.30 | 2004 |
+| 145 | Greenland | 9.20 | 2007 est. |
+| 146 | Georgia | 9.20 | 2010 |
+| 147 | Serbia | 9.20 | 2010 est. |
+| 148 | Czech Republic | 9.00 | 2010 est. |
+| 149 | Sri Lanka | 8.90 | 2010 est. |
+| 150 | Mauritius | 8.00 | 2006 est. |
+| 151 | Switzerland | 7.90 | 2010 |
+| 152 | France | 7.80 | 2010 |
+| 153 | Thailand | 7.80 | 2010 est. |
+| 154 | Montenegro | 6.60 | 2010 est. |
+| 155 | Austria | 6.20 | 2012 |
+| 156 | Ireland | 5.50 | 2009 |
+| 157 | Kazakhstan | 5.30 | 2011 est. |
+| 158 | Lithuania | 4.00 | 2008 |
+| 159 | Malaysia | 3.80 | 2009 est. |
+| 160 | Tunisia | 3.80 | 2005 est. |
+| 161 | Taiwan | 1.50 | 2012 est. |
+
+

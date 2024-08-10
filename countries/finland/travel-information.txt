@@ -1,0 +1,27 @@
+Telephone Code: 358
+Local Emergency Phone: 112
+Climate: Cold temperate; potentially subarctic but comparatively mild because of moderating influence of the North Atlantic Current, Baltic Sea, and more than 60,000 lakes
+Currency (Code): Euros (EUR)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, F
+Major Languages: Finnish, Swedish, Russian
+Major Religions: Lutheran 67.8%, Greek Orthodox 1.1%, other 1.7%, unspecified 29.4%
+Time Difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time); daylight saving time: +1hr, begins last Sunday in March, ends last Sunday in October
+Potable Water: Yes
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Turku Castle; Porvoo; Lake Saimaa region (includes Savonlinna and Castle Olavinlinna); Orthodox Church in Tampere; Lemmenjoki National Park; Helsinki churches (Uspensky and Lutheran Cathedrals, Temppeliaukio Church); Suomenlinna Fortress
+Major Sports: Soccer, ice hockey, ski jumping, cross-country skiing
+Cultural Practices: When invited to a Finn's home, it is considered polite to arrive punctually and to offer to bring a dish.
+Tipping Guidelines: Tips are not expected as a service charge is always included at restaurants, but you may leave a small tip of 5-10% for excellent service. Tipping at hotels is fairly rare, but a few euros for good service is appreciated. Round up for taxis.
+Souvenirs: Knitted traditional Lappish clothing, reindeer and elk decorative and food items, glass bird statues, stone necklaces
+Traditional Cuisine: Rye Bread and Karelian stew --- pork and beef with carrots, onions, and spices
+
+---
+country: Finland
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Finland/travel-facts>
+license: public domain (U.S.)
+...

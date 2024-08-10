@@ -1,0 +1,27 @@
+Telephone Code: 231
+Local Emergency Phone: 911 (cell phone only)
+Climate: Tropical; hot, humid; dry winters with hot days and cool to cold nights; wet, cloudy summers with frequent heavy showers
+Currency (Code): Liberian dollars (LRD)
+Electricity: 120 V, 220 V
+Voltage: 60 Hz
+Plug types(s): A, B, C, F
+Major Languages: English, some 20 ethnic group languages few of which can be written or used in correspondence
+Major Religions: Christian 85.6%, Muslim 12.2%, Traditional 0.6%
+Time Difference: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Mount Nimba; Monkey Island; Waterside Market, Monrovia; Sapo National Park
+Major Sports: Soccer, basketball, track and field
+Cultural Practices: Communication in Liberia typically involves more physical contact than in America. It is not uncommon for a speaker to rest their hand on your shoulder.
+Tipping Guidelines: Some restaurants add a service charge to the bill, if not, a 10% tip is customary. Hotel service staff appreciate small amounts for good service.
+Souvenirs: Ritual masks; ebony, soapstone and mahogany carvings; handmade fabrics and tailored clothing; leather goods; stamped metal necklaces and earrings
+Traditional Cuisine: Dumboy --- boiled cassava pounded into a viscous dough and shaped into balls; typically eaten with pepper soup
+
+---
+country: Liberia
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Liberia/travel-facts>
+license: public domain (U.S.)
+...

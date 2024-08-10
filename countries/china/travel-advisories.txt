@@ -1,0 +1,12 @@
+| Precautions | Reconsider Travel to the People's Republic of China (PRC), including the Special Administrative Regions (SARs) of Hong Kong and Macau due to arbitrary enforcement of local laws**.** See specific risks and conditions in each jurisdiction. Commercial transportation options for international departure and arrival are available. Exercise increased caution in the PRC due to wrongful detentions. Commercial transportation options for international departure and arrival are available. Exercise increased caution in the PRC due to wrongful detentions. Consult the link below for updates to travel advisories and statements on safety, security, local laws and special circumstances in this country.  <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html> |
+| Passport/Visa Requirements | US citizens should make sure their passport will not expire for at least 6 months after they enter the country even if they do not intend to stay that long. They should also make sure they have at least 2 blank pages in their passport for any entry stamp and or visa that will be required. A visa is required. US citizens will need to get in touch with the country's embassy or nearest consulate to obtain a visa prior to visiting the country. |
+| Vaccinations | An International Certificate of Vaccination for yellow fever is required for travelers arriving from countries with a risk of yellow fever transmission and for travelers having transited through the airport of a country with risk of yellow fever transmission. See WHO recommendations.  <http://www.who.int/> |
+| US Embassy/Consulate | [86] (10) 8531-3000; US Embassy in Beijing, 55 An Jia Lou Road, Chaoyang District, Beijing 100600, China; https://china.usembassy-china.org.cn/; BeijingACS@state.gov |
+
+---
+country: China
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/China/travel-facts>
+license: public domain (U.S.)
+...

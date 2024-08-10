@@ -1,0 +1,164 @@
+CIA - The World Factbook --  HIV/AIDS - deaths   
+
+This entry gives an estimate of the number of adults and children who died of AIDS during a given calendar year.
+
+| Rank | country | HIV/AIDS - deaths | Date of Information |
+| --- | --- | --- | --- |
+| 1 | South Africa | 310,000 | 2009 est. |
+| 2 | Nigeria | 220,000 | 2009 est. |
+| 3 | India | 170,000 | 2009 est. |
+| 4 | Tanzania | 86,000 | 2009 est. |
+| 5 | Zimbabwe | 83,000 | 2009 est. |
+| 6 | Kenya | 80,000 | 2009 est. |
+| 7 | Mozambique | 74,000 | 2009 est. |
+| 8 | Uganda | 64,000 | 2009 est. |
+| 9 | Malawi | 51,000 | 2009 est. |
+| 10 | Zambia | 45,000 | 2009 est. |
+| 11 | Cameroon | 37,000 | 2009 est. |
+| 12 | Cote d'Ivoire | 36,000 | 2009 est. |
+| 13 | Thailand | 28,000 | 2009 est. |
+| 14 | China | 26,000 | 2009 est. |
+| 15 | Ukraine | 24,000 | 2009 est. |
+| 16 | Ghana | 18,000 | 2009 est. |
+| 17 | Burma | 18,000 | 2009 est. |
+| 18 | United States | 17,000 | 2009 est. |
+| 19 | Burundi | 15,000 | 2009 est. |
+| 20 | Colombia | 14,000 | 2009 est. |
+| 21 | Vietnam | 14,000 | 2009 est. |
+| 22 | Lesotho | 14,000 | 2009 est. |
+| 23 | Sudan | 12,000 | 2009 est. |
+| 24 | Central African Republic | 11,000 | 2009 est. |
+| 25 | Chad | 11,000 | 2009 est. |
+| 26 | Angola | 11,000 | 2009 est. |
+| 27 | Indonesia | 8,300 | 2009 est. |
+| 28 | Togo | 7,700 | 2009 est. |
+| 29 | Burkina Faso | 7,100 | 2009 est. |
+| 30 | Haiti | 7,100 | 2009 est. |
+| 31 | Swaziland | 7,000 | 2009 est. |
+| 32 | Namibia | 6,700 | 2009 est. |
+| 33 | Iran | 6,400 | 2009 est. |
+| 34 | Malaysia | 5,800 | 2009 est. |
+| 35 | Pakistan | 5,800 | 2009 est. |
+| 36 | Botswana | 5,800 | 2009 est. |
+| 37 | Congo, Republic of the | 5,100 | 2009 est. |
+| 38 | Peru | 5,000 | 2009 est. |
+| 39 | Nepal | 4,700 | 2009 est. |
+| 40 | Guinea | 4,700 | 2009 est. |
+| 41 | Mali | 4,400 | 2009 est. |
+| 42 | Niger | 4,300 | 2009 est. |
+| 43 | Rwanda | 4,100 | 2009 est. |
+| 44 | Liberia | 3,600 | 2009 est. |
+| 45 | Cambodia | 3,100 | 2009 est. |
+| 46 | Argentina | 2,900 | 2009 est. |
+| 47 | Sierra Leone | 2,800 | 2009 est. |
+| 48 | Benin | 2,700 | 2009 est. |
+| 49 | Guatemala | 2,600 | 2009 est. |
+| 50 | Senegal | 2,600 | 2009 est. |
+| 51 | Honduras | 2,500 | 2009 est. |
+| 52 | Gabon | 2,400 | 2009 est. |
+| 53 | Dominican Republic | 2,300 | 2009 est. |
+| 54 | Ecuador | 2,200 | 2009 est. |
+| 55 | Madagascar | 1,700 | 2009 est. |
+| 56 | France | 1,700 | 2009 est. |
+| 57 | Eritrea | 1,700 | 2009 est. |
+| 58 | Somalia | 1,600 | 2009 est. |
+| 59 | Spain | 1,600 | 2009 est. |
+| 60 | Panama | 1,500 | 2009 est. |
+| 61 | El Salvador | 1,400 | 2009 est. |
+| 62 | Papua New Guinea | 1,300 | 2009 est. |
+| 63 | Jamaica | 1,200 | 2009 est. |
+| 64 | Guinea-Bissau | 1,200 | 2009 est. |
+| 65 | Morocco | 1,200 | 2009 est. |
+| 66 | Bolivia | 1,000 | 2009 est. |
+| 67 | Trinidad and Tobago | 1,000 | 2009 est. |
+| 68 | Belarus | 1,000 | 2009 est. |
+| 69 | Djibouti | 1,000 | 2009 est. |
+| 70 | United Kingdom | 1,000 | 2009 est. |
+| 71 | Algeria | 1,000 | 2009 est. |
+| 72 | Latvia | 1,000 | 2009 est. |
+| 73 | Equatorial Guinea | 1,000 | 2009 est. |
+| 74 | Romania | 1,000 | 2009 est. |
+| 75 | Italy | 1,000 | 2009 est. |
+| 76 | Mauritania | 1,000 | 2009 est. |
+| 77 | Gambia, The | 1,000 | 2009 est. |
+| 78 | Germany | 1,000 | 2009 est. |
+| 79 | Moldova | 1,000 | 2009 est. |
+| 80 | Canada | 1,000 | 2009 est. |
+| 81 | Tajikistan | 500 | 2009 est. |
+| 82 | Uzbekistan | 500 | 2009 est. |
+| 83 | Jordan | 500 | 2003 est. |
+| 84 | Kazakhstan | 500 | 2009 est. |
+| 85 | Korea, South | 500 | 2009 est. |
+| 86 | Kyrgyzstan | 500 | 2009 est. |
+| 87 | Lebanon | 500 | 2009 est. |
+| 88 | Mauritius | 500 | 2009 est. |
+| 89 | Nicaragua | 500 | 2009 est. |
+| 90 | Paraguay | 500 | 2009 est. |
+| 91 | Portugal | 500 | 2009 est. |
+| 92 | Guyana | 500 | 2009 est. |
+| 93 | Bahamas, The | 500 | 2009 est. |
+| 94 | Belize | 500 | 2009 est. |
+| 95 | Costa Rica | 500 | 2009 est. |
+| 96 | Egypt | 500 | 2009 est. |
+| 97 | Estonia | 500 | 2009 est. |
+| 98 | Greece | 500 | 2009 est. |
+| 99 | Bermuda | 392 | 2005 |
+| 100 |
+| Cabo Verde |
+| 225 | NA | 101 | Laos |
+| 200 | 2009 est. | 102 | Sri Lanka |
+| 200 | 2009 est. | 103 | Hungary |
+| 200 | 2009 est. | 104 | Hong Kong |
+| 200 | 2003 est. | 105 | Bangladesh |
+| 200 | 2009 est. | 106 | Bahrain |
+| 200 | 2003 est. | 107 | Azerbaijan |
+| 200 | 2009 est. | 108 | Poland |
+| 200 | 2009 est. | 109 | Philippines |
+| 200 | 2009 est. | 110 | Turkey |
+| 200 | 2009 est. | 111 | Syria |
+| 200 | 2003 est. | 112 | Suriname |
+| 200 | 2009 est. | 113 | Bulgaria |
+| 200 | 2009 est. | 114 | Brunei |
+| 200 | 2003 est. | 115 | Norway |
+| 100 | 2009 est. | 116 | Oman |
+| 100 | 2009 est. | 117 | Iceland |
+| 100 | 2009 est. | 118 | Ireland |
+| 100 | 2009 est. | 119 | Israel |
+| 100 | 2009 est. | 120 | Japan |
+| 100 | 2009 est. | 121 | Qatar |
+| 100 | 2009 est. | 122 | Armenia |
+| 100 | 2009 est. | 123 | Australia |
+| 100 | 2009 est. | 124 | Austria |
+| 100 | 2009 est. | 125 | Barbados |
+| 100 | 2009 est. | 126 | Belgium |
+| 100 | 2009 est. | 127 | Bhutan |
+| 100 | 2009 est. | 128 | Bosnia and Herzegovina |
+| 100 | 2001 est. | 129 | New Zealand |
+| 100 | 2009 est. | 130 | Netherlands |
+| 100 | 2009 est. | 131 | Mongolia |
+| 100 | 2009 est. | 132 | Malta |
+| 100 | 2009 est. | 133 | Maldives |
+| 100 | 2009 est. | 134 | Macedonia |
+| 100 | 2003 est. | 135 | Luxembourg |
+| 100 | 2009 est. | 136 | Lithuania |
+| 100 | 2009 est. | 137 | Turkmenistan |
+| 100 | 2004 est. | 138 | Tunisia |
+| 100 | 2009 est. | 139 | Switzerland |
+| 100 | 2009 est. | 140 | Sweden |
+| 100 | 2009 est. | 141 | Slovenia |
+| 100 | 2009 est. | 142 | Slovakia |
+| 100 | 2009 est. | 143 | Georgia |
+| 100 | 2009 est. | 144 | Serbia |
+| 100 | 2009 est. | 145 | Singapore |
+| 100 | 2009 est. | 146 | Comoros |
+| 100 | 2009 est. | 147 | Croatia |
+| 100 | 2009 est. | 148 | Cuba |
+| 100 | 2009 est. | 149 | Czech Republic |
+| 100 | 2009 est. | 150 | Denmark |
+| 100 | 2009 est. | 151 | Fiji |
+| 100 | 2009 est. | 152 | Finland |
+| 100 | 2009 est. | 153 | Svalbard |
+| 0 |
+| 2001 |
+
+

@@ -1,0 +1,135 @@
+CIA - The World Factbook --  HIV/AIDS - PEOPLE LIVING WITH HIV/AIDS
+
+HIV/AIDS - people living with HIV/AIDS compares all people (adults and children) alive at yearend with HIV infection, whether or not they have developed symptoms of AIDS.
+
+| Rank | Country | HIV/AIDS - PEOPLE LIVING WITH HIV/AIDS | Date of Information |
+| --- | --- | --- | --- |
+| 1 | South Africa | 6,836,500 | 2014 est. |
+| 2 | Nigeria | 3,228,600 | 2013 est. |
+| 3 | India | 2,079,700 | 2013 est. |
+| 4 | Zimbabwe | 1,550,300 | 2014 est. |
+| 5 | Mozambique | 1,543,000 | 2014 est. |
+| 6 | Tanzania | 1,499,400 | 2014 est. |
+| 7 | Uganda | 1,486,600 | 2014 est. |
+| 8 | Kenya | 1,366,900 | 2014 est. |
+| 9 | Zambia | 1,150,400 | 2014 est. |
+| 10 | Malawi | 1,063,900 | 2014 est. |
+| 11 | China | 780,000 | 2012 est. |
+| 12 | Ethiopia | 730,300 | 2014 est. |
+| 13 | Brazil | 726,000 | 2013 est. |
+| 14 | Indonesia | 660,300 | 2014 est. |
+| 15 | Cameroon | 657,500 | 2014 est. |
+| 16 | Cote d'Ivoire | 460,100 | 2014 est. |
+| 17 | Congo, Democratic Republic of the | 446,600 | 2014 est. |
+| 18 | Thailand | 445,600 | 2014 est. |
+| 19 | Botswana | 392,400 | 2014 est. |
+| 20 | Lesotho | 314,600 | 2014 est. |
+| 21 | Angola | 304,400 | 2014 est. |
+| 22 | Vietnam | 250,200 | 2014 est. |
+| 23 | Ghana | 250,200 | 2014 est. |
+| 24 | Namibia | 245,400 | 2013 est. |
+| 25 | Chad | 215,000 | 2014 est. |
+| 26 | Swaziland | 214,300 | 2014 est. |
+| 27 | Burma | 212,600 | 2014 est. |
+| 28 | Ukraine | 210,700 | 2013 est. |
+| 29 | Rwanda | 210,500 | 2014 est. |
+| 30 | Mexico | 194,100 | 2014 est. |
+| 31 | South Sudan | 193,400 | 2014 est. |
+| 32 | Spain | 150,400 | 2013 est. |
+| 33 | Haiti | 141,300 | 2014 est. |
+| 34 | Central African Republic | 135,400 | 2014 est. |
+| 35 | Mali | 133,400 | 2014 est. |
+| 36 | United Kingdom | 126,700 | 2013 est. |
+| 37 | Argentina | 126,600 | 2014 est. |
+| 38 | Colombia | 124,400 | 2014 est. |
+| 39 | Italy | 122,000 | 2013 est. |
+| 40 | Guinea | 118,000 | 2014 est. |
+| 41 | Togo | 113,700 | 2014 est. |
+| 42 | Burkina Faso | 107,700 | 2014 est. |
+| 43 | Venezuela | 106,900 | 2014 est. |
+| 44 | Malaysia | 100,800 | 2014 est. |
+| 45 | Burundi | 84,700 | 2014 est. |
+| 46 | Congo, Republic of the | 80,700 | 2014 est. |
+| 47 | Benin | 77,900 | 2014 est. |
+| 48 | Germany | 77,500 | 2013 est. |
+| 49 | Cambodia | 74,600 | 2014 est. |
+| 50 | Iran | 74,400 | 2014 est. |
+| 51 | Peru | 71,900 | 2014 est. |
+| 52 | Dominican Republic | 69,300 | 2014 est. |
+| 53 | Pakistan | 68,000 | 2013 est. |
+| 54 | Sierra Leone | 54,000 | 2014 est. |
+| 55 | Sudan | 53,200 | 2014 est. |
+| 56 | Guatemala | 49,100 | 2014 est. |
+| 57 | Gabon | 47,500 | 2014 est. |
+| 58 | Senegal | 44,000 | 2014 est. |
+| 59 | Guinea-Bissau | 42,000 | 2014 est. |
+| 60 | Niger | 40,500 | 2013 est. |
+| 61 | Chile | 39,300 | 2014 est. |
+| 62 | Madagascar | 39,100 | 2014 est. |
+| 63 | Nepal | 38,800 | 2013 est. |
+| 64 | Philippines | 35,600 | 2014 est. |
+| 65 | Somalia | 34,900 | 2014 est. |
+| 66 | Liberia | 33,100 | 2014 est. |
+| 67 | Ecuador | 32,700 | 2014 est. |
+| 68 | Uzbekistan | 32,300 | 2014 est. |
+| 69 | Papua New Guinea | 31,900 | 2013 est. |
+| 70 | Equatorial Guinea | 31,600 | 2014 est. |
+| 71 | Jamaica | 29,400 | 2014 est. |
+| 72 | Belarus | 29,400 | 2014 est. |
+| 73 | Morocco | 28,700 | 2014 est. |
+| 74 | Australia | 28,200 | 2013 est. |
+| 75 | Honduras | 23,000 | 2014 est. |
+| 76 | El Salvador | 20,900 | 2014 est. |
+| 77 | Gambia, The | 20,300 | 2014 est. |
+| 78 | Kazakhstan | 20,300 | 2014 est. |
+| 79 | Switzerland | 20,200 | 2013 est. |
+| 80 | Bolivia | 17,900 | 2014 est. |
+| 81 | Moldova | 17,600 | 2014 est. |
+| 82 | Cuba | 17,100 | 2014 est. |
+| 83 | Paraguay | 16,800 | 2014 est. |
+| 84 | Tajikistan | 16,400 | 2014 est. |
+| 85 | Romania | 16,200 | 2013 est. |
+| 86 | Eritrea | 16,100 | 2014 est. |
+| 87 | Mauritania | 15,900 | 2014 est. |
+| 88 | Panama | 15,500 | 2013 est. |
+| 89 | Uruguay | 14,400 | 2014 est. |
+| 90 | Trinidad and Tobago | 14,000 | 2013 est. |
+| 91 | Laos | 11,100 | 2014 est. |
+| 92 | Algeria | 10,500 | 2014 est. |
+| 93 | Djibouti | 9,900 | 2014 est. |
+| 94 | Guyana | 9,700 | 2014 est. |
+| 95 | Kyrgyzstan | 9,300 | 2014 est. |
+| 96 | Bangladesh | 8,900 | 2014 est. |
+| 97 | Costa Rica | 8,800 | 2014 est. |
+| 98 | Egypt | 8,800 | 2014 est. |
+| 99 | Estonia | 8,600 | 2013 est. |
+| 100 | Azerbaijan | 8,400 | 2014 est. |
+| 101 | Mauritius | 8,300 | 2014 est. |
+| 102 | Ireland | 8,000 | 2014 est. |
+| 103 | Bahamas, The | 7,700 | 2013 est. |
+| 104 | Yemen | 7,200 | 2014 est. |
+| 105 | Afghanistan | 6,700 | 2014 est. |
+| 106 | Georgia | 6,600 | 2014 est. |
+| 107 | Nicaragua | 6,600 | 2013 est. |
+| 108 | Denmark | 6,000 | 2014 est. |
+| 109 | Armenia | 4,000 | 2014 est. |
+| 110 | Suriname | 3,800 | 2014 est. |
+| 111 | Czechia | 3,400 | 2013 est. |
+| 112 | Cabo Verde | 3,400 | 2014 est. |
+| 113 | Sri Lanka | 3,300 | 2014 est. |
+| 114 | Belize | 3,300 | 2013 est. |
+| 115 | Serbia | 3,000 | 2013 est. |
+| 116 | Tunisia | 2,700 | 2014 est. |
+| 117 | Lebanon | 1,800 | 2014 est. |
+| 118 | Barbados | 1,500 | 2012 est. |
+| 119 | Sao Tome and Principe | 1,000 | 2014 est. |
+| 120 | Slovenia | 900 | 2014 est. |
+| 121 | Syria | 900 | 2014 est. |
+| 122 | Fiji | 700 | 2014 est. |
+| 123 | Bhutan | 600 | 2013 est. |
+| 124 | Mongolia | 600 | 2013 est. |
+| 125 | Cyprus | 400 | 2013 est. |
+| 126 | Macedonia | 200 | 2013 est. |
+| 127 | Maldives | 100 | 2013 est. |
+
+

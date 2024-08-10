@@ -1,0 +1,29 @@
+Telephone Code: 672
+Local Emergency Phone - Ambulance: 911
+Local Emergency Phone - Fire: 955
+Local Emergency Phone - Police: 977
+Climate: Subtropical; mild, little seasonal temperature variation
+Currency (Code): Australian dollars (AUD)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): I
+Major Languages: English, Norfolk, Fijian
+Major Religions: Protestant 46.8%, Roman Catholic 12.6%, other Christian 2.9%
+Time Difference: UTC+11 (16 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Yes, but some opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Left
+Tourist Destinations: Emily Bay; Norfolk Island Cemetery; St Barnabas Chapel; Kingston Pier; Kingston & Arthur's Vale Historic Area; Fletcher's Mutiny Cyclorama; Pitcairn Settlers Village
+Major Sports: Soccer
+Cultural Practices: Most shops close on Wednesday, Saturday afternoons, and all day Sunday.
+Tipping Guidelines: Tip restaurant staff between 10-15% of the bill if the service is good. Tip taxi drivers around 10%. Bellhops usually received about $2 (USD) per bag.
+Souvenirs: Hand-woven cloth items, woven baskets, carved statues, landscape art
+Traditional Cuisine: Pilhi --- sliced bananas or kumeras (sweet potatoes), salt, and flour spread in a baking dish and baked until golden
+
+---
+country: Norfolk Island
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Norfolk Island/travel-facts>
+license: public domain (U.S.)
+...

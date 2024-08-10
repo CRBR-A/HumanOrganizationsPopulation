@@ -1,0 +1,311 @@
+CIA - The World Factbook -- New Zealand
+page last updated on January 29, 2013
+
+
+| Geography | New Zealand |
+| --- | --- |
+| Location: | Oceania, islands in the South Pacific Ocean, southeast of Australia |
+| Geographic coordinates: | 41 00 S, 174 00 E |
+| Map references: | Oceania |
+| Area: | total: 267,710 sq km |
+| | land: 267,710 sq km |
+| | water: NA |
+| | note: includes Antipodes Islands, Auckland Islands, Bounty Islands, Campbell Island, Chatham Islands, and Kermadec Islands |
+| Area - comparative: | about the size of Colorado |
+| Land boundaries: | 0 km |
+| Coastline: | 15,134 km |
+| Maritime claims: | territorial sea: 12 nm |
+| | contiguous zone: 24 nm |
+| | exclusive economic zone: 200 nm |
+| | continental shelf: 200 nm or to the edge of the continental margin |
+| Climate: | temperate with sharp regional contrasts |
+| Terrain: | predominately mountainous with some large coastal plains |
+| Elevation extremes: | lowest point: Pacific Ocean 0 m |
+| | highest point: Aoraki-Mount Cook 3,754 m |
+| Natural resources: | natural gas, iron ore, sand, coal, timber, hydropower, gold, limestone |
+| Land use: | arable land: 5.54% |
+| | permanent crops: 6.92% |
+| | other: 87.54% (2005) |
+| Irrigated land: | 6,190 sq km (2003) |
+| Total renewable water resources: | 397 cu km (1995) |
+| Freshwater withdrawal (domestic/industrial/agricultural): | total: 2.11 cu km/yr (48%/9%/42%) |
+| | per capita: 524 cu m/yr (2000) |
+| Natural hazards: | earthquakes are common, though usually not severe; volcanic activity |
+| | volcanism: significant volcanism on North Island; Ruapehu (elev. 2,797 m), which last erupted in 2007, has a history of large eruptions in the past century; Taranaki has the potential to produce dangerous avalanches and lahars; other historically active volcanoes include Okataina, Raoul Island, Tongariro, and White Island |
+| Environment - current issues: | deforestation; soil erosion; native flora and fauna hard-hit by invasive species |
+| Environment - international agreements: | party to: Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling |
+| | signed, but not ratified: Antarctic Seals, Marine Life Conservation |
+| Geography - note: | almost 90% of the population lives in cities; Wellington is the southernmost national capital in the world |
+
+
+| People and Society | New Zealand |
+| --- | --- |
+| Nationality: | noun: New Zealander(s) |
+| | adjective: New Zealand |
+| Ethnic groups: | European 56.8%, Asian 8%, Maori 7.4%, Pacific islander 4.6%, mixed 9.7%, other 13.5% (2006 Census) |
+| Languages: | English (official) 91.2%, Maori (official) 3.9%, Samoan 2.1%, French 1.3%, Hindi 1.1%, Yue 1.1%, Northern Chinese 1%, other 12.9%, New Zealand Sign Language (official) |
+| | note: shares sum to 114.6% due to multiple responses on census (2006 Census) |
+| Religions: | Protestant 38.6% (Anglican 13.8%, Presbyterian, Congregational, and Reformed 10%, Christian (no denomination specified) 4.6%, Methodist 3%, Pentecostal 2%, Baptist 1.4%, other Christian 3.8%), Roman Catholic 12.6%, Maori Christian 1.6%, Hindu 1.6%, Buddhist 1.3%, other religions 2.2%, none 32.2%, other or unidentified 9.9% (2006 Census) |
+| Population: | 4,327,944 (July 2012 est.) |
+| Age structure: | 0-14 years: 20.2% (male 448,838/ female 426,799) |
+| | 15-64 years: 66.2% (male 1,434,723/ female 1,428,693) |
+| | 65 years and over: 13.6% (male 270,468/ female 318,423) (2012 est.) |
+| | population pyramid: [] |
+| Median age: | total: 37.2 years |
+| | male: 36.4 years |
+| | female: 38 years (2012 est.) |
+| Population growth rate: | 0.863% (2012 est.) |
+| Birth rate: | 13.57 births/1,000 population (2012 est.) |
+| Death rate: | 7.2 deaths/1,000 population (July 2012 est.) |
+| Net migration rate: | 2.26 migrant(s)/1,000 population (2012 est.) |
+| Urbanization: | urban population: 86% of total population (2010) |
+| | rate of urbanization: 0.9% annual rate of change (2010-15 est.) |
+| Major cities - population: | Auckland 1.36 million; WELLINGTON (capital) 391,000 (2009) |
+| Sex ratio: | at birth: 1.05 male(s)/female |
+| | under 15 years: 1.05 male(s)/female |
+| | 15-64 years: 1 male(s)/female |
+| | 65 years and over: 0.85 male(s)/female |
+| | total population: 0.99 male(s)/female (2011 est.) |
+| Maternal mortality rate: | 15 deaths/100,000 live births (2010) |
+| Infant mortality rate: | total: 4.72 deaths/1,000 live births |
+| | male: 5.29 deaths/1,000 live births |
+| | female: 4.11 deaths/1,000 live births (2012 est.) |
+| Life expectancy at birth: | total population: 80.71 years |
+| | male: 78.7 years |
+| | female: 82.81 years (2012 est.) |
+| Total fertility rate: | 2.07 children born/woman (2012 est.) |
+| Health expenditures: | 9.7% of GDP (2009) |
+| Physicians density: | 2.384 physicians/1,000 population (2007) |
+| Hospital bed density: | 6.18 beds/1,000 population (2002) |
+| HIV/AIDS - adult prevalence rate: | 0.1% (2009 est.) |
+| HIV/AIDS - people living with HIV/AIDS: | 2,500 (2009 est.) |
+| HIV/AIDS - deaths: | fewer than 100 (2009 est.) |
+| Obesity - adult prevalence rate: | 26.5% (2007) |
+| Education expenditures: | 6.1% of GDP (2007) |
+| Literacy: | definition: age 15 and over can read and write |
+| | total population: 99% |
+| | male: 99% |
+| | female: 99% (2003 est.) |
+| School life expectancy (primary to tertiary education): | total: 19 years |
+| | male: 19 years |
+| | female: 20 years (2008) |
+| Unemployment, youth ages 15-24: | total: 16.6% |
+| | male: 16% |
+| | female: 17.2% (2009) |
+
+
+| Government | New Zealand |
+| --- | --- |
+| Country name: | conventional long form: none |
+| | conventional short form: New Zealand |
+| | abbreviation: NZ |
+| Government type: | parliamentary democracy and a Commonwealth realm |
+| Capital: | name: Wellington |
+| | geographic coordinates: 41 18 S, 174 47 E |
+| | time difference: UTC+12 (17 hours ahead of Washington, DC during Standard Time) |
+| | daylight saving time: +1hr, begins last Sunday in September; ends first Sunday in April |
+| | note: New Zealand is divided into two time zones - New Zealand standard time (12 hours in advance of UTC), and Chatham Islands time (45 minutes in advance of New Zealand standard time) |
+| Administrative divisions: | 16 regions and 1 territory*; Auckland, Bay of Plenty, Canterbury, Chatham Islands*, Gisborne, Hawke's Bay, Manawatu-Wanganui, Marlborough, Nelson, Northland, Otago, Southland, Taranaki, Tasman, Waikato, Wellington, West Coast |
+| Dependent areas: | Cook Islands, Niue, Tokelau |
+| Independence: | 26 September 1907 (from the UK) |
+| National holiday: | Waitangi Day (Treaty of Waitangi established British sovereignty over New Zealand), 6 February (1840); ANZAC Day (commemorated as the anniversary of the landing of troops of the Australian and New Zealand Army Corps during World War I at Gallipoli, Turkey), 25 April (1915) |
+| Constitution: | consists of a series of legal documents, including certain acts of the UK and New Zealand parliaments, as well as The Constitution Act 1986, which is the principal formal charter; adopted 1 January 1987, effective 1 January 1987 |
+| Legal system: | common law system, based on English model, with special legislation and land courts for the Maori |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: Queen ELIZABETH II (since 6 February 1952); represented by Governor General Lt Gen Sir Jerry MATEPARAE (since 31 August 2011) |
+| | head of government: Prime Minister John KEY (since 19 November 2008); Deputy Prime Minister Simon William ENGLISH (since 19 November 2008) |
+| | cabinet: Executive Council appointed by the governor general on the recommendation of the prime minister |
+| | (For more information visit the World Leaders website [Opens in New Window]) |
+| | elections: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or the leader of a majority coalition usually appointed prime minister by the governor general; deputy prime minister appointed by the governor general |
+| Legislative branch: | unicameral House of Representatives - commonly called Parliament (usually 120 seats; 70 members elected by popular vote in single-member constituencies including 7 Maori constituencies, 50 proportional seats chosen from party lists; serve three-year terms) |
+| | elections: last held on 26 November 2011 (next to be held not later than November 2014) |
+| | election results: percent of vote by party - National Party 48%, Labor Party 27.1%, Green Party 10.6%, NZ First 6.8%, Maori 1.4%, ACT Party 1.1%, Mana 1%, United Future 0.6%, other 3.43%; seats by party - National Party 60, Labor Party 34, Green Party 13, NZ First 8, Maori 3, ACT Party 1, Mana 1, United Future 1 |
+| | note: results of 2011 election saw the total number of seats decline to 121 |
+| Judicial branch: | Supreme Court; Court of Appeal; High Court; note - judges appointed by the governor general |
+| Political parties and leaders: | ACT New Zealand [Rodney HIDE]; Green Party [Russel NORMAN and Metiria TUREI]; Mana Party [Hone HARAWIRA]; Maori Party [Tariana TURIA and Dr. Pita SHARPLES]; New Zealand National Party [John KEY]; New Zealand First Party or NZ First [Winston PETERS]; New Zealand Labor Party [Phil GOFF]; Jim Anderton's Progressive Party [James (Jim) ANDERTON]; United Future New Zealand [Peter DUNNE] |
+| Political pressure groups and leaders: | Women's Electoral Lobby or WEL |
+| | other: apartheid groups; civil rights groups; farmers groups; Maori; nuclear weapons groups; women's rights groups |
+| International organization participation: | ADB, ANZUS (US suspended security obligations to NZ on 11 August 1986), APEC, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CP, EAS, EBRD, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NSG, OECD, OPCW, Paris Club (associate), PCA, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNMIT, UNTSO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Michael K. MOORE |
+| | chancery: 37 Observatory Circle NW, Washington, DC 20008 |
+| | telephone: [1] (202) 328-4800 |
+| | FAX: [1] (202) 667-5227 |
+| | consulate(s) general: New York, Santa Monica |
+| Diplomatic representation from the US: | chief of mission: Ambassador David HUEBNER |
+| | embassy: 29 Fitzherbert Terrace, Thorndon, Wellington |
+| | mailing address: P. O. Box 1190, Wellington; PSC 467, Box 1, APO AP 96531-1034 |
+| | telephone: [64] (4) 462-6000 |
+| | FAX: [64] (4) 499-0490 |
+| | consulate(s) general: Auckland |
+| Flag description: | blue with the flag of the UK in the upper hoist-side quadrant with four red five-pointed stars edged in white centered in the outer half of the flag; the stars represent the Southern Cross constellation |
+| National symbol(s): | Southern Cross constellation (four, five-pointed stars); kiwi (bird) |
+| National anthem: | name: "God Defend New Zealand" |
+| | lyrics/music: Thomas BRACKEN [English], Thomas Henry SMITH [Maori]/John Joseph WOODS |
+| | note: adopted 1940 as national song, adopted 1977 as co-national anthem; New Zealand has two national anthems with equal status; as a commonwealth realm, in addition to "God Defend New Zealand," "God Save the Queen" serves as a national anthem (see United Kingdom); "God Save the Queen" normally is played only when a member of the royal family or the governor-general is present; in all other cases, "God Defend New Zealand" is played |
+| Government - note: | while not an official symbol, the Kiwi, a small native flightless bird, represents New Zealand |
+
+
+| Economy | New Zealand |
+| --- | --- |
+| Economy - overview: | Over the past 20 years the government has transformed New Zealand from an agrarian economy dependent on concessionary British market access to a more industrialized, free market economy that can compete globally. This dynamic growth has boosted real incomes - but left behind some at the bottom of the ladder - and broadened and deepened the technological capabilities of the industrial sector. Per capita income rose for ten consecutive years until 2007 in purchasing power parity terms, but fell in 2008-09. Debt-driven consumer spending drove robust growth in the first half of the decade, helping fuel a large balance of payments deficit that posed a challenge for economic managers. Inflationary pressures caused the central bank to raise its key rate steadily from January 2004 until it was among the highest in the OECD in 2007-08; international capital inflows attracted to the high rates further strengthened the currency and housing market, however, aggravating the current account deficit. The economy fell into recession before the start of the global financial crisis and contracted for five consecutive quarters in 2008-09. In line with global peers, the central bank cut interest rates aggressively and the government developed fiscal stimulus measures. The economy posted a 2% decline in 2009, but pulled out of recession late in the year, and achieved roughly 2% per year growth in 2010-12. Nevertheless, key trade sectors remain vulnerable to weak external demand. The government plans to raise productivity growth and develop infrastructure, while reining in government spending. |
+| GDP (purchasing power parity): | $128.5 billion (2012 est.) |
+| | $125.7 billion (2011 est.) |
+| | $124 billion (2010 est.) |
+| | note: data are in 2012 US dollars |
+| GDP (official exchange rate): | $166.9 billion (2012 est.) |
+| GDP - real growth rate: | 2.2% (2012 est.) |
+| | 1.3% (2011 est.) |
+| | 1.8% (2010 est.) |
+| GDP - per capita (PPP): | $28,800 (2012 est.) |
+| | $28,500 (2011 est.) |
+| | $28,400 (2010 est.) |
+| | note: data are in 2012 US dollars |
+| GDP - composition by sector: | agriculture: 4.8% |
+| | industry: 24.6% |
+| | services: 70.6% (2012 est.) |
+| Labor force: | 2.402 million (2012 est.) |
+| Labor force - by occupation: | agriculture: 7% |
+| | industry: 19% |
+| | services: 74% (2006 est.) |
+| Unemployment rate: | 6.5% (2012 est.) |
+| | 6.5% (2011 est.) |
+| Population below poverty line: | NA% |
+| Household income or consumption by percentage share: | lowest 10%: NA% |
+| | highest 10%: NA% |
+| Distribution of family income - Gini index: | 36.2 (1997) |
+| Investment (gross fixed): | 19.5% of GDP (2012 est.) |
+| Budget: | revenues: $62.64 billion |
+| | expenditures: $72.71 billion (2012 est.) |
+| Taxes and other revenues: | 37.5% of GDP (2012 est.) |
+| Budget surplus (+) or deficit (-): | -6% of GDP (2012 est.) |
+| Public debt: | 41.8% of GDP (2012 est.) |
+| | 36.1% of GDP (2011 est.) |
+| Inflation rate (consumer prices): | 1.2% (2012 est.) |
+| | 4% (2011 est.) |
+| Central bank discount rate: | 2.5% (31 December 2009) |
+| | 5% (31 December 2008) |
+| Commercial bank prime lending rate: | 6.1% (31 December 2012 est.) |
+| | 6.11% (31 December 2011 est.) |
+| Stock of narrow money: | $26.94 billion (31 December 2012 est.) |
+| | $26.26 billion (31 December 2011 est.) |
+| Stock of broad money: | $154.6 billion (31 December 2011 est.) |
+| | $145.3 billion (31 December 2010 est.) |
+| Stock of domestic credit: | $233.8 billion (31 December 2012 est.) |
+| | $239.1 billion (31 December 2011 est.) |
+| Market value of publicly traded shares: | $71.66 billion (31 December 2011) |
+| | $36.3 billion (31 December 2010) |
+| | $67.06 billion (31 December 2009) |
+| Agriculture - products: | dairy products, lamb and mutton; wheat, barley, potatoes, pulses, fruits, vegetables; wool, beef; fish |
+| Industrial production growth rate: | 1.5% (2011 est.) |
+| Current account balance: | -$6.803 billion (2012 est.) |
+| | -$6.709 billion (2011 est.) |
+| Exports: | $37.73 billion (2012 est.) |
+| | $38.35 billion (2011 est.) |
+| Exports - commodities: | dairy products, meat, wood and wood products, fish, machinery |
+| Exports - partners: | Australia 22.2%, China 12.5%, US 8.5%, Japan 7.1% (2011) |
+| Imports: | $35.65 billion (2012 est.) |
+| | $35.61 billion (2011 est.) |
+| Imports - commodities: | machinery and equipment, vehicles and aircraft, petroleum, electronics, textiles, plastics |
+| Imports - partners: | China 16.1%, Australia 15.9%, US 10.4%, Japan 6.3%, Singapore 4.6%, Germany 4.3% (2011) |
+| Reserves of foreign exchange and gold: | $18.33 billion (31 December 2012 est.) |
+| | $17.01 billion (31 December 2011 est.) |
+| Debt - external: | $90.23 billion (31 December 2012 est.) |
+| | $91.07 billion (31 December 2011 est.) |
+| Stock of direct foreign investment - at home: | $75.77 billion (31 December 2012 est.) |
+| | $73.92 billion (31 December 2011 est.) |
+| Stock of direct foreign investment - abroad: | $NA (31 December 2010) |
+| | $59.08 billion (31 December 2009) |
+| Exchange rates: | New Zealand dollars (NZD) per US dollar - |
+| | 1.289 (2012 est.) |
+| | 1.263 (2011 est.) |
+| | 1.3874 (2010 est.) |
+| | 1.6002 (2009) |
+| | 1.4151 (2008) |
+| Fiscal year: | 1 April - 31 March |
+| | note: this is the fiscal year for tax purposes |
+
+
+| Energy | New Zealand |
+| --- | --- |
+| Electricity - production: | 43.4 billion kWh (2010 est.) |
+| Electricity - consumption: | 38.96 billion kWh (2009 est.) |
+| Electricity - exports: | 0 kWh (2010 est.) |
+| Electricity - imports: | 0 kWh (2010 est.) |
+| Electricity - installed generating capacity: | 9.482 million kW (2009 est.) |
+| Electricity - from fossil fuels: | 30% of total installed capacity (2009 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2009 est.) |
+| Electricity - from hydroelectric plants: | 56.7% of total installed capacity (2009 est.) |
+| Electricity - from other renewable sources: | 13.3% of total installed capacity (2009 est.) |
+| Crude oil - production: | 49,730 bbl/day (2011 est.) |
+| Crude oil - exports: | 45,180 bbl/day (2009 est.) |
+| Crude oil - imports: | 90,840 bbl/day (2009 est.) |
+| Crude oil - proved reserves: | 96.1 million bbl (1 January 2012 est.) |
+| Refined petroleum products - production: | 106,000 bbl/day (2009 est.) |
+| Refined petroleum products - consumption: | 148,900 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 2,883 bbl/day (2009 est.) |
+| Refined petroleum products - imports: | 46,780 bbl/day (2009 est.) |
+| Natural gas - production: | 4.367 billion cu m (2011 est.) |
+| Natural gas - consumption: | 4.278 billion cu m (2011 est.) |
+| Natural gas - exports: | 0 cu m (2011 est.) |
+| Natural gas - imports: | 0 cu m (2011 est.) |
+| Natural gas - proved reserves: | 27.64 billion cu m (1 January 2012 est.) |
+| Carbon dioxide emissions from consumption of energy: | 39.58 million Mt (2010 est.) |
+
+
+| Communications | New Zealand |
+| --- | --- |
+| Telephones - main lines in use: | 1.88 million (2011) |
+| Telephones - mobile cellular: | 4.82 million (2011) |
+| Telephone system: | general assessment: excellent domestic and international systems |
+| | domestic: combined fixed-line and mobile-cellular telephone subscribership exceeds 150 per 100 persons |
+| | international: country code - 64; the Southern Cross submarine cable system provides links to Australia, Fiji, and the US; satellite earth stations - 8 (1 Inmarsat - Pacific Ocean, 7 other) |
+| Broadcast media: | state-owned Television New Zealand operates multiple TV networks and state-owned Radio New Zealand operates 3 radio networks and an external shortwave radio service to the South Pacific region; a small number of national commercial TV and radio stations and many regional commercial television and radio stations are available; cable and satellite TV systems are available (2008) |
+| Internet country code: | .nz |
+| Internet hosts: | 3.026 million (2012) |
+| Internet users: | 3.4 million (2009) |
+
+
+| Transportation | New Zealand |
+| --- | --- |
+| Airports: | 122 (2012) |
+| Airports - with paved runways: | total: 39 |
+| | over 3,047 m: 2 |
+| | 2,438 to 3,047 m: 1 |
+| | 1,524 to 2,437 m: 12 |
+| | 914 to 1,523 m: 23 |
+| | under 914 m: 1 (2012) |
+| Airports - with unpaved runways: | total: 83 |
+| | 1,524 to 2,437 m: 3 |
+| | 914 to 1,523 m: 33 |
+| | under 914 m: 47 (2012) |
+| Pipelines: | condensate 331 km; gas 1,838 km; liquid petroleum gas 172 km; oil 288 km; refined products 198 km (2010) |
+| Railways: | total: 4,128 km |
+| | narrow gauge: 4,128 km 1.067-m gauge (506 km electrified) (2008) |
+| Roadways: | total: 93,911 km |
+| | paved: 61,879 km (includes 172 km of expressways) |
+| | unpaved: 32,032 km (2009) |
+| Merchant marine: | total: 15 |
+| | by type: bulk carrier 3, cargo 3, chemical tanker 1, container 1, passenger/cargo 5, petroleum tanker 2 |
+| | foreign-owned: 7 (Germany 2, Hong Kong 1, South Africa 1, Switzerland 2, UK 1) |
+| | registered in other countries: 5 (Antigua and Barbuda 2, Cook Islands 2, Samoa 1) (2010) |
+| Ports and terminals: | Auckland, Lyttelton, Manukau Harbor, Marsden Point, Tauranga, Wellington |
+
+
+| Military | New Zealand |
+| --- | --- |
+| Military branches: | New Zealand Defense Force (NZDF): New Zealand Army, Royal New Zealand Navy, Royal New Zealand Air Force (Te Hokowhitu o Kahurangi, RNZAF) (2010) |
+| Military service age and obligation: | 17 years of age for voluntary military service; soldiers cannot be deployed until the age of 18; no conscription; 3 years of secondary education required; must be a citizen of NZ, the UK, Australia, Canada, or the US and resident of there for the previous 5 years (2012) |
+| Manpower available for military service: | males age 16-49: 1,019,798 |
+| | females age 16-49: 1,003,429 (2010 est.) |
+| Manpower fit for military service: | males age 16-49: 843,526 |
+| | females age 16-49: 828,779 (2010 est.) |
+| Manpower reaching militarily significant age annually: | male: 30,846 |
+| | female: 28,825 (2010 est.) |
+| Military expenditures: | 1% of GDP (2005 est.) |
+
+
+| Transnational Issues | New Zealand |
+| --- | --- |
+| Disputes - international: | asserts a territorial claim in Antarctica (Ross Dependency) |
+| Illicit drugs: | significant consumer of amphetamines |

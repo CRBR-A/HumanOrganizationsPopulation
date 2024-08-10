@@ -1,0 +1,29 @@
+Telephone Code: 65
+Local Emergency Phone - Ambulance: 995
+Local Emergency Phone - Fire: 995
+Local Emergency Phone - Police: 999
+Climate: Tropical; hot, humid, rainy; two distinct monsoon seasons - northeastern monsoon (December to March) and southwestern monsoon (June to September); inter-monsoon - frequent afternoon and early evening thunderstorms
+Currency (Code): Singapore dollars (SGD)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): G
+Major Languages: English, Mandarin, other Chinese dialects, Malay, Tamil
+Major Religions: Buddhist 31.1%, Christian 18.9%, Muslim 15.6%, Taoist 8.8%, Hindu 5%
+Time Difference: UTC+8 (13 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Yes
+International Driving Permit: Suggested
+Road Driving Side: Left
+Tourist Destinations: Marina Bay Sands; Gardens by the Bay; Singapore Botanic Gardens; Singapore Zoo; Orchard Road; Singapore Flyer; Jurong Bird Park; Raffles Hotel; Tooth Relic Temple; National Orchid Gardens
+Major Sports: Soccer, badminton, rugby, cricket, swimming, basketball
+Cultural Practices: Do not be surprised if gifts are initially refused. It is common to turn down a gift out of modesty up to three times.
+Tipping Guidelines: Despite restaurants including a service charge, it is standard to tip 10%. Hand wait staff cash directly while thanking them for their service. Round up taxi fares. Tip bellhops 1-2 Singapore dollars per bag.
+Souvenirs: Merlion-themed figurines, gold-plated orchid jewelry, Tiger Balm ointment, Peranakan Kebaya sarong garments, five-stones games, dolls in traditional costumes, handmade quilts, silk paintings, liquor, candy and teas
+Traditional Cuisine: Hainanese Chicken Rice --- boiled chicken tossed in chili-ginger-garlic-soy sauce on high heat and served with rice boiled in coconut milk
+
+---
+country: Singapore
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Singapore/travel-facts>
+license: public domain (U.S.)
+...

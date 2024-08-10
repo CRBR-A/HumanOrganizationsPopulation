@@ -1,0 +1,8 @@
+Named after a famous 15th century Spanish navigator and explorer, the island has been a French possession since 1897. It has been exploited for its guano and phosphate. Presently a small military garrison oversees a meteorological station.  
+
+---
+country: Juan de Nova Island
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Juan de Nova Island/>
+license: public domain (U.S.)
+...

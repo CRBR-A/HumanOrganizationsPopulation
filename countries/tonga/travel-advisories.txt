@@ -1,0 +1,14 @@
+| Precautions | Exercise normal precautions in Tonga. |
+| | Consult the link below for updates to travel advisories and statements on safety, security, local laws, and special circumstances in this country. |
+| | <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html> |
+| Passport/Visa Requirements | US citizens should make sure their passport will not expire for at least 6 months after they enter the country even if they do not intend to stay that long. They should also make sure they have at least 1 blank page in their passport for any entry stamp that will be required. A visa is not required as long as the stay is less than 31 days. |
+| Vaccinations | See WHO recommendations  <http://www.who.int/> |
+| US Embassy/Consulate | US does not have an embassy in Tonga; the US Ambassador to Fiji is accredited to Tonga; +(679) 331-4466; EMER: +(679) 772-8049; US Embassy Suva, Fiji, Kiribati, Nauru, Tonga, Tuvalu, 158 Princes Rd, Tamavua, Suva, Fiji Islands |
+
+---
+country: Tonga
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Tonga/travel-facts>
+license: public domain (U.S.)
+...

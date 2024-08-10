@@ -1,0 +1,146 @@
+CIA - The World Factbook --  CHILDREN UNDER THE AGE OF 5 YEARS UNDERWEIGHT
+
+Children under the age of 5 years underweight gives the percent of children under five considered to be underweight. Underweight means weight-for-age is approximately 2 kg below for standard at age one, 3 kg below standard for ages two and three, and 4 kg below standard for ages four and five.
+
+| Rank | Country | (%) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Timor-Leste | 45.30 | 2010 |
+| 2 | India | 43.50 | 2006 |
+| 3 | Yemen | 43.10 | 2003 |
+| 4 | Niger | 37.90 | 2012 |
+| 5 | Bangladesh | 36.80 | 2011 |
+| 6 | Madagascar | 36.80 | 2004 |
+| 7 | Eritrea | 34.50 | 2002 |
+| 8 | Afghanistan | 32.90 | 2004 |
+| 9 | Somalia | 32.80 | 2006 |
+| 10 | South Sudan | 32.50 | 2006 |
+| 11 | Pakistan | 31.60 | 2013 |
+| 12 | Nigeria | 31.00 | 2013 |
+| 13 | Chad | 30.30 | 2010 |
+| 14 | Djibouti | 29.80 | 2012 |
+| 15 | Ethiopia | 29.20 | 2011 |
+| 16 | Burundi | 29.10 | 2011 |
+| 17 | Nepal | 29.10 | 2011 |
+| 18 | Cambodia | 29.00 | 2011 |
+| 19 | Papua New Guinea | 27.90 | 2011 |
+| 20 | Mali | 27.90 | 2006 |
+| 21 | Sudan | 27.00 | 2006 |
+| 22 | Laos | 26.50 | 2012 |
+| 23 | Sri Lanka | 26.30 | 2012 |
+| 24 | Burkina Faso | 26.20 | 2010 |
+| 25 | Congo, Democratic Republic of the | 24.20 | 2010 |
+| 26 | Central African Republic | 23.50 | 2011 |
+| 27 | Burma | 22.60 | 2010 |
+| 28 | Liberia | 20.40 | 2007 |
+| 29 | Philippines | 20.20 | 2011 |
+| 30 | Benin | 20.20 | 2006 |
+| 31 | Indonesia | 19.90 | 2013 |
+| 32 | Mauritania | 19.50 | 2012 |
+| 33 | Guinea | 18.70 | 2012 |
+| 34 | Sierra Leone | 18.60 | 2010 |
+| 35 | Guinea-Bissau | 18.10 | 2010 |
+| 36 | Maldives | 17.80 | 2009 |
+| 37 | Namibia | 17.50 | 2007 |
+| 38 | Gambia, The | 17.40 | 2010 |
+| 39 | Comoros | 16.90 | 2012 |
+| 40 | Senegal | 16.80 | 2013 |
+| 41 | Togo | 16.50 | 2010 |
+| 42 | Kenya | 16.40 | 2009 |
+| 43 | Cote d'Ivoire | 15.70 | 2012 |
+| 44 | Mozambique | 15.60 | 2011 |
+| 45 | Angola | 15.60 | 2007 |
+| 46 | Korea, North | 15.20 | 2012 |
+| 47 | Cameroon | 15.10 | 2011 |
+| 48 | Kiribati | 14.90 | 2009 |
+| 49 | Zambia | 14.90 | 2007 |
+| 50 | Sao Tome and Principe | 14.40 | 2009 |
+| 51 | Uganda | 14.10 | 2011 |
+| 52 | Malawi | 13.80 | 2010 |
+| 53 | Tanzania | 13.60 | 2011 |
+| 54 | Lesotho | 13.50 | 2010 |
+| 55 | Ghana | 13.40 | 2011 |
+| 56 | Tajikistan | 13.30 | 2012 |
+| 57 | Guatemala | 13.00 | 2009 |
+| 58 | Malaysia | 12.90 | 2006 |
+| 59 | Bhutan | 12.80 | 2010 |
+| 60 | Vietnam | 12.00 | 2011 |
+| 61 | Congo, Republic of the | 11.80 | 2012 |
+| 62 | Vanuatu | 11.70 | 2007 |
+| 63 | Rwanda | 11.70 | 2011 |
+| 64 | Haiti | 11.60 | 2012 |
+| 65 | Solomon Islands | 11.50 | 2007 |
+| 66 | Botswana | 11.20 | 2008 |
+| 67 | Guyana | 11.10 | 2009 |
+| 68 | Turkmenistan | 10.50 | 2000 |
+| 69 | Zimbabwe | 10.10 | 2011 |
+| 70 | Syria | 10.10 | 2009 |
+| 71 | Thailand | 9.20 | 2012 |
+| 72 | South Africa | 8.70 | 2008 |
+| 73 | Oman | 8.60 | 2009 |
+| 74 | Iraq | 8.50 | 2011 |
+| 75 | Azerbaijan | 8.40 | 2006 |
+| 76 | Honduras | 7.10 | 2012 |
+| 77 | Egypt | 6.80 | 2008 |
+| 78 | El Salvador | 6.60 | 2008 |
+| 79 | Gabon | 6.50 | 2012 |
+| 80 | Albania | 6.30 | 2009 |
+| 81 | Belize | 6.20 | 2011 |
+| 82 | Ecuador | 6.20 | 2004 |
+| 83 | Suriname | 5.80 | 2010 |
+| 84 | Swaziland | 5.80 | 2010 |
+| 85 | Nicaragua | 5.70 | 2007 |
+| 86 | Libya | 5.60 | 2007 |
+| 87 | Equatorial Guinea | 5.60 | 2010 |
+| 88 | Saudi Arabia | 5.30 | 2005 |
+| 89 | Armenia | 5.30 | 2010 |
+| 90 | Fiji | 5.30 | 2004 |
+| 91 | Nauru | 4.80 | 2007 |
+| 92 | Mongolia | 4.70 | 2010 |
+| 93 | Iran | 4.60 | 2004 |
+| 94 | Uruguay | 4.50 | 2011 |
+| 95 | Bolivia | 4.50 | 2008 |
+| 96 | Trinidad and Tobago | 4.40 | 2000 |
+| 97 | Uzbekistan | 4.40 | 2006 |
+| 98 | Lebanon | 4.20 | 2004 |
+| 99 | Panama | 3.90 | 2008 |
+| 100 | Kazakhstan | 3.70 | 2011 |
+| 101 | Kyrgyzstan | 3.70 | 2012 |
+| 102 | Algeria | 3.70 | 2005 |
+| 103 | Peru | 3.50 | 2012 |
+| 104 | Romania | 3.50 | 2002 |
+| 105 | Paraguay | 3.40 | 2005 |
+| 106 | Dominican Republic | 3.40 | 2007 |
+| 107 | Cuba | 3.40 | 2000 |
+| 108 | Colombia | 3.40 | 2010 |
+| 109 | China | 3.40 | 2010 |
+| 110 | Singapore | 3.30 | 2000 |
+| 111 | Moldova | 3.20 | 2005 |
+| 112 | Jamaica | 3.20 | 2010 |
+| 113 | Morocco | 3.10 | 2011 |
+| 114 | Jordan | 3.00 | 2012 |
+| 115 | Venezuela | 2.90 | 2009 |
+| 116 | Saint Lucia | 2.80 | 2012 |
+| 117 | Mexico | 2.80 | 2012 |
+| 118 | Tunisia | 2.30 | 2012 |
+| 119 | Argentina | 2.30 | 2005 |
+| 120 | Kuwait | 2.20 | 2012 |
+| 121 | Brazil | 2.20 | 2007 |
+| 122 | Czechia | 2.00 | 2007 |
+| 123 | Turkey | 1.70 | 2008 |
+| 124 | Bulgaria | 1.60 | 2004 |
+| 125 | Serbia | 1.60 | 2010 |
+| 126 | Tuvalu | 1.60 | 2007 |
+| 127 | Bosnia and Herzegovina | 1.50 | 2012 |
+| 128 | Macedonia | 1.30 | 2011 |
+| 129 | Belarus | 1.30 | 2005 |
+| 130 | Costa Rica | 1.10 | 2009 |
+| 131 | Georgia | 1.10 | 2009 |
+| 132 | Germany | 1.10 | 2006 |
+| 133 | Montenegro | 1.00 | 2013 |
+| 134 | Ukraine | 0.90 | 2002 |
+| 135 | Korea, South | 0.60 | 2012 |
+| 136 | United States | 0.50 | 2012 |
+| 137 | Chile | 0.50 | 2013 |
+| 138 | Australia | 0.20 | 2007 |
+
+

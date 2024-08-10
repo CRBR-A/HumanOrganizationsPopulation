@@ -1,0 +1,198 @@
+CIA - The World Factbook --  STOCK OF DOMESTIC CREDIT
+
+Stock of domestic credit compares the total quantity of credit, denominated in the domestic currency, provided by banks to nonbanking institutions. The national currency units have been converted to US dollars at the closing exchange rate on the date of the information.
+
+| Rank | Country | STOCK OF DOMESTIC CREDIT | Date of Information |
+| --- | --- | --- | --- |
+| 1 | European Union | $21,710,000,000,000 | 31 December 2012 est. |
+| 2 | United States | $18,730,000,000,000 | 31 December 2014 est. |
+| 3 | China | $16,910,000,000,000 | 31 December 2014 est. |
+| 4 | Japan | $11,880,000,000,000 | 31 December 2014 est. |
+| 5 | Germany | $4,209,000,000,000 | 31 December 2014 est. |
+| 6 | United Kingdom | $3,812,000,000,000 | 31 December 2014 est. |
+| 7 | France | $3,484,000,000,000 | 31 December 2014 est. |
+| 8 | Italy | $3,319,000,000,000 | 31 December 2014 est. |
+| 9 | Canada | $3,031,000,000,000 | 31 December 2014 est. |
+| 10 | Spain | $2,611,000,000,000 | 31 December 2014 est. |
+| 11 | Brazil | $2,564,000,000,000 | 31 December 2014 est. |
+| 12 | Australia | $2,247,000,000,000 | 31 December 2014 est. |
+| 13 | India | $1,654,000,000,000 | 31 December 2014 est. |
+| 14 | Netherlands | $1,612,000,000,000 | 31 December 2014 est. |
+| 15 | Korea, South | $1,436,000,000,000 | 31 December 2014 est. |
+| 16 | Switzerland | $1,283,000,000,000 | 31 December 2014 est. |
+| 17 | Russia | $882,200,000,000 | 31 December 2014 est. |
+| 18 | Hong Kong | $827,900,000,000 | 31 December 2013 est. |
+| 19 | Taiwan | $786,600,000,000 | 31 December 2014 est. |
+| 20 | Sweden | $742,400,000,000 | 31 December 2014 est. |
+| 21 | Norway | $731,100,000,000 | 31 December 2014 est. |
+| 22 | Turkey | $653,000,000,000 | 31 December 2014 est. |
+| 23 | Denmark | $648,400,000,000 | 31 December 2014 est. |
+| 24 | Belgium | $568,200,000,000 | 31 December 2014 est. |
+| 25 | Austria | $539,700,000,000 | 31 December 2014 est. |
+| 26 | Thailand | $515,200,000,000 | 31 December 2014 est. |
+| 27 | Mexico | $502,500,000,000 | 31 December 2014 est. |
+| 28 | Singapore | $465,700,000,000 | 31 December 2013 est. |
+| 29 | Malaysia | $460,900,000,000 | 31 December 2014 est. |
+| 30 | Ireland | $411,300,000,000 | 31 December 2014 est. |
+| 31 | Portugal | $394,000,000,000 | 31 December 2014 est. |
+| 32 | Indonesia | $388,100,000,000 | 31 December 2014 est. |
+| 33 | Venezuela | $372,700,000,000 | 31 December 2014 est. |
+| 34 | United Arab Emirates | $369,500,000,000 | 31 December 2014 est. |
+| 35 | Poland | $352,000,000,000 | 31 December 2014 est. |
+| 36 | Greece | $302,000,000,000 | 31 December 2014 est. |
+| 37 | New Zealand | $271,200,000,000 | 31 December 2014 est. |
+| 38 | Finland | $267,700,000,000 | 31 December 2014 est. |
+| 39 | South Africa | $256,100,000,000 | 31 December 2014 est. |
+| 40 | Egypt | $225,400,000,000 | 31 December 2014 est. |
+| 41 | Vietnam | $208,800,000,000 | 31 December 2014 est. |
+| 42 | Israel | $204,000,000,000 | 31 December 2014 est. |
+| 43 | Chile | $201,600,000,000 | 31 December 2014 est. |
+| 44 | Philippines | $186,400,000,000 | 31 December 2014 est. |
+| 45 | Colombia | $177,900,000,000 | 31 December 2014 est. |
+| 46 | Qatar | $164,500,000,000 | 31 December 2014 est. |
+| 47 | Argentina | $156,000,000,000 | 31 December 2014 est. |
+| 48 | Czech Republic | $131,900,000,000 | 31 December 2014 est. |
+| 49 | Morocco | $122,100,000,000 | 31 December 2014 est. |
+| 50 | Nigeria | $119,600,000,000 | 31 December 2014 est. |
+| 51 | Ukraine | $111,700,000,000 | 31 December 2014 est. |
+| 52 | Pakistan | $102,000,000,000 | 31 October 2014 est. |
+| 53 | Luxembourg | $99,800,000,000 | 31 December 2014 est. |
+| 54 | Bangladesh | $99,590,000,000 | 31 December 2014 est. |
+| 55 | Kuwait | $97,530,000,000 | 31 December 2014 est. |
+| 56 | Kazakhstan | $88,980,000,000 | 31 December 2014 est. |
+| 57 | Lebanon | $87,040,000,000 | 30 December 2014 est. |
+| 58 | Hungary | $78,100,000,000 | 31 December 2014 est. |
+| 59 | Slovakia | $69,780,000,000 | 31 December 2014 est. |
+| 60 | Romania | $69,410,000,000 | 31 December 2014 est. |
+| 61 | Croatia | $48,580,000,000 | 31 December 2014 est. |
+| 62 | Peru | $47,400,000,000 | 31 December 2014 est. |
+| 63 | Cyprus | $47,080,000,000 | 31 December 2014 est. |
+| 64 | Iran | $45,210,000,000 | 31 December 2014 est. |
+| 65 | Slovenia | $40,860,000,000 | 31 December 2014 est. |
+| 66 | Jordan | $40,720,000,000 | 31 December 2014 est. |
+| 67 | Panama | $40,110,000,000 | 31 December 2014 est. |
+| 68 | Bulgaria | $38,580,000,000 | 31 December 2014 est. |
+| 69 | Tunisia | $38,000,000,000 | 31 December 2014 est. |
+| 70 | Sri Lanka | $36,220,000,000 | 31 December 2014 est. |
+| 71 | Ecuador | $34,100,000,000 | 31 December 2014 est. |
+| 72 | Kenya | $34,000,000,000 | 31 December 2014 est. |
+| 73 | Oman | $33,720,000,000 | 31 December 2014 est. |
+| 74 | Bahrain | $28,300,000,000 | 31 December 2014 est. |
+| 75 | Belarus | $28,060,000,000 | 31 December 2014 est. |
+| 76 | Algeria | $27,920,000,000 | 31 December 2014 est. |
+| 77 | Costa Rica | $26,950,000,000 | 31 December 2014 est. |
+| 78 | Dominican Republic | $26,870,000,000 | 31 December 2014 est. |
+| 79 | Guatemala | $25,680,000,000 | 31 December 2014 est. |
+| 80 | Angola | $24,160,000,000 | 31 December 2014 est. |
+| 81 | Lithuania | $23,400,000,000 | 31 December 2014 est. |
+| 82 | Azerbaijan | $22,850,000,000 | 31 December 2014 est. |
+| 83 | Serbia | $22,570,000,000 | 31 December 2014 est. |
+| 84 | Iceland | $21,860,000,000 | 31 December 2014 est. |
+| 85 | Estonia | $21,540,000,000 | 31 December 2014 est. |
+| 86 | Ethiopia | $20,270,000,000 | 31 December 2014 est. |
+| 87 | Uruguay | $19,820,000,000 | 31 December 2014 est. |
+| 88 | Burma | $19,590,000,000 | 31 December 2014 est. |
+| 89 | Mauritius | $16,270,000,000 | 31 December 2014 est. |
+| 90 | Latvia | $15,980,000,000 | 31 December 2014 est. |
+| 91 | Bolivia | $15,510,000,000 | 31 December 2014 est. |
+| 92 | Sudan | $15,410,000,000 | 31 December 2014 est. |
+| 93 | Yemen | $14,610,000,000 | 31 December 2014 est. |
+| 94 | Zimbabwe | $14,070,000,000 | 31 December 2013 est. |
+| 95 | Malta | $13,680,000,000 | 31 December 2014 est. |
+| 96 | Nepal | $13,350,000,000 | 31 December 2014 est. |
+| 97 | Ghana | $13,320,000,000 | 31 December 2014 est. |
+| 98 | Turkmenistan | $13,160,000,000 | 31 December 2014 est. |
+| 99 | El Salvador | $13,070,000,000 | 31 December 2014 est. |
+| 100 | Uzbekistan | $12,760,000,000 | 31 December 2014 est. |
+| 101 | Paraguay | $12,190,000,000 | 31 December 2014 est. |
+| 102 | Honduras | $11,600,000,000 | 31 December 2014 est. |
+| 103 | Bosnia and Herzegovina | $11,070,000,000 | 31 December 2014 est. |
+| 104 | Bahamas, The | $9,500,000,000 | 31 December 2014 est. |
+| 105 | Cote d'Ivoire | $9,294,000,000 | 31 December 2014 est. |
+| 106 | Trinidad and Tobago | $8,894,000,000 | 31 December 2014 est. |
+| 107 | San Marino | $8,822,000,000 | 30 September 2010 |
+| 108 | Tanzania | $8,647,000,000 | 31 December 2014 est. |
+| 109 | Albania | $8,366,000,000 | 31 December 2014 est. |
+| 110 | Georgia | $8,007,000,000 | 31 December 2014 est. |
+| 111 | Mongolia | $7,958,000,000 | 31 December 2014 est. |
+| 112 | Cambodia | $7,370,000,000 | 31 December 2014 est. |
+| 113 | Jamaica | $7,113,000,000 | 31 December 2014 est. |
+| 114 | Syria | $6,966,000,000 | 31 December 2014 est. |
+| 115 | Namibia | $6,570,000,000 | 31 December 2014 est. |
+| 116 | Papua New Guinea | $5,922,000,000 | 31 December 2014 est. |
+| 117 | Macedonia | $5,768,000,000 | 31 December 2014 est. |
+| 118 | Senegal | $5,549,000,000 | 31 December 2014 est. |
+| 119 | Barbados | $5,374,000,000 | 31 December 2014 est. |
+| 120 | Zambia | $5,325,000,000 | 31 December 2014 est. |
+| 121 | Nicaragua | $5,215,000,000 | 31 December 2014 est. |
+| 122 | Laos | $5,157,000,000 | 31 December 2014 est. |
+| 123 | Mozambique | $4,982,000,000 | 31 December 2014 est. |
+| 124 | Armenia | $4,845,000,000 | 31 December 2014 est. |
+| 125 | Eritrea | $4,025,000,000 | 31 December 2014 est. |
+| 126 | Brunei | $3,939,000,000 | 31 December 2014 est. |
+| 127 | Uganda | $3,908,000,000 | 31 December 2014 est. |
+| 128 | Burkina Faso | $3,485,000,000 | 31 December 2014 est. |
+| 129 | Cameroon | $3,318,000,000 | 31 December 2014 est. |
+| 130 | Montenegro | $3,290,000,000 | 31 December 2009 |
+| 131 | Moldova | $3,243,000,000 | 31 December 2014 est. |
+| 132 | Fiji | $2,773,000,000 | 31 December 2014 est. |
+| 133 | Kosovo | $2,505,000,000 | 2013 |
+| 134 | Gabon | $2,503,000,000 | 31 December 2014 est. |
+| 135 | Mali | $2,484,000,000 | 31 December 2014 est. |
+| 136 | Guinea | $2,251,000,000 | 31 December 2014 est. |
+| 137 | Haiti | $2,239,000,000 | 31 December 2014 est. |
+| 138 | Benin | $2,112,000,000 | 31 December 2014 est. |
+| 139 | Botswana | $2,069,000,000 | 31 December 2014 est. |
+| 140 | Suriname | $2,000,000,000 | 31 December 2014 est. |
+| 141 | Congo, Democratic Republic of the | $1,956,000,000 | 31 December 2014 est. |
+| 142 | Mauritania | $1,895,000,000 | 31 December 2014 est. |
+| 143 | Madagascar | $1,822,000,000 | 31 December 2014 est. |
+| 144 | Saint Lucia | $1,763,000,000 | 31 December 2014 est. |
+| 145 | Aruba | $1,659,000,000 | 31 December 2013 est. |
+| 146 | Togo | $1,642,000,000 | 31 December 2014 est. |
+| 147 | Tajikistan | $1,598,000,000 | 31 December 2014 est. |
+| 148 | Maldives | $1,559,000,000 | 31 December 2012 est. |
+| 149 | Cabo Verde | $1,550,000,000 | 31 December 2014 est. |
+| 150 | Guyana | $1,495,000,000 | 31 December 2014 est. |
+| 151 | West Bank | $1,341,000,000 | 31 December 2014 est. |
+| 152 | Gaza Strip | $1,317,000,000 | 31 December 2014 est. |
+| 153 | Malawi | $1,176,000,000 | 31 December 2014 est. |
+| 154 | Kyrgyzstan | $1,152,000,000 | 31 December 2014 est. |
+| 155 | Rwanda | $1,141,000,000 | 31 December 2014 est. |
+| 156 | Antigua and Barbuda | $1,111,000,000 | 31 December 2014 est. |
+| 157 | Belize | $1,050,000,000 | 31 December 2014 est. |
+| 158 | Niger | $945,500,000 | 31 December 2014 est. |
+| 159 | Chad | $895,300,000 | 31 December 2014 est. |
+| 160 | Bhutan | $796,100,000 | 31 December 2014 est. |
+| 161 | Burundi | $691,200,000 | 31 December 2014 est. |
+| 162 | Grenada | $686,100,000 | 31 December 2014 est. |
+| 163 | Swaziland | $657,000,000 | 31 December 2014 est. |
+| 164 | Sierra Leone | $652,700,000 | 31 December 2014 est. |
+| 165 | Liberia | $605,000,000 | 31 December 2014 est. |
+| 166 | Djibouti | $569,600,000 | 31 December 2014 est. |
+| 167 | Vanuatu | $537,700,000 | 31 December 2014 est. |
+| 168 | Seychelles | $485,100,000 | 31 December 2014 est. |
+| 169 | Saint Kitts and Nevis | $481,500,000 | 31 December 2014 est. |
+| 170 | Anguilla | $474,600,000 | 31 December 2014 est. |
+| 171 | Saint Vincent and the Grenadines | $435,200,000 | 31 December 2014 est. |
+| 172 | Gambia, The | $416,300,000 | 31 December 2014 est. |
+| 173 | Dominica | $370,400,000 | 31 December 2014 est. |
+| 174 | Central African Republic | $349,000,000 | 31 December 2014 est. |
+| 175 | Samoa | $332,100,000 | 31 December 2014 est. |
+| 176 | Guinea-Bissau | $215,200,000 | 31 December 2014 est. |
+| 177 | Comoros | $179,100,000 | 31 December 2014 est. |
+| 178 | Tonga | $102,100,000 | 31 December 2014 est. |
+| 179 | Sao Tome and Principe | $85,660,000 | 31 December 2014 est. |
+| 180 | Lesotho | $38,650,000 | 31 December 2014 est. |
+| 181 | Solomon Islands | $27,510,000 | 31 December 2014 est. |
+| 182 | Montserrat | $4,074,000 | 31 December 2014 est. |
+| 183 | Iraq | -$1,666,000 | 31 December 2014 est. |
+| 184 | Equatorial Guinea | -$80,510,000 | 31 December 2014 est. |
+| 185 | Timor-Leste | -$500,000,000 | 31 December 2014 est. |
+| 186 | Congo, Republic of the | -$724,800,000 | 31 December 2014 est. |
+| 187 | Afghanistan | -$819,600,000 | 31 December 2012 est. |
+| 188 | Macau | -$4,956,000,000 | 31 December 2014 est. |
+| 189 | Libya | -$34,710,000,000 | 31 December 2014 est. |
+| 190 | Saudi Arabia | -$38,160,000,000 | 31 December 2014 est. |
+
+

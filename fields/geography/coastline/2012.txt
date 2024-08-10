@@ -1,0 +1,280 @@
+CIA - The World Factbook --  Coastline   
+
+This entry gives the total length of the boundary between the land area (including islands) and the sea.
+
+| Rank | country | (km) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Canada | 202,080.00 | NA |
+| 2 | Pacific Ocean | 135,663.00 | NA |
+| 3 | Atlantic Ocean | 111,866.00 | NA |
+| 4 | Indian Ocean | 66,526.00 | NA |
+| 5 | European Union | 65,992.90 | NA |
+| 6 | Indonesia | 54,716.00 | NA |
+| 7 | Arctic Ocean | 45,389.00 | NA |
+| 8 | Greenland | 44,087.00 | NA |
+| 9 | Russia | 37,653.00 | NA |
+| 10 | Philippines | 36,289.00 | NA |
+| 11 | Japan | 29,751.00 | NA |
+| 12 | Australia | 25,760.00 | NA |
+| 13 | Norway | 25,148.00 | NA |
+| 14 | United States | 19,924.00 | NA |
+| 15 | Antarctica | 17,968.00 | NA |
+| 16 | Southern Ocean | 17,968.00 | NA |
+| 17 | New Zealand | 15,134.00 | NA |
+| 18 | China | 14,500.00 | NA |
+| 19 | Greece | 13,676.00 | NA |
+| 20 | United Kingdom | 12,429.00 | NA |
+| 21 | Mexico | 9,330.00 | NA |
+| 22 | Italy | 7,600.00 | NA |
+| 23 | Brazil | 7,491.00 | NA |
+| 24 | Denmark | 7,314.00 | NA |
+| 25 | Turkey | 7,200.00 | NA |
+| 26 | India | 7,000.00 | NA |
+| 27 | Chile | 6,435.00 | NA |
+| 28 | Micronesia, Federated States of | 6,112.00 | NA |
+| 29 | Croatia | 5,835.00 | NA |
+| 30 | Solomon Islands | 5,313.00 | NA |
+| 31 | Papua New Guinea | 5,152.00 | NA |
+| 32 | Argentina | 4,989.00 | NA |
+| 33 | Iceland | 4,970.00 | NA |
+| 34 | Spain | 4,964.00 | NA |
+| 35 | France | 4,853.00 | NA |
+| 36 | Madagascar | 4,828.00 | NA |
+| 37 | Malaysia | 4,675.00 | NA |
+| 38 | Estonia | 3,794.00 | NA |
+| 39 | Cuba | 3,735.00 | NA |
+| 40 | Svalbard | 3,587.00 | NA |
+| 41 | Bahamas, The | 3,542.00 | NA |
+| 42 | Vietnam | 3,444.00 | NA |
+| 43 | France | 3,427.00 | NA |
+| 44 | Thailand | 3,219.00 | NA |
+| 45 | Sweden | 3,218.00 | NA |
+| 46 | Colombia | 3,208.00 | NA |
+| 47 | Coral Sea Islands | 3,095.00 | NA |
+| 48 | Somalia | 3,025.00 | NA |
+| 49 | French Southern and Antarctic Lands | 2,800.00 | NA |
+| 50 | Venezuela | 2,800.00 | NA |
+| 51 | South Africa | 2,798.00 | NA |
+| 52 | Ukraine | 2,782.00 | NA |
+| 53 | Saudi Arabia | 2,640.00 | NA |
+| 54 | Vanuatu | 2,528.00 | NA |
+| 55 | French Polynesia | 2,525.00 | NA |
+| 56 | Korea, North | 2,495.00 | NA |
+| 57 | Panama | 2,490.00 | NA |
+| 58 | Mozambique | 2,470.00 | NA |
+| 59 | Egypt | 2,450.00 | NA |
+| 60 | Iran | 2,440.00 | NA |
+| 61 | Peru | 2,414.00 | NA |
+| 62 | Korea, South | 2,413.00 | NA |
+| 63 | Germany | 2,389.00 | NA |
+| 64 | New Caledonia | 2,254.00 | NA |
+| 65 | Ecuador | 2,237.00 | NA |
+| 66 | Eritrea | 2,234.00 | NA |
+| 67 | Oman | 2,092.00 | NA |
+| 68 | Burma | 1,930.00 | NA |
+| 69 | Yemen | 1,906.00 | NA |
+| 70 | Morocco | 1,835.00 | NA |
+| 71 | Portugal | 1,793.00 | NA |
+| 72 | Haiti | 1,771.00 | NA |
+| 73 | Libya | 1,770.00 | NA |
+| 74 | Angola | 1,600.00 | NA |
+| 75 | Namibia | 1,572.00 | NA |
+| 76 | Taiwan | 1,566.30 | NA |
+| 77 | Palau | 1,519.00 | NA |
+| 78 | Northern Mariana Islands | 1,482.00 | NA |
+| 79 | Ireland | 1,448.00 | NA |
+| 80 | Tanzania | 1,424.00 | NA |
+| 81 | Sri Lanka | 1,340.00 | NA |
+| 82 | United Arab Emirates | 1,318.00 | NA |
+| 83 | Costa Rica | 1,290.00 | NA |
+| 84 | Falkland Islands (Islas Malvinas) | 1,288.00 | NA |
+| 85 | Dominican Republic | 1,288.00 | NA |
+| 86 | Finland | 1,250.00 | NA |
+| 87 | Tunisia | 1,148.00 | NA |
+| 88 | Kiribati | 1,143.00 | NA |
+| 89 | Fiji | 1,129.00 | NA |
+| 90 | Faroe Islands | 1,117.00 | NA |
+| 91 | Western Sahara | 1,110.00 | NA |
+| 92 | Pakistan | 1,046.00 | NA |
+| 93 | Jamaica | 1,022.00 | NA |
+| 94 | Algeria | 998.00 | NA |
+| 95 | Cape Verde | 965.00 | NA |
+| 96 | Spratly Islands | 926.00 | NA |
+| 97 | Nicaragua | 910.00 | NA |
+| 98 | Gabon | 885.00 | NA |
+| 99 | Nigeria | 853.00 | NA |
+| 100 | Sudan | 853.00 | NA |
+| 101 | Mauritania | 754.00 | NA |
+| 102 | Hong Kong | 733.00 | NA |
+| 103 | Timor-Leste | 706.00 | NA |
+| 104 | British Indian Ocean Territory | 698.00 | NA |
+| 105 | Honduras | 669.00 | NA |
+| 106 | Uruguay | 660.00 | NA |
+| 107 | Cyprus | 648.00 | NA |
+| 108 | Maldives | 644.00 | NA |
+| 109 | Bangladesh | 580.00 | NA |
+| 110 | Liberia | 579.00 | NA |
+| 111 | Qatar | 563.00 | NA |
+| 112 | Ghana | 539.00 | NA |
+| 113 | Kenya | 536.00 | NA |
+| 114 | Senegal | 531.00 | NA |
+| 115 | Paracel Islands | 518.00 | NA |
+| 116 | Cote d'Ivoire | 515.00 | NA |
+| 117 | Puerto Rico | 501.00 | NA |
+| 118 | Kuwait | 499.00 | NA |
+| 119 | Latvia | 498.00 | NA |
+| 120 | Seychelles | 491.00 | NA |
+| 121 | Guyana | 459.00 | NA |
+| 122 | Netherlands | 451.00 | NA |
+| 123 | Cambodia | 443.00 | NA |
+| 124 | Poland | 440.00 | NA |
+| 125 | Tonga | 419.00 | NA |
+| 126 | Samoa | 403.00 | NA |
+| 127 | Cameroon | 402.00 | NA |
+| 128 | Sierra Leone | 402.00 | NA |
+| 129 | Guatemala | 400.00 | NA |
+| 130 | Turks and Caicos Islands | 389.00 | NA |
+| 131 | Belize | 386.00 | NA |
+| 132 | Suriname | 386.00 | NA |
+| 133 | Marshall Islands | 370.40 | NA |
+| 134 | Curacao | 364.00 | NA |
+| 135 | Sint Maarten | 364.00 | NA |
+| 136 | Trinidad and Tobago | 362.00 | NA |
+| 137 | Albania | 362.00 | NA |
+| 138 | Bulgaria | 354.00 | NA |
+| 139 | Guinea-Bissau | 350.00 | NA |
+| 140 | Comoros | 340.00 | NA |
+| 141 | Guinea | 320.00 | NA |
+| 142 | Djibouti | 314.00 | NA |
+| 143 | Georgia | 310.00 | NA |
+| 144 | El Salvador | 307.00 | NA |
+| 145 | Equatorial Guinea | 296.00 | NA |
+| 146 | Montenegro | 293.50 | NA |
+| 147 | Israel | 273.00 | NA |
+| 148 | Romania | 225.00 | NA |
+| 149 | Lebanon | 225.00 | NA |
+| 150 | Sao Tome and Principe | 209.00 | NA |
+| 151 | Malta | 196.80 | NA |
+| 152 | Singapore | 193.00 | NA |
+| 153 | Syria | 193.00 | NA |
+| 154 | Virgin Islands | 188.00 | NA |
+| 155 | Mauritius | 177.00 | NA |
+| 156 | Congo, Republic of the | 169.00 | NA |
+| 157 | Honduras | 163.00 | NA |
+| 158 | Brunei | 161.00 | NA |
+| 159 | Bahrain | 161.00 | NA |
+| 160 | Cayman Islands | 160.00 | NA |
+| 161 | Isle of Man | 160.00 | NA |
+| 162 | Saint Lucia | 158.00 | NA |
+| 163 | Antigua and Barbuda | 153.00 | NA |
+| 164 | Dominica | 148.00 | NA |
+| 165 | Christmas Island | 138.90 | NA |
+| 166 | Saint Kitts and Nevis | 135.00 | NA |
+| 167 | Wallis and Futuna | 129.00 | NA |
+| 168 | Guam | 125.50 | NA |
+| 169 | Jan Mayen | 124.10 | NA |
+| 170 | Grenada | 121.00 | NA |
+| 171 | Benin | 121.00 | NA |
+| 172 | Saint Pierre and Miquelon | 120.00 | NA |
+| 173 | Cook Islands | 120.00 | NA |
+| 174 | American Samoa | 116.00 | NA |
+| 175 | Bermuda | 103.00 | NA |
+| 176 | Heard Island and McDonald Islands | 101.90 | NA |
+| 177 | Tokelau | 101.00 | NA |
+| 178 | Barbados | 97.00 | NA |
+| 179 | Lithuania | 90.00 | NA |
+| 180 | Saint Vincent and the Grenadines | 84.00 | NA |
+| 181 | British Virgin Islands | 80.00 | NA |
+| 182 | Gambia, The | 80.00 | NA |
+| 183 | Ashmore and Cartier Islands | 74.10 | NA |
+| 184 | Jersey | 70.00 | NA |
+| 185 | Aruba | 68.50 | NA |
+| 186 | Belgium | 66.50 | NA |
+| 187 | Niue | 64.00 | NA |
+| 188 | Anguilla | 61.00 | NA |
+| 189 | Saint Helena, Ascension, and Tristan da Cunha | 60.00 | NA |
+| 190 | Saint Martin | 58.90 | NA |
+| 191 | Iraq | 58.00 | NA |
+| 192 | Akrotiri | 56.30 | NA |
+| 193 | Togo | 56.00 | NA |
+| 194 | Pitcairn Islands | 51.00 | NA |
+| 195 | Guernsey | 50.00 | NA |
+| 196 | Slovenia | 46.60 | NA |
+| 197 | Macau | 41.00 | NA |
+| 198 | Montserrat | 40.00 | NA |
+| 199 | Gaza Strip | 40.00 | NA |
+| 200 | Saint Helena, Ascension, and Tristan da Cunha | 40.00 | NA |
+| 201 | Congo, Democratic Republic of the | 37.00 | NA |
+| 202 | French Southern and Antarctic Lands | 35.20 | NA |
+| 203 | French Southern and Antarctic Lands | 35.20 | NA |
+| 204 | United States Pacific Island Wildlife Refuges | 34.00 | NA |
+| 205 | Norfolk Island | 32.00 | NA |
+| 206 | Nauru | 30.00 | NA |
+| 207 | Bouvet Island | 29.60 | NA |
+| 208 | French Southern and Antarctic Lands | 28.00 | NA |
+| 209 | Dhekelia | 27.50 | NA |
+| 210 | Jordan | 26.00 | NA |
+| 211 | Cocos (Keeling) Islands | 26.00 | NA |
+| 212 | French Southern and Antarctic Lands | 24.10 | NA |
+| 213 | Tuvalu | 24.00 | NA |
+| 214 | French Southern and Antarctic Lands | 22.20 | NA |
+| 215 | Bosnia and Herzegovina | 20.00 | NA |
+| 216 | Wake Island | 19.30 | NA |
+| 217 | United States Pacific Island Wildlife Refuges | 15.00 | NA |
+| 218 | United States Pacific Island Wildlife Refuges | 14.50 | NA |
+| 219 | Gibraltar | 12.00 | NA |
+| 220 | Clipperton Island | 11.10 | NA |
+| 221 | United States Pacific Island Wildlife Refuges | 8.00 | NA |
+| 222 | Navassa Island | 8.00 | NA |
+| 223 | Howland Island | 6.40 | NA |
+| 224 | United States Pacific Island Wildlife Refuges | 6.40 | NA |
+| 225 | United States Pacific Island Wildlife Refuges | 4.80 | NA |
+| 226 | Monaco | 4.10 | NA |
+| 227 | French Southern and Antarctic Lands | 3.70 | NA |
+| 228 | United States Pacific Island Wildlife Refuges | 3.00 | NA |
+| 229 | Afghanistan | 0.00 | NA |
+| 230 | Zimbabwe | 0.00 | NA |
+| 231 | Armenia | 0.00 | NA |
+| 232 | Andorra | 0.00 | NA |
+| 233 | Austria | 0.00 | NA |
+| 234 | Botswana | 0.00 | NA |
+| 235 | Bolivia | 0.00 | NA |
+| 236 | Belarus | 0.00 | NA |
+| 237 | Bhutan | 0.00 | NA |
+| 238 | Burundi | 0.00 | NA |
+| 239 | Chad | 0.00 | NA |
+| 240 | Central African Republic | 0.00 | NA |
+| 241 | Ethiopia | 0.00 | NA |
+| 242 | Czech Republic | 0.00 | NA |
+| 243 | Hungary | 0.00 | NA |
+| 244 | Kyrgyzstan | 0.00 | NA |
+| 245 | Kosovo | 0.00 | NA |
+| 246 | Kazakhstan | 0.00 | NA |
+| 247 | Laos | 0.00 | NA |
+| 248 | Slovakia | 0.00 | NA |
+| 249 | Liechtenstein | 0.00 | NA |
+| 250 | Lesotho | 0.00 | NA |
+| 251 | Luxembourg | 0.00 | NA |
+| 252 | Moldova | 0.00 | NA |
+| 253 | Mongolia | 0.00 | NA |
+| 254 | Malawi | 0.00 | NA |
+| 255 | Macedonia | 0.00 | NA |
+| 256 | Mali | 0.00 | NA |
+| 257 | Niger | 0.00 | NA |
+| 258 | Nepal | 0.00 | NA |
+| 259 | South Sudan | 0.00 | NA |
+| 260 | Paraguay | 0.00 | NA |
+| 261 | Serbia | 0.00 | NA |
+| 262 | Rwanda | 0.00 | NA |
+| 263 | San Marino | 0.00 | NA |
+| 264 | Switzerland | 0.00 | NA |
+| 265 | Tajikistan | 0.00 | NA |
+| 266 | Turkmenistan | 0.00 | NA |
+| 267 | Uganda | 0.00 | NA |
+| 268 | Burkina Faso | 0.00 | NA |
+| 269 | Uzbekistan | 0.00 | NA |
+| 270 | Holy See (Vatican City) | 0.00 | NA |
+| 271 | West Bank | 0.00 | NA |
+| 272 | Swaziland | 0.00 | NA |
+| 273 | Zambia | 0.00 | NA |
+| 274 | Azerbaijan | 0.00 | NA |

@@ -1,0 +1,230 @@
+CIA - The World Factbook --  Life expectancy at birth   
+
+This entry contains the average number of years to be lived by a group of people born in the same year, if mortality at each age remains constant in the future. The entry includes total population as well as the male and female components. Life expectancy at birth is also a measure of overall quality of life in a country and summarizes the mortality at all ages. It can also be thought of as indicating the potential return on investment in human capital and is necessary for the calculation of various actuarial measures.
+
+| Rank | country | (years) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Macau | 84.36 | 2009 est. |
+| 2 | Andorra | 82.51 | 2009 est. |
+| 3 | Japan | 82.12 | 2009 est. |
+| 4 | Singapore | 81.98 | 2009 est. |
+| 5 | San Marino | 81.97 | 2009 est. |
+| 6 | Hong Kong | 81.86 | 2009 est. |
+| 7 | Australia | 81.63 | 2009 est. |
+| 8 | Canada | 81.23 | 2009 est. |
+| 9 | France | 80.98 | 2009 est. |
+| 10 | Sweden | 80.86 | 2009 est. |
+| 11 | Switzerland | 80.85 | 2009 est. |
+| 12 | Guernsey | 80.77 | 2009 est. |
+| 13 | Israel | 80.73 | 2009 est. |
+| 14 | Iceland | 80.67 | 2009 est. |
+| 15 | Anguilla | 80.65 | 2009 est. |
+| 16 | Cayman Islands | 80.44 | 2009 est. |
+| 17 | Bermuda | 80.43 | 2009 est. |
+| 18 | New Zealand | 80.36 | 2009 est. |
+| 19 | Italy | 80.20 | 2009 est. |
+| 20 | Gibraltar | 80.19 | 2009 est. |
+| 21 | Monaco | 80.09 | 2009 est. |
+| 22 | Liechtenstein | 80.06 | 2009 est. |
+| 23 | Spain | 80.05 | 2009 est. |
+| 24 | Norway | 79.95 | 2009 est. |
+| 25 | Jersey | 79.75 | 2009 est. |
+| 26 | Greece | 79.66 | 2009 est. |
+| 27 | Austria | 79.50 | 2009 est. |
+| 28 | Faroe Islands | 79.44 | 2009 est. |
+| 29 | Malta | 79.44 | 2009 est. |
+| 30 | Netherlands | 79.40 | 2009 est. |
+| 31 | Luxembourg | 79.33 | 2009 est. |
+| 32 | Germany | 79.26 | 2009 est. |
+| 33 | Belgium | 79.22 | 2009 est. |
+| 34 | Saint Pierre and Miquelon | 79.07 | 2009 est. |
+| 35 | Virgin Islands | 79.05 | 2009 est. |
+| 36 | United Kingdom | 79.01 | 2009 est. |
+| 37 | Finland | 78.97 | 2009 est. |
+| 38 | Jordan | 78.87 | 2009 est. |
+| 39 | Isle of Man | 78.82 | 2009 est. |
+| 40 | Korea, South | 78.72 | 2009 est. |
+| 41 | European Union | 78.67 | 2009 est. |
+| 42 | Puerto Rico | 78.53 | 2009 est. |
+| 43 | Bosnia and Herzegovina | 78.50 | 2009 est. |
+| 44 | Saint Helena | 78.44 | 2009 est. |
+| 45 | Cyprus | 78.33 | 2009 est. |
+| 46 | Denmark | 78.30 | 2009 est. |
+| 47 | Ireland | 78.24 | 2009 est. |
+| 48 | Portugal | 78.21 | 2009 est. |
+| 49 | Wallis and Futuna | 78.20 | 2009 est. |
+| 50 | United States | 78.11 | 2009 est. |
+| 51 | Albania | 77.96 | 2009 est. |
+| 52 | Taiwan | 77.96 | 2009 est. |
+| 53 | Kuwait | 77.71 | 2009 est. |
+| 54 | Costa Rica | 77.58 | 2009 est. |
+| 55 | Cuba | 77.45 | 2009 est. |
+| 56 | Chile | 77.34 | 2009 est. |
+| 57 | Libya | 77.26 | 2009 est. |
+| 58 | British Virgin Islands | 77.26 | 2009 est. |
+| 59 | Panama | 77.25 | 2009 est. |
+| 60 | Slovenia | 76.92 | 2009 est. |
+| 61 | Czech Republic | 76.81 | 2009 est. |
+| 62 | Georgia | 76.72 | 2009 est. |
+| 63 | French Polynesia | 76.71 | 2009 est. |
+| 64 | Northern Mariana Islands | 76.70 | 2009 est. |
+| 65 | Netherlands Antilles | 76.65 | 2009 est. |
+| 66 | Argentina | 76.56 | 2009 est. |
+| 67 | Saint Lucia | 76.45 | 2009 est. |
+| 68 | Uruguay | 76.35 | 2009 est. |
+| 69 | Saudi Arabia | 76.30 | 2009 est. |
+| 70 | United Arab Emirates | 76.11 | 2009 est. |
+| 71 | Mexico | 76.06 | 2009 est. |
+| 72 | Tunisia | 75.78 | 2009 est. |
+| 73 | Paraguay | 75.77 | 2009 est. |
+| 74 | Brunei | 75.74 | 2009 est. |
+| 75 | Poland | 75.63 | 2009 est. |
+| 76 | Dominica | 75.55 | 2009 est. |
+| 77 | Turks and Caicos Islands | 75.42 | 2009 est. |
+| 78 | Slovakia | 75.40 | 2009 est. |
+| 79 | Croatia | 75.35 | 2009 est. |
+| 80 | Qatar | 75.35 | 2009 est. |
+| 81 | Ecuador | 75.30 | 2009 est. |
+| 82 | Aruba | 75.28 | 2009 est. |
+| 83 | Bahrain | 75.16 | 2009 est. |
+| 84 | Sri Lanka | 75.14 | 2009 est. |
+| 85 | New Caledonia | 74.98 | 2009 est. |
+| 86 | Lithuania | 74.90 | 2009 est. |
+| 87 | Antigua and Barbuda | 74.76 | 2009 est. |
+| 88 | Macedonia | 74.68 | 2009 est. |
+| 89 | West Bank | 74.54 | 2009 est. |
+| 90 | Cook Islands | 74.22 | 2009 est. |
+| 91 | Oman | 74.16 | 2009 est. |
+| 92 | Algeria | 74.02 | 2009 est. |
+| 93 | Mauritius | 74.00 | 2009 est. |
+| 94 | Maldives | 73.97 | 2009 est. |
+| 95 | Barbados | 73.94 | 2009 est. |
+| 96 | Serbia | 73.90 | 2009 est. |
+| 97 | Suriname | 73.73 | 2009 est. |
+| 98 | American Samoa | 73.72 | 2009 est. |
+| 99 | Dominican Republic | 73.70 | 2009 est. |
+| 100 | Solomon Islands | 73.69 | 2009 est. |
+| 101 | Lebanon | 73.66 | 2009 est. |
+| 102 | Saint Vincent and the Grenadines | 73.65 | 2009 est. |
+| 103 | Venezuela | 73.61 | 2009 est. |
+| 104 | Jamaica | 73.53 | 2009 est. |
+| 105 | China | 73.47 | 2009 est. |
+| 106 | Hungary | 73.44 | 2009 est. |
+| 107 | Gaza Strip | 73.42 | 2009 est. |
+| 108 | Malaysia | 73.29 | 2009 est. |
+| 109 | Saint Kitts and Nevis | 73.20 | 2009 est. |
+| 110 | Thailand | 73.10 | 2009 est. |
+| 111 | Bulgaria | 73.09 | 2009 est. |
+| 112 | Seychelles | 73.02 | 2009 est. |
+| 113 | Estonia | 72.82 | 2009 est. |
+| 114 | Colombia | 72.81 | 2009 est. |
+| 115 | Montserrat | 72.76 | 2009 est. |
+| 116 | Armenia | 72.68 | 2009 est. |
+| 117 | Romania | 72.45 | 2009 est. |
+| 118 | El Salvador | 72.33 | 2009 est. |
+| 119 | Latvia | 72.15 | 2009 est. |
+| 120 | Egypt | 72.12 | 2009 est. |
+| 121 | Brazil | 71.99 | 2009 est. |
+| 122 | Turkey | 71.96 | 2009 est. |
+| 123 | Uzbekistan | 71.96 | 2009 est. |
+| 124 | Samoa | 71.86 | 2009 est. |
+| 125 | Morocco | 71.80 | 2009 est. |
+| 126 | Cape Verde | 71.61 | 2009 est. |
+| 127 | Vietnam | 71.58 | 2009 est. |
+| 128 | Nicaragua | 71.50 | 2009 est. |
+| 129 | Palau | 71.22 | 2009 est. |
+| 130 | Marshall Islands | 71.19 | 2009 est. |
+| 131 | Syria | 71.19 | 2009 est. |
+| 132 | Iran | 71.14 | 2009 est. |
+| 133 | Philippines | 71.09 | 2009 est. |
+| 134 | Micronesia, Federated States of | 70.94 | 2009 est. |
+| 135 | Trinidad and Tobago | 70.86 | 2009 est. |
+| 136 | Moldova | 70.80 | 2009 est. |
+| 137 | Indonesia | 70.76 | 2009 est. |
+| 138 | Peru | 70.74 | 2009 est. |
+| 139 | Fiji | 70.73 | 2009 est. |
+| 140 | Tonga | 70.73 | 2009 est. |
+| 141 | Belarus | 70.63 | 2009 est. |
+| 142 | Guatemala | 70.29 | 2009 est. |
+| 143 | Greenland | 70.07 | 2009 est. |
+| 144 | Iraq | 69.94 | 2009 est. |
+| 145 | India | 69.89 | 2009 est. |
+| 146 | Kyrgyzstan | 69.43 | 2009 est. |
+| 147 | Honduras | 69.40 | 2009 est. |
+| 148 | Tuvalu | 69.29 | 2009 est. |
+| 149 | Sao Tome and Principe | 68.32 | 2009 est. |
+| 150 | Ukraine | 68.25 | 2009 est. |
+| 151 | Belize | 68.20 | 2009 est. |
+| 152 | Kazakhstan | 67.87 | 2009 est. |
+| 153 | Turkmenistan | 67.87 | 2009 est. |
+| 154 | Mongolia | 67.65 | 2009 est. |
+| 155 | Timor-Leste | 67.27 | 2009 est. |
+| 156 | Bolivia | 66.89 | 2009 est. |
+| 157 | Guyana | 66.68 | 2009 est. |
+| 158 | Azerbaijan | 66.66 | 2009 est. |
+| 159 | World | 66.57 | 2009 est. |
+| 160 | Papua New Guinea | 66.34 | 2009 est. |
+| 161 | Bhutan | 66.13 | 2009 est. |
+| 162 | Russia | 66.03 | 2009 est. |
+| 163 | Grenada | 65.95 | 2009 est. |
+| 164 | Bahamas, The | 65.78 | 2009 est. |
+| 165 | Nepal | 65.46 | 2009 est. |
+| 166 | Tajikistan | 65.33 | 2009 est. |
+| 167 | Pakistan | 64.49 | 2009 est. |
+| 168 | Nauru | 64.20 | 2009 est. |
+| 169 | Vanuatu | 63.98 | 2009 est. |
+| 170 | Korea, North | 63.81 | 2009 est. |
+| 171 | Comoros | 63.47 | 2009 est. |
+| 172 | Burma | 63.39 | 2009 est. |
+| 173 | Yemen | 63.27 | 2009 est. |
+| 174 | Kiribati | 63.22 | 2009 est. |
+| 175 | Mayotte | 62.91 | 2009 est. |
+| 176 | Madagascar | 62.89 | 2009 est. |
+| 177 | Cambodia | 62.10 | 2009 est. |
+| 178 | Botswana | 61.85 | 2009 est. |
+| 179 | Eritrea | 61.78 | 2009 est. |
+| 180 | Equatorial Guinea | 61.61 | 2009 est. |
+| 181 | Haiti | 60.78 | 2009 est. |
+| 182 | Mauritania | 60.37 | 2009 est. |
+| 183 | Bangladesh | 60.25 | 2009 est. |
+| 184 | Ghana | 59.85 | 2009 est. |
+| 185 | Benin | 59.00 | 2009 est. |
+| 186 | Senegal | 59.00 | 2009 est. |
+| 187 | Togo | 58.69 | 2009 est. |
+| 188 | Kenya | 57.86 | 2009 est. |
+| 189 | Guinea | 57.09 | 2009 est. |
+| 190 | Laos | 56.68 | 2009 est. |
+| 191 | Cote d'Ivoire | 55.45 | 2009 est. |
+| 192 | Ethiopia | 55.41 | 2009 est. |
+| 193 | Gambia, The | 55.35 | 2009 est. |
+| 194 | Congo, Democratic Republic of the | 54.36 | 2009 est. |
+| 195 | Western Sahara | 54.32 | 2009 est. |
+| 196 | Congo, Republic of the | 54.15 | 2009 est. |
+| 197 | Cameroon | 53.69 | 2009 est. |
+| 198 | Gabon | 53.11 | 2009 est. |
+| 199 | Burkina Faso | 52.95 | 2009 est. |
+| 200 | Uganda | 52.72 | 2009 est. |
+| 201 | Niger | 52.60 | 2009 est. |
+| 202 | Burundi | 52.09 | 2009 est. |
+| 203 | Tanzania | 52.01 | 2009 est. |
+| 204 | Sudan | 51.42 | 2009 est. |
+| 205 | Namibia | 51.24 | 2009 est. |
+| 206 | Rwanda | 50.52 | 2009 est. |
+| 207 | Mali | 50.35 | 2009 est. |
+| 208 | Somalia | 49.63 | 2009 est. |
+| 209 | South Africa | 48.98 | 2009 est. |
+| 210 | Guinea-Bissau | 47.90 | 2009 est. |
+| 211 | Chad | 47.70 | 2009 est. |
+| 212 | Nigeria | 46.94 | 2009 est. |
+| 213 | Zimbabwe | 45.77 | 2009 est. |
+| 214 | Afghanistan | 44.64 | 2009 est. |
+| 215 | Central African Republic | 44.47 | 2009 est. |
+| 216 | Malawi | 43.82 | 2009 est. |
+| 217 | Djibouti | 43.37 | 2009 est. |
+| 218 | Liberia | 41.84 | 2009 est. |
+| 219 | Sierra Leone | 41.24 | 2009 est. |
+| 220 | Mozambique | 41.18 | 2009 est. |
+| 221 | Lesotho | 40.38 | 2009 est. |
+| 222 | Zambia | 38.63 | 2009 est. |
+| 223 | Angola | 38.20 | 2009 est. |
+| 224 | Swaziland | 31.99 | 2009 est. |

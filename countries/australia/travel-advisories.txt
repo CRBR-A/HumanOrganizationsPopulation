@@ -1,0 +1,14 @@
+| Precautions | Exercise normal precautions in Australia. The FIFA Women's World Cup 2023 is scheduled to take place across Australia and New Zealand in nine cities from July 20 through August 20, 2023. Review the [FIFA Women's World Cup Australia & New Zealand 2023 webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/fifa-women-s-world-cup-australia---new-zealand-2023.html) for actions to take prior to travel.  |
+| | Consult the link below for updates to travel advisories and statements on safety, security, local laws, and special circumstances in this country. |
+| | <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html> |
+| Passport/Visa Requirements | US citizens should make sure their passport is valid at the date of their entering the country. They should also make sure they have at least 1 blank page in their passport for any entry stamp that will be required. A visa is required. US citizens will need to get in touch with the country's embassy or nearest consulate to obtain a visa or Electronic Travel Authority (ETA) prior to visiting the country. |
+| Vaccinations | An International Certificate of Vaccination for yellow fever is required for travelers arriving from countries with a risk of yellow fever transmission and for travelers having transited through the airport of a country with risk of yellow fever transmission. See WHO recommendations.  <http://www.who.int/> |
+| US Embassy/Consulate | [61] (02) 6214-5600; US Embassy in Canberra, Moonah Place, Yarralumla, ACT 2600, Australia; https://au.usembassy.gov/; AskEmbassyCanberra@state.gov |
+
+---
+country: Australia
+date: June 16, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Australia/travel-facts>
+license: public domain (U.S.)
+...

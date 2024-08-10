@@ -1,0 +1,219 @@
+CIA - The World Factbook --  Literacy   
+
+This entry includes a definition of literacy and Census Bureau percentages for the total population, males, and females. There are no universal definitions and standards of literacy. Unless otherwise specified, all rates are based on the most common definition - the ability to read and write at a specified age. Detailing the standards that individual countries use to assess the ability to read and write is beyond the scope of the Factbook. Information on literacy, while not a perfect measure of educational results, is probably the most easily available and valid for international comparisons. Low levels of literacy, and education in general, can impede the economic development of a country in the current rapidly changing, technology-driven world.
+
+| Rank | country | (%) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Andorra | 100.00 | NA |
+| 2 | Finland | 100.00 | 2000 est. |
+| 3 | Georgia | 100.00 | 2004 est. |
+| 4 | Holy See (Vatican City) | 100.00 | NA |
+| 5 | Luxembourg | 100.00 | 2000 est. |
+| 6 | Norway | 100.00 | NA |
+| 7 | Liechtenstein | 100.00 | NA |
+| 8 | Greenland | 100.00 | 2001 est. |
+| 9 | Cuba | 99.80 | 2002 census |
+| 10 | Estonia | 99.80 | 2000 census |
+| 11 | Poland | 99.80 | 2003 est. |
+| 12 | Barbados | 99.70 | 2002 est. |
+| 13 | Samoa | 99.70 | 2003 est. |
+| 14 | Slovenia | 99.70 | NA |
+| 15 | Latvia | 99.70 | 2000 census |
+| 16 | Belarus | 99.60 | 1999 census |
+| 17 | Lithuania | 99.60 | 2001 census |
+| 18 | Slovakia | 99.60 | 2004 |
+| 19 | Kazakhstan | 99.50 | 1999 est. |
+| 20 | Tajikistan | 99.50 | 2000 census |
+| 21 | Armenia | 99.40 | 2001 census |
+| 22 | Ukraine | 99.40 | 2001 census |
+| 23 | Hungary | 99.40 | 2003 est. |
+| 24 | Russia | 99.40 | 2002 census |
+| 25 | Uzbekistan | 99.30 | 2003 est. |
+| 26 | Moldova | 99.10 | 2005 est. |
+| 27 | Australia | 99.00 | 2003 est. |
+| 28 | Sweden | 99.00 | 2003 est. |
+| 29 | Saint Pierre and Miquelon | 99.00 | 1982 est. |
+| 30 | New Zealand | 99.00 | 2003 est. |
+| 31 | Netherlands | 99.00 | 2003 est. |
+| 32 | Monaco | 99.00 | 2003 est. |
+| 33 | Korea, North | 99.00 | NA |
+| 34 | Japan | 99.00 | 2002 |
+| 35 | Ireland | 99.00 | 2003 est. |
+| 36 | Iceland | 99.00 | 2003 est. |
+| 37 | United States | 99.00 | 2003 est. |
+| 38 | United Kingdom | 99.00 | 2003 est. |
+| 39 | Switzerland | 99.00 | 2003 est. |
+| 40 | Denmark | 99.00 | 2003 est. |
+| 41 | Belgium | 99.00 | 2003 est. |
+| 42 | Canada | 99.00 | 2003 est. |
+| 43 | Germany | 99.00 | 2003 est. |
+| 44 | France | 99.00 | 2003 est. |
+| 45 | Czech Republic | 99.00 | 2003 est. |
+| 46 | Tonga | 98.90 | 1999 est. |
+| 47 | Azerbaijan | 98.80 | 1999 census |
+| 48 | Turkmenistan | 98.80 | 1999 est. |
+| 49 | Albania | 98.70 | 2001 census |
+| 50 | Kyrgyzstan | 98.70 | 1999 census |
+| 51 | Trinidad and Tobago | 98.60 | 2003 est. |
+| 52 | Italy | 98.40 | 2001 census |
+| 53 | Bulgaria | 98.20 | 2001 census |
+| 54 | Croatia | 98.10 | 2001 census |
+| 55 | Austria | 98.00 | NA |
+| 56 | Bermuda | 98.00 | 2005 est. |
+| 57 | Cayman Islands | 98.00 | 1970 est. |
+| 58 | French Polynesia | 98.00 | 1977 est. |
+| 59 | Uruguay | 98.00 | 2003 est. |
+| 60 | Turks and Caicos Islands | 98.00 | 1970 est. |
+| 61 | Korea, South | 97.90 | 2002 |
+| 62 | Spain | 97.90 | 2003 est. |
+| 63 | British Virgin Islands | 97.80 | NA |
+| 64 | Saint Kitts and Nevis | 97.80 | 2003 est. |
+| 65 | Mongolia | 97.80 | 2000 census |
+| 66 | Cyprus | 97.60 | 2001 census |
+| 67 | Aruba | 97.30 | 2000 census |
+| 68 | Romania | 97.30 | 2002 census |
+| 69 | Argentina | 97.20 | 2001 census |
+| 70 | Israel | 97.10 | 2004 est. |
+| 71 | American Samoa | 97.00 | 1980 est. |
+| 72 | Saint Helena, Ascension, and Tristan da Cunha | 97.00 | 1987 est. |
+| 73 | Northern Mariana Islands | 97.00 | 1980 est. |
+| 74 | Montserrat | 97.00 | 1970 est. |
+| 75 | Bosnia and Herzegovina | 96.70 | 2000 est. |
+| 76 | Serbia | 96.40 | NA |
+| 77 | New Caledonia | 96.20 | 1996 census |
+| 78 | Macedonia | 96.10 | 2002 census |
+| 79 | Taiwan | 96.10 | 2003 |
+| 80 | Greece | 96.00 | 2001 census |
+| 81 | San Marino | 96.00 | NA |
+| 82 | Saint Vincent and the Grenadines | 96.00 | 1970 est. |
+| 83 | Grenada | 96.00 | 2003 est. |
+| 84 | Chile | 95.70 | 2002 census |
+| 85 | Bahamas, The | 95.60 | 2003 est. |
+| 86 | Anguilla | 95.00 | 1984 est. |
+| 87 | Cook Islands | 95.00 | NA |
+| 88 | Niue | 95.00 | NA |
+| 89 | Costa Rica | 94.90 | 2000 census |
+| 90 | Puerto Rico | 94.10 | 2002 est. |
+| 91 | Dominica | 94.00 | 2003 est. |
+| 92 | Paraguay | 94.00 | 2003 est. |
+| 93 | Maldives | 93.80 | 2006 Census |
+| 94 | Fiji | 93.70 | 2003 est. |
+| 95 | Marshall Islands | 93.70 | 1999 |
+| 96 | Hong Kong | 93.50 | 2002 |
+| 97 | Kuwait | 93.30 | 2005 census |
+| 98 | Portugal | 93.30 | 2003 est. |
+| 99 | Venezuela | 93.00 | 2001 census |
+| 100 | Peru | 92.90 | 2007 Census |
+| 101 | Malta | 92.80 | 2005 Census |
+| 102 | Brunei | 92.70 | 2001 census |
+| 103 | Philippines | 92.60 | 2000 census |
+| 104 | Thailand | 92.60 | 2000 census |
+| 105 | Singapore | 92.50 | 2000 census |
+| 106 | Gaza Strip | 92.40 | 2004 est. |
+| 107 | West Bank | 92.40 | 2004 est. |
+| 108 | Palau | 92.00 | 1980 est. |
+| 109 | Kosovo | 91.90 | 2007 Census |
+| 110 | Panama | 91.90 | 2000 census |
+| 111 | Guyana | 91.80 | 2002 Census |
+| 112 | Seychelles | 91.80 | 2002 census |
+| 113 | China | 91.60 | 2007 |
+| 114 | Macau | 91.30 | 2001 census |
+| 115 | Ecuador | 91.00 | 2001 census |
+| 116 | Sri Lanka | 90.70 | 2001 census |
+| 117 | Zimbabwe | 90.70 | 2003 est. |
+| 118 | Colombia | 90.40 | 2005 census |
+| 119 | Indonesia | 90.40 | 2004 est. |
+| 120 | Vietnam | 90.30 | 2002 est. |
+| 121 | Saint Lucia | 90.10 | 2001 est. |
+| 122 | Burma | 89.90 | 2006 est. |
+| 123 | Jordan | 89.90 | 2003 est. |
+| 124 | Suriname | 89.60 | 2004 census |
+| 125 | Micronesia, Federated States of | 89.00 | 1980 est. |
+| 126 | Qatar | 89.00 | 2004 census |
+| 127 | Malaysia | 88.70 | 2000 census |
+| 128 | Brazil | 88.60 | 2004 est. |
+| 129 | Jamaica | 87.90 | 2003 est. |
+| 130 | Lebanon | 87.40 | 2003 est. |
+| 131 | Turkey | 87.40 | 2004 est. |
+| 132 | Dominican Republic | 87.00 | 2002 census |
+| 133 | Equatorial Guinea | 87.00 | 2000 est. |
+| 134 | Bolivia | 86.70 | 2001 census |
+| 135 | Bahrain | 86.50 | 2001 census |
+| 136 | South Africa | 86.40 | 2003 est. |
+| 137 | Mexico | 86.10 | 2005 Census |
+| 138 | Antigua and Barbuda | 85.80 | 2003 est. |
+| 139 | Kenya | 85.10 | 2003 est. |
+| 140 | Namibia | 85.00 | 2001 census |
+| 141 | Sao Tome and Principe | 84.90 | 2001 census |
+| 142 | Lesotho | 84.80 | 2003 est. |
+| 143 | Mauritius | 84.40 | 2000 census |
+| 144 | Congo, Republic of the | 83.80 | 2003 est. |
+| 145 | Libya | 82.60 | 2003 est. |
+| 146 | Swaziland | 81.60 | 2003 est. |
+| 147 | Oman | 81.40 | 2003 census |
+| 148 | Botswana | 81.20 | 2003 est. |
+| 149 | El Salvador | 81.10 | 2007 census |
+| 150 | Zambia | 80.60 | 2003 est. |
+| 151 | Gibraltar | 80.00 | NA |
+| 152 | Honduras | 80.00 | 2001 census |
+| 153 | Syria | 79.60 | 2004 census |
+| 154 | Saudi Arabia | 78.80 | 2003 est. |
+| 155 | United Arab Emirates | 77.90 | 2003 est. |
+| 156 | Iran | 77.00 | 2002 est. |
+| 157 | Belize | 76.90 | 2000 census |
+| 158 | Cape Verde | 76.60 | 2003 est. |
+| 159 | Tunisia | 74.30 | 2004 census |
+| 160 | Iraq | 74.10 | 2000 est. |
+| 161 | Vanuatu | 74.00 | 1999 census |
+| 162 | Cambodia | 73.60 | 2004 est. |
+| 163 | Laos | 73.00 | 2005 Census |
+| 164 | Egypt | 71.40 | 2005 est. |
+| 165 | Rwanda | 70.40 | 2003 est. |
+| 166 | Algeria | 69.90 | 2002 est. |
+| 167 | Tanzania | 69.40 | 2002 census |
+| 168 | Guatemala | 69.10 | 2002 census |
+| 169 | Madagascar | 68.90 | 2003 est. |
+| 170 | Nigeria | 68.00 | 2003 est. |
+| 171 | Cameroon | 67.90 | 2001 est. |
+| 172 | Djibouti | 67.90 | 2003 est. |
+| 173 | Nicaragua | 67.50 | 2003 est. |
+| 174 | Angola | 67.40 | 2001 est. |
+| 175 | Congo, Democratic Republic of the | 67.20 | 2001 est. |
+| 176 | Uganda | 66.80 | 2002 census |
+| 177 | Gabon | 63.20 | 1995 est. |
+| 178 | Malawi | 62.70 | 2003 est. |
+| 179 | Sudan | 61.10 | 2003 est. |
+| 180 | India | 61.00 | 2001 census |
+| 181 | Togo | 60.90 | 2003 est. |
+| 182 | Burundi | 59.30 | 2000 est. |
+| 183 | Eritrea | 58.60 | 2003 est. |
+| 184 | Timor-Leste | 58.60 | 2002 |
+| 185 | Ghana | 57.90 | 2000 census |
+| 186 | Liberia | 57.50 | NA |
+| 187 | Papua New Guinea | 57.30 | 2000 census |
+| 188 | Comoros | 56.50 | 2003 est. |
+| 189 | Haiti | 52.90 | 2003 est. |
+| 190 | Morocco | 52.30 | 2004 census |
+| 191 | Mauritania | 51.20 | 2000 census |
+| 192 | Yemen | 50.20 | 2003 est. |
+| 193 | Wallis and Futuna | 50.00 | 1969 est. |
+| 194 | Pakistan | 49.90 | 2005 est. |
+| 195 | Cote d'Ivoire | 48.70 | 2000 est. |
+| 196 | Central African Republic | 48.60 | 2000 est. |
+| 197 | Nepal | 48.60 | 2001 census |
+| 198 | Bangladesh | 47.90 | 2001 Census |
+| 199 | Mozambique | 47.80 | 2003 est. |
+| 200 | Bhutan | 47.00 | 2003 est. |
+| 201 | Mali | 46.40 | 2003 est. |
+| 202 | Ethiopia | 42.70 | 2003 est. |
+| 203 | Guinea-Bissau | 42.40 | 2003 est. |
+| 204 | Gambia, The | 40.10 | 2003 est. |
+| 205 | Senegal | 39.30 | 2002 est. |
+| 206 | Somalia | 37.80 | 2001 est. |
+| 207 | Sierra Leone | 35.10 | 2004 est. |
+| 208 | Benin | 34.70 | 2002 census |
+| 209 | Guinea | 29.50 | 2003 est. |
+| 210 | Niger | 28.70 | 2005 est. |
+| 211 | Afghanistan | 28.10 | 2000 est. |
+| 212 | Chad | 25.70 | 2000 est. |
+| 213 | Burkina Faso | 21.80 | 2003 est. |

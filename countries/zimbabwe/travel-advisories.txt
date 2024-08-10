@@ -1,0 +1,14 @@
+| Precautions | Exercise increased caution in Zimbabwe due to crime and official harassment of US citizens. |
+| | Consult the link below for updates to travel advisories and statements on safety, security, local laws, and special circumstances in this country. |
+| | <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html> |
+| Passport/Visa Requirements | US citizens should make sure their passport will not expire for at least 6 months after they enter the country even if they do not intend to stay that long. They should also make sure they have at least 2 blank pages in their passport for each entry stamp/visa that will be required. A visa is required, to be obtained at port of entry. |
+| Vaccinations | An International Certificate of Vaccination for yellow fever is required for travelers arriving from countries with a risk of yellow fever transmission and for travelers having transited through the airport of a country with risk of yellow fever transmission. See WHO recommendations.  <http://www.who.int/> |
+| US Embassy/Consulate | +(263) (0) 867-701-1000; US Embassy Harare, 2 Lorraine Drive, Bluffhill, Harare, Zimbabwe; consularharare@state.gov; https://zw.usembassy.gov/ |
+
+---
+country: Zimbabwe
+date: June 28, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Zimbabwe/travel-facts>
+license: public domain (U.S.)
+...

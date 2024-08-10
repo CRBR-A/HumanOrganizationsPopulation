@@ -1,0 +1,27 @@
+Telephone Code: 45
+Local Emergency Phone: 112
+Climate: Temperate; humid and overcast; mild, windy winters and cool summers
+Currency (Code): Danish kroner (DKK)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, E, F, K
+Major Languages: Danish, Faroese, Greenlandic, German; note: English is the predominant second language
+Major Religions: Evangelical Lutheran 74.7%, Muslim 5.5%
+Time Difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time); daylight saving time: +1hr, begins last Sunday in March, ends last Sunday in October
+Potable Water: Yes
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Copenhagen (includes Nyhavn; National Museum of Denmark (Nationalmuseet); National Gallery of Denmark (Statens Museum for Kunst); Christiansborg Palace; Amalienborg Palace; Tivoli Gardens); Viking Ship Museum (Roskilde); Oresund Bridge
+Major Sports: Soccer, handball
+Cultural Practices: While eating in Denmark, it is customary to keep one's hands visible even when resting. So, wrists are often laid on the table.
+Tipping Guidelines: Hotel and restaurant personnel are typically not tipped because service charges are included in the bill by law, but a tip of 10% for good service is appreciated. Taxi drivers are not tipped, but you may always round up the fare.
+Souvenirs: Porcelain/ceramics, handmade woolen items, cheese, chocolate, Lego toys
+Traditional Cuisine: Frikadeller --- flat meat patties made of minced beef, chopped onions, milk, and eggs and served with potatoes, creamed cabbage, gravy, and/or pickled beetroot
+
+---
+country: Denmark
+date: June 07, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Denmark/travel-facts>
+license: public domain (U.S.)
+...

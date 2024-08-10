@@ -1,0 +1,29 @@
+Telephone Code: 590
+Local Emergency Phone - Ambulance: 17
+Local Emergency Phone - Fire: 18
+Local Emergency Phone - Police: 17
+Climate: Tropical, with practically no variation in temperature; has two seasons (dry and humid)
+Currency (Code): Euros (EUR)
+Electricity: 230 V
+Voltage: 60 Hz
+Plug types(s): C, E
+Major Languages: French (primary), English
+Major Religions: Roman Catholic, Protestant, Jehovah's Witnesses
+Time Difference: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)
+Potable Water: Yes, but some opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Colombier Beach; Anse de Grande Saline; Gustavia (includes Fort Karl, Lighthouse)
+Major Sports: Rugby, yachting, kitesurfing
+Cultural Practices: Celebrations of life are accompanied by a "ti-sec" shot of rum, a baked galette or traditional St. Bart breads, or sweet potato puddings.
+Tipping Guidelines: Hotels usually add a service charge of 10-15%; always ask if this is included in the price quoted. Restaurants add a 15% service charge. Taxi drivers expect a tip of 10%.
+Souvenirs: Straw woven items, sarongs, shell necklaces, beauty products
+Traditional Cuisine: Accras --- salt cod fritters served in a spicy Creole sauce
+
+---
+country: Saint Barthelemy
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Saint Barthelemy/travel-facts>
+license: public domain (U.S.)
+...

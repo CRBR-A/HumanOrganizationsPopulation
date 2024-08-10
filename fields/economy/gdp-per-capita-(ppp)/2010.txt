@@ -1,0 +1,235 @@
+CIA - The World Factbook --  GDP - per capita (PPP)   
+
+This entry shows GDP on a purchasing power parity basis divided by population as of 1 July for the same year.
+
+| Rank | country | GDP - per capita (PPP) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Qatar | $ 145,300 | 2010 est. |
+| 2 | Liechtenstein | $ 122,100 | 2007 est. |
+| 3 | Luxembourg | $ 81,800 | 2010 est. |
+| 4 | Bermuda | $ 69,900 | 2004 est. |
+| 5 | Singapore | $ 62,200 | 2010 est. |
+| 6 | Norway | $ 59,100 | 2010 est. |
+| 7 | Jersey | $ 57,000 | 2005 est. |
+| 8 | Kuwait | $ 51,700 | 2010 est. |
+| 9 | Brunei | $ 50,300 | 2010 est. |
+| 10 | United States | $ 47,400 | 2010 est. |
+| 11 | Hong Kong | $ 45,600 | 2010 est. |
+| 12 | Andorra | $ 44,900 | 2008 |
+| 13 | Guernsey | $ 44,600 | 2005 |
+| 14 | Cayman Islands | $ 43,800 | 2004 est. |
+| 15 | Switzerland | $ 42,900 | 2010 est. |
+| 16 | San Marino | $ 41,900 | 2007 |
+| 17 | Australia | $ 41,300 | 2010 est. |
+| 18 | Netherlands | $ 40,500 | 2010 est. |
+| 19 | Bahrain | $ 40,400 | 2010 est. |
+| 20 | Austria | $ 40,300 | 2010 est. |
+| 21 | United Arab Emirates | $ 40,200 | 2010 est. |
+| 22 | Canada | $ 39,600 | 2010 est. |
+| 23 | Sweden | $ 39,000 | 2010 est. |
+| 24 | British Virgin Islands | $ 38,500 | 2004 est. |
+| 25 | Gibraltar | $ 38,400 | 2006 est. |
+| 26 | Iceland | $ 38,400 | 2010 est. |
+| 27 | Belgium | $ 37,900 | 2010 est. |
+| 28 | Equatorial Guinea | $ 37,900 | 2010 est. |
+| 29 | Ireland | $ 37,600 | 2010 est. |
+| 30 | Denmark | $ 37,000 | 2010 est. |
+| 31 | Germany | $ 35,900 | 2010 est. |
+| 32 | Greenland | $ 35,900 | 2007 est. |
+| 33 | Falkland Islands (Islas Malvinas) | $ 35,400 | 2002 est. |
+| 34 | Finland | $ 35,300 | 2010 est. |
+| 35 | United Kingdom | $ 35,100 | 2010 est. |
+| 36 | Taiwan | $ 35,100 | 2010 est. |
+| 37 | Isle of Man | $ 35,000 | 2005 est. |
+| 38 | Japan | $ 34,200 | 2010 est. |
+| 39 | Faroe Islands | $ 34,000 | 2008 est. |
+| 40 | France | $ 33,300 | 2010 est. |
+| 41 | Macau | $ 33,000 | 2009 |
+| 42 | European Union | $ 32,900 | 2010 est. |
+| 43 | Italy | $ 30,700 | 2010 est. |
+| 44 | Greece | $ 30,200 | 2010 est. |
+| 45 | Korea, South | $ 30,200 | 2010 est. |
+| 46 | Monaco | $ 30,000 | 2006 est. |
+| 47 | Israel | $ 29,500 | 2010 est. |
+| 48 | Spain | $ 29,500 | 2010 est. |
+| 49 | Bahamas, The | $ 28,600 | 2010 est. |
+| 50 | Slovenia | $ 28,400 | 2010 est. |
+| 51 | New Zealand | $ 28,000 | 2010 est. |
+| 52 | Oman | $ 25,800 | 2010 est. |
+| 53 | Czech Republic | $ 25,600 | 2010 est. |
+| 54 | Malta | $ 25,100 | 2010 est. |
+| 55 | Saudi Arabia | $ 24,200 | 2010 est. |
+| 56 | Portugal | $ 23,000 | 2010 est. |
+| 57 | Slovakia | $ 22,200 | 2010 est. |
+| 58 | Trinidad and Tobago | $ 22,100 | 2010 est. |
+| 59 | Aruba | $ 21,800 | 2004 est. |
+| 60 | Barbados | $ 21,700 | 2010 est. |
+| 61 | Seychelles | $ 21,600 | 2010 est. |
+| 62 | Cyprus | $ 21,000 | 2010 est. |
+| 63 | Estonia | $ 19,000 | 2010 est. |
+| 64 | Hungary | $ 19,000 | 2010 est. |
+| 65 | Poland | $ 18,800 | 2010 est. |
+| 66 | French Polynesia | $ 18,000 | 2004 est. |
+| 67 | Croatia | $ 17,500 | 2010 est. |
+| 68 | Antigua and Barbuda | $ 16,500 | 2010 est. |
+| 69 | Puerto Rico | $ 16,300 | 2010 est. |
+| 70 | Lithuania | $ 15,900 | 2010 est. |
+| 71 | Russia | $ 15,900 | 2010 est. |
+| 72 | Chile | $ 15,500 | 2010 est. |
+| 73 | Sint Maarten | $ 15,400 | 2008 est. |
+| 74 | New Caledonia | $ 15,000 | 2003 est. |
+| 75 | Curacao | $ 14,970 | 2004 est. |
+| 76 | Argentina | $ 14,700 | 2010 est. |
+| 77 | Malaysia | $ 14,700 | 2010 est. |
+| 78 | Gabon | $ 14,600 | 2010 est. |
+| 79 | Latvia | $ 14,500 | 2010 est. |
+| 80 | Virgin Islands | $ 14,500 | 2004 est. |
+| 81 | Saint Kitts and Nevis | $ 14,400 | 2010 est. |
+| 82 | Lebanon | $ 14,200 | 2010 est. |
+| 83 | Libya | $ 13,800 | 2010 est. |
+| 84 | Mexico | $ 13,800 | 2010 est. |
+| 85 | Uruguay | $ 13,600 | 2010 est. |
+| 86 | Mauritius | $ 13,500 | 2010 est. |
+| 87 | Belarus | $ 13,400 | 2010 est. |
+| 88 | Botswana | $ 13,100 | 2010 est. |
+| 89 | Bulgaria | $ 12,800 | 2010 est. |
+| 90 | Panama | $ 12,700 | 2010 est. |
+| 91 | Venezuela | $ 12,600 | 2010 est. |
+| 92 | Kazakhstan | $ 12,500 | 2010 est. |
+| 93 | Northern Mariana Islands | $ 12,500 | 2000 est. |
+| 94 | Turkey | $ 12,300 | 2010 est. |
+| 95 | Anguilla | $ 12,200 | 2008 est. |
+| 96 | Romania | $ 11,500 | 2010 est. |
+| 97 | Turks and Caicos Islands | $ 11,500 | 2002 est. |
+| 98 | Costa Rica | $ 11,400 | 2010 est. |
+| 99 | Iran | $ 11,200 | 2010 est. |
+| 100 | World | $ 11,100 | 2010 est. |
+| 101 | Saint Lucia | $ 11,100 | 2010 est. |
+| 102 | Azerbaijan | $ 11,000 | 2010 est. |
+| 103 | Serbia | $ 11,000 | 2010 est. |
+| 104 | Brazil | $ 10,900 | 2010 est. |
+| 105 | South Africa | $ 10,700 | 2010 est. |
+| 106 | Saint Vincent and the Grenadines | $ 10,600 | 2010 est. |
+| 107 | Dominica | $ 10,500 | 2010 est. |
+| 108 | Grenada | $ 10,500 | 2010 est. |
+| 109 | Cuba | $ 9,900 | 2010 est. |
+| 110 | Montenegro | $ 9,900 | 2010 est. |
+| 111 | Suriname | $ 9,900 | 2010 est. |
+| 112 | Colombia | $ 9,800 | 2010 est. |
+| 113 | Tunisia | $ 9,500 | 2010 est. |
+| 114 | Macedonia | $ 9,400 | 2010 est. |
+| 115 | Peru | $ 9,200 | 2010 est. |
+| 116 | Cook Islands | $ 9,100 | 2005 est. |
+| 117 | Angola | $ 8,700 | 2010 est. |
+| 118 | Thailand | $ 8,700 | 2010 est. |
+| 119 | Dominican Republic | $ 8,600 | 2010 est. |
+| 120 | Belize | $ 8,400 | 2010 est. |
+| 121 | Jamaica | $ 8,400 | 2010 est. |
+| 122 | Palau | $ 8,100 | 2008 est. |
+| 123 | Albania | $ 8,000 | 2010 est. |
+| 124 | American Samoa | $ 8,000 | 2007 est. |
+| 125 | Ecuador | $ 7,800 | 2010 est. |
+| 126 | Algeria | $ 7,400 | 2010 est. |
+| 127 | China | $ 7,400 | 2010 est. |
+| 128 | Turkmenistan | $ 7,400 | 2010 est. |
+| 129 | El Salvador | $ 7,300 | 2010 est. |
+| 130 | Saint Pierre and Miquelon | $ 7,000 | 2001 est. |
+| 131 | Namibia | $ 6,900 | 2010 est. |
+| 132 | Guyana | $ 6,800 | 2010 est. |
+| 133 | Ukraine | $ 6,700 | 2010 est. |
+| 134 | Bosnia and Herzegovina | $ 6,600 | 2010 est. |
+| 135 | Tonga | $ 6,300 | 2010 est. |
+| 136 | Egypt | $ 6,200 | 2010 est. |
+| 137 | Kiribati | $ 6,200 | 2010 est. |
+| 138 | Armenia | $ 5,800 | 2010 est. |
+| 139 | Niue | $ 5,800 | 2003 est. |
+| 140 | Vanuatu | $ 5,500 | 2010 est. |
+| 141 | Jordan | $ 5,300 | 2010 est. |
+| 142 | Guatemala | $ 5,200 | 2010 est. |
+| 143 | Samoa | $ 5,200 | 2010 est. |
+| 144 | Bhutan | $ 5,000 | 2010 est. |
+| 145 | Nauru | $ 5,000 | 2005 est. |
+| 146 | Mayotte | $ 4,900 | 2005 est. |
+| 147 | Morocco | $ 4,900 | 2010 est. |
+| 148 | Sri Lanka | $ 4,900 | 2010 est. |
+| 149 | Paraguay | $ 4,900 | 2010 est. |
+| 150 | Bolivia | $ 4,800 | 2010 est. |
+| 151 | Syria | $ 4,800 | 2010 est. |
+| 152 | Georgia | $ 4,800 | 2010 est. |
+| 153 | Maldives | $ 4,500 | 2010 est. |
+| 154 | Swaziland | $ 4,500 | 2010 est. |
+| 155 | Fiji | $ 4,300 | 2010 est. |
+| 156 | Indonesia | $ 4,300 | 2010 est. |
+| 157 | Congo, Republic of the | $ 4,200 | 2010 est. |
+| 158 | Honduras | $ 4,200 | 2010 est. |
+| 159 | Wallis and Futuna | $ 3,800 | 2004 est. |
+| 160 | Cape Verde | $ 3,700 | 2010 est. |
+| 161 | Iraq | $ 3,600 | 2010 est. |
+| 162 | Philippines | $ 3,500 | 2010 est. |
+| 163 | India | $ 3,400 | 2010 est. |
+| 164 | Montserrat | $ 3,400 | 2002 est. |
+| 165 | Mongolia | $ 3,300 | 2010 est. |
+| 166 | Uzbekistan | $ 3,100 | 2010 est. |
+| 167 | Vietnam | $ 3,100 | 2010 est. |
+| 168 | Nicaragua | $ 2,900 | 2010 est. |
+| 169 | West Bank | $ 2,900 | 2008 est. |
+| 170 | Djibouti | $ 2,800 | 2010 est. |
+| 171 | Solomon Islands | $ 2,800 | 2010 est. |
+| 172 | Timor-Leste | $ 2,600 | 2010 est. |
+| 173 | Yemen | $ 2,600 | 2010 est. |
+| 174 | Kosovo | $ 2,500 | 2007 |
+| 175 | Western Sahara | $ 2,500 | 2007 est. |
+| 176 | Papua New Guinea | $ 2,500 | 2010 est. |
+| 177 | Saint Helena, Ascension, and Tristan da Cunha | $ 2,500 | 1998 est. |
+| 178 | Moldova | $ 2,500 | 2010 est. |
+| 179 | Marshall Islands | $ 2,500 | 2008 est. |
+| 180 | Laos | $ 2,400 | 2010 est. |
+| 181 | Pakistan | $ 2,400 | 2010 est. |
+| 182 | Nigeria | $ 2,400 | 2010 est. |
+| 183 | Cameroon | $ 2,300 | 2010 est. |
+| 184 | Kyrgyzstan | $ 2,200 | 2010 est. |
+| 185 | Micronesia, Federated States of | $ 2,200 | 2008 est. |
+| 186 | Sudan | $ 2,200 | 2010 est. |
+| 187 | Mauritania | $ 2,100 | 2010 est. |
+| 188 | Cambodia | $ 2,000 | 2010 est. |
+| 189 | Tajikistan | $ 2,000 | 2010 est. |
+| 190 | Gambia, The | $ 1,900 | 2010 est. |
+| 191 | Senegal | $ 1,900 | 2010 est. |
+| 192 | Chad | $ 1,800 | 2010 est. |
+| 193 | Sao Tome and Principe | $ 1,800 | 2010 est. |
+| 194 | Cote d'Ivoire | $ 1,800 | 2010 est. |
+| 195 | Korea, North | $ 1,800 | 2009 est. |
+| 196 | Bangladesh | $ 1,700 | 2010 est. |
+| 197 | Lesotho | $ 1,700 | 2010 est. |
+| 198 | Benin | $ 1,600 | 2010 est. |
+| 199 | Tuvalu | $ 1,600 | 2002 est. |
+| 200 | Kenya | $ 1,600 | 2010 est. |
+| 201 | Ghana | $ 1,600 | 2010 est. |
+| 202 | Tanzania | $ 1,500 | 2010 est. |
+| 203 | Zambia | $ 1,500 | 2010 est. |
+| 204 | Burkina Faso | $ 1,200 | 2010 est. |
+| 205 | Haiti | $ 1,200 | 2010 est. |
+| 206 | Mali | $ 1,200 | 2010 est. |
+| 207 | Uganda | $ 1,200 | 2010 est. |
+| 208 | Nepal | $ 1,200 | 2010 est. |
+| 209 | Burma | $ 1,100 | 2010 est. |
+| 210 | Guinea-Bissau | $ 1,100 | 2010 est. |
+| 211 | Rwanda | $ 1,100 | 2010 est. |
+| 212 | Afghanistan | $ 1,000 | 2010 est. |
+| 213 | Guinea | $ 1,000 | 2010 est. |
+| 214 | Ethiopia | $ 1,000 | 2010 est. |
+| 215 | Tokelau | $ 1,000 | 1993 est. |
+| 216 | Comoros | $ 1,000 | 2010 est. |
+| 217 | Madagascar | $ 1,000 | 2010 est. |
+| 218 | Mozambique | $ 1,000 | 2010 est. |
+| 219 | Malawi | $ 900 | 2010 est. |
+| 220 | Togo | $ 900 | 2010 est. |
+| 221 | Sierra Leone | $ 900 | 2010 est. |
+| 222 | Central African Republic | $ 700 | 2010 est. |
+| 223 | Eritrea | $ 700 | 2010 est. |
+| 224 | Niger | $ 700 | 2010 est. |
+| 225 | Somalia | $ 600 | 2010 est. |
+| 226 | Liberia | $ 500 | 2010 est. |
+| 227 | Zimbabwe | $ 400 | 2010 est. |
+| 228 | Burundi | $ 300 | 2010 est. |
+| 229 | Congo, Democratic Republic of the | $ 300 | 2010 est. |

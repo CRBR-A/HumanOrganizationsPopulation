@@ -1,0 +1,27 @@
+Telephone Code: 297
+Local Emergency Phone: 911
+Climate: Tropical marine, little seasonal temperature variation
+Currency (Code): Guilders/florins (AWG); USD accepted
+Electricity: 120 V
+Voltage: 60 Hz
+Plug types(s): A, B, F
+Major Languages: Papiamento (official) (a creole language that is a mixture of Portuguese, Spanish, Dutch, English, French, elements of African languages, and the language of the Arawak) 69.4%, Spanish 13.7%, English 7.1%, Dutch (official) 6.1%
+Major Religions: Roman Catholic 75.3%, Protestant 4.9%, other 12%
+Time Difference: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)
+Potable Water: Yes
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Arikok National Park (includes Boca Prins and Natural Pool); California Dunes and Lighthouse; Alto Vista Chapel
+Major Sports: Soccer, windsurfing, sailing
+Cultural Practices: Wearing swimwear around town is considered rude.
+Tipping Guidelines: Some bars and restaurants already add a 10-15% service charge. If you really like the service, you can still tip. Tipping $1-2 (USD) per bag is customary for the bellhops.
+Souvenirs: Woodcrafts, leather goods, pottery, jewelry, aloe/skin care products
+Traditional Cuisine: Keshi yena --- a large portion of cheese that is hollowed out and stuffed with spiced meat and served either steamed or baked
+
+---
+country: Aruba
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Aruba/travel-facts>
+license: public domain (U.S.)
+...

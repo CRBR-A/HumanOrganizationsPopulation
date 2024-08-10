@@ -1,0 +1,223 @@
+CIA - The World Factbook --  ELECTRICITY - FROM NUCLEAR FUELS
+
+Electricity - from nuclear fuels measures the capacity of plants that generate electricity through radioactive decay of nuclear fuel, expressed as a share of the country's total generating capacity.
+
+| Rank | Country | (% OF TOTAL INSTALLED CAPACITY) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | France | 48.8 | 2015 est. |
+| 2 | Slovenia | 34.4 | 2016 est. |
+| 3 | Belgium | 28.0 | 2015 est. |
+| 4 | Slovakia | 25.5 | 2015 est. |
+| 5 | Sweden | 24.3 | 2015 est. |
+| 6 | Ukraine | 23.0 | 2015 est. |
+| 7 | Hungary | 22.3 | 2015 est. |
+| 8 | Korea, South | 21.1 | 2015 est. |
+| 9 | Czechia | 18.3 | 2015 est. |
+| 10 | Finland | 17.3 | 2015 est. |
+| 11 | Bulgaria | 17.3 | 2016 est. |
+| 12 | Switzerland | 17.0 | 2015 est. |
+| 13 | European Union | 12.9 | 2012 est. |
+| 14 | Japan | 12.5 | 2015 est. |
+| 15 | Taiwan | 10.4 | 2015 est. |
+| 16 | Russia | 9.7 | 2015 est. |
+| 17 | United Kingdom | 9.4 | 2015 est. |
+| 18 | United States | 9.2 | 2015 est. |
+| 19 | Armenia | 9.2 | 2015 est. |
+| 20 | Canada | 9.2 | 2015 est. |
+| 21 | Spain | 6.7 | 2015 est. |
+| 22 | Romania | 5.4 | 2015 est. |
+| 23 | Germany | 5.3 | 2015 est. |
+| 24 | Argentina | 4.3 | 2015 est. |
+| 25 | South Africa | 3.9 | 2015 est. |
+| 26 | Pakistan | 3.0 | 2015 est. |
+| 27 | Mexico | 2.1 | 2015 est. |
+| 28 | China | 2.0 | 2016 est. |
+| 29 | India | 1.6 | 2015 est. |
+| 30 | Netherlands | 1.4 | 2015 est. |
+| 31 | Iran | 1.3 | 2015 est. |
+| 32 | Brazil | 1.2 | 2015 est. |
+| 33 | Aruba | 0.0 | 2015 est. |
+| 34 | Antigua and Barbuda | 0.0 | 2015 est. |
+| 35 | United Arab Emirates | 0.0 | 2015 est. |
+| 36 | Afghanistan | 0.0 | 2015 est. |
+| 37 | Algeria | 0.0 | 2015 est. |
+| 38 | Azerbaijan | 0.0 | 2015 est. |
+| 39 | Albania | 0.0 | 2015 est. |
+| 40 | Andorra | 0.0 | 2016 est. |
+| 41 | Angola | 0.0 | 2015 est. |
+| 42 | American Samoa | 0.0 | 2015 est. |
+| 43 | Australia | 0.0 | 2015 est. |
+| 44 | Austria | 0.0 | 2015 est. |
+| 45 | Bahrain | 0.0 | 2015 est. |
+| 46 | Barbados | 0.0 | 2015 est. |
+| 47 | Botswana | 0.0 | 2015 est. |
+| 48 | Bermuda | 0.0 | 2015 est. |
+| 49 | Bahamas, The | 0.0 | 2015 est. |
+| 50 | Bangladesh | 0.0 | 2015 est. |
+| 51 | Belize | 0.0 | 2015 est. |
+| 52 | Bosnia and Herzegovina | 0.0 | 2015 est. |
+| 53 | Bolivia | 0.0 | 2015 est. |
+| 54 | Burma | 0.0 | 2015 est. |
+| 55 | Benin | 0.0 | 2015 est. |
+| 56 | Belarus | 0.0 | 2015 est. |
+| 57 | Solomon Islands | 0.0 | 2015 est. |
+| 58 | Bhutan | 0.0 | 2015 est. |
+| 59 | Brunei | 0.0 | 2015 est. |
+| 60 | Burundi | 0.0 | 2015 est. |
+| 61 | Cambodia | 0.0 | 2015 est. |
+| 62 | Chad | 0.0 | 2015 est. |
+| 63 | Sri Lanka | 0.0 | 2015 est. |
+| 64 | Congo, Republic of the | 0.0 | 2015 est. |
+| 65 | Congo, Democratic Republic of the | 0.0 | 2015 est. |
+| 66 | Chile | 0.0 | 2015 est. |
+| 67 | Cayman Islands | 0.0 | 2015 est. |
+| 68 | Cameroon | 0.0 | 2015 est. |
+| 69 | Comoros | 0.0 | 2015 est. |
+| 70 | Colombia | 0.0 | 2015 est. |
+| 71 | Costa Rica | 0.0 | 2015 est. |
+| 72 | Central African Republic | 0.0 | 2015 est. |
+| 73 | Cuba | 0.0 | 2015 est. |
+| 74 | Cabo Verde | 0.0 | 2015 est. |
+| 75 | Cook Islands | 0.0 | 2015 est. |
+| 76 | Cyprus | 0.0 | 2015 est. |
+| 77 | Denmark | 0.0 | 2015 est. |
+| 78 | Djibouti | 0.0 | 2015 est. |
+| 79 | Dominica | 0.0 | 2015 est. |
+| 80 | Dominican Republic | 0.0 | 2015 est. |
+| 81 | Ecuador | 0.0 | 2015 est. |
+| 82 | Egypt | 0.0 | 2015 est. |
+| 83 | Ireland | 0.0 | 2015 est. |
+| 84 | Equatorial Guinea | 0.0 | 2015 est. |
+| 85 | Estonia | 0.0 | 2015 est. |
+| 86 | Eritrea | 0.0 | 2015 est. |
+| 87 | El Salvador | 0.0 | 2015 est. |
+| 88 | Ethiopia | 0.0 | 2015 est. |
+| 89 | Fiji | 0.0 | 2015 est. |
+| 90 | Falkland Islands (Islas Malvinas) | 0.0 | 2015 est. |
+| 91 | Micronesia, Federated States of | 0.0 | 2015 est. |
+| 92 | Faroe Islands | 0.0 | 2016 est. |
+| 93 | French Polynesia | 0.0 | 2015 est. |
+| 94 | Gambia, The | 0.0 | 2015 est. |
+| 95 | Gabon | 0.0 | 2015 est. |
+| 96 | Georgia | 0.0 | 2015 est. |
+| 97 | Ghana | 0.0 | 2015 est. |
+| 98 | Gibraltar | 0.0 | 2015 est. |
+| 99 | Grenada | 0.0 | 2015 est. |
+| 100 | Greenland | 0.0 | 2015 est. |
+| 101 | Guam | 0.0 | 2015 est. |
+| 102 | Greece | 0.0 | 2015 est. |
+| 103 | Guatemala | 0.0 | 2015 est. |
+| 104 | Guinea | 0.0 | 2015 est. |
+| 105 | Guyana | 0.0 | 2015 est. |
+| 106 | Haiti | 0.0 | 2015 est. |
+| 107 | Hong Kong | 0.0 | 2015 est. |
+| 108 | Honduras | 0.0 | 2015 est. |
+| 109 | Croatia | 0.0 | 2015 est. |
+| 110 | Iceland | 0.0 | 2015 est. |
+| 111 | Indonesia | 0.0 | 2015 est. |
+| 112 | Israel | 0.0 | 2015 est. |
+| 113 | Italy | 0.0 | 2015 est. |
+| 114 | Cote d'Ivoire | 0.0 | 2015 est. |
+| 115 | Iraq | 0.0 | 2017 est. |
+| 116 | Jamaica | 0.0 | 2015 est. |
+| 117 | Jordan | 0.0 | 2015 est. |
+| 118 | Kenya | 0.0 | 2015 est. |
+| 119 | Kyrgyzstan | 0.0 | 2015 est. |
+| 120 | Korea, North | 0.0 | 2015 est. |
+| 121 | Kiribati | 0.0 | 2015 est. |
+| 122 | Kuwait | 0.0 | 2016 est. |
+| 123 | Kosovo | 0.0 | 2015 est. |
+| 124 | Kazakhstan | 0.0 | 2015 est. |
+| 125 | Laos | 0.0 | 2015 est. |
+| 126 | Lebanon | 0.0 | 2015 est. |
+| 127 | Latvia | 0.0 | 2015 est. |
+| 128 | Lithuania | 0.0 | 2015 est. |
+| 129 | Liberia | 0.0 | 2016 est. |
+| 130 | Lesotho | 0.0 | 2015 est. |
+| 131 | Luxembourg | 0.0 | 2015 est. |
+| 132 | Libya | 0.0 | 2015 est. |
+| 133 | Madagascar | 0.0 | 2015 est. |
+| 134 | Macau | 0.0 | 2015 est. |
+| 135 | Moldova | 0.0 | 2015 est. |
+| 136 | Mongolia | 0.0 | 2015 est. |
+| 137 | Montserrat | 0.0 | 2015 est. |
+| 138 | Malawi | 0.0 | 2015 est. |
+| 139 | Montenegro | 0.0 | 2015 est. |
+| 140 | Macedonia | 0.0 | 2016 est. |
+| 141 | Mali | 0.0 | 2015 est. |
+| 142 | Morocco | 0.0 | 2015 est. |
+| 143 | Mauritius | 0.0 | 2015 est. |
+| 144 | Mauritania | 0.0 | 2015 est. |
+| 145 | Malta | 0.0 | 2015 est. |
+| 146 | Oman | 0.0 | 2015 est. |
+| 147 | Maldives | 0.0 | 2015 est. |
+| 148 | Malaysia | 0.0 | 2015 est. |
+| 149 | Mozambique | 0.0 | 2015 est. |
+| 150 | New Caledonia | 0.0 | 2015 est. |
+| 151 | Niue | 0.0 | 2015 est. |
+| 152 | Niger | 0.0 | 2015 est. |
+| 153 | Vanuatu | 0.0 | 2015 est. |
+| 154 | Nigeria | 0.0 | 2015 est. |
+| 155 | Norway | 0.0 | 2015 est. |
+| 156 | Nepal | 0.0 | 2015 est. |
+| 157 | Nauru | 0.0 | 2015 est. |
+| 158 | Suriname | 0.0 | 2015 est. |
+| 159 | Nicaragua | 0.0 | 2015 est. |
+| 160 | New Zealand | 0.0 | 2015 est. |
+| 161 | South Sudan | 0.0 | 2015 est. |
+| 162 | Paraguay | 0.0 | 2015 est. |
+| 163 | Peru | 0.0 | 2015 est. |
+| 164 | Poland | 0.0 | 2015 est. |
+| 165 | Panama | 0.0 | 2015 est. |
+| 166 | Portugal | 0.0 | 2015 est. |
+| 167 | Papua New Guinea | 0.0 | 2015 est. |
+| 168 | Guinea-Bissau | 0.0 | 2015 est. |
+| 169 | Qatar | 0.0 | 2015 est. |
+| 170 | Serbia | 0.0 | 2016 est. |
+| 171 | Marshall Islands | 0.0 | 2015 est. |
+| 172 | Philippines | 0.0 | 2016 est. |
+| 173 | Puerto Rico | 0.0 | 2015 est. |
+| 174 | Rwanda | 0.0 | 2015 est. |
+| 175 | Saudi Arabia | 0.0 | 2015 est. |
+| 176 | Saint Pierre and Miquelon | 0.0 | 2015 est. |
+| 177 | Saint Kitts and Nevis | 0.0 | 2015 est. |
+| 178 | Seychelles | 0.0 | 2015 est. |
+| 179 | Senegal | 0.0 | 2015 est. |
+| 180 | Saint Helena, Ascension, and Tristan da Cunha | 0.0 | 2015 est. |
+| 181 | Sierra Leone | 0.0 | 2015 est. |
+| 182 | Singapore | 0.0 | 2015 est. |
+| 183 | Somalia | 0.0 | 2015 est. |
+| 184 | Saint Lucia | 0.0 | 2015 est. |
+| 185 | Sudan | 0.0 | 2015 est. |
+| 186 | Syria | 0.0 | 2015 est. |
+| 187 | Trinidad and Tobago | 0.0 | 2015 est. |
+| 188 | Thailand | 0.0 | 2015 est. |
+| 189 | Tajikistan | 0.0 | 2013 est. |
+| 190 | Turks and Caicos Islands | 0.0 | 2015 est. |
+| 191 | Tonga | 0.0 | 2015 est. |
+| 192 | Togo | 0.0 | 2015 est. |
+| 193 | Sao Tome and Principe | 0.0 | 2015 est. |
+| 194 | Tunisia | 0.0 | 2015 est. |
+| 195 | Turkey | 0.0 | 2015 est. |
+| 196 | Tuvalu | 0.0 | 2014 |
+| 197 | Turkmenistan | 0.0 | 2015 est. |
+| 198 | Tanzania | 0.0 | 2015 est. |
+| 199 | Uganda | 0.0 | 2015 est. |
+| 200 | Burkina Faso | 0.0 | 2015 est. |
+| 201 | Uruguay | 0.0 | 2015 est. |
+| 202 | Uzbekistan | 0.0 | 2015 est. |
+| 203 | Saint Vincent and the Grenadines | 0.0 | 2015 est. |
+| 204 | Venezuela | 0.0 | 2015 est. |
+| 205 | British Virgin Islands | 0.0 | 2015 est. |
+| 206 | Vietnam | 0.0 | 2015 est. |
+| 207 | Virgin Islands | 0.0 | 2015 est. |
+| 208 | Namibia | 0.0 | 2015 est. |
+| 209 | West Bank | 0.0 | 2015 est. |
+| 210 | Western Sahara | 0.0 | 2015 est. |
+| 211 | Samoa | 0.0 | 2015 est. |
+| 212 | Swaziland | 0.0 | 2015 est. |
+| 213 | Yemen | 0.0 | 2015 est. |
+| 214 | Zambia | 0.0 | 2015 est. |
+| 215 | Zimbabwe | 0.0 | 2015 est. |
+
+

@@ -1,0 +1,192 @@
+CIA - The World Factbook --  MATERNAL MORTALITY RATE
+
+The Maternal mortality rate (MMR) is the annual number of female deaths per 100,000 live births from any cause related to or aggravated by pregnancy or its management (excluding accidental or incidental causes).
+
+| Rank | Country | (DEATHS/100,000 LIVE BIRTHS) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | South Sudan | 2,054 | 2006 |
+| 2 | Chad | 1,100 | 2010 |
+| 3 | Somalia | 1,000 | 2010 |
+| 4 | Central African Republic | 890 | 2010 |
+| 5 | Sierra Leone | 890 | 2010 |
+| 6 | Burundi | 800 | 2010 |
+| 7 | Guinea-Bissau | 790 | 2010 |
+| 8 | Liberia | 770 | 2010 |
+| 9 | Sudan | 730 | 2010 |
+| 10 | Cameroon | 690 | 2010 |
+| 11 | Nigeria | 630 | 2010 |
+| 12 | Lesotho | 620 | 2010 |
+| 13 | Guinea | 610 | 2010 |
+| 14 | Niger | 590 | 2010 |
+| 15 | Zimbabwe | 570 | 2010 |
+| 16 | Congo, Republic of the | 560 | 2010 |
+| 17 | Congo, Democratic Republic of the | 540 | 2010 |
+| 18 | Mali | 540 | 2010 |
+| 19 | Mauritania | 510 | 2010 |
+| 20 | Mozambique | 490 | 2010 |
+| 21 | Laos | 470 | 2010 |
+| 22 | Afghanistan | 460 | 2010 |
+| 23 | Tanzania | 460 | 2010 |
+| 24 | Malawi | 460 | 2010 |
+| 25 | Angola | 450 | 2010 |
+| 26 | Zambia | 440 | 2010 |
+| 27 | Cote d'Ivoire | 400 | 2010 |
+| 28 | Senegal | 370 | 2010 |
+| 29 | Gambia, The | 360 | 2010 |
+| 30 | Kenya | 360 | 2010 |
+| 31 | Haiti | 350 | 2010 |
+| 32 | Ghana | 350 | 2010 |
+| 33 | Ethiopia | 350 | 2010 |
+| 34 | Benin | 350 | 2010 |
+| 35 | Rwanda | 340 | 2010 |
+| 36 | Swaziland | 320 | 2010 |
+| 37 | Uganda | 310 | 2010 |
+| 38 | South Africa | 300 | 2010 |
+| 39 | Burkina Faso | 300 | 2010 |
+| 40 | Togo | 300 | 2010 |
+| 41 | Timor-Leste | 300 | 2010 |
+| 42 | Comoros | 280 | 2010 |
+| 43 | Guyana | 280 | 2010 |
+| 44 | Pakistan | 260 | 2010 |
+| 45 | Cambodia | 250 | 2010 |
+| 46 | Eritrea | 240 | 2010 |
+| 47 | Equatorial Guinea | 240 | 2010 |
+| 48 | Madagascar | 240 | 2010 |
+| 49 | Bangladesh | 240 | 2010 |
+| 50 | Gabon | 230 | 2010 |
+| 51 | Papua New Guinea | 230 | 2010 |
+| 52 | Indonesia | 220 | 2010 |
+| 53 | Namibia | 200 | 2010 |
+| 54 | Burma | 200 | 2010 |
+| 55 | India | 200 | 2010 |
+| 56 | Djibouti | 200 | 2010 |
+| 57 | Yemen | 200 | 2010 |
+| 58 | Bolivia | 190 | 2008 |
+| 59 | Bhutan | 180 | 2010 |
+| 60 | Nepal | 170 | 2010 |
+| 61 | Botswana | 160 | 2010 |
+| 62 | Dominican Republic | 150 | 2010 |
+| 63 | Suriname | 130 | 2010 |
+| 64 | Guatemala | 120 | 2010 |
+| 65 | Jamaica | 110 | 2010 |
+| 66 | Tonga | 110 | 2010 |
+| 67 | Ecuador | 110 | 2010 |
+| 68 | Vanuatu | 110 | 2010 |
+| 69 | Honduras | 100 | 2010 |
+| 70 | Morocco | 100 | 2010 |
+| 71 | Micronesia, Federated States of | 100 | 2010 |
+| 72 | Samoa | 100 | 2010 |
+| 73 | Paraguay | 99 | 2010 |
+| 74 | Philippines | 99 | 2010 |
+| 75 | Algeria | 97 | 2010 |
+| 76 | Nicaragua | 95 | 2010 |
+| 77 | Solomon Islands | 93 | 2010 |
+| 78 | Panama | 92 | 2010 |
+| 79 | Venezuela | 92 | 2010 |
+| 80 | Colombia | 92 | 2010 |
+| 81 | El Salvador | 81 | 2010 |
+| 82 | Korea, North | 81 | 2010 |
+| 83 | Cabo Verde | 79 | 2010 |
+| 84 | Argentina | 77 | 2010 |
+| 85 | Cuba | 73 | 2010 |
+| 86 | Kyrgyzstan | 71 | 2010 |
+| 87 | Syria | 70 | 2010 |
+| 88 | Sao Tome and Principe | 70 | 2010 |
+| 89 | Turkmenistan | 67 | 2010 |
+| 90 | Peru | 67 | 2010 |
+| 91 | Georgia | 67 | 2010 |
+| 92 | Egypt | 66 | 2010 |
+| 93 | Tajikistan | 65 | 2010 |
+| 94 | Gaza Strip | 64 | 2010 |
+| 95 | West Bank | 64 | 2010 |
+| 96 | Mongolia | 63 | 2010 |
+| 97 | Jordan | 63 | 2010 |
+| 98 | Iraq | 63 | 2010 |
+| 99 | Mauritius | 60 | 2010 |
+| 100 | Maldives | 60 | 2010 |
+| 101 | Vietnam | 59 | 2010 |
+| 102 | Libya | 58 | 2010 |
+| 103 | Brazil | 56 | 2010 |
+| 104 | Tunisia | 56 | 2010 |
+| 105 | Belize | 53 | 2010 |
+| 106 | Barbados | 51 | 2010 |
+| 107 | Kazakhstan | 51 | 2010 |
+| 108 | Mexico | 50 | 2010 |
+| 109 | Saint Vincent and the Grenadines | 48 | 2010 |
+| 110 | Thailand | 48 | 2010 |
+| 111 | Bahamas, The | 47 | 2010 |
+| 112 | Trinidad and Tobago | 46 | 2010 |
+| 113 | Azerbaijan | 43 | 2010 |
+| 114 | Moldova | 41 | 2010 |
+| 115 | Costa Rica | 40 | 2010 |
+| 116 | China | 37 | 2010 |
+| 117 | Saint Lucia | 35 | 2010 |
+| 118 | Sri Lanka | 35 | 2010 |
+| 119 | Russia | 34 | 2010 |
+| 120 | Latvia | 34 | 2010 |
+| 121 | Ukraine | 32 | 2010 |
+| 122 | Oman | 32 | 2010 |
+| 123 | Armenia | 30 | 2010 |
+| 124 | Uruguay | 29 | 2010 |
+| 125 | Malaysia | 29 | 2010 |
+| 126 | Uzbekistan | 28 | 2010 |
+| 127 | Romania | 27 | 2010 |
+| 128 | Albania | 27 | 2010 |
+| 129 | Fiji | 26 | 2010 |
+| 130 | Lebanon | 25 | 2010 |
+| 131 | Chile | 25 | 2010 |
+| 132 | Brunei | 24 | 2010 |
+| 133 | Saudi Arabia | 24 | 2010 |
+| 134 | Grenada | 24 | 2010 |
+| 135 | Hungary | 21 | 2010 |
+| 136 | United States | 21 | 2010 |
+| 137 | Iran | 21 | 2010 |
+| 138 | Bahrain | 20 | 2010 |
+| 139 | Turkey | 20 | 2010 |
+| 140 | Puerto Rico | 20 | 2010 |
+| 141 | Luxembourg | 20 | 2010 |
+| 142 | Croatia | 17 | 2010 |
+| 143 | Korea, South | 16 | 2010 |
+| 144 | New Zealand | 15 | 2010 |
+| 145 | Kuwait | 14 | 2010 |
+| 146 | United Arab Emirates | 12 | 2010 |
+| 147 | Canada | 12 | 2010 |
+| 148 | United Kingdom | 12 | 2010 |
+| 149 | Serbia | 12 | 2010 |
+| 150 | Slovenia | 12 | 2010 |
+| 151 | Denmark | 12 | 2010 |
+| 152 | Bulgaria | 11 | 2010 |
+| 153 | Macedonia | 10 | 2010 |
+| 154 | Cyprus | 10 | 2010 |
+| 155 | Kiribati | 9 | 2008 |
+| 156 | Belgium | 8 | 2010 |
+| 157 | Bosnia and Herzegovina | 8 | 2010 |
+| 158 | France | 8 | 2010 |
+| 159 | Switzerland | 8 | 2010 |
+| 160 | Montenegro | 8 | 2010 |
+| 161 | Malta | 8 | 2010 |
+| 162 | Portugal | 8 | 2010 |
+| 163 | Lithuania | 8 | 2010 |
+| 164 | Australia | 7 | 2010 |
+| 165 | Germany | 7 | 2010 |
+| 166 | Qatar | 7 | 2010 |
+| 167 | Norway | 7 | 2010 |
+| 168 | Israel | 7 | 2010 |
+| 169 | Ireland | 6 | 2010 |
+| 170 | Spain | 6 | 2010 |
+| 171 | Netherlands | 6 | 2010 |
+| 172 | Slovakia | 6 | 2010 |
+| 173 | Czechia | 5 | 2010 |
+| 174 | Finland | 5 | 2010 |
+| 175 | Poland | 5 | 2010 |
+| 176 | Japan | 5 | 2010 |
+| 177 | Iceland | 5 | 2010 |
+| 178 | Austria | 4 | 2010 |
+| 179 | Sweden | 4 | 2010 |
+| 180 | Italy | 4 | 2010 |
+| 181 | Belarus | 4 | 2010 |
+| 182 | Singapore | 3 | 2010 |
+| 183 | Greece | 3 | 2010 |
+| 184 | Estonia | 2 | 2010 |
+
+

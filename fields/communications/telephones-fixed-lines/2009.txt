@@ -1,0 +1,237 @@
+CIA - The World Factbook --  Telephones - main lines in use   
+
+This entry gives the total number of main telephone lines in use.
+
+| Rank | country | Telephones - main lines in use | Date of Information |
+| --- | --- | --- | --- |
+| 1 | China | 365,600,000 | 2007 |
+| 2 | United States | 150,000,000 | 2008 |
+| 3 | Germany | 51,500,000 | 2008 |
+| 4 | Japan | 47,579,000 | 2008 |
+| 5 | Russia | 44,200,000 | 2008 |
+| 6 | Brazil | 41,141,000 | 2008 |
+| 7 | India | 37,540,000 | 2009 |
+| 8 | France | 35,909,000 | 2008 |
+| 9 | United Kingdom | 33,209,000 | 2008 |
+| 10 | Indonesia | 30,378,000 | 2008 |
+| 11 | Vietnam | 29,591,000 | 2008 |
+| 12 | Iran | 24,800,000 | 2008 |
+| 13 | Korea, South | 21,325,000 | 2008 |
+| 14 | Mexico | 20,539,000 | 2008 |
+| 15 | Spain | 20,200,000 | 2008 |
+| 16 | Italy | 20,031,000 | 2008 |
+| 17 | Canada | 18,250,000 | 2008 |
+| 18 | Turkey | 17,502,000 | 2008 |
+| 19 | Taiwan | 14,273,000 | 2008 |
+| 20 | Ukraine | 13,177,000 | 2008 |
+| 21 | Egypt | 12,011,000 | 2008 |
+| 22 | Poland | 10,336,000 | 2008 |
+| 23 | Argentina | 9,631,000 | 2008 |
+| 24 | Australia | 9,370,000 | 2008 |
+| 25 | Netherlands | 7,324,000 | 2008 |
+| 26 | Thailand | 7,024,000 | 2008 |
+| 27 | Colombia | 6,820,000 | 2008 |
+| 28 | Venezuela | 6,304,000 | 2008 |
+| 29 | Greece | 5,975,000 | 2008 |
+| 30 | Sweden | 5,323,000 | 2008 |
+| 31 | Romania | 5,036,000 | 2007 |
+| 32 | Switzerland | 4,820,000 | 2008 |
+| 33 | Pakistan | 4,546,000 | 2008 |
+| 34 | Belgium | 4,457,000 | 2008 |
+| 35 | South Africa | 4,425,000 | 2008 |
+| 36 | Malaysia | 4,292,000 | 2008 |
+| 37 | Portugal | 4,121,000 | 2008 |
+| 38 | Hong Kong | 4,108,000 | 2008 |
+| 39 | Saudi Arabia | 4,100,000 | 2008 |
+| 40 | Philippines | 3,905,000 | 2008 |
+| 41 | Belarus | 3,718,000 | 2008 |
+| 42 | Syria | 3,633,000 | 2008 |
+| 43 | Chile | 3,526,000 | 2008 |
+| 44 | Sri Lanka | 3,446,000 | 2008 |
+| 45 | Kazakhstan | 3,410,000 | 2008 |
+| 46 | Algeria | 3,314,000 | 2008 |
+| 47 | Austria | 3,285,000 | 2008 |
+| 48 | Hungary | 3,094,000 | 2008 |
+| 49 | Serbia | 3,085,000 | 2008 |
+| 50 | Morocco | 2,991,000 | 2008 |
+| 51 | Israel | 2,900,000 | 2008 |
+| 52 | Peru | 2,878,000 | 2008 |
+| 53 | Denmark | 2,487,000 | 2008 |
+| 54 | Czech Republic | 2,278,000 | 2008 |
+| 55 | Bulgaria | 2,258,000 | 2008 |
+| 56 | Ireland | 2,202,000 | 2008 |
+| 57 | Norway | 1,928,000 | 2008 |
+| 58 | Ecuador | 1,910,000 | 2008 |
+| 59 | Singapore | 1,857,000 | 2008 |
+| 60 | Croatia | 1,851,000 | 2008 |
+| 61 | Uzbekistan | 1,850,000 | 2008 |
+| 62 | New Zealand | 1,750,000 | 2008 |
+| 63 | Finland | 1,650,000 | 2008 |
+| 64 | United Arab Emirates | 1,508,000 | 2008 |
+| 65 | Guatemala | 1,449,000 | 2008 |
+| 66 | Costa Rica | 1,438,000 | 2008 |
+| 67 | Bangladesh | 1,390,000 | 2009 |
+| 68 | Azerbaijan | 1,311,000 | 2008 |
+| 69 | Nigeria | 1,308,000 | 2008 |
+| 70 | Tunisia | 1,239,000 | 2008 |
+| 71 | Korea, North | 1,180,000 | 2008 |
+| 72 | Yemen | 1,117,000 | 2008 |
+| 73 | Moldova | 1,115,000 | 2008 |
+| 74 | Cuba | 1,104,000 | 2008 |
+| 75 | Slovakia | 1,098,000 | 2008 |
+| 76 | Iraq | 1,082,000 | 2008 |
+| 77 | El Salvador | 1,077,000 | 2008 |
+| 78 | Puerto Rico | 1,038,000 | 2008 |
+| 79 | Libya | 1,033,000 | 2008 |
+| 80 | Bosnia and Herzegovina | 1,031,000 | 2008 |
+| 81 | Slovenia | 1,010,000 | 2008 |
+| 82 | Dominican Republic | 985,700 | 2008 |
+| 83 | Uruguay | 959,300 | 2008 |
+| 84 | Ethiopia | 908,900 | 2008 |
+| 85 | Burma | 829,000 | 2008 |
+| 86 | Honduras | 825,800 | 2008 |
+| 87 | Nepal | 805,100 | 2008 |
+| 88 | Lithuania | 784,900 | 2008 |
+| 89 | Lebanon | 714,000 | 2008 |
+| 90 | Bolivia | 690,000 | 2008 |
+| 91 | Armenia | 650,000 | 2008 |
+| 92 | Latvia | 644,000 | 2008 |
+| 93 | Georgia | 618,000 | 2008 |
+| 94 | Kuwait | 541,000 | 2008 |
+| 95 | Jordan | 519,000 | 2008 |
+| 96 | Estonia | 498,100 | 2008 |
+| 97 | Panama | 495,800 | 2008 |
+| 98 | Turkmenistan | 495,000 | 2008 |
+| 99 | Kyrgyzstan | 494,500 | 2008 |
+| 100 | Afghanistan | 460,000 | 2008 |
+| 101 | Macedonia | 457,100 | 2008 |
+| 102 | Cyprus | 413,300 | NA |
+| 103 | Mauritius | 364,500 | 2008 |
+| 104 | Paraguay | 363,000 | 2008 |
+| 105 | Montenegro | 362,000 | 2008 |
+| 106 | Tajikistan | 360,000 | 2008 |
+| 107 | Cote d'Ivoire | 356,500 | 2008 |
+| 108 | Sudan | 356,100 | 2008 |
+| 109 | Zimbabwe | 354,000 | 2008 |
+| 110 | Gaza Strip | 348,000 | 2008 |
+| 111 | West Bank | 348,000 | 2008 |
+| 112 | Jamaica | 316,600 | 2008 |
+| 113 | Albania | 316,400 | 2008 |
+| 114 | Nicaragua | 312,000 | 2008 |
+| 115 | Trinidad and Tobago | 307,000 | 2008 |
+| 116 | Oman | 274,200 | 2008 |
+| 117 | Qatar | 263,400 | 2008 |
+| 118 | Luxembourg | 260,600 | 2008 |
+| 119 | Kenya | 252,300 | 2008 |
+| 120 | Malta | 241,100 | 2008 |
+| 121 | Senegal | 237,800 | 2008 |
+| 122 | Malawi | 236,000 | 2008 |
+| 123 | Bahrain | 220,000 | 2008 |
+| 124 | Cameroon | 198,300 | 2008 |
+| 125 | Iceland | 187,000 | 2008 |
+| 126 | Tanzania | 179,849 | 2009 |
+| 127 | Macau | 173,533 | 2009 |
+| 128 | Uganda | 168,500 | 2008 |
+| 129 | Mongolia | 165,000 | 2008 |
+| 130 | Madagascar | 164,900 | 2008 |
+| 131 | Benin | 159,000 | 2008 |
+| 132 | Barbados | 150,000 | 2008 |
+| 133 | Burkina Faso | 144,000 | 2008 |
+| 134 | Ghana | 143,900 | 2008 |
+| 135 | Botswana | 142,300 | 2008 |
+| 136 | Togo | 140,900 | 2008 |
+| 137 | Namibia | 140,000 | 2008 |
+| 138 | Bahamas, The | 133,000 | 2008 |
+| 139 | Fiji | 129,100 | 2008 |
+| 140 | Guyana | 125,000 | 2008 |
+| 141 | Angola | 114,300 | 2008 |
+| 142 | Haiti | 108,000 | 2008 |
+| 143 | Kosovo | 106,300 | 2006 |
+| 144 | Somalia | 100,000 | 2008 |
+| 145 | Laos | 97,600 | 2008 |
+| 146 | Zambia | 90,600 | 2008 |
+| 147 | Netherlands Antilles | 88,000 | 2008 |
+| 148 | Mali | 82,800 | 2008 |
+| 149 | Suriname | 81,500 | 2008 |
+| 150 | Mozambique | 78,300 | 2008 |
+| 151 | Brunei | 76,600 | 2008 |
+| 152 | Mauritania | 76,400 | 2008 |
+| 153 | Virgin Islands | 74,200 | 2008 |
+| 154 | Jersey | 74,000 | 2008 |
+| 155 | Cape Verde | 72,000 | 2008 |
+| 156 | Lesotho | 65,200 | 2008 |
+| 157 | New Caledonia | 63,000 | 2008 |
+| 158 | Papua New Guinea | 60,000 | 2008 |
+| 159 | Bermuda | 57,600 | 2008 |
+| 160 | French Polynesia | 54,600 | 2008 |
+| 161 | Isle of Man | 51,000 | 1999 |
+| 162 | Maldives | 50,396 | 2009 |
+| 163 | Guinea | 50,000 | 2008 |
+| 164 | Gambia, The | 48,900 | 2008 |
+| 165 | Cambodia | 45,100 | 2008 |
+| 166 | Guernsey | 45,100 | 2008 |
+| 167 | Swaziland | 44,000 | 2008 |
+| 168 | Saint Lucia | 40,900 | 2008 |
+| 169 | Eritrea | 40,400 | 2008 |
+| 170 | Aruba | 38,500 | 2008 |
+| 171 | Antigua and Barbuda | 38,000 | 2008 |
+| 172 | Cayman Islands | 38,000 | 2008 |
+| 173 | Andorra | 37,400 | 2008 |
+| 174 | Congo, Democratic Republic of the | 37,300 | 2008 |
+| 175 | Monaco | 35,000 | 2008 |
+| 176 | Sierra Leone | 31,500 | 2008 |
+| 177 | Belize | 31,100 | 2008 |
+| 178 | Burundi | 30,400 | 2008 |
+| 179 | Samoa | 28,800 | 2008 |
+| 180 | Grenada | 28,600 | 2008 |
+| 181 | Bhutan | 27,500 | 2008 |
+| 182 | Gabon | 26,500 | 2008 |
+| 183 | Tonga | 25,500 | 2008 |
+| 184 | Northern Mariana Islands | 24,700 | 2008 |
+| 185 | Gibraltar | 24,000 | 2008 |
+| 186 | Niger | 24,000 | 2008 |
+| 187 | Comoros | 23,300 | 2008 |
+| 188 | Seychelles | 23,200 | 2008 |
+| 189 | Greenland | 22,800 | 2008 |
+| 190 | Saint Vincent and the Grenadines | 22,800 | 2008 |
+| 191 | Congo, Republic of the | 22,200 | 2008 |
+| 192 | Faroe Islands | 21,800 | 2008 |
+| 193 | San Marino | 21,300 | 2008 |
+| 194 | Saint Kitts and Nevis | 20,400 | 2008 |
+| 195 | Liechtenstein | 19,600 | 2008 |
+| 196 | British Virgin Islands | 18,900 | 2008 |
+| 197 | Dominica | 17,500 | 2008 |
+| 198 | Rwanda | 16,800 | 2008 |
+| 199 | Chad | 13,000 | 2008 |
+| 200 | Central African Republic | 12,000 | 2008 |
+| 201 | Djibouti | 10,800 | 2008 |
+| 202 | American Samoa | 10,400 | 2008 |
+| 203 | Vanuatu | 10,400 | 2008 |
+| 204 | Equatorial Guinea | 10,000 | 2008 |
+| 205 | Mayotte | 10,000 | 2008 |
+| 206 | Micronesia, Federated States of | 8,700 | 2008 |
+| 207 | Solomon Islands | 8,000 | 2008 |
+| 208 | Sao Tome and Principe | 7,700 | 2008 |
+| 209 | Palau | 7,500 | 2008 |
+| 210 | Cook Islands | 6,700 | 2008 |
+| 211 | Anguilla | 5,800 | 2008 |
+| 212 | Holy See (Vatican City) | 5,120 | 2005 |
+| 213 | Saint Pierre and Miquelon | 4,800 | 2008 |
+| 214 | Guinea-Bissau | 4,600 | 2008 |
+| 215 | Marshall Islands | 4,400 | 2008 |
+| 216 | Kiribati | 4,000 | 2008 |
+| 217 | Turks and Caicos Islands | 3,700 | 2008 |
+| 218 | Montserrat | 2,800 | 2008 |
+| 219 | Wallis and Futuna | 2,700 | 2008 |
+| 220 | Norfolk Island | 2,532 | 2004 |
+| 221 | Timor-Leste | 2,400 | 2008 |
+| 222 | Falkland Islands (Islas Malvinas) | 2,300 | 2008 |
+| 223 | Saint Helena | 2,300 | 2008 |
+| 224 | Liberia | 2,000 | 2008 |
+| 225 | Nauru | 1,800 | 2008 |
+| 226 | Tuvalu | 1,500 | 2008 |
+| 227 | Niue | 1,000 | 2008 |
+| 228 | Tokelau | 300 | 2008 |
+| 229 | Cocos (Keeling) Islands | 287 | 1992 |
+| 230 | Pitcairn Islands | 1 | 2004 |
+| 231 | Antarctica | 0 | 2001 |

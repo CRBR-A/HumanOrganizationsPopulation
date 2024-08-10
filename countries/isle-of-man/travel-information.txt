@@ -1,0 +1,27 @@
+Telephone Code: 44
+Local Emergency Phone: 999
+Climate: Temperate; cool summers and mild winters; overcast about a third of the time
+Currency (Code): Manx pounds (IMP)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, G
+Major Languages: English, Manx Gaelic
+Major Religions: Protestant (Anglican, Methodist, Baptist, Presbyterian, Society of Friends), Roman Catholic
+Time Difference: UTC 0 (5 hours ahead of Washington, DC, during Standard Time); daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October
+Potable Water: Yes
+International Driving Permit: Suggested
+Road Driving Side: Left
+Tourist Destinations: Glen Helen; Road of the Gull; Manx Museum; Isle of Man steam railway; Peel Castle; Castletown Harbour; Cregneash Folk Village; Laxey Wheel
+Major Sports: Cycling, rugby, cricket, soccer, gymnastics, field hockey, netball, taekwondo
+Cultural Practices: It is considered rude to wave one's hand or to call when summoning a waiter at a restaurant.
+Tipping Guidelines: In hotels, a service charge of 10-12% is frequently added to the bill. Tip as you would if you were in the United Kingdom.
+Souvenirs: Hand knit sweaters and other clothing, tartan items, silver jewelry, traditional dolls, liquor, Manx cat and racing-bike-themed items; iron, steel, and woodworking items including furniture
+Traditional Cuisine: Isle of Man Queenies --- medium-sized queen scallops
+
+---
+country: Isle of Man
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Isle of Man/travel-facts>
+license: public domain (U.S.)
+...

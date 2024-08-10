@@ -1,0 +1,27 @@
+Telephone Code: 260
+Local Emergency Phone: 999
+Climate: Tropical; modified by altitude; rainy season (October to April)
+Currency (Code): Zambian kwacha (ZMK)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, D, G
+Major Languages: Bemba, Nyanja, Tonga, Lozi, Chewa, Nsenga, Tumbuka, Lunda, Kaonde, Lala, Lamba, English
+Major Religions: Protestant 75.3%, Roman Catholic 20.2%, other 2.7% (includes Muslim Buddhist, Hindu, and Baha'i)
+Time Difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Left
+Tourist Destinations: Victoria Falls; Devil's Pool; Zambezi River; Kafue National Park; Lusaka National Museum; Siavonga; Blue Lagoon National Park
+Major Sports: Soccer, boxing, tennis
+Cultural Practices: Beckoning someone with one's index finger is considered very rude, as it is usually reserved for animals.
+Tipping Guidelines: Tip 10% in restaurants. Tip guides directly at the end of a tour $5-10 (USD) per person per day.
+Souvenirs: Wood and stone carvings, handmade pottery and glassware, basketware, batik fabric and decorative items; wrought iron sculptures and copperware; carved tribal items including masks, drums, and animals; beadwork and handmade jewelry; local gemstones
+Traditional Cuisine: Nshima --- a dough-like porridge made from ground maize used to scoop up side dishes (ndiwo) such as soups, stews, sauces, or relishes
+
+---
+country: Zambia
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Zambia/travel-facts>
+license: public domain (U.S.)
+...

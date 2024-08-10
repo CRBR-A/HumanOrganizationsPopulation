@@ -1,0 +1,8 @@
+Seeking to stop the incorporation of their land into Rhodesia (Zimbabwe) or the Union of South Africa, in 1885, three tribal chiefs traveled to Great Britain and successfully lobbied the British Government to put "Bechuanaland" under UK protection. Upon independence in 1966, the British protectorate of Bechuanaland adopted the new name of Botswana. More than five decades of uninterrupted civilian leadership, progressive social policies, and significant capital investment have created one of the most stable economies in Africa. The ruling Botswana Democratic Party has won every national election since independence; President Mokgweetsi Eric MASISI assumed the presidency in April 2018 following the retirement of former President Ian KHAMA due to constitutional term limits. MASISI won his first election as president in October 2019, and he is Botswanaâ€™s fifth president since independence. Mineral extraction, principally diamond mining, dominates economic activity, though tourism is a growing sector due to the country's conservation practices and extensive nature preserves. Botswana has one of the world's highest rates of HIV/AIDS infection, but also one of Africa's most progressive and comprehensive programs for dealing with the disease.  
+
+---
+country: Botswana
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Botswana/>
+license: public domain (U.S.)
+...

@@ -1,0 +1,29 @@
+Telephone Code: 258
+Local Emergency Phone - Ambulance: 117
+Local Emergency Phone - Fire: 198
+Local Emergency Phone - Police: 119
+Climate: Tropical to subtropical
+Currency (Code): Meticais (MZM)
+Electricity: 220 V
+Voltage: 50 Hz
+Plug types(s): C, F, M
+Major Languages: Emakhuwa, Portuguese, Xichangana, Cinyanja, Cisena, Elomwe, Echuwabo, Cindau, Xitswa, other Mozambican languages
+Major Religions: Roman Catholic 27.2%, Muslim 18.9%, Zionist Christian 15.6%, Evangelical/Pentecostal 15.3%, Anglican 1.7%
+Time Difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Left
+Tourist Destinations: Gorongosa National Park; Maputo (includes Tunduru Botanical Gardens, Cathedral, Fortress, National Money Museum), Maputo Elephant Reserve; Macuti Lighthouse & Shipwreck
+Major Sports: Soccer, basketball, volleyball
+Cultural Practices: Covering a fist with one's open hand signals "that's enough."
+Tipping Guidelines: Tipping is standard practice in Mozambique. Tipping 10% in restaurants and bars is common. Round up taxi fares. Tip bellhops $1 (USD) per bag and hotel housekeeping $1-2 (USD) per day.
+Souvenirs: Ritual masks, seashell and bead jewelry, hand woven and dyed fabric goods, carved wooden items, pottery
+Traditional Cuisine: Peri peri chicken --- grilled or roasted chicken marinated in cumin, garlic, paprika, lemon juice, and bird's eye chilis grilled or roasted and served with a creamy and spicy coconut sauce
+
+---
+country: Mozambique
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Mozambique/travel-facts>
+license: public domain (U.S.)
+...

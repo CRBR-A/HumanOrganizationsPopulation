@@ -1,0 +1,186 @@
+CIA - The World Factbook --  Net migration rate   
+
+This entry includes the figure for the difference between the number of persons entering and leaving a country during the year per 1,000 persons (based on midyear population). An excess of persons entering the country is referred to as net immigration (e.g., 3.56 migrants/1,000 population); an excess of persons leaving the country as net emigration (e.g., -9.26 migrants/1,000 population). The net migration rate indicates the contribution of migration to the overall level of population change. High levels of migration can cause problems such as increasing unemployment and potential ethnic strife (if people are coming in) or a reduction in the labor force, perhaps in certain key sectors (if people are leaving).
+
+| Rank | country | (migrant(s)/1,000 population) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | United Arab Emirates | 22.98 | 2009 est. |
+| 2 | Afghanistan | 21.00 | 2009 est. |
+| 3 | Cayman Islands | 16.48 | 2009 est. |
+| 4 | Kuwait | 16.02 | 2009 est. |
+| 5 | Macau | 14.56 | 2009 est. |
+| 6 | Anguilla | 14.06 | 2009 est. |
+| 7 | San Marino | 10.32 | 2009 est. |
+| 8 | Aruba | 9.70 | 2009 est. |
+| 9 | Turks and Caicos Islands | 9.02 | 2009 est. |
+| 10 | Luxembourg | 8.44 | 2009 est. |
+| 11 | British Virgin Islands | 8.13 | 2009 est. |
+| 12 | Monaco | 7.58 | 2009 est. |
+| 13 | Andorra | 6.89 | 2009 est. |
+| 14 | Northern Mariana Islands | 6.47 | 2009 est. |
+| 15 | Australia | 6.23 | 2009 est. |
+| 16 | Jordan | 5.83 | 2009 est. |
+| 17 | Singapore | 5.82 | 2009 est. |
+| 18 | Canada | 5.63 | 2009 est. |
+| 19 | Isle of Man | 5.23 | 2009 est. |
+| 20 | Liberia | 5.13 | 2009 est. |
+| 21 | Botswana | 5.00 | 2009 est. |
+| 22 | Ireland | 4.71 | 2009 est. |
+| 23 | Liechtenstein | 4.66 | 2009 est. |
+| 24 | Hong Kong | 4.38 | 2009 est. |
+| 25 | United States | 4.31 | 2009 est. |
+| 26 | Burundi | 4.04 | 2009 est. |
+| 27 | Guernsey | 3.80 | 2009 est. |
+| 28 | Bosnia and Herzegovina | 3.17 | 2009 est. |
+| 29 | Portugal | 3.14 | 2009 est. |
+| 30 | French Polynesia | 2.73 | 2009 est. |
+| 31 | Jersey | 2.73 | 2009 est. |
+| 32 | Brunei | 2.69 | 2009 est. |
+| 33 | Denmark | 2.48 | 2009 est. |
+| 34 | Netherlands | 2.46 | 2009 est. |
+| 35 | New Zealand | 2.46 | 2009 est. |
+| 36 | Antigua and Barbuda | 2.38 | 2009 est. |
+| 37 | Israel | 2.37 | 2009 est. |
+| 38 | Greece | 2.33 | 2009 est. |
+| 39 | Bermuda | 2.20 | 2009 est. |
+| 40 | Germany | 2.19 | 2009 est. |
+| 41 | Rwanda | 2.17 | 2009 est. |
+| 42 | United Kingdom | 2.16 | 2009 est. |
+| 43 | Italy | 2.06 | 2009 est. |
+| 44 | Malta | 2.02 | 2009 est. |
+| 45 | Austria | 1.85 | 2009 est. |
+| 46 | Switzerland | 1.76 | 2009 est. |
+| 47 | Norway | 1.71 | 2009 est. |
+| 48 | Sweden | 1.66 | 2009 est. |
+| 49 | Croatia | 1.59 | 2009 est. |
+| 50 | France | 1.48 | 2009 est. |
+| 51 | Angola | 1.34 | 2009 est. |
+| 52 | Belgium | 1.22 | 2009 est. |
+| 53 | Mayotte | 1.11 | 2009 est. |
+| 54 | Congo, Democratic Republic of the | 1.07 | 2009 est. |
+| 55 | Seychelles | 1.05 | 2009 est. |
+| 56 | Spain | 0.99 | 2009 est. |
+| 57 | Czech Republic | 0.97 | 2009 est. |
+| 58 | Palau | 0.96 | 2009 est. |
+| 59 | Hungary | 0.87 | 2009 est. |
+| 60 | Iceland | 0.83 | 2009 est. |
+| 61 | Finland | 0.68 | 2009 est. |
+| 62 | Sudan | 0.63 | 2009 est. |
+| 63 | Turkey | 0.56 | 2009 est. |
+| 64 | Slovenia | 0.52 | 2009 est. |
+| 65 | Costa Rica | 0.47 | 2009 est. |
+| 66 | Cyprus | 0.42 | 2009 est. |
+| 67 | Belarus | 0.38 | 2009 est. |
+| 68 | Gambia, The | 0.30 | 2009 est. |
+| 69 | Slovakia | 0.30 | 2009 est. |
+| 70 | Namibia | 0.30 | 2009 est. |
+| 71 | Russia | 0.28 | 2009 est. |
+| 72 | Oman | 0.24 | 2009 est. |
+| 73 | Bahrain | 0.20 | 2009 est. |
+| 74 | Taiwan | 0.03 | 2009 est. |
+| 75 | Argentina | 0.00 | 2009 est. |
+| 76 | Benin | 0.00 | 2009 est. |
+| 77 | Kenya | 0.00 | 2009 est. |
+| 78 | Gaza Strip | 0.00 | 2009 est. |
+| 79 | Serbia | 0.00 | 2008 est. |
+| 80 | Sierra Leone | 0.00 | 2009 est. |
+| 81 | West Bank | 0.00 | 2009 est. |
+| 82 | Somalia | 0.00 | 2009 est. |
+| 83 | Senegal | 0.00 | 2009 est. |
+| 84 | Guinea-Bissau | 0.00 | 2009 est. |
+| 85 | Gibraltar | 0.00 | 2009 est. |
+| 86 | Ethiopia | -0.02 | 2009 est. |
+| 87 | India | -0.05 | 2009 est. |
+| 88 | Mauritius | -0.06 | 2009 est. |
+| 89 | Paraguay | -0.07 | 2009 est. |
+| 90 | Brazil | -0.09 | 2009 est. |
+| 91 | Korea, North | -0.09 | 2009 est. |
+| 92 | Nigeria | -0.10 | 2009 est. |
+| 93 | Ukraine | -0.11 | 2009 est. |
+| 94 | Romania | -0.13 | 2009 est. |
+| 95 | South Africa | -0.13 | 2009 est. |
+| 96 | Uruguay | -0.16 | 2009 est. |
+| 97 | Egypt | -0.20 | 2009 est. |
+| 98 | Colombia | -0.26 | 2009 est. |
+| 99 | Suriname | -0.26 | 2009 est. |
+| 100 | Algeria | -0.29 | 2009 est. |
+| 101 | Barbados | -0.31 | 2009 est. |
+| 102 | Korea, South | -0.33 | 2009 est. |
+| 103 | Vietnam | -0.38 | 2009 est. |
+| 104 | China | -0.39 | 2009 est. |
+| 105 | Netherlands Antilles | -0.39 | 2009 est. |
+| 106 | Faroe Islands | -0.41 | 2009 est. |
+| 107 | Tunisia | -0.41 | 2009 est. |
+| 108 | Venezuela | -0.42 | 2009 est. |
+| 109 | Poland | -0.47 | 2009 est. |
+| 110 | Pakistan | -0.48 | 2009 est. |
+| 111 | Panama | -0.49 | 2009 est. |
+| 112 | Macedonia | -0.52 | 2009 est. |
+| 113 | Ghana | -0.53 | 2009 est. |
+| 114 | Niger | -0.57 | 2009 est. |
+| 115 | Lithuania | -0.72 | 2009 est. |
+| 116 | Morocco | -0.72 | 2009 est. |
+| 117 | Lesotho | -0.78 | 2009 est. |
+| 118 | Guinea | -0.80 | 2009 est. |
+| 119 | Ecuador | -0.81 | 2009 est. |
+| 120 | Peru | -0.95 | 2009 est. |
+| 121 | Mauritania | -0.96 | 2009 est. |
+| 122 | Puerto Rico | -0.96 | 2009 est. |
+| 123 | Bolivia | -1.05 | 2009 est. |
+| 124 | Sri Lanka | -1.09 | 2009 est. |
+| 125 | Nicaragua | -1.11 | 2009 est. |
+| 126 | Moldova | -1.13 | 2009 est. |
+| 127 | Saint Kitts and Nevis | -1.15 | 2009 est. |
+| 128 | Indonesia | -1.24 | 2009 est. |
+| 129 | Tajikistan | -1.28 | 2009 est. |
+| 130 | Honduras | -1.30 | 2009 est. |
+| 131 | Tanzania | -1.30 | 2009 est. |
+| 132 | Philippines | -1.34 | 2009 est. |
+| 133 | Cuba | -1.56 | 2009 est. |
+| 134 | Azerbaijan | -1.69 | 2009 est. |
+| 135 | Sao Tome and Principe | -1.81 | 2009 est. |
+| 136 | Congo, Republic of the | -1.82 | 2009 est. |
+| 137 | Turkmenistan | -1.97 | 2009 est. |
+| 138 | Haiti | -2.07 | 2009 est. |
+| 139 | Bahamas, The | -2.13 | 2009 est. |
+| 140 | Guatemala | -2.21 | 2009 est. |
+| 141 | Dominican Republic | -2.22 | 2009 est. |
+| 142 | Latvia | -2.30 | 2009 est. |
+| 143 | Fiji | -2.47 | 2009 est. |
+| 144 | Bangladesh | -2.53 | 2009 est. |
+| 145 | Kyrgyzstan | -2.57 | 2009 est. |
+| 146 | Zambia | -2.59 | 2009 est. |
+| 147 | Iran | -2.62 | 2009 est. |
+| 148 | Uzbekistan | -2.94 | 2009 est. |
+| 149 | Bulgaria | -3.11 | 2009 est. |
+| 150 | Estonia | -3.26 | 2009 est. |
+| 151 | El Salvador | -3.27 | 2009 est. |
+| 152 | Kazakhstan | -3.30 | 2009 est. |
+| 153 | Nepal | -3.39 | 2009 est. |
+| 154 | Gabon | -3.48 | 2009 est. |
+| 155 | Qatar | -3.58 | 2009 est. |
+| 156 | Mexico | -3.61 | 2009 est. |
+| 157 | Chad | -4.08 | 2009 est. |
+| 158 | Saint Lucia | -4.14 | 2009 est. |
+| 159 | Georgia | -4.26 | 2009 est. |
+| 160 | Albania | -4.28 | 2009 est. |
+| 161 | Armenia | -4.56 | 2009 est. |
+| 162 | Saint Pierre and Miquelon | -4.96 | 2009 est. |
+| 163 | Marshall Islands | -5.41 | 2009 est. |
+| 164 | Dominica | -5.45 | 2009 est. |
+| 165 | Virgin Islands | -5.49 | 2009 est. |
+| 166 | Mali | -5.67 | 2009 est. |
+| 167 | Jamaica | -5.70 | 2009 est. |
+| 168 | Greenland | -5.99 | 2009 est. |
+| 169 | Wallis and Futuna | -6.08 | 2009 est. |
+| 170 | American Samoa | -6.99 | 2009 est. |
+| 171 | Trinidad and Tobago | -7.28 | 2009 est. |
+| 172 | Guyana | -7.44 | 2009 est. |
+| 173 | Saudi Arabia | -7.60 | 2009 est. |
+| 174 | Samoa | -8.81 | 2009 est. |
+| 175 | Uganda | -8.83 | 2009 est. |
+| 176 | Grenada | -10.55 | 2009 est. |
+| 177 | Cape Verde | -11.67 | 2009 est. |
+| 178 | Saint Vincent and the Grenadines | -11.80 | 2009 est. |
+| 179 | Maldives | -12.58 | 2009 est. |
+| 180 | Micronesia, Federated States of | -21.03 | 2009 est. |

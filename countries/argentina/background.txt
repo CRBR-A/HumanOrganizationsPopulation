@@ -1,0 +1,9 @@
+In 1816, the United Provinces of the Rio Plata declared their independence from Spain. After Bolivia, Paraguay, and Uruguay went their separate ways, the area that remained became Argentina. The country's population and culture were heavily shaped by immigrants from throughout Europe, with Italy and Spain providing the largest percentage of newcomers from 1860 to 1930. Up until about the mid-20th century, much of Argentina's history was dominated by periods of internal political unrest and conflict between civilian and military factions.  
+After World War II, an era of Peronist populism and direct and indirect military interference in subsequent governments was followed by a military junta that took power in 1976. Democracy returned in 1983 after a failed bid to seize the Falkland Islands (Islas Malvinas) by force, and has persisted despite numerous challenges, the most formidable of which was a severe economic crisis in 2001-02 that led to violent public protests and the successive resignations of several presidents. The years 2003-15 saw Peronist rule by Nestor and Cristina FERNANDEZ de KIRCHNER, whose policies isolated Argentina and caused economic stagnation. With the election of Mauricio MACRI in November 2015, Argentina began a period of reform and international reintegration.  
+
+---
+country: Argentina
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Argentina/>
+license: public domain (U.S.)
+...

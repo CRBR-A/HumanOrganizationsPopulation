@@ -1,0 +1,27 @@
+Telephone Code: 248
+Local Emergency Phone: 999
+Climate: Tropical marine; humid; cooler season during southeast monsoon (late May to September); warmer season during northwest monsoon (March to May)
+Currency (Code): Seychelles rupees (SCR)
+Electricity: 240 V
+Voltage: 50 Hz
+Plug types(s): G
+Major Languages: Seychellois Creole, English, French
+Major Religions: Roman Catholic 76.2%, Protestant 10.5% (Anglican, Pentecostal Assembly, Seventh Day Adventist, other Protestant), other Christian 2.4%, Hindu 2.4%, Muslim 1.6%
+Time Difference: UTC+4 (9 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Left
+Tourist Destinations: Aldabra Atoll; Morne Blanc; Moyenne Island; Victoria (includes Seychelles National Botanical Gardens, Victoria Market)
+Major Sports: Basketball, water sports
+Cultural Practices: When greeting someone for the first time, and when saying goodbye, shake hands with both men and women. Wearing swimwear is fine for the beaches; otherwise, modest clothing is advised.
+Tipping Guidelines: Most hotels, restaurants, taxis, and porters already include a 5-10% service charge so tipping is not obligatory. However, as a reward for exceptional service, a nominal tip is sure to be appreciated.
+Souvenirs: Coco De Mer food and decorative items; batik fabric, sarongs, and scarves; shell and pearl jewelry; turtle shell-, coral-, and coconut-carved items; natural bath products, straw baskets, tea
+Traditional Cuisine: Pwason griye --- whole fresh fish, often red snapper or rabbit fish, flavored with crushed chili, garlic, and ginger and grilled; typically served over rice, with sweet potatoes or tamarind-tomato chutney on the side
+
+---
+country: Seychelles
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Seychelles/travel-facts>
+license: public domain (U.S.)
+...

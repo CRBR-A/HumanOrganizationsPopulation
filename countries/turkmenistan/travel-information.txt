@@ -1,0 +1,27 @@
+Telephone Code: 993
+Local Emergency Phone: 3
+Climate: Subtropical desert
+Currency (Code): Turkmenistani manat (TMM)
+Electricity: 220 V
+Voltage: 50 Hz
+Plug types(s): C, F
+Major Languages: Turkmen, Russian, Uzbek
+Major Religions: Muslim 93%, Christian 6.4%, Buddhist <1%, folk religion <1%, Jewish <1%
+Time Difference: UTC+5 (10 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Ashgabat (includes National Museum, Carpet Museum); Turabeg Khanym Complex; Kow Ata Underground Lake; Yangykala Canyon; Mary Regional Museum; Ancient Merv & Mausoleum of Sultan Sanjar
+Major Sports: Soccer
+Cultural Practices: It is best to use your right hand or both hands to give and receive gifts, as the left hand is sometimes considered unclean.
+Tipping Guidelines: Tip guides $8-10 (USD) per person per day for a tour. Tour drivers may be tipped $5 (USD).
+Souvenirs: Carpets, scarves, silk, gold statues, Turkmen calendars, Turkmen sheepskin hats
+Traditional Cuisine: Ishleki --- a flatbread-type dough wrapped around a filling including minced lamb, onions, and spices and then fried
+
+---
+country: Turkmenistan
+date: June 23, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Turkmenistan/travel-facts>
+license: public domain (U.S.)
+...

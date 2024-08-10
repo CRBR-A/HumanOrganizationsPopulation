@@ -1,0 +1,172 @@
+CIA - The World Factbook --  PUBLIC DEBT
+
+Public debt compares the cumulative total of all government borrowings less repayments that are denominated in a country's home currency. Public debt should not be confused with external debt.
+
+| Rank | Country | (% OF GDP) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Japan | 227.70 | 2014 est. |
+| 2 | Zimbabwe | 181.00 | 2014 est. |
+| 3 | Greece | 174.50 | 2014 est. |
+| 4 | Lebanon | 142.40 | 2014 est. |
+| 5 | Italy | 134.10 | 2014 est. |
+| 6 | Jamaica | 132.00 | 2014 est. |
+| 7 | Portugal | 131.00 | 2014 est. |
+| 8 | Cyprus | 119.40 | 2014 est. |
+| 9 | Ireland | 118.90 | 2014 est. |
+| 10 | Grenada | 110.00 | 2012 est. |
+| 11 | Singapore | 106.70 | 2014 est. |
+| 12 | Belgium | 101.90 | 2014 est. |
+| 13 | Eritrea | 101.30 | 2014 est. |
+| 14 | Barbados | 101.20 | 2014 est. |
+| 15 | Spain | 97.60 | 2014 est. |
+| 16 | France | 95.50 | 2014 est. |
+| 17 | Iceland | 94.00 | 2014 est. |
+| 18 | Egypt | 93.80 | 2014 est. |
+| 19 | Puerto Rico | 93.60 | 2014 est. |
+| 20 | Canada | 92.60 | 2014 est. |
+| 21 | Bhutan | 91.50 | 2014 est. |
+| 22 | Jordan | 90.00 | 2014 est. |
+| 23 | Antigua and Barbuda | 89.00 | 2012 est. |
+| 24 | United Kingdom | 86.60 | 2014 est. |
+| 25 | Cabo Verde | 86.20 | 2012 est. |
+| 26 | Saint Kitts and Nevis | 83.00 | 2013 est. |
+| 27 | Austria | 80.20 | 2014 est. |
+| 28 | Belize | 79.60 | 2014 est. |
+| 29 | Hungary | 78.20 | 2014 est. |
+| 30 | Sri Lanka | 78.20 | 2014 est. |
+| 31 | Sao Tome and Principe | 77.10 | 2014 est. |
+| 32 | Saint Lucia | 77.00 | 2012 est. |
+| 33 | Morocco | 76.60 | 2014 est. |
+| 34 | Malta | 75.30 | 2014 est. |
+| 35 | Germany | 74.70 | 2014 est. |
+| 36 | Ghana | 72.70 | 2014 est. |
+| 37 | Albania | 71.40 | 2014 est. |
+| 38 | Sudan | 71.30 | 2014 est. |
+| 39 | United States | 71.20 | 2014 est. |
+| 40 | Croatia | 70.30 | 2014 est. |
+| 41 | Dominica | 70.00 | 2012 est. |
+| 42 | Netherlands | 69.40 | 2014 est. |
+| 43 | Israel | 67.40 | 2014 est. |
+| 44 | Saint Vincent and the Grenadines | 67.00 | 2013 est. |
+| 45 | Aruba | 67.00 | 2013 |
+| 46 | Ukraine | 66.20 | 2014 est. |
+| 47 | Serbia | 65.00 | 2014 est. |
+| 48 | Uruguay | 64.70 | 2014 est. |
+| 49 | Seychelles | 64.50 | 2014 est. |
+| 50 | Pakistan | 64.30 | FY2014 est. |
+| 51 | El Salvador | 63.40 | 2014 est. |
+| 52 | Mauritius | 61.40 | 2014 est. |
+| 53 | Slovenia | 59.80 | 2014 est. |
+| 54 | Finland | 59.60 | 2014 est. |
+| 55 | Costa Rica | 59.40 | 2014 est. |
+| 56 | Brazil | 59.30 | 2014 est. |
+| 57 | Kenya | 58.90 | 2014 est. |
+| 58 | Slovakia | 58.50 | 2014 est. |
+| 59 | Guyana | 58.00 | 2014 est. |
+| 60 | Bahamas, The | 57.60 | 2013 est. |
+| 61 | Syria | 57.30 | 2014 est. |
+| 62 | Ethiopia | 55.10 | 2014 est. |
+| 63 | Malaysia | 54.20 | 2014 est. |
+| 64 | Fiji | 52.30 | 2014 est. |
+| 65 | Montenegro | 52.10 | 2012 est. |
+| 66 | Venezuela | 51.40 | 2014 est. |
+| 67 | India | 51.30 | 2014 est. |
+| 68 | Yemen | 51.00 | 2014 est. |
+| 69 | Trinidad and Tobago | 50.60 | 2014 est. |
+| 70 | Tunisia | 49.90 | 2014 est. |
+| 71 | Thailand | 48.60 | 2014 est. |
+| 72 | Philippines | 48.40 | 2014 est. |
+| 73 | Dominican Republic | 48.20 | 2014 est. |
+| 74 | Malawi | 48.00 | 2014 est. |
+| 75 | Senegal | 47.50 | 2014 est. |
+| 76 | South Africa | 47.30 | 2014 est. |
+| 77 | Mozambique | 47.20 | 2014 est. |
+| 78 | Laos | 46.20 | 2014 est. |
+| 79 | Poland | 45.60 | 2014 est. |
+| 80 | Vietnam | 45.50 | 2014 est. |
+| 81 | Bosnia and Herzegovina | 45.50 | 2014 est. |
+| 82 | Denmark | 44.30 | 2014 est. |
+| 83 | Honduras | 44.30 | 2014 est. |
+| 84 | United Arab Emirates | 44.20 | 2014 est. |
+| 85 | Czech Republic | 43.50 | 2014 est. |
+| 86 | Bahrain | 43.40 | 2014 est. |
+| 87 | Cote d'Ivoire | 42.90 | 2014 est. |
+| 88 | Tanzania | 42.90 | 2014 est. |
+| 89 | Armenia | 42.40 | 2014 est. |
+| 90 | Colombia | 41.90 | 2014 est. |
+| 91 | Andorra | 41.10 | 2012 |
+| 92 | West Bank | 41.00 | 2013 est. |
+| 93 | Mexico | 41.00 | 2014 est. |
+| 94 | Cuba | 40.60 | 2014 est. |
+| 95 | Nicaragua | 40.60 | 2014 est. |
+| 96 | Sweden | 40.20 | 2014 est. |
+| 97 | Romania | 39.40 | 2014 est. |
+| 98 | Lithuania | 38.70 | 2014 est. |
+| 99 | Burundi | 38.60 | 2014 est. |
+| 100 | Djibouti | 38.60 | 2012 est. |
+| 101 | Argentina | 37.90 | 2014 est. |
+| 102 | Zambia | 37.30 | 2014 est. |
+| 103 | Korea, South | 37.20 | 2014 est. |
+| 104 | Panama | 37.20 | 2014 est. |
+| 105 | Hong Kong | 37.00 | 2014 est. |
+| 106 | Latvia | 36.50 | 2014 est. |
+| 107 | Taiwan | 36.50 | 2014 est. |
+| 108 | Turkey | 36.50 | 2014 est. |
+| 109 | Georgia | 36.30 | 2012 est. |
+| 110 | Uganda | 35.70 | 2014 est. |
+| 111 | Bolivia | 35.30 | 2014 est. |
+| 112 | New Zealand | 35.30 | 2014 est. |
+| 113 | Switzerland | 34.70 | 2014 est. |
+| 114 | Australia | 34.50 | 2014 est. |
+| 115 | Chad | 34.50 | 2014 est. |
+| 116 | Macedonia | 34.00 | 2014 est. |
+| 117 | Congo, Democratic Republic of the | 33.40 | 2014 est. |
+| 118 | Curacao | 33.20 | 2012 est. |
+| 119 | Papua New Guinea | 32.30 | 2014 est. |
+| 120 | Mali | 32.10 | 2014 est. |
+| 121 | Rwanda | 31.40 | 2014 est. |
+| 122 | Congo, Republic of the | 30.20 | 2014 est. |
+| 123 | Benin | 30.10 | 2014 est. |
+| 124 | Sierra Leone | 30.10 | 2014 est. |
+| 125 | Qatar | 30.00 | 2014 est. |
+| 126 | Nepal | 30.00 | FY 2012/13 est. |
+| 127 | Ecuador | 30.00 | 2014 est. |
+| 128 | Guatemala | 29.90 | 2014 est. |
+| 129 | Norway | 29.60 | 2014 est. |
+| 130 | Namibia | 28.60 | 2014 est. |
+| 131 | Bangladesh | 28.60 | 2014 est. |
+| 132 | San Marino | 25.80 | 2013 est. |
+| 133 | Indonesia | 23.90 | 2014 est. |
+| 134 | Luxembourg | 23.20 | 2014 est. |
+| 135 | Bulgaria | 22.90 | 2014 est. |
+| 136 | Cameroon | 22.70 | 2014 est. |
+| 137 | China | 22.40 | 2013 est. |
+| 138 | Belarus | 22.30 | 2014 est. |
+| 139 | Anguilla | 19.50 | 2014 est. |
+| 140 | Moldova | 18.90 | 2014 est. |
+| 141 | Paraguay | 18.40 | 2014 est. |
+| 142 | Gabon | 17.70 | 2014 est. |
+| 143 | Botswana | 17.40 | 2014 est. |
+| 144 | Chile | 16.50 | 2014 est. |
+| 145 | Peru | 15.90 | 2014 est. |
+| 146 | Angola | 13.90 | 2014 est. |
+| 147 | Russia | 13.40 | 2014 est. |
+| 148 | Kazakhstan | 12.10 | 2014 est. |
+| 149 | Nigeria | 11.70 | 2014 est. |
+| 150 | Iran | 11.40 | 2014 est. |
+| 151 | Azerbaijan | 10.70 | 2014 est. |
+| 152 | Estonia | 9.90 | 2014 est. |
+| 153 | Kosovo | 9.10 | 2013 |
+| 154 | Equatorial Guinea | 8.40 | 2014 est. |
+| 155 | Liberia | 8.10 | 2014 est. |
+| 156 | Algeria | 7.50 | 2014 est. |
+| 157 | Uzbekistan | 7.50 | 2014 est. |
+| 158 | Gibraltar | 7.50 | 2008 est. |
+| 159 | Kuwait | 6.80 | 2014 est. |
+| 160 | Tajikistan | 6.50 | 2013 est. |
+| 161 | Wallis and Futuna | 5.60 | 2004 est. |
+| 162 | Oman | 4.70 | 2014 est. |
+| 163 | Libya | 2.90 | 2014 est. |
+| 164 | Saudi Arabia | 1.60 | 2014 est. |
+
+

@@ -1,0 +1,246 @@
+CIA - The World Factbook --  POPULATION
+
+Population compares estimates from the US Bureau of the Census based on statistics from population censuses, vital statistics registration systems, or sample surveys pertaining to the recent past and on assumptions about future trends.
+
+| Rank | Country | POPULATION | Date of Information |
+| --- | --- | --- | --- |
+| 1 | China | 1,373,541,278 | July 2016 est. |
+| 2 | India | 1,266,883,598 | July 2016 est. |
+| 3 | European Union | 513,949,445 | July 2016 est. |
+| 4 | United States | 323,995,528 | July 2016 est. |
+| 5 | Indonesia | 258,316,051 | July 2016 est. |
+| 6 | Brazil | 205,823,665 | July 2016 est. |
+| 7 | Pakistan | 201,995,540 | July 2016 est. |
+| 8 | Nigeria | 186,053,386 | July 2016 est. |
+| 9 | Bangladesh | 156,186,882 | July 2016 est. |
+| 10 | Russia | 142,355,415 | July 2016 est. |
+| 11 | Japan | 126,702,133 | July 2016 est. |
+| 12 | Mexico | 123,166,749 | July 2016 est. |
+| 13 | Philippines | 102,624,209 | July 2016 est. |
+| 14 | Ethiopia | 102,374,044 | July 2016 est. |
+| 15 | Vietnam | 95,261,021 | July 2016 est. |
+| 16 | Egypt | 94,666,993 | July 2016 est. |
+| 17 | Iran | 82,801,633 | July 2016 est. |
+| 18 | Congo, Democratic Republic of the | 81,331,050 | July 2016 est. |
+| 19 | Germany | 80,722,792 | July 2016 est. |
+| 20 | Turkey | 80,274,604 | July 2016 est. |
+| 21 | Thailand | 68,200,824 | July 2016 est. |
+| 22 | France | 66,836,154 | July 2016 est. |
+| 23 | United Kingdom | 64,430,428 | July 2016 est. |
+| 24 | Italy | 62,007,540 | July 2016 est. |
+| 25 | Burma | 56,890,418 | July 2016 est. |
+| 26 | South Africa | 54,300,704 | July 2016 est. |
+| 27 | Tanzania | 52,482,726 | July 2016 est. |
+| 28 | Korea, South | 50,924,172 | July 2016 est. |
+| 29 | Spain | 48,563,476 | July 2016 est. |
+| 30 | Colombia | 47,220,856 | July 2016 est. |
+| 31 | Kenya | 46,790,758 | July 2016 est. |
+| 32 | Ukraine | 44,209,733 | July 2016 est. |
+| 33 | Argentina | 43,886,748 | July 2016 est. |
+| 34 | Algeria | 40,263,711 | July 2016 est. |
+| 35 | Poland | 38,523,261 | July 2016 est. |
+| 36 | Uganda | 38,319,241 | July 2016 est. |
+| 37 | Iraq | 38,146,025 | July 2016 est. |
+| 38 | Sudan | 36,729,501 | July 2016 est. |
+| 39 | Canada | 35,362,905 | July 2016 est. |
+| 40 | Morocco | 33,655,786 | July 2016 est. |
+| 41 | Afghanistan | 33,332,025 | July 2016 est. |
+| 42 | Malaysia | 30,949,962 | July 2016 est. |
+| 43 | Venezuela | 30,912,302 | July 2016 est. |
+| 44 | Peru | 30,741,062 | July 2016 est. |
+| 45 | Uzbekistan | 29,473,614 | July 2016 est. |
+| 46 | Nepal | 29,033,914 | July 2016 est. |
+| 47 | Saudi Arabia | 28,160,273 | |
+| 48 | Yemen | 27,392,779 | July 2016 est. |
+| 49 | Ghana | 26,908,262 | July 2016 est. |
+| 50 | Mozambique | 25,930,150 | July 2016 est. |
+| 51 | Korea, North | 25,115,311 | July 2016 est. |
+| 52 | Madagascar | 24,430,325 | July 2016 est. |
+| 53 | Cameroon | 24,360,803 | July 2016 est. |
+| 54 | Cote d'Ivoire | 23,740,424 | July 2016 est. |
+| 55 | Taiwan | 23,464,787 | July 2016 est. |
+| 56 | Australia | 22,992,654 | July 2016 est. |
+| 57 | Sri Lanka | 22,235,000 | July 2016 est. |
+| 58 | Romania | 21,599,736 | July 2016 est. |
+| 59 | Angola | 20,172,332 | July 2016 est. |
+| 60 | Burkina Faso | 19,512,533 | July 2016 est. |
+| 61 | Niger | 18,638,600 | July 2016 est. |
+| 62 | Malawi | 18,570,321 | July 2016 est. |
+| 63 | Kazakhstan | 18,360,353 | July 2016 est. |
+| 64 | Chile | 17,650,114 | July 2016 est. |
+| 65 | Mali | 17,467,108 | July 2016 est. |
+| 66 | Syria | 17,185,170 | |
+| 67 | Netherlands | 17,016,967 | July 2016 est. |
+| 68 | Ecuador | 16,080,778 | July 2016 est. |
+| 69 | Cambodia | 15,957,223 | July 2016 est. |
+| 70 | Zambia | 15,510,711 | July 2016 est. |
+| 71 | Guatemala | 15,189,958 | July 2016 est. |
+| 72 | Zimbabwe | 14,546,961 | July 2016 est. |
+| 73 | Senegal | 14,320,055 | July 2016 est. |
+| 74 | Rwanda | 12,988,423 | July 2016 est. |
+| 75 | South Sudan | 12,530,717 | July 2016 est. |
+| 76 | Guinea | 12,093,349 | July 2016 est. |
+| 77 | Chad | 11,852,462 | July 2016 est. |
+| 78 | Belgium | 11,409,077 | July 2016 est. |
+| 79 | Cuba | 11,179,995 | July 2016 est. |
+| 80 | Tunisia | 11,134,588 | July 2016 est. |
+| 81 | Burundi | 11,099,298 | July 2016 est. |
+| 82 | Bolivia | 10,969,649 | July 2016 est. |
+| 83 | Portugal | 10,833,816 | July 2016 est. |
+| 84 | Somalia | 10,817,354 | July 2016 est. |
+| 85 | Greece | 10,773,253 | July 2016 est. |
+| 86 | Benin | 10,741,458 | July 2016 est. |
+| 87 | Czechia | 10,644,842 | July 2016 est. |
+| 88 | Dominican Republic | 10,606,865 | July 2016 est. |
+| 89 | Haiti | 10,485,800 | July 2016 est. |
+| 90 | Sweden | 9,880,604 | July 2016 est. |
+| 91 | Hungary | 9,874,784 | July 2016 est. |
+| 92 | Azerbaijan | 9,872,765 | July 2016 est. |
+| 93 | Belarus | 9,570,376 | July 2016 est. |
+| 94 | Honduras | 8,893,259 | July 2016 est. |
+| 95 | Austria | 8,711,770 | July 2016 est. |
+| 96 | Tajikistan | 8,330,946 | July 2016 est. |
+| 97 | Jordan | 8,185,384 | July 2016 est. |
+| 98 | Switzerland | 8,179,294 | July 2016 est. |
+| 99 | Israel | 8,174,527 | |
+| 100 | Togo | 7,756,937 | July 2016 est. |
+| 101 | Hong Kong | 7,167,403 | July 2016 est. |
+| 102 | Bulgaria | 7,144,653 | July 2016 est. |
+| 103 | Serbia | 7,143,921 | July 2016 est. |
+| 104 | Laos | 7,019,073 | July 2016 est. |
+| 105 | Paraguay | 6,862,812 | July 2016 est. |
+| 106 | Papua New Guinea | 6,791,317 | July 2016 est. |
+| 107 | Libya | 6,541,948 | July 2016 est. |
+| 108 | Lebanon | 6,237,738 | July 2016 est. |
+| 109 | El Salvador | 6,156,670 | July 2016 est. |
+| 110 | Sierra Leone | 6,018,888 | July 2016 est. |
+| 111 | Nicaragua | 5,966,798 | July 2016 est. |
+| 112 | United Arab Emirates | 5,927,482 | |
+| 113 | Eritrea | 5,869,869 | July 2016 est. |
+| 114 | Singapore | 5,781,728 | July 2016 est. |
+| 115 | Kyrgyzstan | 5,727,553 | July 2016 est. |
+| 116 | Denmark | 5,593,785 | July 2016 est. |
+| 117 | Central African Republic | 5,507,257 | July 2016 est. |
+| 118 | Finland | 5,498,211 | July 2016 est. |
+| 119 | Slovakia | 5,445,802 | July 2016 est. |
+| 120 | Turkmenistan | 5,291,317 | July 2016 est. |
+| 121 | Norway | 5,265,158 | July 2016 est. |
+| 122 | Ireland | 4,952,473 | July 2016 est. |
+| 123 | Georgia | 4,928,052 | July 2016 est. |
+| 124 | Costa Rica | 4,872,543 | July 2016 est. |
+| 125 | Congo, Republic of the | 4,852,412 | July 2016 est. |
+| 126 | New Zealand | 4,474,549 | July 2016 est. |
+| 127 | Croatia | 4,313,707 | July 2016 est. |
+| 128 | Liberia | 4,299,944 | July 2016 est. |
+| 129 | Bosnia and Herzegovina | 3,861,912 | July 2016 est. |
+| 130 | Panama | 3,705,246 | July 2016 est. |
+| 131 | Mauritania | 3,677,293 | July 2016 est. |
+| 132 | Puerto Rico | 3,578,056 | July 2016 est. |
+| 133 | Moldova | 3,510,485 | July 2016 est. |
+| 134 | Oman | 3,355,262 | |
+| 135 | Uruguay | 3,351,016 | July 2016 est. |
+| 136 | Armenia | 3,051,250 | July 2016 est. |
+| 137 | Albania | 3,038,594 | July 2016 est. |
+| 138 | Mongolia | 3,031,330 | July 2016 est. |
+| 139 | Jamaica | 2,970,340 | July 2016 est. |
+| 140 | Lithuania | 2,854,235 | July 2016 est. |
+| 141 | Kuwait | 2,832,776 | |
+| 142 | West Bank | 2,697,687 | |
+| 143 | Namibia | 2,436,469 | July 2016 est. |
+| 144 | Qatar | 2,258,283 | July 2016 est. |
+| 145 | Botswana | 2,209,208 | July 2016 est. |
+| 146 | Macedonia | 2,100,025 | July 2016 est. |
+| 147 | Gambia, The | 2,009,648 | July 2016 est. |
+| 148 | Slovenia | 1,978,029 | July 2016 est. |
+| 149 | Latvia | 1,965,686 | July 2016 est. |
+| 150 | Lesotho | 1,953,070 | July 2016 est. |
+| 151 | Kosovo | 1,883,018 | July 2016 est. |
+| 152 | Guinea-Bissau | 1,759,159 | July 2016 est. |
+| 153 | Gaza Strip | 1,753,327 | July 2016 est. |
+| 154 | Gabon | 1,738,541 | July 2016 est. |
+| 155 | Swaziland | 1,451,428 | July 2016 est. |
+| 156 | Bahrain | 1,378,904 | |
+| 157 | Mauritius | 1,348,242 | July 2016 est. |
+| 158 | Timor-Leste | 1,261,072 | July 2016 est. |
+| 159 | Estonia | 1,258,545 | July 2016 est. |
+| 160 | Trinidad and Tobago | 1,220,479 | July 2016 est. |
+| 161 | Cyprus | 1,205,575 | July 2016 est. |
+| 162 | Fiji | 915,303 | July 2016 est. |
+| 163 | Djibouti | 846,687 | July 2016 est. |
+| 164 | Comoros | 794,678 | July 2016 est. |
+| 165 | Equatorial Guinea | 759,451 | July 2016 est. |
+| 166 | Bhutan | 750,125 | July 2016 est. |
+| 167 | Guyana | 735,909 | July 2016 est. |
+| 168 | Montenegro | 644,578 | July 2016 est. |
+| 169 | Solomon Islands | 635,027 | July 2016 est. |
+| 170 | Macau | 597,425 | July 2016 est. |
+| 171 | Western Sahara | 587,020 | July 2016 est. |
+| 172 | Suriname | 585,824 | July 2016 est. |
+| 173 | Luxembourg | 582,291 | July 2016 est. |
+| 174 | Cabo Verde | 553,432 | July 2016 est. |
+| 175 | Brunei | 436,620 | July 2016 est. |
+| 176 | Malta | 415,196 | July 2016 est. |
+| 177 | Maldives | 392,960 | July 2016 est. |
+| 178 | Belize | 353,858 | July 2016 est. |
+| 179 | Iceland | 335,878 | July 2016 est. |
+| 180 | Bahamas, The | 327,316 | July 2016 est. |
+| 181 | Barbados | 291,495 | July 2016 est. |
+| 182 | French Polynesia | 285,321 | July 2016 est. |
+| 183 | Vanuatu | 277,554 | July 2016 est. |
+| 184 | New Caledonia | 275,355 | July 2016 est. |
+| 185 | Samoa | 198,926 | July 2016 est. |
+| 186 | Sao Tome and Principe | 197,541 | July 2016 est. |
+| 187 | Saint Lucia | 164,464 | July 2016 est. |
+| 188 | Guam | 162,742 | July 2016 est. |
+| 189 | Curacao | 149,035 | July 2016 est. |
+| 190 | Aruba | 113,648 | July 2016 est. |
+| 191 | Grenada | 111,219 | July 2016 est. |
+| 192 | Kiribati | 106,925 | July 2016 est. |
+| 193 | Tonga | 106,513 | July 2016 est. |
+| 194 | Micronesia, Federated States of | 104,719 | July 2016 est. |
+| 195 | Virgin Islands | 102,951 | July 2016 est. |
+| 196 | Saint Vincent and the Grenadines | 102,350 | July 2016 est. |
+| 197 | Jersey | 98,069 | July 2016 est. |
+| 198 | Antigua and Barbuda | 93,581 | July 2016 est. |
+| 199 | Seychelles | 93,186 | July 2016 est. |
+| 200 | Isle of Man | 88,195 | July 2016 est. |
+| 201 | Andorra | 85,660 | July 2016 est. |
+| 202 | Dominica | 73,757 | July 2016 est. |
+| 203 | Marshall Islands | 73,376 | July 2016 est. |
+| 204 | Bermuda | 70,537 | July 2016 est. |
+| 205 | Guernsey | 66,297 | July 2016 est. |
+| 206 | Greenland | 57,728 | July 2016 est. |
+| 207 | Cayman Islands | 57,268 | July 2016 est. |
+| 208 | American Samoa | 54,194 | July 2016 est. |
+| 209 | Northern Mariana Islands | 53,467 | July 2016 est. |
+| 210 | Saint Kitts and Nevis | 52,329 | July 2016 est. |
+| 211 | Turks and Caicos Islands | 51,430 | July 2016 est. |
+| 212 | Faroe Islands | 50,456 | July 2016 est. |
+| 213 | Sint Maarten | 41,486 | 2015 est. |
+| 214 | Liechtenstein | 37,937 | July 2016 est. |
+| 215 | British Virgin Islands | 34,232 | July 2016 est. |
+| 216 | San Marino | 33,285 | July 2016 est. |
+| 217 | Saint Martin | 31,949 | July 2016 est. |
+| 218 | Monaco | 30,581 | |
+| 219 | Gibraltar | 29,328 | July 2016 est. |
+| 220 | Palau | 21,347 | July 2016 est. |
+| 221 | Anguilla | 16,752 | July 2016 est. |
+| 222 | Wallis and Futuna | 15,664 | July 2016 est. |
+| 223 | Tuvalu | 10,959 | July 2016 est. |
+| 224 | Nauru | 9,591 | July 2016 est. |
+| 225 | Cook Islands | 9,556 | |
+| 226 | Saint Helena, Ascension, and Tristan da Cunha | 7,795 | July 2016 est. |
+| 227 | Saint Barthelemy | 7,209 | July 2016 est. |
+| 228 | Saint Pierre and Miquelon | 5,595 | July 2016 est. |
+| 229 | Montserrat | 5,267 | July 2016 est. |
+| 230 | Falkland Islands (Islas Malvinas) | 2,931 | 2014 est. |
+| 231 | Norfolk Island | 2,210 | July 2014 est. |
+| 232 | Christmas Island | 2,205 | July 2016 est. |
+| 233 | Svalbard | 1,872 | July 2014 est. |
+| 234 | Tokelau | 1,337 | July 2014 est. |
+| 235 | Niue | 1,190 | July 2014 est. |
+| 236 | Holy See (Vatican City) | 1,000 | 2015 est. |
+| 237 | Cocos (Keeling) Islands | 596 | July 2014 est. |
+| 238 | Pitcairn Islands | 54 | July 2016 est. |
+
+

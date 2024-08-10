@@ -1,0 +1,29 @@
+Telephone Code: 20
+Local Emergency Phone - Ambulance: 123
+Local Emergency Phone - Fire: 180
+Local Emergency Phone - Police: 122
+Climate: Desert; hot, dry summers with moderate winters
+Currency (Code): Egyptian pounds (EGP)
+Electricity: 220 V
+Voltage: 50 Hz
+Plug types(s): C, F
+Major Languages: Arabic, English, and French widely understood by educated classes
+Major Religions: Muslim (predominantly Sunni) 90%, Christian 10%
+Time Difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Memphis and its Necropolis - the pyramid fields from Giza to Dashur; Luxor's Karnak Temple and Valley of the Kings; Islamic Cairo; Aswan; Deir el-Bahari; Feluccas on the Nile; Abu Simbel; Egyptian Museum; Edfu; Medinet Habu; White Desert; Siwa Oasis
+Major Sports: Soccer, tennis, squash, basketball, handball
+Cultural Practices: Try to avoid using your left hand to eat or greet people. Hail taxis with your hand extended rather than your thumb up.
+Tipping Guidelines: It is customary to tip restaurant staff 10-15% of the bill. Tip taxi drivers around 10% of the total fare and housekeeping staff at hotels around $2 (USD) per day. Tip bellhops loose change for carrying your luggage.
+Souvenirs: Papyrus scrolls and art, camel- and pyramid-themed items, copper and brassware, ankh jewelry, shisha pipes, pottery, handmade leather goods, silk, spices
+Traditional Cuisine: Ful medames --- a stew of cooked fava beans served with olive oil, cumin, and optionally with chopped parsley, garlic, onion, lemon juice, chili pepper, and other vegetable, herb, and spice ingredients; traditionally made in and served from a large metal jug
+
+---
+country: Egypt
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Egypt/travel-facts>
+license: public domain (U.S.)
+...

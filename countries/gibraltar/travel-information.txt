@@ -1,0 +1,27 @@
+Telephone Code: 350
+Local Emergency Phone: 999
+Climate: Mediterranean with mild winters and warm summers
+Currency (Code): Gibraltar pounds (GIP)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): G
+Major Languages: English, Spanish, Italian, Portuguese
+Major Religions: Roman Catholic 72.1%, Church of England 7.7%, other Christian 3.8%, Muslim 3.6%, Jewish 2.4%, Hindu 2%
+Time Difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Yes
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Rock of Gibraltar; Moorish Castle; Saint Michael Cave; Gibraltar Nature Preserve; Great Siege Tunnels
+Major Sports: Soccer, cricket, rugby, darts
+Cultural Practices: Spaniards eat their lunch between 2 and 4 in the afternoon. Lunch is often the main meal of the day. Dinner is traditionally much smaller than the midday meal and can be served anytime from 9 to 11 in the evening.
+Tipping Guidelines: A service charge is generally included in restaurant bills, but it is usual to leave an extra 10% tip for good service.
+Souvenirs: Crystal, alcohol, jewelry, electronics, perfume, and watches, Rock of Gibraltar decorative items, stuffed Macaque animals, model sail boats
+Traditional Cuisine: Calentita --- an oven-baked dish that looks similar to a pizza without toppings; it consists of chickpea flour, water, olive oil, and seasonings and is served hot
+
+---
+country: Gibraltar
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Gibraltar/travel-facts>
+license: public domain (U.S.)
+...

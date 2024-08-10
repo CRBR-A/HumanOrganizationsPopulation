@@ -1,0 +1,237 @@
+CIA - The World Factbook --  Death rate   
+
+This entry gives the average annual number of deaths during a year per 1,000 population at midyear; also known as crude death rate. The death rate, while only a rough indicator of the mortality situation in a country, accurately indicates the current mortality impact on population growth. This indicator is significantly affected by age distribution, and most countries will eventually show a rise in the overall death rate, in spite of continued decline in mortality at all ages, as declining fertility results in an aging population.
+
+| Rank | country | (deaths/1,000 population) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | South Africa | 17.23 | July 2012 est. |
+| 2 | Ukraine | 15.76 | July 2012 est. |
+| 3 | Lesotho | 15.18 | July 2012 est. |
+| 4 | Chad | 15.16 | July 2012 est. |
+| 5 | Guinea-Bissau | 15.01 | July 2012 est. |
+| 6 | Central African Republic | 14.71 | July 2012 est. |
+| 7 | Afghanistan | 14.59 | July 2012 est. |
+| 8 | Somalia | 14.55 | July 2012 est. |
+| 9 | Bulgaria | 14.32 | July 2012 est. |
+| 10 | Swaziland | 14.21 | July 2012 est. |
+| 11 | Russia | 14.10 | July 2012 est. |
+| 12 | Belarus | 13.90 | July 2012 est. |
+| 13 | Mali | 13.90 | July 2012 est. |
+| 14 | Serbia | 13.81 | July 2012 est. |
+| 15 | Latvia | 13.60 | July 2012 est. |
+| 16 | Estonia | 13.60 | July 2012 est. |
+| 17 | Nigeria | 13.48 | July 2012 est. |
+| 18 | Zambia | 13.40 | July 2012 est. |
+| 19 | Niger | 13.40 | July 2012 est. |
+| 20 | Namibia | 13.09 | July 2012 est. |
+| 21 | Gabon | 13.07 | July 2012 est. |
+| 22 | Malawi | 12.84 | July 2012 est. |
+| 23 | Mozambique | 12.79 | July 2012 est. |
+| 24 | Hungary | 12.70 | July 2012 est. |
+| 25 | Moldova | 12.62 | July 2012 est. |
+| 26 | Burkina Faso | 12.47 | July 2012 est. |
+| 27 | Zimbabwe | 12.38 | July 2012 est. |
+| 28 | Angola | 12.06 | July 2012 est. |
+| 29 | Botswana | 12.00 | July 2012 est. |
+| 30 | Croatia | 11.99 | July 2012 est. |
+| 31 | Romania | 11.84 | July 2012 est. |
+| 32 | Cameroon | 11.66 | July 2012 est. |
+| 33 | Uganda | 11.60 | July 2012 est. |
+| 34 | Sierra Leone | 11.49 | July 2012 est. |
+| 35 | Lithuania | 11.40 | July 2012 est. |
+| 36 | Congo, Republic of the | 11.25 | July 2012 est. |
+| 37 | Germany | 11.04 | July 2012 est. |
+| 38 | Slovenia | 11.00 | July 2012 est. |
+| 39 | Czech Republic | 10.94 | July 2012 est. |
+| 40 | Portugal | 10.86 | July 2012 est. |
+| 41 | Congo, Democratic Republic of the | 10.80 | July 2012 est. |
+| 42 | Greece | 10.80 | July 2012 est. |
+| 43 | Belgium | 10.63 | July 2012 est. |
+| 44 | Liberia | 10.36 | July 2012 est. |
+| 45 | Finland | 10.33 | July 2012 est. |
+| 46 | Poland | 10.24 | July 2012 est. |
+| 47 | Austria | 10.23 | July 2012 est. |
+| 48 | Sweden | 10.21 | July 2012 est. |
+| 49 | Denmark | 10.19 | July 2012 est. |
+| 50 | Guinea | 10.19 | July 2012 est. |
+| 51 | Georgia | 10.05 | July 2012 est. |
+| 52 | Cote d'Ivoire | 9.96 | July 2012 est. |
+| 53 | Isle of Man | 9.95 | July 2012 est. |
+| 54 | Italy | 9.93 | July 2012 est. |
+| 55 | Rwanda | 9.64 | July 2012 est. |
+| 56 | Slovakia | 9.64 | July 2012 est. |
+| 57 | Uruguay | 9.55 | July 2012 est. |
+| 58 | Bosnia and Herzegovina | 9.40 | July 2012 est. |
+| 59 | Burundi | 9.36 | July 2012 est. |
+| 60 | United Kingdom | 9.33 | July 2012 est. |
+| 61 | Ethiopia | 9.30 | July 2012 est. |
+| 62 | Norway | 9.22 | July 2012 est. |
+| 63 | Japan | 9.15 | July 2012 est. |
+| 64 | Tuvalu | 9.13 | July 2012 est. |
+| 65 | Korea, North | 9.12 | July 2012 est. |
+| 66 | Senegal | 9.05 | July 2012 est. |
+| 67 | Montenegro | 9.03 | July 2012 est. |
+| 68 | Macedonia | 8.95 | July 2012 est. |
+| 69 | Saint Pierre and Miquelon | 8.92 | July 2012 est. |
+| 70 | France | 8.90 | July 2012 est. |
+| 71 | Spain | 8.88 | July 2012 est. |
+| 72 | Equatorial Guinea | 8.81 | July 2012 est. |
+| 73 | Western Sahara | 8.80 | July 2012 est. |
+| 74 | Benin | 8.79 | July 2012 est. |
+| 75 | Malta | 8.72 | July 2012 est. |
+| 76 | Faroe Islands | 8.67 | July 2012 est. |
+| 77 | Mauritania | 8.66 | July 2012 est. |
+| 78 | Tanzania | 8.60 | July 2012 est. |
+| 79 | Guernsey | 8.52 | July 2012 est. |
+| 80 | Monaco | 8.52 | July 2012 est. |
+| 81 | Kazakhstan | 8.52 | July 2012 est. |
+| 82 | Luxembourg | 8.50 | July 2012 est. |
+| 83 | Armenia | 8.49 | July 2012 est. |
+| 84 | United States | 8.40 | July 2012 est. |
+| 85 | Barbados | 8.39 | July 2012 est. |
+| 86 | Netherlands | 8.39 | July 2012 est. |
+| 87 | Trinidad and Tobago | 8.35 | July 2012 est. |
+| 88 | Sudan | 8.30 | July 2012 est. |
+| 89 | Gibraltar | 8.27 | July 2012 est. |
+| 90 | Greenland | 8.22 | July 2012 est. |
+| 91 | Comoros | 8.19 | July 2012 est. |
+| 92 | Burma | 8.10 | July 2012 est. |
+| 93 | Switzerland | 8.10 | July 2012 est. |
+| 94 | Haiti | 8.10 | July 2012 est. |
+| 95 | Canada | 8.09 | July 2012 est. |
+| 96 | Djibouti | 8.08 | July 2012 est. |
+| 97 | San Marino | 8.06 | July 2012 est. |
+| 98 | Dominica | 8.03 | July 2012 est. |
+| 99 | Curacao | 8.00 | 2009 |
+| 100 | Puerto Rico | 8.00 | July 2012 est. |
+| 101 | Laos | 7.99 | July 2012 est. |
+| 102 | Grenada | 7.98 | July 2012 est. |
+| 103 | Cambodia | 7.97 | July 2012 est. |
+| 104 | Sao Tome and Principe | 7.93 | July 2012 est. |
+| 105 | Eritrea | 7.92 | July 2012 est. |
+| 106 | Aruba | 7.92 | July 2012 est. |
+| 107 | Palau | 7.89 | July 2012 est. |
+| 108 | Togo | 7.78 | July 2012 est. |
+| 109 | Bermuda | 7.74 | July 2012 est. |
+| 110 | Ghana | 7.70 | July 2012 est. |
+| 111 | Virgin Islands | 7.70 | July 2012 est. |
+| 112 | Cook Islands | 7.61 | July 2012 est. |
+| 113 | Jersey | 7.56 | July 2012 est. |
+| 114 | Cuba | 7.52 | July 2012 est. |
+| 115 | Gambia, The | 7.50 | July 2012 est. |
+| 116 | India | 7.43 | July 2012 est. |
+| 117 | Thailand | 7.38 | July 2012 est. |
+| 118 | Argentina | 7.36 | July 2012 est. |
+| 119 | Kiribati | 7.31 | July 2012 est. |
+| 120 | Madagascar | 7.30 | July 2012 est. |
+| 121 | Kenya | 7.26 | July 2012 est. |
+| 122 | Hong Kong | 7.23 | July 2012 est. |
+| 123 | New Zealand | 7.20 | July 2012 est. |
+| 124 | Guyana | 7.18 | July 2012 est. |
+| 125 | China | 7.17 | July 2012 est. |
+| 126 | Azerbaijan | 7.13 | July 2012 est. |
+| 127 | Saint Lucia | 7.10 | July 2012 est. |
+| 128 | Saint Kitts and Nevis | 7.08 | July 2012 est. |
+| 129 | Iceland | 7.02 | July 2012 est. |
+| 130 | Saint Vincent and the Grenadines | 7.02 | July 2012 est. |
+| 131 | Saint Helena, Ascension, and Tristan da Cunha | 6.99 | July 2012 est. |
+| 132 | Bhutan | 6.99 | July 2012 est. |
+| 133 | Australia | 6.94 | July 2012 est. |
+| 134 | Bahamas, The | 6.91 | July 2012 est. |
+| 135 | Seychelles | 6.90 | July 2012 est. |
+| 136 | Kyrgyzstan | 6.90 | July 2012 est. |
+| 137 | Yemen | 6.82 | July 2012 est. |
+| 138 | Pakistan | 6.80 | July 2012 est. |
+| 139 | Liechtenstein | 6.78 | July 2012 est. |
+| 140 | Montserrat | 6.78 | July 2012 est. |
+| 141 | Bolivia | 6.76 | July 2012 est. |
+| 142 | Nepal | 6.75 | July 2012 est. |
+| 143 | Mauritius | 6.73 | July 2012 est. |
+| 144 | Taiwan | 6.70 | July 2012 est. |
+| 145 | Lebanon | 6.63 | July 2012 est. |
+| 146 | Jamaica | 6.59 | July 2012 est. |
+| 147 | Papua New Guinea | 6.56 | July 2012 est. |
+| 148 | Andorra | 6.52 | July 2012 est. |
+| 149 | Brazil | 6.50 | July 2012 est. |
+| 150 | Tajikistan | 6.49 | July 2012 est. |
+| 151 | Cyprus | 6.48 | July 2012 est. |
+| 152 | Timor-Leste | 6.40 | July 2012 est. |
+| 153 | Korea, South | 6.38 | July 2012 est. |
+| 154 | Ireland | 6.38 | July 2012 est. |
+| 155 | Indonesia | 6.30 | July 2012 est. |
+| 156 | Cape Verde | 6.28 | July 2012 est. |
+| 157 | Albania | 6.25 | July 2012 est. |
+| 158 | Turkmenistan | 6.21 | July 2012 est. |
+| 159 | Suriname | 6.17 | July 2012 est. |
+| 160 | Turkey | 6.10 | July 2012 est. |
+| 161 | Mongolia | 6.01 | July 2012 est. |
+| 162 | Nauru | 5.97 | July 2012 est. |
+| 163 | Sri Lanka | 5.96 | July 2012 est. |
+| 164 | Vietnam | 5.95 | July 2012 est. |
+| 165 | Peru | 5.95 | July 2012 est. |
+| 166 | Iran | 5.94 | July 2012 est. |
+| 167 | Fiji | 5.93 | July 2012 est. |
+| 168 | Belize | 5.91 | July 2012 est. |
+| 169 | Tunisia | 5.87 | July 2012 est. |
+| 170 | Chile | 5.80 | July 2012 est. |
+| 171 | Antigua and Barbuda | 5.72 | July 2012 est. |
+| 172 | Bangladesh | 5.71 | July 2012 est. |
+| 173 | El Salvador | 5.63 | July 2012 est. |
+| 174 | Israel | 5.50 | July 2012 est. |
+| 175 | Samoa | 5.34 | July 2012 est. |
+| 176 | New Caledonia | 5.34 | July 2012 est. |
+| 177 | Colombia | 5.29 | July 2012 est. |
+| 178 | Uzbekistan | 5.29 | July 2012 est. |
+| 179 | Venezuela | 5.20 | July 2012 est. |
+| 180 | Cayman Islands | 5.19 | July 2012 est. |
+| 181 | Honduras | 5.05 | July 2012 est. |
+| 182 | Nicaragua | 5.04 | July 2012 est. |
+| 183 | Ecuador | 5.01 | July 2012 est. |
+| 184 | Philippines | 4.98 | July 2012 est. |
+| 185 | Malaysia | 4.95 | July 2012 est. |
+| 186 | Guatemala | 4.92 | July 2012 est. |
+| 187 | Mexico | 4.90 | July 2012 est. |
+| 188 | Libya | 4.90 | July 2012 est. |
+| 189 | Guam | 4.90 | July 2012 est. |
+| 190 | Tonga | 4.88 | July 2012 est. |
+| 191 | British Virgin Islands | 4.82 | July 2012 est. |
+| 192 | Egypt | 4.80 | July 2012 est. |
+| 193 | Wallis and Futuna | 4.79 | July 2012 est. |
+| 194 | Morocco | 4.76 | July 2012 est. |
+| 195 | French Polynesia | 4.76 | July 2012 est. |
+| 196 | Iraq | 4.73 | July 2012 est. |
+| 197 | Panama | 4.69 | July 2012 est. |
+| 198 | American Samoa | 4.60 | July 2012 est. |
+| 199 | Paraguay | 4.59 | July 2012 est. |
+| 200 | Anguilla | 4.41 | July 2012 est. |
+| 201 | Dominican Republic | 4.41 | July 2012 est. |
+| 202 | Costa Rica | 4.38 | July 2012 est. |
+| 203 | Micronesia, Federated States of | 4.31 | July 2012 est. |
+| 204 | Marshall Islands | 4.31 | July 2012 est. |
+| 205 | Vanuatu | 4.30 | July 2012 est. |
+| 206 | Algeria | 4.30 | July 2012 est. |
+| 207 | Solomon Islands | 3.91 | July 2012 est. |
+| 208 | Macau | 3.85 | July 2012 est. |
+| 209 | Maldives | 3.76 | July 2012 est. |
+| 210 | Syria | 3.67 | July 2012 est. |
+| 211 | West Bank | 3.56 | July 2012 est. |
+| 212 | Oman | 3.42 | July 2012 est. |
+| 213 | Singapore | 3.41 | July 2012 est. |
+| 214 | Northern Mariana Islands | 3.40 | July 2012 est. |
+| 215 | Brunei | 3.39 | July 2012 est. |
+| 216 | Saudi Arabia | 3.32 | July 2012 est. |
+| 217 | Gaza Strip | 3.22 | July 2012 est. |
+| 218 | Turks and Caicos Islands | 3.00 | July 2012 est. |
+| 219 | Sint Maarten | 3.00 | 2009 |
+| 220 | Jordan | 2.74 | July 2012 est. |
+| 221 | Bahrain | 2.63 | July 2012 est. |
+| 222 | Kuwait | 2.13 | July 2012 est. |
+| 223 | United Arab Emirates | 2.04 | July 2012 est. |
+| 224 | Qatar | 1.55 | July 2012 est. |
+| 225 | Cocos (Keeling) Islands | -9.00 | NA |
+| 226 | Christmas Island | -9.00 | NA |
+| 227 | Niue | -9.00 | NA |
+| 228 | Tokelau | -9.00 | NA |
+| 229 | Pitcairn Islands | -9.00 | NA |
+| 230 | Svalbard | -9.00 | NA |
+| 231 | Norfolk Island | -9.00 | NA |

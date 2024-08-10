@@ -1,0 +1,29 @@
+Telephone Code: 721
+Local Emergency Phone - Ambulance: 912
+Local Emergency Phone - Fire: +1 721 545-4222 
+Local Emergency Phone - Police: 911
+Climate: Tropical marine climate, ameliorated by northeast trade winds, results in moderate temperatures; average rainfall of 150 cm/year; hurricane season stretches from July to November
+Currency (Code): Netherlands Antillean guilders (ANG)
+Electricity: 110 V
+Voltage: 50 Hz
+Plug types(s): A, B
+Major Languages: English, Spanish, Creole, Dutch, Papiamento (a Spanish-Portuguese-Dutch-English dialect), French
+Major Religions: Protestant 41.9%, Roman Catholic 33.1%, Hindu 5.2%, Christian 4.1%, Jehovah's Witness 1.7%, Evangelical 1.4%, Muslim/Jewish 1.1%
+Time Difference: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)
+Potable Water: Yes
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Maho Beach; Front Street; Mullet Bay; Yacht Club at Isle de Sol; Yoda Guy Movie Exhibit; Philipsburg Boardwalk
+Major Sports: Soccer, sailing, track and field, rugby
+Cultural Practices: Dutch is the official language but, as on the French side of the Island, English is commonplace.
+Tipping Guidelines: The Dutch side of the island follows the American style of tipping. Staff depends on tips and there is an expectation that the guest is adding 15% to the check for a tip.
+Souvenirs: Dutch porcelain, guavaberry products, flavored liqueurs and wine, spices, perfume, cosmetics
+Traditional Cuisine: Callaloo --- a thick soup made with greens, pork, onions, okra, thyme, and hot peppers
+
+---
+country: Sint Maarten
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Sint Maarten/travel-facts>
+license: public domain (U.S.)
+...

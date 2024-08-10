@@ -1,0 +1,8 @@
+The US annexed the reef in 1922. Its sheltered lagoon served as a way station for flying boats on Hawaii-to-American Samoa flights during the late 1930s. There are no terrestrial plants on the reef, which is frequently awash, but it does support abundant and diverse marine fauna and flora. In 2001, the waters surrounding the reef out to 12 nm were designated a US National Wildlife Refuge.  
+
+---
+country: Kingman Reef
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Kingman Reef/>
+license: public domain (U.S.)
+...

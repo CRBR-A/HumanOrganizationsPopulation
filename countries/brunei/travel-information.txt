@@ -1,0 +1,29 @@
+Telephone Code: 673
+Local Emergency Phone - Ambulance: 991
+Local Emergency Phone - Fire: 995
+Local Emergency Phone - Police: 993
+Climate: Tropical; hot, humid, rainy
+Currency (Code): Brunei dollars (BND)
+Electricity: 240 V
+Voltage: 50 Hz
+Plug types(s): G
+Major Languages: Malay, English, Chinese
+Major Religions: Muslim 78.8%, Christian 8.7%, Buddhist 7.8%
+Time Difference: UTC+8 (13 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Left
+Tourist Destinations: Muara Beach; Jerudong Park Playground; Gadong Night Market; Sultan Omar Ali Saifuddien Mosque; Ulu Temburong National Park; Royal Regalia Museum; Tasek Merimbun
+Major Sports: Soccer, basketball
+Cultural Practices: In Brunei, it is impolite to point with one's index finger; instead use the right thumb.
+Tipping Guidelines: Tipping is not customary. Large hotels and restaurants may add a 10% service charge to the bill. Taxi drivers do not expect tips.
+Souvenirs: Kris ceremonial daggers, native costumes and textiles, silver work, brass items, spices
+Traditional Cuisine: Ambuyat --- a starchy substance derived from the interior trunk of the sago palm, which is dipped into a variety of sauces
+
+---
+country: Brunei
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Brunei/travel-facts>
+license: public domain (U.S.)
+...

@@ -1,0 +1,12 @@
+Autonomy for Eswatini was guaranteed by the British in the late 19th century; independence was granted in 1968. A new constitution came into effect in 2006, which included provisions for a more independent parliament and judiciary, but the legal status of political parties remains unclear. King MSWATI III renamed the country from Swaziland to Eswatini in April 2018. Despite its classification as a lower-middle income country, Eswatini suffers from severe poverty and high unemployment. Eswatini has the world's highest HIV/AIDS prevalence rate, although recent years have shown marked declines in new infections.  
+Â   
+Â   
+Â   
+Â   
+
+---
+country: Eswatini
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Eswatini/>
+license: public domain (U.S.)
+...

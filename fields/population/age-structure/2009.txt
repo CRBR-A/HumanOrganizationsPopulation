@@ -1,0 +1,693 @@
+CIA - The World Factbook --  Age structure   
+
+This entry provides the distribution of the population according to age. Information is included by sex and age group (0-14 years, 15-64 years, 65 years and over). The age structure of a population affects a nation's key socioeconomic issues. Countries with young populations (high percentage under age 15) need to invest more in schools, while countries with older populations (high percentage ages 65 and over) need to invest more in the health sector. The age structure can also be used to help predict potential political issues. For example, the rapid growth of a young adult population unable to find employment can lead to unrest.
+
+| Rank | country | (%) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Northern Mariana Islands | 80.30 | 2009 est. |
+| 2 | United Arab Emirates | 78.70 | 2009 est. |
+| 3 | Qatar | 76.80 | 2009 est. |
+| 4 | Singapore | 76.70 | 2009 est. |
+| 5 | Macau | 76.20 | 2009 est. |
+| 6 | Hong Kong | 74.60 | 2009 est. |
+| 7 | British Virgin Islands | 74.40 | 2009 est. |
+| 8 | Maldives | 73.80 | 2009 est. |
+| 9 | Moldova | 73.30 | 2009 est. |
+| 10 | Iran | 72.90 | 2009 est. |
+| 11 | Trinidad and Tobago | 72.60 | 2009 est. |
+| 12 | Taiwan | 72.60 | 2009 est. |
+| 13 | Korea, South | 72.30 | 2009 est. |
+| 14 | Andorra | 72.20 | 2009 est. |
+| 15 | China | 72.10 | 2009 est. |
+| 16 | Slovakia | 71.70 | 2009 est. |
+| 17 | Poland | 71.60 | 2009 est. |
+| 18 | Russia | 71.50 | 2009 est. |
+| 19 | Barbados | 71.30 | 2009 est. |
+| 20 | Belarus | 71.30 | 2009 est. |
+| 21 | Armenia | 71.10 | 2009 est. |
+| 22 | Cayman Islands | 71.10 | 2009 est. |
+| 23 | Czech Republic | 71.00 | 2009 est. |
+| 24 | Palau | 70.80 | 2009 est. |
+| 25 | Bosnia and Herzegovina | 70.70 | 2009 est. |
+| 26 | Kuwait | 70.70 | 2009 est. |
+| 27 | Saint Barthelemy | 70.60 | 2009 est. |
+| 28 | Thailand | 70.50 | 2009 est. |
+| 29 | Cuba | 70.40 | 2009 est. |
+| 30 | Mauritius | 70.40 | 2009 est. |
+| 31 | Saint Helena | 70.40 | 2009 est. |
+| 32 | Aruba | 70.30 | 2009 est. |
+| 33 | Montenegro | 70.30 | 2009 est. |
+| 34 | Ukraine | 70.30 | 2009 est. |
+| 35 | Bahrain | 70.20 | 2009 est. |
+| 36 | Kazakhstan | 70.20 | 2009 est. |
+| 37 | Brunei | 70.10 | 2009 est. |
+| 38 | Greenland | 70.10 | 2009 est. |
+| 39 | Tunisia | 70.10 | 2009 est. |
+| 40 | Seychelles | 70.10 | 2009 est. |
+| 41 | Slovenia | 69.90 | 2009 est. |
+| 42 | Romania | 69.70 | 2009 est. |
+| 43 | Latvia | 69.60 | 2009 est. |
+| 44 | Lithuania | 69.60 | 2009 est. |
+| 45 | Algeria | 69.50 | 2009 est. |
+| 46 | Azerbaijan | 69.40 | 2009 est. |
+| 47 | Liechtenstein | 69.40 | 2009 est. |
+| 48 | Vietnam | 69.40 | 2009 est. |
+| 49 | Malta | 69.40 | 2009 est. |
+| 50 | Macedonia | 69.40 | 2009 est. |
+| 51 | Korea, North | 69.40 | 2009 est. |
+| 52 | Burma | 69.30 | 2009 est. |
+| 53 | Hungary | 69.30 | 2009 est. |
+| 54 | French Polynesia | 68.90 | 2009 est. |
+| 55 | Canada | 68.70 | 2009 est. |
+| 56 | Guyana | 68.70 | 2009 est. |
+| 57 | Bulgaria | 68.50 | 2009 est. |
+| 58 | Cyprus | 68.50 | 2009 est. |
+| 59 | Switzerland | 68.10 | 2009 est. |
+| 60 | Sri Lanka | 68.00 | 2009 est. |
+| 61 | Australia | 67.90 | 2009 est. |
+| 62 | Mongolia | 67.90 | 2009 est. |
+| 63 | Anguilla | 67.80 | 2009 est. |
+| 64 | Chile | 67.80 | 2009 est. |
+| 65 | Serbia | 67.80 | 2009 est. |
+| 66 | Jersey | 67.70 | 2009 est. |
+| 67 | Netherlands | 67.70 | 2009 est. |
+| 68 | Netherlands Antilles | 67.70 | 2009 est. |
+| 69 | Georgia | 67.60 | 2009 est. |
+| 70 | Austria | 67.50 | 2009 est. |
+| 71 | Croatia | 67.50 | 2009 est. |
+| 72 | Guernsey | 67.50 | 2009 est. |
+| 73 | Saint Martin | 67.50 | 2009 est. |
+| 74 | Estonia | 67.50 | 2009 est. |
+| 75 | Bermuda | 67.50 | 2009 est. |
+| 76 | Spain | 67.40 | 2009 est. |
+| 77 | European Union | 67.22 | 2009 est. |
+| 78 | Bahamas, The | 67.20 | 2009 est. |
+| 79 | Albania | 67.10 | 2009 est. |
+| 80 | Costa Rica | 67.10 | 2009 est. |
+| 81 | Lebanon | 67.10 | 2009 est. |
+| 82 | Iceland | 67.10 | 2009 est. |
+| 83 | United Kingdom | 67.10 | 2009 est. |
+| 84 | Ireland | 67.10 | 2009 est. |
+| 85 | United States | 67.00 | 2009 est. |
+| 86 | Uzbekistan | 67.00 | 2009 est. |
+| 87 | Gibraltar | 66.90 | 2009 est. |
+| 88 | Turkmenistan | 66.90 | 2009 est. |
+| 89 | Brazil | 66.80 | 2009 est. |
+| 90 | Finland | 66.80 | 2009 est. |
+| 91 | Luxembourg | 66.70 | 2009 est. |
+| 92 | Turkey | 66.70 | 2009 est. |
+| 93 | Antigua and Barbuda | 66.60 | 2009 est. |
+| 94 | Greece | 66.60 | 2009 est. |
+| 95 | Suriname | 66.60 | 2009 est. |
+| 96 | New Zealand | 66.50 | 2009 est. |
+| 97 | Saint Pierre and Miquelon | 66.50 | 2009 est. |
+| 98 | Saint Lucia | 66.40 | 2009 est. |
+| 99 | Saint Vincent and the Grenadines | 66.40 | 2009 est. |
+| 100 | Belgium | 66.30 | 2009 est. |
+| 101 | Wallis and Futuna | 66.30 | 2009 est. |
+| 102 | Italy | 66.30 | 2009 est. |
+| 103 | Norway | 66.20 | 2009 est. |
+| 104 | Germany | 66.10 | 2009 est. |
+| 105 | Portugal | 66.10 | 2009 est. |
+| 106 | Indonesia | 66.00 | 2009 est. |
+| 107 | Puerto Rico | 66.00 | 2009 est. |
+| 108 | Isle of Man | 66.00 | 2009 est. |
+| 109 | Saint Kitts and Nevis | 65.90 | 2009 est. |
+| 110 | Virgin Islands | 65.90 | 2009 est. |
+| 111 | Denmark | 65.80 | 2009 est. |
+| 112 | New Caledonia | 65.80 | 2009 est. |
+| 113 | South Africa | 65.80 | 2009 est. |
+| 114 | Dominica | 65.80 | 2009 est. |
+| 115 | San Marino | 65.80 | 2009 est. |
+| 116 | Kosovo | 65.70 | 2009 est. |
+| 117 | Turks and Caicos Islands | 65.60 | 2009 est. |
+| 118 | Tuvalu | 65.60 | 2009 est. |
+| 119 | Montserrat | 65.50 | 2009 est. |
+| 120 | Sweden | 65.50 | 2009 est. |
+| 121 | Colombia | 65.40 | 2009 est. |
+| 122 | Vanuatu | 65.30 | 2009 est. |
+| 123 | Grenada | 65.20 | 2009 est. |
+| 124 | Peru | 65.20 | 2009 est. |
+| 125 | France | 65.00 | 2009 est. |
+| 126 | Fiji | 64.90 | 2009 est. |
+| 127 | Morocco | 64.70 | 2009 est. |
+| 128 | Mexico | 64.60 | 2009 est. |
+| 129 | Jordan | 64.50 | 2009 est. |
+| 130 | Kyrgyzstan | 64.50 | 2009 est. |
+| 131 | Bhutan | 64.30 | 2009 est. |
+| 132 | Japan | 64.30 | 2009 est. |
+| 133 | Venezuela | 64.30 | 2009 est. |
+| 134 | Uruguay | 64.30 | 2009 est. |
+| 135 | Faroe Islands | 64.00 | 2009 est. |
+| 136 | Norfolk Island | 63.90 | 2009 est. |
+| 137 | Panama | 63.90 | 2009 est. |
+| 138 | Cambodia | 63.80 | 2009 est. |
+| 139 | Egypt | 63.80 | 2009 est. |
+| 140 | Cook Islands | 63.70 | 2009 est. |
+| 141 | India | 63.60 | 2009 est. |
+| 142 | Malaysia | 63.60 | 2009 est. |
+| 143 | Argentina | 63.50 | 2009 est. |
+| 144 | Nauru | 63.20 | 2009 est. |
+| 145 | Nicaragua | 62.90 | 2009 est. |
+| 146 | Tonga | 62.90 | 2009 est. |
+| 147 | American Samoa | 62.70 | 2009 est. |
+| 148 | Ecuador | 62.70 | 2009 est. |
+| 149 | Libya | 62.70 | 2009 est. |
+| 150 | Dominican Republic | 62.70 | 2009 est. |
+| 151 | Monaco | 62.40 | 2009 est. |
+| 152 | Micronesia, Federated States of | 62.30 | 2009 est. |
+| 153 | Israel | 62.30 | 2009 est. |
+| 154 | Tajikistan | 62.10 | 2009 est. |
+| 155 | Timor-Leste | 61.90 | 2009 est. |
+| 156 | Botswana | 61.40 | 2009 est. |
+| 157 | Bangladesh | 61.40 | 2009 est. |
+| 158 | Jamaica | 61.10 | 2009 est. |
+| 159 | Syria | 60.80 | 2009 est. |
+| 160 | Philippines | 60.60 | 2009 est. |
+| 161 | Lesotho | 60.20 | 2009 est. |
+| 162 | Namibia | 60.20 | 2009 est. |
+| 163 | Bolivia | 60.00 | 2009 est. |
+| 164 | Saudi Arabia | 59.50 | 2009 est. |
+| 165 | El Salvador | 59.30 | 2009 est. |
+| 166 | Nepal | 59.20 | 2009 est. |
+| 167 | Ghana | 59.10 | 2009 est. |
+| 168 | West Bank | 59.10 | 2009 est. |
+| 169 | Kiribati | 59.00 | 2009 est. |
+| 170 | Papua New Guinea | 59.00 | 2009 est. |
+| 171 | Belize | 58.60 | 2009 est. |
+| 172 | Pakistan | 58.60 | 2009 est. |
+| 173 | Cape Verde | 58.50 | 2009 est. |
+| 174 | Haiti | 58.50 | 2009 est. |
+| 175 | Marshall Islands | 58.50 | 2009 est. |
+| 176 | Honduras | 58.30 | 2009 est. |
+| 177 | Iraq | 58.20 | 2009 est. |
+| 178 | Paraguay | 58.10 | 2009 est. |
+| 179 | Solomon Islands | 57.10 | 2009 est. |
+| 180 | Swaziland | 56.90 | 2009 est. |
+| 181 | Guatemala | 56.80 | 2009 est. |
+| 182 | Sudan | 56.80 | 2009 est. |
+| 183 | Samoa | 56.70 | 2009 est. |
+| 184 | Cote d'Ivoire | 56.60 | 2009 est. |
+| 185 | Laos | 56.10 | 2009 est. |
+| 186 | Guinea-Bissau | 56.10 | 2009 est. |
+| 187 | Cameroon | 55.90 | 2009 est. |
+| 188 | Mauritania | 55.70 | 2009 est. |
+| 189 | Togo | 55.70 | 2009 est. |
+| 190 | Nigeria | 55.50 | 2009 est. |
+| 191 | Rwanda | 55.40 | 2009 est. |
+| 192 | Kenya | 55.10 | 2009 est. |
+| 193 | Central African Republic | 55.00 | 2009 est. |
+| 194 | Comoros | 54.80 | 2009 est. |
+| 195 | Senegal | 54.80 | 2009 est. |
+| 196 | Oman | 54.50 | 2009 est. |
+| 197 | Tanzania | 54.10 | 2009 est. |
+| 198 | Equatorial Guinea | 54.00 | 2009 est. |
+| 199 | Gabon | 53.90 | 2009 est. |
+| 200 | Angola | 53.70 | 2009 est. |
+| 201 | Guinea | 53.70 | 2009 est. |
+| 202 | Eritrea | 53.70 | 2009 est. |
+| 203 | Gambia, The | 53.60 | 2009 est. |
+| 204 | Madagascar | 53.50 | 2009 est. |
+| 205 | Afghanistan | 53.00 | 2009 est. |
+| 206 | Djibouti | 53.00 | 2009 est. |
+| 207 | Liberia | 53.00 | 2009 est. |
+| 208 | Gaza Strip | 53.00 | 2009 est. |
+| 209 | Tokelau | 53.00 | 2009 est. |
+| 210 | Mayotte | 52.90 | 2009 est. |
+| 211 | Mozambique | 52.80 | 2009 est. |
+| 212 | Western Sahara | 52.80 | 2009 est. |
+| 213 | Somalia | 52.60 | 2009 est. |
+| 214 | Zambia | 52.60 | 2009 est. |
+| 215 | Sierra Leone | 52.20 | 2009 est. |
+| 216 | Zimbabwe | 52.20 | 2009 est. |
+| 217 | Benin | 52.10 | 2009 est. |
+| 218 | Malawi | 51.50 | 2009 est. |
+| 219 | Burundi | 51.30 | 2009 est. |
+| 220 | Yemen | 51.30 | 2009 est. |
+| 221 | Burkina Faso | 51.30 | 2009 est. |
+| 222 | Congo, Republic of the | 51.20 | 2009 est. |
+| 223 | Ethiopia | 51.20 | 2009 est. |
+| 224 | Congo, Democratic Republic of the | 50.60 | 2009 est. |
+| 225 | Chad | 50.40 | 2009 est. |
+| 226 | Uganda | 50.00 | 2009 est. |
+| 227 | Sao Tome and Principe | 49.70 | 2009 est. |
+| 228 | Niger | 49.60 | 2009 est. |
+| 229 | Mali | 48.70 | 2009 est. |
+| 230 | Mali | 48.30 | 2009 est. |
+| 231 | Niger | 48.00 | 2009 est. |
+| 232 | Uganda | 47.90 | 2009 est. |
+| 233 | Congo, Democratic Republic of the | 46.90 | 2009 est. |
+| 234 | Sao Tome and Principe | 46.90 | 2009 est. |
+| 235 | Chad | 46.70 | 2009 est. |
+| 236 | Burundi | 46.20 | 2009 est. |
+| 237 | Burkina Faso | 46.20 | 2009 est. |
+| 238 | Yemen | 46.20 | 2009 est. |
+| 239 | Ethiopia | 46.10 | 2009 est. |
+| 240 | Congo, Republic of the | 45.90 | 2009 est. |
+| 241 | Malawi | 45.80 | 2009 est. |
+| 242 | Mayotte | 45.30 | 2009 est. |
+| 243 | Benin | 45.20 | 2009 est. |
+| 244 | Zambia | 45.10 | 2009 est. |
+| 245 | Somalia | 45.00 | 2009 est. |
+| 246 | Western Sahara | 44.90 | 2009 est. |
+| 247 | Afghanistan | 44.50 | 2009 est. |
+| 248 | Sierra Leone | 44.50 | 2009 est. |
+| 249 | Gaza Strip | 44.40 | 2009 est. |
+| 250 | Mozambique | 44.30 | 2009 est. |
+| 251 | Liberia | 44.10 | 2009 est. |
+| 252 | Zimbabwe | 43.90 | 2009 est. |
+| 253 | Gambia, The | 43.60 | 2009 est. |
+| 254 | Angola | 43.50 | 2009 est. |
+| 255 | Madagascar | 43.50 | 2009 est. |
+| 256 | Djibouti | 43.30 | 2009 est. |
+| 257 | Tanzania | 43.00 | 2009 est. |
+| 258 | Eritrea | 42.80 | 2009 est. |
+| 259 | Guinea | 42.80 | 2009 est. |
+| 260 | Oman | 42.70 | 2009 est. |
+| 261 | Kenya | 42.30 | 2009 est. |
+| 262 | Comoros | 42.20 | 2009 est. |
+| 263 | Senegal | 42.20 | 2009 est. |
+| 264 | Gabon | 42.10 | 2009 est. |
+| 265 | Rwanda | 42.10 | 2009 est. |
+| 266 | Tokelau | 42.00 | 2009 est. |
+| 267 | Equatorial Guinea | 41.90 | 2009 est. |
+| 268 | Nigeria | 41.50 | 2009 est. |
+| 269 | Togo | 41.50 | 2009 est. |
+| 270 | Mauritania | 41.00 | 2009 est. |
+| 271 | Cameroon | 40.90 | 2009 est. |
+| 272 | Central African Republic | 40.90 | 2009 est. |
+| 273 | Laos | 40.80 | 2009 est. |
+| 274 | Guinea-Bissau | 40.80 | 2009 est. |
+| 275 | Sudan | 40.70 | 2009 est. |
+| 276 | Cote d'Ivoire | 40.60 | 2009 est. |
+| 277 | Solomon Islands | 39.50 | 2009 est. |
+| 278 | Guatemala | 39.40 | 2009 est. |
+| 279 | Swaziland | 39.40 | 2009 est. |
+| 280 | Iraq | 38.80 | 2009 est. |
+| 281 | Marshall Islands | 38.60 | 2009 est. |
+| 282 | Haiti | 38.10 | 2009 est. |
+| 283 | Honduras | 38.10 | 2009 est. |
+| 284 | Saudi Arabia | 38.00 | 2009 est. |
+| 285 | Belize | 37.90 | 2009 est. |
+| 286 | Kiribati | 37.60 | 2009 est. |
+| 287 | Samoa | 37.60 | 2009 est. |
+| 288 | Ghana | 37.30 | 2009 est. |
+| 289 | West Bank | 37.30 | 2009 est. |
+| 290 | Pakistan | 37.20 | 2009 est. |
+| 291 | Papua New Guinea | 36.90 | 2009 est. |
+| 292 | Paraguay | 36.70 | 2009 est. |
+| 293 | Nepal | 36.60 | 2009 est. |
+| 294 | Syria | 35.90 | 2009 est. |
+| 295 | Namibia | 35.90 | 2009 est. |
+| 296 | Bolivia | 35.50 | 2009 est. |
+| 297 | El Salvador | 35.40 | 2009 est. |
+| 298 | Cape Verde | 35.20 | 2009 est. |
+| 299 | Philippines | 35.20 | 2009 est. |
+| 300 | Botswana | 34.80 | 2009 est. |
+| 301 | Lesotho | 34.80 | 2009 est. |
+| 302 | Micronesia, Federated States of | 34.80 | 2009 est. |
+| 303 | Nauru | 34.70 | 2009 est. |
+| 304 | Timor-Leste | 34.70 | 2009 est. |
+| 305 | Bangladesh | 34.60 | 2009 est. |
+| 306 | Tajikistan | 34.30 | 2009 est. |
+| 307 | Nicaragua | 33.80 | 2009 est. |
+| 308 | American Samoa | 33.40 | 2009 est. |
+| 309 | Libya | 33.00 | 2009 est. |
+| 310 | Tonga | 32.80 | 2009 est. |
+| 311 | Cambodia | 32.60 | 2009 est. |
+| 312 | Grenada | 32.00 | 2009 est. |
+| 313 | Dominican Republic | 31.40 | 2009 est. |
+| 314 | Egypt | 31.40 | 2009 est. |
+| 315 | Jamaica | 31.40 | 2009 est. |
+| 316 | Malaysia | 31.40 | 2009 est. |
+| 317 | Jordan | 31.30 | 2009 est. |
+| 318 | Ecuador | 31.10 | 2009 est. |
+| 319 | India | 31.10 | 2009 est. |
+| 320 | Vanuatu | 30.70 | 2009 est. |
+| 321 | Venezuela | 30.50 | 2009 est. |
+| 322 | Fiji | 30.30 | 2009 est. |
+| 323 | Bhutan | 30.20 | 2009 est. |
+| 324 | Turks and Caicos Islands | 30.20 | 2009 est. |
+| 325 | Morocco | 30.00 | 2009 est. |
+| 326 | Kyrgyzstan | 29.70 | 2009 est. |
+| 327 | Panama | 29.30 | 2009 est. |
+| 328 | Tuvalu | 29.20 | 2009 est. |
+| 329 | Mexico | 29.10 | 2009 est. |
+| 330 | Peru | 29.10 | 2009 est. |
+| 331 | Colombia | 28.90 | 2009 est. |
+| 332 | South Africa | 28.90 | 2009 est. |
+| 333 | Turkmenistan | 28.90 | 2009 est. |
+| 334 | Indonesia | 28.10 | 2009 est. |
+| 335 | Uzbekistan | 28.10 | 2009 est. |
+| 336 | Mongolia | 28.10 | 2009 est. |
+| 337 | Israel | 27.90 | 2009 est. |
+| 338 | Kosovo | 27.70 | 2009 est. |
+| 339 | Montserrat | 27.60 | 2009 est. |
+| 340 | Turkey | 27.20 | 2009 est. |
+| 341 | Cook Islands | 27.10 | 2009 est. |
+| 342 | Suriname | 27.10 | 2009 est. |
+| 343 | Saint Martin | 27.00 | 2009 est. |
+| 344 | Antigua and Barbuda | 26.80 | 2009 est. |
+| 345 | New Caledonia | 26.80 | 2009 est. |
+| 346 | Brazil | 26.70 | 2009 est. |
+| 347 | Costa Rica | 26.70 | 2009 est. |
+| 348 | Wallis and Futuna | 26.70 | 2009 est. |
+| 349 | Brunei | 26.60 | 2009 est. |
+| 350 | Kuwait | 26.40 | 2009 est. |
+| 351 | Saint Kitts and Nevis | 26.30 | 2009 est. |
+| 352 | Bahrain | 25.90 | 2009 est. |
+| 353 | Bahamas, The | 25.90 | 2009 est. |
+| 354 | Saint Vincent and the Grenadines | 25.90 | 2009 est. |
+| 355 | Lebanon | 25.80 | 2009 est. |
+| 356 | Guyana | 25.70 | 2009 est. |
+| 357 | Argentina | 25.60 | 2009 est. |
+| 358 | Algeria | 25.40 | 2009 est. |
+| 359 | Burma | 25.30 | 2009 est. |
+| 360 | Vietnam | 24.90 | 2009 est. |
+| 361 | Anguilla | 24.50 | 2009 est. |
+| 362 | Saint Lucia | 24.40 | 2009 est. |
+| 363 | French Polynesia | 24.30 | 2009 est. |
+| 364 | Dominica | 24.00 | 2009 est. |
+| 365 | Azerbaijan | 23.90 | 2009 est. |
+| 366 | Sri Lanka | 23.90 | 2009 est. |
+| 367 | Chile | 23.20 | 2009 est. |
+| 368 | Albania | 23.10 | 2009 est. |
+| 369 | Greenland | 23.00 | 2009 est. |
+| 370 | Monaco | 23.00 | 2009 est. |
+| 371 | Palau | 22.90 | 2009 est. |
+| 372 | Seychelles | 22.80 | 2009 est. |
+| 373 | Netherlands Antilles | 22.70 | 2009 est. |
+| 374 | Tunisia | 22.70 | 2009 est. |
+| 375 | Mauritius | 22.50 | 2009 est. |
+| 376 | Uruguay | 22.40 | 2009 est. |
+| 377 | Maldives | 22.30 | 2009 est. |
+| 378 | Japan | 22.20 | 2009 est. |
+| 379 | Saint Pierre and Miquelon | 21.90 | 2009 est. |
+| 380 | Kazakhstan | 21.80 | 2009 est. |
+| 381 | Qatar | 21.80 | 2009 est. |
+| 382 | Iran | 21.70 | 2009 est. |
+| 383 | Faroe Islands | 21.60 | 2009 est. |
+| 384 | Korea, North | 21.30 | 2009 est. |
+| 385 | Ireland | 20.90 | 2009 est. |
+| 386 | Thailand | 20.80 | 2009 est. |
+| 387 | Iceland | 20.70 | 2009 est. |
+| 388 | New Zealand | 20.70 | 2009 est. |
+| 389 | United Arab Emirates | 20.40 | 2009 est. |
+| 390 | Virgin Islands | 20.40 | 2009 est. |
+| 391 | Germany | 20.30 | 2009 est. |
+| 392 | Italy | 20.20 | 2009 est. |
+| 393 | United States | 20.20 | 2009 est. |
+| 394 | Norfolk Island | 20.20 | 2009 est. |
+| 395 | Puerto Rico | 19.90 | 2009 est. |
+| 396 | China | 19.80 | 2009 est. |
+| 397 | British Virgin Islands | 19.80 | 2009 est. |
+| 398 | Cayman Islands | 19.60 | 2009 est. |
+| 399 | Trinidad and Tobago | 19.60 | 2009 est. |
+| 400 | Barbados | 19.20 | 2009 est. |
+| 401 | Greece | 19.20 | 2009 est. |
+| 402 | Macedonia | 19.20 | 2009 est. |
+| 403 | Saint Barthelemy | 19.20 | 2009 est. |
+| 404 | Aruba | 19.10 | 2009 est. |
+| 405 | Cyprus | 19.10 | 2009 est. |
+| 406 | Sweden | 18.80 | 2009 est. |
+| 407 | Australia | 18.60 | 2009 est. |
+| 408 | France | 18.60 | 2009 est. |
+| 409 | Luxembourg | 18.50 | 2009 est. |
+| 410 | Norway | 18.50 | 2009 est. |
+| 411 | Bermuda | 18.30 | 2009 est. |
+| 412 | Cuba | 18.30 | 2009 est. |
+| 413 | Saint Helena | 18.30 | 2009 est. |
+| 414 | Armenia | 18.20 | 2009 est. |
+| 415 | Denmark | 18.10 | 2009 est. |
+| 416 | Spain | 18.10 | 2009 est. |
+| 417 | Guernsey | 18.10 | 2009 est. |
+| 418 | Austria | 18.00 | 2009 est. |
+| 419 | Northern Mariana Islands | 18.00 | 2009 est. |
+| 420 | Bulgaria | 17.70 | 2009 est. |
+| 421 | Belgium | 17.60 | 2009 est. |
+| 422 | Estonia | 17.60 | 2009 est. |
+| 423 | Portugal | 17.60 | 2009 est. |
+| 424 | Netherlands | 17.40 | 2009 est. |
+| 425 | San Marino | 17.40 | 2009 est. |
+| 426 | European Union | 17.34 | 2009 est. |
+| 427 | Isle of Man | 17.10 | 2009 est. |
+| 428 | Croatia | 17.00 | 2009 est. |
+| 429 | Latvia | 17.00 | 2009 est. |
+| 430 | Isle of Man | 16.90 | 2009 est. |
+| 431 | Finland | 16.80 | 2009 est. |
+| 432 | Serbia | 16.80 | 2009 est. |
+| 433 | San Marino | 16.80 | 2009 est. |
+| 434 | Korea, South | 16.80 | 2009 est. |
+| 435 | Gibraltar | 16.70 | 2009 est. |
+| 436 | United Kingdom | 16.70 | 2009 est. |
+| 437 | Taiwan | 16.70 | 2009 est. |
+| 438 | Liechtenstein | 16.60 | 2009 est. |
+| 439 | Gibraltar | 16.50 | 2009 est. |
+| 440 | Slovenia | 16.50 | 2009 est. |
+| 441 | Finland | 16.40 | 2009 est. |
+| 442 | France | 16.40 | 2009 est. |
+| 443 | Georgia | 16.40 | 2009 est. |
+| 444 | Jersey | 16.30 | 2009 est. |
+| 445 | Switzerland | 16.30 | 2009 est. |
+| 446 | Portugal | 16.30 | 2009 est. |
+| 447 | Lithuania | 16.20 | 2009 est. |
+| 448 | United Kingdom | 16.20 | 2009 est. |
+| 449 | Belgium | 16.10 | 2009 est. |
+| 450 | Denmark | 16.10 | 2009 est. |
+| 451 | Jersey | 16.10 | 2009 est. |
+| 452 | Macau | 16.10 | 2009 est. |
+| 453 | Malta | 16.10 | 2009 est. |
+| 454 | Georgia | 16.10 | 2009 est. |
+| 455 | Canada | 16.10 | 2009 est. |
+| 456 | Montenegro | 16.00 | 2009 est. |
+| 457 | Moldova | 15.90 | 2009 est. |
+| 458 | Norfolk Island | 15.90 | 2009 est. |
+| 459 | Ukraine | 15.90 | 2009 est. |
+| 460 | Hungary | 15.80 | 2009 est. |
+| 461 | Slovakia | 15.80 | 2009 est. |
+| 462 | Sweden | 15.70 | 2009 est. |
+| 463 | Croatia | 15.60 | 2009 est. |
+| 464 | Switzerland | 15.60 | 2009 est. |
+| 465 | Andorra | 15.50 | 2009 est. |
+| 466 | Romania | 15.50 | 2009 est. |
+| 467 | Czech Republic | 15.50 | 2009 est. |
+| 468 | European Union | 15.44 | 2009 est. |
+| 469 | Serbia | 15.40 | 2009 est. |
+| 470 | Canada | 15.20 | 2009 est. |
+| 471 | Norway | 15.20 | 2009 est. |
+| 472 | Hungary | 15.00 | 2009 est. |
+| 473 | Poland | 15.00 | 2009 est. |
+| 474 | Estonia | 14.90 | 2009 est. |
+| 475 | Netherlands | 14.90 | 2009 est. |
+| 476 | Bosnia and Herzegovina | 14.80 | 2009 est. |
+| 477 | Luxembourg | 14.80 | 2009 est. |
+| 478 | Russia | 14.80 | 2009 est. |
+| 479 | Romania | 14.70 | 2009 est. |
+| 480 | Monaco | 14.60 | 2009 est. |
+| 481 | Austria | 14.50 | 2009 est. |
+| 482 | Belarus | 14.50 | 2009 est. |
+| 483 | Spain | 14.50 | 2009 est. |
+| 484 | Malta | 14.50 | 2009 est. |
+| 485 | Bosnia and Herzegovina | 14.50 | 2009 est. |
+| 486 | Faroe Islands | 14.40 | 2009 est. |
+| 487 | Guernsey | 14.40 | 2009 est. |
+| 488 | Singapore | 14.40 | 2009 est. |
+| 489 | Belarus | 14.30 | 2009 est. |
+| 490 | Greece | 14.30 | 2009 est. |
+| 491 | Bermuda | 14.20 | 2009 est. |
+| 492 | Lithuania | 14.20 | 2009 est. |
+| 493 | Puerto Rico | 14.10 | 2009 est. |
+| 494 | Liechtenstein | 13.90 | 2009 est. |
+| 495 | Bulgaria | 13.80 | 2009 est. |
+| 496 | Ukraine | 13.80 | 2009 est. |
+| 497 | Germany | 13.70 | 2009 est. |
+| 498 | Russia | 13.70 | 2009 est. |
+| 499 | Montenegro | 13.70 | 2009 est. |
+| 500 | Czech Republic | 13.60 | 2009 est. |
+| 501 | Virgin Islands | 13.60 | 2009 est. |
+| 502 | Australia | 13.50 | 2009 est. |
+| 503 | Italy | 13.50 | 2009 est. |
+| 504 | Slovenia | 13.50 | 2009 est. |
+| 505 | Japan | 13.50 | 2009 est. |
+| 506 | Poland | 13.40 | 2009 est. |
+| 507 | Latvia | 13.30 | 2009 est. |
+| 508 | Uruguay | 13.30 | 2009 est. |
+| 509 | Hong Kong | 13.10 | 2009 est. |
+| 510 | New Zealand | 12.80 | 2009 est. |
+| 511 | United States | 12.80 | 2009 est. |
+| 512 | Slovakia | 12.50 | 2009 est. |
+| 513 | Andorra | 12.30 | 2009 est. |
+| 514 | Cyprus | 12.30 | 2009 est. |
+| 515 | Hong Kong | 12.20 | 2009 est. |
+| 516 | Iceland | 12.20 | 2009 est. |
+| 517 | Ireland | 12.00 | 2009 est. |
+| 518 | Saint Pierre and Miquelon | 11.60 | 2009 est. |
+| 519 | Macedonia | 11.40 | 2009 est. |
+| 520 | Saint Helena | 11.40 | 2009 est. |
+| 521 | Cuba | 11.20 | 2009 est. |
+| 522 | Argentina | 10.80 | 2009 est. |
+| 523 | Korea, South | 10.80 | 2009 est. |
+| 524 | Moldova | 10.80 | 2009 est. |
+| 525 | Taiwan | 10.70 | 2009 est. |
+| 526 | Aruba | 10.60 | 2009 est. |
+| 527 | Armenia | 10.60 | 2009 est. |
+| 528 | Dominica | 10.20 | 2009 est. |
+| 529 | Saint Barthelemy | 10.20 | 2009 est. |
+| 530 | Israel | 9.90 | 2009 est. |
+| 531 | Albania | 9.80 | 2009 est. |
+| 532 | Netherlands Antilles | 9.60 | 2009 est. |
+| 533 | Barbados | 9.50 | 2009 est. |
+| 534 | Korea, North | 9.40 | 2009 est. |
+| 535 | Cayman Islands | 9.30 | 2009 est. |
+| 536 | Cook Islands | 9.20 | 2009 est. |
+| 537 | Saint Lucia | 9.20 | 2009 est. |
+| 538 | Chile | 9.10 | 2009 est. |
+| 539 | Singapore | 8.90 | 2009 est. |
+| 540 | Thailand | 8.70 | 2009 est. |
+| 541 | Sri Lanka | 8.10 | 2009 est. |
+| 542 | China | 8.10 | 2009 est. |
+| 543 | Kazakhstan | 7.90 | 2009 est. |
+| 544 | Trinidad and Tobago | 7.90 | 2009 est. |
+| 545 | Saint Kitts and Nevis | 7.90 | 2009 est. |
+| 546 | Saint Vincent and the Grenadines | 7.80 | 2009 est. |
+| 547 | Anguilla | 7.70 | 2009 est. |
+| 548 | Macau | 7.70 | 2009 est. |
+| 549 | Jamaica | 7.50 | 2009 est. |
+| 550 | New Caledonia | 7.30 | 2009 est. |
+| 551 | Lebanon | 7.20 | 2009 est. |
+| 552 | Tunisia | 7.20 | 2009 est. |
+| 553 | Mauritius | 7.10 | 2009 est. |
+| 554 | Seychelles | 7.10 | 2009 est. |
+| 555 | Wallis and Futuna | 7.10 | 2009 est. |
+| 556 | Bahamas, The | 6.90 | 2009 est. |
+| 557 | Greenland | 6.90 | 2009 est. |
+| 558 | Montserrat | 6.90 | 2009 est. |
+| 559 | French Polynesia | 6.80 | 2009 est. |
+| 560 | Panama | 6.80 | 2009 est. |
+| 561 | Azerbaijan | 6.70 | 2009 est. |
+| 562 | Antigua and Barbuda | 6.60 | 2009 est. |
+| 563 | Kosovo | 6.60 | 2009 est. |
+| 564 | Brazil | 6.40 | 2009 est. |
+| 565 | Cape Verde | 6.40 | 2009 est. |
+| 566 | Suriname | 6.30 | 2009 est. |
+| 567 | Costa Rica | 6.20 | 2009 est. |
+| 568 | Mexico | 6.20 | 2009 est. |
+| 569 | Palau | 6.20 | 2009 est. |
+| 570 | Ecuador | 6.20 | 2009 est. |
+| 571 | Turkey | 6.10 | 2009 est. |
+| 572 | Indonesia | 6.00 | 2009 est. |
+| 573 | Dominican Republic | 5.90 | 2009 est. |
+| 574 | Kyrgyzstan | 5.80 | 2009 est. |
+| 575 | British Virgin Islands | 5.80 | 2009 est. |
+| 576 | Peru | 5.70 | 2009 est. |
+| 577 | Vietnam | 5.70 | 2009 est. |
+| 578 | Samoa | 5.70 | 2009 est. |
+| 579 | Colombia | 5.60 | 2009 est. |
+| 580 | Bhutan | 5.50 | 2009 est. |
+| 581 | Saint Martin | 5.50 | 2009 est. |
+| 582 | Guyana | 5.50 | 2009 est. |
+| 583 | Burma | 5.40 | 2009 est. |
+| 584 | Iran | 5.40 | 2009 est. |
+| 585 | South Africa | 5.40 | 2009 est. |
+| 586 | El Salvador | 5.30 | 2009 est. |
+| 587 | India | 5.30 | 2009 est. |
+| 588 | Morocco | 5.20 | 2009 est. |
+| 589 | Tuvalu | 5.20 | 2009 est. |
+| 590 | Venezuela | 5.20 | 2009 est. |
+| 591 | Paraguay | 5.20 | 2009 est. |
+| 592 | Algeria | 5.10 | 2009 est. |
+| 593 | Lesotho | 5.00 | 2009 est. |
+| 594 | Tokelau | 5.00 | 2009 est. |
+| 595 | Malaysia | 5.00 | 2009 est. |
+| 596 | Uzbekistan | 4.90 | 2009 est. |
+| 597 | Egypt | 4.80 | 2009 est. |
+| 598 | Fiji | 4.80 | 2009 est. |
+| 599 | Bolivia | 4.50 | 2009 est. |
+| 600 | Libya | 4.30 | 2009 est. |
+| 601 | Turkmenistan | 4.30 | 2009 est. |
+| 602 | Tonga | 4.30 | 2009 est. |
+| 603 | Jordan | 4.20 | 2009 est. |
+| 604 | Turks and Caicos Islands | 4.20 | 2009 est. |
+| 605 | Nepal | 4.20 | 2009 est. |
+| 606 | Pakistan | 4.20 | 2009 est. |
+| 607 | Central African Republic | 4.10 | 2009 est. |
+| 608 | Philippines | 4.10 | 2009 est. |
+| 609 | Equatorial Guinea | 4.10 | 2009 est. |
+| 610 | Papua New Guinea | 4.10 | 2009 est. |
+| 611 | Bangladesh | 4.00 | 2009 est. |
+| 612 | Vanuatu | 4.00 | 2009 est. |
+| 613 | Mongolia | 4.00 | 2009 est. |
+| 614 | American Samoa | 3.90 | 2009 est. |
+| 615 | Bahrain | 3.90 | 2009 est. |
+| 616 | Botswana | 3.90 | 2009 est. |
+| 617 | Namibia | 3.90 | 2009 est. |
+| 618 | Maldives | 3.90 | 2009 est. |
+| 619 | Zimbabwe | 3.90 | 2009 est. |
+| 620 | Gabon | 3.90 | 2009 est. |
+| 621 | Guatemala | 3.80 | 2009 est. |
+| 622 | Djibouti | 3.70 | 2009 est. |
+| 623 | Swaziland | 3.70 | 2009 est. |
+| 624 | West Bank | 3.70 | 2009 est. |
+| 625 | Cambodia | 3.60 | 2009 est. |
+| 626 | Ghana | 3.60 | 2009 est. |
+| 627 | Tajikistan | 3.60 | 2009 est. |
+| 628 | Honduras | 3.60 | 2009 est. |
+| 629 | Eritrea | 3.60 | 2009 est. |
+| 630 | Belize | 3.50 | 2009 est. |
+| 631 | Sao Tome and Principe | 3.50 | 2009 est. |
+| 632 | Solomon Islands | 3.50 | 2009 est. |
+| 633 | Guinea | 3.50 | 2009 est. |
+| 634 | Kiribati | 3.50 | 2009 est. |
+| 635 | Haiti | 3.40 | 2009 est. |
+| 636 | Mauritania | 3.40 | 2009 est. |
+| 637 | Timor-Leste | 3.40 | 2009 est. |
+| 638 | Syria | 3.40 | 2009 est. |
+| 639 | Brunei | 3.30 | 2009 est. |
+| 640 | Cameroon | 3.30 | 2009 est. |
+| 641 | Nicaragua | 3.30 | 2009 est. |
+| 642 | Sierra Leone | 3.20 | 2009 est. |
+| 643 | Comoros | 3.10 | 2009 est. |
+| 644 | Laos | 3.10 | 2009 est. |
+| 645 | Guinea-Bissau | 3.10 | 2009 est. |
+| 646 | Nigeria | 3.10 | 2009 est. |
+| 647 | Mali | 3.10 | 2009 est. |
+| 648 | Iraq | 3.00 | 2009 est. |
+| 649 | Madagascar | 3.00 | 2009 est. |
+| 650 | Senegal | 3.00 | 2009 est. |
+| 651 | Chad | 2.90 | 2009 est. |
+| 652 | Tanzania | 2.90 | 2009 est. |
+| 653 | Marshall Islands | 2.90 | 2009 est. |
+| 654 | Mozambique | 2.90 | 2009 est. |
+| 655 | Kuwait | 2.90 | 2009 est. |
+| 656 | Cote d'Ivoire | 2.90 | 2009 est. |
+| 657 | Micronesia, Federated States of | 2.90 | 2009 est. |
+| 658 | Congo, Republic of the | 2.80 | 2009 est. |
+| 659 | Liberia | 2.80 | 2009 est. |
+| 660 | Togo | 2.80 | 2009 est. |
+| 661 | Oman | 2.80 | 2009 est. |
+| 662 | Gambia, The | 2.80 | 2009 est. |
+| 663 | Grenada | 2.80 | 2009 est. |
+| 664 | Angola | 2.70 | 2009 est. |
+| 665 | Malawi | 2.70 | 2009 est. |
+| 666 | Ethiopia | 2.70 | 2009 est. |
+| 667 | Benin | 2.60 | 2009 est. |
+| 668 | Gaza Strip | 2.60 | 2009 est. |
+| 669 | Kenya | 2.60 | 2009 est. |
+| 670 | Burundi | 2.50 | 2009 est. |
+| 671 | Sudan | 2.50 | 2009 est. |
+| 672 | Yemen | 2.50 | 2009 est. |
+| 673 | Burkina Faso | 2.50 | 2009 est. |
+| 674 | Somalia | 2.50 | 2009 est. |
+| 675 | Saudi Arabia | 2.50 | 2009 est. |
+| 676 | Congo, Democratic Republic of the | 2.50 | 2009 est. |
+| 677 | Afghanistan | 2.40 | 2009 est. |
+| 678 | Rwanda | 2.40 | 2009 est. |
+| 679 | Niger | 2.30 | 2009 est. |
+| 680 | Zambia | 2.30 | 2009 est. |
+| 681 | Western Sahara | 2.30 | 2009 est. |
+| 682 | Nauru | 2.10 | 2009 est. |
+| 683 | Uganda | 2.10 | 2009 est. |
+| 684 | Mayotte | 1.80 | 2009 est. |
+| 685 | Northern Mariana Islands | 1.70 | 2009 est. |
+| 686 | Qatar | 1.40 | 2009 est. |
+| 687 | United Arab Emirates | 0.90 | 2009 est. |

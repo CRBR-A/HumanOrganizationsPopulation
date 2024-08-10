@@ -1,0 +1,27 @@
+Telephone Code: 48
+Local Emergency Phone: 112, 999
+Climate: Temperate with cold, cloudy, moderately severe winters with frequent precipitation; mild summers with frequent showers and thundershowers
+Currency (Code): Zlotych (PLN)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, E
+Major Languages: Polish, Silesian
+Major Religions: Catholic 85.9% (includes Roman Catholic, Greek Catholic, Armenian Catholic, and Byzantine-Slavic Catholic), Orthodox 1.3%, Protestant 0.4%
+Time Difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time); daylight saving time: +1hr, begins last Sunday in March, ends last Sunday in October
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Gdansk Old Town; Bialowieza Forest; Wieliczka & Bochnia Royal Salt Mine; Malbork Castle; Slowinski Sand Dunes; Masurian Lakeland; Wawel Castle & Cathedral; Krakow; Warsaw (includes Wilanow Palace, Palace on the Water); Auschwitz
+Major Sports: Soccer, motorsports, volleyball, ski jumping, track and field
+Cultural Practices: Many households will ask you to remove your shoes upon entry.
+Tipping Guidelines: Tipping is expected for good service in restaurants, especially in tourist areas such as Krakow or Warsaw. The norm is to tip around 10-15%. Hotel housekeepers do not expect a tip, but leaving a small amount (10 zlotych), is appreciated. Tipping a tour driver 10-15% is customary.
+Souvenirs: Amber jewelry and decorative items, natural linen, painted ceramic pottery and stoneware, traditional costumes, vodka
+Traditional Cuisine: Bigos --- a stew of white cabbage, sauerkraut (fermented cabbage), mushrooms, tomatoes, ham, and meats such as pork, beef, veal, bacon, or venison; Pierogi -- small dumplings stuffed with either savory or sweet fillings including cheese, onions, ground meat, mushrooms, potatoes, sauerkraut, or various berries
+
+---
+country: Poland
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Poland/travel-facts>
+license: public domain (U.S.)
+...

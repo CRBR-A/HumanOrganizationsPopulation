@@ -1,0 +1,27 @@
+Telephone Code: 352
+Local Emergency Phone: 112/ 113
+Climate: Modified continental with mild winters, cool summers
+Currency (Code): Euros (EUR)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, F
+Major Languages: Luxembourgish, German, Italian, English
+Major Religions: Christian (predominantly Roman Catholic) 70.4%, Muslim 2.3%, other (includes Buddhist, folk religions, Hindu, Jewish) 0.5%
+Time Difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time); daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October
+Potable Water: Yes
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Luxembourg Ardennes; Bourscheid Castle; Upper Sûre Natural Park & Esch-sur-Sûre village; Luxembourg American Cemetery in Hamm; Luxembourg City (includes Grand Ducal Palace, Walls of the Corniche, Museum of Modern Art (MUDAM), Grund District, Fort Thungen, Citadel wall)
+Major Sports: Soccer, cycling, tennis
+Cultural Practices: It is impolite to begin eating until the hostess begins.
+Tipping Guidelines: A service charge of 15% is added to most restaurant bills, but leaving 1-2 euros for good service is appreciated. Tip taxi drivers 10%, bellhops and doormen 1-2 euros, and washroom attendants 50 cents to 1 euro.
+Souvenirs: Carved wooden toys, Christmas decorations, and clocks; luxury fashions, jewelry, watches, crystal, and perfumes; porcelain, pottery/terracotta bird whistles
+Traditional Cuisine: Judd mat Gaardebounen --- smoked pork collar and broad beans
+
+---
+country: Luxembourg
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Luxembourg/travel-facts>
+license: public domain (U.S.)
+...

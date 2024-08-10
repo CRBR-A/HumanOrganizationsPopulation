@@ -1,0 +1,242 @@
+CIA - The World Factbook --  Airports   
+
+This entry gives the total number of airports or airfields recognizable from the air. The runway(s) may be paved (concrete or asphalt surfaces) or unpaved (grass, earth, sand, or gravel surfaces) and may include closed or abandoned installations. Airports or airfields that are no longer recognizable (overgrown, no facilities, etc.) are not included. Note that not all airports have accommodations for refueling, maintenance, or air traffic control.
+
+| Rank | country | Airports | Date of Information |
+| --- | --- | --- | --- |
+| 1 | United States | 15,079 | 2010 |
+| 2 | Brazil | 4,072 | 2010 |
+| 3 | Mexico | 1,819 | 2010 |
+| 4 | Canada | 1,404 | 2010 |
+| 5 | Russia | 1,213 | 2010 |
+| 6 | Argentina | 1,141 | 2010 |
+| 7 | Colombia | 990 | 2010 |
+| 8 | Bolivia | 881 | 2010 |
+| 9 | Paraguay | 800 | 2010 |
+| 10 | Indonesia | 684 | 2010 |
+| 11 | South Africa | 578 | 2010 |
+| 12 | Papua New Guinea | 562 | 2010 |
+| 13 | Germany | 549 | 2010 |
+| 14 | United Kingdom | 505 | 2010 |
+| 15 | China | 502 | 2010 |
+| 16 | France | 475 | 2010 |
+| 17 | Australia | 465 | 2010 |
+| 18 | Ecuador | 428 | 2010 |
+| 19 | Ukraine | 425 | 2010 |
+| 20 | Venezuela | 409 | 2010 |
+| 21 | Guatemala | 372 | 2010 |
+| 22 | Chile | 366 | 2010 |
+| 23 | India | 352 | 2010 |
+| 24 | Iran | 319 | 2010 |
+| 25 | Philippines | 254 | 2010 |
+| 26 | Sweden | 249 | 2010 |
+| 27 | Saudi Arabia | 217 | 2010 |
+| 28 | Zimbabwe | 216 | 2010 |
+| 29 | Peru | 211 | 2010 |
+| 30 | Bulgaria | 210 | 2010 |
+| 31 | Congo, Democratic Republic of the | 198 | 2010 |
+| 32 | Angola | 193 | 2010 |
+| 33 | Kenya | 191 | 2010 |
+| 34 | Japan | 176 | 2010 |
+| 35 | Spain | 154 | 2010 |
+| 36 | Costa Rica | 151 | 2010 |
+| 37 | Pakistan | 148 | 2010 |
+| 38 | Finland | 148 | 2010 |
+| 39 | Nicaragua | 143 | 2010 |
+| 40 | Algeria | 143 | 2010 |
+| 41 | Libya | 137 | 2010 |
+| 42 | Cuba | 136 | 2010 |
+| 43 | Italy | 132 | 2010 |
+| 44 | Oman | 130 | 2010 |
+| 45 | Poland | 129 | 2010 |
+| 46 | Namibia | 129 | 2010 |
+| 47 | Tanzania | 124 | 2010 |
+| 48 | New Zealand | 122 | 2010 |
+| 49 | Czech Republic | 122 | 2010 |
+| 50 | Malaysia | 118 | 2010 |
+| 51 | Panama | 118 | 2010 |
+| 52 | Sudan | 116 | 2011 |
+| 53 | Korea, South | 116 | 2010 |
+| 54 | Mozambique | 106 | 2010 |
+| 55 | Thailand | 105 | 2010 |
+| 56 | Syria | 104 | 2010 |
+| 57 | Honduras | 104 | 2010 |
+| 58 | Iraq | 104 | 2010 |
+| 59 | Turkey | 99 | 2010 |
+| 60 | Iceland | 99 | 2010 |
+| 61 | Norway | 98 | 2010 |
+| 62 | Kazakhstan | 97 | 2010 |
+| 63 | Guyana | 96 | 2010 |
+| 64 | Zambia | 94 | 2010 |
+| 65 | Denmark | 92 | 2010 |
+| 66 | Egypt | 86 | 2010 |
+| 67 | Madagascar | 84 | 2010 |
+| 68 | Lithuania | 81 | 2010 |
+| 69 | Greece | 81 | 2010 |
+| 70 | Korea, North | 79 | 2010 |
+| 71 | Botswana | 78 | 2010 |
+| 72 | Burma | 76 | 2010 |
+| 73 | Croatia | 69 | 2010 |
+| 74 | Belarus | 67 | 2010 |
+| 75 | El Salvador | 65 | 2010 |
+| 76 | Switzerland | 65 | 2010 |
+| 77 | Portugal | 65 | 2010 |
+| 78 | Bahamas, The | 62 | 2010 |
+| 79 | Ethiopia | 61 | 2010 |
+| 80 | Somalia | 59 | 2010 |
+| 81 | Uruguay | 58 | 2010 |
+| 82 | Morocco | 58 | 2010 |
+| 83 | Chad | 56 | 2010 |
+| 84 | Yemen | 55 | 2010 |
+| 85 | Austria | 55 | 2010 |
+| 86 | Nigeria | 54 | 2010 |
+| 87 | Uzbekistan | 54 | 2010 |
+| 88 | Romania | 54 | 2010 |
+| 89 | French Polynesia | 53 | 2010 |
+| 90 | Afghanistan | 53 | 2010 |
+| 91 | Suriname | 51 | 2010 |
+| 92 | Israel | 48 | 2010 |
+| 93 | Nepal | 47 | 2010 |
+| 94 | Uganda | 46 | 2010 |
+| 95 | Mongolia | 46 | 2010 |
+| 96 | Belize | 45 | 2010 |
+| 97 | Vietnam | 44 | 2010 |
+| 98 | Gabon | 44 | 2010 |
+| 99 | Hungary | 43 | 2010 |
+| 100 | Belgium | 43 | 2010 |
+| 101 | Latvia | 42 | 2010 |
+| 102 | United Arab Emirates | 41 | 2010 |
+| 103 | Taiwan | 41 | 2010 |
+| 104 | Laos | 41 | 2010 |
+| 105 | Ireland | 39 | 2010 |
+| 106 | Central African Republic | 37 | 2010 |
+| 107 | Slovakia | 36 | 2010 |
+| 108 | Solomon Islands | 36 | 2010 |
+| 109 | Dominican Republic | 35 | 2010 |
+| 110 | Azerbaijan | 35 | 2010 |
+| 111 | Cameroon | 34 | 2010 |
+| 112 | Tunisia | 32 | 2010 |
+| 113 | Malawi | 32 | 2010 |
+| 114 | Vanuatu | 31 | 2010 |
+| 115 | Liberia | 29 | 2010 |
+| 116 | Puerto Rico | 29 | 2010 |
+| 117 | Serbia | 29 | 2010 |
+| 118 | Fiji | 28 | 2010 |
+| 119 | Mauritania | 28 | 2010 |
+| 120 | Kyrgyzstan | 28 | 2010 |
+| 121 | Cote d'Ivoire | 27 | 2010 |
+| 122 | Jamaica | 27 | 2010 |
+| 123 | Turkmenistan | 27 | 2010 |
+| 124 | Netherlands | 27 | 2010 |
+| 125 | Niger | 27 | 2010 |
+| 126 | Antarctica | 26 | 2010 |
+| 127 | Tajikistan | 26 | 2010 |
+| 128 | Lesotho | 26 | 2010 |
+| 129 | Bosnia and Herzegovina | 25 | 2010 |
+| 130 | New Caledonia | 25 | 2010 |
+| 131 | Congo, Republic of the | 25 | 2010 |
+| 132 | Burkina Faso | 24 | 2010 |
+| 133 | South Sudan | 24 | NA |
+| 134 | Georgia | 22 | 2010 |
+| 135 | Senegal | 20 | 2010 |
+| 136 | Mali | 20 | 2010 |
+| 137 | Kiribati | 19 | 2010 |
+| 138 | Estonia | 19 | 2010 |
+| 139 | Jordan | 18 | 2010 |
+| 140 | Sri Lanka | 18 | 2010 |
+| 141 | Cambodia | 17 | 2010 |
+| 142 | Bangladesh | 17 | 2010 |
+| 143 | Slovenia | 16 | 2010 |
+| 144 | Guinea | 16 | 2010 |
+| 145 | Cyprus | 15 | 2010 |
+| 146 | Swaziland | 15 | 2010 |
+| 147 | Marshall Islands | 15 | 2010 |
+| 148 | Greenland | 15 | 2010 |
+| 149 | Haiti | 14 | 2010 |
+| 150 | Seychelles | 14 | 2010 |
+| 151 | Macedonia | 14 | 2010 |
+| 152 | Eritrea | 13 | 2010 |
+| 153 | Djibouti | 13 | 2010 |
+| 154 | Armenia | 11 | 2010 |
+| 155 | Moldova | 11 | 2010 |
+| 156 | Ghana | 11 | 2010 |
+| 157 | Cook Islands | 10 | 2010 |
+| 158 | Cape Verde | 10 | 2010 |
+| 159 | Guinea-Bissau | 9 | 2010 |
+| 160 | Sierra Leone | 9 | 2010 |
+| 161 | Rwanda | 9 | 2010 |
+| 162 | Burundi | 8 | 2010 |
+| 163 | Kosovo | 8 | 2010 |
+| 164 | Togo | 8 | 2010 |
+| 165 | Turks and Caicos Islands | 8 | 2010 |
+| 166 | Singapore | 8 | 2010 |
+| 167 | Equatorial Guinea | 7 | 2010 |
+| 168 | Lebanon | 7 | 2010 |
+| 169 | Kuwait | 7 | 2010 |
+| 170 | Falkland Islands (Islas Malvinas) | 7 | 2010 |
+| 171 | Micronesia, Federated States of | 6 | 2010 |
+| 172 | Qatar | 6 | 2010 |
+| 173 | Trinidad and Tobago | 6 | 2010 |
+| 174 | Western Sahara | 6 | 2010 |
+| 175 | Timor-Leste | 6 | 2010 |
+| 176 | Saint Vincent and the Grenadines | 6 | 2010 |
+| 177 | Tonga | 6 | 2010 |
+| 178 | Albania | 5 | 2010 |
+| 179 | Benin | 5 | 2010 |
+| 180 | Maldives | 5 | 2010 |
+| 181 | Montenegro | 5 | 2010 |
+| 182 | Mauritius | 5 | 2010 |
+| 183 | Northern Mariana Islands | 5 | 2010 |
+| 184 | Bahrain | 4 | 2010 |
+| 185 | Comoros | 4 | 2010 |
+| 186 | French Southern and Antarctic Lands | 4 | 2010 |
+| 187 | Samoa | 4 | 2010 |
+| 188 | Svalbard | 4 | 2010 |
+| 189 | British Virgin Islands | 4 | 2010 |
+| 190 | Spratly Islands | 4 | 2010 |
+| 191 | Antigua and Barbuda | 3 | 2010 |
+| 192 | American Samoa | 3 | 2010 |
+| 193 | Palau | 3 | 2010 |
+| 194 | Cayman Islands | 3 | 2010 |
+| 195 | Grenada | 3 | 2010 |
+| 196 | Anguilla | 3 | 2010 |
+| 197 | Bhutan | 2 | 2010 |
+| 198 | Brunei | 2 | 2010 |
+| 199 | Dominica | 2 | 2010 |
+| 200 | Guernsey | 2 | 2010 |
+| 201 | Hong Kong | 2 | 2010 |
+| 202 | Luxembourg | 2 | 2010 |
+| 203 | Wallis and Futuna | 2 | 2010 |
+| 204 | Saint Pierre and Miquelon | 2 | 2010 |
+| 205 | Saint Kitts and Nevis | 2 | 2010 |
+| 206 | Saint Lucia | 2 | 2010 |
+| 207 | Sao Tome and Principe | 2 | 2010 |
+| 208 | Virgin Islands | 2 | 2010 |
+| 209 | West Bank | 2 | 2010 |
+| 210 | Montserrat | 2 | 2010 |
+| 211 | Aruba | 1 | 2010 |
+| 212 | Wake Island | 1 | 2010 |
+| 213 | Bermuda | 1 | 2010 |
+| 214 | Curacao | 1 | NA |
+| 215 | Cocos (Keeling) Islands | 1 | 2010 |
+| 216 | Faroe Islands | 1 | 2010 |
+| 217 | Gambia, The | 1 | 2010 |
+| 218 | Gibraltar | 1 | 2010 |
+| 219 | Gaza Strip | 1 | 2010 |
+| 220 | Isle of Man | 1 | 2010 |
+| 221 | British Indian Ocean Territory | 1 | 2010 |
+| 222 | Jersey | 1 | 2010 |
+| 223 | Jan Mayen | 1 | 2010 |
+| 224 | Christmas Island | 1 | 2010 |
+| 225 | Macau | 1 | 2010 |
+| 226 | Malta | 1 | 2010 |
+| 227 | Niue | 1 | 2010 |
+| 228 | Norfolk Island | 1 | 2010 |
+| 229 | Nauru | 1 | 2010 |
+| 230 | Paracel Islands | 1 | 2010 |
+| 231 | Saint Martin | 1 | 2010 |
+| 232 | Saint Helena, Ascension, and Tristan da Cunha | 1 | 2010 |
+| 233 | Sint Maarten | 1 | NA |
+| 234 | Saint Barthelemy | 1 | 2010 |
+| 235 | Tuvalu | 1 | 2010 |
+| 236 | Barbados | 1 | 2010 |

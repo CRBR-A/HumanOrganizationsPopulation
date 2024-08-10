@@ -1,0 +1,27 @@
+Telephone Code: 856
+Local Emergency Phone: Local numbers only
+Climate: Tropical monsoon; rainy season (May to November); dry season (December to April)
+Currency (Code): Kips (LAK)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): A, B, C, E, F
+Major Languages: Lao, French, English, various ethnic languages
+Major Religions: Buddhist 64.7%, Christian 1.7%
+Time Difference: UTC+7 (12 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Elephant Village Sanctuary; Four Thousand Islands (includes Khone Pha Pheng Waterfall); Kong Lor Caves; Wat Phu;; Vientiane; Luang Prabang (former royal city); Plain of Jars
+Major Sports: Soccer, sepak takraw (kick volleyball), muay lao (martial art)
+Cultural Practices: It is considered very rude to touch another person's head or to touch their body with your feet.
+Tipping Guidelines: Tipping is not customary except in tourist-oriented restaurants where 10% of the bill is appreciated, but only if a service charge has not already been added. Tour guides and day-long drivers expect $10-15 (USD) per day for a gratuity. Tip hotel staff $2-3 (USD) per day for their service .
+Souvenirs: Hand-woven silk or cotton sarongs, gold and gemstone jewelry, wood carvings, spices, Hill Tribe bags
+Traditional Cuisine: Larb (or Laap) --- minced meat, seasoned with lime juice, fermented fish sauce, and a variety of other ingredients such as finely ground roasted sticky rice, chilli, mint leaves, onions, herbs, and spices
+
+---
+country: Laos
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Laos/travel-facts>
+license: public domain (U.S.)
+...

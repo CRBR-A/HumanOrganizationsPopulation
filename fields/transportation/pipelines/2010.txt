@@ -1,0 +1,321 @@
+CIA - The World Factbook --  Pipelines   
+
+This entry gives the lengths and types of pipelines for transporting products like natural gas, crude oil, or petroleum products.
+
+| Rank | country | (km) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | United States | 548,665.00 | 2009 |
+| 2 | United States | 244,620.00 | 2009 |
+| 3 | Russia | 159,552.00 | 2009 |
+| 4 | Canada | 74,980.00 | 2009 |
+| 5 | Russia | 74,285.00 | 2009 |
+| 6 | Ukraine | 33,327.00 | 2009 |
+| 7 | China | 32,545.00 | 2009 |
+| 8 | Argentina | 28,248.00 | 2009 |
+| 9 | Australia | 27,105.00 | 2009 |
+| 10 | Germany | 24,364.00 | 2009 |
+| 11 | Canada | 23,564.00 | 2009 |
+| 12 | Mexico | 22,705.00 | 2009 |
+| 13 | China | 20,097.00 | 2009 |
+| 14 | Iran | 19,246.00 | 2009 |
+| 15 | Italy | 17,558.00 | 2009 |
+| 16 | France | 14,688.00 | 2009 |
+| 17 | Algeria | 14,648.00 | 2009 |
+| 18 | Russia | 13,658.00 | 2009 |
+| 19 | Poland | 13,631.00 | 2009 |
+| 20 | Kazakhstan | 11,146.00 | 2009 |
+| 21 | China | 10,915.00 | 2009 |
+| 22 | Turkey | 10,630.00 | 2009 |
+| 23 | Pakistan | 10,402.00 | 2009 |
+| 24 | Kazakhstan | 10,376.00 | 2009 |
+| 25 | Brazil | 9,989.00 | 2009 |
+| 26 | Uzbekistan | 9,706.00 | 2009 |
+| 27 | Mexico | 8,688.00 | 2009 |
+| 28 | United Kingdom | 7,992.00 | 2009 |
+| 29 | Iran | 7,936.00 | 2009 |
+| 30 | Spain | 7,738.00 | 2009 |
+| 31 | India | 7,659.00 | 2009 |
+| 32 | Algeria | 7,579.00 | 2009 |
+| 33 | India | 7,542.00 | 2009 |
+| 34 | India | 7,201.00 | 2009 |
+| 35 | Iran | 7,018.00 | 2009 |
+| 36 | Czech Republic | 7,010.00 | 2009 |
+| 37 | Libya | 6,987.00 | 2009 |
+| 38 | Slovakia | 6,769.00 | 2009 |
+| 39 | Venezuela | 6,695.00 | 2009 |
+| 40 | Mexico | 6,520.00 | 2009 |
+| 41 | Turkmenistan | 6,417.00 | 2009 |
+| 42 | Egypt | 6,262.00 | 2009 |
+| 43 | Colombia | 6,097.00 | 2009 |
+| 44 | Argentina | 5,977.00 | 2009 |
+| 45 | Indonesia | 5,800.00 | 2009 |
+| 46 | Indonesia | 5,721.00 | 2009 |
+| 47 | Venezuela | 5,258.00 | 2009 |
+| 48 | Belarus | 5,250.00 | 2009 |
+| 49 | Bolivia | 5,192.00 | 2009 |
+| 50 | France | 5,080.00 | 2009 |
+| 51 | Iraq | 5,032.00 | 2009 |
+| 52 | Colombia | 4,567.00 | 2009 |
+| 53 | Brazil | 4,517.00 | 2009 |
+| 54 | Ukraine | 4,514.00 | 2009 |
+| 55 | Brazil | 4,465.00 | 2009 |
+| 56 | United Kingdom | 4,417.00 | 2009 |
+| 57 | Hungary | 4,407.00 | 2009 |
+| 58 | Egypt | 4,319.00 | 2009 |
+| 59 | Saudi Arabia | 4,241.00 | 2009 |
+| 60 | Ukraine | 4,211.00 | 2009 |
+| 61 | Oman | 4,209.00 | 2009 |
+| 62 | Nigeria | 4,090.00 | 2009 |
+| 63 | Sudan | 4,070.00 | 2009 |
+| 64 | Japan | 3,879.00 | 2009 |
+| 65 | Germany | 3,843.00 | 2009 |
+| 66 | Netherlands | 3,816.00 | 2009 |
+| 67 | Argentina | 3,636.00 | 2009 |
+| 68 | Turkey | 3,636.00 | 2009 |
+| 69 | Romania | 3,588.00 | 2009 |
+| 70 | Oman | 3,558.00 | 2009 |
+| 71 | Spain | 3,445.00 | 2009 |
+| 72 | Nigeria | 3,424.00 | 2009 |
+| 73 | Colombia | 3,382.00 | 2009 |
+| 74 | Germany | 3,379.00 | 2009 |
+| 75 | Azerbaijan | 3,361.00 | 2009 |
+| 76 | Australia | 3,258.00 | 2009 |
+| 77 | Syria | 3,101.00 | 2009 |
+| 78 | France | 2,943.00 | 2009 |
+| 79 | Algeria | 2,933.00 | 2009 |
+| 80 | Bulgaria | 2,926.00 | 2009 |
+| 81 | Libya | 2,860.00 | 2009 |
+| 82 | Denmark | 2,858.00 | 2009 |
+| 83 | Austria | 2,721.00 | 2009 |
+| 84 | Chile | 2,673.00 | 2009 |
+| 85 | Bangladesh | 2,597.00 | 2009 |
+| 86 | Nigeria | 2,565.00 | 2009 |
+| 87 | Iraq | 2,501.00 | 2009 |
+| 88 | Bolivia | 2,488.00 | 2009 |
+| 89 | Romania | 2,424.00 | 2009 |
+| 90 | Armenia | 2,233.00 | 2009 |
+| 91 | Burma | 2,228.00 | 2009 |
+| 92 | Tunisia | 2,179.00 | 2009 |
+| 93 | India | 2,163.00 | 2009 |
+| 94 | United Arab Emirates | 2,152.00 | 2009 |
+| 95 | Pakistan | 2,011.00 | 2009 |
+| 96 | Syria | 1,997.00 | 2009 |
+| 97 | Malaysia | 1,965.00 | 2009 |
+| 98 | Algeria | 1,937.00 | 2009 |
+| 99 | Serbia | 1,921.00 | 2009 |
+| 100 | Moldova | 1,906.00 | 2009 |
+| 101 | Saudi Arabia | 1,880.00 | 2009 |
+| 102 | Mexico | 1,875.00 | 2009 |
+| 103 | New Zealand | 1,838.00 | 2009 |
+| 104 | Belarus | 1,730.00 | 2009 |
+| 105 | Lithuania | 1,695.00 | 2009 |
+| 106 | Switzerland | 1,662.00 | 2009 |
+| 107 | Iraq | 1,637.00 | 2009 |
+| 108 | Sudan | 1,613.00 | 2009 |
+| 109 | Georgia | 1,596.00 | 2009 |
+| 110 | Bolivia | 1,590.00 | 2009 |
+| 111 | Ireland | 1,550.00 | 2009 |
+| 112 | Belarus | 1,528.00 | 2009 |
+| 113 | Venezuela | 1,484.00 | 2009 |
+| 114 | Turkmenistan | 1,457.00 | 2009 |
+| 115 | Azerbaijan | 1,424.00 | 2009 |
+| 116 | Korea, South | 1,423.00 | 2009 |
+| 117 | Poland | 1,384.00 | 2009 |
+| 118 | South Africa | 1,379.00 | 2009 |
+| 119 | Ecuador | 1,374.00 | 2009 |
+| 120 | Indonesia | 1,370.00 | 2009 |
+| 121 | Yemen | 1,367.00 | 2009 |
+| 122 | Thailand | 1,348.00 | 2009 |
+| 123 | Belgium | 1,330.00 | 2009 |
+| 124 | Croatia | 1,327.00 | 2009 |
+| 125 | United Arab Emirates | 1,310.00 | 2009 |
+| 126 | Ecuador | 1,301.00 | 2009 |
+| 127 | Tunisia | 1,285.00 | 2009 |
+| 128 | Georgia | 1,258.00 | 2009 |
+| 129 | Italy | 1,241.00 | 2009 |
+| 130 | Greece | 1,197.00 | 2009 |
+| 131 | Saudi Arabia | 1,183.00 | 2009 |
+| 132 | Saudi Arabia | 1,148.00 | 2009 |
+| 133 | Portugal | 1,098.00 | 2009 |
+| 134 | Kazakhstan | 1,095.00 | 2009 |
+| 135 | Peru | 1,083.00 | 2009 |
+| 136 | Peru | 1,018.00 | 2009 |
+| 137 | Hungary | 987.00 | 2009 |
+| 138 | Qatar | 980.00 | 2009 |
+| 139 | South Africa | 980.00 | 2009 |
+| 140 | Venezuela | 980.00 | 2009 |
+| 141 | Egypt | 956.00 | 2009 |
+| 142 | Latvia | 948.00 | 2009 |
+| 143 | Kenya | 928.00 | 2009 |
+| 144 | Iraq | 918.00 | 2009 |
+| 145 | Mozambique | 918.00 | 2009 |
+| 146 | South Africa | 908.00 | 2009 |
+| 147 | Egypt | 895.00 | 2009 |
+| 148 | Chile | 892.00 | 2009 |
+| 149 | Cameroon | 889.00 | 2009 |
+| 150 | Tanzania | 888.00 | 2009 |
+| 151 | Uzbekistan | 868.00 | 2009 |
+| 152 | Estonia | 859.00 | 2009 |
+| 153 | Gabon | 858.00 | 2009 |
+| 154 | Slovenia | 840.00 | 2009 |
+| 155 | Morocco | 830.00 | 2009 |
+| 156 | Korea, South | 827.00 | 2009 |
+| 157 | Costa Rica | 796.00 | 2009 |
+| 158 | Pakistan | 787.00 | 2009 |
+| 159 | Sweden | 786.00 | 2009 |
+| 160 | Poland | 777.00 | 2009 |
+| 161 | Libya | 776.00 | 2009 |
+| 162 | Zambia | 771.00 | 2009 |
+| 163 | Chile | 769.00 | 2009 |
+| 164 | Congo, Democratic Republic of the | 756.00 | 2009 |
+| 165 | Indonesia | 735.00 | 2009 |
+| 166 | Netherlands | 716.00 | 2009 |
+| 167 | United Kingdom | 699.00 | 2009 |
+| 168 | Finland | 694.00 | 2009 |
+| 169 | Peru | 677.00 | 2009 |
+| 170 | Austria | 663.00 | 2009 |
+| 171 | Trinidad and Tobago | 659.00 | 2009 |
+| 172 | Kazakhstan | 658.00 | 2009 |
+| 173 | Croatia | 583.00 | 2009 |
+| 174 | Iran | 570.00 | 2009 |
+| 175 | Spain | 560.00 | 2009 |
+| 176 | Burma | 558.00 | 2009 |
+| 177 | Tajikistan | 549.00 | 2009 |
+| 178 | Czech Republic | 547.00 | 2009 |
+| 179 | Kuwait | 540.00 | 2009 |
+| 180 | Laos | 540.00 | 2009 |
+| 181 | Belgium | 535.00 | 2009 |
+| 182 | Peru | 533.00 | 2009 |
+| 183 | Chile | 519.00 | 2009 |
+| 184 | Guatemala | 480.00 | 2009 |
+| 185 | Afghanistan | 466.00 | 2009 |
+| 186 | United Arab Emirates | 458.00 | 2009 |
+| 187 | Israel | 442.00 | 2009 |
+| 188 | Jordan | 439.00 | 2009 |
+| 189 | Morocco | 439.00 | 2009 |
+| 190 | Ecuador | 435.00 | 2009 |
+| 191 | Yemen | 423.00 | 2009 |
+| 192 | Slovakia | 416.00 | 2009 |
+| 193 | Latvia | 415.00 | 2009 |
+| 194 | Taiwan | 405.00 | 2009 |
+| 195 | Qatar | 382.00 | 2009 |
+| 196 | Tunisia | 372.00 | 2009 |
+| 197 | Netherlands | 365.00 | 2009 |
+| 198 | Brazil | 353.00 | 2009 |
+| 199 | Albania | 339.00 | 2009 |
+| 200 | Bulgaria | 339.00 | 2009 |
+| 201 | Trinidad and Tobago | 336.00 | 2009 |
+| 202 | Hungary | 335.00 | 2009 |
+| 203 | New Zealand | 331.00 | 2009 |
+| 204 | Serbia | 323.00 | 2009 |
+| 205 | Thailand | 323.00 | 2009 |
+| 206 | Egypt | 320.00 | 2009 |
+| 207 | Ghana | 309.00 | 2009 |
+| 208 | New Zealand | 288.00 | 2009 |
+| 209 | Mozambique | 278.00 | 2009 |
+| 210 | Zimbabwe | 270.00 | 2009 |
+| 211 | Kuwait | 269.00 | 2009 |
+| 212 | Macedonia | 268.00 | 2009 |
+| 213 | Oman | 263.00 | 2009 |
+| 214 | Israel | 261.00 | 2009 |
+| 215 | Kyrgyzstan | 254.00 | 2009 |
+| 216 | Tanzania | 254.00 | 2009 |
+| 217 | Chad | 250.00 | 2009 |
+| 218 | Australia | 240.00 | 2009 |
+| 219 | Gabon | 240.00 | 2009 |
+| 220 | Cuba | 230.00 | 2009 |
+| 221 | Mexico | 228.00 | 2009 |
+| 222 | Uruguay | 226.00 | 2009 |
+| 223 | United Arab Emirates | 220.00 | 2009 |
+| 224 | Saudi Arabia | 212.00 | 2009 |
+| 225 | United Arab Emirates | 212.00 | 2009 |
+| 226 | Congo, Republic of the | 211.00 | 2009 |
+| 227 | Albania | 207.00 | 2009 |
+| 228 | Vietnam | 206.00 | 2009 |
+| 229 | New Zealand | 198.00 | 2009 |
+| 230 | Papua New Guinea | 195.00 | 2009 |
+| 231 | Portugal | 188.00 | 2009 |
+| 232 | Cote d'Ivoire | 180.00 | 2009 |
+| 233 | Israel | 176.00 | 2009 |
+| 234 | New Zealand | 172.00 | 2009 |
+| 235 | Japan | 167.00 | 2009 |
+| 236 | Belgium | 158.00 | 2009 |
+| 237 | Austria | 157.00 | 2009 |
+| 238 | Bulgaria | 156.00 | 2009 |
+| 239 | Sudan | 156.00 | 2009 |
+| 240 | Luxembourg | 155.00 | 2009 |
+| 241 | Uruguay | 155.00 | 2009 |
+| 242 | Korea, North | 154.00 | 2009 |
+| 243 | Qatar | 145.00 | 2009 |
+| 244 | Venezuela | 141.00 | 2009 |
+| 245 | Qatar | 132.00 | 2009 |
+| 246 | Russia | 127.00 | 2009 |
+| 247 | Russia | 122.00 | 2009 |
+| 248 | Macedonia | 120.00 | 2009 |
+| 249 | Lithuania | 114.00 | 2009 |
+| 250 | Malaysia | 114.00 | 2009 |
+| 251 | Philippines | 112.00 | 2009 |
+| 252 | Denmark | 107.00 | 2009 |
+| 253 | Philippines | 107.00 | 2009 |
+| 254 | Singapore | 106.00 | 2009 |
+| 255 | Nigeria | 97.00 | 2009 |
+| 256 | Czech Republic | 94.00 | 2009 |
+| 257 | Switzerland | 94.00 | 2009 |
+| 258 | Cote d'Ivoire | 92.00 | 2009 |
+| 259 | Qatar | 90.00 | 2009 |
+| 260 | Angola | 87.00 | 2009 |
+| 261 | Cote d'Ivoire | 86.00 | 2009 |
+| 262 | Greece | 75.00 | 2009 |
+| 263 | Indonesia | 73.00 | 2009 |
+| 264 | Vietnam | 66.00 | 2009 |
+| 265 | Norway | 64.00 | 2009 |
+| 266 | Brazil | 62.00 | 2009 |
+| 267 | Egypt | 59.00 | 2009 |
+| 268 | United Kingdom | 59.00 | 2009 |
+| 269 | Kuwait | 57.00 | 2009 |
+| 270 | Nicaragua | 54.00 | 2009 |
+| 271 | Japan | 53.00 | 2009 |
+| 272 | Bolivia | 51.00 | 2009 |
+| 273 | Suriname | 50.00 | 2009 |
+| 274 | Jordan | 49.00 | 2009 |
+| 275 | Lebanon | 43.00 | 2009 |
+| 276 | United Kingdom | 43.00 | 2009 |
+| 277 | Senegal | 43.00 | 2009 |
+| 278 | Vietnam | 42.00 | 2009 |
+| 279 | Argentina | 41.00 | 2009 |
+| 280 | Cuba | 41.00 | 2009 |
+| 281 | Congo, Democratic Republic of the | 39.00 | 2009 |
+| 282 | Equatorial Guinea | 38.00 | 2009 |
+| 283 | Tajikistan | 38.00 | 2009 |
+| 284 | Brunei | 37.00 | 2009 |
+| 285 | Congo, Democratic Republic of the | 37.00 | 2009 |
+| 286 | Bahrain | 32.00 | 2009 |
+| 287 | Malaysia | 31.00 | 2009 |
+| 288 | Norway | 31.00 | 2009 |
+| 289 | Nigeria | 26.00 | 2009 |
+| 290 | Yemen | 22.00 | 2009 |
+| 291 | Bahrain | 20.00 | 2009 |
+| 292 | Liechtenstein | 20.00 | 2009 |
+| 293 | Brunei | 18.00 | 2009 |
+| 294 | Kyrgyzstan | 16.00 | 2009 |
+| 295 | Peru | 15.00 | 2009 |
+| 296 | Egypt | 13.00 | 2009 |
+| 297 | Indonesia | 12.00 | 2009 |
+| 298 | Iran | 12.00 | 2009 |
+| 299 | Portugal | 11.00 | 2009 |
+| 300 | Slovenia | 11.00 | 2009 |
+| 301 | South Africa | 11.00 | 2009 |
+| 302 | Senegal | 8.00 | 2009 |
+| 303 | Tanzania | 8.00 | 2009 |
+| 304 | Congo, Republic of the | 7.00 | 2009 |
+| 305 | Iran | 7.00 | 2009 |
+| 306 | Switzerland | 7.00 | 2009 |
+| 307 | Ecuador | 5.00 | 2009 |
+| 308 | Ghana | 5.00 | 2009 |
+| 309 | Kenya | 4.00 | 2009 |
+| 310 | Egypt | 3.00 | 2009 |
+| 311 | Malaysia | 3.00 | 2009 |
+| 312 | Angola | 2.00 | 2009 |
+| 313 | India | 2.00 | 2009 |
+| 314 | Australia | 1.00 | 2009 |
+| 315 | Azerbaijan | 1.00 | 2009 |

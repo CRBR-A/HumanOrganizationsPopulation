@@ -1,0 +1,29 @@
+Telephone Code: 355
+Local Emergency Phone - Ambulance: 17
+Local Emergency Phone - Fire: 18
+Local Emergency Phone - Police: 19
+Climate: Mild temperate; cool, cloudy, wet winters; hot, clear summers; interior is cooler and wetter
+Currency (Code): Leke (ALL)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, F
+Major Languages: Albanian 98.8% (official), Greek 0.5%, other minority languages
+Major Religions: Muslim 56.7%, Roman Catholic 10%, Orthodox 6.8%, other minority religions
+Time Difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time); +1hr, begins last Sunday in March, ends last Sunday in October
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Porto Palermo Castle; Valbona Valley; Apollonia; Saranda; Tirana; Himare; Berat; Shkodra; Pindus Mts. & Dinaric Alps; Kruje; Butrint; Gjirokastra
+Major Sports: Soccer, basketball, volleyball, handball, boxing
+Cultural Practices: Albanians will usually save gifts to open in private. Wrapping them nicely is a good idea.
+Tipping Guidelines: Rounding up the bill at restaurants is fine, unless the service was outstanding, in which case, a good tip will be much appreciated. Taxi drivers do not expect a tip, but if they help with your luggage and provide you with tourist information, a tip would be appreciated. Tipping the housekeeping staff is not necessary but appreciated.
+Souvenirs: Woven kilim rugs, alabaster, copper crafts, leather footwear, perfumes
+Traditional Cuisine: Tavë kosi --- a dish of lamb, or occasionally chicken, and rice baked with a mixture of yogurt and eggs and added to a roux of wheat flour and butter
+
+---
+country: Albania
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Albania/travel-facts>
+license: public domain (U.S.)
+...

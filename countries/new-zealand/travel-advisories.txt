@@ -1,0 +1,12 @@
+| Precautions | Exercise normal precautions in New Zealand. The FIFA Women's World Cup 2023 is scheduled to take place across Australia and New Zealand in nine cities from July 20 through August 20, 2023. Review the [FIFA Women's World Cup Australia & New Zealand 2023 webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/fifa-women-s-world-cup-australia---new-zealand-2023.html) for actions to take prior to travel. Consult the link below for updates to travel advisories and statements on safety, security, local laws, and special circumstances in New Zealand.  <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html> |
+| Passport/Visa Requirements | US citizens should make sure their passport will not expire for at least 3 months after they enter the country even if they do not intend to stay that long. They should also make sure they have at least 1 blank page in their passport for any entry stamp that will be required. A visa is not required as long as you do not stay in the country more than 90 days. |
+| Vaccinations | See WHO recommendations  <http://www.who.int/> |
+| US Embassy/Consulate | [64] (4) 462-6000; United States Embassy Wellington, 29 Fitzherbert Terrace, Thorndon, Wellington 6011, New Zealand; AucklandACS@state.gov; https://nz.usembassy.gov/ |
+
+---
+country: New Zealand
+date: June 16, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/New Zealand/travel-facts>
+license: public domain (U.S.)
+...

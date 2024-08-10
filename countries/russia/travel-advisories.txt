@@ -1,0 +1,14 @@
+| Precautions | DO NOT TRAVEL to Russia due to the unpredictable consequences of the unprovoked full-scale invasion of Ukraine by Russian military forces, the potential for harassment and the singling out of U.S. citizens for detention by Russian government security officials, the arbitrary enforcement of local law, limited flights into and out of Russia, the Embassy's limited ability to assist U.S. citizens in Russia, and the possibility of terrorism. U.S. citizens residing or traveling in Russia should depart immediately. Exercise increased caution due to the risk of wrongful detentions. |
+| | Consult the link below for updates to travel advisories and statements on safety, security, local laws, and special circumstances in this country. |
+| | <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html> |
+| Passport/Visa Requirements | US citizens should make sure their passport will not expire for at least 6 months after they enter the country even if they do not intend to stay that long. They should also make sure they have at least 2 blank pages in their passport for any entry stamp and or visa that will be required. A visa is required. US citizens will need to get in touch with the country's embassy or nearest consulate to obtain a visa prior to visiting the country. |
+| Vaccinations | See WHO recommendations  <http://www.who.int/> |
+| US Embassy/Consulate | [7] (495) 728-5000; US Embassy Moscow, Bolshoy Deviatinsky, Pereulok No. 8, Moscow 121099, Russian Federation; MoscowACS@state.gov; https://ru.usembassy.gov/ |
+
+---
+country: Russia
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Russia/travel-facts>
+license: public domain (U.S.)
+...

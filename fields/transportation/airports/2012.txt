@@ -1,0 +1,243 @@
+CIA - The World Factbook --  Airports   
+
+This entry gives the total number of airports or airfields recognizable from the air. The runway(s) may be paved (concrete or asphalt surfaces) or unpaved (grass, earth, sand, or gravel surfaces) and may include closed or abandoned installations. Airports or airfields that are no longer recognizable (overgrown, no facilities, etc.) are not included. Note that not all airports have accommodations for refueling, maintenance, or air traffic control.
+
+| Rank | country | Airports | Date of Information |
+| --- | --- | --- | --- |
+| 1 | United States | 15,079 | 2010 |
+| 2 | Brazil | 4,105 | 2012 |
+| 3 | Mexico | 1,724 | 2012 |
+| 4 | Canada | 1,453 | 2012 |
+| 5 | Russia | 1,218 | 2012 |
+| 6 | Argentina | 1,149 | 2012 |
+| 7 | Bolivia | 865 | 2012 |
+| 8 | Colombia | 862 | 2012 |
+| 9 | Paraguay | 800 | 2012 |
+| 10 | Indonesia | 676 | 2012 |
+| 11 | South Africa | 567 | 2012 |
+| 12 | Papua New Guinea | 562 | 2012 |
+| 13 | Germany | 541 | 2012 |
+| 14 | China | 497 | 2012 |
+| 15 | Venezuela | 492 | 2012 |
+| 16 | Chile | 476 | 2012 |
+| 17 | France | 473 | 2012 |
+| 18 | Australia | 467 | 2012 |
+| 19 | United Kingdom | 462 | 2012 |
+| 20 | Ecuador | 431 | 2012 |
+| 21 | Ukraine | 412 | 2012 |
+| 22 | India | 352 | 2012 |
+| 23 | Iran | 324 | 2012 |
+| 24 | Guatemala | 291 | 2012 |
+| 25 | Philippines | 247 | 2012 |
+| 26 | Sweden | 230 | 2012 |
+| 27 | Saudi Arabia | 216 | 2012 |
+| 28 | Bulgaria | 202 | 2012 |
+| 29 | Zimbabwe | 202 | 2012 |
+| 30 | Congo, Democratic Republic of the | 201 | 2012 |
+| 31 | Kenya | 194 | 2012 |
+| 32 | Peru | 191 | 2012 |
+| 33 | Angola | 176 | 2012 |
+| 34 | Japan | 175 | 2012 |
+| 35 | Costa Rica | 153 | 2012 |
+| 36 | Spain | 152 | 2012 |
+| 37 | Pakistan | 151 | 2012 |
+| 38 | Finland | 148 | 2012 |
+| 39 | Libya | 144 | 2012 |
+| 40 | Nicaragua | 143 | 2012 |
+| 41 | Algeria | 142 | 2012 |
+| 42 | Cuba | 136 | 2012 |
+| 43 | Italy | 130 | 2012 |
+| 44 | Oman | 130 | 2012 |
+| 45 | Czech Republic | 128 | 2012 |
+| 46 | Poland | 125 | 2012 |
+| 47 | New Zealand | 122 | 2012 |
+| 48 | Panama | 118 | 2012 |
+| 49 | Malaysia | 117 | 2012 |
+| 50 | Korea, South | 114 | 2012 |
+| 51 | Namibia | 112 | 2012 |
+| 52 | Tanzania | 106 | 2012 |
+| 53 | Honduras | 104 | 2012 |
+| 54 | Iraq | 104 | 2012 |
+| 55 | Thailand | 103 | 2012 |
+| 56 | Mozambique | 100 | 2012 |
+| 57 | Iceland | 99 | 2012 |
+| 58 | Syria | 99 | 2012 |
+| 59 | Turkey | 98 | 2012 |
+| 60 | Norway | 98 | 2012 |
+| 61 | Guyana | 98 | 2012 |
+| 62 | Kazakhstan | 97 | 2012 |
+| 63 | Uruguay | 94 | 2012 |
+| 64 | Denmark | 89 | 2012 |
+| 65 | Zambia | 88 | 2012 |
+| 66 | Egypt | 84 | 2012 |
+| 67 | South Sudan | 84 | NA |
+| 68 | Madagascar | 82 | 2012 |
+| 69 | Greece | 82 | 2012 |
+| 70 | Lithuania | 81 | 2012 |
+| 71 | Korea, North | 81 | 2012 |
+| 72 | Botswana | 76 | 2012 |
+| 73 | Burma | 74 | 2012 |
+| 74 | Sudan | 72 | 2012 |
+| 75 | Croatia | 69 | 2012 |
+| 76 | Portugal | 65 | 2012 |
+| 77 | El Salvador | 65 | 2012 |
+| 78 | Belarus | 65 | 2012 |
+| 79 | Switzerland | 64 | 2012 |
+| 80 | Somalia | 62 | 2012 |
+| 81 | Bahamas, The | 61 | 2012 |
+| 82 | Ethiopia | 58 | 2012 |
+| 83 | Chad | 58 | 2012 |
+| 84 | Yemen | 57 | 2012 |
+| 85 | Morocco | 56 | 2012 |
+| 86 | Romania | 53 | 2012 |
+| 87 | French Polynesia | 53 | 2012 |
+| 88 | Nigeria | 53 | 2012 |
+| 89 | Uzbekistan | 53 | 2012 |
+| 90 | Austria | 52 | 2012 |
+| 91 | Afghanistan | 52 | 2012 |
+| 92 | Israel | 47 | 2012 |
+| 93 | Suriname | 47 | 2012 |
+| 94 | Nepal | 47 | 2012 |
+| 95 | Uganda | 46 | 2012 |
+| 96 | Gabon | 45 | 2012 |
+| 97 | Mongolia | 44 | 2012 |
+| 98 | Vietnam | 44 | 2012 |
+| 99 | Belize | 43 | 2012 |
+| 100 | Belgium | 43 | 2012 |
+| 101 | Laos | 42 | 2012 |
+| 102 | United Arab Emirates | 42 | 2012 |
+| 103 | Latvia | 42 | 2012 |
+| 104 | Hungary | 41 | 2012 |
+| 105 | Central African Republic | 40 | 2012 |
+| 106 | Taiwan | 40 | 2012 |
+| 107 | Ireland | 39 | 2012 |
+| 108 | Azerbaijan | 37 | 2012 |
+| 109 | Slovakia | 37 | 2012 |
+| 110 | Dominican Republic | 36 | 2012 |
+| 111 | Solomon Islands | 36 | 2012 |
+| 112 | Cameroon | 34 | 2012 |
+| 113 | Vanuatu | 31 | 2012 |
+| 114 | Malawi | 31 | 2012 |
+| 115 | Niger | 30 | 2012 |
+| 116 | Serbia | 30 | 2012 |
+| 117 | Puerto Rico | 29 | 2012 |
+| 118 | Liberia | 29 | 2012 |
+| 119 | Tunisia | 29 | 2012 |
+| 120 | Kyrgyzstan | 28 | 2012 |
+| 121 | Fiji | 28 | 2012 |
+| 122 | Mauritania | 28 | 2012 |
+| 123 | Cote d'Ivoire | 27 | 2012 |
+| 124 | Netherlands | 27 | 2012 |
+| 125 | Jamaica | 27 | 2012 |
+| 126 | Turkmenistan | 26 | 2012 |
+| 127 | New Caledonia | 25 | 2012 |
+| 128 | Congo, Republic of the | 25 | 2012 |
+| 129 | Bosnia and Herzegovina | 25 | 2012 |
+| 130 | Tajikistan | 24 | 2012 |
+| 131 | Lesotho | 24 | 2012 |
+| 132 | Burkina Faso | 24 | 2012 |
+| 133 | Antarctica | 23 | 2012 |
+| 134 | Georgia | 22 | 2012 |
+| 135 | Mali | 21 | 2012 |
+| 136 | Senegal | 20 | 2012 |
+| 137 | Kiribati | 19 | 2012 |
+| 138 | Jordan | 18 | 2012 |
+| 139 | Estonia | 18 | 2012 |
+| 140 | Sri Lanka | 18 | 2012 |
+| 141 | Bangladesh | 18 | 2012 |
+| 142 | Slovenia | 16 | 2012 |
+| 143 | Cambodia | 16 | 2012 |
+| 144 | Guinea | 16 | 2012 |
+| 145 | Marshall Islands | 15 | 2012 |
+| 146 | Cyprus | 15 | 2012 |
+| 147 | Greenland | 15 | 2012 |
+| 148 | Swaziland | 15 | 2012 |
+| 149 | Seychelles | 14 | 2012 |
+| 150 | Macedonia | 14 | 2012 |
+| 151 | Haiti | 14 | 2012 |
+| 152 | Eritrea | 13 | 2012 |
+| 153 | Djibouti | 13 | 2012 |
+| 154 | Cook Islands | 11 | 2012 |
+| 155 | Armenia | 11 | 2012 |
+| 156 | Ghana | 10 | 2012 |
+| 157 | Moldova | 10 | 2012 |
+| 158 | Cape Verde | 9 | 2012 |
+| 159 | Singapore | 9 | 2012 |
+| 160 | Guinea-Bissau | 8 | 2012 |
+| 161 | Sierra Leone | 8 | 2012 |
+| 162 | Kosovo | 8 | 2012 |
+| 163 | Togo | 8 | 2012 |
+| 164 | Turks and Caicos Islands | 8 | 2012 |
+| 165 | Rwanda | 7 | 2012 |
+| 166 | Kuwait | 7 | 2012 |
+| 167 | Falkland Islands (Islas Malvinas) | 7 | 2012 |
+| 168 | Burundi | 7 | 2012 |
+| 169 | Equatorial Guinea | 7 | 2012 |
+| 170 | Lebanon | 7 | 2012 |
+| 171 | Qatar | 6 | 2012 |
+| 172 | Tonga | 6 | 2012 |
+| 173 | Timor-Leste | 6 | 2012 |
+| 174 | Micronesia, Federated States of | 6 | 2012 |
+| 175 | Western Sahara | 6 | 2012 |
+| 176 | Maldives | 6 | 2012 |
+| 177 | Saint Vincent and the Grenadines | 6 | 2012 |
+| 178 | Trinidad and Tobago | 5 | 2012 |
+| 179 | Guam | 5 | 2012 |
+| 180 | Montenegro | 5 | 2012 |
+| 181 | Northern Mariana Islands | 5 | 2012 |
+| 182 | Albania | 5 | 2012 |
+| 183 | Benin | 5 | 2012 |
+| 184 | Mauritius | 5 | 2012 |
+| 185 | Svalbard | 4 | 2012 |
+| 186 | British Virgin Islands | 4 | 2012 |
+| 187 | Samoa | 4 | 2012 |
+| 188 | French Southern and Antarctic Lands | 4 | 2010 |
+| 189 | Bahrain | 4 | 2012 |
+| 190 | Comoros | 4 | 2012 |
+| 191 | Spratly Islands | 4 | 2012 |
+| 192 | Palau | 3 | 2012 |
+| 193 | Antigua and Barbuda | 3 | 2012 |
+| 194 | American Samoa | 3 | 2012 |
+| 195 | Anguilla | 3 | 2012 |
+| 196 | Cayman Islands | 3 | 2012 |
+| 197 | Grenada | 3 | 2012 |
+| 198 | Sao Tome and Principe | 2 | 2012 |
+| 199 | Hong Kong | 2 | 2012 |
+| 200 | Dominica | 2 | 2012 |
+| 201 | Saint Pierre and Miquelon | 2 | 2012 |
+| 202 | Guernsey | 2 | 2012 |
+| 203 | Saint Kitts and Nevis | 2 | 2012 |
+| 204 | Bhutan | 2 | 2012 |
+| 205 | Luxembourg | 2 | 2012 |
+| 206 | Wallis and Futuna | 2 | 2012 |
+| 207 | West Bank | 2 | 2012 |
+| 208 | Virgin Islands | 2 | 2012 |
+| 209 | Saint Lucia | 2 | 2012 |
+| 210 | Macau | 1 | 2012 |
+| 211 | Montserrat | 1 | 2012 |
+| 212 | Malta | 1 | 2012 |
+| 213 | Niue | 1 | 2012 |
+| 214 | Norfolk Island | 1 | 2012 |
+| 215 | Nauru | 1 | 2012 |
+| 216 | Paracel Islands | 1 | 2012 |
+| 217 | Aruba | 1 | 2012 |
+| 218 | Barbados | 1 | 2012 |
+| 219 | Bermuda | 1 | 2012 |
+| 220 | Brunei | 1 | 2012 |
+| 221 | Curacao | 1 | NA |
+| 222 | Cocos (Keeling) Islands | 1 | 2012 |
+| 223 | Faroe Islands | 1 | 2012 |
+| 224 | Gambia, The | 1 | 2012 |
+| 225 | Christmas Island | 1 | 2012 |
+| 226 | Gibraltar | 1 | 2012 |
+| 227 | Jersey | 1 | 2012 |
+| 228 | British Indian Ocean Territory | 1 | 2012 |
+| 229 | Isle of Man | 1 | 2012 |
+| 230 | Gaza Strip | 1 | 2012 |
+| 231 | Wake Island | 1 | 2012 |
+| 232 | Tuvalu | 1 | 2012 |
+| 233 | Saint Barthelemy | 1 | 2012 |
+| 234 | Sint Maarten | 1 | NA |
+| 235 | Saint Helena, Ascension, and Tristan da Cunha | 1 | 2012 |
+| 236 | Saint Martin | 1 | 2012 |
+| 237 | Jan Mayen | 1 | 2012 |

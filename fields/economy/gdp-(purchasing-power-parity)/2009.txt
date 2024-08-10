@@ -1,0 +1,234 @@
+CIA - The World Factbook --  GDP (purchasing power parity)   
+
+This entry gives the gross domestic product (GDP) or value of all final goods and services produced within a nation in a given year. A nation's GDP at purchasing power parity (PPP) exchange rates is the sum value of all goods and services produced in the country valued at prices prevailing in the United States. This is the measure most economists prefer when looking at per-capita welfare and when comparing living conditions or use of resources across countries. The measure is difficult to compute, as a US dollar value has to be assigned to all goods and services in the country regardless of whether these goods and services have a direct equivalent in the United States (for example, the value of an ox-cart or non-US military equipment); as a result, PPP estimates for some countries are based on a small and sometimes different set of goods and services. In addition, many countries do not formally participate in the World Bank's PPP project that calculates these measures, so the resulting GDP estimates for these countries may lack precision. For many developing countries, PPP-based GDP measures are multiples of the official exchange rate (OER) measure. The differences between the OER- and PPP-denominated GDP values for most of the wealthy industrialized countries are generally much smaller.
+
+| Rank | country | GDP (purchasing power parity) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | European Union | $ 14,940,000,000,000 | 2008 est. |
+| 2 | United States | $ 14,440,000,000,000 | 2008 est. |
+| 3 | China | $ 7,992,000,000,000 | 2008 est. |
+| 4 | Japan | $ 4,340,000,000,000 | 2008 est. |
+| 5 | India | $ 3,304,000,000,000 | 2008 est. |
+| 6 | Germany | $ 2,925,000,000,000 | 2008 est. |
+| 7 | Russia | $ 2,271,000,000,000 | 2008 est. |
+| 8 | United Kingdom | $ 2,236,000,000,000 | 2008 est. |
+| 9 | France | $ 2,133,000,000,000 | 2008 est. |
+| 10 | Brazil | $ 1,998,000,000,000 | 2008 est. |
+| 11 | Italy | $ 1,827,000,000,000 | 2008 est. |
+| 12 | Mexico | $ 1,567,000,000,000 | 2008 est. |
+| 13 | Spain | $ 1,402,000,000,000 | 2008 est. |
+| 14 | Korea, South | $ 1,338,000,000,000 | 2008 est. |
+| 15 | Canada | $ 1,303,000,000,000 | 2008 est. |
+| 16 | Indonesia | $ 916,700,000,000 | 2008 est. |
+| 17 | Turkey | $ 903,900,000,000 | 2008 est. |
+| 18 | Iran | $ 843,700,000,000 | 2008 est. |
+| 19 | Australia | $ 802,900,000,000 | 2008 est. |
+| 20 | Taiwan | $ 713,700,000,000 | 2008 est. |
+| 21 | Netherlands | $ 673,500,000,000 | 2008 est. |
+| 22 | Poland | $ 670,700,000,000 | 2008 est. |
+| 23 | Saudi Arabia | $ 577,900,000,000 | 2008 est. |
+| 24 | Argentina | $ 575,200,000,000 | 2008 est. |
+| 25 | Thailand | $ 548,700,000,000 | 2008 est. |
+| 26 | South Africa | $ 492,200,000,000 | 2008 est. |
+| 27 | Egypt | $ 444,800,000,000 | 2008 est. |
+| 28 | Pakistan | $ 431,200,000,000 | 2008 est. |
+| 29 | Colombia | $ 396,000,000,000 | 2008 est. |
+| 30 | Belgium | $ 390,200,000,000 | 2008 est. |
+| 31 | Malaysia | $ 385,200,000,000 | 2008 est. |
+| 32 | Venezuela | $ 356,300,000,000 | 2008 est. |
+| 33 | Sweden | $ 345,100,000,000 | 2008 est. |
+| 34 | Greece | $ 343,800,000,000 | 2008 est. |
+| 35 | Ukraine | $ 338,600,000,000 | 2008 est. |
+| 36 | Nigeria | $ 336,200,000,000 | 2008 est. |
+| 37 | Austria | $ 331,200,000,000 | 2008 est. |
+| 38 | Philippines | $ 318,200,000,000 | 2008 est. |
+| 39 | Switzerland | $ 318,100,000,000 | 2008 est. |
+| 40 | Hong Kong | $ 307,300,000,000 | 2008 est. |
+| 41 | Norway | $ 276,300,000,000 | 2008 est. |
+| 42 | Romania | $ 272,000,000,000 | 2008 est. |
+| 43 | Czech Republic | $ 264,800,000,000 | 2008 est. |
+| 44 | Peru | $ 247,900,000,000 | 2008 est. |
+| 45 | Chile | $ 245,100,000,000 | 2008 est. |
+| 46 | Vietnam | $ 242,300,000,000 | 2008 est. |
+| 47 | Singapore | $ 237,900,000,000 | 2008 est. |
+| 48 | Portugal | $ 237,300,000,000 | 2008 est. |
+| 49 | Algeria | $ 233,500,000,000 | 2008 est. |
+| 50 | Bangladesh | $ 226,400,000,000 | 2008 est. |
+| 51 | United Arab Emirates | $ 206,300,000,000 | 2008 est. |
+| 52 | Denmark | $ 204,100,000,000 | 2008 est. |
+| 53 | Israel | $ 203,400,000,000 | 2008 est. |
+| 54 | Hungary | $ 196,700,000,000 | 2008 est. |
+| 55 | Finland | $ 194,000,000,000 | 2008 est. |
+| 56 | Ireland | $ 189,000,000,000 | 2008 est. |
+| 57 | Kazakhstan | $ 176,200,000,000 | 2008 est. |
+| 58 | Kuwait | $ 149,500,000,000 | 2008 est. |
+| 59 | Morocco | $ 137,900,000,000 | 2008 est. |
+| 60 | Slovakia | $ 119,800,000,000 | 2008 est. |
+| 61 | New Zealand | $ 116,600,000,000 | 2008 est. |
+| 62 | Belarus | $ 114,300,000,000 | 2008 est. |
+| 63 | Angola | $ 112,800,000,000 | 2008 est. |
+| 64 | Cuba | $ 108,400,000,000 | 2008 est. |
+| 65 | Ecuador | $ 108,000,000,000 | 2008 est. |
+| 66 | Syria | $ 99,060,000,000 | 2008 est. |
+| 67 | Bulgaria | $ 93,980,000,000 | 2008 est. |
+| 68 | Sri Lanka | $ 92,090,000,000 | 2008 est. |
+| 69 | Qatar | $ 91,550,000,000 | 2008 est. |
+| 70 | Iraq | $ 90,230,000,000 | 2008 est. |
+| 71 | Sudan | $ 88,370,000,000 | 2008 est. |
+| 72 | Libya | $ 87,720,000,000 | 2008 est. |
+| 73 | Croatia | $ 82,580,000,000 | 2008 est. |
+| 74 | Tunisia | $ 81,980,000,000 | 2008 est. |
+| 75 | Serbia | $ 79,770,000,000 | 2008 est. |
+| 76 | Dominican Republic | $ 78,190,000,000 | 2008 est. |
+| 77 | Azerbaijan | $ 77,790,000,000 | 2008 est. |
+| 78 | Uzbekistan | $ 71,840,000,000 | 2008 est. |
+| 79 | Ethiopia | $ 70,230,000,000 | 2008 est. |
+| 80 | Puerto Rico | $ 70,230,000,000 | 2008 est. |
+| 81 | Guatemala | $ 68,750,000,000 | 2008 est. |
+| 82 | Oman | $ 66,870,000,000 | 2008 est. |
+| 83 | Lithuania | $ 63,370,000,000 | 2008 est. |
+| 84 | Kenya | $ 61,650,000,000 | 2008 est. |
+| 85 | Slovenia | $ 59,490,000,000 | 2008 est. |
+| 86 | Yemen | $ 55,410,000,000 | 2008 est. |
+| 87 | Burma | $ 55,270,000,000 | 2008 est. |
+| 88 | Tanzania | $ 54,380,000,000 | 2008 est. |
+| 89 | Costa Rica | $ 48,840,000,000 | 2008 est. |
+| 90 | Lebanon | $ 44,160,000,000 | 2008 est. |
+| 91 | El Salvador | $ 43,730,000,000 | 2008 est. |
+| 92 | Bolivia | $ 43,380,000,000 | 2008 est. |
+| 93 | Uruguay | $ 43,270,000,000 | 2008 est. |
+| 94 | Cameroon | $ 42,690,000,000 | 2008 est. |
+| 95 | Uganda | $ 40,080,000,000 | 2008 est. |
+| 96 | Korea, North | $ 40,000,000,000 | 2008 est. |
+| 97 | Luxembourg | $ 39,470,000,000 | 2008 est. |
+| 98 | Latvia | $ 38,950,000,000 | 2008 est. |
+| 99 | Panama | $ 38,920,000,000 | 2008 est. |
+| 100 | Ghana | $ 34,520,000,000 | 2008 est. |
+| 101 | Cote d'Ivoire | $ 34,120,000,000 | 2008 est. |
+| 102 | Honduras | $ 33,800,000,000 | 2008 est. |
+| 103 | Jordan | $ 31,680,000,000 | 2008 est. |
+| 104 | Nepal | $ 31,390,000,000 | 2008 est. |
+| 105 | Turkmenistan | $ 31,280,000,000 | 2008 est. |
+| 106 | Bosnia and Herzegovina | $ 29,770,000,000 | 2008 est. |
+| 107 | Trinidad and Tobago | $ 29,090,000,000 | 2008 est. |
+| 108 | Paraguay | $ 28,950,000,000 | 2008 est. |
+| 109 | Estonia | $ 28,030,000,000 | 2008 est. |
+| 110 | Cambodia | $ 28,010,000,000 | 2008 est. |
+| 111 | Botswana | $ 27,110,000,000 | 2008 est. |
+| 112 | Bahrain | $ 26,890,000,000 | 2008 est. |
+| 113 | Jamaica | $ 24,040,000,000 | 2008 est. |
+| 114 | Equatorial Guinea | $ 23,000,000,000 | 2008 est. |
+| 115 | Cyprus | $ 22,760,000,000 | 2008 est. |
+| 116 | Afghanistan | $ 22,320,000,000 | 2008 est. |
+| 117 | Albania | $ 21,860,000,000 | 2008 est. |
+| 118 | Senegal | $ 21,780,000,000 | 2008 est. |
+| 119 | Georgia | $ 21,560,000,000 | 2008 est. |
+| 120 | Gabon | $ 21,160,000,000 | 2008 est. |
+| 121 | Congo, Democratic Republic of the | $ 20,760,000,000 | 2008 est. |
+| 122 | Madagascar | $ 20,180,000,000 | 2008 est. |
+| 123 | Brunei | $ 19,580,000,000 | 2008 est. |
+| 124 | Mozambique | $ 19,110,000,000 | 2008 est. |
+| 125 | Macedonia | $ 18,830,000,000 | 2008 est. |
+| 126 | Armenia | $ 18,810,000,000 | 2008 est. |
+| 127 | Macau | $ 18,140,000,000 | 2008 est. |
+| 128 | Burkina Faso | $ 17,960,000,000 | 2008 est. |
+| 129 | Zambia | $ 17,540,000,000 | 2008 est. |
+| 130 | Nicaragua | $ 16,830,000,000 | 2008 est. |
+| 131 | Chad | $ 15,820,000,000 | 2008 est. |
+| 132 | Mauritius | $ 15,430,000,000 | 2008 est. |
+| 133 | Congo, Republic of the | $ 15,390,000,000 | 2008 est. |
+| 134 | Mali | $ 14,750,000,000 | 2008 est. |
+| 135 | Laos | $ 14,010,000,000 | 2008 est. |
+| 136 | Namibia | $ 13,280,000,000 | 2008 est. |
+| 137 | Tajikistan | $ 13,190,000,000 | 2008 est. |
+| 138 | Papua New Guinea | $ 13,170,000,000 | 2008 est. |
+| 139 | Iceland | $ 12,870,000,000 | 2008 est. |
+| 140 | Benin | $ 12,860,000,000 | 2008 est. |
+| 141 | Gaza Strip | $ 11,950,000,000 | 2008 est. |
+| 142 | West Bank | $ 11,950,000,000 | 2008 est. |
+| 143 | Malawi | $ 11,950,000,000 | 2008 est. |
+| 144 | Kyrgyzstan | $ 11,640,000,000 | 2008 est. |
+| 145 | Haiti | $ 11,530,000,000 | 2008 est. |
+| 146 | Moldova | $ 10,800,000,000 | 2008 est. |
+| 147 | Guinea | $ 10,620,000,000 | 2008 est. |
+| 148 | Niger | $ 10,290,000,000 | 2008 est. |
+| 149 | Malta | $ 9,933,000,000 | 2008 est. |
+| 150 | Rwanda | $ 9,729,000,000 | 2008 est. |
+| 151 | Mongolia | $ 9,499,000,000 | 2008 est. |
+| 152 | Bahamas, The | $ 9,352,000,000 | 2008 est. |
+| 153 | Montenegro | $ 6,832,000,000 | 2008 est. |
+| 154 | Mauritania | $ 6,323,000,000 | 2008 est. |
+| 155 | Swaziland | $ 5,826,000,000 | 2008 est. |
+| 156 | Somalia | $ 5,524,000,000 | 2008 est. |
+| 157 | Barbados | $ 5,367,000,000 | 2008 est. |
+| 158 | Togo | $ 5,130,000,000 | 2008 est. |
+| 159 | Jersey | $ 5,100,000,000 | 2005 est. |
+| 160 | Kosovo | $ 5,000,000,000 | 2007 est. |
+| 161 | French Polynesia | $ 4,718,000,000 | 2004 est. |
+| 162 | Bermuda | $ 4,500,000,000 | 2004 est. |
+| 163 | Sierra Leone | $ 4,388,000,000 | 2008 est. |
+| 164 | Suriname | $ 4,226,000,000 | 2008 est. |
+| 165 | Liechtenstein | $ 4,160,000,000 | 2007 |
+| 166 | Eritrea | $ 3,954,000,000 | 2008 est. |
+| 167 | Andorra | $ 3,660,000,000 | 2007 |
+| 168 | Fiji | $ 3,587,000,000 | 2008 est. |
+| 169 | Bhutan | $ 3,533,000,000 | 2008 est. |
+| 170 | Lesotho | $ 3,301,000,000 | 2008 est. |
+| 171 | Central African Republic | $ 3,184,000,000 | 2008 est. |
+| 172 | New Caledonia | $ 3,158,000,000 | 2003 est. |
+| 173 | Burundi | $ 3,109,000,000 | 2008 est. |
+| 174 | Guyana | $ 2,973,000,000 | 2008 est. |
+| 175 | Netherlands Antilles | $ 2,800,000,000 | 2004 est. |
+| 176 | Guernsey | $ 2,742,000,000 | 2005 |
+| 177 | Isle of Man | $ 2,719,000,000 | 2005 est. |
+| 178 | Belize | $ 2,542,000,000 | 2008 est. |
+| 179 | Timor-Leste | $ 2,526,000,000 | 2008 est. |
+| 180 | Gambia, The | $ 2,277,000,000 | 2008 est. |
+| 181 | Aruba | $ 2,258,000,000 | 2005 est. |
+| 182 | Cayman Islands | $ 1,939,000,000 | 2004 est. |
+| 183 | Zimbabwe | $ 1,925,000,000 | 2008 est. |
+| 184 | Djibouti | $ 1,891,000,000 | 2008 est. |
+| 185 | Seychelles | $ 1,821,000,000 | 2008 est. |
+| 186 | Saint Lucia | $ 1,774,000,000 | 2008 est. |
+| 187 | Maldives | $ 1,723,000,000 | 2008 est. |
+| 188 | San Marino | $ 1,662,000,000 | 2007 |
+| 189 | Antigua and Barbuda | $ 1,639,000,000 | 2008 est. |
+| 190 | Cape Verde | $ 1,630,000,000 | 2008 est. |
+| 191 | Virgin Islands | $ 1,577,000,000 | 2004 est. |
+| 192 | Solomon Islands | $ 1,546,000,000 | 2008 est. |
+| 193 | Liberia | $ 1,531,000,000 | 2008 est. |
+| 194 | Grenada | $ 1,190,000,000 | 2008 est. |
+| 195 | Greenland | $ 1,100,000,000 | 2001 est. |
+| 196 | Saint Vincent and the Grenadines | $ 1,072,000,000 | 2008 est. |
+| 197 | Gibraltar | $ 1,066,000,000 | 2005 est. |
+| 198 | Samoa | $ 1,021,000,000 | 2008 est. |
+| 199 | Faroe Islands | $ 1,000,000,000 | 2001 est. |
+| 200 | Vanuatu | $ 990,800,000 | 2008 est. |
+| 201 | Monaco | $ 976,300,000 | 2006 est. |
+| 202 | Mayotte | $ 953,600,000 | 2005 est. |
+| 203 | Northern Mariana Islands | $ 900,000,000 | 2000 est. |
+| 204 | Western Sahara | $ 900,000,000 | 2007 est. |
+| 205 | Guinea-Bissau | $ 896,500,000 | 2008 est. |
+| 206 | British Virgin Islands | $ 853,400,000 | 2004 est. |
+| 207 | Saint Kitts and Nevis | $ 759,500,000 | 2008 est. |
+| 208 | Comoros | $ 741,700,000 | 2008 est. |
+| 209 | Dominica | $ 726,300,000 | 2008 est. |
+| 210 | Kiribati | $ 580,800,000 | 2008 est. |
+| 211 | American Samoa | $ 575,300,000 | 2007 est. |
+| 212 | Tonga | $ 548,100,000 | 2008 est. |
+| 213 | Sao Tome and Principe | $ 277,100,000 | 2008 est. |
+| 214 | Micronesia, Federated States of | $ 238,100,000 | 2008 est. |
+| 215 | Turks and Caicos Islands | $ 216,000,000 | 2002 est. |
+| 216 | Cook Islands | $ 183,200,000 | 2005 est. |
+| 217 | Palau | $ 164,000,000 | 2008 est. |
+| 218 | Marshall Islands | $ 133,500,000 | 2008 est. |
+| 219 | Anguilla | $ 108,900,000 | 2004 est. |
+| 220 | Falkland Islands (Islas Malvinas) | $ 105,100,000 | 2002 est. |
+| 221 | Nauru | $ 60,000,000 | 2005 est. |
+| 222 | Wallis and Futuna | $ 60,000,000 | 2004 est. |
+| 223 | Saint Pierre and Miquelon | $ 48,300,000 | 2003 est. |
+| 224 | Montserrat | $ 29,000,000 | 2002 est. |
+| 225 | Saint Helena | $ 18,000,000 | 1998 est. |
+| 226 | Tuvalu | $ 14,940,000 | 2002 est. |
+| 227 | Niue | $ 10,010,000 | 2003 est. |
+| 228 | Tokelau | $ 1,500,000 | 1993 est. |

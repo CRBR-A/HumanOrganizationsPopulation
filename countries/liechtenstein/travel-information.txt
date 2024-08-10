@@ -1,0 +1,27 @@
+Telephone Code: 423
+Local Emergency Phone: 112
+Climate: Continental; cold, cloudy winters with frequent snow or rain; cool to moderately warm, cloudy, humid summers
+Currency (Code): Swiss francs (CHF)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, J
+Major Languages: German, Italian, Turkish, Portuguese
+Major Religions: Roman Catholic 73.4%, Protestant Reformed 6.3%, Muslim 5.9%, Christian Orthodox 1.3%, Lutheran 1.2%, other Protestant .7%
+Time Difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time); daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October
+Potable Water: Yes
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Treasure Chamber; Kunstmuseum Liechtenstein; Gutenberg Castle; Liechtenstein National Museum; Towns of Nendeln & Eschen
+Major Sports: Soccer, downhill skiing, tennis, swimming, mountain biking
+Cultural Practices: Liechtenstein's workday is longer than many other countries, 8 a.m. to 6:30 p.m., albeit with a very long lunch break (officially from noon to 1:30 p.m.). So, do not be surprised if people are busy until later than might otherwise be expected. Additionally, on the country's National Day, 15 August, all residents of the principality are invited to Vaduz Castle, the prince's residence, for a reception that includes speeches and free aperitifs.
+Tipping Guidelines: Service charges are included in most bills and further tipping is not required. Taxi fares include a service charge so no tipping is necessary.
+Souvenirs: Embroidered household linens, knitted woolen and felt items; wooden toys, cuckoo clocks, and jewelry boxes; ceramic, pottery, and marble items; wine, collectible postage stamps
+Traditional Cuisine: Käsknöpfle --- pasta and sweet onions in cheese sauce
+
+---
+country: Liechtenstein
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Liechtenstein/travel-facts>
+license: public domain (U.S.)
+...

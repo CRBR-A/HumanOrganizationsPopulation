@@ -1,0 +1,212 @@
+CIA - The World Factbook --  UNEMPLOYMENT RATE
+
+Unemployement rate compares the percent of the labor force that is without jobs.
+
+| Rank | Country | (%) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Cambodia | 0.00 | 2011 est. |
+| 2 | Qatar | 0.40 | 2014 est. |
+| 3 | Guernsey | 0.90 | March 2006 est. |
+| 4 | Thailand | 1.00 | 2014 est. |
+| 5 | Belarus | 1.00 | 2009 est. |
+| 6 | Laos | 1.30 | 2012 est. |
+| 7 | Jersey | 1.70 | 2012 est. |
+| 8 | Vanuatu | 1.70 | 1999 |
+| 9 | Singapore | 1.90 | 2014 est. |
+| 10 | Papua New Guinea | 1.90 | 2008 est. |
+| 11 | Macau | 1.90 | 2013 est. |
+| 12 | Monaco | 2.00 | 2012 |
+| 13 | Seychelles | 2.00 | 2006 est. |
+| 14 | Isle of Man | 2.00 | April 2011 est. |
+| 15 | Kiribati | 2.00 | 1992 est. |
+| 16 | Liechtenstein | 2.30 | 2012 |
+| 17 | United Arab Emirates | 2.40 | 2001 |
+| 18 | Tajikistan | 2.50 | 2013 est. |
+| 19 | Brunei | 2.60 | 2011 |
+| 20 | Bhutan | 2.90 | 2013 est. |
+| 21 | Malaysia | 2.90 | 2014 est. |
+| 22 | Gibraltar | 3.00 | 2005 est. |
+| 23 | Kuwait | 3.00 | 2014 est. |
+| 24 | Hong Kong | 3.10 | 2014 est. |
+| 25 | Vietnam | 3.10 | 2014 est. |
+| 26 | Switzerland | 3.20 | 2014 est. |
+| 27 | Korea, South | 3.30 | 2014 est. |
+| 28 | Norway | 3.40 | 2014 est. |
+| 29 | Cuba | 3.60 | 2014 est. |
+| 30 | Japan | 3.60 | 2014 est. |
+| 31 | Taiwan | 3.80 | 2014 est. |
+| 32 | Bahrain | 3.80 | 2014 est. |
+| 33 | Andorra | 4.00 | 2012 est. |
+| 34 | Cayman Islands | 4.00 | 2008 |
+| 35 | Guatemala | 4.10 | 2011 est. |
+| 36 | China | 4.10 | 2014 est. |
+| 37 | Falkland Islands (Islas Malvinas) | 4.10 | 2010 |
+| 38 | Sri Lanka | 4.20 | 2014 est. |
+| 39 | Palau | 4.20 | 2005 est. |
+| 40 | Honduras | 4.30 | 2014 est. |
+| 41 | Saint Kitts and Nevis | 4.50 | 1997 |
+| 42 | Austria | 4.50 | 2014 est. |
+| 43 | Iceland | 4.50 | 2014 est. |
+| 44 | Panama | 4.50 | 2014 est. |
+| 45 | Mexico | 4.70 | 2014 est. |
+| 46 | Russia | 4.90 | 2014 est. |
+| 47 | Uzbekistan | 4.90 | 2014 est. |
+| 48 | Bangladesh | 5.00 | 2014 est. |
+| 49 | Germany | 5.00 | 2014 est. |
+| 50 | Ecuador | 5.00 | 2014 est. |
+| 51 | Kazakhstan | 5.10 | 2014 est. |
+| 52 | Burma | 5.10 | 2014 est. |
+| 53 | Denmark | 5.20 | 2014 est. |
+| 54 | Trinidad and Tobago | 5.30 | 2014 est. |
+| 55 | Azerbaijan | 5.40 | 2014 est. |
+| 56 | Faroe Islands | 5.50 | 2012 |
+| 57 | Brazil | 5.50 | 2014 est. |
+| 58 | Indonesia | 5.70 | 2014 est. |
+| 59 | United Kingdom | 5.70 | 2014 est. |
+| 60 | New Zealand | 5.90 | 2014 est. |
+| 61 | Malta | 5.90 | 2014 est. |
+| 62 | Australia | 6.00 | 2014 est. |
+| 63 | Montserrat | 6.00 | 1998 est. |
+| 64 | Virgin Islands | 6.20 | 2004 |
+| 65 | United States | 6.20 | 2014 est. |
+| 66 | Moldova | 6.20 | 2014 est. |
+| 67 | El Salvador | 6.20 | 2014 est. |
+| 68 | Chile | 6.50 | 2014 est. |
+| 69 | Israel | 6.60 | 2014 est. |
+| 70 | Uruguay | 6.70 | 2014 est. |
+| 71 | Pakistan | 6.80 | FY2014 est. |
+| 72 | Canada | 6.90 | 2014 est. |
+| 73 | Aruba | 6.90 | 2005 est. |
+| 74 | San Marino | 7.00 | 2012 |
+| 75 | Romania | 7.00 | 2014 est. |
+| 76 | Luxembourg | 7.10 | 2014 est. |
+| 77 | Hungary | 7.10 | 2014 est. |
+| 78 | Philippines | 7.20 | 2014 est. |
+| 79 | Netherlands | 7.20 | 2014 est. |
+| 80 | Paraguay | 7.30 | 2014 est. |
+| 81 | Bolivia | 7.30 | 2014 est. |
+| 82 | Nicaragua | 7.40 | 2014 est. |
+| 83 | Fiji | 7.60 | 1999 |
+| 84 | Peru | 7.60 | 2014 est. |
+| 85 | Argentina | 7.70 | 2014 est. |
+| 86 | Venezuela | 7.80 | 2014 est. |
+| 87 | Sweden | 7.90 | 2014 est. |
+| 88 | Czech Republic | 7.90 | 2014 est. |
+| 89 | Bermuda | 8.00 | 2012 est. |
+| 90 | Anguilla | 8.00 | 2002 |
+| 91 | Mauritius | 8.00 | 2014 est. |
+| 92 | Central African Republic | 8.00 | 2001 est. |
+| 93 | Guam | 8.20 | 2010 est. |
+| 94 | Costa Rica | 8.50 | 2014 est. |
+| 95 | Belgium | 8.50 | 2014 est. |
+| 96 | Kyrgyzstan | 8.60 | 2011 est. |
+| 97 | India | 8.60 | 2014 est. |
+| 98 | Finland | 8.60 | 2014 est. |
+| 99 | Eritrea | 8.60 | 2013 est. |
+| 100 | Estonia | 8.60 | 2014 est. |
+| 101 | British Virgin Islands | 8.70 | 2010 est. |
+| 102 | Mongolia | 8.80 | 2014 est. |
+| 103 | Ukraine | 8.80 | 2014 est. |
+| 104 | Suriname | 9.00 | 2008 |
+| 105 | Colombia | 9.20 | 2014 est. |
+| 106 | Turkey | 9.40 | 2014 est. |
+| 107 | Greenland | 9.40 | 2013 est. |
+| 108 | Latvia | 9.50 | 2014 est. |
+| 109 | Morocco | 9.60 | 2014 est. |
+| 110 | France | 9.70 | 2014 est. |
+| 111 | Algeria | 9.70 | 2014 est. |
+| 112 | Saint Pierre and Miquelon | 9.90 | 2008 est. |
+| 113 | Turks and Caicos Islands | 10.00 | 1997 est. |
+| 114 | European Union | 10.00 | 2014 est. |
+| 115 | Iran | 10.30 | 2014 est. |
+| 116 | Maldives | 11.00 | 2012 est. |
+| 117 | Guyana | 11.00 | 2007 |
+| 118 | Ghana | 11.00 | 2000 est. |
+| 119 | Bulgaria | 11.00 | 2014 est. |
+| 120 | Antigua and Barbuda | 11.00 | 2001 est. |
+| 121 | Lithuania | 11.10 | 2014 est. |
+| 122 | Saudi Arabia | 11.20 | 2014 est. |
+| 123 | Northern Mariana Islands | 11.20 | 2010 est. |
+| 124 | Ireland | 11.30 | 2014 est. |
+| 125 | Barbados | 11.50 | 2014 est. |
+| 126 | Sint Maarten | 12.00 | 2012 est. |
+| 127 | Niue | 12.00 | 2001 |
+| 128 | Wallis and Futuna | 12.20 | 2008 |
+| 129 | Jordan | 12.30 | 2014 est. |
+| 130 | Italy | 12.50 | 2014 est. |
+| 131 | Poland | 12.70 | 2014 est. |
+| 132 | Slovakia | 12.70 | 2014 est. |
+| 133 | Tonga | 13.00 | FY03/04 est. |
+| 134 | Curacao | 13.00 | 2013 est. |
+| 135 | Cook Islands | 13.10 | 2005 |
+| 136 | Albania | 13.30 | 2014 est. |
+| 137 | Egypt | 13.40 | 2014 est. |
+| 138 | Slovenia | 13.60 | 2014 est. |
+| 139 | Jamaica | 13.60 | 2014 est. |
+| 140 | Saint Helena, Ascension, and Tristan da Cunha | 14.00 | 1998 est. |
+| 141 | Portugal | 14.20 | 2014 est. |
+| 142 | Dominican Republic | 14.60 | 2014 est. |
+| 143 | Georgia | 14.90 | 2014 est. |
+| 144 | Zambia | 15.00 | 2008 est. |
+| 145 | Oman | 15.00 | 2004 est. |
+| 146 | Tunisia | 15.20 | 2014 est. |
+| 147 | Belize | 15.50 | 2013 |
+| 148 | Armenia | 15.90 | 2013 est. |
+| 149 | Cyprus | 15.90 | 2013 est. |
+| 150 | West Bank | 16.00 | 2014 est. |
+| 151 | Puerto Rico | 16.00 | 2011 est. |
+| 152 | Iraq | 16.00 | 2012 est. |
+| 153 | Bahamas, The | 16.20 | 2013 est. |
+| 154 | Mozambique | 17.00 | 2007 est. |
+| 155 | New Caledonia | 17.10 | 2004 |
+| 156 | Ethiopia | 17.50 | 2012 est. |
+| 157 | Botswana | 17.80 | 2009 est. |
+| 158 | Timor-Leste | 18.40 | 2010 est. |
+| 159 | Saint Vincent and the Grenadines | 18.80 | 2008 est. |
+| 160 | Montenegro | 19.10 | 2012 est. |
+| 161 | Sudan | 20.00 | 2012 est. |
+| 162 | Saint Lucia | 20.00 | 2003 est. |
+| 163 | Comoros | 20.00 | 1996 est. |
+| 164 | Croatia | 21.00 | 2014 est. |
+| 165 | Gabon | 21.00 | 2006 est. |
+| 166 | Cabo Verde | 21.00 | 2000 est. |
+| 167 | French Polynesia | 21.80 | 2012 |
+| 168 | Micronesia, Federated States of | 22.00 | 2000 est. |
+| 169 | Equatorial Guinea | 22.30 | 2009 est. |
+| 170 | Dominica | 23.00 | 2000 est. |
+| 171 | Nigeria | 23.90 | 2011 est. |
+| 172 | Spain | 24.30 | 2014 est. |
+| 173 | South Africa | 25.00 | 2014 est. |
+| 174 | Serbia | 26.10 | 2014 est. |
+| 175 | Greece | 26.80 | 2014 est. |
+| 176 | Yemen | 27.00 | 2014 est. |
+| 177 | Namibia | 27.40 | 2012 est. |
+| 178 | Macedonia | 28.00 | 2014 est. |
+| 179 | Lesotho | 28.10 | 2014 est. |
+| 180 | American Samoa | 29.80 | 2005 |
+| 181 | Mali | 30.00 | 2004 est. |
+| 182 | Libya | 30.00 | 2004 est. |
+| 183 | Cameroon | 30.00 | 2001 est. |
+| 184 | Kosovo | 30.90 | 2013 est. |
+| 185 | Mauritania | 31.00 | 2012 est. |
+| 186 | Syria | 33.00 | 2014 est. |
+| 187 | Grenada | 33.50 | 2013 |
+| 188 | Afghanistan | 35.00 | 2008 est. |
+| 189 | Marshall Islands | 36.00 | 2006 est. |
+| 190 | Swaziland | 40.00 | 2006 est. |
+| 191 | Kenya | 40.00 | 2013 est. |
+| 192 | Haiti | 40.60 | 2010 est. |
+| 193 | Bosnia and Herzegovina | 44.30 | 2013 est. |
+| 194 | Gaza Strip | 45.10 | 2014 est. |
+| 195 | Nepal | 46.00 | 2008 est. |
+| 196 | Senegal | 48.00 | 2007 est. |
+| 197 | Congo, Republic of the | 53.00 | 2012 est. |
+| 198 | Turkmenistan | 60.00 | 2004 est. |
+| 199 | Djibouti | 60.00 | 2014 est. |
+| 200 | Cocos (Keeling) Islands | 60.00 | 2000 est. |
+| 201 | Burkina Faso | 77.00 | 2004 |
+| 202 | Liberia | 85.00 | 2003 est. |
+| 203 | Nauru | 90.00 | 2004 est. |
+| 204 | Zimbabwe | 95.00 | 2009 est. |
+
+

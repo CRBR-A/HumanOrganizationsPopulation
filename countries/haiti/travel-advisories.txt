@@ -1,0 +1,14 @@
+| Precautions | DO NOT TRAVEL to Haiti due to kidnapping, crime, civil unrest, and poor health care infrastructure. U.S. citizens in Haiti should consider departing Haiti now by commercial or other privately available transportation options, in light of the current security situation and infrastructure challenges. U.S. citizens wishing to depart Port-au-Prince should monitor local news and only do so when considered safe. |
+| | Consult the link below for updates to travel advisories and statements on safety, security, local laws, and special circumstances in this country. |
+| | <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html> |
+| Passport/Visa Requirements | US citizens should make sure their passport will not expire for at least 6 months after they enter the country even if they do not intend to stay that long. They should also make sure they have at least 1 blank page in their passport for any entry stamp that will be required. A visa is not required as long as the stay is less than 90 days. |
+| Vaccinations | See WHO recommendations  <http://www.who.int/> |
+| US Embassy/Consulate | +(509) 2229-8000 / 2229-8900; US Embassy Port-au-Prince, Boulevard du 15 October, Tabarre 41, Route de Tabarre, Port-au-Prince, Haiti; acspap@state.gov; https://ht.usembassy.gov/ |
+
+---
+country: Haiti
+date: May 17, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Haiti/travel-facts>
+license: public domain (U.S.)
+...

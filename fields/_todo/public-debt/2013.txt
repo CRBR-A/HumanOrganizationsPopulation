@@ -1,0 +1,163 @@
+CIA - The World Factbook --  Public debt   
+
+This entry records the cumulative total of all government borrowings less repayments that are denominated in a country's home currency. Public debt should not be confused with external debt, which reflects the foreign currency liabilities of both the private and public sector and must be financed out of foreign exchange earnings.
+
+| Rank | country | (% of GDP) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Zimbabwe | 244.20 | 2012 est. |
+| 2 | Japan | 219.10 | 2012 est. |
+| 3 | Greece | 156.90 | 2012 est. |
+| 4 | Saint Kitts and Nevis | 144.00 | 2012 est. |
+| 5 | Jamaica | 132.90 | 2012 est. |
+| 6 | Iceland | 131.80 | 2012 est. |
+| 7 | Italy | 126.90 | 2012 est. |
+| 8 | Eritrea | 125.80 | 2012 est. |
+| 9 | Portugal | 123.60 | 2012 est. |
+| 10 | Lebanon | 119.60 | 2012 est. |
+| 11 | Ireland | 117.60 | 2012 est. |
+| 12 | Singapore | 111.40 | 2012 est. |
+| 13 | Grenada | 110.00 | 2012 est. |
+| 14 | Sudan | 101.70 | 2012 est. |
+| 15 | Belgium | 99.60 | 2012 est. |
+| 16 | Puerto Rico | 93.20 | 2012 est. |
+| 17 | France | 90.30 | 2012 est. |
+| 18 | Antigua and Barbuda | 89.00 | 2012 est. |
+| 19 | United Kingdom | 88.70 | 2012 est. |
+| 20 | Egypt | 88.00 | 2012 est. |
+| 21 | Cabo Verde | 86.20 | 2012 est. |
+| 22 | Cyprus | 85.80 | 2012 est. |
+| 23 | Barbados | 85.60 | 2012 est. |
+| 24 | Canada | 85.40 | 2012 est. |
+| 25 | Belize | 84.60 | 2012 est. |
+| 26 | Spain | 84.10 | 2012 est. |
+| 27 | Germany | 81.00 | 2012 est. |
+| 28 | Hungary | 79.30 | 2012 est. |
+| 29 | Sri Lanka | 79.10 | 2012 est. |
+| 30 | Saint Lucia | 77.00 | 2012 est. |
+| 31 | Austria | 75.70 | 2012 est. |
+| 32 | Jordan | 75.50 | 2012 est. |
+| 33 | Sao Tome and Principe | 75.50 | 2012 est. |
+| 34 | Malta | 71.30 | 2012 est. |
+| 35 | Morocco | 71.20 | 2012 est. |
+| 36 | Netherlands | 71.10 | 2012 est. |
+| 37 | Dominica | 70.00 | 2012 est. |
+| 38 | United States | 70.00 | 2012 est. |
+| 39 | Seychelles | 68.40 | 2012 est. |
+| 40 | Saint Vincent and the Grenadines | 68.00 | 2011 est. |
+| 41 | Israel | 66.90 | 2012 est. |
+| 42 | Malawi | 62.70 | 2012 est. |
+| 43 | Serbia | 62.00 | 2012 est. |
+| 44 | Guyana | 59.50 | 2012 est. |
+| 45 | Uruguay | 59.40 | 2012 est. |
+| 46 | El Salvador | 59.20 | 2012 est. |
+| 47 | Albania | 58.80 | 2012 est. |
+| 48 | Brazil | 58.80 | 2012 est. |
+| 49 | Nicaragua | 58.60 | 2012 est. |
+| 50 | Mauritius | 57.70 | 2012 est. |
+| 51 | Bahrain | 54.20 | 2012 est. |
+| 52 | Croatia | 53.70 | 2012 est. |
+| 53 | Fiji | 53.50 | 2012 est. |
+| 54 | Malaysia | 53.30 | 2012 est. |
+| 55 | Finland | 53.10 | 2012 est. |
+| 56 | Kenya | 52.50 | 2012 est. |
+| 57 | Switzerland | 52.40 | 2011 est. |
+| 58 | Syria | 52.40 | 2012 est. |
+| 59 | Pakistan | 52.10 | 2012 est. |
+| 60 | Montenegro | 52.10 | 2012 est. |
+| 61 | Slovakia | 52.10 | 2012 est. |
+| 62 | Costa Rica | 51.90 | 2012 est. |
+| 63 | India | 51.70 | 2012 est. |
+| 64 | Philippines | 51.50 | 2012 est. |
+| 65 | Burundi | 50.30 | 2012 est. |
+| 66 | Ghana | 50.00 | 2012 est. |
+| 67 | Laos | 49.10 | 2012 est. |
+| 68 | Poland | 48.30 | 2012 est. |
+| 69 | Vietnam | 48.10 | 2012 est. |
+| 70 | Cote d'Ivoire | 47.80 | 2012 est. |
+| 71 | Slovenia | 47.60 | 2012 est. |
+| 72 | Aruba | 46.30 | 2005 |
+| 73 | Tunisia | 46.10 | 2012 est. |
+| 74 | Czech Republic | 45.70 | 2012 est. |
+| 75 | Thailand | 45.70 | 2012 est. |
+| 76 | Denmark | 45.60 | 2012 est. |
+| 77 | Argentina | 44.80 | 2012 est. |
+| 78 | Bhutan | 44.10 | 2012 est. |
+| 79 | Bosnia and Herzegovina | 43.80 | 2012 est. |
+| 80 | United Arab Emirates | 42.60 | 2012 est. |
+| 81 | South Africa | 42.30 | 2012 est. |
+| 82 | Mozambique | 42.20 | 2012 est. |
+| 83 | Yemen | 41.80 | 2012 est. |
+| 84 | Tanzania | 41.70 | 2012 est. |
+| 85 | Dominican Republic | 41.50 | 2012 est. |
+| 86 | Armenia | 41.40 | 2012 est. |
+| 87 | Lithuania | 41.00 | 2012 est. |
+| 88 | Latvia | 40.70 | 2012 est. |
+| 89 | Colombia | 40.50 | 2012 est. |
+| 90 | Ethiopia | 39.70 | 2012 est. |
+| 91 | Panama | 39.60 | 2012 est. |
+| 92 | Senegal | 38.80 | 2012 est. |
+| 93 | Sweden | 38.20 | 2012 est. |
+| 94 | New Zealand | 38.10 | 2012 est. |
+| 95 | Trinidad and Tobago | 37.90 | 2012 est. |
+| 96 | Hong Kong | 37.80 | 2012 est. |
+| 97 | Turkey | 37.60 | 2012 est. |
+| 98 | Romania | 37.20 | 2012 est. |
+| 99 | Ukraine | 36.60 | 2012 est. |
+| 100 | Sierra Leone | 36.50 | 2012 est. |
+| 101 | Georgia | 36.30 | 2012 est. |
+| 102 | Honduras | 35.80 | 2012 est. |
+| 103 | Cuba | 35.80 | 2012 est. |
+| 104 | Mexico | 35.80 | 2012 est. |
+| 105 | Taiwan | 35.80 | 2012 est. |
+| 106 | Korea, South | 35.10 | 2012 est. |
+| 107 | Macedonia | 34.00 | 2012 est. |
+| 108 | Bolivia | 34.00 | 2012 est. |
+| 109 | Qatar | 32.80 | 2012 est. |
+| 110 | Australia | 32.40 | 2012 est. |
+| 111 | Bangladesh | 32.20 | 2012 est. |
+| 112 | Benin | 31.90 | 2012 est. |
+| 113 | Congo, Republic of the | 31.80 | 2012 est. |
+| 114 | China | 31.70 | 2012 est. |
+| 115 | Belarus | 31.50 | 2012 est. |
+| 116 | Chad | 31.30 | 2012 est. |
+| 117 | Guatemala | 29.50 | 2012 est. |
+| 118 | Zambia | 29.50 | 2012 est. |
+| 119 | Norway | 29.10 | 2012 est. |
+| 120 | Mali | 27.50 | 2012 est. |
+| 121 | Venezuela | 26.80 | 2012 est. |
+| 122 | Uganda | 26.30 | 2012 est. |
+| 123 | Namibia | 25.80 | 2012 est. |
+| 124 | Papua New Guinea | 25.50 | 2012 est. |
+| 125 | Indonesia | 23.00 | 2012 est. |
+| 126 | Gabon | 22.20 | 2012 est. |
+| 127 | Anguilla | 21.70 | 2012 est. |
+| 128 | Rwanda | 21.70 | 2012 est. |
+| 129 | Ecuador | 21.00 | 2012 est. |
+| 130 | Luxembourg | 20.80 | 2012 est. |
+| 131 | Iran | 18.40 | 2012 est. |
+| 132 | Nigeria | 17.90 | 2012 est. |
+| 133 | Moldova | 17.80 | 2012 est. |
+| 134 | Botswana | 17.40 | 2012 est. |
+| 135 | Angola | 17.20 | 2012 est. |
+| 136 | Peru | 16.60 | 2012 est. |
+| 137 | Bulgaria | 16.30 | 2012 est. |
+| 138 | Cameroon | 16.10 | 2012 est. |
+| 139 | Paraguay | 14.70 | 2012 est. |
+| 140 | Kazakhstan | 13.20 | 2012 est. |
+| 141 | Chile | 11.90 | 2012 est. |
+| 142 | Saudi Arabia | 11.80 | 2012 est. |
+| 143 | Equatorial Guinea | 9.30 | 2012 est. |
+| 144 | Algeria | 8.30 | 2012 est. |
+| 145 | Azerbaijan | 7.80 | 2012 est. |
+| 146 | Russia | 7.70 | 2012 est. |
+| 147 | Gibraltar | 7.50 | 2008 est. |
+| 148 | Uzbekistan | 6.20 | 2012 est. |
+| 149 | Kuwait | 6.00 | 2012 est. |
+| 150 | Estonia | 5.80 | 2012 est. |
+| 151 | Wallis and Futuna | 5.60 | 2004 est. |
+| 152 | Kosovo | 5.50 | 2011 |
+| 153 | Oman | 4.30 | 2012 est. |
+| 154 | Libya | 4.10 | 2012 est. |
+| 155 | Liberia | 0.40 | 2012 est. |
+
+

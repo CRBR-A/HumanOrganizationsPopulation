@@ -1,0 +1,27 @@
+Telephone Code: 64
+Local Emergency Phone: 111
+Climate: Temperate with sharp regional contrasts
+Currency (Code): New Zealand dollars (NZD)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): I
+Major Languages: English, Maori, Samoan, Northern Chinese, Hindi, French, Yue
+Major Religions: Christian 37.3%, Hindu 2.7%, Maori 1.3%, Muslim, 1.3%, Buddhist 1.1%, other religion 1.6%, no religion 48.6%
+Time Difference: UTC+12 (17 hours ahead of Washington, DC, during Standard Time); daylight saving time: +1hr, begins last Sunday in September; ends first Sunday in April; note: New Zealand has two time zones: New Zealand standard time (UTC+12) and Chatham Islands time (45 minutes in advance of New Zealand standard time; UTC+12:45)
+Potable Water: Yes
+International Driving Permit: Suggested
+Road Driving Side: Left
+Tourist Destinations: Fiordland National Park & Milford Sound; Bay of Islands; Queenstown; Lake Taupo & Tongariro National Park; Lake Matheson; Lake Pukaki; Mount Cook National Park; Fox & Franz Josef Glaciers
+Major Sports: Rugby, cricket, netball, basketball, soccer, sailing
+Cultural Practices: An extended index and middle finger together expresses disdain and frustration.
+Tipping Guidelines: Tipping is uncommon in restaurants unless the service was excellent. Some restaurants provide a tip jar on the counter. Tipping is uncommon in taxis, but you may round up the fare. It is not customary to tip at hotels.
+Souvenirs: Abalone, paua shell, and greenstone jewelry; stone and wood Maori tribal masks, statues, baskets, and weapons; sheepskin rugs, merino wool blankets, chamois cloths, other wool/lanolin items; Rimu timber clocks, Kiwi art, wine, honey
+Traditional Cuisine: Pavlova --- a meringue-like dessert with a crisp Cornstarch-based outer crust and a soft and moist core; whipped cream and fruits, such as kiwi or passion fruit, are used as garnishes
+
+---
+country: New Zealand
+date: June 16, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/New Zealand/travel-facts>
+license: public domain (U.S.)
+...

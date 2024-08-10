@@ -1,0 +1,130 @@
+CIA - The World Factbook --  MARKET VALUE OF PUBLICLY TRADED SHARES
+
+Market value of publicly traded shares compares the value of shares issued by publicly traded companies at a price determined in the national stock markets on the final day of the period indicated. It is simply the latest price per share multiplied by the total number of outstanding shares, cumulated over all companies listed on the particular exchange.
+
+| Rank | Country | MARKET VALUE OF PUBLICLY TRADED SHARES | Date of Information |
+| --- | --- | --- | --- |
+| 1 | United States | $25,070,000,000,000 | 31 December 2015 est. |
+| 2 | China | $8,188,000,000,000 | 31 December 2015 est. |
+| 3 | European Union | $7,185,000,000,000 | 31 December 2014 est. |
+| 4 | Japan | $4,895,000,000,000 | 31 December 2015 est. |
+| 5 | Hong Kong | $3,185,000,000,000 | 31 December 2015 est. |
+| 6 | United Kingdom | $3,019,000,000,000 | 31 December 2012 est. |
+| 7 | France | $2,088,000,000,000 | 31 December 2015 est. |
+| 8 | Germany | $1,716,000,000,000 | 31 December 2015 est. |
+| 9 | Canada | $1,593,000,000,000 | 31 December 2015 est. |
+| 10 | Switzerland | $1,519,000,000,000 | 31 December 2015 est. |
+| 11 | India | $1,516,000,000,000 | 31 December 2015 est. |
+| 12 | Korea, South | $1,231,000,000,000 | 31 December 2015 est. |
+| 13 | Australia | $1,187,000,000,000 | 31 December 2015 est. |
+| 14 | Spain | $787,200,000,000 | 31 December 2015 est. |
+| 15 | Taiwan | $741,100,000,000 | 31 December 2015 |
+| 16 | South Africa | $735,900,000,000 | 31 December 2015 est. |
+| 17 | Netherlands | $728,500,000,000 | 31 December 2015 est. |
+| 18 | Singapore | $640,000,000,000 | 31 December 2015 est. |
+| 19 | Sweden | $560,500,000,000 | 31 December 2012 est. |
+| 20 | Brazil | $490,500,000,000 | 31 December 2015 est. |
+| 21 | Italy | $480,500,000,000 | 31 December 2012 est. |
+| 22 | Saudi Arabia | $421,100,000,000 | 31 December 2015 est. |
+| 23 | Belgium | $414,600,000,000 | 31 December 2015 est. |
+| 24 | Mexico | $402,300,000,000 | 31 December 2015 est. |
+| 25 | Russia | $393,200,000,000 | 31 December 2015 est. |
+| 26 | Malaysia | $383,000,000,000 | 31 December 2015 est. |
+| 27 | Indonesia | $353,300,000,000 | 31 December 2015 est. |
+| 28 | Thailand | $348,800,000,000 | 31 December 2015 est. |
+| 29 | Israel | $243,900,000,000 | 31 December 2015 est. |
+| 30 | Philippines | $238,800,000,000 | 31 December 2015 est. |
+| 31 | Denmark | $224,900,000,000 | 31 December 2012 est. |
+| 32 | United Arab Emirates | $195,900,000,000 | 31 December 2015 est. |
+| 33 | Norway | $193,900,000,000 | 31 December 2015 est. |
+| 34 | Chile | $190,400,000,000 | 31 December 2015 est. |
+| 35 | Turkey | $188,900,000,000 | 31 December 2015 est. |
+| 36 | Finland | $158,700,000,000 | 31 December 2012 est. |
+| 37 | Qatar | $142,600,000,000 | 31 December 2015 est. |
+| 38 | Poland | $137,800,000,000 | 31 December 2015 est. |
+| 39 | Ireland | $128,000,000,000 | 31 December 2015 est. |
+| 40 | Kuwait | $99,770,000,000 | 31 December 2014 est. |
+| 41 | Austria | $96,080,000,000 | 31 December 2015 est. |
+| 42 | Iran | $89,430,000,000 | 31 December 2015 est. |
+| 43 | Colombia | $85,960,000,000 | 31 December 2015 est. |
+| 44 | Macau | $85,500,000,000 | 2 March 2012 est. |
+| 45 | New Zealand | $74,350,000,000 | 31 December 2015 est. |
+| 46 | Portugal | $59,840,000,000 | 31 December 2015 est. |
+| 47 | Peru | $56,560,000,000 | 31 December 2015 est. |
+| 48 | Argentina | $56,130,000,000 | 31 December 2015 est. |
+| 49 | Egypt | $55,190,000,000 | 31 December 2015 est. |
+| 50 | Czechia | $54,920,000,000 | 30 December 3013 est. |
+| 51 | Bangladesh | $50,980,000,000 | 31 December 2015 est. |
+| 52 | Nigeria | $49,970,000,000 | 31 December 2015 est. |
+| 53 | Luxembourg | $47,130,000,000 | 31 December 2015 est. |
+| 54 | Morocco | $45,930,000,000 | 31 December 2015 est. |
+| 55 | Pakistan | $43,680,000,000 | 31 December 2012 est. |
+| 56 | Greece | $42,080,000,000 | 31 December 2015 est. |
+| 57 | Oman | $41,120,000,000 | 31 December 2015 est. |
+| 58 | Vietnam | $38,200,000,000 | 31 December 2015 est. |
+| 59 | Romania | $36,500,000,000 | 31 December 2015 est. |
+| 60 | Croatia | $36,290,000,000 | 31 December 2014 est. |
+| 61 | Kazakhstan | $34,890,000,000 | 31 December 2015 est. |
+| 62 | Kenya | $26,160,000,000 | 31 December 2014 est. |
+| 63 | Jordan | $25,450,000,000 | 31 December 2015 est. |
+| 64 | Venezuela | $25,300,000,000 | 31 December 2012 est. |
+| 65 | Sri Lanka | $20,800,000,000 | 31 December 2015 est. |
+| 66 | Ukraine | $20,710,000,000 | 31 December 2012 est. |
+| 67 | Bahrain | $19,250,000,000 | 31 December 2015 est. |
+| 68 | Hungary | $17,690,000,000 | 31 December 2015 est. |
+| 69 | Panama | $12,540,000,000 | 31 December 2012 est. |
+| 70 | Cote d'Ivoire | $12,490,000,000 | 31 December 2015 est. |
+| 71 | Nepal | $11,810,000,000 | 31 October 2015 est. |
+| 72 | Lebanon | $11,220,000,000 | 30 December 2014 est. |
+| 73 | El Salvador | $10,740,000,000 | 31 December 2012 est. |
+| 74 | Papua New Guinea | $10,710,000,000 | 31 December 2012 est. |
+| 75 | Bolivia | $9,684,000,000 | 31 December 2013 |
+| 76 | Tunisia | $8,887,000,000 | 31 December 2012 est. |
+| 77 | Serbia | $7,696,000,000 | 31 December 2014 est. |
+| 78 | Montenegro | $7,532,000,000 | 31 December 2014 est. |
+| 79 | Uganda | $7,294,000,000 | 31 December 2012 est. |
+| 80 | Mauritius | $7,239,000,000 | 31 December 2015 est. |
+| 81 | Jamaica | $6,390,000,000 | 31 December 2012 est. |
+| 82 | Slovenia | $6,035,000,000 | 31 December 2015 est. |
+| 83 | Ecuador | $5,911,000,000 | 31 December 2012 est. |
+| 84 | Bulgaria | $4,797,000,000 | 31 December 2015 est. |
+| 85 | Slovakia | $4,634,000,000 | 31 December 2015 est. |
+| 86 | Botswana | $4,588,000,000 | 31 December 2012 est. |
+| 87 | Barbados | $4,495,000,000 | 31 December 2012 est. |
+| 88 | Malta | $4,405,000,000 | 31 December 2015 est. |
+| 89 | Zimbabwe | $4,073,000,000 | 13 April 2015 est. |
+| 90 | Iraq | $4,000,000,000 | 9 December 2011 |
+| 91 | Lithuania | $3,964,000,000 | 31 December 2012 est. |
+| 92 | Ghana | $3,465,000,000 | 31 December 2012 est. |
+| 93 | Zambia | $3,004,000,000 | 31 December 2012 est. |
+| 94 | Iceland | $2,825,000,000 | 31 December 2012 est. |
+| 95 | Bahamas, The | $2,780,000,000 | 31 December 2012 est. |
+| 96 | Cyprus | $2,692,000,000 | 31 December 2015 est. |
+| 97 | West Bank | $2,634,000,000 | 31 December 2015 est. |
+| 98 | Macedonia | $2,084,000,000 | 31 December 2014 |
+| 99 | Estonia | $2,034,000,000 | 31 December 2014 est. |
+| 100 | Costa Rica | $2,015,000,000 | 31 December 2012 est. |
+| 101 | Bermuda | $1,850,000,000 | 31 December 2015 est. |
+| 102 | Tanzania | $1,803,000,000 | 31 December 2012 est. |
+| 103 | Namibia | $1,305,000,000 | 31 December 2012 est. |
+| 104 | Latvia | $1,115,000,000 | 31 December 2012 est. |
+| 105 | Laos | $1,012,000,000 | 2012 est. |
+| 106 | Paraguay | $962,300,000 | 31 December 2012 est. |
+| 107 | Georgia | $943,400,000 | 31 December 2012 est. |
+| 108 | Malawi | $753,600,000 | 31 December 2012 est. |
+| 109 | Mongolia | $632,600,000 | 31 December 2015 est. |
+| 110 | Guyana | $610,900,000 | 31 December 2012 est. |
+| 111 | Saint Kitts and Nevis | $598,400,000 | 31 December 2011 |
+| 112 | Maldives | $555,000,000 | 31 December 2011 est. |
+| 113 | Fiji | $452,500,000 | 31 December 2012 est. |
+| 114 | Bhutan | $320,000,000 | 31 December 2013 |
+| 115 | Cayman Islands | $315,600,000 | 31 December 2015 est. |
+| 116 | Cameroon | $230,000,000 | 31 December 2012 est. |
+| 117 | Trinidad and Tobago | $177,400,000 | 31 December 2015 est. |
+| 118 | Uruguay | $175,400,000 | 31 December 2012 est. |
+| 119 | Kyrgyzstan | $165,000,000 | 31 December 2012 est. |
+| 120 | Armenia | $132,100,000 | 31 December 2012 est. |
+| 121 | Moldova | $9,723,000 | 31 December 2014 est. |
+| 122 | Tuvalu | $0 | 2014 |
+
+

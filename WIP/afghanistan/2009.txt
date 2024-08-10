@@ -1,0 +1,261 @@
+CIA - The World Factbook -- Afghanistan
+page last updated on November 11, 2009
+
+
+| Geography | Afghanistan |
+| --- | --- |
+| Location: | Southern Asia, north and west of Pakistan, east of Iran |
+| Geographic coordinates: | 33 00 N, 65 00 E |
+| Map references: | Asia |
+| Area: | total: 652,230 sq km |
+| | land: 652,230 sq km |
+| | water: 0 sq km |
+| Area - comparative: | slightly smaller than Texas |
+| Land boundaries: | total: 5,529 km |
+| | border countries: China 76 km, Iran 936 km, Pakistan 2,430 km, Tajikistan 1,206 km, Turkmenistan 744 km, Uzbekistan 137 km |
+| Coastline: | 0 km (landlocked) |
+| Maritime claims: | none (landlocked) |
+| Climate: | arid to semiarid; cold winters and hot summers |
+| Terrain: | mostly rugged mountains; plains in north and southwest |
+| Elevation extremes: | lowest point: Amu Darya 258 m |
+| | highest point: Nowshak 7,485 m |
+| Natural resources: | natural gas, petroleum, coal, copper, chromite, talc, barites, sulfur, lead, zinc, iron ore, salt, precious and semiprecious stones |
+| Land use: | arable land: 12.13% |
+| | permanent crops: 0.21% |
+| | other: 87.66% (2005) |
+| Irrigated land: | 27,200 sq km (2003) |
+| Total renewable water resources: | 65 cu km (1997) |
+| Freshwater withdrawal (domestic/industrial/agricultural): | total: 23.26 cu km/yr (2%/0%/98%) |
+| | per capita: 779 cu m/yr (2000) |
+| Natural hazards: | damaging earthquakes occur in Hindu Kush mountains; flooding; droughts |
+| Environment - current issues: | limited natural fresh water resources; inadequate supplies of potable water; soil degradation; overgrazing; deforestation (much of the remaining forests are being cut down for fuel and building materials); desertification; air and water pollution |
+| Environment - international agreements: | party to: Biodiversity, Climate Change, Desertification, Endangered Species, Environmental Modification, Marine Dumping, Ozone Layer Protection |
+| | signed, but not ratified: Hazardous Wastes, Law of the Sea, Marine Life Conservation |
+| Geography - note: | landlocked; the Hindu Kush mountains that run northeast to southwest divide the northern provinces from the rest of the country; the highest peaks are in the northern Vakhan (Wakhan Corridor) |
+
+
+| People | Afghanistan |
+| --- | --- |
+| Population: | 28.396 million (July 2009 est.) |
+| | note: this is a significantly revised figure; the previous estimate of 33,609,937 was extrapolated from the last Afghan census held in 1979, which was never completed because of the Soviet invasion; a new Afghan census is scheduled to take place in 2010 |
+| Age structure: | 0-14 years: 44.5% (male 7,664,670/female 7,300,446) |
+| | 15-64 years: 53% (male 9,147,846/female 8,679,800) |
+| | 65 years and over: 2.4% (male 394,572/female 422,603) (2009 est.) |
+| Median age: | total: 17.6 years |
+| | male: 17.6 years |
+| | female: 17.6 years (2009 est.) |
+| Population growth rate: | 2.629% (2009 est.) |
+| Birth rate: | 45.46 births/1,000 population (2009 est.) |
+| Death rate: | 19.18 deaths/1,000 population (July 2009 est.) |
+| Net migration rate: | 21 migrant(s)/1,000 population (2009 est.) |
+| Urbanization: | urban population: 24% of total population (2008) |
+| | rate of urbanization: 5.4% annual rate of change (2005-10 est.) |
+| Sex ratio: | at birth: 1.05 male(s)/female |
+| | under 15 years: 1.05 male(s)/female |
+| | 15-64 years: 1.05 male(s)/female |
+| | 65 years and over: 0.93 male(s)/female |
+| | total population: 1.05 male(s)/female (2009 est.) |
+| Infant mortality rate: | total: 151.95 deaths/1,000 live births |
+| | male: 156.01 deaths/1,000 live births |
+| | female: 147.7 deaths/1,000 live births (2009 est.) |
+| Life expectancy at birth: | total population: 44.64 years |
+| | male: 44.47 years |
+| | female: 44.81 years (2009 est.) |
+| Total fertility rate: | 6.53 children born/woman (2009 est.) |
+| HIV/AIDS - adult prevalence rate: | 0.01% (2001 est.) |
+| HIV/AIDS - people living with HIV/AIDS: | NA |
+| HIV/AIDS - deaths: | NA |
+| Major infectious diseases: | degree of risk: high |
+| | food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | vectorborne disease: malaria |
+| | animal contact disease: rabies |
+| | note: highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2009) |
+| Nationality: | noun: Afghan(s) |
+| | adjective: Afghan |
+| Ethnic groups: | Pashtun 42%, Tajik 27%, Hazara 9%, Uzbek 9%, Aimak 4%, Turkmen 3%, Baloch 2%, other 4% |
+| Religions: | Sunni Muslim 80%, Shia Muslim 19%, other 1% |
+| Languages: | Afghan Persian or Dari (official) 50%, Pashto (official) 35%, Turkic languages (primarily Uzbek and Turkmen) 11%, 30 minor languages (primarily Balochi and Pashai) 4%, much bilingualism |
+| Literacy: | definition: age 15 and over can read and write |
+| | total population: 28.1% |
+| | male: 43.1% |
+| | female: 12.6% (2000 est.) |
+| School life expectancy (primary to tertiary education): | total: 8 years |
+| | male: 11 years |
+| | female: 4 years (2004) |
+| Education expenditures: | NA |
+
+
+| Government | Afghanistan |
+| --- | --- |
+| Country name: | conventional long form: Islamic Republic of Afghanistan |
+| | conventional short form: Afghanistan |
+| | local long form: Jomhuri-ye Eslami-ye Afghanestan |
+| | local short form: Afghanestan |
+| | former: Republic of Afghanistan |
+| Government type: | Islamic republic |
+| Capital: | name: Kabul |
+| | geographic coordinates: 34 31 N, 69 11 E |
+| | time difference: UTC+4.5 (9.5 hours ahead of Washington, DC during Standard Time) |
+| Administrative divisions: | 34 provinces (welayat, singular - welayat); Badakhshan, Badghis, Baghlan, Balkh, Bamyan, Daykundi, Farah, Faryab, Ghazni, Ghor, Helmand, Herat, Jowzjan, Kabul, Kandahar, Kapisa, Khost, Kunar, Kunduz, Laghman, Logar, Nangarhar, Nimroz, Nuristan, Paktika, Paktiya, Panjshir, Parwan, Samangan, Sar-e Pul, Takhar, Uruzgan, Wardak, Zabul |
+| Independence: | 19 August 1919 (from UK control over Afghan foreign affairs) |
+| National holiday: | Independence Day, 19 August (1919) |
+| Constitution: | new constitution drafted 14 December 2003-4 January 2004; signed 16 January 2004; ratified 26 January 2004 |
+| Legal system: | based on mixed civil and Sharia law; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President of the Islamic Republic of Afghanistan Hamid KARZAI (since 7 December 2004); First Vice President Ahmad Zia MASOOD; Second Vice President Abdul Karim KHALILI (since 7 December 2004); note - the president is both the chief of state and head of government; former King ZAHIR Shah held the honorific, "Father of the Country," and presided symbolically over certain occasions but lacked any governing authority; the honorific is not hereditary; King ZAHIR Shah died on 23 July 2007 |
+| | head of government: President of the Islamic Republic of Afghanistan Hamid KARZAI (since 7 December 2004); First Vice President Ahmad Zia MASOOD; Second Vice President Abdul Karim KHALILI (since 7 December 2004) |
+| | cabinet: 25 ministers; note - under the new constitution, ministers are appointed by the president and approved by the National Assembly |
+| | elections: the president and two vice presidents are elected by direct vote for a five-year term (eligible for a second term); if no candidate receives 50% or more of the vote in the first round of voting, the two candidates with the most votes will participate in a second round; a president can only be elected for two terms; election last held 20 August 2009 (next to be held in 2014) |
+| | election results: Hamid KARZAI reelected president; percent of vote - Hamid KARZAI 54.6%, Abdullah ABDULLAH 27.8%, Ramazan BASHARDOST 9.2%, Ashraf GHANI 2.7% (as reported by the Independent Election Commission of Afghanistan on 16 September 2009) |
+| | note: on 2 November 2009, following the cancellation of the planned 7 November election runoff, the UN-backed Electoral Complaints Commission officially declared Hamid KARZAI the winner of the 20 August presidential election |
+| Legislative branch: | the bicameral National Assembly consists of the Meshrano Jirga or House of Elders (102 seats, one-third elected from provincial councils for four-year terms, one-third elected from local district councils for three-year terms, and one-third nominated by the president for five-year terms) and the Wolesi Jirga or House of People (no more than 249 seats), directly elected for five-year terms |
+| | note: on rare occasions the government may convene a Loya Jirga (Grand Council) on issues of independence, national sovereignty, and territorial integrity; it can amend the provisions of the constitution and prosecute the president; it is made up of members of the National Assembly and chairpersons of the provincial and district councils |
+| | elections: last held 18 September 2005 (next election expected in 2010) |
+| | election results: the single non-transferable vote (SNTV) system used in the election did not make use of political party slates; most candidates ran as independents |
+| Judicial branch: | the constitution establishes a nine-member Stera Mahkama or Supreme Court (its nine justices are appointed for 10-year terms by the president with approval of the Wolesi Jirga) and subordinate High Courts and Appeals Courts; there is also a minister of justice; a separate Afghan Independent Human Rights Commission established by the Bonn Agreement is charged with investigating human rights abuses and war crimes |
+| Political parties and leaders: | Afghanistan Peoples' Treaty Party [Sayyed Amir TAHSEEN]; Afghanistan's Islamic Mission Organization [Abdul Rasoul SAYYAF]; Afghanistan's Islamic Nation Party [Toran Noor Aqa Ahmad ZAI]; Afghanistan's National Islamic Party [Rohullah LOUDIN]; Afghanistan's Welfare Party [Meer Asef ZAEEFI]; Afghan Social Democratic Party [Anwarul Haq AHADI]; Afghan Society for the Call to the Koran and Sunna [Mawlawee Samiullah NAJEEBEE]; Comprehensive Movement of Democracy and Development of Afghanistan Party [Sher Mohammad BAZGAR]; Democratic Party of Afghanistan [Tawos ARAB]; Democratic Party of Afghanistan [Abdul Kabir RANJBAR]; Elites People of Afghanistan Party [Abdul Hamid JAWAD]; Freedom and Democracy Movement of Afghanistan [Abdul Raqib Jawid KOHISTANEE]; Freedom Party of Afghanistan [Ilaj Abdul MALEK]; Freedom Party of Afghanistan [Dr. Ghulam Farooq NEJRABEE]; Hizullah-e-Afghanistan [Qari Ahmad ALI]; Human Rights Protection and Development Party of Afghanistan [Baryalai NASRATI]; Islamic Justice Party of Afghanistan [Mohammad Kabir MARZBAN]; Islamic Movement of Afghanistan [Mohammad Ali JAWID]; Islamic Movement of Afghanistan Party [Mohammad Mukhtar MUFLEH]; Islamic Party of Afghanistan [Mohammad Khalid FAROOQI, Abdul Hadi ARGHANDIWAL]; Islamic Party of the Afghan Land [Mohammad Hassan FEROZKHEL]; Islamic People's Movement of Afghanistan [Ilhaj Said Hussain ANWARY]; Islamic Society of Afghanistan [Ustad RABBANI]; Islamic Unity of the Nation of Afghanistan Party [Qurban Ali URFANI]; Islamic Unity Party of Afghanistan [Mohammad Karim KHALILI]; Islamic Unity Party of the People of Afghanistan [Ustad Mohammad MOHAQQEQ]; Labor and Progress of Afghanistan Party [Zulfiqar OMID]; Muslim People of Afghanistan Party [Besmellah JOYAN]; Muslim Unity Movement Party of Afghanistan [Wazir Mohammad WAHDAT]; National and Islamic Sovereignty Movement Party of Afghanistan [Ahmad Shah AHMADZAI]; National Congress Party of Afghanistan [Abdul Latif PEDRAM]; National Country Party [Ghulam MOHAMMAD]; National Development Party of Afghanistan [Dr. Aref BAKTASH]; National Freedom Seekers Party [Abdul Hadi DABEER]; National Independence Party of Afghanistan [Taj Mohammad WARDAK]; National Islamic Fighters Party of Afghanistan [Amanat NINGARHAREE]; National Islamic Front of Afghanistan [Pir Sayed Ahmad GAILANEE]; National Islamic Moderation Party of Afghanistan [Qara Bik Eized YAAR]; National Islamic Movement of Afghanistan [Sayed NOORULLAH] |
+| | National Islamic Unity Party of Afghanistan [Mohammad AKBAREE]; National Movement of Afghanistan [Ahmad Wali MASOOUD]; National Party of Afghanistan [Abdul Rashid ARYAN]; National Patch of Afghanistan Party [Sayed Kamal SADAT]; National Peace Islamic Party of Afghanistan [Shah Mohammood Popal ZAI]; National Peace & Islamic Party of the Tribes of Afghanistan [Abdul Qaher SHARIATEE]; National Peace & Unity Party of Afghanistan [Abdul Qader IMAMI]; National Prosperity and Islamic Party of Afghanistan [Mohammad Osman SALEKZADA]; National Prosperity Party [Mohammad Hassan JAHFAREE]; National Solidarity Movement of Afghanistan [Pir Sayed Eshaq GAILANEE]; National Solidarity Party of Afghanistan [Sayed Mansoor NADREEI]; National Sovereignty Party [Sayed Mustafa KAZEMI]; National Stability Party [Mohammad Same KHAROTI]; National Stance Party [Habibullah JANEBDAR]; National Tribal Unity Islamic Party of Afghanistan [Mohammad Shah KHOGYANI]; National United Front [Burhanuddin RABBANI] (a coalition); National Unity Movement [Sultan Mohammad GHAZI]; National Unity Movement of Afghanistan [Mohammad Nadir AATASH]; National Unity Party of Afghanistan [Abdul Rashid JALILI]; New Afghanistan Party [Mohammad Yunis QANUNI]; Peace and National Welfare Activists Society [Shamsul Haq Noor SHAMS]; Peace Movement [Shahnawaz TANAI]; People's Aspirations Party of Afghanistan [Ilhaj Saraj-u-din ZAFAREE]; People's Freedom Seekers Party of Afghanistan [Feda Mohammad EHSAS]; People's Liberal Freedom Seekers Party of Afghanistan [Ajmal SUHAIL]; People's Message Party of Afghanistan [Noor Aqa WAINEE]; People's Movement of the National Unity of Afghanistan [Abdul Hakim NOORZAI]; People's Party of Afghanistan [Ahmad Shah ASAR]; People's Prosperity Party of Afghanistan [Ustad Mohammad ZAREEF]; People's Sovereignty Movement of Afghanistan [Hayatullah SUBHANEE]; People's Uprising Party of Afghanistan [Sayed Zahir Qayed Omul BELADI]; People's Welfare Party of Afghanistan [Mia Gul WASIQ]; People's Welfare Party of Afghanistan [Mohammad Zubair PAIROZ]; Progressive Democratic Party of Afghanistan [Wali ARYA]; Republican Party [Sebghatullah SANJAR]; Solidarity Party of Afghanistan [Abdul Khaleq NEMAT]; The Afghanistan's Mujahid Nation's Islamic Unity Movement [Saeedullah SAEED]; The People of Afghanistan's Democratic Movement [Sharif NAZARI]; Tribes Solidarity Party of Afghanistan [Mohammad Zarif NASERI]; Understanding and Democracy Party of Afghanistan [Ahamad SHAHEEN] |
+| | United Afghanistan Party [Mohammad Wasil RAHIMEE]; United Islamic Party of Afghanistan [Wahidullah SABAWOON]; Young Afghanistan's Islamic Organization [Sayed Jawad HUSSINEE]; Youth Solidarity Party of Afghanistan [Mohammad Jamil KARZAI]; note - includes only political parties approved by the Ministry of Justice |
+| Political pressure groups and leaders: | other: religious groups; tribal leaders; ethnically based groups |
+| International organization participation: | ADB, CP, ECO, FAO, G-77, IAEA, IBRD, ICAO, ICCt, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, ISO (correspondent), ITSO, ITU, MIGA, NAM, OIC, OPCW, OSCE (partner), SAARC, SACEP, SCO (guest), UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO (observer) |
+| Diplomatic representation in the US: | chief of mission: Ambassador Said Tayeb JAWAD |
+| | chancery: 2341 Wyoming Avenue NW, Washington, DC 20008 |
+| | telephone: [1] (202) 483-6410 |
+| | FAX: [1] (202) 483-6488 |
+| | consulate(s) general: Los Angeles, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador (vacant); Deputy Ambassador Francis J. RICCIARDONE, Jr. |
+| | embassy: The Great Masood Road, Kabul |
+| | mailing address: U.S. Embassy Kabul, APO, AE 09806 |
+| | telephone: [93] 0700 108 001 |
+| | FAX: [93] 0700 108 564 |
+| Flag description: | three equal vertical bands of black (hoist side), red, and green, with the national emblem in white centered on the red band and slightly overlapping the other two bands; the center of the emblem features a mosque with pulpit and flags on either side, below the mosque are numerals for the solar year 1298 (1919 in the Gregorian calendar, the year of Afghan independence from the UK); this central image is circled by a border consisting of sheaves of wheat on the left and right, in the upper-center is an Arabic inscription of the Shahada (Muslim creed) below which are rays of the rising sun over the Takbir (Arabic expression meaning "God is great"), and at bottom center is a scroll bearing the name Afghanistan |
+
+
+| Economy | Afghanistan |
+| --- | --- |
+| Economy - overview: | Afghanistan's economy is recovering from decades of conflict. The economy has improved significantly since the fall of the Taliban regime in 2001 largely because of the infusion of international assistance, the recovery of the agricultural sector, and service sector growth. Real GDP growth fell from the 10% level in 2006-07 to a little more than 3% in 2008. Despite the progress of the past few years, Afghanistan is extremely poor, landlocked, and highly dependent on foreign aid, agriculture, and trade with neighboring countries. Much of the population continues to suffer from shortages of housing, clean water, electricity, medical care, and jobs. Criminality, insecurity, and the Afghan Government's inability to extend rule of law to all parts of the country pose challenges to future economic growth. It will probably take the remainder of the decade and continuing donor aid and attention to significantly raise Afghanistan's living standards from its current level, among the lowest in the world. International pledges made by more than 60 countries and international financial institutions at the Berlin Donors Conference for Afghan reconstruction in March 2004 reached $8.9 billion for 2004-09. While the international community remains committed to Afghanistan's development, pledging over $57 billion at three donors' conferences since 2002, Kabul will need to overcome a number of challenges. Expanding poppy cultivation and a growing opium trade generate roughly $3 billion in illicit economic activity and looms as one of Kabul's most serious policy concerns. Other long-term challenges include: budget sustainability, job creation, corruption, government capacity, and rebuilding war torn infrastructure. |
+| GDP (purchasing power parity): | $22.32 billion (2008 est.) |
+| | $21.58 billion (2007 est.) |
+| | $19.25 billion (2006 est.) |
+| | note: data are in 2008 US dollars |
+| GDP (official exchange rate): | $11.71 billion (2008 est.) |
+| GDP - real growth rate: | 3.4% (2008 est.) |
+| | 12.1% (2007 est.) |
+| | 8.2% (2006 est.) |
+| GDP - per capita (PPP): | $800 (2008 est.) |
+| | $800 (2007 est.) |
+| | $700 (2006 est.) |
+| | note: data are in 2008 US dollars |
+| GDP - composition by sector: | agriculture: 31% |
+| | industry: 26% |
+| | services: 43% |
+| | note: data exclude opium production (2008 est.) |
+| Labor force: | 15 million (2004 est.) |
+| Labor force - by occupation: | agriculture: 80% |
+| | industry: 10% |
+| | services: 10% (2004 est.) |
+| Unemployment rate: | 40% (2008 est.) |
+| | 40% (2005 est.) |
+| Population below poverty line: | 53% (2003) |
+| Household income or consumption by percentage share: | lowest 10%: NA% |
+| | highest 10%: NA% |
+| Budget: | revenues: $890 million |
+| | expenditures: $2.7 billion |
+| | note: Afghanistan has also received $2.6 billion from the Reconstruction Trust Fund and $63 million from the Law and Order Trust Fund (2007 est.) |
+| Inflation rate (consumer prices): | 13% (2007 est.) |
+| Commercial bank prime lending rate: | 14.92% (31 December 2008) |
+| | 18.14% (31 December 2007) |
+| Stock of money: | $1.688 billion (31 December 2008) |
+| | $1.426 billion (31 December 2007) |
+| Stock of quasi money: | $1.219 billion (31 December 2008) |
+| | $958.6 million (31 December 2007) |
+| Stock of domestic credit: | $363.6 million (31 December 2008) |
+| | $12.04 million (31 December 2007) |
+| Market value of publicly traded shares: | $NA |
+| Agriculture - products: | opium, wheat, fruits, nuts; wool, mutton, sheepskins, lambskins |
+| Industries: | small-scale production of textiles, soap, furniture, shoes, fertilizer, cement; handwoven carpets; natural gas, coal, copper |
+| Industrial production growth rate: | NA% |
+| Electricity - production: | 839 million kWh (2007 est.) |
+| Electricity - consumption: | 1.01 billion kWh (2007 est.) |
+| Electricity - exports: | 0 kWh (2008 est.) |
+| Electricity - imports: | 230 million kWh (2007 est.) |
+| Oil - production: | 0 bbl/day (2008 est.) |
+| Oil - consumption: | 5,000 bbl/day (2008 est.) |
+| Oil - exports: | 0 bbl/day (2007 est.) |
+| Oil - imports: | 4,404 bbl/day (2007 est.) |
+| Oil - proved reserves: | 0 bbl (1 January 2009 est.) |
+| Natural gas - production: | 30 million cu m (2008 est.) |
+| Natural gas - consumption: | 30 million cu m (2008 est.) |
+| Natural gas - exports: | 0 cu m (2008) |
+| Natural gas - imports: | 0 cu m (2008 est.) |
+| Natural gas - proved reserves: | 49.55 billion cu m (1 January 2009 est.) |
+| Current account balance: | -$67 million (2007 est.) |
+| Exports: | $327 million (2007) |
+| | $274 million (2006); note - not including illicit exports or reexports |
+| Exports - commodities: | opium, fruits and nuts, handwoven carpets, wool, cotton, hides and pelts, precious and semi-precious gems |
+| Exports - partners: | India 20.5%, Pakistan 18.5%, US 17.2%, Tajikistan 13.3%, Netherlands 7.2% (2008) |
+| Imports: | $4.85 billion (2007) |
+| | $3.823 billion (2006) |
+| Imports - commodities: | capital goods, food, textiles, petroleum products |
+| Imports - partners: | Pakistan 36.9%, US 9.5%, Germany 7.7%, India 5.2% (2008) |
+| Debt - external: | $8 billion (2004) |
+| Exchange rates: | afghanis (AFA) per US dollar - 50 (2007), 46 (2006), 47.7 (2005), 48 (2004), 49 (2003) |
+
+
+| Communications | Afghanistan |
+| --- | --- |
+| Telephones - main lines in use: | 460,000 (2008) |
+| Telephones - mobile cellular: | 8.45 million (2008) |
+| Telephone system: | general assessment: limited landline telephone service; an increasing number of Afghans utilize mobile-cellular phone networks in major cities |
+| | domestic: aided by the presence of multiple providers, mobile-cellular telephone service is improving rapidly |
+| | international: country code - 93; five VSAT's installed in Kabul, Herat, Mazar-e-Sharif, Kandahar, and Jalalabad provide international and domestic voice and data connectivity (2007) |
+| Radio broadcast stations: | AM 21, FM 5, shortwave 1 (broadcasts in Pashto, Dari (Afghan Persian), Urdu, and English) (2006) |
+| Television broadcast stations: | at least 7 (1 government-run central television station in Kabul and regional stations in 6 of the 34 provinces) (2006) |
+| Internet country code: | .af |
+| Internet hosts: | 47 (2009) |
+| Internet users: | 500,000 (2008) |
+| Communications - note: | Internet access is growing through Internet cafes as well as public "telekiosks" in Kabul (2005) |
+
+
+| Transportation | Afghanistan |
+| --- | --- |
+| Airports: | 51 (2009) |
+| Airports - with paved runways: | total: 16 |
+| | over 3,047 m: 4 |
+| | 2,438 to 3,047 m: 3 |
+| | 1,524 to 2,437 m: 7 |
+| | 914 to 1,523 m: 1 |
+| | under 914 m: 1 (2009) |
+| Airports - with unpaved runways: | total: 35 |
+| | over 3,047 m: 1 |
+| | 2,438 to 3,047 m: 4 |
+| | 1,524 to 2,437 m: 16 |
+| | 914 to 1,523 m: 5 |
+| | under 914 m: 9 (2009) |
+| Heliports: | 11 (2009) |
+| Pipelines: | gas 466 km (2008) |
+| Roadways: | total: 42,150 km |
+| | paved: 12,350 km |
+| | unpaved: 29,800 km (2006) |
+| Waterways: | 1,200 km (chiefly Amu Darya, which handles vessels up to 500 DWT) (2008) |
+| Ports and terminals: | Kheyrabad, Shir Khan |
+
+
+| Military | Afghanistan |
+| --- | --- |
+| Military branches: | Afghan Armed Forces: Afghan National Army (ANA, includes Afghan National Army Air Corps) (2009) |
+| Military service age and obligation: | 22 years of age; inductees are contracted into service for a 4-year term (2005) |
+| Manpower available for military service: | males age 16-49: 7,431,147 |
+| | females age 16-49: 7,004,819 (2008 est.) |
+| Manpower fit for military service: | males age 16-49: 4,371,193 |
+| | females age 16-49: 4,072,945 (2009 est.) |
+| Manpower reaching militarily significant age annually: | male: 382,720 |
+| | female: 361,733 (2009 est.) |
+| Military expenditures: | 1.9% of GDP (2006 est.) |
+
+
+| Transnational Issues | Afghanistan |
+| --- | --- |
+| Disputes - international: | Pakistan has built fences in some portions of its border with Afghanistan which remains open in some areas to foreign terrorists and other illegal activities |
+| Refugees and internally displaced persons: | IDPs: 132,246 (mostly Pashtuns and Kuchis displaced in south and west due to drought and instability) (2007) |
+| Illicit drugs: | world's largest producer of opium; poppy cultivation decreased 22% to 157,000 hectares in 2008 but remains at a historically high level; less favorable growing conditions in 2008 reduced potential opium production to 5,500 metric tons, down 31 percent from 2007; if the entire opium crop were processed, 648 metric tons of pure heroin potentially could be produced; the Taliban and other antigovernment groups participate in and profit from the opiate trade, which is a key source of revenue for the Taliban inside Afghanistan; widespread corruption and instability impede counterdrug efforts; most of the heroin consumed in Europe and Eurasia is derived from Afghan opium; vulnerable to drug money laundering through informal financial networks; regional source of hashish (2008) |

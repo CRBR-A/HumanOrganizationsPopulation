@@ -1,0 +1,27 @@
+Telephone Code: 222
+Local Emergency Phone: Fire: 118; Police: 117
+Climate: Desert; constantly hot, dry, dusty
+Currency (Code): Ouguiyas (MRO)
+Electricity: 220 V
+Voltage: 50 Hz
+Plug types(s): C
+Major Languages: Arabic, Pular, Soninke, Wolof, French
+Major Religions: Muslim 100%
+Time Difference: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Banc d'Arguin National Park; Nouakchott; Ouadane, Chinguetti, Tichitt, & Oualata; Richat Structure in the Sahara Desert
+Major Sports: Soccer, basketball
+Cultural Practices: When talking about the past, people will often snap their fingers by their shoulders.
+Tipping Guidelines: A tip of 12-15% is expected in restaurants if no service charge has been added to the bill. Hotel service staff and drivers welcome small tips.
+Souvenirs: Dyed leather goods, silver jewelry and engraved items, woven rugs/carpets and hand-dyed fabric, knives; neolithic pottery, arrowheads, and other items
+Traditional Cuisine: Thieboudienne --- fish and rice served in a white and red sauce, usually made from tomatoes
+
+---
+country: Mauritania
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Mauritania/travel-facts>
+license: public domain (U.S.)
+...

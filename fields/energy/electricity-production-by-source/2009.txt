@@ -1,0 +1,848 @@
+CIA - The World Factbook --  Electricity - production by source   
+
+| Rank | country | (%) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Aruba | 100.00 | 2001 |
+| 2 | Antigua and Barbuda | 100.00 | 2001 |
+| 3 | United Arab Emirates | 100.00 | 2001 |
+| 4 | Bahrain | 100.00 | 2001 |
+| 5 | American Samoa | 100.00 | 2001 |
+| 6 | Barbados | 100.00 | 2001 |
+| 7 | Bermuda | 100.00 | 2001 |
+| 8 | Bahamas, The | 100.00 | 2001 |
+| 9 | Botswana | 100.00 | 2001 |
+| 10 | Gambia, The | 100.00 | 2001 |
+| 11 | Falkland Islands (Islas Malvinas) | 100.00 | 2001 |
+| 12 | Eritrea | 100.00 | 2001 |
+| 13 | Djibouti | 100.00 | 2001 |
+| 14 | Cyprus | 100.00 | 2001 |
+| 15 | Cook Islands | 100.00 | 2001 |
+| 16 | Cape Verde | 100.00 | 2001 |
+| 17 | Cayman Islands | 100.00 | 2001 |
+| 18 | Chad | 100.00 | 2001 |
+| 19 | Libya | 100.00 | 2001 |
+| 20 | Liberia | 100.00 | 2001 |
+| 21 | Kuwait | 100.00 | 2001 |
+| 22 | Kiribati | 100.00 | 2001 |
+| 23 | Hong Kong | 100.00 | 2001 |
+| 24 | Greenland | 100.00 | 2001 |
+| 25 | Grenada | 100.00 | 2001 |
+| 26 | Gibraltar | 100.00 | 2001 |
+| 27 | Brunei | 100.00 | 2001 |
+| 28 | Vanuatu | 100.00 | 2001 |
+| 29 | Niger | 100.00 | 2001 |
+| 30 | Niue | 100.00 | 2001 |
+| 31 | Maldives | 100.00 | 2001 |
+| 32 | Oman | 100.00 | 2001 |
+| 33 | Malta | 100.00 | 2001 |
+| 34 | Montserrat | 100.00 | 2001 |
+| 35 | Mongolia | 100.00 | 2001 |
+| 36 | Macau | 100.00 | 2001 |
+| 37 | Tokelau | 100.00 | 2001 |
+| 38 | Turks and Caicos Islands | 100.00 | 2001 |
+| 39 | Saint Lucia | 100.00 | 2001 |
+| 40 | Somalia | 100.00 | 2001 |
+| 41 | Singapore | 100.00 | 2001 |
+| 42 | Sierra Leone | 100.00 | 2001 |
+| 43 | Saint Helena | 100.00 | 2001 |
+| 44 | Senegal | 100.00 | 2001 |
+| 45 | Seychelles | 100.00 | 2001 |
+| 46 | Yemen | 100.00 | 2001 |
+| 47 | Western Sahara | 100.00 | 2001 |
+| 48 | West Bank | 100.00 | 2001 |
+| 49 | Virgin Islands | 100.00 | 2001 |
+| 50 | British Virgin Islands | 100.00 | 2001 |
+| 51 | Timor-Leste | 100.00 | 2001 |
+| 52 | Tonga | 100.00 | 2001 |
+| 53 | Saint Kitts and Nevis | 100.00 | 2001 |
+| 54 | Saint Pierre and Miquelon | 100.00 | 2001 |
+| 55 | Saudi Arabia | 100.00 | 2001 |
+| 56 | Qatar | 100.00 | 2001 |
+| 57 | Guinea-Bissau | 100.00 | 2001 |
+| 58 | Netherlands Antilles | 100.00 | 2001 |
+| 59 | Nauru | 100.00 | 2001 |
+| 60 | Solomon Islands | 100.00 | 2001 |
+| 61 | Bhutan | 99.90 | 2001 |
+| 62 | Israel | 99.90 | 2001 |
+| 63 | Turkmenistan | 99.90 | 2001 |
+| 64 | Paraguay | 99.90 | 2001 |
+| 65 | Estonia | 99.80 | 2001 |
+| 66 | Trinidad and Tobago | 99.80 | 2001 |
+| 67 | Algeria | 99.70 | 2001 |
+| 68 | Congo, Republic of the | 99.70 | 2001 |
+| 69 | Belarus | 99.50 | 2001 |
+| 70 | Tunisia | 99.50 | 2001 |
+| 71 | Zambia | 99.50 | 2001 |
+| 72 | Burundi | 99.40 | 2001 |
+| 73 | Jordan | 99.40 | 2001 |
+| 74 | Guyana | 99.40 | 2001 |
+| 75 | Norway | 99.30 | 2001 |
+| 76 | Puerto Rico | 99.20 | 2001 |
+| 77 | Uganda | 99.10 | 2001 |
+| 78 | Uruguay | 99.10 | 2001 |
+| 79 | Marshall Islands | 99.00 | NA |
+| 80 | Togo | 98.70 | 2001 |
+| 81 | Laos | 98.60 | 2001 |
+| 82 | Iraq | 98.40 | 2001 |
+| 83 | Congo, Democratic Republic of the | 98.20 | 2001 |
+| 84 | Poland | 98.10 | 2001 |
+| 85 | Tajikistan | 98.10 | 2001 |
+| 86 | Rwanda | 97.70 | 2001 |
+| 87 | Ethiopia | 97.60 | 2001 |
+| 88 | Cameroon | 97.30 | 2001 |
+| 89 | Lebanon | 97.20 | 2001 |
+| 90 | Albania | 97.10 | 2001 |
+| 91 | Mozambique | 97.10 | 2001 |
+| 92 | Iran | 97.10 | 2001 |
+| 93 | Jamaica | 96.80 | 2001 |
+| 94 | Malawi | 96.70 | 2001 |
+| 95 | Ireland | 95.90 | 2001 |
+| 96 | Morocco | 95.40 | 2001 |
+| 97 | Ghana | 95.00 | 2001 |
+| 98 | Greece | 94.50 | 2001 |
+| 99 | Equatorial Guinea | 94.30 | 2001 |
+| 100 | Cuba | 93.90 | 2001 |
+| 101 | Bangladesh | 93.70 | 2001 |
+| 102 | South Africa | 93.50 | 2001 |
+| 103 | Kyrgyzstan | 92.40 | 2001 |
+| 104 | Dominican Republic | 92.00 | 2001 |
+| 105 | Nepal | 91.50 | 2001 |
+| 106 | Thailand | 91.30 | 2001 |
+| 107 | Australia | 90.80 | 2001 |
+| 108 | Mauritius | 90.80 | 2001 |
+| 109 | Comoros | 90.60 | 2001 |
+| 110 | Moldova | 90.60 | 2001 |
+| 111 | Netherlands | 89.90 | 2001 |
+| 112 | Azerbaijan | 89.70 | 2001 |
+| 113 | Malaysia | 89.50 | 2001 |
+| 114 | Uzbekistan | 88.20 | 2001 |
+| 115 | Indonesia | 86.90 | 2001 |
+| 116 | Mauritania | 85.90 | 2001 |
+| 117 | Benin | 85.80 | 2001 |
+| 118 | Peru | 84.70 | 2001 |
+| 119 | Kazakhstan | 84.30 | 2001 |
+| 120 | Nicaragua | 83.90 | 2001 |
+| 121 | Macedonia | 83.70 | 2001 |
+| 122 | Brazil | 82.70 | 2001 |
+| 123 | Denmark | 82.70 | 2001 |
+| 124 | Iceland | 82.50 | 2001 |
+| 125 | Costa Rica | 81.90 | 2001 |
+| 126 | India | 81.70 | 2001 |
+| 127 | Fiji | 81.50 | 2001 |
+| 128 | Tanzania | 81.10 | 2001 |
+| 129 | Ecuador | 81.00 | 2001 |
+| 130 | Egypt | 81.00 | 2001 |
+| 131 | Georgia | 80.30 | 2001 |
+| 132 | China | 80.20 | 2001 |
+| 133 | Central African Republic | 80.20 | 2001 |
+| 134 | Turkey | 79.30 | 2001 |
+| 135 | Mexico | 78.70 | 2001 |
+| 136 | Italy | 78.60 | 2001 |
+| 137 | Lithuania | 77.70 | 2001 |
+| 138 | France | 77.10 | 2001 |
+| 139 | New Caledonia | 76.30 | 2001 |
+| 140 | Czech Republic | 76.10 | 2001 |
+| 141 | Suriname | 74.80 | 2001 |
+| 142 | United Kingdom | 73.80 | 2001 |
+| 143 | Colombia | 72.70 | 2001 |
+| 144 | Taiwan | 71.40 | 2001 |
+| 145 | United States | 71.40 | 2001 |
+| 146 | Kenya | 71.00 | 2001 |
+| 147 | Korea, North | 71.00 | 2001 |
+| 148 | Latvia | 70.90 | 2001 |
+| 149 | Burkina Faso | 69.90 | 2001 |
+| 150 | Saint Vincent and the Grenadines | 69.30 | 2001 |
+| 151 | Pakistan | 68.80 | 2001 |
+| 152 | Venezuela | 68.30 | 2001 |
+| 153 | Austria | 67.20 | 2001 |
+| 154 | Russia | 66.30 | 2003 |
+| 155 | Croatia | 66.00 | 2001 |
+| 156 | Gabon | 65.50 | 2001 |
+| 157 | Cambodia | 65.00 | 2001 |
+| 158 | Portugal | 64.50 | 2001 |
+| 159 | Madagascar | 63.90 | 2001 |
+| 160 | Afghanistan | 63.70 | 2001 |
+| 161 | Angola | 63.60 | 2001 |
+| 162 | Romania | 62.50 | 2001 |
+| 163 | Faroe Islands | 62.40 | 2001 |
+| 164 | Korea, South | 62.40 | 2001 |
+| 165 | Cote d'Ivoire | 61.90 | 2001 |
+| 166 | Nigeria | 61.90 | 2001 |
+| 167 | Germany | 61.80 | 2001 |
+| 168 | Panama | 61.30 | 2001 |
+| 169 | French Polynesia | 60.70 | 2001 |
+| 170 | Haiti | 60.30 | 2001 |
+| 171 | Hungary | 60.10 | 2001 |
+| 172 | Japan | 60.00 | 2001 |
+| 173 | Belize | 59.90 | 2001 |
+| 174 | Switzerland | 59.50 | 2001 |
+| 175 | Belgium | 59.30 | 2001 |
+| 176 | Sao Tome and Principe | 58.80 | 2001 |
+| 177 | Mali | 58.30 | 2001 |
+| 178 | Samoa | 58.00 | 2001 |
+| 179 | Swaziland | 58.00 | 2001 |
+| 180 | Svalbard | 58.00 | NA |
+| 181 | Canada | 57.90 | 2001 |
+| 182 | New Zealand | 57.80 | 2001 |
+| 183 | Syria | 57.60 | 2001 |
+| 184 | Luxembourg | 57.30 | 2001 |
+| 185 | Vietnam | 56.30 | 2001 |
+| 186 | Philippines | 55.60 | 2001 |
+| 187 | Guinea | 54.50 | 2001 |
+| 188 | Papua New Guinea | 54.10 | 2001 |
+| 189 | Bolivia | 54.00 | 2001 |
+| 190 | Slovakia | 53.60 | 2001 |
+| 191 | Bosnia and Herzegovina | 53.50 | 2001 |
+| 192 | Zimbabwe | 53.00 | 2001 |
+| 193 | Dominica | 52.90 | 2001 |
+| 194 | Argentina | 52.20 | 2001 |
+| 195 | Sudan | 52.10 | 2001 |
+| 196 | Guatemala | 51.90 | 2001 |
+| 197 | Sri Lanka | 51.70 | 2001 |
+| 198 | Chile | 51.50 | 2001 |
+| 199 | Sweden | 50.80 | 2001 |
+| 200 | Spain | 50.40 | 2001 |
+| 201 | Honduras | 50.20 | 2001 |
+| 202 | Honduras | 49.80 | 2001 |
+| 203 | Ukraine | 48.60 | 2001 |
+| 204 | Sri Lanka | 48.30 | 2001 |
+| 205 | Sudan | 47.90 | 2001 |
+| 206 | Bulgaria | 47.80 | 2001 |
+| 207 | Dominica | 47.10 | 2001 |
+| 208 | Chile | 47.00 | 2001 |
+| 209 | Zimbabwe | 47.00 | 2001 |
+| 210 | Bosnia and Herzegovina | 46.50 | 2001 |
+| 211 | Papua New Guinea | 45.90 | 2001 |
+| 212 | Guinea | 45.50 | 2001 |
+| 213 | Burma | 44.50 | 2002 |
+| 214 | Bolivia | 44.40 | 2001 |
+| 215 | Bulgaria | 44.10 | 2001 |
+| 216 | El Salvador | 44.00 | 2001 |
+| 217 | Vietnam | 43.70 | 2001 |
+| 218 | Ukraine | 43.50 | 2001 |
+| 219 | Burma | 43.40 | 2002 |
+| 220 | Sweden | 43.00 | 2001 |
+| 221 | Syria | 42.40 | 2001 |
+| 222 | Armenia | 42.30 | 2001 |
+| 223 | Svalbard | 42.00 | NA |
+| 224 | Samoa | 42.00 | 2001 |
+| 225 | Swaziland | 42.00 | 2001 |
+| 226 | Mali | 41.70 | 2001 |
+| 227 | Sao Tome and Principe | 41.20 | 2001 |
+| 228 | Argentina | 40.80 | 2001 |
+| 229 | Belize | 40.10 | 2001 |
+| 230 | Haiti | 39.70 | 2001 |
+| 231 | French Polynesia | 39.30 | 2001 |
+| 232 | Finland | 39.00 | 2001 |
+| 233 | Hungary | 39.00 | 2001 |
+| 234 | Belgium | 38.40 | 2001 |
+| 235 | Cote d'Ivoire | 38.10 | 2001 |
+| 236 | Nigeria | 38.10 | 2001 |
+| 237 | Faroe Islands | 37.60 | 2001 |
+| 238 | Switzerland | 37.10 | 2001 |
+| 239 | Panama | 37.00 | 2001 |
+| 240 | Slovenia | 36.80 | 2001 |
+| 241 | Korea, South | 36.60 | 2001 |
+| 242 | Angola | 36.40 | 2001 |
+| 243 | Afghanistan | 36.30 | 2001 |
+| 244 | Madagascar | 36.10 | 2001 |
+| 245 | Guatemala | 35.20 | 2001 |
+| 246 | Slovenia | 35.20 | 2001 |
+| 247 | Cambodia | 35.00 | 2001 |
+| 248 | Gabon | 34.50 | 2001 |
+| 249 | Croatia | 33.60 | 2001 |
+| 250 | Venezuela | 31.70 | 2001 |
+| 251 | New Zealand | 31.60 | 2001 |
+| 252 | Portugal | 31.30 | 2001 |
+| 253 | El Salvador | 30.90 | 2001 |
+| 254 | Armenia | 30.70 | 2001 |
+| 255 | Saint Vincent and the Grenadines | 30.70 | 2001 |
+| 256 | Finland | 30.40 | 2001 |
+| 257 | Slovakia | 30.30 | 2001 |
+| 258 | Burkina Faso | 30.10 | 2001 |
+| 259 | Germany | 29.90 | 2001 |
+| 260 | Japan | 29.80 | 2001 |
+| 261 | Austria | 29.30 | 2001 |
+| 262 | Latvia | 29.10 | 2001 |
+| 263 | Korea, North | 29.00 | 2001 |
+| 264 | Pakistan | 28.20 | 2001 |
+| 265 | Canada | 28.00 | 2001 |
+| 266 | Romania | 27.60 | 2001 |
+| 267 | Slovenia | 27.30 | 2001 |
+| 268 | Spain | 27.20 | 2001 |
+| 269 | Armenia | 27.00 | 2001 |
+| 270 | Philippines | 26.90 | 2001 |
+| 271 | Colombia | 26.00 | 2001 |
+| 272 | Luxembourg | 25.20 | 2001 |
+| 273 | Suriname | 25.20 | 2001 |
+| 274 | El Salvador | 25.10 | 2001 |
+| 275 | New Caledonia | 23.70 | 2001 |
+| 276 | United Kingdom | 23.70 | 2001 |
+| 277 | Taiwan | 22.60 | 2001 |
+| 278 | United States | 20.70 | 2001 |
+| 279 | Turkey | 20.40 | 2001 |
+| 280 | Czech Republic | 20.00 | 2001 |
+| 281 | Central African Republic | 19.80 | 2001 |
+| 282 | Georgia | 19.70 | 2001 |
+| 283 | Ecuador | 19.00 | 2001 |
+| 284 | Egypt | 19.00 | 2001 |
+| 285 | Tanzania | 18.90 | 2001 |
+| 286 | Finland | 18.70 | 2001 |
+| 287 | China | 18.50 | 2001 |
+| 288 | Fiji | 18.50 | 2001 |
+| 289 | Italy | 18.40 | 2001 |
+| 290 | Spain | 18.20 | 2001 |
+| 291 | Kenya | 17.70 | 2001 |
+| 292 | Iceland | 17.50 | 2001 |
+| 293 | Luxembourg | 17.50 | 2001 |
+| 294 | Philippines | 17.50 | 2001 |
+| 295 | Denmark | 17.30 | 2001 |
+| 296 | Russia | 17.20 | 2003 |
+| 297 | Costa Rica | 16.60 | 2001 |
+| 298 | Lithuania | 16.50 | 2001 |
+| 299 | Russia | 16.40 | 2003 |
+| 300 | Macedonia | 16.30 | 2001 |
+| 301 | Slovakia | 16.00 | 2001 |
+| 302 | Kazakhstan | 15.70 | 2001 |
+| 303 | India | 14.50 | 2001 |
+| 304 | Peru | 14.50 | 2001 |
+| 305 | Benin | 14.20 | 2001 |
+| 306 | Mexico | 14.20 | 2001 |
+| 307 | Mauritania | 14.10 | 2001 |
+| 308 | France | 14.00 | 2001 |
+| 309 | Canada | 12.90 | 2001 |
+| 310 | Guatemala | 12.90 | 2001 |
+| 311 | Burma | 12.10 | 2002 |
+| 312 | Finland | 11.80 | 2001 |
+| 313 | Uzbekistan | 11.80 | 2001 |
+| 314 | Kenya | 11.30 | 2001 |
+| 315 | New Zealand | 10.70 | 2001 |
+| 316 | Indonesia | 10.50 | 2001 |
+| 317 | Malaysia | 10.50 | 2001 |
+| 318 | Azerbaijan | 10.30 | 2001 |
+| 319 | Romania | 9.90 | 2001 |
+| 320 | Comoros | 9.40 | 2001 |
+| 321 | Moldova | 9.40 | 2001 |
+| 322 | Mauritius | 9.20 | 2001 |
+| 323 | Nepal | 8.50 | 2001 |
+| 324 | Japan | 8.40 | 2001 |
+| 325 | Nicaragua | 8.40 | 2001 |
+| 326 | Australia | 8.30 | 2001 |
+| 327 | Brazil | 8.30 | 2001 |
+| 328 | France | 8.20 | 2001 |
+| 329 | Bulgaria | 8.10 | 2001 |
+| 330 | Ukraine | 7.90 | 2001 |
+| 331 | Nicaragua | 7.70 | 2001 |
+| 332 | Dominican Republic | 7.60 | 2001 |
+| 333 | Kyrgyzstan | 7.60 | 2001 |
+| 334 | Argentina | 6.70 | 2001 |
+| 335 | Thailand | 6.40 | 2001 |
+| 336 | Bangladesh | 6.30 | 2001 |
+| 337 | Taiwan | 6.00 | 2001 |
+| 338 | Equatorial Guinea | 5.70 | 2001 |
+| 339 | Lithuania | 5.70 | 2001 |
+| 340 | Netherlands | 5.70 | 2001 |
+| 341 | United States | 5.60 | 2001 |
+| 342 | South Africa | 5.50 | 2001 |
+| 343 | Cuba | 5.40 | 2001 |
+| 344 | Ghana | 5.00 | 2001 |
+| 345 | Brazil | 4.60 | 2001 |
+| 346 | Morocco | 4.60 | 2001 |
+| 347 | Brazil | 4.40 | 2001 |
+| 348 | Netherlands | 4.30 | 2001 |
+| 349 | Germany | 4.20 | 2001 |
+| 350 | Mexico | 4.20 | 2001 |
+| 351 | Germany | 4.10 | 2001 |
+| 352 | Portugal | 4.10 | 2001 |
+| 353 | Spain | 4.10 | 2001 |
+| 354 | Sweden | 4.00 | 2001 |
+| 355 | Greece | 3.80 | 2001 |
+| 356 | Austria | 3.50 | 2001 |
+| 357 | India | 3.40 | 2001 |
+| 358 | Malawi | 3.30 | 2001 |
+| 359 | Italy | 3.00 | 2001 |
+| 360 | Pakistan | 3.00 | 2001 |
+| 361 | Albania | 2.90 | 2001 |
+| 362 | Iran | 2.90 | 2001 |
+| 363 | Mexico | 2.90 | 2001 |
+| 364 | Czech Republic | 2.90 | 2001 |
+| 365 | Mozambique | 2.90 | 2001 |
+| 366 | Lebanon | 2.80 | 2001 |
+| 367 | Cameroon | 2.70 | 2001 |
+| 368 | Indonesia | 2.60 | 2001 |
+| 369 | Thailand | 2.40 | 2001 |
+| 370 | Ireland | 2.30 | 2001 |
+| 371 | Rwanda | 2.30 | 2001 |
+| 372 | United States | 2.30 | 2001 |
+| 373 | Sweden | 2.30 | 2001 |
+| 374 | Switzerland | 2.00 | 2001 |
+| 375 | Tajikistan | 1.90 | 2001 |
+| 376 | Belgium | 1.80 | 2001 |
+| 377 | Jamaica | 1.80 | 2001 |
+| 378 | Japan | 1.80 | 2001 |
+| 379 | Congo, Democratic Republic of the | 1.80 | 2001 |
+| 380 | Ireland | 1.70 | 2001 |
+| 381 | Panama | 1.70 | 2001 |
+| 382 | Greece | 1.70 | 2001 |
+| 383 | Iraq | 1.60 | 2001 |
+| 384 | United Kingdom | 1.60 | 2001 |
+| 385 | Bolivia | 1.50 | 2001 |
+| 386 | Poland | 1.50 | 2001 |
+| 387 | Costa Rica | 1.50 | 2001 |
+| 388 | Chile | 1.40 | 2001 |
+| 389 | Laos | 1.40 | 2001 |
+| 390 | Jamaica | 1.40 | 2001 |
+| 391 | Canada | 1.30 | 2001 |
+| 392 | Ethiopia | 1.30 | 2001 |
+| 393 | Switzerland | 1.30 | 2001 |
+| 394 | Togo | 1.30 | 2001 |
+| 395 | Colombia | 1.30 | 2001 |
+| 396 | China | 1.20 | 2001 |
+| 397 | Ethiopia | 1.20 | 2001 |
+| 398 | South Africa | 1.10 | 2001 |
+| 399 | Czech Republic | 1.00 | 2001 |
+| 400 | Marshall Islands | 1.00 | NA |
+| 401 | Australia | 0.90 | 2001 |
+| 402 | United Kingdom | 0.90 | 2001 |
+| 403 | Uganda | 0.90 | 2001 |
+| 404 | Korea, South | 0.80 | 2001 |
+| 405 | Puerto Rico | 0.80 | 2001 |
+| 406 | Peru | 0.80 | 2001 |
+| 407 | France | 0.70 | 2001 |
+| 408 | Uruguay | 0.70 | 2001 |
+| 409 | Slovenia | 0.70 | 2001 |
+| 410 | Belgium | 0.60 | 2001 |
+| 411 | Guyana | 0.60 | 2001 |
+| 412 | Jordan | 0.60 | 2001 |
+| 413 | Cuba | 0.60 | 2001 |
+| 414 | Burundi | 0.60 | 2001 |
+| 415 | Hungary | 0.50 | 2001 |
+| 416 | Tunisia | 0.50 | 2001 |
+| 417 | Zambia | 0.50 | 2001 |
+| 418 | Belarus | 0.40 | 2001 |
+| 419 | Poland | 0.40 | 2001 |
+| 420 | Norway | 0.40 | 2001 |
+| 421 | Dominican Republic | 0.40 | 2001 |
+| 422 | Norway | 0.40 | 2001 |
+| 423 | Croatia | 0.40 | 2001 |
+| 424 | Algeria | 0.30 | 2001 |
+| 425 | Uruguay | 0.30 | 2001 |
+| 426 | Turkey | 0.30 | 2001 |
+| 427 | India | 0.30 | 2001 |
+| 428 | Hungary | 0.30 | 2001 |
+| 429 | Congo, Republic of the | 0.30 | 2001 |
+| 430 | Argentina | 0.20 | 2001 |
+| 431 | Trinidad and Tobago | 0.20 | 2001 |
+| 432 | Korea, South | 0.20 | 2001 |
+| 433 | Estonia | 0.20 | 2001 |
+| 434 | Belarus | 0.10 | 2001 |
+| 435 | Bhutan | 0.10 | 2001 |
+| 436 | Israel | 0.10 | 2001 |
+| 437 | Turkmenistan | 0.10 | 2001 |
+| 438 | Russia | 0.10 | 2003 |
+| 439 | Paraguay | 0.10 | 2001 |
+| 440 | Netherlands | 0.10 | 2001 |
+| 441 | Iceland | 0.10 | 2001 |
+| 442 | Estonia | 0.10 | 2001 |
+| 443 | Denmark | 0.10 | 2001 |
+| 444 | China | 0.10 | 2001 |
+| 445 | Aruba | 0.00 | 2001 |
+| 446 | Aruba | 0.00 | 2001 |
+| 447 | Antigua and Barbuda | 0.00 | 2001 |
+| 448 | United Arab Emirates | 0.00 | 2001 |
+| 449 | Congo, Democratic Republic of the | 0.00 | 2001 |
+| 450 | Congo, Democratic Republic of the | 0.00 | 2001 |
+| 451 | Congo, Republic of the | 0.00 | 2001 |
+| 452 | Congo, Republic of the | 0.00 | 2001 |
+| 453 | Sri Lanka | 0.00 | 2001 |
+| 454 | Sri Lanka | 0.00 | 2001 |
+| 455 | Chad | 0.00 | 2001 |
+| 456 | Chad | 0.00 | 2001 |
+| 457 | Chad | 0.00 | 2001 |
+| 458 | Cambodia | 0.00 | 2001 |
+| 459 | Cambodia | 0.00 | 2001 |
+| 460 | Burundi | 0.00 | 2001 |
+| 461 | Burundi | 0.00 | 2001 |
+| 462 | Brunei | 0.00 | 2001 |
+| 463 | Brunei | 0.00 | 2001 |
+| 464 | Brunei | 0.00 | 2001 |
+| 465 | Bulgaria | 0.00 | 2001 |
+| 466 | Bhutan | 0.00 | 2001 |
+| 467 | Bhutan | 0.00 | 2001 |
+| 468 | Solomon Islands | 0.00 | 2001 |
+| 469 | Solomon Islands | 0.00 | 2001 |
+| 470 | Solomon Islands | 0.00 | 2001 |
+| 471 | Belarus | 0.00 | 2001 |
+| 472 | Benin | 0.00 | 2001 |
+| 473 | Benin | 0.00 | 2001 |
+| 474 | Burma | 0.00 | 2002 |
+| 475 | Bolivia | 0.00 | 2001 |
+| 476 | Bosnia and Herzegovina | 0.00 | 2001 |
+| 477 | Bosnia and Herzegovina | 0.00 | 2001 |
+| 478 | Belize | 0.00 | 2001 |
+| 479 | Belize | 0.00 | 2001 |
+| 480 | Bermuda | 0.00 | 2001 |
+| 481 | Colombia | 0.00 | 2001 |
+| 482 | Comoros | 0.00 | 2001 |
+| 483 | Comoros | 0.00 | 2001 |
+| 484 | Cameroon | 0.00 | 2001 |
+| 485 | Cameroon | 0.00 | 2001 |
+| 486 | Cayman Islands | 0.00 | 2001 |
+| 487 | Cayman Islands | 0.00 | 2001 |
+| 488 | Cayman Islands | 0.00 | 2001 |
+| 489 | Chile | 0.00 | 2001 |
+| 490 | Djibouti | 0.00 | 2001 |
+| 491 | Djibouti | 0.00 | 2001 |
+| 492 | Djibouti | 0.00 | 2001 |
+| 493 | Denmark | 0.00 | 2001 |
+| 494 | Cyprus | 0.00 | 2001 |
+| 495 | Cyprus | 0.00 | 2001 |
+| 496 | Cyprus | 0.00 | 2001 |
+| 497 | Cook Islands | 0.00 | 2001 |
+| 498 | Cook Islands | 0.00 | 2001 |
+| 499 | Fiji | 0.00 | 2001 |
+| 500 | Ethiopia | 0.00 | 2001 |
+| 501 | El Salvador | 0.00 | 2001 |
+| 502 | Eritrea | 0.00 | 2001 |
+| 503 | Eritrea | 0.00 | 2001 |
+| 504 | Eritrea | 0.00 | 2001 |
+| 505 | Estonia | 0.00 | 2001 |
+| 506 | Equatorial Guinea | 0.00 | 2001 |
+| 507 | Equatorial Guinea | 0.00 | 2001 |
+| 508 | Ghana | 0.00 | 2001 |
+| 509 | Ghana | 0.00 | 2001 |
+| 510 | Georgia | 0.00 | 2001 |
+| 511 | Georgia | 0.00 | 2001 |
+| 512 | Gabon | 0.00 | 2001 |
+| 513 | Gabon | 0.00 | 2001 |
+| 514 | Gambia, The | 0.00 | 2001 |
+| 515 | Gambia, The | 0.00 | 2001 |
+| 516 | Gambia, The | 0.00 | 2001 |
+| 517 | Zimbabwe | 0.00 | 2001 |
+| 518 | Zimbabwe | 0.00 | 2001 |
+| 519 | Zambia | 0.00 | 2001 |
+| 520 | Zambia | 0.00 | 2001 |
+| 521 | Yemen | 0.00 | 2001 |
+| 522 | Yemen | 0.00 | 2001 |
+| 523 | Yemen | 0.00 | 2001 |
+| 524 | Swaziland | 0.00 | 2001 |
+| 525 | Swaziland | 0.00 | 2001 |
+| 526 | Samoa | 0.00 | 2001 |
+| 527 | Samoa | 0.00 | 2001 |
+| 528 | Western Sahara | 0.00 | 2001 |
+| 529 | Western Sahara | 0.00 | 2001 |
+| 530 | Western Sahara | 0.00 | 2001 |
+| 531 | Wallis and Futuna | 0.00 | NA |
+| 532 | Wallis and Futuna | 0.00 | NA |
+| 533 | Wallis and Futuna | 0.00 | NA |
+| 534 | Wallis and Futuna | 0.00 | NA |
+| 535 | West Bank | 0.00 | 2001 |
+| 536 | West Bank | 0.00 | 2001 |
+| 537 | West Bank | 0.00 | 2001 |
+| 538 | Virgin Islands | 0.00 | 2001 |
+| 539 | Virgin Islands | 0.00 | 2001 |
+| 540 | Virgin Islands | 0.00 | 2001 |
+| 541 | Vietnam | 0.00 | 2001 |
+| 542 | Vietnam | 0.00 | 2001 |
+| 543 | British Virgin Islands | 0.00 | 2001 |
+| 544 | British Virgin Islands | 0.00 | 2001 |
+| 545 | British Virgin Islands | 0.00 | 2001 |
+| 546 | Venezuela | 0.00 | 2001 |
+| 547 | Venezuela | 0.00 | 2001 |
+| 548 | Saint Vincent and the Grenadines | 0.00 | 2001 |
+| 549 | Saint Vincent and the Grenadines | 0.00 | 2001 |
+| 550 | Uzbekistan | 0.00 | 2001 |
+| 551 | Uzbekistan | 0.00 | 2001 |
+| 552 | Uruguay | 0.00 | 2001 |
+| 553 | Burkina Faso | 0.00 | 2001 |
+| 554 | Burkina Faso | 0.00 | 2001 |
+| 555 | Ukraine | 0.00 | 2001 |
+| 556 | Uganda | 0.00 | 2001 |
+| 557 | Uganda | 0.00 | 2001 |
+| 558 | Tanzania | 0.00 | 2001 |
+| 559 | Tanzania | 0.00 | 2001 |
+| 560 | Turkmenistan | 0.00 | 2001 |
+| 561 | Turkmenistan | 0.00 | 2001 |
+| 562 | Taiwan | 0.00 | 2001 |
+| 563 | Turkey | 0.00 | 2001 |
+| 564 | Timor-Leste | 0.00 | 2001 |
+| 565 | Timor-Leste | 0.00 | 2001 |
+| 566 | Timor-Leste | 0.00 | 2001 |
+| 567 | Tunisia | 0.00 | 2001 |
+| 568 | Tunisia | 0.00 | 2001 |
+| 569 | Sao Tome and Principe | 0.00 | 2001 |
+| 570 | Sao Tome and Principe | 0.00 | 2001 |
+| 571 | Togo | 0.00 | 2001 |
+| 572 | Togo | 0.00 | 2001 |
+| 573 | Tonga | 0.00 | 2001 |
+| 574 | Tonga | 0.00 | 2001 |
+| 575 | Tonga | 0.00 | 2001 |
+| 576 | Tokelau | 0.00 | 2001 |
+| 577 | Tokelau | 0.00 | 2001 |
+| 578 | Tokelau | 0.00 | 2001 |
+| 579 | Turks and Caicos Islands | 0.00 | 2001 |
+| 580 | Turks and Caicos Islands | 0.00 | 2001 |
+| 581 | Turks and Caicos Islands | 0.00 | 2001 |
+| 582 | Tajikistan | 0.00 | 2001 |
+| 583 | Tajikistan | 0.00 | 2001 |
+| 584 | Thailand | 0.00 | 2001 |
+| 585 | Trinidad and Tobago | 0.00 | 2001 |
+| 586 | Trinidad and Tobago | 0.00 | 2001 |
+| 587 | Syria | 0.00 | 2001 |
+| 588 | Syria | 0.00 | 2001 |
+| 589 | Svalbard | 0.00 | NA |
+| 590 | Svalbard | 0.00 | NA |
+| 591 | Sudan | 0.00 | 2001 |
+| 592 | Sudan | 0.00 | 2001 |
+| 593 | Saint Lucia | 0.00 | 2001 |
+| 594 | Saint Lucia | 0.00 | 2001 |
+| 595 | Saint Lucia | 0.00 | 2001 |
+| 596 | Somalia | 0.00 | 2001 |
+| 597 | Somalia | 0.00 | 2001 |
+| 598 | Somalia | 0.00 | 2001 |
+| 599 | Singapore | 0.00 | 2001 |
+| 600 | Singapore | 0.00 | 2001 |
+| 601 | Singapore | 0.00 | 2001 |
+| 602 | Sierra Leone | 0.00 | 2001 |
+| 603 | Sierra Leone | 0.00 | 2001 |
+| 604 | Sierra Leone | 0.00 | 2001 |
+| 605 | Saint Helena | 0.00 | 2001 |
+| 606 | Saint Helena | 0.00 | 2001 |
+| 607 | Saint Helena | 0.00 | 2001 |
+| 608 | Senegal | 0.00 | 2001 |
+| 609 | Senegal | 0.00 | 2001 |
+| 610 | Senegal | 0.00 | 2001 |
+| 611 | South Africa | 0.00 | 2001 |
+| 612 | Seychelles | 0.00 | 2001 |
+| 613 | Seychelles | 0.00 | 2001 |
+| 614 | Seychelles | 0.00 | 2001 |
+| 615 | Saint Kitts and Nevis | 0.00 | 2001 |
+| 616 | Saint Kitts and Nevis | 0.00 | 2001 |
+| 617 | Saint Kitts and Nevis | 0.00 | 2001 |
+| 618 | Saint Pierre and Miquelon | 0.00 | 2001 |
+| 619 | Saint Pierre and Miquelon | 0.00 | 2001 |
+| 620 | Saint Pierre and Miquelon | 0.00 | 2001 |
+| 621 | Saudi Arabia | 0.00 | 2001 |
+| 622 | Saudi Arabia | 0.00 | 2001 |
+| 623 | Saudi Arabia | 0.00 | 2001 |
+| 624 | Rwanda | 0.00 | 2001 |
+| 625 | Rwanda | 0.00 | 2001 |
+| 626 | Puerto Rico | 0.00 | 2001 |
+| 627 | Puerto Rico | 0.00 | 2001 |
+| 628 | Philippines | 0.00 | 2001 |
+| 629 | Romania | 0.00 | 2001 |
+| 630 | Marshall Islands | 0.00 | NA |
+| 631 | Marshall Islands | 0.00 | NA |
+| 632 | Qatar | 0.00 | 2001 |
+| 633 | Qatar | 0.00 | 2001 |
+| 634 | Qatar | 0.00 | 2001 |
+| 635 | Guinea-Bissau | 0.00 | 2001 |
+| 636 | Guinea-Bissau | 0.00 | 2001 |
+| 637 | Guinea-Bissau | 0.00 | 2001 |
+| 638 | Papua New Guinea | 0.00 | 2001 |
+| 639 | Papua New Guinea | 0.00 | 2001 |
+| 640 | Portugal | 0.00 | 2001 |
+| 641 | Panama | 0.00 | 2001 |
+| 642 | Poland | 0.00 | 2001 |
+| 643 | Pakistan | 0.00 | 2001 |
+| 644 | Peru | 0.00 | 2001 |
+| 645 | Paraguay | 0.00 | 2001 |
+| 646 | Paraguay | 0.00 | 2001 |
+| 647 | New Zealand | 0.00 | 2001 |
+| 648 | Nicaragua | 0.00 | 2001 |
+| 649 | Netherlands Antilles | 0.00 | 2001 |
+| 650 | Netherlands Antilles | 0.00 | 2001 |
+| 651 | Netherlands Antilles | 0.00 | 2001 |
+| 652 | Suriname | 0.00 | 2001 |
+| 653 | Suriname | 0.00 | 2001 |
+| 654 | Nauru | 0.00 | 2001 |
+| 655 | Nauru | 0.00 | 2001 |
+| 656 | Nauru | 0.00 | 2001 |
+| 657 | Nepal | 0.00 | 2001 |
+| 658 | Nepal | 0.00 | 2001 |
+| 659 | Norway | 0.00 | 2001 |
+| 660 | Nigeria | 0.00 | 2001 |
+| 661 | Nigeria | 0.00 | 2001 |
+| 662 | Vanuatu | 0.00 | 2001 |
+| 663 | Vanuatu | 0.00 | 2001 |
+| 664 | Vanuatu | 0.00 | 2001 |
+| 665 | Niger | 0.00 | 2001 |
+| 666 | Niger | 0.00 | 2001 |
+| 667 | Niger | 0.00 | 2001 |
+| 668 | Norfolk Island | 0.00 | 2002 |
+| 669 | Norfolk Island | 0.00 | 2002 |
+| 670 | Norfolk Island | 0.00 | 2002 |
+| 671 | Norfolk Island | 0.00 | 2002 |
+| 672 | Niue | 0.00 | 2001 |
+| 673 | Niue | 0.00 | 2001 |
+| 674 | Niue | 0.00 | 2001 |
+| 675 | New Caledonia | 0.00 | 2001 |
+| 676 | New Caledonia | 0.00 | 2001 |
+| 677 | Mozambique | 0.00 | 2001 |
+| 678 | Mozambique | 0.00 | 2001 |
+| 679 | Malaysia | 0.00 | 2001 |
+| 680 | Malaysia | 0.00 | 2001 |
+| 681 | Maldives | 0.00 | 2001 |
+| 682 | Maldives | 0.00 | 2001 |
+| 683 | Maldives | 0.00 | 2001 |
+| 684 | Oman | 0.00 | 2001 |
+| 685 | Oman | 0.00 | 2001 |
+| 686 | Oman | 0.00 | 2001 |
+| 687 | Malta | 0.00 | 2001 |
+| 688 | Malta | 0.00 | 2001 |
+| 689 | Malta | 0.00 | 2001 |
+| 690 | Mauritania | 0.00 | 2001 |
+| 691 | Mauritania | 0.00 | 2001 |
+| 692 | Mauritius | 0.00 | 2001 |
+| 693 | Mauritius | 0.00 | 2001 |
+| 694 | Morocco | 0.00 | 2001 |
+| 695 | Morocco | 0.00 | 2001 |
+| 696 | Mali | 0.00 | 2001 |
+| 697 | Mali | 0.00 | 2001 |
+| 698 | Macedonia | 0.00 | 2001 |
+| 699 | Macedonia | 0.00 | 2001 |
+| 700 | Malawi | 0.00 | 2001 |
+| 701 | Malawi | 0.00 | 2001 |
+| 702 | Montserrat | 0.00 | 2001 |
+| 703 | Montserrat | 0.00 | 2001 |
+| 704 | Montserrat | 0.00 | 2001 |
+| 705 | Mongolia | 0.00 | 2001 |
+| 706 | Mongolia | 0.00 | 2001 |
+| 707 | Mongolia | 0.00 | 2001 |
+| 708 | Mayotte | 0.00 | NA |
+| 709 | Mayotte | 0.00 | NA |
+| 710 | Mayotte | 0.00 | NA |
+| 711 | Mayotte | 0.00 | NA |
+| 712 | Moldova | 0.00 | 2001 |
+| 713 | Moldova | 0.00 | 2001 |
+| 714 | Macau | 0.00 | 2001 |
+| 715 | Macau | 0.00 | 2001 |
+| 716 | Macau | 0.00 | 2001 |
+| 717 | Madagascar | 0.00 | 2001 |
+| 718 | Madagascar | 0.00 | 2001 |
+| 719 | Libya | 0.00 | 2001 |
+| 720 | Libya | 0.00 | 2001 |
+| 721 | Libya | 0.00 | 2001 |
+| 722 | Luxembourg | 0.00 | 2001 |
+| 723 | Slovakia | 0.00 | 2001 |
+| 724 | Liberia | 0.00 | 2001 |
+| 725 | Liberia | 0.00 | 2001 |
+| 726 | Liberia | 0.00 | 2001 |
+| 727 | Lithuania | 0.00 | 2001 |
+| 728 | Latvia | 0.00 | 2001 |
+| 729 | Latvia | 0.00 | 2001 |
+| 730 | Lebanon | 0.00 | 2001 |
+| 731 | Lebanon | 0.00 | 2001 |
+| 732 | Laos | 0.00 | 2001 |
+| 733 | Laos | 0.00 | 2001 |
+| 734 | Kazakhstan | 0.00 | 2001 |
+| 735 | Kazakhstan | 0.00 | 2001 |
+| 736 | Kuwait | 0.00 | 2001 |
+| 737 | Kuwait | 0.00 | 2001 |
+| 738 | Kuwait | 0.00 | 2001 |
+| 739 | Kiribati | 0.00 | 2001 |
+| 740 | Kiribati | 0.00 | 2001 |
+| 741 | Kiribati | 0.00 | 2001 |
+| 742 | Korea, North | 0.00 | 2001 |
+| 743 | Korea, North | 0.00 | 2001 |
+| 744 | Kyrgyzstan | 0.00 | 2001 |
+| 745 | Kyrgyzstan | 0.00 | 2001 |
+| 746 | Kenya | 0.00 | 2001 |
+| 747 | Jordan | 0.00 | 2001 |
+| 748 | Jordan | 0.00 | 2001 |
+| 749 | Jamaica | 0.00 | 2001 |
+| 750 | Iraq | 0.00 | 2001 |
+| 751 | Iraq | 0.00 | 2001 |
+| 752 | Cote d'Ivoire | 0.00 | 2001 |
+| 753 | Cote d'Ivoire | 0.00 | 2001 |
+| 754 | Italy | 0.00 | 2001 |
+| 755 | Israel | 0.00 | 2001 |
+| 756 | Israel | 0.00 | 2001 |
+| 757 | Iran | 0.00 | 2001 |
+| 758 | Iran | 0.00 | 2001 |
+| 759 | Indonesia | 0.00 | 2001 |
+| 760 | Iceland | 0.00 | 2001 |
+| 761 | Croatia | 0.00 | 2001 |
+| 762 | Honduras | 0.00 | 2001 |
+| 763 | Honduras | 0.00 | 2001 |
+| 764 | Hong Kong | 0.00 | 2001 |
+| 765 | Hong Kong | 0.00 | 2001 |
+| 766 | Hong Kong | 0.00 | 2001 |
+| 767 | Haiti | 0.00 | 2001 |
+| 768 | Haiti | 0.00 | 2001 |
+| 769 | Guyana | 0.00 | 2001 |
+| 770 | Guyana | 0.00 | 2001 |
+| 771 | Guinea | 0.00 | 2001 |
+| 772 | Guinea | 0.00 | 2001 |
+| 773 | Guatemala | 0.00 | 2001 |
+| 774 | Greece | 0.00 | 2001 |
+| 775 | Greenland | 0.00 | 2001 |
+| 776 | Greenland | 0.00 | 2001 |
+| 777 | Greenland | 0.00 | 2001 |
+| 778 | Grenada | 0.00 | 2001 |
+| 779 | Grenada | 0.00 | 2001 |
+| 780 | Grenada | 0.00 | 2001 |
+| 781 | Gibraltar | 0.00 | 2001 |
+| 782 | Gibraltar | 0.00 | 2001 |
+| 783 | Gibraltar | 0.00 | 2001 |
+| 784 | French Polynesia | 0.00 | 2001 |
+| 785 | French Polynesia | 0.00 | 2001 |
+| 786 | Faroe Islands | 0.00 | 2001 |
+| 787 | Faroe Islands | 0.00 | 2001 |
+| 788 | Falkland Islands (Islas Malvinas) | 0.00 | 2001 |
+| 789 | Falkland Islands (Islas Malvinas) | 0.00 | 2001 |
+| 790 | Falkland Islands (Islas Malvinas) | 0.00 | 2001 |
+| 791 | Fiji | 0.00 | 2001 |
+| 792 | Ireland | 0.00 | 2001 |
+| 793 | Egypt | 0.00 | 2001 |
+| 794 | Egypt | 0.00 | 2001 |
+| 795 | Ecuador | 0.00 | 2001 |
+| 796 | Ecuador | 0.00 | 2001 |
+| 797 | Dominican Republic | 0.00 | 2001 |
+| 798 | Dominica | 0.00 | 2001 |
+| 799 | Dominica | 0.00 | 2001 |
+| 800 | Cook Islands | 0.00 | 2001 |
+| 801 | Cape Verde | 0.00 | 2001 |
+| 802 | Cape Verde | 0.00 | 2001 |
+| 803 | Cape Verde | 0.00 | 2001 |
+| 804 | Cuba | 0.00 | 2001 |
+| 805 | Central African Republic | 0.00 | 2001 |
+| 806 | Central African Republic | 0.00 | 2001 |
+| 807 | Costa Rica | 0.00 | 2001 |
+| 808 | Bermuda | 0.00 | 2001 |
+| 809 | Botswana | 0.00 | 2001 |
+| 810 | Botswana | 0.00 | 2001 |
+| 811 | Botswana | 0.00 | 2001 |
+| 812 | Barbados | 0.00 | 2001 |
+| 813 | Barbados | 0.00 | 2001 |
+| 814 | Barbados | 0.00 | 2001 |
+| 815 | Bahrain | 0.00 | 2001 |
+| 816 | Bangladesh | 0.00 | 2001 |
+| 817 | Bangladesh | 0.00 | 2001 |
+| 818 | Bahamas, The | 0.00 | 2001 |
+| 819 | Bahamas, The | 0.00 | 2001 |
+| 820 | Bahamas, The | 0.00 | 2001 |
+| 821 | Bermuda | 0.00 | 2001 |
+| 822 | Bahrain | 0.00 | 2001 |
+| 823 | Bahrain | 0.00 | 2001 |
+| 824 | Austria | 0.00 | 2001 |
+| 825 | Australia | 0.00 | 2001 |
+| 826 | American Samoa | 0.00 | 2001 |
+| 827 | American Samoa | 0.00 | 2001 |
+| 828 | American Samoa | 0.00 | 2001 |
+| 829 | Angola | 0.00 | 2001 |
+| 830 | Angola | 0.00 | 2001 |
+| 831 | Armenia | 0.00 | 2001 |
+| 832 | Albania | 0.00 | 2001 |
+| 833 | Albania | 0.00 | 2001 |
+| 834 | Azerbaijan | 0.00 | 2001 |
+| 835 | Azerbaijan | 0.00 | 2001 |
+| 836 | Algeria | 0.00 | 2001 |
+| 837 | Algeria | 0.00 | 2001 |
+| 838 | Afghanistan | 0.00 | 2001 |
+| 839 | Afghanistan | 0.00 | 2001 |
+| 840 | United Arab Emirates | 0.00 | 2001 |
+| 841 | United Arab Emirates | 0.00 | 2001 |
+| 842 | Antigua and Barbuda | 0.00 | 2001 |
+| 843 | Antigua and Barbuda | 0.00 | 2001 |
+| 844 | Aruba | 0.00 | 2001 |

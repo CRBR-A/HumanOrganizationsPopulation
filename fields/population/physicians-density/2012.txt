@@ -1,0 +1,195 @@
+CIA - The World Factbook --  Physicians density   
+
+This entry gives the number of medical doctors (physicians), including generalist and specialist medical practitioners, per 1,000 of the population. Medical doctors are defined as doctors that study, diagnose, treat, and prevent illness, disease, injury, and other physical and mental impairments in humans through the application of modern medicine. They also plan, supervise, and evaluate care and treatment plans by other health care providers. The World Health Organization estimates that fewer than 2.3 health workers (physicians, nurses, and midwives only) per 1,000 would be insufficient to achieve coverage of primary healthcare needs.
+
+| Rank | country | (physicians/1,000 population) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Cuba | 6.40 | 2007 |
+| 2 | Greece | 6.04 | 2008 |
+| 3 | Monaco | 5.81 | 1995 |
+| 4 | Belarus | 4.87 | 2007 |
+| 5 | Austria | 4.75 | 2009 |
+| 6 | Georgia | 4.54 | 2007 |
+| 7 | Russia | 4.31 | 2006 |
+| 8 | Italy | 4.24 | 2008 |
+| 9 | Norway | 4.08 | 2008 |
+| 10 | Switzerland | 4.07 | 2009 |
+| 11 | Niue | 4.00 | 2006 |
+| 12 | Iceland | 3.93 | 2008 |
+| 13 | Netherlands | 3.92 | 2007 |
+| 14 | Kazakhstan | 3.88 | 2007 |
+| 15 | Azerbaijan | 3.79 | 2007 |
+| 16 | Portugal | 3.76 | 2009 |
+| 17 | Uruguay | 3.74 | 2008 |
+| 18 | Andorra | 3.72 | 2007 |
+| 19 | Spain | 3.71 | 2009 |
+| 20 | Armenia | 3.70 | 2007 |
+| 21 | Lithuania | 3.66 | 2008 |
+| 22 | Bulgaria | 3.64 | 2008 |
+| 23 | Israel | 3.63 | 2007 |
+| 24 | Czech Republic | 3.63 | 2008 |
+| 25 | Sweden | 3.58 | 2006 |
+| 26 | Lebanon | 3.54 | 2009 |
+| 27 | Germany | 3.53 | 2008 |
+| 28 | France | 3.50 | 2008 |
+| 29 | Denmark | 3.42 | 2007 |
+| 30 | Estonia | 3.41 | 2008 |
+| 31 | Korea, North | 3.29 | 2003 |
+| 32 | Ireland | 3.19 | 2008 |
+| 33 | Argentina | 3.16 | 2004 |
+| 34 | Ukraine | 3.13 | 2006 |
+| 35 | Hungary | 3.10 | 2008 |
+| 36 | Malta | 3.07 | 2009 |
+| 37 | Slovakia | 3.00 | 2007 |
+| 38 | Australia | 2.99 | 2009 |
+| 39 | Latvia | 2.99 | 2009 |
+| 40 | Belgium | 2.99 | 2008 |
+| 41 | Mexico | 2.89 | 2004 |
+| 42 | Luxembourg | 2.86 | 2007 |
+| 43 | Egypt | 2.83 | 2009 |
+| 44 | Mongolia | 2.76 | 2008 |
+| 45 | Qatar | 2.76 | 2006 |
+| 46 | United Kingdom | 2.74 | 2009 |
+| 47 | Finland | 2.74 | 2008 |
+| 48 | United States | 2.67 | 2004 |
+| 49 | Moldova | 2.67 | 2007 |
+| 50 | Uzbekistan | 2.62 | 2007 |
+| 51 | Croatia | 2.59 | 2007 |
+| 52 | Macedonia | 2.55 | 2006 |
+| 53 | Slovenia | 2.47 | 2008 |
+| 54 | Jordan | 2.45 | 2009 |
+| 55 | Turkmenistan | 2.44 | 2007 |
+| 56 | New Zealand | 2.38 | 2007 |
+| 57 | Kyrgyzstan | 2.30 | 2007 |
+| 58 | Cyprus | 2.30 | 2006 |
+| 59 | Poland | 2.14 | 2008 |
+| 60 | Japan | 2.06 | 2006 |
+| 61 | Serbia | 2.04 | 2007 |
+| 62 | Tajikistan | 2.01 | 2006 |
+| 63 | Korea, South | 1.97 | 2008 |
+| 64 | Venezuela | 1.94 | 2001 |
+| 65 | United Arab Emirates | 1.93 | 2007 |
+| 66 | Romania | 1.92 | 2006 |
+| 67 | Canada | 1.91 | 2006 |
+| 68 | Oman | 1.90 | 2008 |
+| 69 | Libya | 1.90 | 2009 |
+| 70 | Singapore | 1.83 | 2009 |
+| 71 | Barbados | 1.81 | 2005 |
+| 72 | Kuwait | 1.79 | 2009 |
+| 73 | Brazil | 1.72 | 2007 |
+| 74 | El Salvador | 1.60 | 2008 |
+| 75 | Maldives | 1.60 | 2007 |
+| 76 | Seychelles | 1.51 | 2004 |
+| 77 | Syria | 1.50 | 2008 |
+| 78 | Panama | 1.50 | 2000 |
+| 79 | Ecuador | 1.48 | 2000 |
+| 80 | Turkey | 1.45 | 2008 |
+| 81 | Bahrain | 1.44 | 2008 |
+| 82 | Bosnia and Herzegovina | 1.42 | 2005 |
+| 83 | Brunei | 1.42 | 2008 |
+| 84 | China | 1.42 | 2009 |
+| 85 | Colombia | 1.35 | 2002 |
+| 86 | Costa Rica | 1.32 | 2000 |
+| 87 | Palau | 1.30 | 2006 |
+| 88 | Vietnam | 1.22 | 2008 |
+| 89 | Bolivia | 1.22 | 2001 |
+| 90 | Algeria | 1.21 | 2007 |
+| 91 | Tunisia | 1.19 | 2009 |
+| 92 | Cook Islands | 1.18 | 2004 |
+| 93 | Trinidad and Tobago | 1.18 | 2007 |
+| 94 | Philippines | 1.15 | 2004 |
+| 95 | Albania | 1.15 | 2007 |
+| 96 | Paraguay | 1.11 | 2002 |
+| 97 | Saint Kitts and Nevis | 1.10 | 2000 |
+| 98 | Chile | 1.09 | 2003 |
+| 99 | Mauritius | 1.06 | 2004 |
+| 100 | Bahamas, The | 1.05 | 1998 |
+| 101 | Malaysia | 0.94 | 2008 |
+| 102 | Saudi Arabia | 0.94 | 2008 |
+| 103 | Peru | 0.92 | 2009 |
+| 104 | Guatemala | 0.90 | 1999 |
+| 105 | Iran | 0.89 | 2005 |
+| 106 | Jamaica | 0.85 | 2003 |
+| 107 | Belize | 0.83 | 2009 |
+| 108 | Pakistan | 0.81 | 2009 |
+| 109 | South Africa | 0.77 | 2004 |
+| 110 | Saint Vincent and the Grenadines | 0.75 | 2000 |
+| 111 | Nauru | 0.71 | 2008 |
+| 112 | Iraq | 0.69 | 2009 |
+| 113 | Tuvalu | 0.64 | 2008 |
+| 114 | Morocco | 0.62 | 2009 |
+| 115 | India | 0.60 | 2005 |
+| 116 | Guyana | 0.59 | 2009 |
+| 117 | Cape Verde | 0.57 | 2008 |
+| 118 | Honduras | 0.57 | 2000 |
+| 119 | Micronesia, Federated States of | 0.56 | 2005 |
+| 120 | Marshall Islands | 0.56 | 2008 |
+| 121 | Dominica | 0.50 | 1997 |
+| 122 | Sri Lanka | 0.49 | 2006 |
+| 123 | Sao Tome and Principe | 0.49 | 2004 |
+| 124 | Saint Lucia | 0.47 | 2002 |
+| 125 | Burma | 0.46 | 2008 |
+| 126 | Fiji | 0.45 | 2003 |
+| 127 | Suriname | 0.45 | 2000 |
+| 128 | Nigeria | 0.40 | 2008 |
+| 129 | Namibia | 0.37 | 2007 |
+| 130 | Nicaragua | 0.37 | 2003 |
+| 131 | Botswana | 0.34 | 2006 |
+| 132 | Yemen | 0.30 | 2009 |
+| 133 | Equatorial Guinea | 0.30 | 2004 |
+| 134 | Thailand | 0.30 | 2004 |
+| 135 | Kiribati | 0.30 | 2006 |
+| 136 | Bangladesh | 0.30 | 2007 |
+| 137 | Tonga | 0.29 | 2002 |
+| 138 | Gabon | 0.29 | 2004 |
+| 139 | Indonesia | 0.29 | 2007 |
+| 140 | Sudan | 0.28 | 2008 |
+| 141 | Laos | 0.27 | 2005 |
+| 142 | Samoa | 0.27 | 2005 |
+| 143 | Haiti | 0.25 | 1998 |
+| 144 | Djibouti | 0.23 | 2006 |
+| 145 | Cambodia | 0.23 | 2008 |
+| 146 | Afghanistan | 0.21 | 2009 |
+| 147 | Nepal | 0.21 | 2004 |
+| 148 | Cameroon | 0.19 | 2004 |
+| 149 | Solomon Islands | 0.19 | 2005 |
+| 150 | Antigua and Barbuda | 0.17 | 1999 |
+| 151 | Madagascar | 0.16 | 2007 |
+| 152 | Zimbabwe | 0.16 | 2004 |
+| 153 | Swaziland | 0.16 | 2004 |
+| 154 | Comoros | 0.15 | 2004 |
+| 155 | Cote d'Ivoire | 0.14 | 2008 |
+| 156 | Kenya | 0.14 | 2002 |
+| 157 | Mauritania | 0.13 | 2009 |
+| 158 | Uganda | 0.12 | 2005 |
+| 159 | Vanuatu | 0.12 | 2008 |
+| 160 | Congo, Democratic Republic of the | 0.11 | 2004 |
+| 161 | Timor-Leste | 0.10 | 2004 |
+| 162 | Guinea | 0.10 | 2005 |
+| 163 | Congo, Republic of the | 0.10 | 2007 |
+| 164 | Ghana | 0.09 | 2009 |
+| 165 | Angola | 0.08 | 2004 |
+| 166 | Central African Republic | 0.08 | 2004 |
+| 167 | Burkina Faso | 0.06 | 2008 |
+| 168 | Benin | 0.06 | 2008 |
+| 169 | Senegal | 0.06 | 2008 |
+| 170 | Zambia | 0.06 | 2006 |
+| 171 | Togo | 0.05 | 2008 |
+| 172 | Papua New Guinea | 0.05 | 2008 |
+| 173 | Eritrea | 0.05 | 2004 |
+| 174 | Lesotho | 0.05 | 2003 |
+| 175 | Mali | 0.05 | 2008 |
+| 176 | Guinea-Bissau | 0.05 | 2008 |
+| 177 | Chad | 0.04 | 2004 |
+| 178 | Gambia, The | 0.04 | 2008 |
+| 179 | Somalia | 0.04 | 2006 |
+| 180 | Burundi | 0.03 | 2004 |
+| 181 | Mozambique | 0.03 | 2006 |
+| 182 | Rwanda | 0.02 | 2005 |
+| 183 | Bhutan | 0.02 | 2007 |
+| 184 | Ethiopia | 0.02 | 2007 |
+| 185 | Malawi | 0.02 | 2008 |
+| 186 | Niger | 0.02 | 2008 |
+| 187 | Sierra Leone | 0.02 | 2008 |
+| 188 | Liberia | 0.01 | 2008 |
+| 189 | Tanzania | 0.01 | 2006 |

@@ -1,0 +1,232 @@
+CIA - The World Factbook --  LIFE EXPECTANCY AT BIRTH
+
+Life expectancy at birth compares the average number of years to be lived by a group of people born in the same year, if mortality at each age remains constant in the future. Life expectancy at birth is also a measure of overall quality of life in a country and summarizes the mortality at all ages.
+
+| Rank | Country | (YEARS) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Monaco | 89.50 | 2016 est. |
+| 2 | Singapore | 85.00 | 2016 est. |
+| 3 | Japan | 85.00 | 2016 est. |
+| 4 | Macau | 84.50 | 2016 est. |
+| 5 | San Marino | 83.30 | 2016 est. |
+| 6 | Iceland | 83.00 | 2016 est. |
+| 7 | Hong Kong | 82.90 | 2016 est. |
+| 8 | Andorra | 82.80 | 2016 est. |
+| 9 | Switzerland | 82.60 | 2016 est. |
+| 10 | Guernsey | 82.50 | 2016 est. |
+| 11 | Israel | 82.40 | 2016 est. |
+| 12 | Korea, South | 82.40 | 2016 est. |
+| 13 | Luxembourg | 82.30 | 2016 est. |
+| 14 | Italy | 82.20 | 2016 est. |
+| 15 | Australia | 82.20 | 2016 est. |
+| 16 | Sweden | 82.10 | 2016 est. |
+| 17 | Liechtenstein | 81.90 | 2016 est. |
+| 18 | Jersey | 81.90 | 2016 est. |
+| 19 | Canada | 81.90 | 2016 est. |
+| 20 | France | 81.80 | 2016 est. |
+| 21 | Norway | 81.80 | 2016 est. |
+| 22 | Spain | 81.70 | 2016 est. |
+| 23 | Austria | 81.50 | 2016 est. |
+| 24 | Anguilla | 81.40 | 2016 est. |
+| 25 | Netherlands | 81.30 | 2016 est. |
+| 26 | Bermuda | 81.30 | 2016 est. |
+| 27 | Isle of Man | 81.20 | 2016 est. |
+| 28 | New Zealand | 81.20 | 2016 est. |
+| 29 | Cayman Islands | 81.20 | 2016 est. |
+| 30 | Belgium | 81.00 | 2016 est. |
+| 31 | Finland | 80.90 | 2016 est. |
+| 32 | Ireland | 80.80 | 2016 est. |
+| 33 | United Kingdom | 80.70 | 2016 est. |
+| 34 | Germany | 80.70 | 2016 est. |
+| 35 | Greece | 80.50 | 2016 est. |
+| 36 | Saint Pierre and Miquelon | 80.50 | 2016 est. |
+| 37 | Malta | 80.40 | 2016 est. |
+| 38 | Faroe Islands | 80.40 | 2016 est. |
+| 39 | European Union | 80.20 | 2016 est. |
+| 40 | Taiwan | 80.10 | 2016 est. |
+| 41 | Virgin Islands | 80.00 | 2016 est. |
+| 42 | United States | 79.80 | 2016 est. |
+| 43 | Turks and Caicos Islands | 79.80 | 2016 est. |
+| 44 | Wallis and Futuna | 79.70 | 2016 est. |
+| 45 | Saint Helena, Ascension, and Tristan da Cunha | 79.50 | 2016 est. |
+| 46 | Gibraltar | 79.40 | 2016 est. |
+| 47 | Denmark | 79.40 | 2016 est. |
+| 48 | Puerto Rico | 79.40 | 2016 est. |
+| 49 | Portugal | 79.30 | 2016 est. |
+| 50 | Guam | 79.10 | 2016 est. |
+| 51 | Bahrain | 78.90 | 2016 est. |
+| 52 | Chile | 78.80 | 2016 est. |
+| 53 | Cyprus | 78.70 | 2016 est. |
+| 54 | Qatar | 78.70 | 2016 est. |
+| 55 | Cuba | 78.70 | 2016 est. |
+| 56 | Czechia | 78.60 | 2016 est. |
+| 57 | Panama | 78.60 | 2016 est. |
+| 58 | Costa Rica | 78.60 | 2016 est. |
+| 59 | British Virgin Islands | 78.60 | 2016 est. |
+| 60 | Curacao | 78.30 | 2016 est. |
+| 61 | Albania | 78.30 | 2016 est. |
+| 62 | Slovenia | 78.20 | 2016 est. |
+| 63 | Sint Maarten | 78.10 | 2013 est. |
+| 64 | Dominican Republic | 78.10 | 2016 est. |
+| 65 | Northern Mariana Islands | 78.00 | 2016 est. |
+| 66 | Kuwait | 78.00 | 2016 est. |
+| 67 | Saint Lucia | 77.80 | 2016 est. |
+| 68 | New Caledonia | 77.70 | 2016 est. |
+| 69 | Lebanon | 77.60 | 2016 est. |
+| 70 | Poland | 77.60 | 2016 est. |
+| 71 | United Arab Emirates | 77.50 | 2016 est. |
+| 72 | French Polynesia | 77.20 | 2016 est. |
+| 73 | Uruguay | 77.20 | 2016 est. |
+| 74 | Paraguay | 77.20 | 2016 est. |
+| 75 | Brunei | 77.20 | 2016 est. |
+| 76 | Slovakia | 77.10 | 2016 est. |
+| 77 | Argentina | 77.10 | 2016 est. |
+| 78 | Dominica | 77.00 | 2016 est. |
+| 79 | Morocco | 76.90 | 2016 est. |
+| 80 | Aruba | 76.80 | 2016 est. |
+| 81 | Algeria | 76.80 | 2016 est. |
+| 82 | Sri Lanka | 76.80 | 2016 est. |
+| 83 | Ecuador | 76.80 | 2016 est. |
+| 84 | Bosnia and Herzegovina | 76.70 | 2016 est. |
+| 85 | Estonia | 76.70 | 2016 est. |
+| 86 | Antigua and Barbuda | 76.50 | 2016 est. |
+| 87 | Libya | 76.50 | 2016 est. |
+| 88 | Georgia | 76.20 | 2016 est. |
+| 89 | Macedonia | 76.20 | 2016 est. |
+| 90 | Tonga | 76.20 | 2016 est. |
+| 91 | Tunisia | 76.10 | 2016 est. |
+| 92 | Hungary | 75.90 | 2016 est. |
+| 93 | Mexico | 75.90 | 2016 est. |
+| 94 | Croatia | 75.90 | 2016 est. |
+| 95 | Cook Islands | 75.80 | 2016 est. |
+| 96 | Venezuela | 75.80 | 2016 est. |
+| 97 | Saint Kitts and Nevis | 75.70 | 2016 est. |
+| 98 | Colombia | 75.70 | 2016 est. |
+| 99 | Maldives | 75.60 | 2016 est. |
+| 100 | Mauritius | 75.60 | 2016 est. |
+| 101 | China | 75.50 | 2016 est. |
+| 102 | Oman | 75.50 | 2016 est. |
+| 103 | Serbia | 75.50 | 2016 est. |
+| 104 | American Samoa | 75.40 | 2016 est. |
+| 105 | Saudi Arabia | 75.30 | 2016 est. |
+| 106 | Barbados | 75.30 | 2016 est. |
+| 107 | Saint Vincent and the Grenadines | 75.30 | 2016 est. |
+| 108 | Solomon Islands | 75.30 | 2016 est. |
+| 109 | Romania | 75.10 | 2016 est. |
+| 110 | Malaysia | 75.00 | 2016 est. |
+| 111 | West Bank | 75.00 | 2016 est. |
+| 112 | Iraq | 74.90 | 2016 est. |
+| 113 | Lithuania | 74.90 | 2016 est. |
+| 114 | Syria | 74.90 | 2016 est. |
+| 115 | Turkey | 74.80 | 2016 est. |
+| 116 | Thailand | 74.70 | 2016 est. |
+| 117 | El Salvador | 74.70 | 2016 est. |
+| 118 | Seychelles | 74.70 | 2016 est. |
+| 119 | Jordan | 74.60 | 2016 est. |
+| 120 | Armenia | 74.60 | 2016 est. |
+| 121 | Bulgaria | 74.50 | 2016 est. |
+| 122 | Latvia | 74.50 | 2016 est. |
+| 123 | Montserrat | 74.40 | 2016 est. |
+| 124 | Grenada | 74.30 | 2016 est. |
+| 125 | Gaza Strip | 73.90 | 2016 est. |
+| 126 | Uzbekistan | 73.80 | 2016 est. |
+| 127 | Brazil | 73.80 | 2016 est. |
+| 128 | Samoa | 73.70 | 2016 est. |
+| 129 | Peru | 73.70 | 2016 est. |
+| 130 | Jamaica | 73.60 | 2016 est. |
+| 131 | Vanuatu | 73.40 | 2016 est. |
+| 132 | Vietnam | 73.40 | 2016 est. |
+| 133 | Bangladesh | 73.20 | 2016 est. |
+| 134 | Nicaragua | 73.20 | 2016 est. |
+| 135 | Palau | 73.10 | 2016 est. |
+| 136 | Marshall Islands | 73.10 | 2016 est. |
+| 137 | Micronesia, Federated States of | 72.90 | 2016 est. |
+| 138 | Trinidad and Tobago | 72.90 | 2016 est. |
+| 139 | Belarus | 72.70 | 2016 est. |
+| 140 | Fiji | 72.70 | 2016 est. |
+| 141 | Indonesia | 72.70 | 2016 est. |
+| 142 | Egypt | 72.70 | 2016 est. |
+| 143 | Azerbaijan | 72.50 | 2016 est. |
+| 144 | Greenland | 72.40 | 2016 est. |
+| 145 | Bahamas, The | 72.40 | 2016 est. |
+| 146 | Guatemala | 72.30 | 2016 est. |
+| 147 | Suriname | 72.20 | 2016 est. |
+| 148 | Cabo Verde | 72.10 | 2016 est. |
+| 149 | Ukraine | 71.80 | 2016 est. |
+| 150 | Iran | 71.40 | 2016 est. |
+| 151 | Honduras | 71.10 | 2016 est. |
+| 152 | Kazakhstan | 70.80 | 2016 est. |
+| 153 | Russia | 70.80 | 2016 est. |
+| 154 | Moldova | 70.70 | 2016 est. |
+| 155 | Nepal | 70.70 | 2016 est. |
+| 156 | Kyrgyzstan | 70.70 | 2016 est. |
+| 157 | Korea, North | 70.40 | 2016 est. |
+| 158 | Turkmenistan | 70.10 | 2016 est. |
+| 159 | Bhutan | 70.10 | 2016 est. |
+| 160 | Mongolia | 69.60 | 2016 est. |
+| 161 | Philippines | 69.20 | 2016 est. |
+| 162 | Bolivia | 69.20 | 2016 est. |
+| 163 | Belize | 68.70 | 2016 est. |
+| 164 | India | 68.50 | 2016 est. |
+| 165 | Guyana | 68.40 | 2016 est. |
+| 166 | Timor-Leste | 68.10 | 2016 est. |
+| 167 | Pakistan | 67.70 | 2016 est. |
+| 168 | Tajikistan | 67.70 | 2016 est. |
+| 169 | Papua New Guinea | 67.20 | 2016 est. |
+| 170 | Nauru | 67.10 | 2016 est. |
+| 171 | Burma | 66.60 | 2016 est. |
+| 172 | Ghana | 66.60 | 2016 est. |
+| 173 | Tuvalu | 66.50 | 2016 est. |
+| 174 | Kiribati | 66.20 | 2016 est. |
+| 175 | Madagascar | 65.90 | 2016 est. |
+| 176 | Yemen | 65.50 | 2016 est. |
+| 177 | Togo | 65.00 | 2016 est. |
+| 178 | Gambia, The | 64.90 | 2016 est. |
+| 179 | Sao Tome and Principe | 64.90 | 2016 est. |
+| 180 | Eritrea | 64.90 | 2016 est. |
+| 181 | Cambodia | 64.50 | 2016 est. |
+| 182 | Laos | 64.30 | 2016 est. |
+| 183 | Equatorial Guinea | 64.20 | 2016 est. |
+| 184 | Comoros | 64.20 | 2016 est. |
+| 185 | Sudan | 64.10 | 2016 est. |
+| 186 | Kenya | 64.00 | 2016 est. |
+| 187 | Haiti | 63.80 | 2016 est. |
+| 188 | Namibia | 63.60 | 2016 est. |
+| 189 | Djibouti | 63.20 | 2016 est. |
+| 190 | South Africa | 63.10 | 2016 est. |
+| 191 | Western Sahara | 63.00 | 2016 est. |
+| 192 | Mauritania | 63.00 | 2016 est. |
+| 193 | Tanzania | 62.20 | 2016 est. |
+| 194 | Ethiopia | 62.20 | 2016 est. |
+| 195 | Benin | 61.90 | 2016 est. |
+| 196 | Senegal | 61.70 | 2016 est. |
+| 197 | Malawi | 61.20 | 2016 est. |
+| 198 | Guinea | 60.60 | 2016 est. |
+| 199 | Burundi | 60.50 | 2016 est. |
+| 200 | Rwanda | 60.10 | 2016 est. |
+| 201 | Congo, Republic of the | 59.30 | 2016 est. |
+| 202 | Liberia | 59.00 | 2016 est. |
+| 203 | Cote d'Ivoire | 58.70 | 2016 est. |
+| 204 | Cameroon | 58.50 | 2016 est. |
+| 205 | Sierra Leone | 58.20 | 2016 est. |
+| 206 | Zimbabwe | 58.00 | 2016 est. |
+| 207 | Congo, Democratic Republic of the | 57.30 | 2016 est. |
+| 208 | Angola | 56.00 | 2016 est. |
+| 209 | Mali | 55.80 | 2016 est. |
+| 210 | Burkina Faso | 55.50 | 2016 est. |
+| 211 | Niger | 55.50 | 2016 est. |
+| 212 | Uganda | 55.40 | 2016 est. |
+| 213 | Botswana | 54.50 | 2016 est. |
+| 214 | Nigeria | 53.40 | 2016 est. |
+| 215 | Mozambique | 53.30 | 2016 est. |
+| 216 | Lesotho | 53.00 | 2016 est. |
+| 217 | Zambia | 52.50 | 2016 est. |
+| 218 | Somalia | 52.40 | 2016 est. |
+| 219 | Central African Republic | 52.30 | 2016 est. |
+| 220 | Gabon | 52.10 | 2016 est. |
+| 221 | Swaziland | 51.60 | 2016 est. |
+| 222 | Afghanistan | 51.30 | 2016 est. |
+| 223 | Guinea-Bissau | 50.60 | 2016 est. |
+| 224 | Chad | 50.20 | 2016 est. |
+
+

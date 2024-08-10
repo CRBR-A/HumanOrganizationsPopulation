@@ -1,0 +1,29 @@
+Telephone Code: 389
+Local Emergency Phone - Ambulance: 94
+Local Emergency Phone - Fire: 93
+Local Emergency Phone - Police: 92
+Climate: Warm, dry summers and autumns; relatively cold winters with heavy snowfall
+Currency (Code): Macedonian denars (MKD)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, F
+Major Languages: Macedonian, Albanian, Turkish, Romani, Serbian
+Major Religions: Macedonian Orthodox 64.8%, Muslim 33.3%, other Christian 0.4%
+Time Difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time); daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October
+Potable Water: Yes, but some opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Mavrovo National Park; Bitola; Kratovo; Pelister National Park
+Major Sports: Soccer, handball, basketball
+Cultural Practices: Sometimes instead of saying "no," Macedonians will click their tongues and shake their heads slightly.
+Tipping Guidelines: Common practice in restaurants is to round up the bill for a tip, but in finer dining establishments a 10-15% tip is appreciated. Tipping taxi drivers is not common.
+Souvenirs: Religious icons and marble statues, jeweled crosses, rosaries, wood carvings, spices
+Traditional Cuisine: Tavče Gravče --- fresh white beans and other vegetables baked and served in a traditional unglazed earthenware pot
+
+---
+country: North Macedonia
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/North Macedonia/travel-facts>
+license: public domain (U.S.)
+...

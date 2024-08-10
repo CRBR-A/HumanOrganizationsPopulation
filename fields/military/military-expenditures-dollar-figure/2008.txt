@@ -1,0 +1,5 @@
+| Rank  | Country | Death rate(deaths/1,000 population) | Date of Information |
+| --- | --- | --- | --- |
+| |
+| This file was last updated on 3 October, 2007 |
+| |

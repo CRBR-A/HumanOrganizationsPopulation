@@ -1,0 +1,215 @@
+CIA - The World Factbook --  Electricity - from other renewable sources   
+
+This entry measures the capacity of plants that generate electricity by using renewable energy sources other than hydroelectric (including, for example, wind, waves, solar, and geothermal), expressed as a share of the country's total generating capacity.
+
+| Rank | country | (% of total installed capacity) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Denmark | 34.2 | 2009 est. |
+| 2 | Belize | 29.5 | 2009 est. |
+| 3 | Spain | 24.4 | 2009 est. |
+| 4 | Nicaragua | 22.6 | 2009 est. |
+| 5 | Portugal | 22.5 | 2009 est. |
+| 6 | Iceland | 22.4 | 2009 est. |
+| 7 | Austria | 20.4 | 2009 est. |
+| 8 | Mauritius | 18.1 | 2009 est. |
+| 9 | Ireland | 17.5 | 2009 est. |
+| 10 | Italy | 15.8 | 2011 est. |
+| 11 | El Salvador | 15.6 | 2009 est. |
+| 12 | Sweden | 15.2 | 2009 est. |
+| 13 | Netherlands | 13.7 | 2009 est. |
+| 14 | Costa Rica | 13.7 | 2009 est. |
+| 15 | New Zealand | 13.3 | 2009 est. |
+| 16 | Germany | 13.0 | 2011 est. |
+| 17 | Kenya | 12.9 | 2009 est. |
+| 18 | Philippines | 12.8 | 2009 est. |
+| 19 | Guatemala | 12.7 | 2009 est. |
+| 20 | Finland | 12.0 | 2009 est. |
+| 21 | Belgium | 11.7 | 2009 est. |
+| 22 | Aruba | 11.3 | 2009 est. |
+| 23 | Falkland Islands (Islas Malvinas) | 10.0 | 2009 est. |
+| 24 | Greece | 8.5 | 2009 est. |
+| 25 | Papua New Guinea | 8.0 | 2009 est. |
+| 26 | United Kingdom | 7.3 | 2009 est. |
+| 27 | Czech Republic | 7.1 | 2009 est. |
+| 28 | India | 7.0 | 2009 est. |
+| 29 | Hungary | 7.0 | 2011 est. |
+| 30 | Fiji | 6.4 | 2009 est. |
+| 31 | Brazil | 6.3 | 2010 est. |
+| 32 | Honduras | 5.4 | 2009 est. |
+| 33 | France | 5.3 | 2009 est. |
+| 34 | Estonia | 5.1 | 2009 est. |
+| 35 | Luxembourg | 5.0 | 2009 est. |
+| 36 | World | 4.9 | 2009 est. |
+| 37 | United States | 4.8 | 2010 est. |
+| 38 | Jamaica | 4.7 | 2009 est. |
+| 39 | Australia | 4.7 | 2009 est. |
+| 40 | China | 4.7 | 2011 est. |
+| 41 | Morocco | 4.1 | 2009 est. |
+| 42 | Faroe Islands | 4.1 | 2009 est. |
+| 43 | Canada | 3.9 | 2009 est. |
+| 44 | Indonesia | 3.6 | 2009 est. |
+| 45 | Mexico | 3.3 | 2009 est. |
+| 46 | Cape Verde | 3.1 | 2009 est. |
+| 47 | Sudan | 3.0 | 2009 est. |
+| 48 | Taiwan | 2.7 | 2009 est. |
+| 49 | Slovakia | 2.7 | 2009 est. |
+| 50 | Uganda | 2.6 | 2009 est. |
+| 51 | Poland | 2.5 | 2009 est. |
+| 52 | Switzerland | 2.5 | 2009 est. |
+| 53 | Lithuania | 2.4 | 2009 est. |
+| 54 | New Caledonia | 2.4 | 2009 est. |
+| 55 | Japan | 2.3 | 2009 est. |
+| 56 | Turkey | 2.2 | 2009 est. |
+| 57 | Ecuador | 2.1 | 2009 est. |
+| 58 | Norway | 2.0 | 2009 est. |
+| 59 | Bulgaria | 1.9 | 2009 est. |
+| 60 | Slovenia | 1.8 | 2009 est. |
+| 61 | Latvia | 1.8 | 2009 est. |
+| 62 | Egypt | 1.7 | 2009 est. |
+| 63 | Thailand | 1.7 | 2009 est. |
+| 64 | Cambodia | 1.5 | 2009 est. |
+| 65 | Tunisia | 1.4 | 2009 est. |
+| 66 | Korea, South | 1.3 | 2009 est. |
+| 67 | Cook Islands | 1.1 | 2009 est. |
+| 68 | Dominica | 0.9 | 2009 est. |
+| 69 | Croatia | 0.8 | 2009 est. |
+| 70 | Chile | 0.7 | 2009 est. |
+| 71 | Eritrea | 0.7 | 2009 est. |
+| 72 | Bolivia | 0.6 | 2009 est. |
+| 73 | Ethiopia | 0.6 | 2009 est. |
+| 74 | South Africa | 0.5 | 2009 est. |
+| 75 | Rwanda | 0.4 | 2009 est. |
+| 76 | Colombia | 0.4 | 2009 est. |
+| 77 | Uruguay | 0.4 | 2009 est. |
+| 78 | Bangladesh | 0.3 | 2009 est. |
+| 79 | Dominican Republic | 0.3 | 2009 est. |
+| 80 | Senegal | 0.3 | 2009 est. |
+| 81 | Sri Lanka | 0.3 | 2010 est. |
+| 82 | Malta | 0.3 | 2010 est. |
+| 83 | Israel | 0.3 | 2009 est. |
+| 84 | Trinidad and Tobago | 0.3 | 2009 est. |
+| 85 | Cyprus | 0.3 | 2009 est. |
+| 86 | Jordan | 0.2 | 2009 est. |
+| 87 | Samoa | 0.2 | 2009 est. |
+| 88 | Singapore | 0.2 | 2009 est. |
+| 89 | Vietnam | 0.1 | 2009 est. |
+| 90 | Ukraine | 0.1 | 2009 est. |
+| 91 | Romania | 0.1 | 2009 est. |
+| 92 | Mongolia | 0.1 | 2009 est. |
+| 93 | Iran | 0.1 | 2009 est. |
+| 94 | Cuba | 0.1 | 2009 est. |
+| 95 | Belarus | 0.1 | 2009 est. |
+| 96 | Armenia | 0.1 | 2009 est. |
+| 97 | Argentina | 0.1 | 2009 est. |
+| 98 | Antigua and Barbuda | 0.0 | 2009 est. |
+| 99 | United Arab Emirates | 0.0 | 2009 est. |
+| 100 | Afghanistan | 0.0 | 2009 est. |
+| 101 | Algeria | 0.0 | 2009 est. |
+| 102 | Azerbaijan | 0.0 | 2009 est. |
+| 103 | Albania | 0.0 | 2009 est. |
+| 104 | Angola | 0.0 | 2009 est. |
+| 105 | American Samoa | 0.0 | 2009 est. |
+| 106 | Bahrain | 0.0 | 2009 est. |
+| 107 | Barbados | 0.0 | 2009 est. |
+| 108 | Botswana | 0.0 | 2009 est. |
+| 109 | Bermuda | 0.0 | 2009 est. |
+| 110 | Bahamas, The | 0.0 | 2009 est. |
+| 111 | Bosnia and Herzegovina | 0.0 | 2009 est. |
+| 112 | Burma | 0.0 | 2009 est. |
+| 113 | Benin | 0.0 | 2009 est. |
+| 114 | Solomon Islands | 0.0 | 2009 est. |
+| 115 | Bhutan | 0.0 | 2009 est. |
+| 116 | Brunei | 0.0 | 2009 est. |
+| 117 | Burundi | 0.0 | 2009 est. |
+| 118 | Chad | 0.0 | 2009 est. |
+| 119 | Congo, Republic of the | 0.0 | 2009 est. |
+| 120 | Congo, Democratic Republic of the | 0.0 | 2009 est. |
+| 121 | Cayman Islands | 0.0 | 2009 est. |
+| 122 | Cameroon | 0.0 | 2009 est. |
+| 123 | Comoros | 0.0 | 2009 est. |
+| 124 | Central African Republic | 0.0 | 2009 est. |
+| 125 | Djibouti | 0.0 | 2009 est. |
+| 126 | Equatorial Guinea | 0.0 | 2009 est. |
+| 127 | French Polynesia | 0.0 | 2009 est. |
+| 128 | Gambia, The | 0.0 | 2009 est. |
+| 129 | Gabon | 0.0 | 2009 est. |
+| 130 | Georgia | 0.0 | 2009 est. |
+| 131 | Ghana | 0.0 | 2009 est. |
+| 132 | Gibraltar | 0.0 | 2009 est. |
+| 133 | Grenada | 0.0 | 2009 est. |
+| 134 | Greenland | 0.0 | 2009 est. |
+| 135 | Guam | 0.0 | 2009 est. |
+| 136 | Guinea | 0.0 | 2009 est. |
+| 137 | Guyana | 0.0 | 2009 est. |
+| 138 | Haiti | 0.0 | 2009 est. |
+| 139 | Hong Kong | 0.0 | 2009 est. |
+| 140 | Cote d'Ivoire | 0.0 | 2009 est. |
+| 141 | Iraq | 0.0 | 2012 est. |
+| 142 | Kyrgyzstan | 0.0 | 2009 est. |
+| 143 | Korea, North | 0.0 | 2009 est. |
+| 144 | Kiribati | 0.0 | 2009 est. |
+| 145 | Kuwait | 0.0 | 2009 est. |
+| 146 | Kazakhstan | 0.0 | 2009 est. |
+| 147 | Laos | 0.0 | 2009 est. |
+| 148 | Lebanon | 0.0 | 2009 est. |
+| 149 | Liberia | 0.0 | 2009 est. |
+| 150 | Lesotho | 0.0 | 2009 est. |
+| 151 | Libya | 0.0 | 2009 est. |
+| 152 | Madagascar | 0.0 | 2009 est. |
+| 153 | Macau | 0.0 | 2009 est. |
+| 154 | Moldova | 0.0 | 2009 est. |
+| 155 | Montserrat | 0.0 | 2009 est. |
+| 156 | Malawi | 0.0 | 2009 est. |
+| 157 | Montenegro | 0.0 | 2009 est. |
+| 158 | Macedonia | 0.0 | 2009 est. |
+| 159 | Mali | 0.0 | 2009 est. |
+| 160 | Mauritania | 0.0 | 2009 est. |
+| 161 | Oman | 0.0 | 2009 est. |
+| 162 | Maldives | 0.0 | 2009 est. |
+| 163 | Malaysia | 0.0 | 2009 est. |
+| 164 | Mozambique | 0.0 | 2009 est. |
+| 165 | Niue | 0.0 | 2009 est. |
+| 166 | Niger | 0.0 | 2009 est. |
+| 167 | Vanuatu | 0.0 | 2009 est. |
+| 168 | Nigeria | 0.0 | 2009 est. |
+| 169 | Nepal | 0.0 | 2009 est. |
+| 170 | Nauru | 0.0 | 2009 est. |
+| 171 | Suriname | 0.0 | 2009 est. |
+| 172 | Paraguay | 0.0 | 2009 est. |
+| 173 | Peru | 0.0 | 2009 est. |
+| 174 | Pakistan | 0.0 | 2009 est. |
+| 175 | Panama | 0.0 | 2009 est. |
+| 176 | Guinea-Bissau | 0.0 | 2009 est. |
+| 177 | Qatar | 0.0 | 2009 est. |
+| 178 | Serbia | 0.0 | 2009 est. |
+| 179 | Puerto Rico | 0.0 | 2009 est. |
+| 180 | Russia | 0.0 | 2009 est. |
+| 181 | Saudi Arabia | 0.0 | 2009 est. |
+| 182 | Saint Pierre and Miquelon | 0.0 | 2009 est. |
+| 183 | Saint Kitts and Nevis | 0.0 | 2009 est. |
+| 184 | Seychelles | 0.0 | 2009 est. |
+| 185 | Saint Helena, Ascension, and Tristan da Cunha | 0.0 | 2009 est. |
+| 186 | Sierra Leone | 0.0 | 2009 est. |
+| 187 | Somalia | 0.0 | 2009 est. |
+| 188 | Saint Lucia | 0.0 | 2009 est. |
+| 189 | Syria | 0.0 | 2009 est. |
+| 190 | Tajikistan | 0.0 | 2009 est. |
+| 191 | Turks and Caicos Islands | 0.0 | 2009 est. |
+| 192 | Tonga | 0.0 | 2009 est. |
+| 193 | Togo | 0.0 | 2009 est. |
+| 194 | Sao Tome and Principe | 0.0 | 2009 est. |
+| 195 | Turkmenistan | 0.0 | 2009 est. |
+| 196 | Tanzania | 0.0 | 2009 est. |
+| 197 | Burkina Faso | 0.0 | 2009 est. |
+| 198 | Uzbekistan | 0.0 | 2009 est. |
+| 199 | Saint Vincent and the Grenadines | 0.0 | 2009 est. |
+| 200 | Venezuela | 0.0 | 2009 est. |
+| 201 | British Virgin Islands | 0.0 | 2009 est. |
+| 202 | Virgin Islands | 0.0 | 2009 est. |
+| 203 | Namibia | 0.0 | 2009 est. |
+| 204 | West Bank | 0.0 | 2009 est. |
+| 205 | Western Sahara | 0.0 | 2009 est. |
+| 206 | Swaziland | 0.0 | 2009 est. |
+| 207 | Yemen | 0.0 | 2009 est. |
+| 208 | Zambia | 0.0 | 2009 est. |
+| 209 | Zimbabwe | 0.0 | 2009 est. |

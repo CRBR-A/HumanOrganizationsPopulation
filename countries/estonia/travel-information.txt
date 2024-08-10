@@ -1,0 +1,29 @@
+Telephone Code: 372
+Local Emergency Phone - Ambulance: 112
+Local Emergency Phone - Fire: 112
+Local Emergency Phone - Police: 110
+Climate: Maritime; wet, moderate winters, cool summers
+Currency (Code): Euros (EUR)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, F
+Major Languages: Estonian, Russian, Ukrainian
+Major Religions: Orthodox 16.2%, Lutheran 9.9%, other Christian 2.2%
+Time Difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time); daylight saving time: +1hr, begins last Sunday in March, ends last Sunday in October
+Potable Water: Yes
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Tallinn (includes Toompea Castle, Alexander Nevsky Cathedral); Tartu (includes Old Toen, Estonian National Museum); Lahemaa National Park; Saaremaa; Parnu; Narva Castle
+Major Sports: Soccer, basketball, skiing, volleyball, cycling, judo
+Cultural Practices: It is considered rude to greet someone while seated, stand up to introduce yourself.
+Tipping Guidelines: If you do not like the service you do not need to tip. A 10% tip is polite and in many places expected for satisfactory or good service; a 20% tip is considered a thank you for exceptional service.
+Souvenirs: Juniper items, embroidered Muhu slippers, hand-knitted woolen items, carved-wood items, dried berries, jams, honey
+Traditional Cuisine: Verivorst --- pork sausages made of barley, onion, allspice, marjoram, and blood and roasted together with potatoes and pork; typically accompanied with butter, sour cream, and sauerkraut on the side and topped with a cranberry or lingonberry compote
+
+---
+country: Estonia
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Estonia/travel-facts>
+license: public domain (U.S.)
+...

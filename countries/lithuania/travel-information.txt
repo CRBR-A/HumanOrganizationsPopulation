@@ -1,0 +1,27 @@
+Telephone Code: 370
+Local Emergency Phone: 112
+Climate: Transitional, between maritime and continental; wet, moderate winters and summers
+Currency (Code): Litai (LTL)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, F
+Major Languages: Lithuanian, Russian, Polish
+Major Religions: Roman Catholic 77.2%, Russian Orthodox 4.1%, Old Believer 0.8%, Evangelical Lutheran 0.6%, Evangelical Reformist 0.2%
+Time Difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time); daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October
+Potable Water: Yes
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Hill of Crosses; Vilnius (includes Gate of Dawn, Cathedral, Grand Dukes Palace); Aukštaitija National Park; Trakai Island Castle; Kaunas; Curonian Spit (includes Neringa Municipality)
+Major Sports: Basketball, soccer, ice hockey, rugby, swimming
+Cultural Practices: The host often gives the first toast of the night, and it is polite for guests to reciprocate with toasts of their own later in the evening.
+Tipping Guidelines: A 10% tip is appropriate at restaurants and bars. Taxi drivers are not usually tipped.
+Souvenirs: Amber jewelry and decorative items; linen shirts, dresses, suits, and table wear; liqueurs; clay pots; local art
+Traditional Cuisine: Cepelinai --- large dumplings made of raw and cooked potato dough filled with pork and doused in a ladle of a sour cream and bacon sauce
+
+---
+country: Lithuania
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Lithuania/travel-facts>
+license: public domain (U.S.)
+...

@@ -1,0 +1,29 @@
+Telephone Code: 967
+Local Emergency Phone - Ambulance: 191
+Local Emergency Phone - Fire: 191
+Local Emergency Phone - Police: 194
+Climate: Mostly desert; hot and humid along west coast; temperate in western mountains affected by seasonal monsoon; extraordinarily hot, dry, harsh desert in east
+Currency (Code): Yemeni rials (YER)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): A, D, G
+Major Languages: Arabic
+Major Religions: Muslim 99.1% (estimated 65% are Sunni and 35% are Shia), other 0.9% (includes Jewish, Baha'i, Hindu, and Christian)
+Time Difference: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Al-Saleh Mosque; Old City of Sanaa; Socotra Island; Qalansiya Beach; Al Mukalla Harbor; Gulf of Aden, Shibam, Seiyun Palace, Thula Village
+Major Sports: Soccer, boxing, mountain climbing
+Cultural Practices: Yemenis greatly respect titles and positions of authority. Familiarity is commonly avoided in a work-related setting.
+Tipping Guidelines: Leave a 10% tip in finer restaurants; otherwise round up the bill.
+Souvenirs: Frankincense, jambiyyas daggers, polished amber, traditional clothing, honey
+Traditional Cuisine: Saltah --- brown meat stew served with rice; key ingredients include saltah and hilbeh (a condiment based on fenugreek) and zhug (a condiment consisting of chillies, oil, cumin, garlic, and coriander); other ingredients may include lamb or chicken, tomatoes, potatoes, other vegetables, or scrambled eggs; typically served with flatbread
+
+---
+country: Yemen
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Yemen/travel-facts>
+license: public domain (U.S.)
+...

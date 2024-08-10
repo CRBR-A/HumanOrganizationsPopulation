@@ -1,0 +1,735 @@
+CIA - The World Factbook --  Land use   
+
+This entry contains the percentage shares of total land area for three different types of land use: arable land - land cultivated for crops like wheat, maize, and rice that are replanted after each harvest; permanent crops - land cultivated for crops like citrus, coffee, and rubber that are not replanted after each harvest; includes land under flowering shrubs, fruit trees, nut trees, and vines, but excludes land under trees grown for wood or timber; other - any land not arable or under permanent crops; includes permanent meadows and pastures, forests and woodlands, built-on areas, roads, barren land, etc.
+
+| Rank | country | (%) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Ashmore and Cartier Islands | 100.00 | 2005 |
+| 2 | Wake Island | 100.00 | 2005 |
+| 3 | Antarctica | 100.00 | 2005 |
+| 4 | Navassa Island | 100.00 | 2005 |
+| 5 | Bouvet Island | 100.00 | 2005 |
+| 6 | Cocos (Keeling) Islands | 100.00 | 2005 |
+| 7 | Coral Sea Islands | 100.00 | 2005 |
+| 8 | Falkland Islands (Islas Malvinas) | 100.00 | 2005 |
+| 9 | Gibraltar | 100.00 | 2005 |
+| 10 | Greenland | 100.00 | 2005 |
+| 11 | Heard Island and McDonald Islands | 100.00 | 2005 |
+| 12 | Howland Island | 100.00 | 2001 |
+| 13 | British Indian Ocean Territory | 100.00 | 2005 |
+| 14 | Clipperton Island | 100.00 | 2005 |
+| 15 | Jan Mayen | 100.00 | 2005 |
+| 16 | Christmas Island | 100.00 | 2005 |
+| 17 | Macau | 100.00 | 2005 |
+| 18 | Monaco | 100.00 | 2005 |
+| 19 | Norfolk Island | 100.00 | 2005 |
+| 20 | Nauru | 100.00 | 2005 |
+| 21 | Paracel Islands | 100.00 | 2005 |
+| 22 | Spratly Islands | 100.00 | 2005 |
+| 23 | Svalbard | 100.00 | 2005 |
+| 24 | South Georgia and South Sandwich Islands | 100.00 | 2005 |
+| 25 | Tokelau | 100.00 | 2005 |
+| 26 | United States Pacific Island Wildlife Refuges | 100.00 | 2008 |
+| 27 | Holy See (Vatican City) | 100.00 | 2005 |
+| 28 | Anguilla | 100.00 | 2005 |
+| 29 | Western Sahara | 99.98 | 2005 |
+| 30 | Djibouti | 99.96 | 2005 |
+| 31 | Iceland | 99.93 | 2005 |
+| 32 | Mauritania | 99.79 | 2005 |
+| 33 | Oman | 99.74 | 2005 |
+| 34 | Suriname | 99.58 | 2005 |
+| 35 | New Caledonia | 99.46 | 2005 |
+| 36 | Botswana | 99.34 | 2005 |
+| 37 | Mongolia | 99.24 | 2005 |
+| 38 | Bahamas, The | 99.13 | 2005 |
+| 39 | Namibia | 99.00 | 2005 |
+| 40 | Kuwait | 98.99 | 2005 |
+| 41 | Libya | 98.78 | 2005 |
+| 42 | Congo, Republic of the | 98.40 | 2005 |
+| 43 | Somalia | 98.32 | 2005 |
+| 44 | Saudi Arabia | 98.24 | 2005 |
+| 45 | Gabon | 98.15 | 2005 |
+| 46 | Papua New Guinea | 98.11 | 2005 |
+| 47 | Qatar | 98.09 | 2005 |
+| 48 | Andorra | 97.87 | 2005 |
+| 49 | Faroe Islands | 97.86 | 2005 |
+| 50 | Turks and Caicos Islands | 97.67 | 2005 |
+| 51 | Guyana | 97.63 | 2005 |
+| 52 | Solomon Islands | 97.34 | 2005 |
+| 53 | Norway | 97.30 | 2005 |
+| 54 | Bhutan | 97.27 | 2005 |
+| 55 | Chad | 97.18 | 2005 |
+| 56 | Angola | 97.12 | 2005 |
+| 57 | Singapore | 97.06 | 2005 |
+| 58 | Brunei | 97.05 | 2005 |
+| 59 | Bolivia | 97.03 | 2005 |
+| 60 | United Arab Emirates | 96.96 | 2005 |
+| 61 | Chile | 96.95 | 2005 |
+| 62 | Yemen | 96.84 | 2005 |
+| 63 | Central African Republic | 96.75 | 2005 |
+| 64 | Congo, Democratic Republic of the | 96.67 | 2005 |
+| 65 | Peru | 96.65 | 2005 |
+| 66 | Colombia | 96.62 | 2005 |
+| 67 | Egypt | 96.58 | 2005 |
+| 68 | Algeria | 96.55 | 2005 |
+| 69 | Venezuela | 96.27 | 2005 |
+| 70 | Mali | 96.21 | 2005 |
+| 71 | Cayman Islands | 96.15 | 2005 |
+| 72 | Laos | 95.65 | 2005 |
+| 73 | Belize | 95.56 | 2005 |
+| 74 | Jordan | 95.50 | 2005 |
+| 75 | Turkmenistan | 95.35 | 2005 |
+| 76 | Eritrea | 95.19 | 2005 |
+| 77 | Canada | 94.78 | 2005 |
+| 78 | Tanzania | 94.61 | 2005 |
+| 79 | Liberia | 94.59 | 2005 |
+| 80 | Mozambique | 94.28 | 2005 |
+| 81 | Sweden | 94.06 | 2005 |
+| 82 | Madagascar | 93.95 | 2005 |
+| 83 | Hong Kong | 93.94 | 2001 |
+| 84 | Australia | 93.81 | 2005 |
+| 85 | French Polynesia | 93.75 | 2005 |
+| 86 | Finland | 93.44 | 2005 |
+| 87 | Kyrgyzstan | 93.17 | 2005 |
+| 88 | Zambia | 92.97 | 2005 |
+| 89 | Guinea | 92.89 | 2005 |
+| 90 | Russia | 92.72 | 2005 |
+| 91 | Tajikistan | 92.59 | 2005 |
+| 92 | Paraguay | 92.29 | 2005 |
+| 93 | Brazil | 92.18 | 2005 |
+| 94 | Uruguay | 91.99 | 2005 |
+| 95 | Equatorial Guinea | 91.80 | 2005 |
+| 96 | Kazakhstan | 91.67 | 2005 |
+| 97 | Bahrain | 91.55 | 2005 |
+| 98 | Virgin Islands | 91.43 | 2005 |
+| 99 | Zimbabwe | 91.43 | 2005 |
+| 100 | Vanuatu | 91.39 | 2005 |
+| 101 | Kenya | 91.02 | 2005 |
+| 102 | Sierra Leone | 91.00 | 2005 |
+| 103 | Panama | 90.79 | 2005 |
+| 104 | Puerto Rico | 90.72 | 2005 |
+| 105 | Slovenia | 90.04 | 2005 |
+| 106 | Sint Maarten | 90.00 | NA |
+| 107 | Isle of Man | 90.00 | 2002 |
+| 108 | Curacao | 90.00 | NA |
+| 109 | Costa Rica | 89.73 | 2005 |
+| 110 | Argentina | 89.61 | 2005 |
+| 111 | Switzerland | 89.51 | 2005 |
+| 112 | Ecuador | 89.48 | 2005 |
+| 113 | Aruba | 89.47 | 2005 |
+| 114 | Ethiopia | 89.34 | 2005 |
+| 115 | Lesotho | 89.00 | 2005 |
+| 116 | Swaziland | 88.94 | 2005 |
+| 117 | Iran | 88.93 | 2005 |
+| 118 | Uzbekistan | 88.73 | 2005 |
+| 119 | Niger | 88.56 | 2005 |
+| 120 | Cape Verde | 87.85 | 2005 |
+| 121 | Afghanistan | 87.66 | 2005 |
+| 122 | Estonia | 87.60 | 2005 |
+| 123 | New Zealand | 87.54 | 2005 |
+| 124 | Saint Pierre and Miquelon | 87.50 | 2005 |
+| 125 | Japan | 87.46 | 2005 |
+| 126 | Honduras | 87.26 | 2005 |
+| 127 | Senegal | 87.25 | 2005 |
+| 128 | Timor-Leste | 87.23 | 2005 |
+| 129 | South Africa | 87.11 | 2005 |
+| 130 | Saint Helena, Ascension, and Tristan da Cunha | 87.10 | 2005 |
+| 131 | Palau | 86.95 | 2005 |
+| 132 | Iraq | 86.27 | 2005 |
+| 133 | Mexico | 86.06 | 2005 |
+| 134 | Montenegro | 85.30 | NA |
+| 135 | Cyprus | 84.87 | 2005 |
+| 136 | Cameroon | 84.86 | 2005 |
+| 137 | Seychelles | 84.79 | 2005 |
+| 138 | Guinea-Bissau | 84.77 | 2005 |
+| 139 | Georgia | 84.70 | 2005 |
+| 140 | Fiji | 84.40 | 2005 |
+| 141 | China | 83.87 | 2005 |
+| 142 | Burma | 83.77 | 2005 |
+| 143 | Nicaragua | 83.37 | 2005 |
+| 144 | San Marino | 83.33 | 2005 |
+| 145 | Ireland | 83.15 | 2005 |
+| 146 | Nepal | 83.08 | 2005 |
+| 147 | Northern Mariana Islands | 82.61 | 2005 |
+| 148 | Austria | 82.56 | 2005 |
+| 149 | Burkina Faso | 82.12 | 2005 |
+| 150 | Indonesia | 81.93 | 2005 |
+| 151 | United States | 81.78 | 2005 |
+| 152 | Korea, South | 81.41 | 2005 |
+| 153 | Armenia | 81.21 | 2005 |
+| 154 | Guatemala | 81.18 | 2005 |
+| 155 | Israel | 80.67 | 2005 |
+| 156 | Bermuda | 80.00 | 2005 |
+| 157 | Montserrat | 80.00 | 2005 |
+| 158 | Morocco | 79.00 | 2005 |
+| 159 | Cambodia | 78.97 | 2005 |
+| 160 | Cote d'Ivoire | 78.61 | 2005 |
+| 161 | Bosnia and Herzegovina | 78.50 | 2005 |
+| 162 | Guam | 78.18 | 2005 |
+| 163 | Malawi | 78.14 | 2005 |
+| 164 | Saint Kitts and Nevis | 77.78 | 2005 |
+| 165 | Antigua and Barbuda | 77.27 | 2005 |
+| 166 | Netherlands | 77.27 | 2005 |
+| 167 | Malaysia | 77.00 | 2005 |
+| 168 | Azerbaijan | 76.77 | 2005 |
+| 169 | United Kingdom | 76.57 | 2005 |
+| 170 | Trinidad and Tobago | 76.22 | 2005 |
+| 171 | Macedonia | 76.20 | 2005 |
+| 172 | Korea, North | 75.94 | 2005 |
+| 173 | Albania | 75.69 | 2005 |
+| 174 | Taiwan | 75.00 | 2001 |
+| 175 | Liechtenstein | 75.00 | 2005 |
+| 176 | Cook Islands | 75.00 | 2005 |
+| 177 | American Samoa | 75.00 | 2005 |
+| 178 | Portugal | 74.87 | 2005 |
+| 179 | Pakistan | 74.72 | 2005 |
+| 180 | Jamaica | 74.16 | 2005 |
+| 181 | Benin | 74.10 | 2005 |
+| 182 | British Virgin Islands | 73.33 | 2005 |
+| 183 | Ghana | 73.24 | 2005 |
+| 184 | Niue | 73.08 | 2005 |
+| 185 | Vietnam | 72.93 | 2005 |
+| 186 | Belarus | 72.63 | 2005 |
+| 187 | Dominica | 72.00 | 2005 |
+| 188 | Croatia | 71.99 | 2005 |
+| 189 | Luxembourg | 71.89 | 2005 |
+| 190 | Belgium | 71.89 | 2005 |
+| 191 | Gambia, The | 71.68 | 2005 |
+| 192 | Latvia | 71.36 | 2005 |
+| 193 | Saint Lucia | 70.97 | 2005 |
+| 194 | Greece | 70.96 | 2005 |
+| 195 | Sri Lanka | 70.80 | 2005 |
+| 196 | Syria | 70.73 | 2005 |
+| 197 | Lebanon | 69.90 | 2005 |
+| 198 | Tunisia | 69.87 | 2005 |
+| 199 | Uganda | 69.51 | 2005 |
+| 200 | Bulgaria | 68.16 | 2005 |
+| 201 | Slovakia | 68.10 | 2005 |
+| 202 | Dominican Republic | 67.25 | 2005 |
+| 203 | Turkey | 66.80 | 2005 |
+| 204 | Tuvalu | 66.67 | 2005 |
+| 205 | Germany | 66.27 | 2005 |
+| 206 | Cuba | 65.83 | 2005 |
+| 207 | Malta | 65.62 | 2005 |
+| 208 | Thailand | 65.53 | 2005 |
+| 209 | Tonga | 65.33 | 2005 |
+| 210 | Grenada | 64.71 | 2005 |
+| 211 | France | 64.51 | 2005 |
+| 212 | Italy | 64.50 | 2005 |
+| 213 | Philippines | 64.33 | 2005 |
+| 214 | West Bank | 64.13 | 2001 |
+| 215 | Saint Vincent and the Grenadines | 64.10 | 2005 |
+| 216 | Nigeria | 63.84 | 2005 |
+| 217 | Spain | 62.97 | 2005 |
+| 218 | Barbados | 60.46 | 2005 |
+| 219 | Haiti | 60.36 | 2005 |
+| 220 | Poland | 58.75 | 2005 |
+| 221 | Romania | 58.59 | 2005 |
+| 222 | Czech Republic | 58.18 | 2005 |
+| 223 | Wallis and Futuna | 57.15 | 2005 |
+| 224 | El Salvador | 56.75 | 2005 |
+| 225 | Maldives | 56.67 | 2005 |
+| 226 | Bangladesh | 55.39 | 2005 |
+| 227 | Samoa | 54.57 | 2005 |
+| 228 | Moldova | 54.52 | 2005 |
+| 229 | Lithuania | 54.29 | 2005 |
+| 230 | Ukraine | 53.80 | 2005 |
+| 231 | Togo | 53.69 | 2005 |
+| 232 | Denmark | 52.59 | 2005 |
+| 233 | Burundi | 51.31 | 2005 |
+| 234 | Gaza Strip | 50.00 | 2002 |
+| 235 | Hungary | 49.58 | 2005 |
+| 236 | Kiribati | 49.31 | 2005 |
+| 237 | Mauritius | 49.02 | 2005 |
+| 238 | Sao Tome and Principe | 48.96 | 2005 |
+| 239 | India | 48.83 | 2005 |
+| 240 | Micronesia, Federated States of | 48.58 | 2005 |
+| 241 | India | 48.37 | 2005 |
+| 242 | Hungary | 48.36 | 2005 |
+| 243 | Mauritius | 48.04 | 2005 |
+| 244 | Kiribati | 47.95 | 2005 |
+| 245 | Denmark | 47.22 | 2005 |
+| 246 | Micronesia, Federated States of | 45.71 | 2005 |
+| 247 | Rwanda | 45.56 | 2005 |
+| 248 | Lithuania | 44.81 | 2005 |
+| 249 | Ukraine | 44.70 | 2005 |
+| 250 | Marshall Islands | 44.45 | 2005 |
+| 251 | Marshall Islands | 44.44 | 2005 |
+| 252 | Togo | 44.20 | 2005 |
+| 253 | Rwanda | 44.19 | 2005 |
+| 254 | Sao Tome and Principe | 42.71 | 2005 |
+| 255 | Bangladesh | 41.53 | 2005 |
+| 256 | Comoros | 40.81 | 2005 |
+| 257 | Poland | 40.25 | 2005 |
+| 258 | Romania | 39.49 | 2005 |
+| 259 | Czech Republic | 38.82 | 2005 |
+| 260 | Barbados | 37.21 | 2005 |
+| 261 | Moldova | 36.67 | 2005 |
+| 262 | Comoros | 35.87 | 2005 |
+| 263 | Wallis and Futuna | 35.71 | 2005 |
+| 264 | Burundi | 35.57 | 2005 |
+| 265 | France | 33.46 | 2005 |
+| 266 | Tuvalu | 33.33 | 2005 |
+| 267 | Germany | 33.13 | 2005 |
+| 268 | Nigeria | 33.02 | 2005 |
+| 269 | El Salvador | 31.37 | 2005 |
+| 270 | Malta | 31.25 | 2005 |
+| 271 | Maldives | 30.00 | 2005 |
+| 272 | Bulgaria | 29.94 | 2005 |
+| 273 | Turkey | 29.81 | 2005 |
+| 274 | Grenada | 29.41 | 2005 |
+| 275 | Slovakia | 29.23 | 2005 |
+| 276 | Gaza Strip | 29.00 | 2002 |
+| 277 | Latvia | 28.19 | 2005 |
+| 278 | Haiti | 28.11 | 2005 |
+| 279 | Gambia, The | 27.88 | 2005 |
+| 280 | Cuba | 27.63 | 2005 |
+| 281 | Thailand | 27.54 | 2005 |
+| 282 | Luxembourg | 27.42 | 2005 |
+| 283 | Belgium | 27.42 | 2005 |
+| 284 | Spain | 27.18 | 2005 |
+| 285 | Belarus | 26.77 | 2005 |
+| 286 | Italy | 26.41 | 2005 |
+| 287 | Croatia | 25.82 | 2005 |
+| 288 | Liechtenstein | 25.00 | 2005 |
+| 289 | Syria | 24.80 | 2005 |
+| 290 | Pakistan | 24.44 | 2005 |
+| 291 | Samoa | 24.30 | 2005 |
+| 292 | Taiwan | 24.00 | 2001 |
+| 293 | Benin | 23.53 | 2005 |
+| 294 | Comoros | 23.32 | 2005 |
+| 295 | United Kingdom | 23.23 | 2005 |
+| 296 | Saint Lucia | 22.58 | 2005 |
+| 297 | Dominican Republic | 22.49 | 2005 |
+| 298 | Korea, North | 22.40 | 2005 |
+| 299 | Macedonia | 22.01 | 2005 |
+| 300 | Netherlands | 21.96 | 2005 |
+| 301 | Uganda | 21.57 | 2005 |
+| 302 | Dominica | 21.33 | 2005 |
+| 303 | Samoa | 21.13 | 2005 |
+| 304 | Gaza Strip | 21.00 | 2002 |
+| 305 | Malawi | 20.68 | 2005 |
+| 306 | Azerbaijan | 20.62 | 2005 |
+| 307 | Greece | 20.45 | 2005 |
+| 308 | Cambodia | 20.44 | 2005 |
+| 309 | Vietnam | 20.14 | 2005 |
+| 310 | Albania | 20.10 | 2005 |
+| 311 | Montserrat | 20.00 | 2005 |
+| 312 | British Virgin Islands | 20.00 | 2005 |
+| 313 | Bermuda | 20.00 | 2005 |
+| 314 | Tonga | 20.00 | 2005 |
+| 315 | Bosnia and Herzegovina | 19.61 | 2005 |
+| 316 | Saint Kitts and Nevis | 19.44 | 2005 |
+| 317 | Morocco | 19.00 | 2005 |
+| 318 | Philippines | 19.00 | 2005 |
+| 319 | West Bank | 18.97 | 2001 |
+| 320 | Antigua and Barbuda | 18.18 | 2005 |
+| 321 | Guam | 18.18 | 2005 |
+| 322 | United States | 18.01 | 2005 |
+| 323 | Saint Vincent and the Grenadines | 17.95 | 2005 |
+| 324 | Saint Vincent and the Grenadines | 17.95 | 2005 |
+| 325 | Burkina Faso | 17.66 | 2005 |
+| 326 | Ghana | 17.54 | 2005 |
+| 327 | Malaysia | 17.54 | 2005 |
+| 328 | Portugal | 17.29 | 2005 |
+| 329 | Tunisia | 17.05 | 2005 |
+| 330 | West Bank | 16.90 | 2001 |
+| 331 | Ireland | 16.82 | 2005 |
+| 332 | Armenia | 16.78 | 2005 |
+| 333 | Philippines | 16.67 | 2005 |
+| 334 | Cook Islands | 16.67 | 2005 |
+| 335 | San Marino | 16.67 | 2005 |
+| 336 | Austria | 16.59 | 2005 |
+| 337 | Korea, South | 16.58 | 2005 |
+| 338 | Lebanon | 16.35 | 2005 |
+| 339 | Nepal | 16.07 | 2005 |
+| 340 | Jamaica | 15.83 | 2005 |
+| 341 | Israel | 15.45 | 2005 |
+| 342 | Niue | 15.38 | 2005 |
+| 343 | Sri Lanka | 15.24 | 2005 |
+| 344 | American Samoa | 15.00 | 2005 |
+| 345 | Burma | 14.92 | 2005 |
+| 346 | China | 14.86 | 2005 |
+| 347 | Nicaragua | 14.81 | 2005 |
+| 348 | Tonga | 14.67 | 2005 |
+| 349 | Trinidad and Tobago | 14.62 | 2005 |
+| 350 | Sri Lanka | 13.96 | 2005 |
+| 351 | Lebanon | 13.75 | 2005 |
+| 352 | Montenegro | 13.70 | NA |
+| 353 | Maldives | 13.33 | 2005 |
+| 354 | Guatemala | 13.22 | 2005 |
+| 355 | Iraq | 13.12 | 2005 |
+| 356 | Burundi | 13.12 | 2005 |
+| 357 | Tunisia | 13.08 | 2005 |
+| 358 | Seychelles | 13.04 | 2005 |
+| 359 | Northern Mariana Islands | 13.04 | 2005 |
+| 360 | Saint Helena, Ascension, and Tristan da Cunha | 12.90 | 2005 |
+| 361 | Mexico | 12.66 | 2005 |
+| 362 | Cameroon | 12.60 | 2005 |
+| 363 | Senegal | 12.51 | 2005 |
+| 364 | Saint Pierre and Miquelon | 12.50 | 2005 |
+| 365 | Afghanistan | 12.13 | 2005 |
+| 366 | South Africa | 12.10 | 2005 |
+| 367 | Estonia | 12.05 | 2005 |
+| 368 | El Salvador | 11.88 | 2005 |
+| 369 | Japan | 11.64 | 2005 |
+| 370 | Niue | 11.54 | 2005 |
+| 371 | Haiti | 11.53 | 2005 |
+| 372 | Georgia | 11.51 | 2005 |
+| 373 | Niger | 11.43 | 2005 |
+| 374 | Cape Verde | 11.41 | 2005 |
+| 375 | Cote d'Ivoire | 11.16 | 2005 |
+| 376 | Marshall Islands | 11.11 | 2005 |
+| 377 | Indonesia | 11.03 | 2005 |
+| 378 | Fiji | 10.95 | 2005 |
+| 379 | Lesotho | 10.87 | 2005 |
+| 380 | Cyprus | 10.81 | 2005 |
+| 381 | Aruba | 10.53 | 2005 |
+| 382 | Uzbekistan | 10.51 | 2005 |
+| 383 | Dominican Republic | 10.26 | 2005 |
+| 384 | Swaziland | 10.25 | 2005 |
+| 385 | Rwanda | 10.25 | 2005 |
+| 386 | Cote d'Ivoire | 10.23 | 2005 |
+| 387 | Argentina | 10.03 | 2005 |
+| 388 | Jamaica | 10.01 | 2005 |
+| 389 | Ethiopia | 10.01 | 2005 |
+| 390 | American Samoa | 10.00 | 2005 |
+| 391 | Curacao | 10.00 | NA |
+| 392 | Sint Maarten | 10.00 | NA |
+| 393 | Isle of Man | 10.00 | 2002 |
+| 394 | Switzerland | 9.91 | 2005 |
+| 395 | Spain | 9.85 | 2005 |
+| 396 | Iran | 9.78 | 2005 |
+| 397 | Honduras | 9.53 | 2005 |
+| 398 | Ghana | 9.22 | 2005 |
+| 399 | Trinidad and Tobago | 9.16 | 2005 |
+| 400 | Italy | 9.09 | 2005 |
+| 401 | Uganda | 8.92 | 2005 |
+| 402 | Moldova | 8.81 | 2005 |
+| 403 | Palau | 8.70 | 2005 |
+| 404 | Greece | 8.59 | 2005 |
+| 405 | Slovenia | 8.53 | 2005 |
+| 406 | Cook Islands | 8.33 | 2005 |
+| 407 | Sao Tome and Principe | 8.33 | 2005 |
+| 408 | Guinea-Bissau | 8.31 | 2005 |
+| 409 | Kazakhstan | 8.28 | 2005 |
+| 410 | Zimbabwe | 8.24 | 2005 |
+| 411 | Timor-Leste | 8.20 | 2005 |
+| 412 | Kenya | 8.01 | 2005 |
+| 413 | Sierra Leone | 7.95 | 2005 |
+| 414 | Portugal | 7.84 | 2005 |
+| 415 | Uruguay | 7.77 | 2005 |
+| 416 | Paraguay | 7.47 | 2005 |
+| 417 | Panama | 7.26 | 2005 |
+| 418 | Russia | 7.17 | 2005 |
+| 419 | Wallis and Futuna | 7.14 | 2005 |
+| 420 | Indonesia | 7.04 | 2005 |
+| 421 | Zambia | 6.99 | 2005 |
+| 422 | Vanuatu | 6.97 | 2005 |
+| 423 | Brazil | 6.93 | 2005 |
+| 424 | Thailand | 6.93 | 2005 |
+| 425 | Vietnam | 6.93 | 2005 |
+| 426 | New Zealand | 6.92 | 2005 |
+| 427 | Guinea-Bissau | 6.92 | 2005 |
+| 428 | Dominica | 6.67 | 2005 |
+| 429 | British Virgin Islands | 6.67 | 2005 |
+| 430 | Kyrgyzstan | 6.55 | 2005 |
+| 431 | Cuba | 6.54 | 2005 |
+| 432 | Finland | 6.54 | 2005 |
+| 433 | Tajikistan | 6.52 | 2005 |
+| 434 | Saint Lucia | 6.45 | 2005 |
+| 435 | Australia | 6.15 | 2005 |
+| 436 | Sweden | 5.93 | 2005 |
+| 437 | Grenada | 5.88 | 2005 |
+| 438 | Costa Rica | 5.87 | 2005 |
+| 439 | Ecuador | 5.71 | 2005 |
+| 440 | Virgin Islands | 5.71 | 2005 |
+| 441 | Micronesia, Federated States of | 5.71 | 2005 |
+| 442 | Bahrain | 5.63 | 2005 |
+| 443 | Guatemala | 5.60 | 2005 |
+| 444 | Puerto Rico | 5.59 | 2005 |
+| 445 | New Zealand | 5.54 | 2005 |
+| 446 | French Polynesia | 5.50 | 2005 |
+| 447 | Malaysia | 5.46 | 2005 |
+| 448 | Mozambique | 5.43 | 2005 |
+| 449 | Hong Kong | 5.05 | 2001 |
+| 450 | Madagascar | 5.03 | 2005 |
+| 451 | Ecuador | 4.81 | 2005 |
+| 452 | Eritrea | 4.78 | 2005 |
+| 453 | Fiji | 4.65 | 2005 |
+| 454 | Equatorial Guinea | 4.63 | 2005 |
+| 455 | Timor-Leste | 4.57 | 2005 |
+| 456 | Canada | 4.57 | 2005 |
+| 457 | Antigua and Barbuda | 4.55 | 2005 |
+| 458 | Turkmenistan | 4.51 | 2005 |
+| 459 | Syria | 4.47 | 2005 |
+| 460 | Guinea | 4.47 | 2005 |
+| 461 | Costa Rica | 4.40 | 2005 |
+| 462 | Palau | 4.35 | 2005 |
+| 463 | Northern Mariana Islands | 4.35 | 2005 |
+| 464 | Cyprus | 4.32 | 2005 |
+| 465 | Tanzania | 4.23 | 2005 |
+| 466 | Albania | 4.21 | 2005 |
+| 467 | Laos | 4.01 | 2005 |
+| 468 | Israel | 3.88 | 2005 |
+| 469 | Cayman Islands | 3.85 | 2005 |
+| 470 | Georgia | 3.79 | 2005 |
+| 471 | Mali | 3.76 | 2005 |
+| 472 | Puerto Rico | 3.69 | 2005 |
+| 473 | Guam | 3.64 | 2005 |
+| 474 | Equatorial Guinea | 3.57 | 2005 |
+| 475 | Liberia | 3.43 | 2005 |
+| 476 | Turkey | 3.39 | 2005 |
+| 477 | Jordan | 3.32 | 2005 |
+| 478 | Honduras | 3.21 | 2005 |
+| 479 | Algeria | 3.17 | 2005 |
+| 480 | Nigeria | 3.14 | 2005 |
+| 481 | Malta | 3.13 | 2005 |
+| 482 | Central African Republic | 3.10 | 2005 |
+| 483 | Bangladesh | 3.08 | 2005 |
+| 484 | Belize | 3.05 | 2005 |
+| 485 | Czech Republic | 3.00 | 2005 |
+| 486 | Mauritius | 2.94 | 2005 |
+| 487 | Egypt | 2.92 | 2005 |
+| 488 | Yemen | 2.91 | 2005 |
+| 489 | Peru | 2.88 | 2005 |
+| 490 | Virgin Islands | 2.86 | 2005 |
+| 491 | Congo, Democratic Republic of the | 2.86 | 2005 |
+| 492 | Venezuela | 2.85 | 2005 |
+| 493 | Bahrain | 2.82 | 2005 |
+| 494 | Chad | 2.80 | 2005 |
+| 495 | India | 2.80 | 2005 |
+| 496 | Saint Kitts and Nevis | 2.78 | 2005 |
+| 497 | Bolivia | 2.78 | 2005 |
+| 498 | Kiribati | 2.74 | 2005 |
+| 499 | Norway | 2.70 | 2005 |
+| 500 | Slovakia | 2.67 | 2005 |
+| 501 | Angola | 2.65 | 2005 |
+| 502 | Guinea | 2.64 | 2005 |
+| 503 | Chile | 2.62 | 2005 |
+| 504 | Azerbaijan | 2.61 | 2005 |
+| 505 | Cameroon | 2.52 | 2005 |
+| 506 | Benin | 2.37 | 2005 |
+| 507 | Turks and Caicos Islands | 2.33 | 2005 |
+| 508 | Barbados | 2.33 | 2005 |
+| 509 | Bhutan | 2.30 | 2005 |
+| 510 | United Arab Emirates | 2.27 | 2005 |
+| 511 | Guyana | 2.23 | 2005 |
+| 512 | Croatia | 2.19 | 2005 |
+| 513 | Seychelles | 2.17 | 2005 |
+| 514 | Faroe Islands | 2.14 | 2005 |
+| 515 | Andorra | 2.13 | 2005 |
+| 516 | Togo | 2.11 | 2005 |
+| 517 | Brunei | 2.08 | 2005 |
+| 518 | Hungary | 2.06 | 2005 |
+| 519 | Solomon Islands | 2.04 | 2005 |
+| 520 | France | 2.03 | 2005 |
+| 521 | Armenia | 2.01 | 2005 |
+| 522 | Korea, South | 2.01 | 2005 |
+| 523 | Colombia | 2.01 | 2005 |
+| 524 | Morocco | 2.00 | 2005 |
+| 525 | Liberia | 1.98 | 2005 |
+| 526 | Panama | 1.95 | 2005 |
+| 527 | Romania | 1.92 | 2005 |
+| 528 | Bulgaria | 1.90 | 2005 |
+| 529 | Bosnia and Herzegovina | 1.89 | 2005 |
+| 530 | Nicaragua | 1.82 | 2005 |
+| 531 | Macedonia | 1.79 | 2005 |
+| 532 | Saudi Arabia | 1.67 | 2005 |
+| 533 | Korea, North | 1.66 | 2005 |
+| 534 | Somalia | 1.64 | 2005 |
+| 535 | Qatar | 1.64 | 2005 |
+| 536 | Vanuatu | 1.64 | 2005 |
+| 537 | Ukraine | 1.50 | 2005 |
+| 538 | Singapore | 1.47 | 2005 |
+| 539 | Singapore | 1.47 | 2005 |
+| 540 | Congo, Republic of the | 1.45 | 2005 |
+| 541 | Slovenia | 1.43 | 2005 |
+| 542 | Papua New Guinea | 1.40 | 2005 |
+| 543 | Belize | 1.39 | 2005 |
+| 544 | Colombia | 1.37 | 2005 |
+| 545 | Burma | 1.31 | 2005 |
+| 546 | Iran | 1.29 | 2005 |
+| 547 | Mexico | 1.28 | 2005 |
+| 548 | China | 1.27 | 2005 |
+| 549 | Gabon | 1.21 | 2005 |
+| 550 | Jordan | 1.18 | 2005 |
+| 551 | Malawi | 1.18 | 2005 |
+| 552 | Tanzania | 1.16 | 2005 |
+| 553 | Sierra Leone | 1.05 | 2005 |
+| 554 | Libya | 1.03 | 2005 |
+| 555 | Madagascar | 1.02 | 2005 |
+| 556 | Hong Kong | 1.01 | 2001 |
+| 557 | Poland | 1.00 | 2005 |
+| 558 | Montenegro | 1.00 | NA |
+| 559 | Taiwan | 1.00 | 2001 |
+| 560 | Namibia | 0.99 | 2005 |
+| 561 | Kenya | 0.97 | 2005 |
+| 562 | Japan | 0.90 | 2005 |
+| 563 | Lithuania | 0.90 | 2005 |
+| 564 | Tajikistan | 0.89 | 2005 |
+| 565 | Brazil | 0.89 | 2005 |
+| 566 | Venezuela | 0.88 | 2005 |
+| 567 | Brunei | 0.87 | 2005 |
+| 568 | Nepal | 0.85 | 2005 |
+| 569 | Austria | 0.85 | 2005 |
+| 570 | Kuwait | 0.84 | 2005 |
+| 571 | Pakistan | 0.84 | 2005 |
+| 572 | Swaziland | 0.81 | 2005 |
+| 573 | South Africa | 0.79 | 2005 |
+| 574 | Netherlands | 0.77 | 2005 |
+| 575 | United Arab Emirates | 0.77 | 2005 |
+| 576 | Mongolia | 0.76 | 2005 |
+| 577 | Uzbekistan | 0.76 | 2005 |
+| 578 | French Polynesia | 0.75 | 2005 |
+| 579 | Cape Verde | 0.74 | 2005 |
+| 580 | Luxembourg | 0.69 | 2005 |
+| 581 | Belgium | 0.69 | 2005 |
+| 582 | Botswana | 0.65 | 2005 |
+| 583 | Ethiopia | 0.65 | 2005 |
+| 584 | Canada | 0.65 | 2005 |
+| 585 | Gabon | 0.64 | 2005 |
+| 586 | Solomon Islands | 0.62 | 2005 |
+| 587 | Iraq | 0.61 | 2005 |
+| 588 | Germany | 0.60 | 2005 |
+| 589 | Belarus | 0.60 | 2005 |
+| 590 | Cambodia | 0.59 | 2005 |
+| 591 | Bahamas, The | 0.58 | 2005 |
+| 592 | Switzerland | 0.58 | 2005 |
+| 593 | Egypt | 0.50 | 2005 |
+| 594 | Papua New Guinea | 0.49 | 2005 |
+| 595 | Congo, Democratic Republic of the | 0.47 | 2005 |
+| 596 | Peru | 0.47 | 2005 |
+| 597 | Latvia | 0.45 | 2005 |
+| 598 | Gambia, The | 0.44 | 2005 |
+| 599 | Chile | 0.43 | 2005 |
+| 600 | Bhutan | 0.43 | 2005 |
+| 601 | Argentina | 0.36 | 2005 |
+| 602 | Suriname | 0.36 | 2005 |
+| 603 | Estonia | 0.35 | 2005 |
+| 604 | Laos | 0.34 | 2005 |
+| 605 | Zimbabwe | 0.33 | 2005 |
+| 606 | New Caledonia | 0.32 | 2005 |
+| 607 | Mozambique | 0.29 | 2005 |
+| 608 | Bahamas, The | 0.29 | 2005 |
+| 609 | Kyrgyzstan | 0.28 | 2005 |
+| 610 | Algeria | 0.28 | 2005 |
+| 611 | Qatar | 0.27 | 2005 |
+| 612 | Yemen | 0.25 | 2005 |
+| 613 | Paraguay | 0.24 | 2005 |
+| 614 | Uruguay | 0.24 | 2005 |
+| 615 | Senegal | 0.24 | 2005 |
+| 616 | Angola | 0.23 | 2005 |
+| 617 | New Caledonia | 0.22 | 2005 |
+| 618 | Burkina Faso | 0.22 | 2005 |
+| 619 | Afghanistan | 0.21 | 2005 |
+| 620 | United States | 0.21 | 2005 |
+| 621 | Mauritania | 0.20 | 2005 |
+| 622 | United Kingdom | 0.20 | 2005 |
+| 623 | Bolivia | 0.19 | 2005 |
+| 624 | Libya | 0.19 | 2005 |
+| 625 | Denmark | 0.19 | 2005 |
+| 626 | Kuwait | 0.17 | 2005 |
+| 627 | Central African Republic | 0.15 | 2005 |
+| 628 | Congo, Republic of the | 0.15 | 2005 |
+| 629 | Turkmenistan | 0.14 | 2005 |
+| 630 | Oman | 0.14 | 2005 |
+| 631 | Guyana | 0.14 | 2005 |
+| 632 | Lesotho | 0.13 | 2005 |
+| 633 | Oman | 0.12 | 2005 |
+| 634 | Russia | 0.11 | 2005 |
+| 635 | Saudi Arabia | 0.09 | 2005 |
+| 636 | Iceland | 0.07 | 2005 |
+| 637 | Suriname | 0.06 | 2005 |
+| 638 | Kazakhstan | 0.05 | 2005 |
+| 639 | Somalia | 0.04 | 2005 |
+| 640 | Djibouti | 0.04 | 2005 |
+| 641 | Australia | 0.04 | 2005 |
+| 642 | Zambia | 0.04 | 2005 |
+| 643 | Ireland | 0.03 | 2005 |
+| 644 | Mali | 0.03 | 2005 |
+| 645 | Eritrea | 0.03 | 2005 |
+| 646 | Western Sahara | 0.02 | 2005 |
+| 647 | Finland | 0.02 | 2005 |
+| 648 | Chad | 0.02 | 2005 |
+| 649 | Sweden | 0.01 | 2005 |
+| 650 | Namibia | 0.01 | 2005 |
+| 651 | Niger | 0.01 | 2005 |
+| 652 | Mauritania | 0.01 | 2005 |
+| 653 | Botswana | 0.01 | 2005 |
+| 654 | South Georgia and South Sandwich Islands | 0.00 | 2005 |
+| 655 | Turks and Caicos Islands | 0.00 | 2005 |
+| 656 | Tokelau | 0.00 | 2005 |
+| 657 | Tokelau | 0.00 | 2005 |
+| 658 | Tuvalu | 0.00 | 2005 |
+| 659 | United States Pacific Island Wildlife Refuges | 0.00 | 2008 |
+| 660 | United States Pacific Island Wildlife Refuges | 0.00 | 2008 |
+| 661 | Holy See (Vatican City) | 0.00 | 2005 |
+| 662 | Holy See (Vatican City) | 0.00 | 2005 |
+| 663 | Western Sahara | 0.00 | 2005 |
+| 664 | Wake Island | 0.00 | 2005 |
+| 665 | Wake Island | 0.00 | 2005 |
+| 666 | Aruba | 0.00 | 2005 |
+| 667 | Andorra | 0.00 | 2005 |
+| 668 | Ashmore and Cartier Islands | 0.00 | 2005 |
+| 669 | Ashmore and Cartier Islands | 0.00 | 2005 |
+| 670 | Anguilla | 0.00 | 2005 |
+| 671 | Anguilla | 0.00 | 2005 |
+| 672 | Antarctica | 0.00 | 2005 |
+| 673 | Antarctica | 0.00 | 2005 |
+| 674 | Bermuda | 0.00 | 2005 |
+| 675 | Navassa Island | 0.00 | 2005 |
+| 676 | Navassa Island | 0.00 | 2005 |
+| 677 | Bouvet Island | 0.00 | 2005 |
+| 678 | Bouvet Island | 0.00 | 2005 |
+| 679 | Curacao | 0.00 | NA |
+| 680 | Cayman Islands | 0.00 | 2005 |
+| 681 | Cocos (Keeling) Islands | 0.00 | 2005 |
+| 682 | Cocos (Keeling) Islands | 0.00 | 2005 |
+| 683 | Coral Sea Islands | 0.00 | 2005 |
+| 684 | Coral Sea Islands | 0.00 | 2005 |
+| 685 | Djibouti | 0.00 | 2005 |
+| 686 | Falkland Islands (Islas Malvinas) | 0.00 | 2005 |
+| 687 | Falkland Islands (Islas Malvinas) | 0.00 | 2005 |
+| 688 | Faroe Islands | 0.00 | 2005 |
+| 689 | Gibraltar | 0.00 | 2005 |
+| 690 | Gibraltar | 0.00 | 2005 |
+| 691 | Greenland | 0.00 | 2005 |
+| 692 | Greenland | 0.00 | 2005 |
+| 693 | Heard Island and McDonald Islands | 0.00 | 2005 |
+| 694 | Heard Island and McDonald Islands | 0.00 | 2005 |
+| 695 | Howland Island | 0.00 | 2001 |
+| 696 | Howland Island | 0.00 | 2001 |
+| 697 | Iceland | 0.00 | 2005 |
+| 698 | Isle of Man | 0.00 | 2002 |
+| 699 | British Indian Ocean Territory | 0.00 | 2005 |
+| 700 | British Indian Ocean Territory | 0.00 | 2005 |
+| 701 | Clipperton Island | 0.00 | 2005 |
+| 702 | Clipperton Island | 0.00 | 2005 |
+| 703 | Jan Mayen | 0.00 | 2005 |
+| 704 | Jan Mayen | 0.00 | 2005 |
+| 705 | Christmas Island | 0.00 | 2005 |
+| 706 | Christmas Island | 0.00 | 2005 |
+| 707 | Liechtenstein | 0.00 | 2005 |
+| 708 | Macau | 0.00 | 2005 |
+| 709 | Macau | 0.00 | 2005 |
+| 710 | Mongolia | 0.00 | 2005 |
+| 711 | Montserrat | 0.00 | 2005 |
+| 712 | Monaco | 0.00 | 2005 |
+| 713 | Monaco | 0.00 | 2005 |
+| 714 | Norfolk Island | 0.00 | 2005 |
+| 715 | Norfolk Island | 0.00 | 2005 |
+| 716 | Norway | 0.00 | 2005 |
+| 717 | Nauru | 0.00 | 2005 |
+| 718 | Nauru | 0.00 | 2005 |
+| 719 | Paracel Islands | 0.00 | 2005 |
+| 720 | Paracel Islands | 0.00 | 2005 |
+| 721 | Spratly Islands | 0.00 | 2005 |
+| 722 | Spratly Islands | 0.00 | 2005 |
+| 723 | Saint Pierre and Miquelon | 0.00 | 2005 |
+| 724 | Saint Helena, Ascension, and Tristan da Cunha | 0.00 | 2005 |
+| 725 | Sint Maarten | 0.00 | NA |
+| 726 | San Marino | 0.00 | 2005 |
+| 727 | Svalbard | 0.00 | 2005 |
+| 728 | Svalbard | 0.00 | 2005 |
+| 729 | South Georgia and South Sandwich Islands | 0.00 | 2005 |

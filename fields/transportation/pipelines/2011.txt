@@ -1,0 +1,341 @@
+CIA - The World Factbook --  Pipelines   
+
+This entry gives the lengths and types of pipelines for transporting products like natural gas, crude oil, or petroleum products.
+
+| Rank | country | (km) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | United States | 548,665.00 | 2010 |
+| 2 | United States | 244,620.00 | 2010 |
+| 3 | Russia | 160,952.00 | 2010 |
+| 4 | Russia | 77,630.00 | 2010 |
+| 5 | Canada | 75,000.00 | 2010 |
+| 6 | China | 38,566.00 | 2010 |
+| 7 | Ukraine | 36,493.00 | 2010 |
+| 8 | Argentina | 29,401.00 | 2010 |
+| 9 | Australia | 27,900.00 | 2010 |
+| 10 | Germany | 24,688.00 | 2010 |
+| 11 | China | 23,470.00 | 2010 |
+| 12 | Iran | 20,155.00 | 2010 |
+| 13 | Italy | 18,348.00 | 2010 |
+| 14 | Mexico | 16,594.00 | 2010 |
+| 15 | Algeria | 16,360.00 | 2010 |
+| 16 | France | 15,276.00 | 2010 |
+| 17 | United Kingdom | 14,071.00 | 2010 |
+| 18 | Poland | 13,860.00 | 2010 |
+| 19 | China | 13,706.00 | 2010 |
+| 20 | Russia | 13,658.00 | 2010 |
+| 21 | Brazil | 13,514.00 | 2010 |
+| 22 | Kazakhstan | 12,317.00 | 2010 |
+| 23 | Kazakhstan | 11,201.00 | 2010 |
+| 24 | Turkey | 10,706.00 | 2010 |
+| 25 | Pakistan | 10,514.00 | 2010 |
+| 26 | India | 10,486.00 | 2010 |
+| 27 | Uzbekistan | 10,253.00 | 2010 |
+| 28 | India | 9,596.00 | 2010 |
+| 29 | Spain | 9,359.00 | 2010 |
+| 30 | Iran | 7,937.00 | 2010 |
+| 31 | Algeria | 7,611.00 | 2010 |
+| 32 | Mexico | 7,499.00 | 2010 |
+| 33 | India | 7,448.00 | 2010 |
+| 34 | Turkmenistan | 7,352.00 | 2010 |
+| 35 | Mexico | 7,264.00 | 2010 |
+| 36 | Indonesia | 7,165.00 | 2010 |
+| 37 | Iran | 7,123.00 | 2010 |
+| 38 | Czech Republic | 7,010.00 | 2010 |
+| 39 | Libya | 6,960.00 | 2010 |
+| 40 | Slovakia | 6,769.00 | 2010 |
+| 41 | Venezuela | 6,694.00 | 2010 |
+| 42 | Egypt | 6,628.00 | 2010 |
+| 43 | Colombia | 6,334.00 | 2010 |
+| 44 | Argentina | 6,166.00 | 2010 |
+| 45 | Indonesia | 5,984.00 | 2010 |
+| 46 | Venezuela | 5,347.00 | 2010 |
+| 47 | Bolivia | 5,330.00 | 2010 |
+| 48 | Belarus | 5,250.00 | 2010 |
+| 49 | Iraq | 5,104.00 | 2010 |
+| 50 | France | 5,084.00 | 2010 |
+| 51 | United Kingdom | 4,907.00 | 2010 |
+| 52 | Germany | 4,875.00 | 2010 |
+| 53 | Colombia | 4,801.00 | 2010 |
+| 54 | Hungary | 4,716.00 | 2010 |
+| 55 | Brazil | 4,684.00 | 2010 |
+| 56 | Ukraine | 4,514.00 | 2010 |
+| 57 | Netherlands | 4,413.00 | 2010 |
+| 58 | Egypt | 4,332.00 | 2010 |
+| 59 | Saudi Arabia | 4,232.00 | 2010 |
+| 60 | Ukraine | 4,211.00 | 2010 |
+| 61 | Oman | 4,209.00 | 2010 |
+| 62 | Japan | 4,135.00 | 2010 |
+| 63 | Nigeria | 4,090.00 | 2010 |
+| 64 | Sudan | 4,070.00 | 2010 |
+| 65 | Brazil | 3,729.00 | 2010 |
+| 66 | Germany | 3,687.00 | 2010 |
+| 67 | Romania | 3,652.00 | 2010 |
+| 68 | Turkey | 3,636.00 | 2010 |
+| 69 | Argentina | 3,631.00 | 2010 |
+| 70 | Oman | 3,558.00 | 2010 |
+| 71 | Algeria | 3,447.00 | 2010 |
+| 72 | Nigeria | 3,441.00 | 2010 |
+| 73 | Spain | 3,441.00 | 2010 |
+| 74 | Azerbaijan | 3,361.00 | 2010 |
+| 75 | Colombia | 3,309.00 | 2010 |
+| 76 | Australia | 3,257.00 | 2010 |
+| 77 | Libya | 3,216.00 | 2010 |
+| 78 | Syria | 3,161.00 | 2010 |
+| 79 | Chile | 3,064.00 | 2010 |
+| 80 | Burma | 3,046.00 | 2010 |
+| 81 | Austria | 3,028.00 | 2010 |
+| 82 | France | 2,939.00 | 2010 |
+| 83 | Denmark | 2,858.00 | 2010 |
+| 84 | Saudi Arabia | 2,846.00 | 2010 |
+| 85 | Bulgaria | 2,844.00 | 2010 |
+| 86 | Belgium | 2,826.00 | 2010 |
+| 87 | Nigeria | 2,756.00 | 2010 |
+| 88 | Bangladesh | 2,714.00 | 2010 |
+| 89 | Algeria | 2,600.00 | 2010 |
+| 90 | Bolivia | 2,510.00 | 2010 |
+| 91 | Iraq | 2,447.00 | 2010 |
+| 92 | Romania | 2,424.00 | 2010 |
+| 93 | Tunisia | 2,386.00 | 2010 |
+| 94 | United Arab Emirates | 2,352.00 | 2010 |
+| 95 | Armenia | 2,233.00 | 2010 |
+| 96 | Mexico | 2,152.00 | 2010 |
+| 97 | India | 2,152.00 | 2010 |
+| 98 | Korea, South | 2,139.00 | 2010 |
+| 99 | Pakistan | 2,013.00 | 2010 |
+| 100 | Syria | 1,997.00 | 2010 |
+| 101 | Moldova | 1,906.00 | 2010 |
+| 102 | Thailand | 1,889.00 | 2010 |
+| 103 | Ireland | 1,888.00 | 2010 |
+| 104 | New Zealand | 1,838.00 | 2010 |
+| 105 | Malaysia | 1,757.00 | 2010 |
+| 106 | Belarus | 1,730.00 | 2010 |
+| 107 | Lithuania | 1,695.00 | 2010 |
+| 108 | Croatia | 1,686.00 | 2010 |
+| 109 | Switzerland | 1,681.00 | 2010 |
+| 110 | Iraq | 1,637.00 | 2010 |
+| 111 | Bolivia | 1,627.00 | 2010 |
+| 112 | Venezuela | 1,620.00 | 2010 |
+| 113 | Sudan | 1,613.00 | 2010 |
+| 114 | Georgia | 1,596.00 | 2010 |
+| 115 | Belarus | 1,528.00 | 2010 |
+| 116 | Peru | 1,526.00 | 2010 |
+| 117 | Kazakhstan | 1,465.00 | 2010 |
+| 118 | Turkmenistan | 1,457.00 | 2010 |
+| 119 | United Arab Emirates | 1,437.00 | 2010 |
+| 120 | Azerbaijan | 1,424.00 | 2010 |
+| 121 | Poland | 1,384.00 | 2010 |
+| 122 | South Africa | 1,382.00 | 2010 |
+| 123 | Ecuador | 1,378.00 | 2010 |
+| 124 | Yemen | 1,367.00 | 2010 |
+| 125 | Tunisia | 1,323.00 | 2010 |
+| 126 | Portugal | 1,307.00 | 2010 |
+| 127 | Ecuador | 1,262.00 | 2010 |
+| 128 | Georgia | 1,258.00 | 2010 |
+| 129 | Italy | 1,241.00 | 2010 |
+| 130 | Greece | 1,240.00 | 2010 |
+| 131 | Saudi Arabia | 1,183.00 | 2010 |
+| 132 | Saudi Arabia | 1,151.00 | 2010 |
+| 133 | Thailand | 1,099.00 | 2010 |
+| 134 | Kazakhstan | 1,095.00 | 2010 |
+| 135 | Peru | 1,033.00 | 2010 |
+| 136 | Hungary | 984.00 | 2010 |
+| 137 | Qatar | 980.00 | 2010 |
+| 138 | Venezuela | 980.00 | 2010 |
+| 139 | South Africa | 980.00 | 2010 |
+| 140 | Egypt | 956.00 | 2010 |
+| 141 | Latvia | 948.00 | 2010 |
+| 142 | Kenya | 928.00 | 2010 |
+| 143 | Mozambique | 918.00 | 2010 |
+| 144 | Iraq | 918.00 | 2010 |
+| 145 | South Africa | 908.00 | 2010 |
+| 146 | Egypt | 895.00 | 2010 |
+| 147 | Chile | 895.00 | 2010 |
+| 148 | Gabon | 893.00 | 2010 |
+| 149 | Tanzania | 888.00 | 2010 |
+| 150 | Cameroon | 886.00 | 2010 |
+| 151 | Uzbekistan | 868.00 | 2010 |
+| 152 | Korea, South | 864.00 | 2010 |
+| 153 | Estonia | 859.00 | 2010 |
+| 154 | Slovenia | 840.00 | 2010 |
+| 155 | Canada | 835.00 | 2010 |
+| 156 | Morocco | 830.00 | 2010 |
+| 157 | Indonesia | 812.00 | 2010 |
+| 158 | Pakistan | 787.00 | 2010 |
+| 159 | Sweden | 786.00 | 2010 |
+| 160 | Poland | 777.00 | 2010 |
+| 161 | Libya | 776.00 | 2010 |
+| 162 | Zambia | 771.00 | 2010 |
+| 163 | Chile | 768.00 | 2010 |
+| 164 | Congo, Democratic Republic of the | 756.00 | 2010 |
+| 165 | Netherlands | 716.00 | 2010 |
+| 166 | Finland | 694.00 | 2010 |
+| 167 | Peru | 679.00 | 2010 |
+| 168 | Trinidad and Tobago | 671.00 | 2010 |
+| 169 | Austria | 663.00 | 2010 |
+| 170 | Costa Rica | 662.00 | 2010 |
+| 171 | Kazakhstan | 658.00 | 2010 |
+| 172 | Indonesia | 617.00 | 2010 |
+| 173 | United Kingdom | 595.00 | 2010 |
+| 174 | Iran | 570.00 | 2010 |
+| 175 | Spain | 560.00 | 2010 |
+| 176 | Burma | 551.00 | 2010 |
+| 177 | Tajikistan | 549.00 | 2010 |
+| 178 | Czech Republic | 547.00 | 2010 |
+| 179 | Kuwait | 540.00 | 2010 |
+| 180 | Laos | 540.00 | 2010 |
+| 181 | Belgium | 535.00 | 2010 |
+| 182 | Peru | 533.00 | 2010 |
+| 183 | Croatia | 532.00 | 2010 |
+| 184 | Chile | 517.00 | 2010 |
+| 185 | Kyrgyzstan | 480.00 | 2010 |
+| 186 | Guatemala | 480.00 | 2010 |
+| 187 | Afghanistan | 466.00 | 2010 |
+| 188 | United Arab Emirates | 458.00 | 2010 |
+| 189 | Tunisia | 453.00 | 2010 |
+| 190 | Israel | 442.00 | 2010 |
+| 191 | Morocco | 439.00 | 2010 |
+| 192 | Jordan | 439.00 | 2010 |
+| 193 | Ecuador | 434.00 | 2010 |
+| 194 | Yemen | 423.00 | 2010 |
+| 195 | Slovakia | 416.00 | 2010 |
+| 196 | Latvia | 415.00 | 2010 |
+| 197 | Taiwan | 412.00 | 2010 |
+| 198 | Qatar | 382.00 | 2010 |
+| 199 | Netherlands | 365.00 | 2010 |
+| 200 | Hungary | 361.00 | 2010 |
+| 201 | Brazil | 352.00 | 2010 |
+| 202 | Bulgaria | 346.00 | 2010 |
+| 203 | Albania | 339.00 | 2010 |
+| 204 | Trinidad and Tobago | 334.00 | 2010 |
+| 205 | New Zealand | 331.00 | 2010 |
+| 206 | Egypt | 320.00 | 2010 |
+| 207 | Ghana | 312.00 | 2010 |
+| 208 | Gabon | 294.00 | 2010 |
+| 209 | New Zealand | 288.00 | 2010 |
+| 210 | Mozambique | 278.00 | 2010 |
+| 211 | Congo, Republic of the | 273.00 | 2010 |
+| 212 | Zimbabwe | 270.00 | 2010 |
+| 213 | Kuwait | 269.00 | 2010 |
+| 214 | Macedonia | 268.00 | 2010 |
+| 215 | Chad | 265.00 | 2010 |
+| 216 | Oman | 263.00 | 2010 |
+| 217 | Israel | 261.00 | 2010 |
+| 218 | Tanzania | 254.00 | 2010 |
+| 219 | Australia | 240.00 | 2010 |
+| 220 | Cuba | 230.00 | 2010 |
+| 221 | Uruguay | 226.00 | 2010 |
+| 222 | United Arab Emirates | 220.00 | 2010 |
+| 223 | Vietnam | 216.00 | 2010 |
+| 224 | Saudi Arabia | 212.00 | 2010 |
+| 225 | United Arab Emirates | 212.00 | 2010 |
+| 226 | Israel | 211.00 | 2010 |
+| 227 | Albania | 207.00 | 2010 |
+| 228 | Vietnam | 206.00 | 2010 |
+| 229 | New Zealand | 198.00 | 2010 |
+| 230 | Papua New Guinea | 195.00 | 2010 |
+| 231 | Portugal | 188.00 | 2010 |
+| 232 | Philippines | 181.00 | 2010 |
+| 233 | Cote d'Ivoire | 180.00 | 2010 |
+| 234 | New Zealand | 172.00 | 2010 |
+| 235 | Japan | 171.00 | 2010 |
+| 236 | Austria | 157.00 | 2010 |
+| 237 | Bulgaria | 156.00 | 2010 |
+| 238 | Sudan | 156.00 | 2010 |
+| 239 | Uruguay | 155.00 | 2010 |
+| 240 | Malaysia | 155.00 | 2010 |
+| 241 | Korea, North | 154.00 | 2010 |
+| 242 | Belgium | 154.00 | 2010 |
+| 243 | Bosnia and Herzegovina | 147.00 | NA |
+| 244 | Qatar | 145.00 | 2010 |
+| 245 | Algeria | 144.00 | 2010 |
+| 246 | Luxembourg | 142.00 | 2010 |
+| 247 | Qatar | 132.00 | 2010 |
+| 248 | Panama | 128.00 | NA |
+| 249 | Russia | 127.00 | 2010 |
+| 250 | Russia | 122.00 | 2010 |
+| 251 | Macedonia | 120.00 | 2010 |
+| 252 | Malaysia | 114.00 | 2010 |
+| 253 | Lithuania | 114.00 | 2010 |
+| 254 | Singapore | 111.00 | 2010 |
+| 255 | Philippines | 107.00 | 2010 |
+| 256 | Denmark | 107.00 | 2010 |
+| 257 | Oman | 107.00 | 2010 |
+| 258 | Lebanon | 102.00 | 2010 |
+| 259 | Dominican Republic | 99.00 | NA |
+| 260 | Nigeria | 97.00 | 2010 |
+| 261 | Czech Republic | 94.00 | 2010 |
+| 262 | Switzerland | 94.00 | 2010 |
+| 263 | Cote d'Ivoire | 92.00 | 2010 |
+| 264 | Qatar | 90.00 | 2010 |
+| 265 | Angola | 87.00 | 2010 |
+| 266 | Cote d'Ivoire | 86.00 | 2010 |
+| 267 | Thailand | 85.00 | 2010 |
+| 268 | Greece | 75.00 | 2010 |
+| 269 | Indonesia | 73.00 | 2010 |
+| 270 | Congo, Republic of the | 65.00 | 2010 |
+| 271 | Norway | 64.00 | 2010 |
+| 272 | Brazil | 62.00 | 2010 |
+| 273 | Barbados | 62.00 | NA |
+| 274 | United Kingdom | 59.00 | 2010 |
+| 275 | Kuwait | 57.00 | 2010 |
+| 276 | Nicaragua | 54.00 | 2010 |
+| 277 | Japan | 53.00 | 2010 |
+| 278 | Bolivia | 51.00 | 2010 |
+| 279 | Suriname | 50.00 | 2010 |
+| 280 | Jordan | 49.00 | 2010 |
+| 281 | Indonesia | 44.00 | 2010 |
+| 282 | Senegal | 43.00 | 2010 |
+| 283 | Cuba | 41.00 | 2010 |
+| 284 | Argentina | 41.00 | 2010 |
+| 285 | Congo, Democratic Republic of the | 39.00 | 2010 |
+| 286 | Russia | 38.00 | 2010 |
+| 287 | Tajikistan | 38.00 | 2010 |
+| 288 | Congo, Democratic Republic of the | 37.00 | 2010 |
+| 289 | Brunei | 37.00 | 2010 |
+| 290 | Equatorial Guinea | 37.00 | 2010 |
+| 291 | Poland | 35.00 | 2010 |
+| 292 | Brunei | 33.00 | 2010 |
+| 293 | Barbados | 33.00 | NA |
+| 294 | Mexico | 33.00 | 2010 |
+| 295 | Norway | 31.00 | 2010 |
+| 296 | Malaysia | 30.00 | 2010 |
+| 297 | Bahrain | 29.00 | 2010 |
+| 298 | Vietnam | 28.00 | 2010 |
+| 299 | Luxembourg | 27.00 | 2010 |
+| 300 | Nigeria | 26.00 | 2010 |
+| 301 | Yemen | 22.00 | 2010 |
+| 302 | Bahrain | 20.00 | 2010 |
+| 303 | Liechtenstein | 20.00 | 2010 |
+| 304 | Brunei | 18.00 | 2010 |
+| 305 | Kyrgyzstan | 16.00 | 2010 |
+| 306 | Peru | 15.00 | 2010 |
+| 307 | Egypt | 13.00 | 2010 |
+| 308 | Egypt | 13.00 | 2010 |
+| 309 | Iran | 12.00 | 2010 |
+| 310 | Indonesia | 12.00 | 2010 |
+| 311 | Portugal | 11.00 | 2010 |
+| 312 | South Africa | 11.00 | 2010 |
+| 313 | Vietnam | 10.00 | 2010 |
+| 314 | Bosnia and Herzegovina | 9.00 | NA |
+| 315 | Tanzania | 8.00 | 2010 |
+| 316 | United Kingdom | 8.00 | 2010 |
+| 317 | Senegal | 8.00 | 2010 |
+| 318 | Switzerland | 7.00 | 2010 |
+| 319 | Philippines | 7.00 | 2010 |
+| 320 | Iran | 7.00 | 2010 |
+| 321 | Ecuador | 5.00 | 2010 |
+| 322 | Ghana | 5.00 | 2010 |
+| 323 | Slovenia | 5.00 | 2010 |
+| 324 | Liberia | 4.00 | NA |
+| 325 | Barbados | 4.00 | NA |
+| 326 | Mexico | 4.00 | 2010 |
+| 327 | Kenya | 4.00 | 2010 |
+| 328 | Malaysia | 3.00 | 2010 |
+| 329 | Egypt | 3.00 | 2010 |
+| 330 | Angola | 2.00 | 2010 |
+| 331 | India | 2.00 | 2010 |
+| 332 | Azerbaijan | 1.00 | 2010 |
+| 333 | Australia | 1.00 | 2010 |
+| 334 | Ghana | 1.00 | 2010 |
+| 335 | Cyprus | 0.00 | NA |

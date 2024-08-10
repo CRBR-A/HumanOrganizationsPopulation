@@ -1,0 +1,140 @@
+CIA - The World Factbook --  MILITARY EXPENDITURES
+
+Military expenditures compares spending on defense programs for the most recent year available as a percent of gross domestic product (GDP; calculated on an exchange rate basis).
+
+| Rank | Country | (% OF GDP) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | South Sudan | 10.32 | 2012 |
+| 2 | Iraq | 8.70 | 2014 |
+| 3 | Oman | 8.61 | 2012 |
+| 4 | Saudi Arabia | 7.98 | 2012 |
+| 5 | Israel | 5.69 | 2012 |
+| 6 | Azerbaijan | 4.70 | 2013 |
+| 7 | Jordan | 4.65 | 2012 |
+| 8 | Algeria | 4.48 | 2012 |
+| 9 | United States | 4.35 | 2012 |
+| 10 | Armenia | 4.10 | 2013 |
+| 11 | Lebanon | 4.04 | 2012 |
+| 12 | Yemen | 4.02 | 2012 |
+| 13 | Angola | 3.63 | 2012 |
+| 14 | Morocco | 3.55 | 2012 |
+| 15 | Singapore | 3.52 | 2012 |
+| 16 | Russia | 3.49 | 2014 |
+| 17 | Colombia | 3.28 | 2012 |
+| 18 | Swaziland | 3.17 | 2012 |
+| 19 | Bahrain | 3.14 | 2012 |
+| 20 | Namibia | 3.11 | 2012 |
+| 21 | Pakistan | 3.04 | 2012 |
+| 22 | Zimbabwe | 2.94 | 2012 |
+| 23 | Timor-Leste | 2.92 | 2012 |
+| 24 | Ecuador | 2.83 | 2012 |
+| 25 | Korea, South | 2.80 | 2012 |
+| 26 | Ukraine | 2.77 | 2012 |
+| 27 | Georgia | 2.70 | 2013 |
+| 28 | United Kingdom | 2.49 | 2012 |
+| 29 | Sri Lanka | 2.43 | 2012 |
+| 30 | Brunei | 2.43 | 2012 |
+| 31 | India | 2.40 | 2013 |
+| 32 | Burundi | 2.39 | 2012 |
+| 33 | Vietnam | 2.37 | 2012 |
+| 34 | Botswana | 2.31 | 2012 |
+| 35 | Turkey | 2.31 | 2012 |
+| 36 | Serbia | 2.21 | 2012 |
+| 37 | Cyprus | 2.05 | 2012 |
+| 38 | Chile | 2.04 | 2012 |
+| 39 | Estonia | 2.00 | 2013 |
+| 40 | China | 1.99 | 2012 |
+| 41 | Kenya | 1.96 | 2012 |
+| 42 | Uruguay | 1.95 | 2012 |
+| 43 | Lesotho | 1.94 | 2012 |
+| 44 | Poland | 1.91 | 2012 |
+| 45 | Guinea-Bissau | 1.85 | 2012 |
+| 46 | Montenegro | 1.81 | 2013 |
+| 47 | France | 1.80 | 2014 |
+| 48 | Greece | 1.72 | 2012 |
+| 49 | Congo, Democratic Republic of the | 1.72 | 2012 |
+| 50 | Australia | 1.71 | 2012 |
+| 51 | Croatia | 1.70 | 2012 |
+| 52 | Italy | 1.69 | 2012 |
+| 53 | Egypt | 1.67 | 2013 |
+| 54 | Paraguay | 1.66 | 2012 |
+| 55 | Cote d'Ivoire | 1.65 | 2012 |
+| 56 | European Union | 1.65 | 2012 |
+| 57 | Tunisia | 1.55 | 2012 |
+| 58 | Malaysia | 1.55 | 2012 |
+| 59 | Zambia | 1.55 | 2012 |
+| 60 | Cambodia | 1.54 | 2012 |
+| 61 | Fiji | 1.47 | 2012 |
+| 62 | Finland | 1.47 | 2012 |
+| 63 | Thailand | 1.47 | 2012 |
+| 64 | Bolivia | 1.47 | 2012 |
+| 65 | Brazil | 1.47 | 2012 |
+| 66 | Bulgaria | 1.46 | 2012 |
+| 67 | Uganda | 1.45 | 2012 |
+| 68 | Mali | 1.44 | 2012 |
+| 69 | Romania | 1.42 | 2014 est. |
+| 70 | Cameroon | 1.42 | 2012 |
+| 71 | Denmark | 1.41 | 2012 |
+| 72 | Norway | 1.40 | 2012 |
+| 73 | Burkina Faso | 1.39 | 2012 |
+| 74 | Germany | 1.35 | 2012 |
+| 75 | Bosnia and Herzegovina | 1.35 | 2012 |
+| 76 | Gabon | 1.34 | 2012 |
+| 77 | Portugal | 1.29 | 2014 |
+| 78 | Peru | 1.28 | 2012 |
+| 79 | Netherlands | 1.27 | 2012 |
+| 80 | Canada | 1.24 | 2012 |
+| 81 | Kazakhstan | 1.21 | 2012 |
+| 82 | Belarus | 1.20 | 2012 |
+| 83 | Philippines | 1.19 | 2012 |
+| 84 | Sweden | 1.18 | 2012 |
+| 85 | Slovenia | 1.18 | 2012 |
+| 86 | Bangladesh | 1.15 | 2013 |
+| 87 | New Zealand | 1.13 | 2012 |
+| 88 | Tanzania | 1.13 | 2012 |
+| 89 | Slovakia | 1.12 | 2012 |
+| 90 | Mongolia | 1.12 | 2012 |
+| 91 | Rwanda | 1.12 | 2012 |
+| 92 | Macedonia | 1.12 | 2015 |
+| 93 | Guyana | 1.09 | 2012 |
+| 94 | Czech Republic | 1.08 | 2013 |
+| 95 | Niger | 1.06 | 2012 |
+| 96 | Honduras | 1.05 | 2012 |
+| 97 | Belgium | 1.05 | 2012 |
+| 98 | Venezuela | 1.05 | 2012 |
+| 99 | Benin | 1.03 | 2012 |
+| 100 | South Africa | 1.00 | 2013 |
+| 101 | El Salvador | 0.99 | 2012 |
+| 102 | Japan | 0.97 | 2012 |
+| 103 | Lithuania | 0.97 | 2012 |
+| 104 | Malawi | 0.93 | 2012 |
+| 105 | Latvia | 0.92 | 2012 |
+| 106 | Argentina | 0.91 | 2012 |
+| 107 | Ethiopia | 0.91 | 2012 |
+| 108 | Nigeria | 0.89 | 2012 |
+| 109 | Seychelles | 0.89 | 2012 |
+| 110 | Spain | 0.86 | 2012 |
+| 111 | Jamaica | 0.86 | 2012 |
+| 112 | Albania | 0.85 | 2015 |
+| 113 | Hungary | 0.83 | 2012 |
+| 114 | Liberia | 0.82 | 2012 |
+| 115 | Austria | 0.81 | 2012 |
+| 116 | Indonesia | 0.78 | 2012 |
+| 117 | Switzerland | 0.76 | 2012 |
+| 118 | Sierra Leone | 0.72 | 2012 |
+| 119 | Madagascar | 0.69 | 2012 |
+| 120 | Nicaragua | 0.63 | 2012 |
+| 121 | Dominican Republic | 0.61 | 2012 |
+| 122 | Malta | 0.61 | 2012 |
+| 123 | Luxembourg | 0.60 | 2012 |
+| 124 | Mexico | 0.59 | 2012 |
+| 125 | Ghana | 0.56 | 2014 |
+| 126 | Ireland | 0.55 | 2012 |
+| 127 | Papua New Guinea | 0.54 | 2012 |
+| 128 | Moldova | 0.50 | 2014 |
+| 129 | Guatemala | 0.42 | 2012 |
+| 130 | Mauritius | 0.19 | 2012 |
+| 131 | Iceland | 0.13 | 2012 |
+| 132 | Kuwait | 0.00 | 2012 |
+
+

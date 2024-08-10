@@ -1,0 +1,231 @@
+CIA - The World Factbook --  Inflation rate (consumer prices)   
+
+Inflation rate (consumer prices) compares the annual percent change in consumer prices with the previous year's consumer prices.
+
+| Rank | country | (%) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Northern Mariana Islands | -2.70 | 2012 est. |
+| 2 | Aruba | -2.00 | 2013 est. |
+| 3 | Greece | -0.80 | 2013 est. |
+| 4 | Liechtenstein | -0.70 | 2012 |
+| 5 | Georgia | -0.50 | 2013 est. |
+| 6 | Switzerland | -0.40 | 2013 est. |
+| 7 | Sweden | 0.00 | 2013 est. |
+| 8 | Mali | 0.10 | 2013 est. |
+| 9 | Cyprus | 0.20 | 2013 est. |
+| 10 | Bosnia and Herzegovina | 0.20 | 2013 est. |
+| 11 | Kiribati | 0.20 | 2007 est. |
+| 12 | Latvia | 0.20 | 2013 est. |
+| 13 | Japan | 0.20 | 2013 est. |
+| 14 | Portugal | 0.40 | 2013 est. |
+| 15 | Ireland | 0.60 | 2013 est. |
+| 16 | Ukraine | 0.70 | 2013 est. |
+| 17 | Senegal | 0.80 | 2013 est. |
+| 18 | Denmark | 0.80 | 2013 est. |
+| 19 | Puerto Rico | 0.90 | 2013 est. |
+| 20 | El Salvador | 0.90 | 2013 est. |
+| 21 | France | 0.90 | 2013 est. |
+| 22 | Canada | 1.00 | 2013 est. |
+| 23 | Poland | 1.00 | 2013 est. |
+| 24 | Brunei | 1.00 | 2013 est. |
+| 25 | Malta | 1.00 | 2013 est. |
+| 26 | Bahamas, The | 1.00 | 2013 est. |
+| 27 | Taiwan | 1.10 | 2013 est. |
+| 28 | French Polynesia | 1.10 | 2007 |
+| 29 | Andorra | 1.10 | 2012 est. |
+| 30 | Korea, South | 1.10 | 2013 est. |
+| 31 | Italy | 1.20 | 2013 est. |
+| 32 | Lithuania | 1.20 | 2013 est. |
+| 33 | Gabon | 1.20 | 2013 est. |
+| 34 | Falkland Islands (Islas Malvinas) | 1.20 | 2003 |
+| 35 | United Arab Emirates | 1.30 | 2013 est. |
+| 36 | Belgium | 1.30 | 2013 est. |
+| 37 | New Zealand | 1.30 | 2013 est. |
+| 38 | Belize | 1.30 | 2013 est. |
+| 39 | Czech Republic | 1.40 | 2013 est. |
+| 40 | United States | 1.50 | 2013 est. |
+| 41 | Bulgaria | 1.50 | 2013 est. |
+| 42 | European Union | 1.50 | 2013 est. |
+| 43 | Monaco | 1.50 | 2010 |
+| 44 | Germany | 1.60 | 2013 est. |
+| 45 | British Virgin Islands | 1.60 | 2013 est. |
+| 46 | Oman | 1.60 | 2013 est. |
+| 47 | West Bank | 1.70 | 2013 est. |
+| 48 | South Sudan | 1.70 | 2013 est. |
+| 49 | New Caledonia | 1.70 | 2013 est. |
+| 50 | Slovakia | 1.70 | 2013 est. |
+| 51 | Congo, Republic of the | 1.70 | 2013 est. |
+| 52 | Chile | 1.70 | 2013 est. |
+| 53 | Gaza Strip | 1.70 | 2013 est. |
+| 54 | Albania | 1.70 | 2013 est. |
+| 55 | Israel | 1.70 | 2013 est. |
+| 56 | Bermuda | 1.80 | 2013 est. |
+| 57 | Cayman Islands | 1.80 | 2013 est. |
+| 58 | Dominica | 1.80 | 2013 est. |
+| 59 | Slovenia | 1.80 | 2013 est. |
+| 60 | Spain | 1.80 | 2013 est. |
+| 61 | Kosovo | 1.80 | 2013 est. |
+| 62 | Luxembourg | 1.80 | 2013 est. |
+| 63 | Cabo Verde | 1.90 | 2013 est. |
+| 64 | Vanuatu | 1.90 | 2013 est. |
+| 65 | Hungary | 1.90 | 2013 est. |
+| 66 | Norway | 1.90 | 2013 est. |
+| 67 | Guinea-Bissau | 1.90 | 2013 est. |
+| 68 | Niger | 1.90 | 2013 est. |
+| 69 | Tonga | 2.00 | 2013 est. |
+| 70 | Iraq | 2.00 | 2013 est. |
+| 71 | United Kingdom | 2.00 | 2013 est. |
+| 72 | Barbados | 2.10 | 2013 est. |
+| 73 | Burkina Faso | 2.10 | 2013 est. |
+| 74 | Austria | 2.10 | 2013 est. |
+| 75 | Malaysia | 2.20 | 2013 est. |
+| 76 | Finland | 2.20 | 2013 est. |
+| 77 | Virgin Islands | 2.20 | 2003 |
+| 78 | Togo | 2.20 | 2013 est. |
+| 79 | Thailand | 2.20 | 2013 est. |
+| 80 | Serbia | 2.20 | 2013 est. |
+| 81 | Saint Kitts and Nevis | 2.20 | 2013 est. |
+| 82 | Croatia | 2.20 | 2013 est. |
+| 83 | Cook Islands | 2.20 | 2011 est. |
+| 84 | Colombia | 2.20 | 2013 est. |
+| 85 | Faroe Islands | 2.30 | 2011 |
+| 86 | Paraguay | 2.30 | 2013 est. |
+| 87 | Grenada | 2.40 | 2013 est. |
+| 88 | Benin | 2.40 | 2013 est. |
+| 89 | Australia | 2.40 | 2013 est. |
+| 90 | Singapore | 2.40 | 2013 est. |
+| 91 | Azerbaijan | 2.40 | 2013 est. |
+| 92 | Comoros | 2.50 | 2013 est. |
+| 93 | Netherlands | 2.50 | 2013 est. |
+| 94 | Turks and Caicos Islands | 2.50 | 2013 est. |
+| 95 | Morocco | 2.50 | 2013 est. |
+| 96 | Djibouti | 2.50 | 2013 est. |
+| 97 | Cameroon | 2.60 | 2013 est. |
+| 98 | Solomon Islands | 2.60 | 2012 est. |
+| 99 | Ecuador | 2.60 | 2013 est. |
+| 100 | China | 2.60 | 2013 est. |
+| 101 | Palau | 2.70 | 2011 est. |
+| 102 | Samoa | 2.70 | 2013 est. |
+| 103 | Macedonia | 2.80 | 2013 est. |
+| 104 | Kuwait | 2.80 | 2013 est. |
+| 105 | Wallis and Futuna | 2.80 | 2005 |
+| 106 | San Marino | 2.80 | 2012 est. |
+| 107 | Greenland | 2.80 | 2011 est. |
+| 108 | Gibraltar | 2.80 | 2008 |
+| 109 | Saint Vincent and the Grenadines | 2.80 | 2013 est. |
+| 110 | Philippines | 2.80 | 2013 est. |
+| 111 | Peru | 2.90 | 2013 est. |
+| 112 | Cote d'Ivoire | 2.90 | 2013 est. |
+| 113 | Fiji | 3.00 | 2013 est. |
+| 114 | Antigua and Barbuda | 3.00 | 2013 est. |
+| 115 | Qatar | 3.10 | 2013 est. |
+| 116 | Bahrain | 3.10 | 2013 est. |
+| 117 | Anguilla | 3.10 | 2013 est. |
+| 118 | Curacao | 3.20 | 2012 est. |
+| 119 | Cambodia | 3.20 | 2013 est. |
+| 120 | Romania | 3.20 | 2013 est. |
+| 121 | Libya | 3.20 | 2013 est. |
+| 122 | Micronesia, Federated States of | 3.40 | 2011 est. |
+| 123 | Guernsey | 3.40 | June 2006 |
+| 124 | Estonia | 3.40 | 2013 est. |
+| 125 | Mauritius | 3.50 | 2013 est. |
+| 126 | Jersey | 3.70 | 2006 |
+| 127 | Tajikistan | 3.70 | 2013 est. |
+| 128 | Saudi Arabia | 3.70 | 2013 est. |
+| 129 | Tuvalu | 3.80 | 2006 est. |
+| 130 | Papua New Guinea | 3.80 | 2013 est. |
+| 131 | Guyana | 3.90 | 2013 est. |
+| 132 | Algeria | 3.90 | 2013 est. |
+| 133 | Iceland | 3.90 | 2013 est. |
+| 134 | Saint Helena, Ascension, and Tristan da Cunha | 4.00 | 2012 est. |
+| 135 | Sint Maarten | 4.00 | 2012 est. |
+| 136 | Mexico | 4.00 | 2013 est. |
+| 137 | Montenegro | 4.00 | 2012 |
+| 138 | Niue | 4.00 | 2005 |
+| 139 | Guam | 4.00 | 2011 est. |
+| 140 | Panama | 4.10 | 2013 est. |
+| 141 | Suriname | 4.20 | 2013 est. |
+| 142 | Seychelles | 4.30 | 2013 est. |
+| 143 | Mozambique | 4.40 | 2013 est. |
+| 144 | Hong Kong | 4.40 | 2013 est. |
+| 145 | Guatemala | 4.40 | 2013 est. |
+| 146 | Montserrat | 4.50 | 2013 est. |
+| 147 | Saint Pierre and Miquelon | 4.50 | 2010 |
+| 148 | Chad | 4.50 | 2013 est. |
+| 149 | Timor-Leste | 4.50 | 2013 est. |
+| 150 | Mauritania | 4.60 | 2013 est. |
+| 151 | Moldova | 4.60 | 2013 est. |
+| 152 | Sri Lanka | 4.70 | 2013 est. |
+| 153 | Lebanon | 5.00 | 2013 est. |
+| 154 | Lesotho | 5.00 | 2013 est. |
+| 155 | Isle of Man | 5.00 | 2010 est. |
+| 156 | Dominican Republic | 5.00 | 2013 est. |
+| 157 | Maldives | 5.10 | 2012 est. |
+| 158 | Honduras | 5.20 | 2013 est. |
+| 159 | Liberia | 5.20 | 2013 est. |
+| 160 | Saint Lucia | 5.30 | 2013 est. |
+| 161 | Trinidad and Tobago | 5.40 | 2013 est. |
+| 162 | Namibia | 5.50 | 2013 est. |
+| 163 | Macau | 5.50 | 2013 est. |
+| 164 | Costa Rica | 5.60 | 2013 est. |
+| 165 | Burma | 5.70 | 2013 est. |
+| 166 | Nicaragua | 5.70 | 2013 est. |
+| 167 | South Africa | 5.80 | 2013 est. |
+| 168 | Kazakhstan | 5.80 | 2013 est. |
+| 169 | Kenya | 5.80 | 2013 est. |
+| 170 | Jordan | 5.90 | 2013 est. |
+| 171 | Rwanda | 5.90 | 2013 est. |
+| 172 | Cuba | 6.00 | 2013 est. |
+| 173 | Equatorial Guinea | 6.00 | 2013 est. |
+| 174 | Gambia, The | 6.00 | 2013 est. |
+| 175 | Swaziland | 6.10 | 2013 est. |
+| 176 | Tunisia | 6.10 | 2013 est. |
+| 177 | Botswana | 6.10 | 2013 est. |
+| 178 | Uganda | 6.20 | 2013 est. |
+| 179 | Armenia | 6.20 | 2013 est. |
+| 180 | Brazil | 6.20 | 2013 est. |
+| 181 | Haiti | 6.30 | 2013 est. |
+| 182 | Bolivia | 6.50 | 2013 est. |
+| 183 | Laos | 6.50 | 2013 est. |
+| 184 | Russia | 6.80 | 2013 est. |
+| 185 | Afghanistan | 6.80 | 2012 est. |
+| 186 | Kyrgyzstan | 6.80 | 2013 est. |
+| 187 | Vietnam | 6.80 | 2013 est. |
+| 188 | Central African Republic | 7.00 | 2013 est. |
+| 189 | Zambia | 7.10 | 2013 est. |
+| 190 | Congo, Democratic Republic of the | 7.10 | 2013 est. |
+| 191 | Bangladesh | 7.60 | 2013 est. |
+| 192 | Turkey | 7.60 | 2013 est. |
+| 193 | Indonesia | 7.70 | 2013 est. |
+| 194 | Pakistan | 7.70 | 2013 est. |
+| 195 | Tanzania | 7.80 | 2013 est. |
+| 196 | Mongolia | 8.20 | 2013 est. |
+| 197 | Uruguay | 8.30 | 2013 est. |
+| 198 | Ethiopia | 8.40 | 2013 est. |
+| 199 | Zimbabwe | 8.50 | 2013 est. |
+| 200 | Sao Tome and Principe | 8.70 | 2013 est. |
+| 201 | Nigeria | 8.70 | 2013 est. |
+| 202 | Madagascar | 8.80 | 2013 est. |
+| 203 | Angola | 8.90 | 2013 est. |
+| 204 | Turkmenistan | 9.00 | 2013 est. |
+| 205 | Egypt | 9.00 | 2013 est. |
+| 206 | Burundi | 9.30 | 2013 est. |
+| 207 | Jamaica | 9.40 | 2013 est. |
+| 208 | India | 9.60 | 2013 est. |
+| 209 | Uzbekistan | 10.10 | 2013 est. |
+| 210 | Bhutan | 11.00 | 2013 est. |
+| 211 | Ghana | 11.00 | 2013 est. |
+| 212 | Sierra Leone | 11.10 | 2013 est. |
+| 213 | Yemen | 11.80 | 2013 est. |
+| 214 | Guinea | 11.90 | 2013 est. |
+| 215 | Marshall Islands | 12.90 | 2008 est. |
+| 216 | Eritrea | 13.00 | 2013 est. |
+| 217 | Belarus | 19.00 | 2013 est. |
+| 218 | Argentina | 20.80 | 2013 est. |
+| 219 | Sudan | 25.00 | 2013 est. |
+| 220 | Malawi | 26.90 | 2013 est. |
+| 221 | Iran | 42.30 | 2013 est. |
+| 222 | Venezuela | 56.20 | 2013 est. |
+| 223 | Syria | 59.10 | 2013 est. |
+
+

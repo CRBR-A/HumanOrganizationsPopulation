@@ -1,0 +1,29 @@
+Telephone Code: 687
+Local Emergency Phone - Ambulance: 15
+Local Emergency Phone - Fire: 18
+Local Emergency Phone - Police: 17
+Climate: Tropical; modified by southeast trade winds; hot, humid
+Currency (Code): Comptoirs Francais du Pacifique francs (XPF)
+Electricity: 220 V
+Voltage: 50 Hz
+Plug types(s): C, F
+Major Languages: French, 33 Melanesian-Polynesian dialects
+Major Religions: Roman Catholic 60%, Protestant 30%, other 10%
+Time Difference: UTC+11 (16 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Yes, but some opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Noumea (includes Tjibaou Cultural Center, Aquarium des Lagons Nouvelle Caledonie, Harbor); Amedee Lighthouse; Port-Boise; Isle of Pines; Lifou Island
+Major Sports: Soccer, rugby, cricket, cycling
+Cultural Practices: It is considered impolite to cut into a conversation uninvited (wait to be asked), to speak too loudly in public, to arrive late to a pre-arranged meeting, or to fail to show respect to everyone, especially elders.
+Tipping Guidelines: Tipping is generally not expected. However, small tips given to tour guides are accepted. Rounding up the total bill is a good practice.
+Souvenirs: Seashell, black coral, and precious metal jewelry; sandstone-carved items, essential oils, sarongs, woven baskets, preserves, ceremonial wood-carved items
+Traditional Cuisine: Bougna --- coconut milk combined with various root vegetables such as taro, manioc, and yams and often chicken, pork, or seafood; the mixture is wrapped in banana leaves and placed over hot coals in an earthen oven
+
+---
+country: New Caledonia
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/New Caledonia/travel-facts>
+license: public domain (U.S.)
+...

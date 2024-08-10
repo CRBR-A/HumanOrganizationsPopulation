@@ -1,0 +1,27 @@
+Telephone Code: 255
+Local Emergency Phone: 112, 999
+Climate: Varies from tropical along coast to temperate in highlands
+Currency (Code): Tanzanian shillings (TZS)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): D, G
+Major Languages: Kiswahili or Swahili, Kiunguja, English, Arabic
+Major Religions: Christian 63.1%, Muslim 34.1%, folk religion 1.1%, Buddhist <1%, Hindu <1%, Jewish <1%
+Time Difference: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Left
+Tourist Destinations: Mount Kilimanjaro; Serengeti National Park; Zanzibar beaches; Ngorongoro Conservation Area; Lake Manyara National Park; Mafia Island; Tarangire National Park; Olduvai Gorge; Arusha National Park; Old Arab Fort in Stone Town
+Major Sports: Track and field, soccer, basketball, cricket
+Cultural Practices: Short pants are generally considered inappropriate for both men and women.
+Tipping Guidelines: Tipping 10% is conventional in restaurants. Hotel and airport porters should be tipped $1-2 (USD) per bag.
+Souvenirs: Kanga cloth; Masai tribal arts and crafts including basket-ware, wood-carved items, and African drums; tanzanite jewelry, spices, ceramic tile
+Traditional Cuisine: Ugali na Maharage ya nazi --- dough prepared with cornmeal (maize meal), cassava flour, sorghum, or millet served with beans and vegetables cooked in coconut milk
+
+---
+country: Tanzania
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Tanzania/travel-facts>
+license: public domain (U.S.)
+...

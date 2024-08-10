@@ -1,0 +1,248 @@
+CIA - The World Factbook -- Austria
+
+| Geography | Austria |
+| --- | --- |
+| Location: | Central Europe, north of Italy and Slovenia |
+| Geographic coordinates: | 47 20 N, 13 20 E |
+| Map references: | Europe |
+| Area: | total: 83,870 sq km |
+| | land: 82,444 sq km |
+| | water: 1,426 sq km |
+| Area - comparative: | slightly smaller than Maine |
+| Land boundaries: | total: 2,562 km |
+| | border countries: Czech Republic 362 km, Germany 784 km, Hungary 366 km, Italy 430 km, Liechtenstein 35 km, Slovakia 91 km, Slovenia 330 km, Switzerland 164 km |
+| Coastline: | 0 km (landlocked) |
+| Maritime claims: | none (landlocked) |
+| Climate: | temperate; continental, cloudy; cold winters with frequent rain and some snow in lowlands and snow in mountains; moderate summers with occasional showers |
+| Terrain: | in the west and south mostly mountains (Alps); along the eastern and northern margins mostly flat or gently sloping |
+| Elevation extremes: | lowest point: Neusiedler See 115 m |
+| | highest point: Grossglockner 3,798 m |
+| Natural resources: | oil, coal, lignite, timber, iron ore, copper, zinc, antimony, magnesite, tungsten, graphite, salt, hydropower |
+| Land use: | arable land: 16.59% |
+| | permanent crops: 0.85% |
+| | other: 82.56% (2005) |
+| Irrigated land: | 40 sq km (2003) |
+| Total renewable water resources: | 84 cu km (2005) |
+| Freshwater withdrawal (domestic/industrial/agricultural): | total: 3.67 cu km/yr (35%/64%/1%) |
+| | per capita: 448 cu m/yr (1999) |
+| Natural hazards: | landslides; avalanches; earthquakes |
+| Environment - current issues: | some forest degradation caused by air and soil pollution; soil pollution results from the use of agricultural chemicals; air pollution results from emissions by coal- and oil-fired power stations and industrial plants and from trucks transiting Austria between northern and southern Europe |
+| Environment - international agreements: | party to: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling |
+| | signed, but not ratified: none of the selected agreements |
+| Geography - note: | landlocked; strategic location at the crossroads of central Europe with many easily traversable Alpine passes and valleys; major river is the Danube; population is concentrated on eastern lowlands because of steep slopes, poor soils, and low temperatures elsewhere |
+
+| People | Austria |
+| --- | --- |
+| Population: | 8,205,533 (July 2008 est.) |
+| Age structure: | 0-14 years: 14.8% (male 621,326/female 592,131) |
+| | 15-64 years: 67.5% (male 2,783,531/female 2,753,389) |
+| | 65 years and over: 17.7% (male 599,415/female 855,741) (2008 est.) |
+| Median age: | total: 41.7 years |
+| | male: 40.7 years |
+| | female: 42.8 years (2008 est.) |
+| Population growth rate: | 0.064% (2008 est.) |
+| Birth rate: | 8.66 births/1,000 population (2008 est.) |
+| Death rate: | 9.91 deaths/1,000 population (2008 est.) |
+| Net migration rate: | 1.88 migrant(s)/1,000 population (2008 est.) |
+| Sex ratio: | at birth: 1.05 male(s)/female |
+| | under 15 years: 1.05 male(s)/female |
+| | 15-64 years: 1.01 male(s)/female |
+| | 65 years and over: 0.7 male(s)/female |
+| | total population: 0.95 male(s)/female (2008 est.) |
+| Infant mortality rate: | total: 4.48 deaths/1,000 live births |
+| | male: 5.48 deaths/1,000 live births |
+| | female: 3.44 deaths/1,000 live births (2008 est.) |
+| Life expectancy at birth: | total population: 79.36 years |
+| | male: 76.46 years |
+| | female: 82.41 years (2008 est.) |
+| Total fertility rate: | 1.38 children born/woman (2008 est.) |
+| HIV/AIDS - adult prevalence rate: | 0.3% (2003 est.) |
+| HIV/AIDS - people living with HIV/AIDS: | 10,000 (2003 est.) |
+| HIV/AIDS - deaths: | fewer than 100 (2003 est.) |
+| Nationality: | noun: Austrian(s) |
+| | adjective: Austrian |
+| Ethnic groups: | Austrians 91.1%, former Yugoslavs 4% (includes Croatians, Slovenes, Serbs, and Bosniaks), Turks 1.6%, German 0.9%, other or unspecified 2.4% (2001 census) |
+| Religions: | Roman Catholic 73.6%, Protestant 4.7%, Muslim 4.2%, other 3.5%, unspecified 2%, none 12% (2001 census) |
+| Languages: | German (official nationwide) 88.6%, Turkish 2.3%, Serbian 2.2%, Croatian (official in Burgenland) 1.6%, other (includes Slovene, official in Carinthia, and Hungarian, official in Burgenland) 5.3% (2001 census) |
+| Literacy: | definition: age 15 and over can read and write |
+| | total population: 98% |
+| | male: NA |
+| | female: NA |
+| School life expectancy (primary to tertiary education): | total: 15 years |
+| | male: 15 years |
+| | female: 16 years (2006) |
+| Education expenditures: | 5.4% of GDP (2005) |
+
+| Government | Austria |
+| --- | --- |
+| Country name: | conventional long form: Republic of Austria |
+| | conventional short form: Austria |
+| | local long form: Republik Oesterreich |
+| | local short form: Oesterreich |
+| Government type: | federal republic |
+| Capital: | name: Vienna |
+| | geographic coordinates: 48 12 N, 16 22 E |
+| | time difference: UTC+1 (6 hours ahead of Washington, DC during Standard Time) |
+| | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 9 states (Bundeslaender, singular - Bundesland); Burgenland, Kaernten (Carinthia), Niederoesterreich (Lower Austria), Oberoesterreich (Upper Austria), Salzburg, Steiermark (Styria), Tirol (Tyrol), Vorarlberg, Wien (Vienna) |
+| Independence: | 976 (Margravate of Austria established); 17 September 1156 (Duchy of Austria founded); 11 August 1804 (Austrian Empire proclaimed); 12 November 1918 (republic proclaimed) |
+| National holiday: | National Day, 26 October (1955); note - commemorates the passage of the law on permanent neutrality |
+| Constitution: | 1920; revised 1929; reinstated 1 May 1945; note - during the period 1 May 1934-1 May 1945 there was a fascist (corporative) constitution in place |
+| Legal system: | civil law system with Roman law origin; judicial review of legislative acts by the Constitutional Court; separate administrative and civil/penal supreme courts; accepts compulsory ICJ jurisdiction |
+| Suffrage: | 16 years of age; universal; note - reduced from 18 years of age in 2007 |
+| Executive branch: | chief of state: President Heinz FISCHER (SPOe) (since 8 July 2004) |
+| | head of government: Chancellor Werner FAYMANN (SPOe) (since 2 December 2008); Vice Chancellor Josef PROELL (OeVP) (since 2 December 2008) |
+| | cabinet: Council of Ministers chosen by the president on the advice of the chancellor |
+| | elections: president elected by direct popular vote for a six-year term (eligible for a second term); presidential election last held 25 April 2004 (next to be held in April 2010); chancellor formally chosen by the president but determined by the coalition parties forming a parliamentary majority; vice chancellor chosen by the president on the advice of the chancellor |
+| | election results: Heinz FISCHER elected president; percent of vote - Heinz FISCHER 52.4%, Benita FERRERO-WALDNER 47.6% |
+| | note: government coalition - SPOe and OeVP |
+| Legislative branch: | bicameral Federal Assembly or Bundesversammlung consists of Federal Council or Bundesrat (62 seats; members chosen by state parliaments with each state receiving 3 to 12 members according to its population; members serve a five- or six-year term) and the National Council or Nationalrat (183 seats; members elected by direct popular vote to serve five-year terms) |
+| | elections: National Council - last held 28 September 2008 (next to be held by September 2013) |
+| | election results: National Council - percent of vote by party - SPOe 29.3%, OeVP 26%, FPOe 17.5%, BZOe 10.7%, Greens 10.4%, other 6.1%; seats by party - SPOe 57, OeVP 51, FPOe 34, BZOe 21, Greens 20 |
+| Judicial branch: | Supreme Judicial Court or Oberster Gerichtshof; Administrative Court or Verwaltungsgerichtshof; Constitutional Court or Verfassungsgerichtshof |
+| Political parties and leaders: | Alliance for the Future of Austria or BZOe [Stefan PETZNER]; Austrian People's Party or OeVP [Wilhelm MOLTERER]; Freedom Party of Austria or FPOe [Heinz Christian STRACHE]; Social Democratic Party of Austria or SPOe [Werner FAYMANN]; The Greens [Alexander VAN DER BELLEN] |
+| Political pressure groups and leaders: | Austrian Trade Union Federation or OeGB (nominally independent but primarily Social Democratic); Federal Economic Chamber; OeVP-oriented Association of Austrian Industrialists or IV; Roman Catholic Church, including its chief lay organization, Catholic Action |
+| | other: three composite leagues of the Austrian People's Party or OeVP representing business, labor, farmers, and other nongovernment organizations in the areas of environment and human rights |
+| International organization participation: | ACCT (observer), ADB (nonregional members), AfDB (nonregional members), Australia Group, BIS, BSEC (observer), CE, CEI, CERN, EAPC, EBRD, EIB, EMU, ESA, EU, FAO, G-9, IADB, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, MINURSO, NAM (guest), NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, Paris Club, PCA, PFP, Schengen Convention, SECI (observer), UN, UNCTAD, UNDOF, UNESCO, UNFICYP, UNHCR, UNIDO, UNOMIG, UNTSO, UNWTO, UPU, WCL, WCO, WEU (observer), WFTU, WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador (vacant); Deputy Chief of Mission Andreas Riecken |
+| | chancery: 3524 International Court NW, Washington, DC 20008-3035 |
+| | telephone: [1] (202) 895-6700 |
+| | FAX: [1] (202) 895-6750 |
+| | consulate(s) general: Chicago, Los Angeles, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador David F. GIRARD-DICARLO |
+| | embassy: Boltzmanngasse 16, A-1090, Vienna |
+| | mailing address: use embassy street address |
+| | telephone: [43] (1) 31339-0 |
+| | FAX: [43] (1) 3100682 |
+| Flag description: | three equal horizontal bands of red (top), white, and red |
+
+| Economy | Austria |
+| --- | --- |
+| Economy - overview: | Austria, with its well-developed market economy and high standard of living, is closely tied to other EU economies, especially Germany's. The Austrian economy also benefits greatly from strong commercial relations, especially in the banking and insurance sectors, with central, eastern, and southeastern Europe. The economy features a large service sector, a sound industrial sector, and a small, but highly developed agricultural sector. Membership in the EU has drawn an influx of foreign investors attracted by Austria's access to the single European market and proximity to the new EU economies. The outgoing government has successfully pursued a comprehensive economic reform program, aimed at streamlining government and creating a more competitive business environment, further strengthening Austria's attractiveness as an investment location. It has implemented effective pension reforms; however, lower taxes in 2005-06 led to a small budget deficit in 2006 and 2007. Boosted by strong exports, growth nevertheless reached 3.3% in both 2006 and 2007, although the economy may slow in 2008 because of the strong euro, high oil prices, and problems in international financial markets. To meet increased competition - especially from new EU members and Central European countries - Austria will need to continue restructuring, emphasizing knowledge-based sectors of the economy, and encouraging greater labor flexibility and greater labor participation by its aging population. |
+| GDP (purchasing power parity): | $322 billion (2007 est.) |
+| GDP (official exchange rate): | $373.9 billion (2007 est.) |
+| GDP - real growth rate: | 3.1% (2007 est.) |
+| GDP - per capita (PPP): | $39,300 (2007 est.) |
+| GDP - composition by sector: | agriculture: 1.6% |
+| | industry: 30.3% |
+| | services: 68% (2007 est.) |
+| Labor force: | 3.566 million (2007 est.) |
+| Labor force - by occupation: | agriculture: 3% |
+| | industry: 27% |
+| | services: 70% (2005 est.) |
+| Unemployment rate: | 4.4% (2007 est.) |
+| Population below poverty line: | 5.9% (2004) |
+| Household income or consumption by percentage share: | lowest 10%: 3.3% |
+| | highest 10%: 22.5% (2004) |
+| Distribution of family income - Gini index: | 26 (2005) |
+| Investment (gross fixed): | 20.6% of GDP (2007 est.) |
+| Budget: | revenues: $177.5 billion |
+| | expenditures: $179.9 billion (2007 est.) |
+| Fiscal year: | calendar year |
+| Public debt: | 59.1% of GDP (2007 est.) |
+| Inflation rate (consumer prices): | 2.2% (2007 est.) |
+| Commercial bank prime lending rate: | 6.3% (31 December 2007) |
+| Stock of money: | NA |
+| | note: see entry for the European Union for money supply in the Euro Area; the European Central Bank (ECB) controls monetary policy for the 15 members of the Economic and Monetary Union (EMU); individual members of the EMU do not control the quantity of money and quasi money circulating within their own borders |
+| Stock of quasi money: | NA |
+| Stock of domestic credit: | $599.5 billion (31 December 2007) |
+| Agriculture - products: | grains, potatoes, sugar beets, wine, fruit; dairy products, cattle, pigs, poultry; lumber |
+| Industries: | construction, machinery, vehicles and parts, food, metals, chemicals, lumber and wood processing, paper and paperboard, communications equipment, tourism |
+| Industrial production growth rate: | 5.7% (2007 est.) |
+| Electricity - production: | 59.31 billion kWh (2007 est.) |
+| Electricity - consumption: | 62.35 billion kWh (2006 est.) |
+| Electricity - exports: | 15.51 billion kWh (2007 est.) |
+| Electricity - imports: | 22.13 billion kWh (2007 est.) |
+| Electricity - production by source: | fossil fuel: 29.3% |
+| | hydro: 67.2% |
+| | nuclear: 0% |
+| | other: 3.5% (2001) |
+| Oil - production: | 24,920 bbl/day (2007 est.) |
+| Oil - consumption: | 289,400 bbl/day (2007 est.) |
+| Oil - exports: | 46,300 bbl/day (2005) |
+| Oil - imports: | 313,500 bbl/day (2005) |
+| Oil - proved reserves: | 50 million bbl (1 January 2008 est.) |
+| Natural gas - production: | 1.848 billion cu m (2007 est.) |
+| Natural gas - consumption: | 8.436 billion cu m (2007 est.) |
+| Natural gas - exports: | 2.767 billion cu m (2007 est.) |
+| Natural gas - imports: | 9.658 billion cu m (2007 est.) |
+| Natural gas - proved reserves: | 16.14 billion cu m (1 January 2008 est.) |
+| Current account balance: | $12.03 billion (2007 est.) |
+| Exports: | $162.1 billion f.o.b. (2007 est.) |
+| Exports - commodities: | machinery and equipment, motor vehicles and parts, paper and paperboard, metal goods, chemicals, iron and steel, textiles, foodstuffs |
+| Exports - partners: | Germany 29.8%, Italy 8.8%, US 4.9%, Switzerland 4.3% (2007) |
+| Imports: | $160.3 billion f.o.b. (2007 est.) |
+| Imports - commodities: | machinery and equipment, motor vehicles, chemicals, metal goods, oil and oil products; foodstuffs |
+| Imports - partners: | Germany 45.5%, Italy 7.1%, Switzerland 5%, Netherlands 4.3% (2007) |
+| Economic aid - donor: | ODA, $1.498 billion (2006) |
+| Reserves of foreign exchange and gold: | $18.22 billion (2006 est.) |
+| Debt - external: | $752.5 billion (30 June 2007) |
+| Stock of direct foreign investment - at home: | $222.9 billion (2007 est.) |
+| Stock of direct foreign investment - abroad: | $208.1 billion (2007 est.) |
+| Market value of publicly traded shares: | $126.3 billion (2005) |
+| Currency (code): | euro (EUR) |
+| Currency code: | EUR |
+| Exchange rates: | euros (EUR) per US dollar - 0.7345 (2007), 0.7964 (2006), 0.8041 (2005), 0.8054 (2004), 0.886 (2003) |
+
+| Communications | Austria |
+| --- | --- |
+| Telephones - main lines in use: | 3.374 million (2007) |
+| Telephones - mobile cellular: | 9.768 million (2007) |
+| Telephone system: | general assessment: highly developed and efficient |
+| | domestic: fixed-line subscribership has been in decline since the mid-1990s with mobile-cellular subscribership eclipsing it by the late 1990s; the fiber-optic net is very extensive; all telephone applications and Internet services are available |
+| | international: country code - 43; satellite earth stations - 15; in addition, there are about 600 VSATs (very small aperture terminals) (2007) |
+| Radio broadcast stations: | AM 2, FM 65 (plus several hundred repeaters), shortwave 1 (2001) |
+| Radios: | 6.08 million (1997) |
+| Television broadcast stations: | 10 (plus more than 1,000 repeaters) (2001) |
+| Televisions: | 4.25 million (1997) |
+| Internet country code: | .at |
+| Internet hosts: | 2.806 million (2008) |
+| Internet Service Providers (ISPs): | 37 (2000) |
+| Internet users: | 4.277 million (2007) |
+
+| Transportation | Austria |
+| --- | --- |
+| Airports: | 55 (2007) |
+| Airports - with paved runways: | total: 25 |
+| | over 3,047 m: 1 |
+| | 2,438 to 3,047 m: 5 |
+| | 1,524 to 2,437 m: 1 |
+| | 914 to 1,523 m: 3 |
+| | under 914 m: 15 (2007) |
+| Airports - with unpaved runways: | total: 30 |
+| | 1,524 to 2,437 m: 1 |
+| | 914 to 1,523 m: 3 |
+| | under 914 m: 26 (2007) |
+| Heliports: | 1 (2007) |
+| Pipelines: | gas 2,722 km; oil 663 km; refined products 157 km (2007) |
+| Railways: | total: 6,383 km |
+| | standard gauge: 5,924 km 1.435-m gauge (3,772 km electrified) |
+| | narrow gauge: 371 km 1.000-m gauge; 88 km 0.760-m gauge (25 km electrified) (2006) |
+| Roadways: | total: 107,262 km |
+| | paved: 107,262 km (includes 1,677 km of expressways) (2006) |
+| Waterways: | 358 km (2007) |
+| Merchant marine: | total: 4 |
+| | by type: cargo 2, container 2 |
+| | foreign-owned: 2 (Netherlands 2) |
+| | registered in other countries: 4 (Cyprus 1, Malta 1, Saint Vincent and the Grenadines 2) (2008) |
+| Ports and terminals: | Enns, Krems, Linz, Vienna |
+
+| Military | Austria |
+| --- | --- |
+| Military branches: | Land Forces (KdoLdSK), Air Forces (KdoLuSK) |
+| Military service age and obligation: | 18-35 years of age for compulsory military service; 16 years of age for male or female voluntary service; service obligation 7 months of training, followed by an 8-year reserve obligation (2006) |
+| Manpower available for military service: | males age 16-49: 1,986,411 |
+| | females age 16-49: 1,944,834 (2008 est.) |
+| Manpower fit for military service: | males age 16-49: 1,617,385 |
+| | females age 16-49: 1,583,886 (2008 est.) |
+| Manpower reaching militarily significant age annually: | male: 50,869 |
+| | female: 48,246 (2008 est.) |
+| Military expenditures: | 0.9% of GDP (2005 est.) |
+
+| Transnational Issues | Austria |
+| --- | --- |
+| Disputes - international: | while threats of international legal action never materialized in 2007, 915,220 Austrians, with the support of the newly elected Freedom Party, signed a petition in January 2008, demanding that Austria block the Czech Republic's accession to the EU unless Prague closes its nuclear power plant in Temelin, bordering Austria |
+| Illicit drugs: | transshipment point for Southwest Asian heroin and South American cocaine destined for Western Europe; increasing consumption of European-produced synthetic drugs |
+
+---
+This page was last updated on 18 December, 2008                      

@@ -1,0 +1,29 @@
+Telephone Code: 886
+Local Emergency Phone - Ambulance: 119
+Local Emergency Phone - Fire: 119
+Local Emergency Phone - Police: 110
+Climate: Tropical; marine; rainy season during southwest monsoon (June to August); persistent and extensive cloudiness all year
+Currency (Code): New Taiwan dollars (TWD)
+Electricity: 110 V
+Voltage: 60 Hz
+Plug types(s): A, B
+Major Languages: Mandarin Chinese, Taiwanese (Min Nan), Hakka dialects, approximately 16 indigenous languages
+Major Religions: Buddhist 35.3%, Taoist 33.2%, Christian 3.9%, folk (includes Confucian) approximately 10%
+Time Difference: UTC+8 (13 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Taipei (includes Taipei 101, Chiang Kai-shek Memorial Hall, Longshan Temple, National Palace Museum, Shilin Night Market); Yangmingshan National Park; Chimei Museum; Kenting Street; Fo Guang Shan Buddha Museum
+Major Sports: Baseball, soccer, basketball, golf, softball
+Cultural Practices: Giving scissors, knives, or other cutting utensils as a gift traditionally indicates that you want to sever a relationship.
+Tipping Guidelines: A service charge of 10-15% is typically added in restaurants. Taxis do not require a tip.
+Souvenirs: Jade jewelry and other jade items; coral, agate, and other precious stone jewelry and decorative items; bamboo items; hand-tailored clothing; Seagrass items; glass figurines; ceramics/pottery; Chinese musical instruments; traditional dolls in costumes; hand-painted palace lanterns; lacquerware; teak furniture; replica antiques; teas; beauty products
+Traditional Cuisine: Beef Noodle Soup --- a soup made with beef, broth, vegetables, noodles, and spices and often served with seaweed and braised dried tofu
+
+---
+country: Taiwan
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Taiwan/travel-facts>
+license: public domain (U.S.)
+...

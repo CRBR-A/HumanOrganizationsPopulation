@@ -1,0 +1,234 @@
+CIA - The World Factbook --  GDP - per capita (PPP)   
+
+This entry shows GDP on a purchasing power parity basis divided by population as of 1 July for the same year.
+
+| Rank | country | GDP - per capita (PPP) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Qatar | $ 102,800 | 2012 est. |
+| 2 | Liechtenstein | $ 89,400 | 2009 est. |
+| 3 | Luxembourg | $ 80,700 | 2012 est. |
+| 4 | Macau | $ 74,900 | 2011 est. |
+| 5 | Bermuda | $ 69,900 | 2004 est. |
+| 6 | Singapore | $ 60,900 | 2012 est. |
+| 7 | Jersey | $ 57,000 | 2005 est. |
+| 8 | Falkland Islands (Islas Malvinas) | $ 55,400 | 2002 est. |
+| 9 | Norway | $ 55,300 | 2012 est. |
+| 10 | Hong Kong | $ 50,700 | 2012 est. |
+| 11 | Brunei | $ 50,500 | 2012 est. |
+| 12 | United States | $ 49,800 | 2012 est. |
+| 13 | United Arab Emirates | $ 49,000 | 2012 est. |
+| 14 | Switzerland | $ 45,300 | 2012 est. |
+| 15 | Guernsey | $ 44,600 | 2005 |
+| 16 | Kuwait | $ 43,800 | 2012 est. |
+| 17 | Cayman Islands | $ 43,800 | 2004 est. |
+| 18 | Gibraltar | $ 43,000 | 2006 est. |
+| 19 | Austria | $ 42,500 | 2012 est. |
+| 20 | Australia | $ 42,400 | 2012 est. |
+| 21 | Netherlands | $ 42,300 | 2012 est. |
+| 22 | Sweden | $ 41,700 | 2012 est. |
+| 23 | Ireland | $ 41,700 | 2012 est. |
+| 24 | Canada | $ 41,500 | 2012 est. |
+| 25 | Iceland | $ 39,400 | 2012 est. |
+| 26 | Germany | $ 39,100 | 2012 est. |
+| 27 | Taiwan | $ 38,500 | 2012 est. |
+| 28 | British Virgin Islands | $ 38,500 | 2004 est. |
+| 29 | Belgium | $ 38,100 | 2012 est. |
+| 30 | Denmark | $ 37,700 | 2012 est. |
+| 31 | Greenland | $ 37,400 | 2008 est. |
+| 32 | Andorra | $ 37,200 | 2011 est. |
+| 33 | United Kingdom | $ 36,700 | 2012 est. |
+| 34 | Finland | $ 36,500 | 2012 est. |
+| 35 | Japan | $ 36,200 | 2012 est. |
+| 36 | San Marino | $ 36,200 | 2009 |
+| 37 | France | $ 35,500 | 2012 est. |
+| 38 | Isle of Man | $ 35,000 | 2005 est. |
+| 39 | European Union | $ 34,500 | 2012 est. |
+| 40 | Korea, South | $ 32,400 | 2012 est. |
+| 41 | Israel | $ 32,200 | 2012 est. |
+| 42 | Bahamas, The | $ 31,300 | 2012 est. |
+| 43 | Faroe Islands | $ 30,500 | 2008 est. |
+| 44 | Spain | $ 30,400 | 2012 est. |
+| 45 | Italy | $ 30,100 | 2012 est. |
+| 46 | New Zealand | $ 28,800 | 2012 est. |
+| 47 | Slovenia | $ 28,600 | 2012 est. |
+| 48 | Oman | $ 28,500 | 2012 est. |
+| 49 | Bahrain | $ 28,200 | 2012 est. |
+| 50 | Czech Republic | $ 27,200 | 2012 est. |
+| 51 | Cyprus | $ 26,900 | 2012 est. |
+| 52 | Seychelles | $ 26,200 | 2012 est. |
+| 53 | Malta | $ 26,100 | 2012 est. |
+| 54 | Saudi Arabia | $ 25,700 | 2012 est. |
+| 55 | Barbados | $ 25,500 | 2012 est. |
+| 56 | Greece | $ 25,100 | 2012 est. |
+| 57 | Slovakia | $ 24,300 | 2012 est. |
+| 58 | Portugal | $ 23,000 | 2012 est. |
+| 59 | Aruba | $ 21,800 | 2004 est. |
+| 60 | Estonia | $ 21,200 | 2012 est. |
+| 61 | Poland | $ 21,000 | 2012 est. |
+| 62 | Trinidad and Tobago | $ 20,400 | 2012 est. |
+| 63 | Equatorial Guinea | $ 20,200 | 2012 est. |
+| 64 | Lithuania | $ 20,100 | 2012 est. |
+| 65 | Hungary | $ 19,800 | 2012 est. |
+| 66 | Chile | $ 18,400 | 2012 est. |
+| 67 | Argentina | $ 18,200 | 2012 est. |
+| 68 | Latvia | $ 18,100 | 2012 est. |
+| 69 | Croatia | $ 18,100 | 2012 est. |
+| 70 | French Polynesia | $ 18,000 | 2004 est. |
+| 71 | Russia | $ 17,700 | 2012 est. |
+| 72 | Antigua and Barbuda | $ 17,500 | 2012 est. |
+| 73 | Gabon | $ 17,300 | 2012 est. |
+| 74 | Malaysia | $ 16,900 | 2012 est. |
+| 75 | Botswana | $ 16,800 | 2012 est. |
+| 76 | Puerto Rico | $ 16,300 | 2010 est. |
+| 77 | Belarus | $ 16,000 | 2012 est. |
+| 78 | Lebanon | $ 15,900 | 2012 est. |
+| 79 | Uruguay | $ 15,800 | 2012 est. |
+| 80 | Mauritius | $ 15,600 | 2012 est. |
+| 81 | Saint Kitts and Nevis | $ 15,500 | 2012 est. |
+| 82 | Sint Maarten | $ 15,400 | 2008 est. |
+| 83 | Panama | $ 15,300 | 2012 est. |
+| 84 | Mexico | $ 15,300 | 2012 est. |
+| 85 | New Caledonia | $ 15,000 | 2003 est. |
+| 86 | Guam | $ 15,000 | 2005 est. |
+| 87 | Curacao | $ 15,000 | 2004 est. |
+| 88 | Turkey | $ 15,000 | 2012 est. |
+| 89 | Dominica | $ 14,600 | 2012 est. |
+| 90 | Virgin Islands | $ 14,500 | 2004 est. |
+| 91 | Bulgaria | $ 14,200 | 2012 est. |
+| 92 | Grenada | $ 14,100 | 2012 est. |
+| 93 | Kazakhstan | $ 13,900 | 2012 est. |
+| 94 | Saint Lucia | $ 13,300 | 2012 est. |
+| 95 | Libya | $ 13,300 | 2012 est. |
+| 96 | Venezuela | $ 13,200 | 2012 est. |
+| 97 | Iran | $ 13,100 | 2012 est. |
+| 98 | Romania | $ 12,800 | 2012 est. |
+| 99 | Costa Rica | $ 12,600 | 2012 est. |
+| 100 | Northern Mariana Islands | $ 12,500 | 2000 est. |
+| 101 | Suriname | $ 12,300 | 2012 est. |
+| 102 | Anguilla | $ 12,200 | 2008 est. |
+| 103 | Brazil | $ 12,000 | 2012 est. |
+| 104 | Saint Vincent and the Grenadines | $ 11,900 | 2012 est. |
+| 105 | Montenegro | $ 11,700 | 2012 est. |
+| 106 | Turks and Caicos Islands | $ 11,500 | 2002 est. |
+| 107 | South Africa | $ 11,300 | 2012 est. |
+| 108 | Macedonia | $ 10,700 | 2012 est. |
+| 109 | Colombia | $ 10,700 | 2012 est. |
+| 110 | Azerbaijan | $ 10,700 | 2012 est. |
+| 111 | Peru | $ 10,700 | 2012 est. |
+| 112 | Serbia | $ 10,500 | 2012 est. |
+| 113 | Thailand | $ 10,000 | 2012 est. |
+| 114 | Cuba | $ 9,900 | 2010 est. |
+| 115 | Tunisia | $ 9,700 | 2012 est. |
+| 116 | Dominican Republic | $ 9,600 | 2012 est. |
+| 117 | Timor-Leste | $ 9,500 | 2012 est. |
+| 118 | China | $ 9,100 | 2012 est. |
+| 119 | Jamaica | $ 9,100 | 2012 est. |
+| 120 | Cook Islands | $ 9,100 | 2005 est. |
+| 121 | Ecuador | $ 8,800 | 2012 est. |
+| 122 | Maldives | $ 8,700 | 2012 est. |
+| 123 | Turkmenistan | $ 8,500 | 2012 est. |
+| 124 | Montserrat | $ 8,500 | 2006 est. |
+| 125 | Belize | $ 8,400 | 2012 est. |
+| 126 | Bosnia and Herzegovina | $ 8,300 | 2012 est. |
+| 127 | Palau | $ 8,100 | 2008 est. |
+| 128 | Albania | $ 8,000 | 2012 est. |
+| 129 | Guyana | $ 8,000 | 2012 est. |
+| 130 | American Samoa | $ 8,000 | 2007 est. |
+| 131 | Namibia | $ 7,800 | 2012 est. |
+| 132 | El Salvador | $ 7,700 | 2012 est. |
+| 133 | Ukraine | $ 7,600 | 2012 est. |
+| 134 | Algeria | $ 7,500 | 2012 est. |
+| 135 | Tonga | $ 7,500 | 2012 est. |
+| 136 | Kosovo | $ 7,400 | 2011 est. |
+| 137 | Saint Pierre and Miquelon | $ 7,000 | 2001 est. |
+| 138 | Egypt | $ 6,600 | 2012 est. |
+| 139 | Bhutan | $ 6,500 | 2012 est. |
+| 140 | Angola | $ 6,200 | 2012 est. |
+| 141 | Samoa | $ 6,200 | 2012 est. |
+| 142 | Sri Lanka | $ 6,100 | 2012 est. |
+| 143 | Paraguay | $ 6,100 | 2012 est. |
+| 144 | Jordan | $ 6,000 | 2012 est. |
+| 145 | Kiribati | $ 5,900 | 2012 est. |
+| 146 | Georgia | $ 5,900 | 2012 est. |
+| 147 | Niue | $ 5,800 | 2003 est. |
+| 148 | Armenia | $ 5,600 | 2012 est. |
+| 149 | Mongolia | $ 5,400 | 2012 est. |
+| 150 | Swaziland | $ 5,300 | 2012 est. |
+| 151 | Morocco | $ 5,300 | 2012 est. |
+| 152 | Guatemala | $ 5,200 | 2012 est. |
+| 153 | Syria | $ 5,100 | 2011 est. |
+| 154 | Nauru | $ 5,000 | 2005 est. |
+| 155 | Indonesia | $ 5,000 | 2012 est. |
+| 156 | Bolivia | $ 5,000 | 2012 est. |
+| 157 | Vanuatu | $ 4,900 | 2012 est. |
+| 158 | Fiji | $ 4,800 | 2012 est. |
+| 159 | Congo, Republic of the | $ 4,700 | 2012 est. |
+| 160 | Iraq | $ 4,600 | 2012 est. |
+| 161 | Honduras | $ 4,600 | 2012 est. |
+| 162 | Philippines | $ 4,300 | 2012 est. |
+| 163 | Cape Verde | $ 4,100 | 2012 est. |
+| 164 | India | $ 3,900 | 2012 est. |
+| 165 | Wallis and Futuna | $ 3,800 | 2004 est. |
+| 166 | Moldova | $ 3,500 | 2012 est. |
+| 167 | Vietnam | $ 3,500 | 2012 est. |
+| 168 | Uzbekistan | $ 3,500 | 2012 est. |
+| 169 | Solomon Islands | $ 3,400 | 2012 est. |
+| 170 | Nicaragua | $ 3,300 | 2012 est. |
+| 171 | Ghana | $ 3,300 | 2012 est. |
+| 172 | Tuvalu | $ 3,300 | 2012 est. |
+| 173 | Laos | $ 3,000 | 2012 est. |
+| 174 | West Bank | $ 2,900 | 2008 est. |
+| 175 | Pakistan | $ 2,900 | 2012 est. |
+| 176 | Nigeria | $ 2,700 | 2012 est. |
+| 177 | Djibouti | $ 2,700 | 2012 est. |
+| 178 | Papua New Guinea | $ 2,700 | 2012 est. |
+| 179 | Saint Helena, Ascension, and Tristan da Cunha | $ 2,500 | 1998 est. |
+| 180 | Marshall Islands | $ 2,500 | 2008 est. |
+| 181 | Western Sahara | $ 2,500 | 2007 est. |
+| 182 | Sudan | $ 2,400 | 2012 est. |
+| 183 | Kyrgyzstan | $ 2,400 | 2012 est. |
+| 184 | Cambodia | $ 2,400 | 2012 est. |
+| 185 | Cameroon | $ 2,300 | 2012 est. |
+| 186 | Sao Tome and Principe | $ 2,300 | 2012 est. |
+| 187 | Tajikistan | $ 2,200 | 2012 est. |
+| 188 | Yemen | $ 2,200 | 2012 est. |
+| 189 | Micronesia, Federated States of | $ 2,200 | 2008 est. |
+| 190 | Mauritania | $ 2,100 | 2012 est. |
+| 191 | Chad | $ 2,000 | 2012 est. |
+| 192 | Bangladesh | $ 2,000 | 2012 est. |
+| 193 | Lesotho | $ 2,000 | 2012 est. |
+| 194 | Gambia, The | $ 1,900 | 2012 est. |
+| 195 | Senegal | $ 1,900 | 2012 est. |
+| 196 | Kenya | $ 1,800 | 2012 est. |
+| 197 | Korea, North | $ 1,800 | 2011 est. |
+| 198 | Tanzania | $ 1,700 | 2012 est. |
+| 199 | Cote d'Ivoire | $ 1,700 | 2012 est. |
+| 200 | Benin | $ 1,700 | 2012 est. |
+| 201 | Zambia | $ 1,700 | 2012 est. |
+| 202 | Burma | $ 1,400 | 2012 est. |
+| 203 | Burkina Faso | $ 1,400 | 2012 est. |
+| 204 | Rwanda | $ 1,400 | 2012 est. |
+| 205 | Sierra Leone | $ 1,400 | 2012 est. |
+| 206 | Uganda | $ 1,400 | 2012 est. |
+| 207 | Nepal | $ 1,300 | 2012 est. |
+| 208 | Haiti | $ 1,300 | 2012 est. |
+| 209 | Comoros | $ 1,300 | 2012 est. |
+| 210 | Ethiopia | $ 1,200 | 2012 est. |
+| 211 | Mozambique | $ 1,200 | 2012 est. |
+| 212 | Togo | $ 1,100 | 2012 est. |
+| 213 | Mali | $ 1,100 | 2012 est. |
+| 214 | Guinea-Bissau | $ 1,100 | 2012 est. |
+| 215 | Guinea | $ 1,100 | 2012 est. |
+| 216 | Tokelau | $ 1,000 | 1993 est. |
+| 217 | Afghanistan | $ 1,000 | 2012 est. |
+| 218 | Madagascar | $ 1,000 | 2012 est. |
+| 219 | Niger | $ 900 | 2012 est. |
+| 220 | Malawi | $ 900 | 2012 est. |
+| 221 | South Sudan | $ 900 | 2012 est. |
+| 222 | Eritrea | $ 800 | 2012 est. |
+| 223 | Central African Republic | $ 800 | 2012 est. |
+| 224 | Liberia | $ 700 | 2012 est. |
+| 225 | Somalia | $ 600 | 2010 est. |
+| 226 | Burundi | $ 600 | 2012 est. |
+| 227 | Zimbabwe | $ 500 | 2012 est. |
+| 228 | Congo, Democratic Republic of the | $ 400 | 2012 est. |

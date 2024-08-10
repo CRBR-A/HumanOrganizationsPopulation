@@ -1,0 +1,258 @@
+CIA - The World Factbook --  Refugees and internally displaced persons   
+
+| Rank | country | Refugees and internally displaced persons | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Syria | 6,500,000.00 | NA |
+| 2 | Sudan | 2,818,000.00 | NA |
+| 3 | Congo, Democratic Republic of the | 2,634,872.00 | NA |
+| 4 | Pakistan | 2,600,000.00 | NA |
+| 5 | Iran | 2,400,000.00 | NA |
+| 6 | Jordan | 2,070,973.00 | NA |
+| 7 | Iraq | 1,545,000.00 | NA |
+| 8 | Gaza Strip | 1,240,082.00 | NA |
+| 9 | Lebanon | 1,108,202.00 | NA |
+| 10 | South Sudan | 1,089,200.00 | NA |
+| 11 | Pakistan | 930,000.00 | NA |
+| 12 | Burma | 808,075.00 | NA |
+| 13 | Nepal | 800,000.00 | NA |
+| 14 | Turkey | 789,469.00 | NA |
+| 15 | West Bank | 754,411.00 | NA |
+| 16 | Cote d'Ivoire | 700,000.00 | NA |
+| 17 | Afghanistan | 667,158.00 | NA |
+| 18 | Burma | 640,900.00 | NA |
+| 19 | Azerbaijan | 597,429.00 | NA |
+| 20 | Jordan | 597,328.00 | NA |
+| 21 | Central African Republic | 542,400.00 | NA |
+| 22 | Syria | 517,255.00 | NA |
+| 23 | Thailand | 506,197.00 | NA |
+| 24 | Lebanon | 447,328.00 | NA |
+| 25 | Kenya | 426,750.00 | NA |
+| 26 | Kenya | 412,000.00 | NA |
+| 27 | Chad | 352,948.00 | NA |
+| 28 | Yemen | 309,823.00 | NA |
+| 29 | China | 300,896.00 | NA |
+| 30 | Latvia | 280,759.00 | NA |
+| 31 | Ethiopia | 244,956.00 | NA |
+| 32 | Yemen | 233,723.00 | NA |
+| 33 | Bangladesh | 231,125.00 | NA |
+| 34 | Iraq | 225,475.00 | NA |
+| 35 | Syria | 221,000.00 | NA |
+| 36 | South Sudan | 218,534.00 | NA |
+| 37 | Cyprus | 208,000.00 | 2012 |
+| 38 | Venezuela | 204,259.00 | NA |
+| 39 | Ethiopia | 191,303.00 | NA |
+| 40 | Cameroon | 184,536.00 | NA |
+| 41 | Russia | 178,000.00 | NA |
+| 42 | Kyrgyzstan | 172,000.00 | NA |
+| 43 | Uganda | 155,742.00 | NA |
+| 44 | Mali | 151,150.00 | NA |
+| 45 | Peru | 150,000.00 | 2013 est. |
+| 46 | Syria | 146,200.00 | NA |
+| 47 | Egypt | 137,916.00 | NA |
+| 48 | Uganda | 137,844.00 | NA |
+| 49 | Haiti | 137,000.00 | NA |
+| 50 | Ecuador | 122,276.00 | NA |
+| 51 | Iraq | 120,000.00 | NA |
+| 52 | Chad | 110,000.00 | NA |
+| 53 | Sudan | 109,640.00 | NA |
+| 54 | Bosnia and Herzegovina | 103,400.00 | NA |
+| 55 | India | 100,003.00 | NA |
+| 56 | Serbia | 97,300.00 | NA |
+| 57 | Estonia | 94,235.00 | NA |
+| 58 | Kuwait | 93,000.00 | NA |
+| 59 | Malaysia | 92,287.00 | NA |
+| 60 | Chad | 90,000.00 | NA |
+| 61 | China | 90,000.00 | NA |
+| 62 | Sudan | 85,705.00 | NA |
+| 63 | Kenya | 85,470.00 | NA |
+| 64 | Ethiopia | 84,271.00 | NA |
+| 65 | Thailand | 78,970.00 | NA |
+| 66 | Rwanda | 72,988.00 | NA |
+| 67 | Egypt | 70,026.00 | NA |
+| 68 | Saudi Arabia | 70,000.00 | NA |
+| 69 | India | 65,674.00 | NA |
+| 70 | Tanzania | 64,569.00 | NA |
+| 71 | Congo, Democratic Republic of the | 56,150.00 | NA |
+| 72 | Jordan | 55,509.00 | NA |
+| 73 | Mauritania | 52,647.00 | NA |
+| 74 | Niger | 49,770.00 | NA |
+| 75 | Burundi | 45,124.00 | NA |
+| 76 | Congo, Democratic Republic of the | 43,674.00 | NA |
+| 77 | Iran | 43,268.00 | NA |
+| 78 | Liberia | 42,026.00 | NA |
+| 79 | Serbia | 41,762.00 | NA |
+| 80 | Sudan | 41,666.00 | NA |
+| 81 | Ethiopia | 40,781.00 | NA |
+| 82 | Germany | 40,230.00 | NA |
+| 83 | Malaysia | 40,001.00 | NA |
+| 84 | Tanzania | 35,183.00 | NA |
+| 85 | Ukraine | 35,000.00 | NA |
+| 86 | Israel | 34,988.00 | NA |
+| 87 | Burkina Faso | 32,170.00 | NA |
+| 88 | Congo, Republic of the | 31,936.00 | NA |
+| 89 | Nepal | 29,813.00 | NA |
+| 90 | Kenya | 29,723.00 | NA |
+| 91 | Mauritania | 26,001.00 | NA |
+| 92 | Germany | 24,449.00 | NA |
+| 93 | Germany | 24,203.00 | NA |
+| 94 | Sweden | 24,006.00 | NA |
+| 95 | France | 23,762.00 | NA |
+| 96 | Germany | 21,253.00 | NA |
+| 97 | Angola | 21,104.00 | NA |
+| 98 | Brunei | 21,009.00 | NA |
+| 99 | South Africa | 20,814.00 | NA |
+| 100 | Sweden | 20,613.00 | NA |
+| 101 | Kenya | 20,000.00 | NA |
+| 102 | Austria | 19,577.00 | NA |
+| 103 | Angola | 19,500.00 | NA |
+| 104 | United States | 19,488.00 | NA |
+| 105 | Djibouti | 19,168.00 | NA |
+| 106 | Netherlands | 18,799.00 | NA |
+| 107 | Uganda | 18,534.00 | NA |
+| 108 | Sweden | 17,984.00 | NA |
+| 109 | Togo | 17,746.00 | NA |
+| 110 | Canada | 17,381.00 | NA |
+| 111 | Kosovo | 17,300.00 | NA |
+| 112 | Germany | 17,150.00 | NA |
+| 113 | Honduras | 17,000.00 | NA |
+| 114 | Afghanistan | 16,825.00 | NA |
+| 115 | Libya | 16,796.00 | NA |
+| 116 | Congo, Republic of the | 16,750.00 | NA |
+| 117 | Zambia | 16,684.00 | NA |
+| 118 | Costa Rica | 16,586.00 | NA |
+| 119 | United States | 16,299.00 | NA |
+| 120 | Panama | 15,723.00 | NA |
+| 121 | Netherlands | 15,533.00 | NA |
+| 122 | Iraq | 15,496.00 | NA |
+| 123 | Kyrgyzstan | 15,473.00 | NA |
+| 124 | Canada | 15,344.00 | NA |
+| 125 | Serbia | 15,296.00 | NA |
+| 126 | Kenya | 15,290.00 | NA |
+| 127 | Poland | 15,149.00 | NA |
+| 128 | South Africa | 14,374.00 | NA |
+| 129 | South Sudan | 14,303.00 | NA |
+| 130 | Senegal | 13,703.00 | NA |
+| 131 | France | 13,513.00 | NA |
+| 132 | Turkey | 13,467.00 | NA |
+| 133 | Uganda | 13,376.00 | NA |
+| 134 | Switzerland | 13,106.00 | NA |
+| 135 | Egypt | 12,927.00 | NA |
+| 136 | Israel | 12,926.00 | NA |
+| 137 | Mali | 12,897.00 | NA |
+| 138 | France | 12,795.00 | NA |
+| 139 | Italy | 12,682.00 | NA |
+| 140 | France | 12,560.00 | NA |
+| 141 | Cameroon | 12,400.00 | NA |
+| 142 | Canada | 12,326.00 | NA |
+| 143 | Austria | 11,906.00 | NA |
+| 144 | France | 11,738.00 | NA |
+| 145 | Vietnam | 11,500.00 | NA |
+| 146 | United Kingdom | 11,368.00 | NA |
+| 147 | United Kingdom | 11,249.00 | NA |
+| 148 | India | 11,122.00 | NA |
+| 149 | Armenia | 11,090.00 | NA |
+| 150 | Central African Republic | 10,992.00 | NA |
+| 151 | France | 10,867.00 | NA |
+| 152 | Poland | 10,825.00 | NA |
+| 153 | Italy | 10,817.00 | NA |
+| 154 | Canada | 10,641.00 | NA |
+| 155 | Uganda | 10,578.00 | NA |
+| 156 | Sweden | 10,499.00 | NA |
+| 157 | India | 10,328.00 | NA |
+| 158 | United Kingdom | 10,302.00 | NA |
+| 159 | Niger | 10,044.00 | NA |
+| 160 | United Kingdom | 10,010.00 | NA |
+| 161 | Ukraine | 10,000.00 | NA |
+| 162 | Eritrea | 10,000.00 | NA |
+| 163 | Iraq | 9,992.00 | NA |
+| 164 | Congo, Democratic Republic of the | 9,762.00 | NA |
+| 165 | Sweden | 9,596.00 | NA |
+| 166 | Ghana | 9,567.00 | NA |
+| 167 | Papua New Guinea | 9,368.00 | NA |
+| 168 | Norway | 9,344.00 | NA |
+| 169 | Norway | 9,275.00 | NA |
+| 170 | United Kingdom | 9,166.00 | NA |
+| 171 | United States | 9,134.00 | NA |
+| 172 | Gambia, The | 9,025.00 | NA |
+| 173 | Sweden | 8,954.00 | NA |
+| 174 | Turkmenistan | 8,947.00 | NA |
+| 175 | Kenya | 8,769.00 | NA |
+| 176 | France | 8,528.00 | NA |
+| 177 | Serbia | 8,500.00 | NA |
+| 178 | Congo, Republic of the | 8,496.00 | NA |
+| 179 | Guinea-Bissau | 8,445.00 | NA |
+| 180 | Germany | 8,410.00 | NA |
+| 181 | Armenia | 8,400.00 | NA |
+| 182 | Australia | 8,368.00 | NA |
+| 183 | Iraq | 7,992.00 | NA |
+| 184 | Canada | 7,872.00 | NA |
+| 185 | Congo, Republic of the | 7,800.00 | NA |
+| 186 | United States | 7,608.00 | NA |
+| 187 | South Africa | 7,578.00 | NA |
+| 188 | Albania | 7,443.00 | NA |
+| 189 | France | 7,261.00 | NA |
+| 190 | Belarus | 6,969.00 | NA |
+| 191 | Montenegro | 6,967.00 | NA |
+| 192 | Kazakhstan | 6,935.00 | NA |
+| 193 | Bosnia and Herzegovina | 6,709.00 | NA |
+| 194 | Italy | 6,695.00 | NA |
+| 195 | Canada | 6,512.00 | NA |
+| 196 | Guinea | 6,493.00 | 2013 |
+| 197 | Egypt | 6,316.00 | NA |
+| 198 | Netherlands | 6,269.00 | NA |
+| 199 | Kenya | 5,825.00 | NA |
+| 200 | Yemen | 5,740.00 | NA |
+| 201 | Germany | 5,683.00 | NA |
+| 202 | Norway | 5,679.00 | NA |
+| 203 | Malta | 5,543.00 | NA |
+| 204 | Norway | 5,523.00 | NA |
+| 205 | Egypt | 5,506.00 | NA |
+| 206 | South Sudan | 5,317.00 | NA |
+| 207 | Ghana | 5,249.00 | NA |
+| 208 | France | 5,101.00 | NA |
+| 209 | Bosnia and Herzegovina | 4,500.00 | NA |
+| 210 | United States | 4,205.00 | NA |
+| 211 | Lithuania | 4,130.00 | NA |
+| 212 | Belgium | 3,898.00 | NA |
+| 213 | Denmark | 3,623.00 | NA |
+| 214 | Azerbaijan | 3,585.00 | NA |
+| 215 | Montenegro | 3,383.00 | NA |
+| 216 | Croatia | 2,886.00 | NA |
+| 217 | United States | 2,578.00 | NA |
+| 218 | Norway | 2,313.00 | NA |
+| 219 | Tajikistan | 2,300.00 | NA |
+| 220 | Finland | 2,017.00 | NA |
+| 221 | Netherlands | 2,005.00 | NA |
+| 222 | Moldova | 1,998.00 | NA |
+| 223 | United States | 1,824.00 | NA |
+| 224 | Slovakia | 1,523.00 | NA |
+| 225 | Czech Republic | 1,502.00 | NA |
+| 226 | Burundi | 1,302.00 | NA |
+| 227 | France | 1,210.00 | NA |
+| 228 | Qatar | 1,200.00 | NA |
+| 229 | Georgia | 1,156.00 | NA |
+| 230 | Japan | 1,100.00 | NA |
+| 231 | Macedonia | 905.00 | NA |
+| 232 | Turkey | 780.00 | NA |
+| 233 | Portugal | 553.00 | NA |
+| 234 | Austria | 542.00 | NA |
+| 235 | Italy | 470.00 | NA |
+| 236 | Romania | 248.00 | NA |
+| 237 | Mongolia | 220.00 | NA |
+| 238 | United Kingdom | 205.00 | NA |
+| 239 | Korea, South | 179.00 | NA |
+| 240 | Luxembourg | 177.00 | NA |
+| 241 | Greece | 154.00 | NA |
+| 242 | Iceland | 119.00 | NA |
+| 243 | Hungary | 111.00 | NA |
+| 244 | Ireland | 73.00 | NA |
+| 245 | Switzerland | 69.00 | NA |
+| 246 | Egypt | 60.00 | NA |
+| 247 | Spain | 36.00 | NA |
+| 248 | Armenia | 35.00 | NA |
+| 249 | Israel | 14.00 | NA |
+| 250 | Colombia | 12.00 | NA |
+| 251 | Mexico | 7.00 | NA |
+| 252 | Liechtenstein | 5.00 | NA |
+
+

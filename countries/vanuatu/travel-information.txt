@@ -1,0 +1,27 @@
+Telephone Code: 678
+Local Emergency Phone: 112
+Climate: Tropical; moderated by southeast trade winds from May to October; moderate rainfall from November to April; may be affected by cyclones from December to April
+Currency (Code): Vatu (VUV)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): I
+Major Languages: Local languages (more than 100), Bislama (creole), English, French
+Major Religions: Protestant 70%, Roman Catholic 12.4%, customary beliefs 3.7% (including Jon Frum cult)
+Time Difference: UTC+11 (16 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: SS President Coolidge Dive Site; Millennium Cave; Nanda Blue Hole; Mount Yasur Volcano; Chief Roi Mata's Domain
+Major Sports: Soccer
+Cultural Practices: Vanuatu's standards of dress and behavior are conservative. Take care not to offend.
+Tipping Guidelines: Tipping is not encouraged. Instead tip with a smile and say "tank yu tumas". Ask the taxi driver for a rate before hopping in.
+Souvenirs: Wood carvings, shell and coconut handicrafts, liquor, sarongs
+Traditional Cuisine: Laplap --- various roots such as taro, yam, or breadfruit are pounded into a dough that is wrapped with leaves from the lap lap plant and cooked in an underground oven with spinach leaves, coconut cream, and pieces of chicken, pork, or corned beef
+
+---
+country: Vanuatu
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Vanuatu/travel-facts>
+license: public domain (U.S.)
+...

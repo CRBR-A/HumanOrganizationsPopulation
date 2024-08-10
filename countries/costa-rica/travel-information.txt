@@ -1,0 +1,27 @@
+Telephone Code: 506
+Local Emergency Phone: 911
+Climate: Tropical and subtropical; dry season (December to April); rainy season (May to November); cooler in highlands
+Currency (Code): Costa Rican colones (CRC)
+Electricity: 120 V
+Voltage: 60 Hz
+Plug types(s): A, B
+Major Languages: Spanish, English
+Major Religions: Roman Catholic 71.8%, Evangelical and Pentecostal 12.3%, other Protestant 2.6%, Jehovah's Witness 0.5%
+Time Difference: UTC-6 (1 hour behind Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested; additionally, if you plan to drive in Costa Rica, you will need an Inter-American Driving Permit issued by the AAA
+Road Driving Side: Right
+Tourist Destinations: Manuel Antonio National Park; Poas Volcano National Park; Arenal Volcano National Park; Monteverde and the Cloud Forests; Cocos Island; Tamarindo; Mal Pais and Santa Teresa; Tortuguero National Park
+Major Sports: Soccer, basketball
+Cultural Practices: Local Costa Ricans are loath to say "no," instead preferring "maybe." Keep in mind that a "maybe" is not an attempt to lie or mislead.
+Tipping Guidelines: Many restaurants will add a 10% service charge to the bill. If the service was good, you may leave a little extra for the server. It is standard to leave 500 CR (or $1 USD) per drink at bars. Tip tour guides between $10-15 (USD) per person depending on the size of the tour. Give $1-5 (USD) for taxi drivers depending on the distance. Round up for shorter distances. It is considerate to tip bellhops $1 (USD) per bag and leave $2 (USD) per day for housekeeping.
+Souvenirs: Coffee, hammocks, ceramic and wood bowls, wooden macaw statues and other carved items, leather rocking chairs, handmade earrings and threaded necklaces
+Traditional Cuisine: Gallo Pinto --- kidney or black beans or pigeon peas and rice cooked together and mixed with Lizano sauce; often served as breakfast
+
+---
+country: Costa Rica
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Costa Rica/travel-facts>
+license: public domain (U.S.)
+...

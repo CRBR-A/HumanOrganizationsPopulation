@@ -1,0 +1,27 @@
+Telephone Code: 284
+Local Emergency Phone: 999 (British)
+Climate: Subtropical, tempered by easterly trade winds, relatively low humidity, little seasonal temperature variation; rainy season September to November
+Currency (Code): Dollar (USD)
+Electricity: 110 V
+Voltage: 60 Hz
+Plug types(s): A, B
+Major Languages: English
+Major Religions: Protestant 70.2%, Roman Catholic 8.9%, Jehovah's Witness 2.5%, Hindu 1.9%
+Time Difference: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Left
+Tourist Destinations: The Baths; Dolphin Discovery; Cane Garden Bay; Jost Van Dyke; Rhone National Marine Park
+Major Sports: Soccer, cricket, sailing
+Cultural Practices: Swimwear off the beach is frowned upon.
+Tipping Guidelines: Tipping 15-20% is customary in bars and restaurants. Tip the bellhop $1-2 per bag and housekeeping $2 per day.
+Souvenirs: Carved wooden and straw woven items, batik fabric, luxury items, rum, pottery, spices, handmade jewelry
+Traditional Cuisine: Fish and Fungi --- cornmeal and okra cooked into a thick mash served with fried whole fish seasoned Creole-style and topped with a sweet onion gravy
+
+---
+country: British Virgin Islands
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/British Virgin Islands/travel-facts>
+license: public domain (U.S.)
+...

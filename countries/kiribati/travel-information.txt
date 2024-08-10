@@ -1,0 +1,27 @@
+Telephone Code: 686
+Local Emergency Phone: 994
+Climate: Tropical; marine, hot and humid, moderated by trade winds
+Currency (Code): Australian dollars (AUD)
+Electricity: 240 V
+Voltage: 50 Hz
+Plug types(s): I
+Major Languages: I-Kiribati, English
+Major Religions: Roman Catholic 57.3%, Kiribati Uniting Church 31.3%, Mormon 5.3%, Baha'i 2.1%, Seventh Day Adventist 1.9%
+Time Difference: UTC+12 (17 hours ahead of Washington, DC, during Standard Time); note: Kiribati has three time zones: the Gilbert Islands group at UTC+12, the Phoenix Islands at UTC+13, and the Line Islands at UTC+14
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested; if a longer stay is in your plans, you will need to get a Kiribati driving license.
+Road Driving Side: Left
+Tourist Destinations: Christmas Island (Kiritimati); Tarawa Atoll (includes Betio Island)
+Major Sports: Soccer
+Cultural Practices: Your feet should never be close to someone's head. If you pass someone lying down, be sure to walk carefully around them, otherwise your action will be considered rude.
+Tipping Guidelines: Tipping is not customary, but a visitor's generosity will be much appreciated. A 10% service tax is added to all hotel bills.
+Souvenirs: Hand-smocked tops; beaded, sea shell, or wood jewelry; Pandanus leaf, coconut, or sea shell items; Gilbertese canoe and house models, shark-tooth items
+Traditional Cuisine: Palusami - wrapped bundles of taro leaves with a coconut-and-onion filling; sometimes also made with chicken or fish
+
+---
+country: Kiribati
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Kiribati/travel-facts>
+license: public domain (U.S.)
+...

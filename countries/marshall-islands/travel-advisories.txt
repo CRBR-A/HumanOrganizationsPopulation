@@ -1,0 +1,14 @@
+| Precautions | Exercise normal precautions in the Marshall Islands. |
+| | Consult the link below for updates to travel advisories and statements on safety, security, local laws, and special circumstances in this country. |
+| | <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html> |
+| Passport/Visa Requirements | US citizens should make sure their passport will not expire for at least 6 months after they enter the country even if they do not intend to stay that long. They should also make sure they have at least 1 blank page in their passport for any entry stamp that will be required. A visa is not required for US citizens. |
+| Vaccinations | Cholera vaccination is required for those travelling from an infected area. See WHO recommendations.  <http://www.who.int/> |
+| US Embassy/Consulate | (692) 247-4011; EMER: (692)-455 8213; US Embassy Majuro, Mejen Weto, Ocean Side, Majuro, Marshall Islands; MAJConsular@state.gov; https://mh.usembassy.gov/ |
+
+---
+country: Marshall Islands
+date: May 25, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Marshall Islands/travel-facts>
+license: public domain (U.S.)
+...

@@ -1,0 +1,238 @@
+CIA - The World Factbook --  Internet hosts   
+
+This entry lists the number of Internet hosts available within a country. An Internet host is a computer connected directly to the Internet; normally an Internet Service Provider's (ISP) computer is a host. Internet users may use either a hard-wired terminal, at an institution with a mainframe computer connected directly to the Internet, or may connect remotely by way of a modem via telephone line, cable, or satellite to the Internet Service Provider's host computer. The number of hosts is one indicator of the extent of Internet connectivity.
+
+| Rank | country | Internet hosts | Date of Information |
+| --- | --- | --- | --- |
+| 1 | United States | 383,000,000 | NA |
+| 2 | Japan | 47,249,000 | 2009 |
+| 3 | Germany | 23,796,000 | 2009 |
+| 4 | Italy | 22,152,000 | 2009 |
+| 5 | Brazil | 15,929,000 | 2009 |
+| 6 | France | 14,327,000 | 2009 |
+| 7 | China | 14,156,000 | 2009 |
+| 8 | Mexico | 12,716,000 | 2009 |
+| 9 | Netherlands | 12,388,000 | 2009 |
+| 10 | Australia | 11,756,000 | 2009 |
+| 11 | United Kingdom | 9,322,000 | 2009 |
+| 12 | Poland | 8,906,000 | 2009 |
+| 13 | Russia | 7,663,000 | 2009 |
+| 14 | Canada | 7,193,000 | 2009 |
+| 15 | Taiwan | 5,704,000 | 2009 |
+| 16 | Argentina | 4,906,000 | 2009 |
+| 17 | Belgium | 4,367,000 | 2009 |
+| 18 | Finland | 4,205,000 | 2009 |
+| 19 | Denmark | 3,991,000 | 2009 |
+| 20 | Sweden | 3,886,000 | 2009 |
+| 21 | Switzerland | 3,697,000 | 2009 |
+| 22 | India | 3,611,000 | 2009 |
+| 23 | Spain | 3,537,000 | 2009 |
+| 24 | Czech Republic | 3,233,000 | 2009 |
+| 25 | Norway | 3,198,000 | 2009 |
+| 26 | Austria | 2,992,000 | 2009 |
+| 27 | Turkey | 2,961,000 | 2009 |
+| 28 | Greece | 2,342,000 | 2009 |
+| 29 | Hungary | 2,261,000 | 2009 |
+| 30 | Colombia | 2,217,000 | 2009 |
+| 31 | Romania | 2,188,000 | 2009 |
+| 32 | New Zealand | 2,007,000 | 2009 |
+| 33 | Portugal | 1,967,000 | 2009 |
+| 34 | South Africa | 1,730,000 | 2009 |
+| 35 | Israel | 1,544,000 | 2009 |
+| 36 | Ireland | 1,303,000 | 2009 |
+| 37 | Thailand | 1,231,000 | 2009 |
+| 38 | Croatia | 1,230,000 | 2009 |
+| 39 | Lithuania | 885,064 | 2009 |
+| 40 | Chile | 877,817 | 2009 |
+| 41 | Slovakia | 867,615 | 2009 |
+| 42 | Indonesia | 865,309 | 2009 |
+| 43 | Singapore | 864,943 | 2009 |
+| 44 | Hong Kong | 813,980 | 2009 |
+| 45 | Bulgaria | 706,648 | 2009 |
+| 46 | Ukraine | 706,485 | 2009 |
+| 47 | Estonia | 706,449 | 2009 |
+| 48 | Uruguay | 498,232 | 2009 |
+| 49 | Saudi Arabia | 471,217 | 2009 |
+| 50 | Niue | 396,370 | 2009 |
+| 51 | United Arab Emirates | 379,106 | 2009 |
+| 52 | Moldova | 367,150 | 2009 |
+| 53 | Malaysia | 362,968 | 2009 |
+| 54 | Korea, South | 301,270 | 2009 |
+| 55 | Philippines | 283,607 | 2009 |
+| 56 | Dominican Republic | 280,457 | 2009 |
+| 57 | Morocco | 276,521 | 2009 |
+| 58 | Peru | 274,592 | 2009 |
+| 59 | Iceland | 272,201 | 2009 |
+| 60 | Latvia | 257,414 | 2009 |
+| 61 | Pakistan | 226,236 | 2009 |
+| 62 | Luxembourg | 220,107 | 2009 |
+| 63 | Cyprus | 185,451 | 2009 |
+| 64 | Serbia | 181,313 | 2009 |
+| 65 | Egypt | 177,443 | 2009 |
+| 66 | Vietnam | 170,689 | 2009 |
+| 67 | Trinidad and Tobago | 162,849 | 2009 |
+| 68 | Venezuela | 155,139 | 2009 |
+| 69 | Guatemala | 132,049 | 2009 |
+| 70 | Belarus | 113,115 | 2009 |
+| 71 | Bolivia | 105,031 | 2009 |
+| 72 | Georgia | 104,243 | 2009 |
+| 73 | Tuvalu | 103,041 | 2009 |
+| 74 | Nicaragua | 88,742 | 2009 |
+| 75 | Slovenia | 88,567 | 2009 |
+| 76 | Kyrgyzstan | 82,496 | 2009 |
+| 77 | Netherlands Antilles | 71,671 | 2009 |
+| 78 | Paraguay | 71,487 | 2009 |
+| 79 | Bosnia and Herzegovina | 69,370 | 2009 |
+| 80 | Ecuador | 57,785 | 2009 |
+| 81 | Macedonia | 57,763 | 2009 |
+| 82 | Bahrain | 51,489 | 2009 |
+| 83 | Uzbekistan | 50,228 | 2009 |
+| 84 | Kazakhstan | 48,873 | 2009 |
+| 85 | Iran | 45,678 | 2009 |
+| 86 | Lebanon | 45,352 | 2009 |
+| 87 | Nepal | 43,411 | 2009 |
+| 88 | Armenia | 36,354 | 2009 |
+| 89 | Costa Rica | 34,066 | 2009 |
+| 90 | Kenya | 32,913 | 2009 |
+| 91 | Zimbabwe | 29,094 | 2009 |
+| 92 | Jordan | 28,896 | 2009 |
+| 93 | Madagascar | 27,807 | 2009 |
+| 94 | Malta | 25,139 | 2009 |
+| 95 | Aruba | 25,051 | 2009 |
+| 96 | Tanzania | 24,724 | 2009 |
+| 97 | Ghana | 23,850 | 2009 |
+| 98 | Andorra | 23,421 | 2009 |
+| 99 | Mauritius | 22,813 | 2009 |
+| 100 | Monaco | 22,608 | 2009 |
+| 101 | New Caledonia | 22,448 | 2009 |
+| 102 | Cayman Islands | 21,428 | 2009 |
+| 103 | Mozambique | 21,388 | 2009 |
+| 104 | Tonga | 20,107 | 2009 |
+| 105 | Namibia | 17,840 | 2009 |
+| 106 | Honduras | 15,691 | 2009 |
+| 107 | Bermuda | 15,548 | 2009 |
+| 108 | Brunei | 14,978 | 2009 |
+| 109 | Zambia | 14,951 | 2009 |
+| 110 | Albania | 14,245 | 2009 |
+| 111 | Greenland | 14,134 | 2009 |
+| 112 | Samoa | 13,985 | 2009 |
+| 113 | French Polynesia | 13,796 | 2009 |
+| 114 | Fiji | 12,747 | 2009 |
+| 115 | Libya | 11,751 | 2009 |
+| 116 | Cote d'Ivoire | 9,822 | 2009 |
+| 117 | Turks and Caicos Islands | 9,445 | 2009 |
+| 118 | Liechtenstein | 9,287 | 2009 |
+| 119 | Bhutan | 9,096 | 2009 |
+| 120 | Faroe Islands | 8,833 | 2009 |
+| 121 | Virgin Islands | 8,726 | 2009 |
+| 122 | Bahamas, The | 8,325 | 2009 |
+| 123 | El Salvador | 8,177 | 2009 |
+| 124 | Panama | 8,067 | 2009 |
+| 125 | Syria | 7,879 | 2009 |
+| 126 | Antarctica | 7,758 | 2009 |
+| 127 | Antigua and Barbuda | 7,421 | 2009 |
+| 128 | Botswana | 7,341 | 2009 |
+| 129 | Guyana | 7,116 | 2009 |
+| 130 | Azerbaijan | 7,045 | 2009 |
+| 131 | Uganda | 6,757 | 2009 |
+| 132 | San Marino | 6,734 | 2009 |
+| 133 | Oman | 6,346 | 2009 |
+| 134 | Sri Lanka | 6,090 | 2009 |
+| 135 | Bangladesh | 4,209 | 2009 |
+| 136 | Solomon Islands | 4,067 | 2009 |
+| 137 | Jamaica | 3,961 | 2009 |
+| 138 | Cuba | 3,637 | 2009 |
+| 139 | Angola | 3,508 | 2009 |
+| 140 | Papua New Guinea | 3,432 | 2009 |
+| 141 | Montenegro | 3,245 | 2009 |
+| 142 | Belize | 3,017 | 2009 |
+| 143 | Congo, Democratic Republic of the | 3,015 | 2009 |
+| 144 | Swaziland | 2,609 | 2009 |
+| 145 | Christmas Island | 2,598 | 2009 |
+| 146 | Cambodia | 2,480 | 2009 |
+| 147 | Cook Islands | 2,480 | 2009 |
+| 148 | Kuwait | 2,305 | 2009 |
+| 149 | Gibraltar | 1,955 | 2009 |
+| 150 | Burkina Faso | 1,951 | 2009 |
+| 151 | Maldives | 1,732 | 2009 |
+| 152 | Laos | 1,661 | 2009 |
+| 153 | American Samoa | 1,606 | 2009 |
+| 154 | Wallis and Futuna | 1,480 | 2009 |
+| 155 | Sao Tome and Principe | 1,345 | 2009 |
+| 156 | Eritrea | 1,307 | 2009 |
+| 157 | Benin | 1,155 | 2009 |
+| 158 | Nigeria | 1,098 | 2009 |
+| 159 | Micronesia, Federated States of | 1,050 | 2009 |
+| 160 | Vanuatu | 1,023 | 2009 |
+| 161 | Tajikistan | 987 | 2009 |
+| 162 | Gambia, The | 895 | 2009 |
+| 163 | Togo | 784 | 2009 |
+| 164 | Turkmenistan | 755 | 2009 |
+| 165 | Malawi | 741 | 2009 |
+| 166 | Qatar | 722 | 2009 |
+| 167 | Puerto Rico | 700 | 2009 |
+| 168 | Montserrat | 688 | 2009 |
+| 169 | British Virgin Islands | 581 | 2009 |
+| 170 | Mongolia | 524 | 2009 |
+| 171 | Mali | 519 | 2009 |
+| 172 | Algeria | 510 | 2009 |
+| 173 | Dominica | 485 | 2009 |
+| 174 | Isle of Man | 478 | 2009 |
+| 175 | Tunisia | 406 | 2009 |
+| 176 | South Georgia and South Sandwich Islands | 363 | 2009 |
+| 177 | Tokelau | 360 | 2009 |
+| 178 | Saint Helena | 343 | 2009 |
+| 179 | Seychelles | 324 | 2009 |
+| 180 | Sierra Leone | 273 | 2009 |
+| 181 | Anguilla | 258 | 2009 |
+| 182 | Niger | 253 | 2009 |
+| 183 | Macau | 244 | 2009 |
+| 184 | Yemen | 242 | 2009 |
+| 185 | Barbados | 235 | 2009 |
+| 186 | Senegal | 227 | 2009 |
+| 187 | Jersey | 219 | 2009 |
+| 188 | Djibouti | 199 | 2009 |
+| 189 | Burundi | 191 | 2009 |
+| 190 | Saint Vincent and the Grenadines | 181 | 2009 |
+| 191 | Guernsey | 174 | 2009 |
+| 192 | Timor-Leste | 169 | 2009 |
+| 193 | Suriname | 162 | 2009 |
+| 194 | British Indian Ocean Territory | 160 | 2009 |
+| 195 | Ethiopia | 136 | 2009 |
+| 196 | Burma | 128 | 2009 |
+| 197 | Lesotho | 127 | 2009 |
+| 198 | Saint Lucia | 103 | 2009 |
+| 199 | Gabon | 91 | 2009 |
+| 200 | Falkland Islands (Islas Malvinas) | 90 | 2009 |
+| 201 | Norfolk Island | 89 | 2009 |
+| 202 | Guinea-Bissau | 82 | 2009 |
+| 203 | Rwanda | 81 | 2009 |
+| 204 | Cameroon | 70 | 2009 |
+| 205 | Holy See (Vatican City) | 63 | 2009 |
+| 206 | Saint Kitts and Nevis | 53 | 2009 |
+| 207 | Sudan | 48 | 2009 |
+| 208 | Afghanistan | 47 | 2009 |
+| 209 | Nauru | 47 | 2009 |
+| 210 | French Southern and Antarctic Lands | 44 | 2009 |
+| 211 | Grenada | 42 | 2009 |
+| 212 | Kiribati | 41 | 2009 |
+| 213 | Pitcairn Islands | 26 | 2009 |
+| 214 | Cape Verde | 24 | 2009 |
+| 215 | Central African Republic | 21 | 2009 |
+| 216 | Congo, Republic of the | 18 | 2009 |
+| 217 | Mauritania | 15 | 2009 |
+| 218 | Guinea | 14 | 2009 |
+| 219 | Iraq | 11 | 2009 |
+| 220 | Northern Mariana Islands | 9 | 2009 |
+| 221 | Equatorial Guinea | 9 | 2009 |
+| 222 | Haiti | 9 | 2009 |
+| 223 | Comoros | 7 | 2009 |
+| 224 | Marshall Islands | 6 | 2009 |
+| 225 | Chad | 5 | 2009 |
+| 226 | Liberia | 5 | 2009 |
+| 227 | Korea, North | 3 | 2009 |
+| 228 | Palau | 2 | 2009 |
+| 229 | Mayotte | 1 | 2009 |
+| 230 | Bouvet Island | 0 | 2009 |
+| 231 | Saint Pierre and Miquelon | 0 | 2009 |
+| 232 | Somalia | 0 | 2009 |

@@ -1,0 +1,229 @@
+CIA - The World Factbook --  Infant mortality rate   
+
+This entry gives the number of deaths of infants under one year old in a given year per 1,000 live births in the same year; included is the total death rate, and deaths by sex, male and female. This rate is often used as an indicator of the level of health in a country.
+
+| Rank | country | (deaths/1,000 live births) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Angola | 178.13 | 2010 est. |
+| 2 | Afghanistan | 151.50 | 2010 est. |
+| 3 | Niger | 114.50 | 2010 est. |
+| 4 | Mali | 113.66 | 2010 est. |
+| 5 | Somalia | 107.42 | 2010 est. |
+| 6 | Mozambique | 103.82 | 2010 est. |
+| 7 | Central African Republic | 101.60 | 2010 est. |
+| 8 | Guinea-Bissau | 98.05 | 2010 est. |
+| 9 | Chad | 97.05 | 2010 est. |
+| 10 | Nigeria | 92.99 | 2010 est. |
+| 11 | Malawi | 83.50 | 2010 est. |
+| 12 | Burkina Faso | 82.98 | 2010 est. |
+| 13 | Sierra Leone | 80.16 | 2010 est. |
+| 14 | Equatorial Guinea | 79.47 | 2010 est. |
+| 15 | Congo, Democratic Republic of the | 79.36 | 2010 est. |
+| 16 | Ethiopia | 78.99 | 2010 est. |
+| 17 | Congo, Republic of the | 77.93 | 2010 est. |
+| 18 | Liberia | 76.43 | 2010 est. |
+| 19 | Sudan | 72.39 | 2010 est. |
+| 20 | Zambia | 68.40 | 2010 est. |
+| 21 | Tanzania | 68.13 | 2010 est. |
+| 22 | Gambia, The | 67.49 | 2010 est. |
+| 23 | Swaziland | 66.71 | 2010 est. |
+| 24 | Cote d'Ivoire | 66.43 | 2010 est. |
+| 25 | Rwanda | 65.57 | 2010 est. |
+| 26 | Pakistan | 65.32 | 2010 est. |
+| 27 | Comoros | 64.61 | 2010 est. |
+| 28 | Uganda | 63.70 | 2010 est. |
+| 29 | Burundi | 63.38 | 2010 est. |
+| 30 | Benin | 63.13 | 2010 est. |
+| 31 | Guinea | 63.09 | 2010 est. |
+| 32 | Cameroon | 62.15 | 2010 est. |
+| 33 | Western Sahara | 61.97 | 2010 est. |
+| 34 | Mauritania | 61.94 | 2010 est. |
+| 35 | Laos | 61.19 | 2010 est. |
+| 36 | Senegal | 57.70 | 2010 est. |
+| 37 | Cambodia | 56.94 | 2010 est. |
+| 38 | Yemen | 56.77 | 2010 est. |
+| 39 | Djibouti | 56.65 | 2010 est. |
+| 40 | Lesotho | 56.42 | 2010 est. |
+| 41 | Mayotte | 54.75 | 2010 est. |
+| 42 | Sao Tome and Principe | 54.64 | 2010 est. |
+| 43 | Haiti | 54.02 | 2011 est. |
+| 44 | Kenya | 53.49 | 2010 est. |
+| 45 | Togo | 53.23 | 2010 est. |
+| 46 | Azerbaijan | 52.84 | 2010 est. |
+| 47 | Madagascar | 52.84 | 2010 est. |
+| 48 | Bangladesh | 52.54 | 2010 est. |
+| 49 | Gabon | 50.88 | 2010 est. |
+| 50 | Burma | 50.76 | 2010 est. |
+| 51 | Korea, North | 50.15 | 2010 est. |
+| 52 | Ghana | 49.89 | 2010 est. |
+| 53 | India | 49.13 | 2010 est. |
+| 54 | Vanuatu | 48.17 | 2010 est. |
+| 55 | Bhutan | 46.92 | 2010 est. |
+| 56 | Nepal | 46.00 | 2010 est. |
+| 57 | Namibia | 45.52 | 2010 est. |
+| 58 | Papua New Guinea | 44.59 | 2010 est. |
+| 59 | World | 44.13 | 2009 est. |
+| 60 | Turkmenistan | 43.84 | 2010 est. |
+| 61 | South Africa | 43.78 | 2010 est. |
+| 62 | Iran | 43.45 | 2010 est. |
+| 63 | Bolivia | 43.41 | 2010 est. |
+| 64 | Iraq | 43.16 | 2010 est. |
+| 65 | Eritrea | 42.33 | 2010 est. |
+| 66 | Kiribati | 40.13 | 2010 est. |
+| 67 | Tajikistan | 39.78 | 2010 est. |
+| 68 | Timor-Leste | 39.32 | 2010 est. |
+| 69 | Mongolia | 38.56 | 2010 est. |
+| 70 | Guyana | 37.89 | 2010 est. |
+| 71 | Tuvalu | 35.52 | 2010 est. |
+| 72 | Zimbabwe | 30.90 | 2010 est. |
+| 73 | Kyrgyzstan | 30.25 | 2010 est. |
+| 74 | Indonesia | 28.94 | 2010 est. |
+| 75 | Trinidad and Tobago | 28.90 | 2010 est. |
+| 76 | Morocco | 28.61 | 2010 est. |
+| 77 | Maldives | 28.47 | 2010 est. |
+| 78 | Cape Verde | 27.89 | 2010 est. |
+| 79 | Peru | 27.74 | 2010 est. |
+| 80 | Guatemala | 26.91 | 2010 est. |
+| 81 | Algeria | 26.75 | 2010 est. |
+| 82 | Egypt | 26.20 | 2010 est. |
+| 83 | Micronesia, Federated States of | 25.20 | 2010 est. |
+| 84 | Kazakhstan | 24.93 | 2010 est. |
+| 85 | Turkey | 24.84 | 2010 est. |
+| 86 | Marshall Islands | 24.57 | 2010 est. |
+| 87 | Nicaragua | 24.16 | 2010 est. |
+| 88 | Paraguay | 23.83 | 2010 est. |
+| 89 | Samoa | 23.21 | 2010 est. |
+| 90 | Dominican Republic | 23.10 | 2010 est. |
+| 91 | Uzbekistan | 22.66 | 2010 est. |
+| 92 | Belize | 22.52 | 2010 est. |
+| 93 | Brazil | 21.86 | 2010 est. |
+| 94 | Tunisia | 21.75 | 2010 est. |
+| 95 | Vietnam | 21.57 | 2010 est. |
+| 96 | Venezuela | 21.07 | 2010 est. |
+| 97 | Honduras | 21.04 | 2010 est. |
+| 98 | El Salvador | 20.97 | 2010 est. |
+| 99 | Libya | 20.87 | 2010 est. |
+| 100 | Ecuador | 20.26 | 2010 est. |
+| 101 | Philippines | 19.94 | 2010 est. |
+| 102 | Armenia | 19.50 | 2010 est. |
+| 103 | Solomon Islands | 18.41 | 2010 est. |
+| 104 | Suriname | 18.19 | 2010 est. |
+| 105 | Sri Lanka | 18.14 | 2010 est. |
+| 106 | Mexico | 17.84 | 2010 est. |
+| 107 | Gaza Strip | 17.71 | 2010 est. |
+| 108 | Bulgaria | 17.26 | 2010 est. |
+| 109 | Jordan | 17.03 | 2010 est. |
+| 110 | Saint Helena, Ascension, and Tristan da Cunha | 16.98 | 2010 est. |
+| 111 | Colombia | 16.87 | 2010 est. |
+| 112 | Saudi Arabia | 16.73 | 2010 est. |
+| 113 | Thailand | 16.71 | 2010 est. |
+| 114 | China | 16.51 | 2010 est. |
+| 115 | Lebanon | 16.40 | 2010 est. |
+| 116 | Cook Islands | 16.33 | 2010 est. |
+| 117 | Syria | 16.14 | 2010 est. |
+| 118 | Oman | 16.00 | 2010 est. |
+| 119 | Montserrat | 15.80 | 2010 est. |
+| 120 | Georgia | 15.67 | 2010 est. |
+| 121 | Malaysia | 15.50 | 2010 est. |
+| 122 | West Bank | 15.41 | 2010 est. |
+| 123 | Albania | 15.11 | 2010 est. |
+| 124 | Antigua and Barbuda | 15.10 | 2010 est. |
+| 125 | Jamaica | 14.91 | 2010 est. |
+| 126 | Bahrain | 14.76 | 2010 est. |
+| 127 | Saint Vincent and the Grenadines | 14.70 | 2010 est. |
+| 128 | British Virgin Islands | 14.11 | 2010 est. |
+| 129 | Bahamas, The | 13.68 | 2010 est. |
+| 130 | Turks and Caicos Islands | 13.43 | 2010 est. |
+| 131 | Aruba | 13.34 | 2010 est. |
+| 132 | Dominica | 13.20 | 2010 est. |
+| 133 | Saint Lucia | 13.07 | 2010 est. |
+| 134 | Palau | 12.78 | 2010 est. |
+| 135 | Moldova | 12.77 | 2010 est. |
+| 136 | United Arab Emirates | 12.30 | 2010 est. |
+| 137 | Qatar | 12.24 | 2010 est. |
+| 138 | Barbados | 12.09 | 2010 est. |
+| 139 | Panama | 11.97 | 2010 est. |
+| 140 | Seychelles | 11.97 | 2010 est. |
+| 141 | Brunei | 11.87 | 2010 est. |
+| 142 | Mauritius | 11.85 | 2010 est. |
+| 143 | Botswana | 11.79 | 2010 est. |
+| 144 | Grenada | 11.76 | 2010 est. |
+| 145 | Romania | 11.32 | 2010 est. |
+| 146 | Fiji | 11.28 | 2010 est. |
+| 147 | Tonga | 11.28 | 2010 est. |
+| 148 | Argentina | 11.11 | 2010 est. |
+| 149 | Uruguay | 10.99 | 2010 est. |
+| 150 | Russia | 10.32 | 2010 est. |
+| 151 | Greenland | 10.26 | 2010 est. |
+| 152 | American Samoa | 9.91 | 2010 est. |
+| 153 | Saint Kitts and Nevis | 9.90 | 2010 est. |
+| 154 | Costa Rica | 9.72 | 2010 est. |
+| 155 | Cyprus | 9.57 | 2010 est. |
+| 156 | Bosnia and Herzegovina | 8.88 | 2010 est. |
+| 157 | Nauru | 8.81 | 2010 est. |
+| 158 | Macedonia | 8.76 | 2010 est. |
+| 159 | Kuwait | 8.75 | 2010 est. |
+| 160 | Ukraine | 8.73 | 2010 est. |
+| 161 | Latvia | 8.59 | 2010 est. |
+| 162 | Puerto Rico | 8.23 | 2010 est. |
+| 163 | Saint Pierre and Miquelon | 7.65 | 2010 est. |
+| 164 | Chile | 7.52 | 2010 est. |
+| 165 | French Polynesia | 7.41 | 2010 est. |
+| 166 | Virgin Islands | 7.40 | 2010 est. |
+| 167 | Estonia | 7.19 | 2010 est. |
+| 168 | Gibraltar | 6.82 | 2010 est. |
+| 169 | Cayman Islands | 6.78 | 2010 est. |
+| 170 | Slovakia | 6.71 | 2010 est. |
+| 171 | Poland | 6.66 | 2010 est. |
+| 172 | Serbia | 6.65 | 2010 est. |
+| 173 | Lithuania | 6.37 | 2010 est. |
+| 174 | Belarus | 6.34 | 2010 est. |
+| 175 | Croatia | 6.26 | 2010 est. |
+| 176 | Faroe Islands | 6.18 | 2010 est. |
+| 177 | United States | 6.14 | 2010 est. |
+| 178 | Northern Mariana Islands | 5.89 | 2010 est. |
+| 179 | New Caledonia | 5.80 | 2010 est. |
+| 180 | Cuba | 5.72 | 2010 est. |
+| 181 | European Union | 5.61 | 2010 est. |
+| 182 | Italy | 5.41 | 2010 est. |
+| 183 | Hungary | 5.38 | 2010 est. |
+| 184 | Taiwan | 5.26 | 2010 est. |
+| 185 | Greece | 5.08 | 2010 est. |
+| 186 | Canada | 4.99 | 2010 est. |
+| 187 | New Zealand | 4.85 | 2010 est. |
+| 188 | San Marino | 4.79 | 2010 est. |
+| 189 | Wallis and Futuna | 4.74 | 2010 est. |
+| 190 | Portugal | 4.72 | 2010 est. |
+| 191 | United Kingdom | 4.69 | 2010 est. |
+| 192 | Australia | 4.67 | 2010 est. |
+| 193 | Netherlands | 4.66 | 2010 est. |
+| 194 | Luxembourg | 4.49 | 2010 est. |
+| 195 | Belgium | 4.38 | 2010 est. |
+| 196 | Isle of Man | 4.38 | 2010 est. |
+| 197 | Austria | 4.37 | 2010 est. |
+| 198 | Denmark | 4.29 | 2010 est. |
+| 199 | Korea, South | 4.24 | 2010 est. |
+| 200 | Slovenia | 4.21 | 2010 est. |
+| 201 | Liechtenstein | 4.20 | 2010 est. |
+| 202 | Israel | 4.17 | 2010 est. |
+| 203 | Switzerland | 4.12 | 2010 est. |
+| 204 | Jersey | 4.02 | 2010 est. |
+| 205 | Germany | 3.95 | 2010 est. |
+| 206 | Ireland | 3.89 | 2010 est. |
+| 207 | Andorra | 3.84 | 2010 est. |
+| 208 | Czech Republic | 3.76 | 2010 est. |
+| 209 | Malta | 3.72 | 2010 est. |
+| 210 | Guernsey | 3.58 | 2010 est. |
+| 211 | Norway | 3.55 | 2010 est. |
+| 212 | Anguilla | 3.49 | 2010 est. |
+| 213 | Finland | 3.45 | 2010 est. |
+| 214 | Spain | 3.42 | 2010 est. |
+| 215 | France | 3.31 | 2010 est. |
+| 216 | Iceland | 3.21 | 2010 est. |
+| 217 | Macau | 3.20 | 2010 est. |
+| 218 | Hong Kong | 2.91 | 2010 est. |
+| 219 | Japan | 2.79 | 2010 est. |
+| 220 | Sweden | 2.74 | 2010 est. |
+| 221 | Bermuda | 2.46 | 2010 est. |
+| 222 | Singapore | 2.32 | 2010 est. |
+| 223 | Monaco | 1.78 | 2010 est. |

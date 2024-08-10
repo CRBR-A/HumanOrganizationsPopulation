@@ -1,0 +1,27 @@
+Telephone Code: 809
+Local Emergency Phone: 911
+Climate: Tropical maritime; little seasonal temperature variation; seasonal variation in rainfall
+Currency (Code): Dominican pesos (DOP)
+Electricity: 120 V
+Voltage: 60 Hz
+Plug types(s): A, B, C
+Major Languages: Spanish
+Major Religions: Roman Catholic 44.3%, Evangelical 13%, Protestant 7.9%, Adventist 1.4%
+Time Difference: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested; additionally, if you plan to drive in the Dominican Republic, you will need an Inter-American Driving Permit issued by the AAA
+Road Driving Side: Right
+Tourist Destinations: Cuidad Colonial of Santo Domingo; Lake Enriquillo; Del Este National Park; Samaná Peninsula and Samaná Bay; Bahia de Las Aguilas and Jaragua National Park; Basilica of Our Lady
+Major Sports: Baseball, soccer, boxing
+Cultural Practices: Not resting elbows on the table and keeping hands visible while eating is considered polite.
+Tipping Guidelines: At most restaurants, a tip of 10% is expected unless service charges are pre-added. Typical bellhop tips are $1-2 (USD) per bag and $2-3 (USD) per night for housekeepers.
+Souvenirs: Larimar jewelry and stones, amber jewelry, woodcarvings, pottery, baskets, limestone carvings, cigars, rum
+Traditional Cuisine: La Bandera --- rice, red beans, and meat
+
+---
+country: Dominican Republic
+date: June 07, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Dominican Republic/travel-facts>
+license: public domain (U.S.)
+...

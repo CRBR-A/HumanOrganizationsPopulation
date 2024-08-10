@@ -1,0 +1,27 @@
+Telephone Code: 250
+Local Emergency Phone: Local numbers only
+Climate: Temperate; two rainy seasons (February to April, November to January); mild in mountains with frost and snow possible
+Currency (Code): Rwandan francs (RWF)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, J
+Major Languages: Kinyarwanda, French, English, Swahili/Kiswahili
+Major Religions: Protestant 49.5% (includes Adventist 11.8% and other Protestant 37.7%), Roman Catholic 43.7%, Muslim 2%, other 0.9% (includes Jehovah's Witness)
+Time Difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Kigali Genocide Memorial; Volcanoes National Park; Nyungwe Forest National Park; Ethnographic Museum; Murambi Genocide Memorial; King's Palace Museum
+Major Sports: Soccer
+Cultural Practices: Personal space is often much tighter in Rwanda, so do not be surprised if conversations occur at closer distances.
+Tipping Guidelines: Tipping private guides $5-10 (USD) per person per day is common. Hotel and lodge staff would appreciate $5 (USD) per day.
+Souvenirs: Imigongo art; tribal wall hangings, masks, weapons, and musical instruments; baskets with painted lids, embroidered cloth items
+Traditional Cuisine: Brochettes --- meat (typically goat, beef, chicken, or pork) or fish on a skewer, sometimes with vegetables, and roasted over hot coals; typically served with roasted potatoes, deep-fried bananas, or salad
+
+---
+country: Rwanda
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Rwanda/travel-facts>
+license: public domain (U.S.)
+...

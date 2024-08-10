@@ -1,0 +1,247 @@
+CIA - The World Factbook -- South Africa
+
+| Geography | South Africa |
+| --- | --- |
+| Location: | Southern Africa, at the southern tip of the continent of Africa |
+| Geographic coordinates: | 29 00 S, 24 00 E |
+| Map references: | Africa |
+| Area: | total: 1,219,912 sq km |
+| | land: 1,219,912 sq km |
+| | water: 0 sq km |
+| | note: includes Prince Edward Islands (Marion Island and Prince Edward Island) |
+| Area - comparative: | slightly less than twice the size of Texas |
+| Land boundaries: | total: 4,862 km |
+| | border countries: Botswana 1,840 km, Lesotho 909 km, Mozambique 491 km, Namibia 967 km, Swaziland 430 km, Zimbabwe 225 km |
+| Coastline: | 2,798 km |
+| Maritime claims: | territorial sea: 12 nm |
+| | contiguous zone: 24 nm |
+| | exclusive economic zone: 200 nm |
+| | continental shelf: 200 nm or to edge of the continental margin |
+| Climate: | mostly semiarid; subtropical along east coast; sunny days, cool nights |
+| Terrain: | vast interior plateau rimmed by rugged hills and narrow coastal plain |
+| Elevation extremes: | lowest point: Atlantic Ocean 0 m |
+| | highest point: Njesuthi 3,408 m |
+| Natural resources: | gold, chromium, antimony, coal, iron ore, manganese, nickel, phosphates, tin, uranium, gem diamonds, platinum, copper, vanadium, salt, natural gas |
+| Land use: | arable land: 12.1% |
+| | permanent crops: 0.79% |
+| | other: 87.11% (2005) |
+| Irrigated land: | 14,980 sq km (2003) |
+| Internal Renewable Water Resources: | 50 cu km (1990) |
+| Freshwater Withdrawal (Domestic/Industrial/Agricultural): | Total: 12.5 cu km/yr (31%/6%/63%) |
+| | Per capita: 264 cu m/yr (2000) |
+| Natural hazards: | prolonged droughts |
+| Environment - current issues: | lack of important arterial rivers or lakes requires extensive water conservation and control measures; growth in water usage outpacing supply; pollution of rivers from agricultural runoff and urban discharge; air pollution resulting in acid rain; soil erosion; desertification |
+| Environment - international agreements: | party to: Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling |
+| | signed, but not ratified: none of the selected agreements |
+| Geography - note: | South Africa completely surrounds Lesotho and almost completely surrounds Swaziland |
+
+| People | South Africa |
+| --- | --- |
+| Population: | 43,997,828 |
+| | note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2007 est.) |
+| Age structure: | 0-14 years: 29.1% (male 6,447,623/female 6,370,909) |
+| | 15-64 years: 65.5% (male 14,040,210/female 14,761,179) |
+| | 65 years and over: 5.4% (male 917,227/female 1,460,680) (2007 est.) |
+| Median age: | total: 24.3 years |
+| | male: 23.5 years |
+| | female: 25.1 years (2007 est.) |
+| Population growth rate: | -0.46% (2007 est.) |
+| Birth rate: | 17.94 births/1,000 population (2007 est.) |
+| Death rate: | 22.45 deaths/1,000 population (2007 est.) |
+| Net migration rate: | -0.08 migrant(s)/1,000 population |
+| | note: there is an increasing flow of Zimbabweans into South Africa and Botswana in search of better economic opportunities (2007 est.) |
+| Sex ratio: | at birth: 1.02 male(s)/female |
+| | under 15 years: 1.012 male(s)/female |
+| | 15-64 years: 0.951 male(s)/female |
+| | 65 years and over: 0.628 male(s)/female |
+| | total population: 0.947 male(s)/female (2007 est.) |
+| Infant mortality rate: | total: 59.44 deaths/1,000 live births |
+| | male: 62.95 deaths/1,000 live births |
+| | female: 55.84 deaths/1,000 live births (2007 est.) |
+| Life expectancy at birth: | total population: 42.45 years |
+| | male: 43.21 years |
+| | female: 41.66 years (2007 est.) |
+| Total fertility rate: | 2.16 children born/woman (2007 est.) |
+| HIV/AIDS - adult prevalence rate: | 21.5% (2003 est.) |
+| HIV/AIDS - people living with HIV/AIDS: | 5.3 million (2003 est.) |
+| HIV/AIDS - deaths: | 370,000 (2003 est.) |
+| Nationality: | noun: South African(s) |
+| | adjective: South African |
+| Ethnic groups: | black African 79%, white 9.6%, colored 8.9%, Indian/Asian 2.5% (2001 census) |
+| Religions: | Zion Christian 11.1%, Pentecostal/Charismatic 8.2%, Catholic 7.1%, Methodist 6.8%, Dutch Reformed 6.7%, Anglican 3.8%, Muslim 1.5%, other Christian 36%, other 2.3%, unspecified 1.4%, none 15.1% (2001 census) |
+| Languages: | IsiZulu 23.8%, IsiXhosa 17.6%, Afrikaans 13.3%, Sepedi 9.4%, English 8.2%, Setswana 8.2%, Sesotho 7.9%, Xitsonga 4.4%, other 7.2% (2001 census) |
+| Literacy: | definition: age 15 and over can read and write |
+| | total population: 86.4% |
+| | male: 87% |
+| | female: 85.7% (2003 est.) |
+
+| Government | South Africa |
+| --- | --- |
+| Country name: | conventional long form: Republic of South Africa |
+| | conventional short form: South Africa |
+| | former: Union of South Africa |
+| | abbreviation: RSA |
+| Government type: | republic |
+| Capital: | name: Pretoria (administrative capital) |
+| | geographic coordinates: 25 42 S, 28 13 E |
+| | time difference: UTC+2 (7 hours ahead of Washington, DC during Standard Time) |
+| | note: Cape Town (legislative capital); Bloemfontein (judicial capital) |
+| Administrative divisions: | 9 provinces; Eastern Cape, Free State, Gauteng, KwaZulu-Natal, Limpopo, Mpumalanga, Northern Cape, North-West, Western Cape |
+| Independence: | 31 May 1910 (Union of South Africa formed from four British colonies: Cape Colony, Natal, Transvaal, and Orange Free State); 31 May 1961 (republic declared) |
+| National holiday: | Freedom Day, 27 April (1994) |
+| Constitution: | 10 December 1996; this new constitution was certified by the Constitutional Court on 4 December 1996, was signed by then President MANDELA on 10 December 1996, and entered into effect on 4 February 1997; it is being implemented in phases |
+| Legal system: | based on Roman-Dutch law and English common law |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Thabo MBEKI (since 16 June 1999); Executive Deputy President Phumzile MLAMBO-NGCUKA (since 23 June 2005); note - the president is both the chief of state and head of government |
+| | head of government: President Thabo MBEKI (since 16 June 1999); Executive Deputy President Phumzile MLAMBO-NGCUKA (since 23 June 2005) |
+| | cabinet: Cabinet appointed by the president |
+| | elections: president elected by the National Assembly for a five-year term (eligible for a second term); election last held on 24 April 2004 (next to be held in April 2009) |
+| | election results: Thabo MBEKI elected president; percent of National Assembly vote - 100% (by acclamation) |
+| Legislative branch: | bicameral Parliament consisting of the National Assembly (400 seats; members are elected by popular vote under a system of proportional representation to serve five-year terms) and the National Council of Provinces (90 seats, 10 members elected by each of the nine provincial legislatures for five-year terms; has special powers to protect regional interests, including the safeguarding of cultural and linguistic traditions among ethnic minorities); note - following the implementation of the new constitution on 4 February 1997, the former Senate was disbanded and replaced by the National Council of Provinces with essentially no change in membership and party affiliations, although the new institution's responsibilities have been changed somewhat by the new constitution |
+| | elections: National Assembly and National Council of Provinces - last held on 14 April 2004 (next to be held in 2009) |
+| | election results: National Assembly - percent of vote by party - ANC 69.7%, DA 12.4%, IFP 7%, UDM 2.3%, NNP 1.7%, ACDP 1.6%, other 5.3%; seats by party - ANC 279, DA 50, IFP 28, UDM 9, NNP 7, ACDP 6, other 21; National Council of Provinces - percent of vote by party - NA; seats by party - NA |
+| Judicial branch: | Constitutional Court; Supreme Court of Appeals; High Courts; Magistrate Courts |
+| Political parties and leaders: | African Christian Democratic Party or ACDP [Kenneth MESHOE]; African National Congress or ANC [Thabo MBEKI]; Democratic Alliance or DA [Helen ZILLE]; Freedom Front Plus or FF+ [Pieter MULDER]; Inkatha Freedom Party or IFP [Mangosuthu BUTHELEZI]; New National Party or NNP; Pan-Africanist Congress or PAC [Motsoko PHEKO]; United Democratic Movement or UDM [Bantu HOLOMISA] |
+| Political pressure groups and leaders: | Congress of South African Trade Unions or COSATU [Zwelinzima VAVI, general secretary]; South African Communist Party or SACP [Blade NZIMANDE, general secretary]; South African National Civics Organization or SANCO [Mlungisi HLONGWANE, national president]; note - COSATU and SACP are in a formal alliance with the ANC |
+| International organization participation: | ACP, AfDB, AU, BIS, C, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, MONUC, NAM, NSG, ONUB, OPCW, PCA, SACU, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNMEE, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Welile Augustine NHLAPO |
+| | chancery: 3051 Massachusetts Avenue NW, Washington, DC 20008 |
+| | telephone: [1] (202) 232-4400 |
+| | FAX: [1] (202) 265-1607 |
+| | consulate(s) general: Chicago, Los Angeles, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Eric BOST |
+| | embassy: 877 Pretorius Street, Pretoria |
+| | mailing address: P. O. Box 9536, Pretoria 0001 |
+| | telephone: [27] (12) 342-1048 |
+| | FAX: [27] (12) 342-2244 |
+| | consulate(s) general: Cape Town, Durban, Johannesburg |
+| Flag description: | two equal width horizontal bands of red (top) and blue separated by a central green band which splits into a horizontal Y, the arms of which end at the corners of the hoist side; the Y embraces a black isosceles triangle from which the arms are separated by narrow yellow bands; the red and blue bands are separated from the green band and its arms by narrow white stripes |
+
+| Economy | South Africa |
+| --- | --- |
+| Economy - overview: | South Africa is a middle-income, emerging market with an abundant supply of natural resources; well-developed financial, legal, communications, energy, and transport sectors; a stock exchange that ranks among the 10 largest in the world; and a modern infrastructure supporting an efficient distribution of goods to major urban centers throughout the region. However, growth has not been strong enough to lower South Africa's high unemployment rate, and daunting economic problems remain from the apartheid era - especially poverty and lack of economic empowerment among the disadvantaged groups. South African economic policy is fiscally conservative but pragmatic focusing on targeting inflation and liberalizing trade as means to increase job growth and household income. |
+| GDP (purchasing power parity): | $587.5 billion (2006 est.) |
+| GDP (official exchange rate): | $201.4 billion (2006 est.) |
+| GDP - real growth rate: | 5% (2006 est.) |
+| GDP - per capita (PPP): | $13,300 (2006 est.) |
+| GDP - composition by sector: | agriculture: 2.7% |
+| | industry: 30.9% |
+| | services: 66.4% (2006 est.) |
+| Labor force: | 16.96 million economically active (2006 est.) |
+| Labor force - by occupation: | agriculture: 30% |
+| | industry: 25% |
+| | services: 45% (1999 est.) |
+| Unemployment rate: | 25.5% (2006 est.) |
+| Population below poverty line: | 50% (2000 est.) |
+| Household income or consumption by percentage share: | lowest 10%: 1.4% |
+| | highest 10%: 44.7% (2000) |
+| Distribution of family income - Gini index: | 57.8 (2000) |
+| Inflation rate (consumer prices): | 4.6% (2006 est.) |
+| Investment (gross fixed): | 18.7% of GDP (2006 est.) |
+| Budget: | revenues: $69.22 billion |
+| | expenditures: $67.78 billion (2006 est.) |
+| Public debt: | 33.3% of GDP (2006 est.) |
+| Agriculture - products: | corn, wheat, sugarcane, fruits, vegetables; beef, poultry, mutton, wool, dairy products |
+| Industries: | mining (world's largest producer of platinum, gold, chromium), automobile assembly, metalworking, machinery, textiles, iron and steel, chemicals, fertilizer, foodstuffs, commercial ship repair |
+| Industrial production growth rate: | 7.1% (2006 est.) |
+| Electricity - production: | 228.3 billion kWh (2005) |
+| Electricity - production by source: | fossil fuel: 93.5% |
+| | hydro: 1.1% |
+| | nuclear: 5.5% |
+| | other: 0% (2001) |
+| Electricity - consumption: | 210.7 billion kWh (2005) |
+| Electricity - exports: | 13.42 billion kWh (2005) |
+| Electricity - imports: | 11.08 billion kWh (2005) |
+| Oil - production: | 229,900 bbl/day (2004 est.) |
+| Oil - consumption: | 502,000 bbl/day (2004 est.) |
+| Oil - exports: | NA bbl/day |
+| Oil - imports: | 398,000 bbl/day (2006) |
+| Oil - proved reserves: | 15.68 million bbl (1 January 2006) |
+| Natural gas - production: | 2.11 billion cu m (2005 est.) |
+| Natural gas - consumption: | 2.11 billion cu m (2005 est.) |
+| Natural gas - exports: | 0 cu m (2005 est.) |
+| Natural gas - imports: | 0 cu m (2005) |
+| Natural gas - proved reserves: | 27.16 million cu m (1 January 2006 est.) |
+| Current account balance: | $-16.28 billion (2006 est.) |
+| Exports: | $63.77 billion f.o.b. (2006 est.) |
+| Exports - commodities: | gold, diamonds, platinum, other metals and minerals, machinery and equipment |
+| Exports - partners: | Japan 12.1%, US 11.8%, UK 9%, Germany 7.6%, Netherlands 5.3%, China 4% (2006) |
+| Imports: | $69.94 billion f.o.b. (2006 est.) |
+| Imports - commodities: | machinery and equipment, chemicals, petroleum products, scientific instruments, foodstuffs |
+| Imports - partners: | Germany 12.6%, China 10%, US 7.6%, Japan 6.6%, Saudi Arabia 5.3%, UK 5% (2006) |
+| Economic aid - recipient: | $700 million (2005) |
+| Reserves of foreign exchange and gold: | $25.59 billion (2006 est.) |
+| Debt - external: | $31.84 billion (2006 est.) |
+| Stock of direct foreign investment - at home: | $77.35 billion (2006 est.) |
+| Stock of direct foreign investment - abroad: | $43.32 billion (2006 est.) |
+| Market value of publicly traded shares: | $715 billion (2006) |
+| Currency (code): | rand (ZAR) |
+| Currency code: | ZAR |
+| Exchange rates: | rand per US dollar - 6.7649 (2006), 6.3593 (2005), 6.4597 (2004), 7.5648 (2003), 10.5407 (2002) |
+| Fiscal year: | 1 April - 31 March |
+
+| Communications | South Africa |
+| --- | --- |
+| Telephones - main lines in use: | 4.729 million (2005) |
+| Telephones - mobile cellular: | 39.66 million (2006) |
+| Telephone system: | general assessment: the system is the best developed and most modern in Africa |
+| | domestic: consists of carrier-equipped open-wire lines, coaxial cables, microwave radio relay links, fiber-optic cable, radiotelephone communication stations, and wireless local loops; key centers are Bloemfontein, Cape Town, Durban, Johannesburg, Port Elizabeth, and Pretoria |
+| | international: country code - 27; 2 submarine cables; satellite earth stations - 3 Intelsat (1 Indian Ocean and 2 Atlantic Ocean) |
+| Radio broadcast stations: | AM 14, FM 347 (plus 243 repeaters), shortwave 1 (1998) |
+| Radios: | 17 million (2001) |
+| Television broadcast stations: | 556 (plus 144 network repeaters) (1997) |
+| Televisions: | 6 million (2000) |
+| Internet country code: | .za |
+| Internet hosts: | 1.088 million (2007) |
+| Internet Service Providers (ISPs): | 150 (2001) |
+| Internet users: | 5.1 million (2005) |
+
+| Transportation | South Africa |
+| --- | --- |
+| Airports: | 728 (2007) |
+| Airports - with paved runways: | total: 146 |
+| | over 3,047 m: 10 |
+| | 2,438 to 3,047 m: 5 |
+| | 1,524 to 2,437 m: 51 |
+| | 914 to 1,523 m: 67 |
+| | under 914 m: 13 (2007) |
+| Airports - with unpaved runways: | total: 582 |
+| | 1,524 to 2,437 m: 34 |
+| | 914 to 1,523 m: 300 |
+| | under 914 m: 248 (2007) |
+| Heliports: | 1 (2007) |
+| Pipelines: | condensate 100 km; gas 1,062 km; oil 966 km; refined products 1,354 km (2006) |
+| Railways: | total: 20,872 km |
+| | narrow gauge: 20,436 km 1.065-m gauge (8,931 km electrified); 436 km 0.610-m gauge (2006) |
+| Roadways: | total: 362,099 km |
+| | paved: 73,506 km (includes 239 km of expressways) |
+| | unpaved: 288,593 km (2002) |
+| Merchant marine: | total: 2 ships (1000 GRT or over) 28,722 GRT/32,226 DWT |
+| | by type: container 1, petroleum tanker 1 |
+| | foreign-owned: 1 (Denmark 1) |
+| | registered in other countries: 6 (Bahamas 1, Seychelles 1, UK 4, unknown 1) (2007) |
+| Ports and terminals: | Cape Town, Durban, East London, Port Elizabeth, Richards Bay, Saldanha Bay |
+
+| Military | South Africa |
+| --- | --- |
+| Military branches: | South African National Defense Force (SANDF): South African Army, South African Navy (SAN), South African Air Force (SAAF), Joint Operations Command, Joint Support Command, Military Intelligence, Military Health Service (2007) |
+| Military service age and obligation: | 18 years of age for voluntary military service; women have a long history of military service in noncombat roles dating back to World War I (2004) |
+| Manpower available for military service: | males age 18-49: 10,354,769 |
+| | females age 18-49: 10,626,550 (2005 est.) |
+| Manpower fit for military service: | males age 18-49: 4,927,757 |
+| | females age 18-49: 4,609,071 (2005 est.) |
+| Manpower reaching military service age annually: | males age 18-49: 512,407 |
+| | females age 18-49: 506,078 (2005 est.) |
+| Military expenditures - percent of GDP: | 1.7% (2006) |
+| Military - note: | with the end of apartheid and the establishment of majority rule, former military, black homelands forces, and ex-opposition forces were integrated into the South African National Defense Force (SANDF); as of 2003 the integration process was considered complete |
+
+| Transnational Issues | South Africa |
+| --- | --- |
+| Disputes - international: | South Africa has placed military along the border to apprehend the thousands of Zimbabweans fleeing economic dysfunction and political persecution; as of January 2007, South Africa also supports large numbers of refugees and asylum seekers from the Democratic Republic of the Congo (33,000), Somalia (20,000), Burundi (6,500), and other states in Africa (26,000); managed dispute with Namibia over the location of the boundary in the Orange River; in 2006, Swazi king advocates resort to ICJ to claim parts of Mpumalanga and KwaZulu-Natal from South Africa |
+| Refugees and internally displaced persons: | refugees (country of origin): 10,609 (Democratic Republic of Congo), 7,548 (Somalia), 5,764 (Angola) (2006) |
+| Trafficking in persons: | current situation: South Africa is a source, transit, and destination country for men, women, and children trafficked for forced labor and sexual exploitation; women and girls are trafficked internally - and occasionally to European and Asian countries - for sexual exploitation; women from other African countries are trafficked to South Africa and, less frequently, onward to Europe for sexual exploitation; men and boys are trafficked from neighboring countries for forced agricultural labor; Asian and Eastern European women are trafficked to South Africa for debt-bonded sexual exploitation |
+| | tier rating: Tier 2 Watch List - South Africa is placed on the Tier 2 Watch List for its failure to show increasing efforts to address trafficking in 2005 |
+| Illicit drugs: | transshipment center for heroin, hashish, and cocaine, as well as a major cultivator of marijuana in its own right; cocaine and heroin consumption on the rise; world's largest market for illicit methaqualone, usually imported illegally from India through various east African countries, but increasingly producing its own synthetic drugs for domestic consumption; attractive venue for money launderers given the increasing level of organized criminal and narcotics activity in the region and the size of the South African economy |
+
+---
+This page was last updated on 13 December, 2007                      

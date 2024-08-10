@@ -1,0 +1,8 @@
+Discovered by the US early in the 19th century, the island was officially claimed by the US in 1857. Both US and British companies mined for guano until about 1890. Earhart Light, a day beacon near the middle of the west coast, was partially destroyed during World War II, but subsequently rebuilt; it is named in memory of the famed aviatrix Amelia EARHART. The island is administered by the US Department of the Interior as a National Wildlife Refuge.  
+
+---
+country: Howland Island
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Howland Island/>
+license: public domain (U.S.)
+...

@@ -1,0 +1,29 @@
+CIA - The World Factbook --     
+
+| Rank | country | | Date of Information |
+| --- | --- | --- | --- |
+| 1 | United States | 23,530,000,000.00 | NA |
+| 2 | United Kingdom | 12,460,000,000.00 | NA |
+| 3 | Japan | 11,190,000,000.00 | NA |
+| 4 | France | 10,600,000,000.00 | NA |
+| 5 | Germany | 10,440,000,000.00 | NA |
+| 6 | Netherlands | 5,452,000,000.00 | NA |
+| 7 | Sweden | 3,955,000,000.00 | NA |
+| 8 | Canada | 3,900,000,000.00 | NA |
+| 9 | Spain | 3,814,000,000.00 | NA |
+| 10 | Italy | 3,641,000,000.00 | NA |
+| 11 | Norway | 2,954,000,000.00 | NA |
+| 12 | Denmark | 2,236,000,000.00 | NA |
+| 13 | Australia | 2,123,000,000.00 | NA |
+| 14 | Belgium | 1,978,000,000.00 | NA |
+| 15 | Switzerland | 1,646,000,000.00 | NA |
+| 16 | Austria | 1,498,000,000.00 | NA |
+| 17 | Finland | 1,023,000,000.00 | NA |
+| 18 | Ireland | 1,022,000,000.00 | NA |
+| 19 | Korea, South | 455,300,000.00 | NA |
+| 20 | Greece | 424,000,000.00 | NA |
+| 21 | Portugal | 396,000,000.00 | NA |
+| 22 | Luxembourg | 291,000,000.00 | NA |
+| 23 | New Zealand | 259,000,000.00 | NA |
+| 24 | Cyprus | 25,900,000.00 | NA |
+| 25 | Iceland | 6,700,000.00 | NA |

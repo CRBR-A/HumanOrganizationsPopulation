@@ -1,0 +1,27 @@
+Telephone Code: 261
+Local Emergency Phone: Local numbers only
+Climate: Tropical along coast, temperate inland, arid in south
+Currency (Code): Malagasy ariary (MGA)
+Electricity: 220 V
+Voltage: 50 Hz
+Plug types(s): C, E
+Major Languages: French, Malagasy, English
+Major Religions: Christian, indigenous, Muslim
+Time Difference: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Ile Sainte Marie; Isalo National Park; Tsingy de Bemaraha; Avenue of the Baobabs; Royal Hill of Ambohimanga
+Major Sports: Soccer, rugby, track and field, basketball, tennis
+Cultural Practices: The left hand is considered unclean so try to avoid using it for gift giving or introductions.
+Tipping Guidelines: Tipping is expected for tour guides and drivers. Tip the guide the equivalent of 15,000-20,000 AR ($7-10 USD) per day and the driver 5,000-10,000 AR (about $5 USD) per day. Bellboys and housekeepers should receive about 2000 AR per bag or per day as a tip.
+Souvenirs: Vanilla, baobab seeds, Batik/handwoven fabric and hand-beaded slippers; gold or silver hairpins, brooches, and other jewelry; pewter goods
+Traditional Cuisine: Romazava --- beef and green leaves stew
+
+---
+country: Madagascar
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Madagascar/travel-facts>
+license: public domain (U.S.)
+...

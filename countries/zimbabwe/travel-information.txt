@@ -1,0 +1,29 @@
+Telephone Code: 263
+Local Emergency Phone - Ambulance: 994, 999
+Local Emergency Phone - Fire: 993, 999
+Local Emergency Phone - Police: 995, 999
+Climate: Tropical; moderated by altitude; rainy season (November to March)
+Currency (Code): Zimbabwean dollars (ZWD)
+Electricity: 240 V
+Voltage: 50 Hz
+Plug types(s): D, G
+Major Languages: Shona, Ndebele , English, 13 minority languages
+Major Religions: Protestant 74.8% (includes Apostolic, Pentecostal, other), Roman Catholic 7.3%, other Christian 5.3%, traditional 1.5%, Muslim 0.5%, other 0.1%, none 10.5%
+Time Difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Left
+Tourist Destinations: Harare; Chinhoyi Caves; Bulawayo; Great Zimbabwe Ruins; Hwange National Park; Mana Pools National Park; Lake Kariba; Victoria Falls, Matobo National Park
+Major Sports: Soccer, cricket, tennis, handball
+Cultural Practices: Speaking to someone with your hands in your pockets is considered impolite.
+Tipping Guidelines: At restaurants, the tipping standard is usually 10% of the bill. Tip safari guides at the end of a tour $10-15 (USD) per person per day.
+Souvenirs: Copper-, wood-, and soapstone-carved items; local fabrics; basketwork; pottery; leather goods
+Traditional Cuisine: Sadza --- cornmeal mixed with water until it becomes a stiff dumpling-like porridge which is then boiled; typically served hot as a side dish for meat or vegetable stews
+
+---
+country: Zimbabwe
+date: June 28, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Zimbabwe/travel-facts>
+license: public domain (U.S.)
+...

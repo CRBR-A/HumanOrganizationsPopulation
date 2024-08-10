@@ -1,0 +1,208 @@
+CIA - The World Factbook --  Child labor - children ages 5-14   
+
+| Rank | country | Child labor - children ages 5-14 | Date of Information |
+| --- | --- | --- | --- |
+| 1 | India | 26,965,074.00 | 2006 est. |
+| 2 | Nigeria | 11,396,823.00 | 2007 est. |
+| 3 | Ethiopia | 10,693,164.00 | 2005 est. |
+| 4 | Congo, Democratic Republic of the | 8,284,395.00 | 2010 est. |
+| 5 | Bangladesh | 4,485,497.00 | 2006 est. |
+| 6 | Indonesia | 4,026,285.00 | 2009 est. |
+| 7 | Afghanistan | 3,252,243.00 | 2008 est. |
+| 8 | Tanzania | 2,815,085.00 | 2006 est. |
+| 9 | Haiti | 2,587,205.00 | 2006 est. |
+| 10 | Peru | 2,545,855.00 | 2007 est. |
+| 11 | Vietnam | 2,545,616.00 | 2006 est. |
+| 12 | Nepal | 2,467,549.00 | 2008 est. |
+| 13 | Kenya | 2,146,058.00 | 2000 est. |
+| 14 | Madagascar | 1,827,423.00 | 2007 est. |
+| 15 | Ghana | 1,806,750.00 | 2006 est. |
+| 16 | Cote d'Ivoire | 1,796,802.00 | 2006 est. |
+| 17 | Niger | 1,557,913.00 | 2006 est. |
+| 18 | Burkina Faso | 1,521,006.00 | 2006 est. |
+| 19 | Mali | 1,485,027.00 | 2010 est. |
+| 20 | Chad | 1,475,960.00 | 2010 est. |
+| 21 | Cameroon | 1,396,281.00 | 2006 est. |
+| 22 | Mozambique | 1,369,080.00 | 2008 est. |
+| 23 | Cambodia | 1,345,269.00 | 2001 est. |
+| 24 | Yemen | 1,334,288.00 | 2006 est. |
+| 25 | Somalia | 1,148,265.00 | 2006 est. |
+| 26 | Mexico | 1,105,617.00 | 2009 est. |
+| 27 | Egypt | 1,066,526.00 | 2005 est. |
+| 28 | Benin | 1,020,981.00 | 2006 est. |
+| 29 | Zambia | 1,000,850.00 | 2005 est. |
+| 30 | Malawi | 993,318.00 | 2006 est. |
+| 31 | Colombia | 988,362.00 | 2009 est. |
+| 32 | Brazil | 959,942.00 | 2009 est. |
+| 33 | Guatemala | 929,852.00 | 2006 est. |
+| 34 | Angola | 832,895.00 | 2001 est. |
+| 35 | Thailand | 818,399.00 | 2006 est. |
+| 36 | Rwanda | 783,113.00 | 2000 est. |
+| 37 | Togo | 774,801.00 | 2010 est. |
+| 38 | Iraq | 715,737.00 | 2006 est. |
+| 39 | Senegal | 657,216.00 | 2005 est. |
+| 40 | Sierra Leone | 573,287.00 | 2005 est. |
+| 41 | Guinea | 571,774.00 | 2003 est. |
+| 42 | Kyrgyzstan | 563,920.00 | 2007 est. |
+| 43 | Bolivia | 553,323.00 | 2008 est. |
+| 44 | Central African Republic | 532,518.00 | 2006 est. |
+| 45 | Morocco | 500,960.00 | 2007 est. |
+| 46 | Argentina | 435,252.00 | 2003 est. |
+| 47 | Burundi | 433,187.00 | 2005 est. |
+| 48 | Venezuela | 404,092.00 | 2000 est. |
+| 49 | Ukraine | 356,213.00 | 2005 est. |
+| 50 | Turkey | 321,866.00 | 2006 est. |
+| 51 | Algeria | 304,358.00 | 2006 est. |
+| 52 | Honduras | 280,809.00 | 2002 est. |
+| 53 | Congo, Republic of the | 252,171.00 | 2005 est. |
+| 54 | Ecuador | 227,599.00 | 2008 est. |
+| 55 | Guinea-Bissau | 226,316.00 | 2010 est. |
+| 56 | Nicaragua | 223,992.00 | 2005 est. |
+| 57 | Paraguay | 205,297.00 | 2004 est. |
+| 58 | Syria | 192,915.00 | 2006 est. |
+| 59 | Dominican Republic | 180,423.00 | 2000 est. |
+| 60 | El Salvador | 179,303.00 | 2007 est. |
+| 61 | Liberia | 177,160.00 | 2007 est. |
+| 62 | Laos | 175,138.00 | 2006 est. |
+| 63 | Tajikistan | 164,432.00 | 2005 est. |
+| 64 | Mauritania | 127,251.00 | 2007 est. |
+| 65 | Uganda | 117,266.00 | 2010 est. |
+| 66 | Georgia | 113,106.00 | 2005 est. |
+| 67 | Azerbaijan | 106,626.00 | 2005 est. |
+| 68 | Mongolia | 106,203.00 | 2005 est. |
+| 69 | Gambia, The | 103,389.00 | 2006 est. |
+| 70 | Lesotho | 103,020.00 | 2000 est. |
+| 71 | Chile | 82,882.00 | 2003 est. |
+| 72 | Albania | 72,818.00 | 2005 est. |
+| 73 | Moldova | 72,364.00 | 2009 est. |
+| 74 | Panama | 59,294.00 | 2010 est. |
+| 75 | Kazakhstan | 59,254.00 | 2006 est. |
+| 76 | Lebanon | 54,387.00 | 2000 est. |
+| 77 | Belarus | 54,218.00 | 2005 est. |
+| 78 | Uruguay | 51,879.00 | 2006 est. |
+| 79 | Botswana | 45,036.00 | 2006 est. |
+| 80 | Comoros | 39,550.00 | 2000 est. |
+| 81 | Costa Rica | 39,082.00 | 2002 est. |
+| 82 | Jamaica | 38,516.00 | 2005 est. |
+| 83 | Portugal | 36,569.00 | 2001 est. |
+| 84 | Serbia | 36,141.00 | 2005 est. |
+| 85 | Equatorial Guinea | 35,382.00 | 2000 est. |
+| 86 | Guyana | 30,255.00 | 2006 est. |
+| 87 | Swaziland | 28,043.00 | 2000 est. |
+| 88 | Belize | 27,751.00 | 2001 est. |
+| 89 | Romania | 26,658.00 | 2000 est. |
+| 90 | Bhutan | 25,801.00 | 2010 est. |
+| 91 | Bosnia and Herzegovina | 24,722.00 | 2006 est. |
+| 92 | Armenia | 19,596.00 | 2007 est. |
+| 93 | Macedonia | 16,782.00 | 2005 est. |
+| 94 | Djibouti | 13,176.00 | 2006 est. |
+| 95 | Timor-Leste | 10,510.00 | 2002 est. |
+| 96 | Montenegro | 8,520.00 | 2005 est. |
+| 97 | Suriname | 6,094.00 | 2006 est. |
+| 98 | Bahrain | 5,530.00 | 2000 est. |
+| 99 | Sao Tome and Principe | 3,235.00 | 2006 est. |
+| 100 | Cabo Verde | 1,948.00 | 2001 est. |
+| 101 | Trinidad and Tobago | 1,201.00 | 2006 est. |
+| 102 | Guinea-Bissau | 57.00 | 2010 est. |
+| 103 | Ethiopia | 53.00 | 2005 est. |
+| 104 | Somalia | 49.00 | 2006 est. |
+| 105 | Chad | 48.00 | 2010 est. |
+| 106 | Sierra Leone | 48.00 | 2005 est. |
+| 107 | Togo | 47.00 | 2010 est. |
+| 108 | Central African Republic | 47.00 | 2006 est. |
+| 109 | Benin | 46.00 | 2006 est. |
+| 110 | Niger | 43.00 | 2006 est. |
+| 111 | Congo, Democratic Republic of the | 42.00 | 2010 est. |
+| 112 | Zambia | 41.00 | 2005 est. |
+| 113 | Kyrgyzstan | 40.30 | 2007 est. |
+| 114 | Belize | 40.00 | 2001 est. |
+| 115 | Cambodia | 39.00 | 2001 est. |
+| 116 | Burkina Faso | 38.00 | 2006 est. |
+| 117 | Mali | 36.00 | 2010 est. |
+| 118 | Cote d'Ivoire | 35.00 | 2006 est. |
+| 119 | Rwanda | 35.00 | 2000 est. |
+| 120 | Ghana | 34.00 | 2006 est. |
+| 121 | Peru | 34.00 | 2007 est. |
+| 122 | Nepal | 34.00 | 2008 est. |
+| 123 | Cameroon | 31.00 | 2006 est. |
+| 124 | Nigeria | 29.00 | 2007 est. |
+| 125 | Madagascar | 28.00 | 2007 est. |
+| 126 | Equatorial Guinea | 28.00 | 2000 est. |
+| 127 | Comoros | 27.00 | 2000 est. |
+| 128 | Bolivia | 26.00 | 2008 est. |
+| 129 | Malawi | 26.00 | 2006 est. |
+| 130 | Kenya | 26.00 | 2000 est. |
+| 131 | Guinea | 25.00 | 2003 est. |
+| 132 | Congo, Republic of the | 25.00 | 2005 est. |
+| 133 | Uganda | 25.00 | 2010 est. |
+| 134 | Gambia, The | 25.00 | 2006 est. |
+| 135 | Afghanistan | 25.00 | 2008 est. |
+| 136 | Angola | 24.00 | 2001 est. |
+| 137 | Yemen | 23.00 | 2006 est. |
+| 138 | Lesotho | 23.00 | 2000 est. |
+| 139 | Mozambique | 22.00 | 2008 est. |
+| 140 | Senegal | 22.00 | 2005 est. |
+| 141 | Liberia | 21.00 | 2007 est. |
+| 142 | Guatemala | 21.00 | 2006 est. |
+| 143 | Tanzania | 21.00 | 2006 est. |
+| 144 | Haiti | 21.00 | 2006 est. |
+| 145 | Burundi | 19.00 | 2005 est. |
+| 146 | Bhutan | 18.00 | 2010 est. |
+| 147 | Mongolia | 18.00 | 2005 est. |
+| 148 | Georgia | 18.00 | 2005 est. |
+| 149 | Mauritania | 16.00 | 2007 est. |
+| 150 | Vietnam | 16.00 | 2006 est. |
+| 151 | Guyana | 16.00 | 2006 est. |
+| 152 | Honduras | 16.00 | 2002 est. |
+| 153 | Moldova | 16.00 | 2009 est. |
+| 154 | Paraguay | 15.00 | 2004 est. |
+| 155 | Nicaragua | 14.00 | 2005 est. |
+| 156 | Bangladesh | 13.00 | 2006 est. |
+| 157 | Albania | 12.00 | 2005 est. |
+| 158 | India | 12.00 | 2006 est. |
+| 159 | Laos | 11.00 | 2006 est. |
+| 160 | Iraq | 11.00 | 2006 est. |
+| 161 | Tajikistan | 10.00 | 2005 est. |
+| 162 | Dominican Republic | 10.00 | 2000 est. |
+| 163 | Montenegro | 10.00 | 2005 est. |
+| 164 | Swaziland | 9.00 | 2000 est. |
+| 165 | Botswana | 9.00 | 2006 est. |
+| 166 | Colombia | 9.00 | 2009 est. |
+| 167 | Ecuador | 8.00 | 2008 est. |
+| 168 | Sao Tome and Principe | 8.00 | 2006 est. |
+| 169 | Thailand | 8.00 | 2006 est. |
+| 170 | Morocco | 8.00 | 2007 est. |
+| 171 | Djibouti | 8.00 | 2006 est. |
+| 172 | Venezuela | 8.00 | 2000 est. |
+| 173 | Egypt | 7.00 | 2005 est. |
+| 174 | Azerbaijan | 7.00 | 2005 est. |
+| 175 | Indonesia | 7.00 | 2009 est. |
+| 176 | Panama | 7.00 | 2010 est. |
+| 177 | Argentina | 7.00 | 2003 est. |
+| 178 | Ukraine | 7.00 | 2005 est. |
+| 179 | Lebanon | 7.00 | 2000 est. |
+| 180 | Uruguay | 7.00 | 2006 est. |
+| 181 | Suriname | 6.00 | 2006 est. |
+| 182 | Macedonia | 6.00 | 2005 est. |
+| 183 | Jamaica | 6.00 | 2005 est. |
+| 184 | Bahrain | 5.00 | 2000 est. |
+| 185 | Belarus | 5.00 | 2005 est. |
+| 186 | Mexico | 5.00 | 2009 est. |
+| 187 | Algeria | 5.00 | 2006 est. |
+| 188 | Costa Rica | 5.00 | 2002 est. |
+| 189 | Bosnia and Herzegovina | 5.00 | 2006 est. |
+| 190 | El Salvador | 4.00 | 2007 est. |
+| 191 | Timor-Leste | 4.00 | 2002 est. |
+| 192 | Armenia | 4.00 | 2007 est. |
+| 193 | Serbia | 4.00 | 2005 est. |
+| 194 | Syria | 4.00 | 2006 est. |
+| 195 | Portugal | 3.00 | 2001 est. |
+| 196 | Chile | 3.00 | 2003 est. |
+| 197 | Turkey | 3.00 | 2006 est. |
+| 198 | Brazil | 3.00 | 2009 est. |
+| 199 | Cabo Verde | 3.00 | 2001 est. |
+| 200 | Kazakhstan | 2.00 | 2006 est. |
+| 201 | Trinidad and Tobago | 1.00 | 2006 est. |
+| 202 | Romania | 1.00 | 2000 est. |
+
+

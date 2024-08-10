@@ -1,0 +1,8 @@
+Occupied by the UK in 1841, Hong Kong was formally ceded by China the following year; various adjacent lands were added later in the 19th century. Pursuant to an agreement signed by China and the UK on 19 December 1984, Hong Kong became the Hong Kong Special Administrative Region of the People's Republic of China on 1 July 1997. In this agreement, China promised that, under its "one country, two systems" formula, China's socialist economic system would not be imposed on Hong Kong and that Hong Kong would enjoy a "high degree of autonomy" in all matters except foreign and defense affairs for the subsequent 50 years.  
+
+---
+country: Hong Kong
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Hong Kong/>
+license: public domain (U.S.)
+...

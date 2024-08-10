@@ -1,0 +1,14 @@
+| Precautions | Reconsider Travel to Pakistan due to terrorism. Some areas have increased risk. |
+| | Consult the link below for updates to travel advisories and statements on safety, security, local laws, and special circumstances in this country. |
+| | <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html> |
+| Passport/Visa Requirements | US citizens should make sure their passport will not expire for at least 6 months after they enter the country even if they do not intend to stay that long. They should also make sure they have at least 2 blank pages in their passport for any entry stamp and or visa that will be required. A visa is required. US citizens will need to get in touch with the country's embassy or nearest consulate to obtain a visa prior to visiting the country. |
+| Vaccinations | An International Certificate of Vaccination for yellow fever is required for travelers arriving from countries with a risk of yellow fever transmission and for travelers having transited through the airport of a country with risk of yellow fever transmission. Polio vaccination within one year before travel may be required to exit Pakistan. See WHO recommendations. Note: Pakistan is one of two countries with endemic wild polio virus and considered high risk for international spread of the disease. Before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; in addition, before travel to any high-risk destination, Centers for Disease Control and Prevention (CDC) recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine.  <http://www.who.int/> |
+| US Embassy/Consulate | [92] (51) 201-5000/ [92] (51) 201-4000; US Embassy in Islamabad, Diplomatic Enclave, Ramna 5, Islamabad, Pakistan; ACSIslamabad@state.gov; https://pk.usembassy.gov/ |
+
+---
+country: Pakistan
+date: June 23, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Pakistan/travel-facts>
+license: public domain (U.S.)
+...

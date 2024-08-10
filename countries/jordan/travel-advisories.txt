@@ -1,0 +1,14 @@
+| Precautions | Exercise increased caution in Jordan due to terrorism. Some areas have increased risk. |
+| | Consult the link below for updates to travel advisories and statements on safety, security, local laws, and special circumstances in this country. |
+| | <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html> |
+| Passport/Visa Requirements | US citizens should make sure their passport will not expire for at least 6 months after they enter the country even if they do not intend to stay that long. They should also make sure they have at least 1 blank page in their passport for any entry stamp. A visa is required, but single-entry visas are available to US citizens upon arrival at Queen Alia International Airport and at most international land border crossings. |
+| Vaccinations | An International Certificate of Vaccination for yellow fever is required for travelers arriving from countries with a risk of yellow fever transmission and for travelers having transited through the airport of a country with risk of yellow fever transmission. See WHO recommendations.  <http://www.who.int/> |
+| US Embassy/Consulate | [962] (6) 590-6000; US Embassy in Amman, Abdoun, Al-Umawyeen St., Amman -- Jordan; Amman-ACS@state.gov; https://jo.usembassy.gov/ |
+
+---
+country: Jordan
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Jordan/travel-facts>
+license: public domain (U.S.)
+...

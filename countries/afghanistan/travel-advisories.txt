@@ -1,0 +1,14 @@
+| Precautions | DO NOT TRAVEL to Afghanistan due to armed conflict, civil unrest, crime, terrorism, and kidnapping. |
+| | Consult the link below for updates to travel advisories and statements on safety, security, local laws, and special circumstances in this country. |
+| | <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html> |
+| Passport/Visa Requirements | US citizens should make sure their passport will not expire for at least 6 months after they enter the country even if they do not intend to stay that long. They should also make sure they have at least 2 blank pages in their passport for any entry stamp and or visa that will be required. A visa is required. US citizens will need to get in touch with the country's embassy or nearest consulate to obtain a visa prior to visiting the country. |
+| Vaccinations | An International Certificate of Vaccination for yellow fever is required for travelers arriving from countries with a risk of yellow fever transmission and for travelers having transited through the airport of a country with risk of yellow fever transmission. Polio vaccination up to 1 year before travel. See WHO recommendations. Note: Afghanistan is one of two countries with endemic wild polio virus and considered high risk for international spread of the disease. Before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; in addition, before travel to any high-risk destination, Centers for Disease Control and Prevention (CDC) recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine.  <http://www.who.int/> |
+| US Embassy/Consulate | [00 93] (0) 700-10-8000; US Embassy Kabul, Bibi Mahru, Kabul, Afghanistan; https://af.usembassy.gov/; KabulACS@state.gov; note U.S. Embassy Kabul suspended operations on August 31, 2021; USG is providing assistance through the Embassy in Doha, Qatar: Al-Luqta District, 22nd February Street, Doha, Qatar, +(974) 4496-6000, ACSDoha@state.gov or ConsularDoha@state.gov |
+
+---
+country: Afghanistan
+date: June 23, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Afghanistan/travel-facts>
+license: public domain (U.S.)
+...

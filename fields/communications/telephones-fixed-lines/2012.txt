@@ -1,0 +1,225 @@
+CIA - The World Factbook --  Telephones - main lines in use   
+
+This entry gives the total number of main telephone lines in use.
+
+| Rank | country | Telephones - main lines in use | Date of Information |
+| --- | --- | --- | --- |
+| 1 | China | 285,115,000 | 2011 |
+| 2 | United States | 146,000,000 | 2011 |
+| 3 | Japan | 64,668,000 | 2011 |
+| 4 | Germany | 51,800,000 | 2011 |
+| 5 | Russia | 44,152,000 | 2011 |
+| 6 | Brazil | 43,026,000 | 2011 |
+| 7 | France | 39,883,000 | 2011 |
+| 8 | Indonesia | 38,618,000 | 2011 |
+| 9 | United Kingdom | 33,230,000 | 2011 |
+| 10 | India | 32,685,000 | 2011 |
+| 11 | Korea, South | 29,468,000 | 2011 |
+| 12 | Iran | 27,767,000 | 2011 |
+| 13 | Italy | 22,116,000 | 2011 |
+| 14 | Spain | 19,867,000 | 2011 |
+| 15 | Mexico | 19,684,000 | 2011 |
+| 16 | Canada | 18,201,000 | 2011 |
+| 17 | Taiwan | 16,907,000 | 2011 |
+| 18 | Turkey | 15,211,000 | 2011 |
+| 19 | Ukraine | 12,681,000 | 2011 |
+| 20 | Australia | 10,570,000 | 2011 |
+| 21 | Vietnam | 10,175,000 | 2011 |
+| 22 | Argentina | 10,140,000 | 2011 |
+| 23 | Egypt | 8,714,000 | 2011 |
+| 24 | Venezuela | 7,332,000 | 2011 |
+| 25 | Netherlands | 7,135,000 | 2011 |
+| 26 | Colombia | 7,127,000 | 2011 |
+| 27 | Poland | 6,853,000 | 2011 |
+| 28 | Thailand | 6,661,000 | 2011 |
+| 29 | Greece | 5,745,000 | 2011 |
+| 30 | Pakistan | 5,722,000 | 2011 |
+| 31 | Romania | 4,680,000 | 2011 |
+| 32 | Saudi Arabia | 4,633,000 | 2011 |
+| 33 | Belgium | 4,631,000 | 2011 |
+| 34 | Switzerland | 4,613,000 | 2011 |
+| 35 | Sweden | 4,600,000 | 2011 |
+| 36 | Portugal | 4,530,000 | 2011 |
+| 37 | Syria | 4,345,000 | 2011 |
+| 38 | Hong Kong | 4,342,000 | 2011 |
+| 39 | Kazakhstan | 4,266,000 | 2011 |
+| 40 | Malaysia | 4,243,000 | 2011 |
+| 41 | Belarus | 4,208,000 | 2011 |
+| 42 | South Africa | 4,127,000 | 2011 |
+| 43 | Peru | 3,688,000 | 2011 |
+| 44 | Sri Lanka | 3,608,000 | 2011 |
+| 45 | Morocco | 3,566,000 | 2011 |
+| 46 | Philippines | 3,556,000 | 2011 |
+| 47 | Israel | 3,500,000 | 2011 |
+| 48 | Austria | 3,388,000 | 2011 |
+| 49 | Chile | 3,366,000 | 2011 |
+| 50 | Algeria | 3,059,000 | 2011 |
+| 51 | Serbia | 3,030,000 | 2011 |
+| 52 | Hungary | 2,933,000 | 2011 |
+| 53 | Denmark | 2,515,000 | 2011 |
+| 54 | Bulgaria | 2,356,000 | 2011 |
+| 55 | Czech Republic | 2,289,000 | 2011 |
+| 56 | Ecuador | 2,211,000 | 2011 |
+| 57 | Ireland | 2,047,000 | 2011 |
+| 58 | Singapore | 2,017,000 | 2011 |
+| 59 | Uzbekistan | 1,928,000 | 2011 |
+| 60 | New Zealand | 1,880,000 | 2011 |
+| 61 | United Arab Emirates | 1,825,000 | 2011 |
+| 62 | Iraq | 1,794,000 | 2011 |
+| 63 | Croatia | 1,761,000 | 2011 |
+| 64 | Azerbaijan | 1,684,000 | 2011 |
+| 65 | Guatemala | 1,626,000 | 2011 |
+| 66 | Norway | 1,529,000 | 2011 |
+| 67 | Georgia | 1,345,000 | 2011 |
+| 68 | Costa Rica | 1,234,000 | 2011 |
+| 69 | Tunisia | 1,218,000 | 2011 |
+| 70 | Cuba | 1,193,000 | 2011 |
+| 71 | Moldova | 1,180,000 | 2011 |
+| 72 | Korea, North | 1,180,000 | 2011 |
+| 73 | Finland | 1,080,000 | 2011 |
+| 74 | Yemen | 1,075,000 | 2011 |
+| 75 | Slovakia | 1,056,000 | 2011 |
+| 76 | Dominican Republic | 1,044,000 | 2011 |
+| 77 | El Salvador | 1,030,000 | 2011 |
+| 78 | Libya | 1,000,000 | 2011 |
+| 79 | Bangladesh | 977,700 | 2011 |
+| 80 | Uruguay | 964,900 | 2011 |
+| 81 | Bosnia and Herzegovina | 955,900 | 2011 |
+| 82 | Lebanon | 900,000 | 2011 |
+| 83 | Bolivia | 879,000 | 2011 |
+| 84 | Slovenia | 872,800 | 2011 |
+| 85 | Nepal | 845,500 | 2011 |
+| 86 | Ethiopia | 829,000 | 2011 |
+| 87 | Puerto Rico | 826,100 | 2011 |
+| 88 | Lithuania | 723,000 | 2011 |
+| 89 | Nigeria | 719,400 | 2011 |
+| 90 | Cameroon | 669,000 | 2011 |
+| 91 | Honduras | 609,200 | 2011 |
+| 92 | Armenia | 577,500 | 2011 |
+| 93 | Panama | 560,200 | 2011 |
+| 94 | Turkmenistan | 547,000 | 2011 |
+| 95 | Cambodia | 530,000 | 2011 |
+| 96 | Burma | 521,100 | 2011 |
+| 97 | Latvia | 516,300 | 2011 |
+| 98 | Kuwait | 514,700 | 2011 |
+| 99 | Kyrgyzstan | 502,000 | 2011 |
+| 100 | Sudan | 483,600 | 2011 |
+| 101 | Estonia | 471,900 | 2011 |
+| 102 | Jordan | 465,400 | 2011 |
+| 103 | Uganda | 464,800 | 2011 |
+| 104 | Macedonia | 422,100 | 2011 |
+| 105 | Cyprus | 405,000 | 2011 |
+| 106 | Tajikistan | 380,000 | 2011 |
+| 107 | Mauritius | 374,600 | 2011 |
+| 108 | Paraguay | 372,400 | 2011 |
+| 109 | Zimbabwe | 356,000 | 2011 |
+| 110 | Senegal | 346,400 | 2011 |
+| 111 | Albania | 338,800 | 2011 |
+| 112 | Gaza Strip | 337,000 | 2010 |
+| 113 | West Bank | 337,000 | 2010 |
+| 114 | Qatar | 306,700 | 2011 |
+| 115 | Angola | 303,200 | 2011 |
+| 116 | Trinidad and Tobago | 292,000 | 2011 |
+| 117 | Oman | 287,600 | 2011 |
+| 118 | Nicaragua | 287,600 | 2011 |
+| 119 | Ghana | 284,700 | 2011 |
+| 120 | Kenya | 283,500 | 2011 |
+| 121 | Luxembourg | 279,100 | 2011 |
+| 122 | Bahrain | 276,500 | 2011 |
+| 123 | Jamaica | 272,100 | 2011 |
+| 124 | Cote d'Ivoire | 268,200 | 2011 |
+| 125 | Togo | 240,000 | 2011 |
+| 126 | Malta | 232,300 | 2011 |
+| 127 | Iceland | 191,100 | 2011 |
+| 128 | Mongolia | 187,600 | 2011 |
+| 129 | Malawi | 173,500 | 2011 |
+| 130 | Montenegro | 169,500 | 2010 |
+| 131 | Macau | 165,500 | 2011 |
+| 132 | Tanzania | 161,100 | 2011 |
+| 133 | Benin | 152,700 | 2011 |
+| 134 | Guyana | 152,600 | 2011 |
+| 135 | Botswana | 149,600 | 2011 |
+| 136 | Burkina Faso | 141,500 | 2011 |
+| 137 | Barbados | 140,700 | 2011 |
+| 138 | Namibia | 140,000 | 2011 |
+| 139 | Madagascar | 138,100 | 2011 |
+| 140 | Bahamas, The | 133,000 | 2011 |
+| 141 | Papua New Guinea | 130,000 | 2011 |
+| 142 | Fiji | 129,800 | 2011 |
+| 143 | Laos | 107,600 | 2011 |
+| 144 | Kosovo | 106,300 | 2006 |
+| 145 | Mali | 104,700 | 2011 |
+| 146 | Somalia | 100,000 | 2010 |
+| 147 | Mozambique | 88,100 | 2011 |
+| 148 | Niger | 85,900 | 2011 |
+| 149 | Zambia | 85,700 | 2011 |
+| 150 | Suriname | 85,500 | 2011 |
+| 151 | Brunei | 79,800 | 2011 |
+| 152 | New Caledonia | 76,200 | 2011 |
+| 153 | Virgin Islands | 75,800 | 2010 |
+| 154 | Swaziland | 75,800 | 2011 |
+| 155 | Cape Verde | 74,500 | 2011 |
+| 156 | Jersey | 73,800 | 2010 |
+| 157 | Mauritania | 72,300 | 2011 |
+| 158 | Guam | 65,500 | 2010 |
+| 159 | Eritrea | 58,500 | 2011 |
+| 160 | Bermuda | 57,800 | 2010 |
+| 161 | Congo, Democratic Republic of the | 57,000 | 2011 |
+| 162 | French Polynesia | 55,000 | 2011 |
+| 163 | Gambia, The | 50,400 | 2011 |
+| 164 | Haiti | 50,000 | 2010 |
+| 165 | Guernsey | 45,100 | 2010 |
+| 166 | Monaco | 44,500 | 2011 |
+| 167 | Rwanda | 38,900 | 2011 |
+| 168 | Lesotho | 38,600 | 2011 |
+| 169 | Andorra | 38,400 | 2011 |
+| 170 | Cayman Islands | 37,200 | 2011 |
+| 171 | Saint Lucia | 35,900 | 2011 |
+| 172 | Antigua and Barbuda | 35,500 | 2011 |
+| 173 | Samoa | 35,300 | 2010 |
+| 174 | Aruba | 35,000 | 2010 |
+| 175 | Chad | 31,200 | 2011 |
+| 176 | Tonga | 30,000 | 2011 |
+| 177 | Burundi | 30,000 | 2011 |
+| 178 | Belize | 28,800 | 2011 |
+| 179 | Grenada | 28,400 | 2010 |
+| 180 | Seychelles | 27,900 | 2011 |
+| 181 | Bhutan | 27,500 | 2011 |
+| 182 | British Virgin Islands | 26,800 | 2010 |
+| 183 | Maldives | 24,100 | 2011 |
+| 184 | Gibraltar | 24,000 | 2010 |
+| 185 | Comoros | 23,600 | 2011 |
+| 186 | Saint Vincent and the Grenadines | 22,700 | 2011 |
+| 187 | Gabon | 22,500 | 2011 |
+| 188 | Saint Kitts and Nevis | 20,600 | 2010 |
+| 189 | Faroe Islands | 20,200 | 2009 |
+| 190 | Greenland | 19,900 | 2011 |
+| 191 | Liechtenstein | 19,600 | 2011 |
+| 192 | San Marino | 18,700 | 2011 |
+| 193 | Djibouti | 18,400 | 2011 |
+| 194 | Guinea | 18,000 | 2011 |
+| 195 | Dominica | 15,500 | 2010 |
+| 196 | Congo, Republic of the | 14,200 | 2011 |
+| 197 | Sierra Leone | 14,000 | 2010 |
+| 198 | Equatorial Guinea | 13,500 | 2010 |
+| 199 | Afghanistan | 13,500 | 2011 |
+| 200 | American Samoa | 10,400 | 2009 |
+| 201 | Micronesia, Federated States of | 8,500 | 2010 |
+| 202 | Kiribati | 8,500 | 2011 |
+| 203 | Solomon Islands | 8,400 | 2011 |
+| 204 | Sao Tome and Principe | 8,000 | 2011 |
+| 205 | Cook Islands | 7,200 | 2009 |
+| 206 | Palau | 6,900 | 2011 |
+| 207 | Anguilla | 6,200 | 2011 |
+| 208 | Vanuatu | 6,200 | 2011 |
+| 209 | Central African Republic | 5,400 | 2011 |
+| 210 | Guinea-Bissau | 5,000 | 2010 |
+| 211 | Saint Pierre and Miquelon | 4,800 | 2010 |
+| 212 | Marshall Islands | 4,400 | 2010 |
+| 213 | Liberia | 3,200 | 2011 |
+| 214 | Timor-Leste | 3,100 | 2011 |
+| 215 | Saint Helena, Ascension, and Tristan da Cunha | 3,000 | 2011 |
+| 216 | Montserrat | 2,600 | 2010 |
+| 217 | Falkland Islands (Islas Malvinas) | 2,000 | 2010 |
+| 218 | Nauru | 1,900 | 2009 |
+| 219 | Tuvalu | 1,400 | 2011 |

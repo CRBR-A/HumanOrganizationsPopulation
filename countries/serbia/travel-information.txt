@@ -1,0 +1,27 @@
+Telephone Code: 381
+Local Emergency Phone: 94
+Climate: In the north, continental climate (cold winters and hot, humid summers with well-distributed rainfall); in other parts, continental and Mediterranean climate (relatively cold winters with heavy snowfall and hot, dry summers and autumns)
+Currency (Code): Serbian dinars (RSD)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, F
+Major Languages: Serbian, Hungarian, Bosnian, Romani
+Major Religions: Orthodox 84.6%, Catholic 5%, Muslim 3.1%, Protestant 1%, atheist 1.1%, other 0.8% (includes agnostics, other Christians, Eastern, Jewish)
+Time Difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time); daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October
+Potable Water: Yes
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Novi Sad; Zlatibor; Studenica Monastery; Derdap National Park; Prizren; Kopaonik National Park; Stecci Medieval Tombstones; Gamzigrad-Romuliana, Palace of Galerius; Belgrade (includes Saint Sava Cathedral, Kalemegdan Fortress)
+Major Sports: Soccer, basketball, cricket, boxing, baseball
+Cultural Practices: There is a strong coffee culture in Serbia. Black coffee ('crna kafa') is served frequently throughout the day.
+Tipping Guidelines: Tipping is not obligatory in restaurants, but if you are satisfied with the service then leave a tip of 10-15%. Round up amounts for taxi fares or bar tabs.
+Souvenirs: Handmade jewelry, ceramics and pottery, brushwood carvings, sajkaca woolen caps, opanak leather shoes, lacework, woven rugs, Turkish coffee sets, herbal beauty products
+Traditional Cuisine: Sarma --- rolled cabbage stuffed with minced meat, rice or bulgur, various herbs, red pepper, paprika, ground sumac, or tomato sauce cooked over sauerkraut
+
+---
+country: Serbia
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Serbia/travel-facts>
+license: public domain (U.S.)
+...

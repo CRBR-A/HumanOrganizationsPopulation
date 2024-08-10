@@ -1,0 +1,14 @@
+| Precautions | Reconsider Travel to Cote d'Ivoire due to crime. Exercise increased caution due to civil unrest and terrorism.  Some areas have increased risk. |
+| | Consult the link below for updates to travel advisories and statements on safety, security, local laws, and special circumstances in this country. |
+| | <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html> |
+| Passport/Visa Requirements | US citizens should make sure their passport will not expire for at least 6 months after they enter the country even if they do not intend to stay that long. They should also make sure they have at least 1 blank page in their passport for any entry stamp and or visa that will be required. A visa is required. US citizens will need to get in touch with the country's embassy or nearest consulate to obtain a visa prior to visiting the country. |
+| Vaccinations | An International Certificate of Vaccination for yellow fever is required for all travelers. See WHO recommendations.  <http://www.who.int/> |
+| US Embassy/Consulate | [225] 22 49 40 00; US Embassy in Abidjan, B.P. 730 Abidjan Cidex 03, Côte d'Ivoire; https://ci.usembassy.gov/; AbjAmCit@state.gov |
+
+---
+country: Cote d''Ivoire
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Cote d''Ivoire/travel-facts>
+license: public domain (U.S.)
+...

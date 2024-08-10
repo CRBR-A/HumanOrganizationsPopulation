@@ -1,0 +1,27 @@
+Telephone Code: 758
+Local Emergency Phone: 999, 911
+Climate: Tropical, moderated by northeast trade winds; dry season (January to April), rainy season (May to August)
+Currency (Code): East Caribbean dollars (XCD)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): G
+Major Languages: English, French patois
+Major Religions: Roman Catholic 61.5%, Protestant 25.5%, other Christian 3.4%, Rastafari 1.9%
+Time Difference: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)
+Potable Water: Yes
+International Driving Permit: Suggested
+Road Driving Side: Left
+Tourist Destinations: Twin Pitons; Sulphur Springs Park Scenic Drive; Diamond Botanical Gardens; Soufriere Estate; Pigeon Island National Park; Rodney Bay; Tet Paul Nature Trail; Morne Fortune
+Major Sports: Soccer, cricket
+Cultural Practices: Expect to say hello and strike up conversations with strangers.
+Tipping Guidelines: The local standard for gratuities is around 10% of the total bill for restaurant's wait staff and taxi drivers. Bellhops, room service, and housekeeping should receive at least $1 (USD) per day or when a service is rendered, unless a service charge has been assessed.
+Souvenirs: Painted masks, pottery, rum, batik and silkscreened fabric, wood carvings, local honey and hot sauces
+Traditional Cuisine: Green Fig (unripe banana) and saltfish
+
+---
+country: Saint Lucia
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Saint Lucia/travel-facts>
+license: public domain (U.S.)
+...

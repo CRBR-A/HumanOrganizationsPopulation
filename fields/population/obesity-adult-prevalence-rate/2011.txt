@@ -1,0 +1,76 @@
+CIA - The World Factbook --  Obesity - adult prevalence rate   
+
+This entry gives the percent of a country's population considered to be obese. Obesity is defined as an adult having a Body Mass Index (BMI) greater to or equal to 30.0. BMI is calculated by taking a person's weight in kg and dividing it by the person's squared height in meters.
+
+| Rank | country | (%) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | American Samoa | 74.60 | 2007 |
+| 2 | Tokelau | 63.40 | 2007 |
+| 3 | Tonga | 56.00 | 2000 |
+| 4 | Kiribati | 50.60 | 2006 |
+| 5 | Saudi Arabia | 35.60 | 2000 |
+| 6 | United States | 33.90 | 2006 |
+| 7 | United Arab Emirates | 33.70 | 2000 |
+| 8 | Egypt | 30.30 | 2006 |
+| 9 | Kuwait | 28.80 | 2000 |
+| 10 | New Zealand | 26.50 | 2007 |
+| 11 | Seychelles | 25.10 | 2004 |
+| 12 | Fiji | 23.90 | 2004 |
+| 13 | Mexico | 23.60 | 2000 |
+| 14 | Canada | 23.10 | 2004 |
+| 15 | Israel | 22.90 | 2001 |
+| 16 | United Kingdom | 22.70 | 2002 |
+| 17 | Greece | 22.50 | 2003 |
+| 18 | Croatia | 22.30 | 2003 |
+| 19 | Chile | 21.90 | 2003 |
+| 20 | Bosnia and Herzegovina | 21.70 | 2002 |
+| 21 | Malta | 20.70 | 2007 |
+| 22 | Lithuania | 19.70 | 2006 |
+| 23 | Jordan | 19.50 | 2004 |
+| 24 | Poland | 18.00 | 2001 |
+| 25 | Hungary | 17.70 | 2004 |
+| 26 | France | 16.90 | 2007 |
+| 27 | Australia | 16.40 | 2005 |
+| 28 | Malaysia | 16.30 | 2006 |
+| 29 | Peru | 16.30 | 2000 |
+| 30 | Turkey | 16.10 | 2007 |
+| 31 | Morocco | 16.00 | 2000 |
+| 32 | Finland | 15.70 | 2008 |
+| 33 | Zimbabwe | 15.70 | 2005 |
+| 34 | Spain | 15.60 | 2007 |
+| 35 | Latvia | 15.60 | 2006 |
+| 36 | Czech Republic | 15.10 | 2002 |
+| 37 | Slovenia | 15.00 | 2001 |
+| 38 | Estonia | 14.40 | 2004 |
+| 39 | Slovakia | 14.30 | 2002 |
+| 40 | Portugal | 14.20 | 2005 |
+| 41 | Iran | 14.20 | 2005 |
+| 42 | Colombia | 13.70 | 2007 |
+| 43 | Lebanon | 13.50 | 2004 |
+| 44 | Ireland | 13.00 | 2002 |
+| 45 | Germany | 12.90 | 2003 |
+| 46 | Iceland | 12.40 | 2002 |
+| 47 | Bulgaria | 12.40 | 2001 |
+| 48 | Cyprus | 12.30 | 2003 |
+| 49 | Sweden | 12.00 | 2009 |
+| 50 | Cuba | 11.80 | 2002 |
+| 51 | Denmark | 11.40 | 2006 |
+| 52 | Brazil | 11.10 | 2003 |
+| 53 | Austria | 11.00 | 2008 |
+| 54 | Belgium | 10.80 | 2001 |
+| 55 | Norway | 10.00 | 2009 |
+| 56 | Italy | 9.80 | 2005 |
+| 57 | Mongolia | 9.80 | 2005 |
+| 58 | Romania | 8.60 | 2000 |
+| 59 | Switzerland | 8.20 | 2007 |
+| 60 | Thailand | 7.80 | 2003 |
+| 61 | Singapore | 6.90 | 2004 |
+| 62 | Philippines | 4.30 | 2003 |
+| 63 | Eritrea | 3.30 | 2004 |
+| 64 | Korea, South | 3.20 | 2001 |
+| 65 | Japan | 3.10 | 2000 |
+| 66 | China | 2.90 | 2002 |
+| 67 | Indonesia | 2.40 | 2001 |
+| 68 | Madagascar | 2.10 | 2005 |
+| 69 | Laos | 1.20 | 2000 |
+| 70 | Vietnam | 0.50 | 2000 |

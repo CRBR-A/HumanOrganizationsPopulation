@@ -1,0 +1,286 @@
+CIA - The World Factbook -- Fiji
+page last updated on January 29, 2013
+
+
+| Geography | Fiji |
+| --- | --- |
+| Location: | Oceania, island group in the South Pacific Ocean, about two-thirds of the way from Hawaii to New Zealand |
+| Geographic coordinates: | 18 00 S, 175 00 E |
+| Map references: | Oceania |
+| Area: | total: 18,274 sq km |
+| | land: 18,274 sq km |
+| | water: 0 sq km |
+| Area - comparative: | slightly smaller than New Jersey |
+| Land boundaries: | 0 km |
+| Coastline: | 1,129 km |
+| Maritime claims: | measured from claimed archipelagic straight baselines |
+| | territorial sea: 12 nm |
+| | exclusive economic zone: 200 nm |
+| | continental shelf: 200 m depth or to the depth of exploitation; rectilinear shelf claim added |
+| Climate: | tropical marine; only slight seasonal temperature variation |
+| Terrain: | mostly mountains of volcanic origin |
+| Elevation extremes: | lowest point: Pacific Ocean 0 m |
+| | highest point: Tomanivi 1,324 m |
+| Natural resources: | timber, fish, gold, copper, offshore oil potential, hydropower |
+| Land use: | arable land: 10.95% |
+| | permanent crops: 4.65% |
+| | other: 84.4% (2005) |
+| Irrigated land: | 30 sq km (2003) |
+| Total renewable water resources: | 28.6 cu km (1987) |
+| Freshwater withdrawal (domestic/industrial/agricultural): | total: 0.07 cu km/yr (14%/14%/71%) |
+| | per capita: 82 cu m/yr (2000) |
+| Natural hazards: | cyclonic storms can occur from November to January |
+| Environment - current issues: | deforestation; soil erosion |
+| Environment - international agreements: | party to: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Law of the Sea, Marine Life Conservation, Ozone Layer Protection, Tropical Timber 83, Tropical Timber 94, Wetlands |
+| | signed, but not ratified: none of the selected agreements |
+| Geography - note: | includes 332 islands; approximately 110 are inhabited |
+
+
+| People and Society | Fiji |
+| --- | --- |
+| Nationality: | noun: Fijian(s) |
+| | adjective: Fijian |
+| Ethnic groups: | Fijian 57.3% (predominantly Melanesian with a Polynesian admixture), Indian 37.6%, Rotuman 1.2%, other 3.9% (European, other Pacific Islanders, Chinese) (2007 census) |
+| Languages: | English (official), Fijian (official), Hindustani |
+| Religions: | Protestant 55.4% (Methodist 34.6%, Assembly of God 5.7%, Seventh-Day Adventist 3.9%, Anglican 0.8%, other 10.4%), Hindu 27.9%, Roman Catholic 9.1%, Muslim 6.3%, Sikh 0.3%, other or unspecified 0.3%, none 0.7% (2007 census) |
+| Population: | 890,057 (July 2012 est.) |
+| Age structure: | 0-14 years: 28.6% (male 130,115/ female 124,565) |
+| | 15-64 years: 66% (male 299,842/ female 287,248) |
+| | 65 years and over: 5.4% (male 22,182/ female 26,105) (2012 est.) |
+| | population pyramid: [] |
+| Median age: | total: 27.2 years |
+| | male: 27 years |
+| | female: 27.4 years (2012 est.) |
+| Population growth rate: | 0.766% (2012 est.) |
+| Birth rate: | 20.7 births/1,000 population (2012 est.) |
+| Death rate: | 5.93 deaths/1,000 population (July 2012 est.) |
+| Net migration rate: | -7.11 migrant(s)/1,000 population (2012 est.) |
+| Urbanization: | urban population: 52% of total population (2010) |
+| | rate of urbanization: 1.3% annual rate of change (2010-15 est.) |
+| Major cities - population: | SUVA (capital) 174,000 (2009) |
+| Sex ratio: | at birth: 1.05 male(s)/female |
+| | under 15 years: 1.04 male(s)/female |
+| | 15-64 years: 1.04 male(s)/female |
+| | 65 years and over: 0.85 male(s)/female |
+| | total population: 1.03 male(s)/female (2011 est.) |
+| Maternal mortality rate: | 26 deaths/100,000 live births (2010) |
+| Infant mortality rate: | total: 10.73 deaths/1,000 live births |
+| | male: 11.82 deaths/1,000 live births |
+| | female: 9.58 deaths/1,000 live births (2012 est.) |
+| Life expectancy at birth: | total population: 71.59 years |
+| | male: 69 years |
+| | female: 74.32 years (2012 est.) |
+| Total fertility rate: | 2.58 children born/woman (2012 est.) |
+| Health expenditures: | 9.7% of GDP (2009) |
+| Physicians density: | 0.453 physicians/1,000 population (2003) |
+| Hospital bed density: | 2.08 beds/1,000 population (2008) |
+| HIV/AIDS - adult prevalence rate: | 0.1% (2009 est.) |
+| HIV/AIDS - people living with HIV/AIDS: | fewer than 1,000 (2009 est.) |
+| HIV/AIDS - deaths: | fewer than 100 (2009 est.) |
+| Obesity - adult prevalence rate: | 23.9% (2004) |
+| Education expenditures: | 6.2% of GDP (2004) |
+| Literacy: | definition: age 15 and over can read and write |
+| | total population: 93.7% |
+| | male: 95.5% |
+| | female: 91.9% (2003 est.) |
+| School life expectancy (primary to tertiary education): | total: 13 years |
+| | male: 13 years |
+| | female: 13 years (2005) |
+
+
+| Government | Fiji |
+| --- | --- |
+| Country name: | conventional long form: Republic of Fiji |
+| | conventional short form: Fiji |
+| | local long form: Republic of Fiji/Matanitu ko Viti |
+| | local short form: Fiji/Viti |
+| Government type: | republic |
+| Capital: | name: Suva (on Viti Levu) |
+| | geographic coordinates: 18 08 S, 178 25 E |
+| | time difference: UTC+12 (17 hours ahead of Washington, DC during Standard Time) |
+| | daylight saving time: +1hr, begins fourth Sunday in October; ends first Sunday in March |
+| Administrative divisions: | 4 divisions and 1 dependency*; Central, Eastern, Northern, Rotuma*, Western |
+| Independence: | 10 October 1970 (from the UK) |
+| National holiday: | Independence Day, second Monday of October (1970) |
+| Constitution: | enacted 25 July 1997; effective 28 July 1998; note - constitution encourages multiculturalism and makes multiparty government mandatory |
+| Legal system: | common law system based on the English model |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Suffrage: | 21 years of age; universal |
+| Executive branch: | chief of state: President Ratu Epeli NAILATIKAU (since 30 July 2009) |
+| | head of government: Prime Minister Laisenia QARASE (since 10 September 2000); note - although QARASE is still the legal prime minister, he has been confined to his home island; former President ILOILOVATU appointed Commodore Voreqe "Frank" BAINIMARAMA interim prime minister under the military regime |
+| | cabinet: Cabinet appointed by the prime minister from among the members of Parliament and responsible to Parliament; note - coup leader Commodore Voreqe BAINIMARAMA has appointed an interim cabinet |
+| | (For more information visit the World Leaders website [Opens in New Window]) |
+| | elections: under the constitution, president elected by the Great Council of Chiefs for a five-year term (eligible for a second term); in 2007 the Great Council of Chiefs was suspended from its role in electing the president; prime minister appointed by the president |
+| | election results: Ratu Epeli NAILATIKAU was appointed by Chief Justice Anthony GATES |
+| Legislative branch: | bicameral Parliament consists of the Senate (32 seats; 14 members appointed by the president on the advice of the Great Council of Chiefs, 9 appointed by the president on the advice of the Prime Minister, 8 on the advice of the opposition leader, and 1 appointed on the advice of the council of Rotuma) and the House of Representatives (71 seats; 23 members reserved for ethnic Fijians, 19 reserved for ethnic Indians, 3 reserved for other ethnic groups, 1 reserved for the council of Rotuma constituency encompassing the whole of Fiji, and 25 open seats; members serve five-year terms) |
+| | elections: House of Representatives - last held on 6-13 May 2006 (long delayed, the next elections reportedly will be held in 2014) |
+| | election results: House of Representatives - percent of vote by party - SDL 44.6%, FLP 39.2%, UPP 0.8%, independents 4.9%, other 10.5%; seats by party - SDL 36, FLP 31, UPP 2, independents 2 |
+| Judicial branch: | Supreme Court (judges are appointed by the president); Court of Appeal; High Court; Magistrates' Courts |
+| Political parties and leaders: | Dodonu Ni Taukei Party or DNT [Fereti S. DEWA]; Fiji Democratic Party or FDP [Filipe BOLE] (a merger of the Christian Democrat Alliance or VLV [Poesci Waqalevu BUNE], Fijian Association Party or FAP, Fijian Political Party or SVT [Sitiveni RABUKA] (primarily Fijian), and New Labor Unity Party or NLUP [Ofa SWANN]); Fiji Labor Party or FLP [Mahendra CHAUDHRY]; General Voters Party or GVP (became part of United General Party); Girmit Heritage Party or GHP; Justice and Freedom Party or AIM; Lio 'On Famor Rotuma Party or LFR; National Federation Party or NFP [Pramond RAE] (primarily Indian); Nationalist Vanua Takolavo Party or NVTLP [Saula TELAWA]; Party of National Unity or PANU [Ponipate LESAVUA]; Party of the Truth or POTT; United Fiji Party/Sogosogo Duavata ni Lewenivanua or SDL [Laisenia QARASE]; United Peoples Party or UPP [Millis Mick BEDDOES] |
+| Political pressure groups and leaders: | Group Against Racial Discrimination or GARD [Dr. Anirudk SINGH] (for restoration of a democratic government); Viti Landowners Association |
+| International organization participation: | ACP, ADB, AOSIS, C (suspended), CP, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, PCA, PIF, Sparteca (suspended), SPC, UN, UNCTAD, UNESCO, UNIDO, UNMISS, UNMIT, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Winston THOMPSON |
+| | chancery: 2000 M Street, NW, Suite 710, Washington, DC 20036 |
+| | telephone: [1] (202) 466-8320 |
+| | FAX: [1] (202) 466-8325 |
+| Diplomatic representation from the US: | chief of mission: Ambassador C. Steven MCGANN |
+| | embassy: 31 Loftus Street, Suva |
+| | mailing address: P. O. Box 218, Suva |
+| | telephone: [679] 331-4466 |
+| | FAX: [679] 330-0081 |
+| Flag description: | light blue with the flag of the UK in the upper hoist-side quadrant and the Fijian shield centered on the outer half of the flag; the blue symbolizes the Pacific ocean and the Union Jack reflects the links with Great Britain; the shield - taken from Fiji's coat of arms - depicts a yellow lion above a white field quartered by the cross of Saint George; the four quarters depict stalks of sugarcane, a palm tree, bananas, and a white dove |
+| National anthem: | name: "God Bless Fiji" |
+| | lyrics/music: Michael Francis Alexander PRESCOTT/C. Austin MILES (adapted by Michael Francis Alexander PRESCOTT) |
+| | note: adopted 1970; the anthem is known in Fijian as "Meda Dau Doka" (Let Us Show Pride); adapted from the hymn, "Dwelling in Beulah Land," the anthem's English lyrics are generally sung, although they differ in meaning from the official Fijian lyrics |
+
+
+| Economy | Fiji |
+| --- | --- |
+| Economy - overview: | Fiji, endowed with forest, mineral, and fish resources, is one of the most developed of the Pacific island economies though still with a large subsistence sector. Sugar exports, remittances from Fijians working abroad, and a growing tourist industry - with 400,000 to 500,000 tourists annually - are the major sources of foreign exchange. Fiji's sugar has special access to European Union markets but will be harmed by the EU's decision to cut sugar subsidies. Sugar processing makes up one-third of industrial activity but is not efficient. Fiji's tourism industry was damaged by the December 2006 coup and is facing an uncertain recovery time. In 2007 tourist arrivals were down almost 6%, with substantial job losses in the service sector, and GDP dipped. The coup has created a difficult business climate. The EU has suspended all aid until the interim government takes steps toward new elections. Long-term problems include low investment, uncertain land ownership rights, and the government's inability to manage its budget. Overseas remittances from Fijians working in Kuwait and Iraq have decreased significantly. Fiji's current account deficit peaked at 23% of GDP in 2006, and declined to 12.5% of GDP in 2012. |
+| GDP (purchasing power parity): | $4.307 billion (2012 est.) |
+| | $4.221 billion (2011 est.) |
+| | $4.135 billion (2010 est.) |
+| | note: data are in 2012 US dollars |
+| GDP (official exchange rate): | $3.946 billion (2012 est.) |
+| GDP - real growth rate: | 2% (2012 est.) |
+| | 2.1% (2011 est.) |
+| | -0.2% (2010 est.) |
+| GDP - per capita (PPP): | $4,800 (2012 est.) |
+| | $4,700 (2011 est.) |
+| | $4,600 (2010 est.) |
+| | note: data are in 2012 US dollars |
+| GDP - composition by sector: | agriculture: 11% |
+| | industry: 19.7% |
+| | services: 69.3% (2012 est.) |
+| Labor force: | 335,000 (2007 est.) |
+| Labor force - by occupation: | agriculture: 70% |
+| | industry and services: 30% (2001 est.) |
+| Unemployment rate: | 7.6% (1999) |
+| Population below poverty line: | 31% (2009 est.) |
+| Household income or consumption by percentage share: | lowest 10%: 2.6% |
+| | highest 10%: 34.9% |
+| Budget: | revenues: $1.004 billion |
+| | expenditures: $1.172 billion (2012 est.) |
+| Taxes and other revenues: | 25.5% of GDP (2012 est.) |
+| Budget surplus (+) or deficit (-): | -4.2% of GDP (2012 est.) |
+| Public debt: | 47.9% of GDP (2012 est.) |
+| | 53.9% of GDP (2011 est.) |
+| Inflation rate (consumer prices): | 4.7% (2012 est.) |
+| | 8.5% (2011 est.) |
+| Central bank discount rate: | 1.75% (31 December 2010 est.) |
+| | 3% (31 December 2009 est.) |
+| Commercial bank prime lending rate: | 7.1% (31 December 2012 est.) |
+| | 7.47% (31 December 2011 est.) |
+| Stock of narrow money: | $794.6 million (31 December 2012 est.) |
+| | $781.7 million (31 December 2011 est.) |
+| Stock of broad money: | $2.495 billion (31 December 2011 est.) |
+| | $2.24 billion (31 December 2010 est.) |
+| Stock of domestic credit: | $1.786 billion (31 December 2012 est.) |
+| | $1.758 billion (31 December 2011 est.) |
+| Market value of publicly traded shares: | $1.372 billion (31 December 2011) |
+| | $1.404 billion (31 December 2010) |
+| | $1.607 billion (31 December 2009) |
+| Agriculture - products: | sugarcane, coconuts, cassava (manioc), rice, sweet potatoes, bananas; cattle, pigs, horses, goats; fish |
+| Industrial production growth rate: | NA% |
+| Current account balance: | -$493.4 million (2012 est.) |
+| | -$428.8 million (2011 est.) |
+| Exports: | $991.6 million (2012 est.) |
+| | $901.5 million (2011 est.) |
+| Exports - commodities: | sugar, garments, gold, timber, fish, molasses, coconut oil |
+| Exports - partners: | Australia 14.3%, US 11%, Japan 6.4%, UK 5.9%, Samoa 5.8%, Tonga 5.1% (2011) |
+| Imports: | $1.938 billion (2012 est.) |
+| | $1.762 billion (2011 est.) |
+| Imports - commodities: | manufactured goods, machinery and transport equipment, petroleum products, food, chemicals |
+| Imports - partners: | Singapore 34.1%, Australia 16.3%, NZ 14.1%, China 8.9% (2011) |
+| Reserves of foreign exchange and gold: | $1.007 billion (31 December 2012 est.) |
+| | $833.5 million (31 December 2011 est.) |
+| Debt - external: | $268 million (31 December 2012 est.) |
+| | $259.1 million (31 December 2011 est.) |
+| Stock of direct foreign investment - at home: | $NA |
+| Stock of direct foreign investment - abroad: | $NA |
+| Exchange rates: | Fijian dollars (FJD) per US dollar - |
+| | 1.792 (2012 est.) |
+| | 1.7932 (2011 est.) |
+| | 1.9183 (2010 est.) |
+| Fiscal year: | calendar year |
+
+
+| Energy | Fiji |
+| --- | --- |
+| Electricity - production: | 869.1 million kWh (2010 est.) |
+| Electricity - consumption: | 753.4 million kWh (2009 est.) |
+| Electricity - exports: | 0 kWh (2010 est.) |
+| Electricity - imports: | 0 kWh (2010 est.) |
+| Electricity - installed generating capacity: | 219,100 kW (2009 est.) |
+| Electricity - from fossil fuels: | 54.8% of total installed capacity (2009 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2009 est.) |
+| Electricity - from hydroelectric plants: | 38.8% of total installed capacity (2009 est.) |
+| Electricity - from other renewable sources: | 6.4% of total installed capacity (2009 est.) |
+| Crude oil - production: | 0 bbl/day (2011 est.) |
+| Crude oil - exports: | 0 bbl/day (2009 est.) |
+| Crude oil - imports: | 0 bbl/day (2009 est.) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2012 est.) |
+| Refined petroleum products - production: | 0 bbl/day (2008 est.) |
+| Refined petroleum products - consumption: | 17,810 bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 1,739 bbl/day (2008 est.) |
+| Refined petroleum products - imports: | 16,110 bbl/day (2008 est.) |
+| Natural gas - production: | 0 cu m (2010 est.) |
+| Natural gas - consumption: | 0 cu m (2010 est.) |
+| Natural gas - exports: | 0 cu m (2010 est.) |
+| Natural gas - imports: | 0 cu m (2010 est.) |
+| Natural gas - proved reserves: | 0 cu m (1 January 2012 est.) |
+| Carbon dioxide emissions from consumption of energy: | 2.5 million Mt (2010 est.) |
+
+
+| Communications | Fiji |
+| --- | --- |
+| Telephones - main lines in use: | 129,800 (2011) |
+| Telephones - mobile cellular: | 727,000 (2011) |
+| Telephone system: | general assessment: modern local, interisland, and international (wire/radio integrated) public and special-purpose telephone, telegraph, and teleprinter facilities; regional radio communications center |
+| | domestic: telephone or radio telephone links to almost all inhabited islands; most towns and large villages have automatic telephone exchanges and direct dialing; combined fixed and mobile-cellular teledensity roughly 100 per 100 persons |
+| | international: country code - 679; access to important cable links between US and Canada as well as between NZ and Australia; satellite earth stations - 2 Inmarsat (Pacific Ocean) |
+| Broadcast media: | Fiji TV, a publicly-traded company, operates a free-to-air channel as well as Sky Fiji and Sky Pacific multi-channel pay-TV services; state-owned commercial company, Fiji Broadcasting Corporation, Ltd, operates 6 radio stations - 2 public broadcasters and 4 commercial broadcasters with multiple repeaters; 5 radio stations with repeaters operated by Communications Fiji, Ltd; transmissions of multiple international broadcasters are available (2009) |
+| Internet country code: | .fj |
+| Internet hosts: | 21,739 (2012) |
+| Internet users: | 114,200 (2009) |
+
+
+| Transportation | Fiji |
+| --- | --- |
+| Airports: | 28 (2012) |
+| Airports - with paved runways: | total: 4 |
+| | over 3,047 m: 1 |
+| | 1,524 to 2,437 m: 1 |
+| | 914 to 1,523 m: 2 (2012) |
+| Airports - with unpaved runways: | total: 24 |
+| | 914 to 1,523 m: 5 |
+| | under 914 m: 19 (2012) |
+| Railways: | total: 597 km |
+| | narrow gauge: 597 km 0.600-m gauge |
+| | note: belongs to the government-owned Fiji Sugar Corporation; used to haul sugarcane during the harvest season, which runs from May to December (2008) |
+| Roadways: | total: 3,440 km |
+| | paved: 1,692 km |
+| | unpaved: 1,748 km (2000) |
+| Waterways: | 203 km (122 km are navigable by motorized craft and 200-metric-ton barges) (2012) |
+| Merchant marine: | total: 11 |
+| | by type: passenger 4, passenger/cargo 4, refrigerated cargo 1, roll on/roll off 2 |
+| | foreign-owned: 2 (Australia 2) (2010) |
+| Ports and terminals: | Lautoka, Levuka, Suva |
+
+
+| Military | Fiji |
+| --- | --- |
+| Military branches: | Republic of Fiji Military Forces (RFMF): Land Forces, Naval Forces (2011) |
+| Military service age and obligation: | 18 years of age for voluntary military service (2010) |
+| Manpower available for military service: | males age 16-49: 233,240 |
+| | females age 16-49: 222,587 (2010 est.) |
+| Manpower fit for military service: | males age 16-49: 183,730 |
+| | females age 16-49: 188,325 (2010 est.) |
+| Manpower reaching militarily significant age annually: | male: 8,403 |
+| | female: 8,039 (2010 est.) |
+| Military expenditures: | 1.9% of GDP (2009) |
+
+
+| Transnational Issues | Fiji |
+| --- | --- |
+| Disputes - international: | none |

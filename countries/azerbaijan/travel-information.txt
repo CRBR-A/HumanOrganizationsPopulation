@@ -1,0 +1,29 @@
+Telephone Code: 994
+Local Emergency Phone - Ambulance: 03
+Local Emergency Phone - Fire: 01
+Local Emergency Phone - Police: 02
+Climate: Dry, semiarid steppe
+Currency (Code): Manats (AZN)
+Electricity: 220 V
+Voltage: 50 Hz
+Plug types(s): C, F
+Major Languages: Azerbaijani, Russian, Armenian
+Major Religions: Muslim 96.9% (predominantly Shia), Christian 3%
+Time Difference: UTC+4 (9 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Baku (includes Icheri Seher (Old Town); Absheron National Park; mud volcanos; Naftalan Oil Resort; Gobustan National Park (includes rock art cultural landscape); Caspian Sea
+Major Sports: Soccer, paragliding, rugby, volleyball
+Cultural Practices: In Azerbaijan, it is customary to refuse a gift before accepting it. When presenting a gift be sure to be insistent.
+Tipping Guidelines: Tipping is unusual, but can be done for exceptional service. For cabs, it is polite to round up the fare and give the change as a tip. Hotel porters may be tipped 5-10 manats. Tour guides also accept tips, generally around 5 manats.
+Souvenirs: Handmade carpets, pottery, ceramics, caviar, silk items
+Traditional Cuisine: Plov --- riсe covered with saffron, cinnamon, aromatic herbs, and fried mutton, chicken, beef, or lamb, as well as vegetables and even dried fruits
+
+---
+country: Azerbaijan
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Azerbaijan/travel-facts>
+license: public domain (U.S.)
+...

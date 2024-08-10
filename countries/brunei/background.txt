@@ -1,0 +1,8 @@
+The Sultanate of Brunei's influence peaked between the 15th and 17th centuries when its control extended over coastal areas of northwest Borneo and the southern Philippines. Brunei subsequently entered a period of decline brought on by internal strife over royal succession, colonial expansion of European powers, and piracy. In 1888, Brunei became a British protectorate; independence was achieved in 1984. The same family has ruled Brunei for over six centuries. Brunei benefits from extensive petroleum and natural gas fields, the source of one of the highest per capita GDPs in the world. In 2017, Brunei celebrated the 50th anniversary of the Sultan Hassanal BOLKIAHâ€™s accession to the throne.  
+
+---
+country: Brunei
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Brunei/>
+license: public domain (U.S.)
+...

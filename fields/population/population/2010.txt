@@ -1,0 +1,244 @@
+CIA - The World Factbook --  Population   
+
+This entry gives an estimate from the US Bureau of the Census based on statistics from population censuses, vital statistics registration systems, or sample surveys pertaining to the recent past and on assumptions about future trends. The total population presents one overall measure of the potential impact of the country on the world and within its region. Note: Starting with the 1993 Factbook, demographic estimates for some countries (mostly African) have explicitly taken into account the effects of the growing impact of the HIV/AIDS epidemic. These countries are currently: The Bahamas, Benin, Botswana, Brazil, Burkina Faso, Burma, Burundi, Cambodia, Cameroon, Central African Republic, Democratic Republic of the Congo, Republic of the Congo, Cote d'Ivoire, Ethiopia, Gabon, Ghana, Guyana, Haiti, Honduras, Kenya, Lesotho, Malawi, Mozambique, Namibia, Nigeria, Rwanda, South Africa, Swaziland, Tanzania, Thailand, Togo, Uganda, Zambia, and Zimbabwe.
+
+| Rank | country | Population | Date of Information |
+| --- | --- | --- | --- |
+| 1 | China | 1,330,141,295 | July 2010 est. |
+| 2 | India | 1,173,108,018 | July 2010 est. |
+| 3 | United States | 310,232,863 | July 2010 est. |
+| 4 | Indonesia | 242,968,342 | July 2010 est. |
+| 5 | Brazil | 201,103,330 | July 2010 est. |
+| 6 | Pakistan | 184,404,791 | July 2010 est. |
+| 7 | Bangladesh | 156,118,464 | July 2010 est. |
+| 8 | Nigeria | 152,217,341 | July 2010 est. |
+| 9 | Russia | 139,390,205 | July 2010 est. |
+| 10 | Japan | 126,804,433 | July 2010 est. |
+| 11 | Mexico | 112,468,855 | July 2010 est. |
+| 12 | Philippines | 99,900,177 | July 2010 est. |
+| 13 | Vietnam | 89,571,130 | July 2010 est. |
+| 14 | Ethiopia | 88,013,491 | July 2010 est. |
+| 15 | Germany | 82,282,988 | July 2010 est. |
+| 16 | Egypt | 80,471,869 | July 2010 est. |
+| 17 | Turkey | 77,804,122 | July 2010 est. |
+| 18 | Iran | 76,923,300 | July 2010 est. |
+| 19 | Congo, Democratic Republic of the | 70,916,439 | July 2010 est. |
+| 20 | Thailand | 67,089,500 | July 2010 est. |
+| 21 | France | 64,768,389 | July 2010 est. |
+| 22 | United Kingdom | 62,348,447 | July 2010 est. |
+| 23 | Italy | 58,090,681 | July 2010 est. |
+| 24 | Burma | 53,414,374 | July 2010 est. |
+| 25 | South Africa | 49,109,107 | July 2010 est. |
+| 26 | Korea, South | 48,636,068 | July 2010 est. |
+| 27 | Spain | 46,505,963 | July 2010 est. |
+| 28 | Ukraine | 45,415,596 | July 2010 est. |
+| 29 | Colombia | 44,205,293 | July 2010 est. |
+| 30 | Sudan | 43,939,598 | July 2010 est. |
+| 31 | Tanzania | 41,892,895 | July 2010 est. |
+| 32 | Argentina | 41,343,201 | July 2010 est. |
+| 33 | Kenya | 40,046,566 | July 2010 est. |
+| 34 | Poland | 38,463,689 | July 2010 est. |
+| 35 | Algeria | 34,586,184 | July 2010 est. |
+| 36 | Canada | 33,759,742 | July 2010 est. |
+| 37 | Uganda | 33,398,682 | July 2010 est. |
+| 38 | Morocco | 31,627,428 | July 2010 est. |
+| 39 | Peru | 29,907,003 | July 2010 est. |
+| 40 | Iraq | 29,671,605 | July 2010 est. |
+| 41 | Afghanistan | 29,121,286 | July 2010 est. |
+| 42 | Nepal | 28,951,852 | July 2010 est. |
+| 43 | Malaysia | 28,274,729 | July 2010 est. |
+| 44 | Uzbekistan | 27,865,738 | July 2010 est. |
+| 45 | Venezuela | 27,223,228 | July 2010 est. |
+| 46 | Saudi Arabia | 25,731,776 | July 2010 est. |
+| 47 | Ghana | 24,339,838 | July 2010 est. |
+| 48 | Yemen | 23,495,361 | July 2010 est. |
+| 49 | Taiwan | 23,024,956 | July 2010 est. |
+| 50 | Korea, North | 22,757,275 | July 2010 est. |
+| 51 | Syria | 22,198,110 | NA |
+| 52 | Mozambique | 22,061,451 | July 2010 est. |
+| 53 | Romania | 21,959,278 | July 2010 est. |
+| 54 | Australia | 21,515,754 | July 2010 est. |
+| 55 | Sri Lanka | 21,513,990 | July 2010 est. |
+| 56 | Madagascar | 21,281,844 | July 2010 est. |
+| 57 | Cote d'Ivoire | 21,058,798 | July 2010 est. |
+| 58 | Cameroon | 19,294,149 | July 2010 est. |
+| 59 | Netherlands | 16,783,092 | July 2010 est. |
+| 60 | Chile | 16,746,491 | July 2010 est. |
+| 61 | Burkina Faso | 16,241,811 | July 2010 est. |
+| 62 | Niger | 15,878,271 | July 2010 est. |
+| 63 | Kazakhstan | 15,460,484 | July 2010 est. |
+| 64 | Malawi | 15,447,500 | July 2010 est. |
+| 65 | Ecuador | 14,790,608 | July 2010 est. |
+| 66 | Cambodia | 14,453,680 | July 2010 est. |
+| 67 | Mali | 13,796,354 | July 2010 est. |
+| 68 | Guatemala | 13,550,440 | July 2010 est. |
+| 69 | Zambia | 13,460,305 | July 2010 est. |
+| 70 | Angola | 13,068,161 | July 2010 est. |
+| 71 | Senegal | 12,323,252 | July 2010 est. |
+| 72 | Zimbabwe | 11,651,858 | July 2010 est. |
+| 73 | Cuba | 11,477,459 | July 2010 est. |
+| 74 | Rwanda | 11,055,976 | July 2010 est. |
+| 75 | Greece | 10,749,943 | July 2010 est. |
+| 76 | Portugal | 10,735,765 | July 2010 est. |
+| 77 | Tunisia | 10,589,025 | July 2010 est. |
+| 78 | Chad | 10,543,464 | July 2010 est. |
+| 79 | Belgium | 10,423,493 | July 2010 est. |
+| 80 | Guinea | 10,324,025 | July 2010 est. |
+| 81 | Czech Republic | 10,201,707 | July 2010 est. |
+| 82 | Somalia | 10,112,453 | July 2010 est. |
+| 83 | Hungary | 9,992,339 | July 2010 est. |
+| 84 | Bolivia | 9,947,418 | July 2010 est. |
+| 85 | Burundi | 9,863,117 | July 2010 est. |
+| 86 | Dominican Republic | 9,823,821 | July 2010 est. |
+| 87 | Haiti | 9,719,932 | 2011 est. |
+| 88 | Belarus | 9,612,632 | July 2010 est. |
+| 89 | Sweden | 9,074,055 | July 2010 est. |
+| 90 | Benin | 9,056,010 | July 2010 est. |
+| 91 | Azerbaijan | 8,303,512 | July 2010 est. |
+| 92 | Austria | 8,214,160 | July 2010 est. |
+| 93 | Honduras | 7,989,415 | July 2010 est. |
+| 94 | Switzerland | 7,623,438 | July 2010 est. |
+| 95 | Tajikistan | 7,487,489 | July 2010 est. |
+| 96 | Israel | 7,353,985 | NA |
+| 97 | Serbia | 7,344,847 | July 2010 est. |
+| 98 | Bulgaria | 7,148,785 | July 2010 est. |
+| 99 | Hong Kong | 7,089,705 | July 2010 est. |
+| 100 | Togo | 6,587,239 | July 2010 est. |
+| 101 | Libya | 6,461,454 | July 2010 est. |
+| 102 | Jordan | 6,407,085 | July 2010 est. |
+| 103 | Paraguay | 6,375,830 | July 2010 est. |
+| 104 | Laos | 6,368,162 | July 2010 est. |
+| 105 | Papua New Guinea | 6,064,515 | July 2010 est. |
+| 106 | El Salvador | 6,052,064 | July 2010 est. |
+| 107 | Nicaragua | 5,995,928 | July 2010 est. |
+| 108 | Eritrea | 5,792,984 | July 2010 est. |
+| 109 | Denmark | 5,515,575 | July 2010 est. |
+| 110 | Kyrgyzstan | 5,508,626 | July 2010 est. |
+| 111 | Slovakia | 5,470,306 | July 2010 est. |
+| 112 | Finland | 5,255,068 | July 2010 est. |
+| 113 | Sierra Leone | 5,245,695 | July 2010 est. |
+| 114 | United Arab Emirates | 4,975,593 | July 2010 est. |
+| 115 | Turkmenistan | 4,940,916 | July 2010 est. |
+| 116 | Central African Republic | 4,844,927 | July 2010 est. |
+| 117 | Singapore | 4,701,069 | July 2010 est. |
+| 118 | Norway | 4,676,305 | July 2010 est. |
+| 119 | Ireland | 4,622,917 | July 2010 est. |
+| 120 | Bosnia and Herzegovina | 4,621,598 | July 2010 est. |
+| 121 | Georgia | 4,600,825 | July 2010 est. |
+| 122 | Costa Rica | 4,516,220 | July 2010 est. |
+| 123 | Croatia | 4,486,881 | July 2010 est. |
+| 124 | Moldova | 4,317,483 | July 2010 est. |
+| 125 | New Zealand | 4,252,277 | July 2010 est. |
+| 126 | Congo, Republic of the | 4,125,916 | July 2010 est. |
+| 127 | Lebanon | 4,125,247 | July 2010 est. |
+| 128 | Puerto Rico | 3,978,702 | July 2010 est. |
+| 129 | Liberia | 3,685,076 | July 2010 est. |
+| 130 | Lithuania | 3,545,319 | July 2010 est. |
+| 131 | Uruguay | 3,510,386 | July 2010 est. |
+| 132 | Panama | 3,410,676 | July 2010 est. |
+| 133 | Mauritania | 3,205,060 | July 2010 est. |
+| 134 | Mongolia | 3,086,918 | July 2010 est. |
+| 135 | Albania | 2,986,952 | July 2010 est. |
+| 136 | Oman | 2,967,717 | July 2010 est. |
+| 137 | Armenia | 2,966,802 | July 2010 est. |
+| 138 | Jamaica | 2,847,232 | July 2010 est. |
+| 139 | Kuwait | 2,789,132 | July 2010 est. |
+| 140 | West Bank | 2,514,845 | NA |
+| 141 | Latvia | 2,217,969 | July 2010 est. |
+| 142 | Namibia | 2,128,471 | July 2010 est. |
+| 143 | Macedonia | 2,072,086 | July 2010 est. |
+| 144 | Botswana | 2,029,307 | July 2010 est. |
+| 145 | Slovenia | 2,003,136 | July 2010 est. |
+| 146 | Lesotho | 1,919,552 | July 2010 est. |
+| 147 | Gambia, The | 1,824,158 | July 2010 est. |
+| 148 | Kosovo | 1,815,048 | July 2010 est. |
+| 149 | Gaza Strip | 1,604,238 | July 2010 est. |
+| 150 | Guinea-Bissau | 1,565,126 | July 2010 est. |
+| 151 | Gabon | 1,545,255 | July 2010 est. |
+| 152 | Swaziland | 1,354,051 | July 2010 est. |
+| 153 | Mauritius | 1,294,104 | July 2010 est. |
+| 154 | Estonia | 1,291,170 | July 2010 est. |
+| 155 | Trinidad and Tobago | 1,228,691 | July 2010 est. |
+| 156 | Timor-Leste | 1,154,625 | July 2010 est. |
+| 157 | Cyprus | 1,102,677 | July 2010 est. |
+| 158 | Fiji | 875,983 | July 2010 est. |
+| 159 | Qatar | 840,926 | July 2010 est. |
+| 160 | Comoros | 773,407 | July 2010 est. |
+| 161 | Guyana | 748,486 | July 2010 est. |
+| 162 | Djibouti | 740,528 | July 2010 est. |
+| 163 | Bahrain | 738,004 | July 2010 est. |
+| 164 | Bhutan | 699,847 | July 2010 est. |
+| 165 | Montenegro | 666,730 | July 2010 est. |
+| 166 | Equatorial Guinea | 650,702 | July 2010 est. |
+| 167 | Macau | 567,957 | July 2010 est. |
+| 168 | Solomon Islands | 559,198 | July 2010 est. |
+| 169 | Cape Verde | 508,659 | July 2010 est. |
+| 170 | Luxembourg | 497,538 | July 2010 est. |
+| 171 | Western Sahara | 491,519 | July 2010 est. |
+| 172 | Suriname | 486,618 | July 2010 est. |
+| 173 | Malta | 406,771 | July 2010 est. |
+| 174 | Maldives | 395,650 | July 2010 est. |
+| 175 | Brunei | 395,027 | July 2010 est. |
+| 176 | Belize | 314,522 | July 2010 est. |
+| 177 | Bahamas, The | 310,426 | July 2010 est. |
+| 178 | Iceland | 308,910 | July 2010 est. |
+| 179 | French Polynesia | 291,000 | July 2010 est. |
+| 180 | Barbados | 285,653 | July 2010 est. |
+| 181 | New Caledonia | 252,352 | July 2010 est. |
+| 182 | Mayotte | 231,139 | July 2010 est. |
+| 183 | Vanuatu | 221,552 | July 2010 est. |
+| 184 | Samoa | 192,001 | July 2010 est. |
+| 185 | Sao Tome and Principe | 175,808 | July 2010 est. |
+| 186 | Saint Lucia | 160,922 | July 2010 est. |
+| 187 | Curacao | 142,180 | est. January 2010 |
+| 188 | Tonga | 122,580 | July 2010 est. |
+| 189 | Virgin Islands | 109,750 | July 2010 est. |
+| 190 | Grenada | 107,818 | July 2010 est. |
+| 191 | Micronesia, Federated States of | 107,154 | July 2010 est. |
+| 192 | Aruba | 104,589 | July 2010 est. |
+| 193 | Saint Vincent and the Grenadines | 104,217 | July 2010 est. |
+| 194 | Kiribati | 99,482 | July 2010 est. |
+| 195 | Jersey | 93,363 | July 2010 est. |
+| 196 | Seychelles | 88,340 | July 2010 est. |
+| 197 | Antigua and Barbuda | 86,754 | July 2010 est. |
+| 198 | Andorra | 84,525 | July 2010 est. |
+| 199 | Isle of Man | 83,859 | July 2010 est. |
+| 200 | Dominica | 72,813 | July 2010 est. |
+| 201 | Bermuda | 68,265 | July 2010 est. |
+| 202 | American Samoa | 66,432 | July 2010 est. |
+| 203 | Marshall Islands | 65,859 | July 2010 est. |
+| 204 | Guernsey | 64,775 | July 2010 est. |
+| 205 | Greenland | 57,637 | July 2010 est. |
+| 206 | Cayman Islands | 50,209 | July 2010 est. |
+| 207 | Saint Kitts and Nevis | 49,898 | July 2010 est. |
+| 208 | Faroe Islands | 49,057 | July 2010 est. |
+| 209 | Northern Mariana Islands | 48,317 | July 2010 est. |
+| 210 | Sint Maarten | 37,429 | January 2010 est. |
+| 211 | Liechtenstein | 35,002 | July 2010 est. |
+| 212 | San Marino | 31,477 | July 2010 est. |
+| 213 | Monaco | 30,586 | July 2010 est. |
+| 214 | Saint Martin | 30,235 | July 2010 est. |
+| 215 | Gibraltar | 28,877 | July 2010 est. |
+| 216 | British Virgin Islands | 24,939 | July 2010 est. |
+| 217 | Turks and Caicos Islands | 23,528 | July 2010 est. |
+| 218 | Palau | 20,879 | July 2010 est. |
+| 219 | Akrotiri | 15,700 | NA |
+| 220 | Dhekelia | 15,700 | NA |
+| 221 | Wallis and Futuna | 15,343 | July 2010 est. |
+| 222 | Anguilla | 14,766 | July 2010 est. |
+| 223 | Cook Islands | 11,488 | July 2010 est. |
+| 224 | Tuvalu | 10,472 | July 2010 est. |
+| 225 | Nauru | 9,267 | July 2010 est. |
+| 226 | Saint Helena, Ascension, and Tristan da Cunha | 7,670 | July 2010 est. |
+| 227 | Saint Barthelemy | 7,406 | July 2010 est. |
+| 228 | Saint Pierre and Miquelon | 5,943 | July 2010 est. |
+| 229 | Montserrat | 5,118 | July 2010 est. |
+| 230 | Falkland Islands (Islas Malvinas) | 3,140 | July 2008 est. |
+| 231 | Norfolk Island | 2,155 | July 2010 est. |
+| 232 | Svalbard | 2,067 | July 2010 est. |
+| 233 | Christmas Island | 1,402 | July 2010 est. |
+| 234 | Tokelau | 1,400 | July 2010 est. |
+| 235 | Niue | 1,354 | July 2010 est. |
+| 236 | Holy See (Vatican City) | 829 | July 2010 est. |
+| 237 | Cocos (Keeling) Islands | 596 | July 2010 est. |
+| 238 | Pitcairn Islands | 48 | July 2010 est. |

@@ -1,0 +1,27 @@
+Telephone Code: 57
+Local Emergency Phone: 119
+Climate: Tropical along coast and eastern plains; cooler in highlands
+Currency (Code): Pesos (COP)
+Electricity: 110 V
+Voltage: 60 Hz
+Plug types(s): A, B
+Major Languages: Spanish
+Major Religions: Roman Catholic 79%, Protestant 14%
+Time Difference: UTC-5 (same time as Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested; additionally, if you plan to drive in Colombia, you will need an Inter-American Driving Permit issued by the AAA
+Road Driving Side: Right
+Tourist Destinations: Salt Cathedral; Tayrona National Park; Monserrate; Santuario de Las Lajas; Los Nevados National Park; Cartagena; Cano Cristales; Qhapaq Nan/Andean Road System; San Agustin Archaeological Park; National Archeological Park of Tierradentro
+Major Sports: Soccer, boxing, shooting sports, taekwondo, wrestling, tejo (involves throwing a disc at a small target)
+Cultural Practices: Roses are well-received gifts in Colombia, but marigolds and lilies are disliked because of their association with funerals.
+Tipping Guidelines: A 10% tip is common at restaurants. Taxi drivers are rarely tipped. An appropriate tip for a porter/bellboy is about $1 (USD) per bag. It is also good tipping etiquette to leave a small gratuity of about $1-2 (USD) per day for housekeeping.
+Souvenirs: Crocheted mochila bags, handwoven and mola fabric items, leather goods, silver/gold filigree and precious stone jewelry, ceramics, carved wooden statues, musical instruments, Tagua plant carved items, coconut-sourced goods, coffee
+Traditional Cuisine: Ajiaco --- a soup made with chicken, three varieties of potatoes, and guasca (an herb); typically garnished with capers, avocado slices, corn on the cob, or cream
+
+---
+country: Colombia
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Colombia/travel-facts>
+license: public domain (U.S.)
+...

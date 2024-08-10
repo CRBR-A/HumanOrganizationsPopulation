@@ -1,0 +1,335 @@
+CIA - The World Factbook -- Malta
+
+| Geography | Malta |
+| --- | --- |
+| Location: | Southern Europe, islands in the Mediterranean Sea, south of Sicily (Italy) |
+| Geographic coordinates: | 35 50 N, 14 35 E |
+| Map references: | Europe |
+| Area: | total: 316 sq km |
+| | land: 316 sq km |
+| | water: 0 sq km |
+| Area - comparative: | slightly less than twice the size of Washington, DC |
+| Land boundaries: | 0 km |
+| Coastline: | 196.8 km (excludes 56 km for the island of Gozo) |
+| Maritime claims: | territorial sea: 12 nm |
+| | contiguous zone: 24 nm |
+| | continental shelf: 200-m depth or to the depth of exploitation |
+| | exclusive fishing zone: 25 nm |
+| Climate: | Mediterranean; mild, rainy winters; hot, dry summers |
+| Terrain: | mostly low, rocky, flat to dissected plains; many coastal cliffs |
+| Elevation: | 0 m lowest point: Mediterranean Sea |
+| | 253 highest point: Ta'Dmejrek on Dingli Cliffs |
+| Natural resources: | limestone, salt, arable land |
+| Land use: | agricultural land: 32.3% (2011 est.) |
+| | arable land: 28.4% (2011 est.) / permanent crops: 3.9% (2011 est.) / permanent pasture: 0% (2011 est.) |
+| | forest: 0.9% (2011 est.) |
+| | other: 66.8% (2011 est.) |
+| Irrigated land: | 35 sq km (2012) |
+| Population distribution: | most of the population lives on the eastern half of Malta, the largest of the three inhabited islands |
+| Natural hazards: | occasional droughts |
+| Environment - current issues: | limited natural freshwater resources; increasing reliance on desalination; deforestation; wildlife preservation |
+| Environment - international agreements: | party to: Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands |
+| | signed, but not ratified: none of the selected agreements |
+| Geography - note: | the country comprises an archipelago, with only the three largest islands (Malta, Ghawdex or Gozo, and Kemmuna or Comino) inhabited; numerous bays provide good harbors; Malta and Tunisia are discussing oil exploration on the continental shelf between their countries, although no commercially viable reserves have been found as of 2017 |
+
+| People and Society | Malta |
+| --- | --- |
+| Population: | 449,043 (July 2018 est.) |
+| Nationality: | noun: Maltese (singular and plural) |
+| | adjective: Maltese |
+| Ethnic groups: | Maltese (descendants of ancient Carthaginians and Phoenicians with strong elements of Italian and other Mediterranean stock) |
+| Languages: | Maltese (official) 90.1%, English (official) 6%, multilingual 3%, other 0.9% (2005 est.) |
+| Religions: | Roman Catholic (official) more than 90% (2006 est.) |
+| Age structure: | 0-14 years: 14.29% (male 33,156 /female 31,012) |
+| | 15-24 years: 11.03% (male 25,713 /female 23,815) |
+| | 25-54 years: 40.92% (male 95,162 /female 88,602) |
+| | 55-64 years: 13.25% (male 29,787 /female 29,703) |
+| | 65 years and over: 20.51% (male 41,900 /female 50,193) (2018 est.) |
+| Dependency ratios: | total dependency ratio: 48.8 (2015 est.) |
+| | youth dependency ratio: 21.4 (2015 est.) |
+| | elderly dependency ratio: 27.3 (2015 est.) |
+| | potential support ratio: 3.7 (2015 est.) |
+| Median age: | total: 41.8 years |
+| | male: 40.6 years |
+| | female: 43.1 years (2018 est.) |
+| Population growth rate: | 0.99% (2018 est.) |
+| Birth rate: | 10 births/1,000 population (2018 est.) |
+| Death rate: | 7.9 deaths/1,000 population (2018 est.) |
+| Net migration rate: | 2 migrant(s)/1,000 population (2017 est.) |
+| Population distribution: | most of the population lives on the eastern half of Malta, the largest of the three inhabited islands |
+| Urbanization: | urban population: 94.6% of total population (2018) |
+| | rate of urbanization: 0.38% annual rate of change (2015-20 est.) |
+| Major urban areas - population: | 213,000 VALLETTA (capital) (2018) |
+| Sex ratio: | at birth: 1.06 male(s)/female (2017 est.) |
+| | 0-14 years: 1.05 male(s)/female (2017 est.) |
+| | 15-24 years: 1.06 male(s)/female (2017 est.) |
+| | 25-54 years: 1.05 male(s)/female (2017 est.) |
+| | 55-64 years: 0.98 male(s)/female (2017 est.) |
+| | 65 years and over: 0.81 male(s)/female (2017 est.) |
+| | total population: 0.99 male(s)/female (2017 est.) |
+| Mother's mean age at first birth: | 26.9 years (2010 est.) |
+| | note: data refer to the average of the different childbearing ages of first-order births |
+| Maternal mortality rate: | 9 deaths/100,000 live births (2015 est.) |
+| Infant mortality rate: | total: 4.7 deaths/1,000 live births (2018 est.) |
+| | male: 4.6 deaths/1,000 live births (2018 est.) |
+| | female: 4.9 deaths/1,000 live births (2018 est.) |
+| Life expectancy at birth: | total population: 82.7 years (2018 est.) |
+| | male: 80.6 years (2018 est.) |
+| | female: 84.8 years (2018 est.) |
+| Total fertility rate: | 1.48 children born/woman (2018 est.) |
+| Health expenditures: | 9.7% of GDP (2014) |
+| Physicians density: | 3.91 physicians/1,000 population (2015) |
+| Hospital bed density: | 4.7 beds/1,000 population (2014) |
+| Drinking water source: | improved: urban: 100% of population |
+| | rural: 100% of population |
+| | total: 100% of population |
+| | unimproved: urban: 0% of population |
+| | rural: 0% of population |
+| | total: 0% of population (2015 est.) |
+| Sanitation facility access: | improved: urban: 100% of population (2015 est.) |
+| | rural: 100% of population (2015 est.) |
+| | total: 100% of population (2015 est.) |
+| | unimproved: urban: 0% of population (2015 est.) |
+| | rural: 0% of population (2015 est.) |
+| | total: 0% of population (2015 est.) |
+| HIV/AIDS - adult prevalence rate: | 0.1% (2016 est.) |
+| HIV/AIDS - people living with HIV/AIDS: | <500 (2016 est.) |
+| HIV/AIDS - deaths: | <100 (2016 est.) |
+| Obesity - adult prevalence rate: | 28.9% (2016) |
+| Education expenditures: | 7.2% of GDP (2014) |
+| Literacy: | definition: age 15 and over can read and write (2015 est.) |
+| | total population: 94.4% (2015 est.) |
+| | male: 93.1% (2015 est.) |
+| | female: 95.8% (2015 est.) |
+| School life expectancy (primary to tertiary education): | total: 15 years (2015) |
+| | male: 15 years (2015) |
+| | female: 15 years (2015) |
+| Unemployment, youth ages 15-24: | total: 11% (2016 est.) |
+| | male: 11.2% (2016 est.) |
+| | female: 10.9% (2016 est.) |
+
+| Government | Malta |
+| --- | --- |
+| Country name: | conventional long form: Republic of Malta |
+| | conventional short form: Malta |
+| | local long form: Repubblika ta' Malta |
+| | local short form: Malta |
+| | etymology: the ancient Greeks called the island "Melite" meaning "honey-sweet" from the Greek word "meli" meaning "honey" and referring to the island's honey production |
+| Government type: | parliamentary republic |
+| Capital: | name: Valletta |
+| | geographic coordinates: 35 53 N, 14 30 E |
+| | time difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time) |
+| | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 68 localities (Il-lokalita); Attard, Balzan, Birgu, Birkirkara, Birzebbuga, Bormla, Dingli, Fgura, Floriana, Fontana, Ghajnsielem, Gharb, Gharghur, Ghasri, Ghaxaq, Gudja, Gzira, Hamrun, Iklin, Imdina, Imgarr, Imqabba, Imsida, Imtarfa, Isla, Kalkara, Kercem, Kirkop, Lija, Luqa, Marsa, Marsaskala, Marsaxlokk, Mellieha, Mosta, Munxar, Nadur, Naxxar, Paola, Pembroke, Pieta, Qala, Qormi, Qrendi, Rabat, Rabat (Ghawdex), Safi, San Giljan/Saint Julian, San Gwann/Saint John, San Lawrenz/Saint Lawrence, Sannat, San Pawl il-Bahar/Saint Paul's Bay, Santa Lucija/Saint Lucia, Santa Venera/Saint Venera, Siggiewi, Sliema, Swieqi, Tarxien, Ta' Xbiex, Valletta, Xaghra, Xewkija, Xghajra, Zabbar, Zebbug, Zebbug (Ghawdex), Zejtun, Zurrieq |
+| Independence: | 21 September 1964 (from the UK) |
+| National holiday: | Independence Day, 21 September (1964)Republic Day, 13 December (1974) |
+| Constitution: | history: many previous; latest adopted 21 September 1964 (2017) |
+| | amendments: proposals (Acts of Parliament) require at least two-thirds majority vote by the House of Representatives; passage of "Acts" requires majority vote by referendum, followed by final majority vote by the House and assent by the president of the republic; amended many times, last in 2016 (2017) |
+| Legal system: | mixed legal system of English common law and civil law based on the Roman and Napoleonic civil codes |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| | citizenship by descent only: at least one parent must be a citizen of Malta |
+| | dual citizenship recognized: no |
+| | residency requirement for naturalization: 5 years |
+| Suffrage: | 18 years of age (16 in local council elections); universal |
+| Judicial branch: | highest courts: Court of Appeal (consists of either 1 or 3 judges); Constitutional Court (consists of 3 judges); Court of Criminal Appeal (consists of either 1 or 3 judges) |
+| | judge selection and term of office: Court of Appeal and Constitutional Court judges appointed by the president, usually upon the advice of the prime minister; judges of both courts serve until age 65 |
+| | subordinate courts: Civil Court (divided into the General Jurisdiction Section, Family Section, and Voluntary Section); Criminal Court; Court of Magistrates; Gozo Courts (for the islands of Gozo and Comino) |
+| Executive branch: | chief of state: President Marie-Louise Coleiro PRECA (since 4 April 2014) |
+| | head of government: Prime Minister Joseph MUSCAT (since 11 March 2013) |
+| | cabinet: Cabinet appointed by the president on the advice of the prime minister |
+| | elections/appointments: president indirectly elected by the House of Representatives for a single 5-year term; election last held on 4 April 2014 (next to be held by April 2019); following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the president for a 5-year term; deputy prime minister appointed by the president on the advice of the prime minister |
+| | election results: Marie-Louise Coleiro PRECA (PL) elected president; House of Representatives vote - unanimous; Joseph MUSCAT (PL) reappointed prime minister |
+| Legislative branch: | description: unicameral House of Representatives or Il-Kamra Tad-Deputati, a component of the Parliament of Malta (normally 65 seats but can include at-large members; members directly elected in 5 multi-seat constituencies by proportional representation vote; members serve 5-year terms); note - the parliament elected in 2013 had 69 seats; an additional two seats were added in 2016 by the Constitutional Court to correct for mistakes made in the 2013 vote-counting process |
+| | elections: last held on 3 June 2017 (next to be held in 2022); note - Prime Minister MUSCAT called for early elections amid corruption allegations |
+| | election results: percent of vote by party - PL 55%, PN 43.7%, other 1.3%; seats by party - PL 37 PN 30; note - PN was awarded two additional seats for a total of 30 in accordance with the proportionality provisions specified in the constitution; PD candidates ran under the PN list; composition - men 57, women 10, percent of women 14.9% |
+| Political parties and leaders: | Democratic Party or PD [Anthony BUTTIGIEG] |
+| | Labor Party or PL [Joseph MUSCAT] |
+| | Nationalist Party or PN [Adrian DELIA] |
+| International organization participation: | Australia Group, C, CD, CE, EAPC, EBRD, ECB, EIB, EMU, EU, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NSG, OAS (observer), OPCW, OSCE, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNIDO, Union Latina (observer), UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Keith AZZOPARDI (since 17 September 2018) |
+| | chancery: 2017 Connecticut Avenue NW, Washington, DC 20008 |
+| | telephone: [1] (202) 462-3611 through 3612 |
+| | FAX: [1] (202) 387-5470 |
+| Diplomatic representation from the US: | chief of mission: Ambassador G. Kathleen HILL (since 25 February 2016) |
+| | embassy: Ta' Qali National Park, Attard, ATD 4000 |
+| | mailing address: 5800 Valletta Place, Dulles, VA 20189 |
+| | telephone: [356] 2561-4000 |
+| | FAX: [356] 2561-4183 |
+| Flag description: | two equal vertical bands of white (hoist side) and red; in the upper hoist-side corner is a representation of the George Cross, edged in red; according to legend, the colors are taken from the red and white checkered banner of Count Roger of Sicily who removed a bi-colored corner and granted it to Malta in 1091; an uncontested explanation is that the colors are those of the Knights of Saint John who ruled Malta from 1530 to 1798; in 1942, King George VI of the UK awarded the George Cross to the islanders for their exceptional bravery and gallantry in World War II; since independence in 1964, the George Cross bordered in red has appeared directly on the white field |
+| National symbol(s): | Maltese eight-pointed cross; national colors: red, white |
+| National anthem: | name: "L-Innu Malti" (The Maltese Anthem) |
+| | lyrics/music: Dun Karm PSAILA/Robert SAMMUT |
+| | note: adopted 1945; written in the form of a prayer |
+
+| Economy | Malta |
+| --- | --- |
+| Economy - overview: | Maltaâ€™s free market economy â€“ the smallest economy in the euro-zone â€“ relies heavily on trade in both goods and services, principally with Europe. Malta produces less than a quarter of its food needs, has limited fresh water supplies, and has few domestic energy sources. Malta's economy is dependent on foreign trade, manufacturing, and tourism. Malta joined the EU in 2004 and adopted the euro on 1 January 2008. |
+| | Malta has weathered the euro-zone crisis better than most EU member states due to a low debt-to-GDP ratio and financially sound banking sector. It maintains one of the lowest unemployment rates in Europe, and growth has fully recovered since the 2009 recession. In 2014 through 2016, Malta led the euro zone in growth, expanding more than 4.5% per year. |
+| | Maltaâ€™s services sector continues to grow, with sustained growth in the financial services and online gaming sectors. Advantageous tax schemes remained attractive to foreign investors, though EU discussions of anti-tax avoidance measures have raised concerns among Maltaâ€™s financial services and insurance providers, as the measures could have a significant impact on those sectors. The tourism sector also continued to grow, with 2016 showing record-breaking numbers of both air and cruise passenger arrivals. |
+| | Maltaâ€™s GDP growth remains strong and is supported by a strong labor market. The government has implemented new programs, including free childcare, to encourage increased labor participation. The high cost of borrowing and small labor market remain potential constraints to future economic growth. Increasingly, other EU and European migrants are relocating to Malta for employment, though wages have remained low compared to other European countries. Inflation remains low. |
+| GDP (purchasing power parity): | $19.26 billion (2017 est.) |
+| | $18.05 billion (2016 est.) |
+| | $17.16 billion (2015 est.) |
+| | note: data are in 2017 dollars |
+| GDP (official exchange rate): | $12.58 billion (2017 est.) (2017 est.) |
+| GDP - real growth rate: | 6.7% (2017 est.) |
+| | 5.2% (2016 est.) |
+| | 9.5% (2015 est.) |
+| GDP - per capita (PPP): | $41,900 (2017 est.) |
+| | $40,100 (2016 est.) |
+| | $39,000 (2015 est.) |
+| | note: data are in 2017 dollars |
+| Gross national saving: | 33.5% of GDP (2017 est.) |
+| | 31.8% of GDP (2016 est.) |
+| | 31.2% of GDP (2015 est.) |
+| GDP - composition, by end use: | household consumption: 45.2% (2017 est.) |
+| | government consumption: 15.3% (2017 est.) |
+| | investment in fixed capital: 21.1% (2017 est.) |
+| | investment in inventories: 0.3% (2017 est.) |
+| | exports of goods and services: 136.1% (2017 est.) |
+| | imports of goods and services: -117.9% (2017 est.) |
+| GDP - composition, by sector of origin: | agriculture: 1.1% (2017 est.) |
+| | industry: 10.2% (2017 est.) |
+| | services: 88.7% (2017 est.) |
+| Agriculture - products: | potatoes, cauliflower, grapes, wheat, barley, tomatoes, citrus, cut flowers, green peppers; pork, milk, poultry, eggs |
+| Industries: | tourism, electronics, ship building and repair, construction, food and beverages, pharmaceuticals, footwear, clothing, tobacco, aviation services, financial services, information technology services |
+| Industrial production growth rate: | -3.3% (2016 est.) |
+| Labor force: | 206,300 (2017 est.) |
+| Labor force - by occupation: | agriculture: 1.6% |
+| | industry: 20.7% |
+| | services: 77.7% (2016 est.) |
+| Unemployment rate: | 4.6% (2017 est.) |
+| | 5.3% (2016 est.) |
+| Population below poverty line: | 16.3% (2015 est.) |
+| Household income or consumption by percentage share: | lowest 10%: NA |
+| | highest 10%: NA |
+| Distribution of family income - Gini index: | 28.1 (2015) |
+| | 27.7 (2014) |
+| Budget: | revenues: 5.076 billion (2017 est.) |
+| | expenditures: 4.583 billion (2017 est.) |
+| Taxes and other revenues: | 40.4% (of GDP) (2017 est.) |
+| Budget surplus (+) or deficit (-): | 3.9% (of GDP) (2017 est.) |
+| Public debt: | 50.7% of GDP (2017 est.) |
+| | 56.3% of GDP (2016 est.) |
+| | note: Malta reports public debt at nominal value outstanding at the end of the year, according to guidelines set out in the Maastricht Treaty for general government gross debt; the data include the following categories of government liabilities (as defined in ESA95): currency and deposits (AF.2), securities other than shares excluding financial derivatives (AF.3, excluding AF.34), and loans (AF.4); general government comprises the central, state, and local governments, and social security funds |
+| Fiscal year: | calendar year |
+| Inflation rate (consumer prices): | 1.3% (2017 est.) |
+| | 0.9% (2016 est.) |
+| Central bank discount rate: | -0.35% (31 December 2016 est.) |
+| | -0.2% (31 December 2015) |
+| | note: this is the European Central Bank's rate on the marginal lending facility, which offers overnight credit to banks in the euro area |
+| Commercial bank prime lending rate: | 3.7% (31 December 2017 est.) |
+| | 5.06% (31 December 2016 est.) |
+| Stock of narrow money: | $17.93 billion (31 December 2017 est.) |
+| | $14.28 billion (31 December 2016 est.) |
+| | note: see entry for the EU for money supply for the entire euro area; the European Central Bank controls monetary policy for the 18 members of the Economic and Monetary Union (EMU); individual members of the EMU do not control the quantity of money circulating within their own borders |
+| Stock of broad money: | $17.93 billion (31 December 2017 est.) |
+| | $14.28 billion (31 December 2016 est.) |
+| Stock of domestic credit: | $13.97 billion (31 December 2017 est.) |
+| | $11.99 billion (31 December 2016 est.) |
+| Market value of publicly traded shares: | $4.632 billion (31 December 2016 est.) |
+| | $4.468 billion (31 December 2015 est.) |
+| | $3.353 billion (31 December 2014 est.) |
+| Current account balance: | $1.712 billion (2017 est.) |
+| | $788 million (2016 est.) |
+| Exports: | $3.272 billion (2017 est.) |
+| | $2.493 billion (2016 est.) |
+| Exports - partners: | Germany 17.3%, France 10.2%, Italy 9.4%, Singapore 5.9%, Hong Kong 5.8%, US 5.7%, Japan 4.9%, Libya 4.5% (2017) |
+| Exports - commodities: | machinery and mechanical appliances; mineral fuels, oils and petroleum products; pharmaceutical products; books and newspapers; aircraft/spacecraft and parts; toys, games, and sports equipment |
+| Imports: | $4.996 billion (2017 est.) |
+| | $4.965 billion (2016 est.) |
+| Imports - commodities: | mineral fuels, oils and products; electrical machinery; aircraft/spacecraft and parts thereof; machinery and mechanical appliances; plastic and other semi-manufactured goods; vehicles and parts |
+| Imports - partners: | Italy 23%, Germany 7.9%, UK 7.7%, Spain 5%, Canada 4.5%, US 4.3%, France 4.2% (2017) |
+| Reserves of foreign exchange and gold: | $833 million (31 December 2017 est.) |
+| | $677.1 million (31 December 2016 est.) |
+| Debt - external: | $90.98 billion (September 2016 est.) |
+| | $99.02 billion (31 December 2015 est.) |
+| Stock of direct foreign investment - at home: | $166.1 million (1 June 2016 est.) |
+| | $155.5 million (1 June 2015 est.) |
+| Stock of direct foreign investment - abroad: | $65.49 million (June 2015 est.) |
+| | $64.77 million (31 June 2014 est.) |
+| Exchange rates: | euros (EUR) per US dollar - |
+| | 0.885 (2017 est.) |
+| | 0.903 (2016 est.) |
+| | 0.9214 (2015 est.) |
+| | 0.885 (2014 est.) |
+| | 0.7634 (2013 est.) |
+
+| Energy | Malta |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2016) |
+| Electricity - production: | 813 million kWh (2016 est.) |
+| Electricity - consumption: | 2.122 billion kWh (2016 est.) |
+| Electricity - exports: | 0 kWh (2016 est.) |
+| Electricity - imports: | 1.525 billion kWh (2016 est.) |
+| Electricity - installed generating capacity: | 575,100 kW (2016 est.) |
+| Electricity - from fossil fuels: | 81% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 0% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 19% of total installed capacity (2017 est.) |
+| Crude oil - production: | 0 bbl/day (2017 est.) |
+| Crude oil - exports: | 0 bbl/day (2015 est.) |
+| Crude oil - imports: | 0 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 0 bbl/day (2017 est.) |
+| Refined petroleum products - consumption: | 45,000 bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 10,400 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 52,290 bbl/day (2015 est.) |
+| Natural gas - production: | 0 cu m (2017 est.) |
+| Natural gas - consumption: | 283.2 million cu m (2017 est.) |
+| Natural gas - exports: | 0 cu m (2017 est.) |
+| Natural gas - imports: | 311.5 million cu m (2017 est.) |
+| Natural gas - proved reserves: | 0 cu m (1 January 2014 est.) |
+| Carbon dioxide emissions from consumption of energy: | 8.141 million Mt (2017 est.) |
+
+| Communications | Malta |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 240,280 (2017 est.) |
+| | subscriptions per 100 inhabitants: 58 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 560,010 (2017 est.) |
+| | subscriptions per 100 inhabitants: 135 (2017 est.) |
+| Telephone system: | general assessment: automatic system featuring submarine cable and microwave radio relay between islands (2016) |
+| | domestic: combined fixed-line and mobile-cellular subscribership exceeds 185 per 100 persons (2016) |
+| | international: country code - 356; submarine cable connects to Italy; satellite earth station - 1 Intelsat (Atlantic Ocean) (2016) |
+| Broadcast media: | 2 publicly owned TV stations, Television Malta broadcasting nationally plus an educational channel; several privately owned national television stations, 2 of which are owned by political parties; Italian and British broadcast programs are available; multi-channel cable and satellite TV services are available; publicly owned radio broadcaster operates 3 stations; roughly 20 commercial radio stations (2017) |
+| Internet country code: | .mt |
+| Internet users: | total: 320,902 (July 2016 est.) |
+| | percent of population: 77.3% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 181,318 (2017 est.) |
+| | subscriptions per 100 inhabitants: 44 (2017 est.) |
+
+| Transportation | Malta |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 9 (2015) |
+| | inventory of registered aircraft operated by air carriers: 28 (2015) |
+| | annual passenger traffic on registered air carriers: 1,583,046 (2015) |
+| | annual freight traffic on registered air carriers: 3.352 million mt-km (2015) |
+| Civil aircraft registration country code prefix: | 9H (2016) |
+| Airports: | 1 (2013) |
+| Airports - with paved runways: | total: 1 (2017) |
+| | over 3,047 m: 1 (2017) |
+| Heliports: | 2 (2013) |
+| Roadways: | total: 3,096 km (2008) |
+| | paved: 2,704 km (2008) |
+| | unpaved: 392 km (2008) |
+| Merchant marine: | total: 2,170 (2017) |
+| | by type: bulk carrier 660, container ship 285, general cargo 317, oil tanker 330, other 578 (2017) |
+| Ports and terminals: | major seaport(s): Marsaxlokk (Malta Freeport), Valletta |
+| | container port(s) (TEUs): Marsaxlokk (3,084,309) (2016) |
+
+| Military and Security | Malta |
+| --- | --- |
+| Military expenditures: | 0.53% of GDP (2016) |
+| | 0.5% of GDP (2015) |
+| | 0.51% of GDP (2014) |
+| | 0.53% of GDP (2013) |
+| | 0.54% of GDP (2012) |
+| Military branches: | Armed Forces of Malta (AFM, includes land, maritime, and air elements) (2017) |
+| Military service age and obligation: | 18 years of age for voluntary military service; no conscription (2017) |
+
+| Transnational Issues | Malta |
+| --- | --- |
+| Disputes - international: | none |
+| Refugees and internally displaced persons: | stateless persons: 11 (2017) |
+| Illicit drugs: | minor transshipment point for hashish from North Africa to Western Europe |

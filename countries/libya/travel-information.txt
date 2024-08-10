@@ -1,0 +1,27 @@
+Telephone Code: 218
+Local Emergency Phone: 193, 1515
+Climate: Mediterranean along coast; dry, extreme desert interior
+Currency (Code): Libyan dinars (LYD)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, L
+Major Languages: Arabic, Italian, English, Berber
+Major Religions: Muslim (virtually all Sunni) 96.6%, Christian 2.7%, Buddhist 0.3%
+Time Difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Tadrart Acacus; Cyrene; Leptis Magna; Old Town Ghadames; Sabratha; Tripoli (includes Arch of Marcus Aurelius, Red Castle Museum)
+Major Sports: Soccer
+Cultural Practices: When invited to a home, it is common to be offered coffee or tea, and it is polite to accept this offer.
+Tipping Guidelines: A service charge of 10-20% is customary on restaurant and hotel bills.
+Souvenirs: Ghadames slippers, blended oils/perfumes, stamps, gold jewelry inlaid with precious stones, leather goods, hand-loomed rugs, pottery, stringed musical instruments, copperware, palm leaf baskets
+Traditional Cuisine: Cuscus Bil-Bosla --- couscous cooked with lamb, chickpeas, potatoes, and tomatoes
+
+---
+country: Libya
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Libya/travel-facts>
+license: public domain (U.S.)
+...

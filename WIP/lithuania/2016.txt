@@ -1,0 +1,357 @@
+CIA - The World Factbook -- LITHUANIA
+
+| Geography | LITHUANIA |
+| --- | --- |
+| Location: | Eastern Europe, bordering the Baltic Sea, between Latvia and Russia, west of Belarus |
+| Geographic coordinates: | 56 00 N, 24 00 E |
+| Map references: | Europe |
+| Area: | total: 65,300 sq km |
+| | land: 62,680 sq km |
+| | water: 2,620 sq km |
+| Area - comparative: | slightly larger than West Virginia |
+| Land boundaries: | total: 1,549 km |
+| | border countries (4): Belarus 640 km, Latvia 544 km, Poland 104 km, Russia (Kaliningrad) 261 km |
+| Coastline: | 90 km |
+| Maritime claims: | territorial sea: 12 nm |
+| Climate: | transitional, between maritime and continental; wet, moderate winters and summers |
+| Terrain: | lowland, many scattered small lakes, fertile soil |
+| Elevation: | mean elevation: 110 m |
+| | elevation extremes: lowest point: Baltic Sea 0 m |
+| | highest point: Aukstojas 294 m |
+| Natural resources: | peat, arable land, amber |
+| Land use: | agricultural land: 44.8% |
+| | arable land 34.9%; permanent crops 0.5%; permanent pasture 9.4% |
+| | forest: 34.6% |
+| | other: 20.6% (2011 est.) |
+| Irrigated land: | 44 sq km (2012) |
+| Population - distribution: | fairly even population distribution throughout the country, but somewhat greater concentrations in the southern cities of Vilnius and Kaunas, and the western port of Klaipeda |
+| Natural hazards: | NA |
+| Environment - current issues: | contamination of soil and groundwater with petroleum products and chemicals at military bases |
+| Environment - international agreements: | party to: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands |
+| | signed, but not ratified: none of the selected agreements |
+| Geography - note: | fertile central plains are separated by hilly uplands that are ancient glacial deposits |
+
+| People and Society | LITHUANIA |
+| --- | --- |
+| Population: | 2,854,235 (July 2016 est.) |
+| Nationality: | noun: Lithuanian(s) |
+| | adjective: Lithuanian |
+| Ethnic groups: | Lithuanian 84.1%, Polish 6.6%, Russian 5.8%, Belarusian 1.2%, other 1.1%, unspecified 1.2% (2011 est.) |
+| Languages: | Lithuanian (official) 82%, Russian 8%, Polish 5.6%, other 0.9%, unspecified 3.5% (2011 est.) |
+| Religions: | Roman Catholic 77.2%, Russian Orthodox 4.1%, Old Believer 0.8%, Evangelical Lutheran 0.6%, Evangelical Reformist 0.2%, other (including Sunni Muslim, Jewish, Greek Catholic, and Karaite) 0.8%, none 6.1%, unspecified 10.1% (2011 est.) |
+| Age structure: | 0-14 years: 14.93% (male 218,453/female 207,643) |
+| | 15-24 years: 11.55% (male 170,494/female 159,283) |
+| | 25-54 years: 40.36% (male 566,159/female 585,862) |
+| | 55-64 years: 13.73% (male 172,987/female 218,955) |
+| | 65 years and over: 19.42% (male 187,340/female 367,059) (2016 est.) |
+| Dependency ratios: | total dependency ratio: 50.1% |
+| | youth dependency ratio: 21.8% |
+| | elderly dependency ratio: 28.3% |
+| | potential support ratio: 3.5% (2015 est.) |
+| Median age: | total: 43.4 years |
+| | male: 39.5 years |
+| | female: 46.7 years (2016 est.) |
+| Population growth rate: | -1.06% (2016 est.) |
+| Birth rate: | 10 births/1,000 population (2016 est.) |
+| Death rate: | 14.5 deaths/1,000 population (2016 est.) |
+| Net migration rate: | -6.2 migrant(s)/1,000 population (2016 est.) |
+| Population distribution: | fairly even population distribution throughout the country, but somewhat greater concentrations in the southern cities of Vilnius and Kaunas, and the western port of Klaipeda |
+| Urbanization: | urban population: 66.5% of total population (2015) |
+| | rate of urbanization: -0.53% annual rate of change (2010-15 est.) |
+| Major urban areas - population: | VILNIUS (capital) 517,000 (2015) |
+| Sex ratio: | at birth: 1.06 male(s)/female |
+| | 0-14 years: 1.05 male(s)/female |
+| | 15-24 years: 1.07 male(s)/female |
+| | 25-54 years: 0.97 male(s)/female |
+| | 55-64 years: 0.79 male(s)/female |
+| | 65 years and over: 0.51 male(s)/female |
+| | total population: 0.86 male(s)/female (2016 est.) |
+| Mother's mean age at first birth: | 26.8 (2013 est.) |
+| Maternal mortality rate: | 10 deaths/100,000 live births (2015 est.) |
+| Infant mortality rate: | total: 3.8 deaths/1,000 live births |
+| | male: 4.3 deaths/1,000 live births |
+| | female: 3.4 deaths/1,000 live births (2016 est.) |
+| Life expectancy at birth: | total population: 74.9 years |
+| | male: 69.5 years |
+| | female: 80.6 years (2016 est.) |
+| Total fertility rate: | 1.59 children born/woman (2016 est.) |
+| Contraceptive prevalence rate: | 62.9% |
+| | note: percent of women aged 18-49 (2006) |
+| Health expenditures: | 6.6% of GDP (2014) |
+| Physicians density: | 4.12 physicians/1,000 population (2012) |
+| Hospital bed density: | 7 beds/1,000 population (2011) |
+| Drinking water source: | improved: |
+| | urban: 99.7% of population |
+| | rural: 90.4% of population |
+| | total: 96.6% of population |
+| unimproved: | urban: 0.3% of population |
+| | rural: 9.6% of population |
+| | total: 3.4% of population (2015 est.) |
+| Sanitation facility access: | improved: |
+| | urban: 97.2% of population |
+| | rural: 82.8% of population |
+| | total: 92.4% of population |
+| unimproved: | urban: 2.8% of population |
+| | rural: 17.2% of population |
+| | total: 7.6% of population (2015 est.) |
+| HIV/AIDS - adult prevalence rate: | NA |
+| HIV/AIDS - people living with HIV/AIDS: | NA |
+| HIV/AIDS - deaths: | NA |
+| Major infectious diseases: | degree of risk: intermediate |
+| | vectorborne diseases: tickborne encephalitis (2016) |
+| Obesity - adult prevalence rate: | 27.5% (2014) |
+| Education expenditures: | 4.8% of GDP (2012) |
+| Literacy: | definition: age 15 and over can read and write |
+| | total population: 99.8% |
+| | male: 99.8% |
+| | female: 99.8% (2015 est.) |
+| School life expectancy (primary to tertiary education): | total: 17 years |
+| | male: 16 years |
+| | female: 17 years (2014) |
+| Unemployment, youth ages 15-24: | total: 19.3% |
+| | male: 19.6% |
+| | female: 18.7% (2014 est.) |
+
+| Government | LITHUANIA |
+| --- | --- |
+| Country name: | conventional long form: Republic of Lithuania |
+| | conventional short form: Lithuania |
+| | local long form: Lietuvos Respublika |
+| | local short form: Lietuva |
+| | former: Lithuanian Soviet Socialist Republic |
+| | etymology: meaning of the name "Lietuva" remains unclear; it may derive from the Lietava, a stream in east central Lithuania |
+| Government type: | semi-presidential republic |
+| Capital: | name: Vilnius |
+| | geographic coordinates: 54 41 N, 25 19 E |
+| | time difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time) |
+| | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 60 municipalities (savivaldybe, singular - savivaldybe); Akmene, Alytaus Miestas, Alytus, Anksciai, Birstono, Birzai, Druskininkai, Elektrenai, Ignalina, Jonava, Joniskis, Jurbarkas, Kaisiadorys, Kalvarijos, Kauno Miestas, Kaunas, Kazlu Rudos, Kedainiai, Kelme, Klaipedos Miestas, Klaipeda, Kretinga, Kupiskis, Lazdijai, Marijampole, Mazeikiai, Moletai, Neringa, Pagegiai, Pakruojis, Palangos Miestas, Panevezio Miestas, Panevezys, Pasvalys, Plunge, Prienai, Radviliskis, Raseiniai, Rietavo, Rokiskis, Sakiai, Salcininkai, Siauliu Miestas, Siauliai, Silale, Silute, Sirvintos, Skuodas, Svencionys, Taurage, Telsiai, Trakai, Ukmerge, Utena, Varena, Vilkaviskis, Vilniaus Miestas, Vilnius, Visaginas, Zarasai |
+| Independence: | 11 March 1990 (declared); 6 September 1991 (recognized by the Soviet Union); notable earlier dates: 6 July 1253 (coronation of MINDAUGAS, traditional founding date), 1 July 1569 (Polish-Lithuanian Commonwealth created), 16 February 1918 (independence from Soviet Russia) |
+| National holiday: | Independence Day, 16 February (1918); note - 16 February 1918 was the date Lithuania established its statehood and its concomitant independence from Soviet Russia and Germany; 11 March 1990 was the date it declared the restoration of Lithuanian statehood and its concomitant independence from the Soviet Union |
+| Constitution: | history: several previous; latest adopted by referendum 25 October 1992, entered into force 2 November 1992 |
+| | amendments: proposed by at least one-fourth of all Parliament members or by petition of at least 300,000 voters; passage requires two-thirds majority vote of Parliament in each of two readings three months apart and a presidential signature; amendments to constitutional articles on national sovereignty and constitutional amendment procedure also require three-fourths voter approval in a referendum; amended 1996, 2003, 2006 (2016) |
+| Legal system: | civil law system; legislative acts can be appealed to the constitutional court |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| | citizenship by descent only: at least one parent must be a citizen of Lithuania |
+| | dual citizenship recognized: no |
+| | residency requirement for naturalization: 10 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Dalia GRYBAUSKAITE (since 12 July 2009) |
+| | head of government: Prime Minister Saulius SKVERNELIS (since 13 December 2016) |
+| | cabinet: Council of Ministers nominated by the prime minister, appointed by the president, and approved by Parliament |
+| | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 11 and 25 May 2014 (next to be held in May 2019); prime minister appointed by the president, approved by Parliament |
+| | election results: Dalia GRYBAUSKAITE reelected president; percent of vote - Dalia GRYBAUSKAITE (independent) 59%, Zigmantas BALCYTIS (LSDP) 41%; Saulius SKVERNELIS (LVZS) approved as prime minister by Parliament vote - 90 to 4 |
+| Legislative branch: | description: unicameral Parliament or Seimas (141 seats; 71 members directly elected in single-seat constituencies by absolute majority vote and 70 directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms) |
+| | elections: last held on 9 and 23 October 2016 (next to be held in October 2020) |
+| | election results: percent of vote by party - LVLS 22.5%, TS-LKD 22.6%, LSDP 15%, LS 9.5%, LCP-LPP 6.3%, LLRA 5.7%, TT 5.6%, DP 4.9%, LZP 2%, Lithuanian List 1.8%, other 4.1%; seats by party - LVLS 54, TS-LKD 31, LSDP 17, LS 14, LLRA 8, TT 8, DP 2, LCP-LPP 1, LZP 1, Lithuanian List 1, independent 4 |
+| Judicial branch: | highest court(s): Supreme Court (consists of 37 judges); Constitutional Court (consists of 9 judges) |
+| | judge selection and term of office: Supreme Court judges nominated by the president and appointed by the Seimas; judges serve 5-year renewable terms; Constitutional Court judges selected by the Seimas from among nominations by the president, by the Seimas chairperson, and Supreme Court chairperson; judges serve 9-year, nonrenewable terms; one-third of membership reconstituted every 3 years |
+| | subordinate courts: Court of Appeals; district and local courts |
+| Political parties and leaders: | Anti-Corruption Coalition or LCP-LPP |
+| | Electoral Action of Lithuanian Poles or LLRA [Valdemar TOMASEVSKI] |
+| | Homeland Union-Lithuanian Christian Democrats or TS-LKD [Gabrielius LANDSBERGIS] |
+| | Labor Party or DP [Valentinas MAZURONIS] |
+| | Liberal Movement or LS or LRLS [Eligijus MASIULIS] |
+| | Lithuanian Green Party or LZP [Linas BALSYS] |
+| | Lithuanian List |
+| | Lithuanian Social Democratic Party or LSDP [Algirdas BUTKEVICIUS] |
+| | Order and Justice Party or TT [Rolandas PAKSAS] |
+| | Peasant and Greens Union or LVZS [Ramunas KARBAUSKIS] |
+| | Way of Courage or DK [Jonas VARKALA] |
+| International organization participation: | Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NIB, NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UN Security Council (non-permanent), UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Rolandas KRISCIUNAS (since 17 September 2015) |
+| | chancery: 2622 16th Street NW, Washington, DC 20009 |
+| | telephone: [1] (202) 234-5860 |
+| | FAX: [1] (202) 328-0466 |
+| | consulate(s) general: Chicago, Los Angeles, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Deborah A. MCCARTHY (since 5 February 2013) |
+| | embassy: Akmenu gatve 6, Vilnius, LT-03106 |
+| | mailing address: American Embassy, Akmenu Gatve 6, Vilnius LT-03106 |
+| | telephone: [370] (5) 266-5500 |
+| | FAX: [370] (5) 266-5510 |
+| Flag description: | three equal horizontal bands of yellow (top), green, and red; yellow symbolizes golden fields, as well as the sun, light, and goodness; green represents the forests of the countryside, in addition to nature, freedom, and hope; red stands for courage and the blood spilled in defense of the homeland |
+| National symbol(s): | mounted knight known as Vytis (the Chaser), white stork; national colors: yellow, green, red |
+| National anthem: | name: "Tautiska giesme" (The National Song) |
+| | lyrics/music: Vincas KUDIRKA |
+| | note: adopted 1918, restored 1990; written in 1898 while Lithuania was a part of Russia; banned during the Soviet occupation from 1940 to 1990 |
+
+| Economy | LITHUANIA |
+| --- | --- |
+| Economy - overview: | Lithuania gained membership in the WTO in May 2001 and joined the EU in May 2004. Lithuania's trade with the EU and CIS countries accounts for approximately 87.3% of total trade. Foreign investment and EU funding have aided in the transition from the former planned economy to a market economy. The three former Soviet Baltic republics were severely hit by the 2008-09 financial crisis, but Lithuania has rebounded and become one of the fastest growing economies in the EU. Lithuania’s ongoing recovery hinges on export growth, which is being hampered by economic slowdowns in the EU and Russia. Lithuania joined the euro zone on 1 January 2015 and is under review for membership in the OECD. |
+| GDP (purchasing power parity): | $82.36 billion (2015 est.) |
+| | $81.06 billion (2014 est.) |
+| | $78.68 billion (2013 est.) |
+| | note: data are in 2015 US dollars |
+| GDP (official exchange rate): | $41.27 billion (2015 est.) |
+| GDP - real growth rate: | 1.6% (2015 est.) |
+| | 3% (2014 est.) |
+| | 3.5% (2013 est.) |
+| GDP - per capita (PPP): | $28,400 (2015 est.) |
+| | $27,600 (2014 est.) |
+| | $26,600 (2013 est.) |
+| | note: data are in 2015 US dollars |
+| Gross national saving: | 16.8% of GDP (2015 est.) |
+| | 21.7% of GDP (2014 est.) |
+| | 20.6% of GDP (2013 est.) |
+| GDP - composition, by end use: | household consumption: 64.1% |
+| | government consumption: 17.5% |
+| | investment in fixed capital: 20.8% |
+| | investment in inventories: -2.3% |
+| | exports of goods and services: 77.4% |
+| | imports of goods and services: -77.5% (2015 est.) |
+| GDP - composition, by sector of origin: | agriculture: 3.2% |
+| | industry: 30.2% |
+| | services: 66.6% (2015 est.) |
+| Agriculture - products: | grain, potatoes, sugar beets, flax, vegetables; beef, milk, eggs, pork, cheese; fish |
+| Industries: | metal-cutting machine tools, electric motors, television sets, refrigerators and freezers, petroleum refining, shipbuilding (small ships), furniture, textiles, food processing, fertilizers, agricultural machinery, optical equipment, lasers, electronic components, computers, amber jewelry, information technology, video game development, biotechnology |
+| Industrial production growth rate: | 1.2% (2015 est.) |
+| Labor force: | 1.469 million (2015 est.) |
+| Labor force - by occupation: | agriculture: 7.9% |
+| | industry: 19.6% |
+| | services: 72.5% (2012 est.) |
+| Unemployment rate: | 9.1% (2015 est.) |
+| | 10.7% (2014 est.) |
+| Population below poverty line: | 4% (2008 est.) |
+| Household income or consumption by percentage share: | lowest 10%: 2.6% |
+| | highest 10%: 29.1% (2008) |
+| Distribution of family income - Gini index: | 35.5 (2009) |
+| | 34 (1999) |
+| Budget: | revenues: $14.4 billion |
+| | expenditures: $14.48 billion (2015 est.) |
+| Taxes and other revenues: | 34.9% of GDP (2015 est.) |
+| Budget surplus (+) or deficit (-): | -0.2% of GDP (2015 est.) |
+| Public debt: | 45.2% of GDP (2015 est.) |
+| | 42.5% of GDP (2014 est.) |
+| | note: official data; data cover general government debt, and includes debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities, debt issued by subnational entities, as well as intra-governmental debt; intra-governmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are sold at public auctions |
+| Fiscal year: | calendar year |
+| Inflation rate (consumer prices): | -0.7% (2015 est.) |
+| | 0.2% (2014 est.) |
+| Central bank discount rate: | 0.05% (31 December 2013) |
+| | 0.3% (31 December 2012) |
+| Commercial bank prime lending rate: | 3.1% (31 December 2015 est.) |
+| | 3.5% (31 December 2014 est.) |
+| Stock of narrow money: | $19.4 billion (31 December 2015 est.) |
+| | $14.67 billion (31 December 2014 est.) |
+| Stock of broad money: | $22.25 billion (31 December 2014 est.) |
+| | $22.41 billion (31 December 2013 est.) |
+| Stock of domestic credit: | $24.43 billion (31 December 2015 est.) |
+| | $22.34 billion (31 December 2014 est.) |
+| Market value of publicly traded shares: | $3.964 billion (31 December 2012 est.) |
+| | $4.075 billion (31 December 2011 est.) |
+| | $5.661 billion (31 December 2010 est.) |
+| Current account balance: | -$932 million (2015 est.) |
+| | $1.734 billion (2014 est.) |
+| Exports: | $24.81 billion (2015 est.) |
+| | $31.5 billion (2014 est.) |
+| Exports - commodities: | refined fuel, machinery and equipment, chemicals, textiles, foodstuffs, plastics |
+| Exports - partners: | Russia 13.7%, Latvia 9.8%, Poland 9.7%, Germany 7.8%, Estonia 5.3%, Belarus 4.6%, UK 4.5%, US 4.4%, Netherlands 4% (2015) |
+| Imports: | $26.93 billion (2015 est.) |
+| | $32.75 billion (2014 est.) |
+| Imports - commodities: | oil, natural gas, machinery and equipment, transport equipment, chemicals, textiles and clothing, metals |
+| Imports - partners: | Russia 16.9%, Germany 11.5%, Poland 10.3%, Latvia 7.6%, Netherlands 5.1%, Italy 4.5% (2015) |
+| Reserves of foreign exchange and gold: | $1.697 billion (31 December 2015 est.) |
+| | $8.728 billion (31 December 2014 est.) |
+| Debt - external: | $30.81 billion (31 December 2014 est.) |
+| | $33.64 billion (31 December 2013 est.) |
+| Stock of direct foreign investment - at home: | $15.63 billion (31 December 2015 est.) |
+| | $17.19 billion (31 December 2014 est.) |
+| Stock of direct foreign investment - abroad: | $3.427 billion (31 December 2015 est.) |
+| | $4.404 billion (31 December 2014 est.) |
+| Exchange rates: | litai (LTL) per US dollar - |
+| | 0.9012 (2015 est.) |
+| | 0.7525 (2014 est.) |
+| | 0.7525 (2013 est.) |
+| | 2.69 (2012 est.) |
+| | 2.481 (2011 est.) |
+
+| Energy | LITHUANIA |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2016) |
+| Electricity - production: | 3.1 billion kWh (2014 est.) |
+| Electricity - consumption: | 9.9 billion kWh (2014 est.) |
+| Electricity - exports: | 900 million kWh (2014 est.) |
+| Electricity - imports: | 8.5 billion kWh (2014 est.) |
+| Electricity - installed generating capacity: | 3.9 million kW (2014 est.) |
+| Electricity - from fossil fuels: | 68.8% of total installed capacity (2012 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2012 est.) |
+| Electricity - from hydroelectric plants: | 3.1% of total installed capacity (2012 est.) |
+| Electricity - from other renewable sources: | 7.6% of total installed capacity (2012 est.) |
+| Crude oil - production: | 2,000 bbl/day (2015 est.) |
+| Crude oil - exports: | 1,316 bbl/day (2013 est.) |
+| Crude oil - imports: | 191,100 bbl/day (2013 est.) |
+| Crude oil - proved reserves: | 12 million bbl (1 January 2016 es) |
+| Refined petroleum products - production: | 202,300 bbl/day (2013 est.) |
+| Refined petroleum products - consumption: | 54,000 bbl/day (2014 est.) |
+| Refined petroleum products - exports: | 173,600 bbl/day (2013 est.) |
+| Refined petroleum products - imports: | 23,960 bbl/day (2013 est.) |
+| Natural gas - production: | 0 cu m (2013 est.) |
+| Natural gas - consumption: | 2.78 billion cu m (2014 est.) |
+| Natural gas - exports: | 0 cu m (2013 est.) |
+| Natural gas - imports: | 2.78 billion cu m (2014 est.) |
+| Natural gas - proved reserves: | 0 cu m (1 January 2014 es) |
+| Carbon dioxide emissions from consumption of energy: | 17 million Mt (2013 est.) |
+
+| Communications | LITHUANIA |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 561,919 |
+| | subscriptions per 100 inhabitants: 19 (July 2015 est.) |
+| Telephones - mobile cellular: | total: 4.184 million |
+| | subscriptions per 100 inhabitants: 145 (July 2015 est.) |
+| Telephone system: | general assessment: adequate; being modernized to provide improved international capability and better residential access |
+| | domestic: rapid expansion of mobile-cellular services has resulted in a steady decline in the number of fixed-line connections; mobile-cellular teledensity stands at about 145 per 100 persons |
+| | international: country code - 370; major international connections to Denmark, Sweden, and Norway by submarine cable for further transmission by satellite; landline connections to Latvia and Poland (2015) |
+| Broadcast media: | public broadcaster operates 3 channels with the third channel - a satellite channel - introduced in 2007; various privately owned commercial TV broadcasters operate national and multiple regional channels; many privately owned local TV stations; multi-channel cable and satellite TV services available; publicly owned broadcaster operates 3 radio networks; many privately owned commercial broadcasters, with repeater stations in various regions throughout the country (2007) |
+| Internet country code: | .lt |
+| Internet users: | total: 2.059 million |
+| | percent of population: 71.4% (July 2015 est.) |
+
+| Transportation | LITHUANIA |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 2 |
+| | inventory of registered aircraft operated by air carriers: 52 |
+| | annual passenger traffic on registered air carriers: 1,363,950 |
+| | annual freight traffic on registered air carriers: 565,642 mt-km (2015) |
+| Civil aircraft registration country code prefix: | LY (2016) |
+| Airports: | 61 (2013) |
+| Airports - with paved runways: | total: 22 |
+| | over 3,047 m: 3 |
+| | 2,438 to 3,047 m: 1 |
+| | 1,524 to 2,437 m: 7 |
+| | 914 to 1,523 m: 2 |
+| | under 914 m: 9 (2013) |
+| Airports - with unpaved runways: | total: 39 |
+| | over 3,047 m: 1 |
+| | 914 to 1,523 m: 2 |
+| | under 914 m: 36 (2013) |
+| Pipelines: | gas 1,921 km; refined products 121 km (2013) |
+| Railways: | total: 1,768 km |
+| | broad gauge: 1,746 km 1.520-m gauge (122 km electrified) |
+| | standard gauge: 22 km 1.435-m gauge (2014) |
+| Roadways: | total: 84,166 km |
+| | paved: 72,297 km (includes 312 km of expressways) |
+| | unpaved: 11,869 km (2012) |
+| Waterways: | 441 km (navigable year round) (2007) |
+| Merchant marine: | total: 38 |
+| | by type: cargo 20, container 1, passenger/cargo 6, refrigerated cargo 9, roll on/roll off 2 |
+| | foreign-owned: 8 (Denmark 8) |
+| | registered in other countries: 22 (Antigua and Barbuda 3, Belize 1, Comoros 1, Cook Islands 1, Norway 1, Panama 3, Saint Vincent and the Grenadines 9, unknown 3) (2010) |
+| Ports and terminals: | major seaport(s): Klaipeda |
+| | oil terminals: Butinge oil terminal |
+| | LNG terminal(s) (import): Klaipeda |
+
+| Military and Security | LITHUANIA |
+| --- | --- |
+| Military branches: | Lithuanian Armed Forces (Lietuvos Ginkluotosios Pajegos): Land Forces (Sausumos Pajegos), Naval Forces (Karines Juru Pajegos), Air Forces (Karines Oro Pajegos), Special Forces (Specialiuju Operaciju Pajegos); Volunteer Forces (Savanoriu Pajegos) (2015) |
+| Military service age and obligation: | 18 years of age for military service; 9-month service obligation; Lithuania converted to a professional military in the fall of 2008, although the decision continues under judicial review; a new law passed in March 2015 restored conscription on a limited, 5-year basis; in March 2016, Lithuania's National Security and Defense Council recommended permanently restoring conscription service (2016) |
+| Military expenditures: | 1.48% of GDP (2016) |
+| | 1.11% of GDP (2015) |
+| | 0.9% of GDP (2014) |
+| | 0.8% of GDP (2013) |
+| | 0.97% of GDP (2012) |
+
+| Transnational Issues | LITHUANIA |
+| --- | --- |
+| Disputes - international: | Lithuania and Russia committed to demarcating their boundary in 2006 in accordance with the land and maritime treaty ratified by Russia in May 2003 and by Lithuania in 1999; Lithuania operates a simplified transit regime for Russian nationals traveling from the Kaliningrad coastal exclave into Russia, while still conforming, as a EU member state having an external border with a non-EU member, to strict Schengen border rules; boundary demarcated with Latvia and Lithuania; as of January 2007, ground demarcation of the boundary with Belarus was complete and mapped with final ratification documents in preparation |
+| Refugees and internally displaced persons: | stateless persons: 3,466 (2015) |
+| Illicit drugs: | transshipment and destination point for cannabis, cocaine, ecstasy, and opiates from Southwest Asia, Latin America, Western Europe, and neighboring Baltic countries; growing production of high-quality amphetamines, but limited production of cannabis, methamphetamines; susceptible to money laundering despite changes to banking legislation |

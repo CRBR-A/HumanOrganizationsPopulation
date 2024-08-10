@@ -1,0 +1,381 @@
+CIA - The World Factbook -- Haiti
+
+| Geography | Haiti |
+| --- | --- |
+| Location: | Caribbean, western one-third of the island of Hispaniola, between the Caribbean Sea and the North Atlantic Ocean, west of the Dominican Republic |
+| Geographic coordinates: | 19 00 N, 72 25 W |
+| Map references: | Central America and the Caribbean |
+| Area: | total: 27,750 sq km |
+| | land: 27,560 sq km |
+| | water: 190 sq km |
+| Area - comparative: | slightly smaller than Maryland |
+| | Area comparison map: [Area comparison map] |
+| | The World Factbook Field Image Modal |
+| | Ã— |
+| | Central America :: Haiti Print |
+| | [Area comparison map] |
+| | Image Description |
+| | slightly smaller than Maryland |
+| Land boundaries: | total: 376 km |
+| | border countries (1): Dominican Republic 376 km |
+| Coastline: | 1,771 km |
+| Maritime claims: | territorial sea: 12 nm |
+| | exclusive economic zone: 200 nm |
+| | contiguous zone: 24 nm |
+| | continental shelf: to depth of exploitation |
+| Climate: | tropical; semiarid where mountains in east cut off trade winds |
+| Terrain: | mostly rough and mountainous |
+| Elevation: | mean elevation: 470 m |
+| | lowest point: Caribbean Sea 0 m |
+| | highest point: Chaine de la Selle 2,680 m |
+| Natural resources: | bauxite, copper, calcium carbonate, gold, marble, hydropower, arable land |
+| Land use: | agricultural land: 66.4% (2011 est.) |
+| | arable land: 38.5% (2011 est.) / permanent crops: 10.2% (2011 est.) / permanent pasture: 17.7% (2011 est.) |
+| | forest: 3.6% (2011 est.) |
+| | other: 30% (2011 est.) |
+| Irrigated land: | 970 sq km (2012) |
+| Population distribution: | fairly even distribution; largest concentrations located near coastal areas |
+| Natural hazards: | lies in the middle of the hurricane belt and subject to severe storms from June to October; occasional flooding and earthquakes; periodic droughts |
+| Environment - current issues: | extensive deforestation (much of the remaining forested land is being cleared for agriculture and used as fuel); soil erosion; overpopulation leads to inadequate supplies of potable water and and a lack of sanitation; natural disasters |
+| Environment - international agreements: | party to: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection |
+| | signed, but not ratified: Hazardous Wastes |
+| Geography - note: | shares island of Hispaniola with Dominican Republic (western one-third is Haiti, eastern two-thirds is the Dominican Republic); it is the most mountainous nation in the Caribbean |
+
+| People and Society | Haiti |
+| --- | --- |
+| Population: | 11,067,777 (July 2020 est.) |
+| | note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected |
+| Nationality: | noun: Haitian(s) |
+| | adjective: Haitian |
+| Ethnic groups: | Black 95%, mixed and White 5% |
+| Languages: | French (official), Creole (official) |
+| Religions: | Roman Catholic 54.7%, Protestant 28.5% (Baptist 15.4%, Pentecostal 7.9%, Adventist 3%, Methodist 1.5%, other 0.7%), Vodou 2.1%, other 4.6%, none 10.2% (2003 est.) |
+| | note: many Haitians practice elements of Vodou in addition to another religion, most often Roman Catholicism; Vodou was recognized as an official religion in 2003 |
+| Age structure: | 0-14 years: 31.21% (male 1,719,961/female 1,734,566) |
+| | 15-24 years: 20.71% (male 1,145,113/female 1,146,741) |
+| | 25-54 years: 38.45% (male 2,110,294/female 2,145,209) |
+| | 55-64 years: 5.3% (male 280,630/female 305,584) |
+| | 65 years and over: 4.33% (male 210,451/female 269,228) (2020 est.) |
+| Dependency ratios: | total dependency ratio: 60.4 |
+| | youth dependency ratio: 52.1 |
+| | elderly dependency ratio: 8.3 |
+| | potential support ratio: 13.3 (2020 est.) |
+| Median age: | total: 24.1 years |
+| | male: 23.8 years |
+| | female: 24.3 years (2020 est.) |
+| Population growth rate: | 1.26% (2020 est.) |
+| Birth rate: | 21.7 births/1,000 population (2020 est.) |
+| Death rate: | 7.4 deaths/1,000 population (2020 est.) |
+| Net migration rate: | -1.9 migrant(s)/1,000 population (2020 est.) |
+| Population distribution: | fairly even distribution; largest concentrations located near coastal areas |
+| Urbanization: | urban population: 57.1% of total population (2020) |
+| | rate of urbanization: 2.9% annual rate of change (2015-20 est.) |
+| | total population growth rate v. urban population growth rate, 2000-2030: [Adobe] PDF |
+| Major urban areas - population: | 2.774 million PORT-AU-PRINCE (capital) (2020) |
+| Sex ratio: | at birth: 1.01 male(s)/female |
+| | 0-14 years: 0.99 male(s)/female |
+| | 15-24 years: 1 male(s)/female |
+| | 25-54 years: 0.98 male(s)/female |
+| | 55-64 years: 0.92 male(s)/female |
+| | 65 years and over: 0.78 male(s)/female |
+| | total population: 0.98 male(s)/female (2020 est.) |
+| Mother's mean age at first birth: | 22.8 years (2016/7 est.) |
+| | note: median age at first birth among women 25-29 |
+| Maternal mortality rate: | 480 deaths/100,000 live births (2017 est.) |
+| Infant mortality rate: | total: 42.6 deaths/1,000 live births |
+| | male: 48.5 deaths/1,000 live births |
+| | female: 36.6 deaths/1,000 live births (2020 est.) |
+| Life expectancy at birth: | total population: 65.3 years |
+| | male: 62.6 years |
+| | female: 68 years (2020 est.) |
+| Total fertility rate: | 2.52 children born/woman (2020 est.) |
+| Contraceptive prevalence rate: | 34.3% (2016/17) |
+| Drinking water source: | improved: urban: 91.5% of population |
+| | rural: 55.4% of population |
+| | total: 75% of population |
+| | unimproved: urban: 8.5% of population |
+| | rural: 44.6% of population |
+| | total: 25% of population (2017 est.) |
+| Current Health Expenditure: | 8% (2017) |
+| Physicians density: | 0.23 physicians/1,000 population (2018) |
+| Hospital bed density: | 0.7 beds/1,000 population (2013) |
+| Sanitation facility access: | improved: urban: 80.6% of population |
+| | rural: 40% of population |
+| | total: 62.1% of population |
+| | unimproved: urban: 19.4% of population |
+| | rural: 60% of population |
+| | total: 37.9% of population (2017 est.) |
+| HIV/AIDS - adult prevalence rate: | 1.9% (2019 est.) |
+| HIV/AIDS - people living with HIV/AIDS: | 160,000 (2019 est.) |
+| HIV/AIDS - deaths: | 2,700 (2019 est.) |
+| Major infectious diseases: | degree of risk: very high (2020) |
+| | food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever |
+| | vectorborne diseases: dengue fever and malaria |
+| Obesity - adult prevalence rate: | 22.7% (2016) |
+| Children under the age of 5 years underweight: | 9.5% (2017) |
+| Education expenditures: | 2.8% of GDP (2018) |
+| Literacy: | definition: age 15 and over can read and write |
+| | total population: 61.7% |
+| | male: 65.3% |
+| | female: 58.3% (2016) |
+
+| Government | Haiti |
+| --- | --- |
+| Country name: | conventional long form: Republic of Haiti |
+| | conventional short form: Haiti |
+| | local long form: Republique d'Haiti/Repiblik d Ayiti |
+| | local short form: Haiti/Ayiti |
+| | etymology: the native Taino name means "Land of High Mountains" and was originally applied to the entire island of Hispaniola |
+| Government type: | semi-presidential republic |
+| Capital: | name: Port-au-Prince |
+| | geographic coordinates: 18 32 N, 72 20 W |
+| | time difference: UTC-5 (same time as Washington, DC, during Standard Time) |
+| | daylight saving time: +1hr, begins second Sunday in March; ends first Sunday in November |
+| | etymology: according to tradition, in 1706, a Captain de Saint-Andre named the bay and its surrounding area after his ship Le Prince; the name of the town that grew there means, "the Port of The Prince" |
+| Administrative divisions: | 10 departments (departements, singular - departement); Artibonite, Centre, Grand'Anse, Nippes, Nord, Nord-Est, Nord-Ouest, Ouest, Sud, Sud-Est |
+| Independence: | 1 January 1804 (from France) |
+| National holiday: | Independence Day, 1 January (1804) |
+| Constitution: | history: many previous; latest adopted 10 March 1987 |
+| | amendments: proposed by the executive branch or by either the Senate or the Chamber of Deputies; consideration of proposed amendments requires support by at least two-thirds majority of both houses; passage requires at least two-thirds majority of the membership present and at least two-thirds majority of the votes cast; approved amendments enter into force after installation of the next president of the republic; constitutional articles on the democratic and republican form of government cannot be amended; amended 2011, 2012 |
+| Legal system: | civil law system strongly influenced by Napoleonic Code |
+| International law organization participation: | accepts compulsory ICJ jurisdiction; non-party state to the ICCt |
+| Citizenship: | citizenship by birth: no |
+| | citizenship by descent only: at least one parent must be a native-born citizen of Haiti |
+| | dual citizenship recognized: no |
+| | residency requirement for naturalization: 5 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Jovenel MOISE (since 7 February 2017) |
+| | head of government: Prime Minister Joseph JOUTHE (since since 4 March 2020) |
+| | cabinet: Cabinet chosen by the prime minister in consultation with the president; parliament must ratify the Cabinet and Prime Minister's governing policy |
+| | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a single non-consecutive term); last election originally scheduled for 9 October 2016 but postponed until 20 November 2016 due to Hurricane Matthew |
+| | election results: Jovenel MOISE elected president in first round; percent of vote - Jovenel MOISE (PHTK) 55.6%, Jude CELESTIN (LAPEH) 19.6%, Jean-Charles MOISE (PPD) 11%, Maryse NARCISSE (FL) 9%; other 4.8% |
+| Legislative branch: | description: bicameral legislature or le Corps l'egislatif ou le Parlement consists of: |
+| | le S'enat or Senate (30 seats, 29 filled as of June 2019; members directly elected in multi-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms with one-third of the membership renewed every 2 years) |
+| | la Chambre de deput'es or Chamber of Deputies (119 seats; 116 filled as of June 2019; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year terms); note - when the 2 chambers meet collectively it is known as L'Assembl'ee nationale or the National Assembly and is convened for specific purposes spelled out in the constitution |
+| | elections: |
+| | Senate - last held on 20 November 2016 with runoff on 29 January 2017 (next scheduled for 27 October 2019) |
+| | Chamber of Deputies - last held on 9 August 2015 with runoff on 25 October 2015 and 20 November 2016 (next scheduled for 27 October 2019) |
+| | election results: |
+| | Senate - percent of vote by party - NA; seats by party - NA; composition - men 27, women 1, percent of women 3.6% |
+| | Chamber of Deputies - percent of vote by party - NA; seats by party - NA; composition - men 115, women 3, percent of women 2.5%; note - total legislature percent of women 2.7% |
+| Judicial branch: | highest courts: Supreme Court or Cour de cassation (consists of a chief judge and other judges); note - Haiti is a member of the Caribbean Court of Justice |
+| | judge selection and term of office: judges appointed by the president from candidate lists submitted by the Senate of the National Assembly; note - Article 174 of Haiti's constitution states that judges of the Supreme Court are appointed for 10 years, whereas Article 177 states that judges of the Supreme Court are appointed for life |
+| | subordinate courts: Courts of Appeal; Courts of First Instance; magistrate's courts;Â  land, labor, and children's courts |
+| | note: the Superior Council of the Judiciary or Conseil Superieur du Pouvoir Judiciaire is a 9-member body charged with the administration and oversight of the judicial branch of government |
+| Political parties and leaders: | Alternative League for Haitian Progress and Empowerment or LAPEH [Jude CELESTIN] |
+| | Christian Movement for a New Haiti or MCNH [Luc MESADIEU] |
+| | Christian National Movement for the Reconstruction of Haiti or UNCRH [Chavannes JEUNE] |
+| | Convention for Democratic Unity or KID [Evans PAUL] |
+| | Cooperative Action to Rebuild Haiti or KONBA [Jean William JEANTY] |
+| | December 16 Platform or Platfom 16 Desanm [Dr. Gerard BLOT] |
+| | Democratic Alliance Party or ALYANS [Evans PAUL] (coalition includes KID and PPRH) |
+| | Democratic Centers' National Council or CONACED [Osner FEVRY] |
+| | Dessalinian Patriotic and Popular Movement or MOPOD [Jean Andre VICTOR] |
+| | Effort and Solidarity to Create an Alternative for the People or ESKAMP [Joseph JASME] |
+| | Fanmi Lavalas or FL [Jean-Bertrand ARISTIDE] |
+| | For Us All or PONT [Jean-Marie CHERESTAL] |
+| | Fusion of Haitian Social Democrats or FHSD [Edmonde Supplice BEAUZILE] |
+| | Grouping of Citizens for Hope or RESPE [Charles-Henri BAKER] |
+| | Haitians for Haiti [Yvon NEPTUNE] |
+| | Haitian Tet Kale Party or PHTK [Ann Valerie Timothee MILFORT] |
+| | Haiti in Action or AAA [Youri LATORTUE] |
+| | Independent Movement for National Reconstruction or MIRN [Luc FLEURINORD] |
+| | Konbit Pou refe Ayiti or KONBIT |
+| | Lavni Organization or LAVNI [Yves CRISTALIN] |
+| | Liberal Party of Haiti or PLH [Jean Andre VICTOR] |
+| | Love Haiti or Renmen Ayiti [Jean-Henry CEANT, Camille LEBLANC] |
+| | Mobilization for National Development or MDN [Hubert de RONCERAY] |
+| | New Christian Movement for a New Haiti or MOCHRENA [Luc MESADIEU] |
+| | Organization for the Advancement of Haiti and Haitians or OLAHH |
+| | Party for the Integral Advancement of the Haitian People or PAIPH |
+| | Patriotic Unity or IP [Marie Denise CLAUDE] |
+| | Peasant's Response or Repons Peyizan [Michel MARTELLY] |
+| | Platform Alternative for Progress and Democracy or ALTENATIV [Victor BENOIT and Evans PAUL] |
+| | Platform of Haitian Patriots or PLAPH [Dejean BELISAIRE, Himmler REBU] |
+| | Platform Pitit Desaline or PPD [Jean-Charles MOISE] |
+| | Pont |
+| | Popular Party for the Renewal of Haiti or PPRH [Claude ROMAIN] |
+| | PPG18 |
+| | Rally of Progressive National Democrats or RDNP [Mirlande MANIGAT] |
+| | Renmen Ayiti or RA [Jean-Henry CEANT] |
+| | Reseau National Bouclier or Bouclier |
+| | Respect or RESPE |
+| | Strength in Unity or Ansanm Nou Fo [Leslie VOLTAIRE] |
+| | Struggling People's Organization or OPL [Jacques-Edouard ALEXIS] |
+| | Truth (Verite) |
+| | Union [Chavannes JEUNE] |
+| | Unity or Inite [Levaillant LOUIS-JEUNE] |
+| | Vigilance or Veye Yo [Lavarice GAUDIN] |
+| International organization participation: | ACP, AOSIS, Caricom, CD, CDB, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), LAES, MIGA, NAM, OAS, OIF, OPANAL, OPCW, PCA, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Charge d'Affaires Herve DENIS (since 7 March 2019) |
+| | chancery: 2311 Massachusetts Avenue NW, Washington, DC 20008 |
+| | telephone: [1] (202) 332-4090 |
+| | FAX: [1] (202) 745-7215 |
+| | consulate(s) general: Atlanta, Boston, Chicago, Miami, Orlando (FL), New York, San Juan (Puerto Rico) |
+| Diplomatic representation from the US: | chief of mission: Ambassador Michele SISON (since 21 February 2018) |
+| | telephone: [509] 229-8000 |
+| | embassy: Tabarre 41, Route de Tabarre, Port-au-Prince |
+| | mailing address: (in Haiti) P.O. Box 1634, Port-au-Prince, Haiti; (from abroad) 3400 Port-au-Prince, State Department, Washington, DC 20521-3400 |
+| | FAX: [509] 229-8028 |
+| Flag description: | two equal horizontal bands of blue (top) and red with a centered white rectangle bearing the coat of arms, which contains a palm tree flanked by flags and two cannons above a scroll bearing the motto L'UNION FAIT LA FORCE (Union Makes Strength); the colors are taken from the French Tricolor and represent the union of blacks and mulattoes |
+| National symbol(s): | Hispaniolan trogon (bird), hibiscus flower; national colors: blue, red |
+| National anthem: | name: "La Dessalinienne" (The Dessalines Song) |
+| | lyrics/music: Justin LHERISSON/Nicolas GEFFRARD |
+| | note: adopted 1904; named for Jean-Jacques DESSALINES, a leader in the Haitian Revolution and first ruler of an independent Haiti |
+
+| Economy | Haiti |
+| --- | --- |
+| Economic overview: | Haiti is a free market economy with low labor costs and tariff-free access to the US for many of its exports. Two-fifths of all Haitians depend on the agricultural sector, mainly small-scale subsistence farming, which remains vulnerable to damage from frequent natural disasters. Poverty, corruption, vulnerability to natural disasters, and low levels of education for much of the population represent some of the most serious impediments to Haitiâ€™s economic growth. Remittances are the primary source of foreign exchange, equivalent to more than a quarter of GDP, and nearly double the combined value of Haitian exports and foreign direct investment. |
+| | Currently the poorest country in the Western Hemisphere, with close to 60% of the population living under the national poverty line, Haitiâ€™s GDP growth rose to 5.5% in 2011 as the Haitian economy began recovering from the devastating January 2010 earthquake that destroyed much of its capital city, Port-au-Prince, and neighboring areas. However, growth slowed to below 2% in 2015 and 2016 as political uncertainty, drought conditions, decreasing foreign aid, and the depreciation of the national currency took a toll on investment and economic growth. Hurricane Matthew, the fiercest Caribbean storm in nearly a decade, made landfall in Haiti on 4 October 2016, with 140 mile-per-hour winds, creating a new humanitarian emergency. An estimated 2.1 million people were affected by the category 4 storm, which caused extensive damage to crops, houses, livestock, and infrastructure across Haitiâ€™s southern peninsula. |
+| | US economic engagement under the Caribbean Basin Trade Partnership Act (CBTPA) and the 2008 Haitian Hemispheric Opportunity through Partnership Encouragement Act (HOPE II) have contributed to an increase in apparel exports and investment by providing duty-free access to the US. The Haiti Economic Lift Program (HELP) Act of 2010 extended the CBTPA and HOPE II until 2020, while the Trade Preferences Extension Act of 2015 extended trade benefits provided to Haiti in the HOPE and HELP Acts through September 2025. Apparel sector exports in 2016 reached approximately $850 million and account for over 90% of Haitian exports and more than 10% of the GDP. |
+| | Investment in Haiti is hampered by the difficulty of doing business and weak infrastructure, including access to electricity. Haiti's outstanding external debt was cancelled by donor countries following the 2010 earthquake, but has since risen to $2.6 billion as of December 2017, the majority of which is owed to Venezuela under the PetroCaribe program. Although the government has increased its revenue collection, it continues to rely on formal international economic assistance for fiscal sustainability, with over 20% of its annual budget coming from foreign aid or direct budget support. |
+| GDP real growth rate: | 1.2% (2017 est.) |
+| | 1.5% (2016 est.) |
+| | 1.2% (2015 est.) |
+| Inflation rate (consumer prices): | 14.7% (2017 est.) |
+| | 13.4% (2016 est.) |
+| GDP (purchasing power parity) - real: | $19.97 billion (2017 est.) |
+| | $19.74 billion (2016 est.) |
+| | $19.46 billion (2015 est.) |
+| | note: data are in 2017 dollars |
+| GDP (official exchange rate): | $8.608 billion (2017 est.) |
+| GDP - per capita (PPP): | $1,800 (2017 est.) |
+| | $1,800 (2016 est.) |
+| | $1,800 (2015 est.) |
+| | note: data are in 2017 dollars |
+| Gross national saving: | 24.9% of GDP (2017 est.) |
+| | 29.5% of GDP (2016 est.) |
+| | 29.3% of GDP (2015 est.) |
+| GDP - composition, by sector of origin: | agriculture: 22.1% (2017 est.) |
+| | industry: 20.3% (2017 est.) |
+| | services: 57.6% (2017 est.) |
+| GDP - composition, by end use: | household consumption: 99.1% (2017 est.) |
+| | government consumption: 10% (2016 est.) |
+| | investment in fixed capital: 32.6% (2016 est.) |
+| | investment in inventories: -1.4% (2017 est.) |
+| | exports of goods and services: 20% (2017 est.) |
+| | imports of goods and services: -60.3% (2017 est.) |
+| | note: figure for household consumption also includes government consumption |
+| Ease of Doing Business Index scores: | 40.7 (2020) |
+| Agriculture - products: | coffee, mangoes, cocoa, sugarcane, rice, corn, sorghum; wood, vetiver |
+| Industries: | textiles, sugar refining, flour milling, cement, light assembly using imported parts |
+| Industrial production growth rate: | 0.9% (2017 est.) |
+| Labor force: | 4.594 million (2014 est.) |
+| | note: shortage of skilled labor; unskilled labor abundant |
+| Labor force - by occupation: | agriculture: 38.1% |
+| | industry: 11.5% |
+| | services: 50.4% (2010) |
+| Unemployment rate: | 40.6% (2010 est.) |
+| | note: widespread unemployment and underemployment; more than two-thirds of the labor force do not have formal jobs |
+| Population below poverty line: | 58.5% (2012 est.) |
+| Household income or consumption by percentage share: | lowest 10%: 0.7% |
+| | highest 10%: 47.7% (2001) |
+| Budget: | revenues: 1.567 billion (2017 est.) |
+| | expenditures: 1.65 billion (2017 est.) |
+| Taxes and other revenues: | 18.2% (of GDP) (2017 est.) |
+| Budget surplus (+) or deficit (-): | -1% (of GDP) (2017 est.) |
+| Public debt: | 31.1% of GDP (2017 est.) |
+| | 33.9% of GDP (2016 est.) |
+| Fiscal year: | 1 October - 30 September |
+| Current account balance: | -$348 million (2017 est.) |
+| | -$83 million (2016 est.) |
+| Exports: | $980.2 million (2017 est.) |
+| | $995 million (2016 est.) |
+| Exports - partners: | US 80.6%, Dominican Republic 4.9% (2017) |
+| Exports - commodities: | apparel, manufactures, oils, cocoa, mangoes, coffee |
+| Imports: | $3.618 billion (2017 est.) |
+| | $3.183 billion (2016 est.) |
+| Imports - commodities: | food, manufactured goods, machinery and transport equipment, fuels, raw materials |
+| Imports - partners: | US 20.7%, China 18.8%, Netherlands Antilles 15.7%, Indonesia 8.5% (2017) |
+| Reserves of foreign exchange and gold: | $2.361 billion (31 December 2017 est.) |
+| | $2.11 billion (31 December 2016 est.) |
+| Debt - external: | $2.762 billion (31 December 2017 est.) |
+| | $2.17 billion (31 December 2016 est.) |
+| Exchange rates: | gourdes (HTG) per US dollar - |
+| | 65.21 (2017 est.) |
+| | 63.34 (2016 est.) |
+| | 63.34 (2015 est.) |
+| | 50.71 (2014 est.) |
+| | 45.22 (2013 est.) |
+
+| Energy | Haiti |
+| --- | --- |
+| Electricity access: | population without electricity: 7 million (2019) |
+| | electrification - total population: 39% (2019) |
+| | electrification - urban areas: 60% (2019) |
+| | electrification - rural areas: 12% (2019) |
+| Electricity - production: | 1.023 billion kWh (2016 est.) |
+| Electricity - consumption: | 406.2 million kWh (2016 est.) |
+| Electricity - exports: | 0 kWh (2016 est.) |
+| Electricity - imports: | 0 kWh (2016 est.) |
+| Electricity - installed generating capacity: | 332,000 kW (2016 est.) |
+| Electricity - from fossil fuels: | 82% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 18% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 0% of total installed capacity (2017 est.) |
+| Crude oil - production: | 0 bbl/day (2018 est.) |
+| Crude oil - exports: | 0 bbl/day (2015 est.) |
+| Crude oil - imports: | 0 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 0 bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 21,000 bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 0 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 20,030 bbl/day (2015 est.) |
+| Natural gas - production: | 0 cu m (2017 est.) |
+| Natural gas - consumption: | 0 cu m (2017 est.) |
+| Natural gas - exports: | 0 cu m (2017 est.) |
+| Natural gas - imports: | 0 cu m (2017 est.) |
+| Natural gas - proved reserves: | 0 cu m (1 January 2014 est.) |
+| Carbon dioxide emissions from consumption of energy: | 3.595 million Mt (2017 est.) |
+
+| Communications | Haiti |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 5,464 |
+| | subscriptions per 100 inhabitants: less than 1 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 6,287,411 |
+| | subscriptions per 100 inhabitants: 57.53 (2019 est.) |
+| Telecommunication systems: | general assessment: telecommunications infrastructure is among the least-developed in Latin America and the Caribbean; domestic cell service is functional; Hurricane Matthew in 2016 caused $35 million worth of damage to telecoms infrastructure; some expansion of LTE services (2020) |
+| | domestic: fixed-line is less than 1 per 100; mobile-cellular telephone services have expanded greatly in the last decade due to low-cost GSM (Global Systems for Mobile) phones and pay-as-you-go plans; mobile-cellular teledensity is 58 per 100 persons (2019) |
+| | international: country code - 509; landing points for the BDSNi and Fibralink submarine cables to 14 points in the Bahamas and Dominican Republic; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019) |
+| | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | 98 television stations throughout the country, including 1 government-owned; cable TV subscription service available; 850 radio stations (of them, only 346 are licensed), including 1 government-owned; more than 100 community radio stations; over 64 FM stations in Port-au-Prince alone; VOA Creole Service broadcasts daily on 30 affiliate stations |
+| | (2016) |
+| Internet country code: | .ht |
+| Internet users: | total: 3,503,006 |
+| | percent of population: 32.47% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 31,100 |
+| | subscriptions per 100 inhabitants: less than 1 (2018 est.) |
+
+| Transportation | Haiti |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 1 (2020) |
+| | inventory of registered aircraft operated by air carriers: 1 |
+| Civil aircraft registration country code prefix: | HH (2016) |
+| Airports: | 14 (2013) |
+| Airports - with paved runways: | total: 4 (2019) |
+| | 2,438 to 3,047 m: 2 |
+| | 914 to 1,523 m: 2 |
+| Airports - with unpaved runways: | total: 10 (2013) |
+| | 914 to 1,523 m: 2 (2013) |
+| | under 914 m: 8 (2013) |
+| Roadways: | total: 4,266 km (2009) |
+| | paved: 768 km (2009) |
+| | unpaved: 3,498 km (2009) |
+| Merchant marine: | total: 4 |
+| | by type: general cargo 3other 1 (2019) |
+| Ports and terminals: | major seaport(s): Cap-Haitien, Gonaives, Jacmel, Port-au-Prince |
+
+| Military and Security | Haiti |
+| --- | --- |
+| Military and security forces: | the Haitian Armed Forces (FAdH), disbanded in 1995, began to be reconstituted in 2017 to assist with natural disaster relief, border security, and combating transnational crime; it established an Army command in 2018; the small Coast Guard is not part of the military, but rather the Haitian National Police (2020) |
+| Military and security service personnel strengths: | the country's army is planned to eventually number around 5,000 personnel (2019 est.) |
+| Military equipment inventories and acquisitions: | N/A |
+
+| Transnational Issues | Haiti |
+| --- | --- |
+| Disputes - international: | since 2004, peacekeepers from the UN Stabilization Mission in Haiti have assisted in maintaining civil order in Haiti; the mission currently includes 6,685 military, 2,607 police, and 443 civilian personnel; despite efforts to control illegal migration, Haitians cross into the Dominican Republic and sail to neighboring countries; Haiti claims US-administered Navassa Island |
+| Refugees and internally displaced persons: | IDPs: 34,508 (includes only IDPs from the 2010 earthquake living in camps or camp-like situations; information is lacking about IDPs living outside of camps or who have left camps) (2019) |
+| | stateless persons: 2,992 (2018); note - individuals without a nationality who were born in the Dominican Republic prior to January 2010 |
+| Trafficking in persons: | current situation: Haiti is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; most of Haitiâ€™s trafficking cases involve children in domestic servitude vulnerable to physical and sexual abuse; dismissed and runaway child domestic servants often end up in prostitution, begging, or street crime; other exploited populations included low-income Haitians, child laborers, and women and children living in IDP camps dating to the 2010 earthquake; Haitian adults are vulnerable to fraudulent labor recruitment abroad and, along with children, may be subjected to forced labor in the Dominican Republic, elsewhere in the Caribbean, South America, and the US; Dominicans are exploited in sex trafficking and forced labor in Haiti |
+| | tier rating: Tier 2 Watch List â€“ Haiti does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; in 2014, Haiti was granted a waiver from an otherwise required downgrade to Tier 3 because its government has a written plan that, if implemented would constitute making significant efforts to bring itself into compliance with the minimum standards for the elimination of trafficking; in 2014, Haiti developed a national anti-trafficking action plan and enacted a law prohibiting all forms of human trafficking, although judicial corruption hampered its implementation; progress was made in investigating and prosecuting suspected traffickers, but no convictions were made; the government sustained limited efforts to identify and refer victims to protective services, which were provided mostly by NGOs without government support; campaigns to raise awareness about child labor and child trafficking continued (2015) |
+| Illicit drugs: | Caribbean transshipment point for cocaine en route to the US and Europe; substantial bulk cash smuggling activity; Colombian narcotics traffickers favor Haiti for illicit financial transactions; pervasive corruption; significant consumer of cannabis |

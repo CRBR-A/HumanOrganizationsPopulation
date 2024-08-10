@@ -1,0 +1,27 @@
+Telephone Code: 680
+Local Emergency Phone: 911
+Climate: Tropical; hot and humid; wet season May to November
+Currency (Code): US Dollar is used (USD)
+Electricity: 120 V
+Voltage: 60 Hz
+Plug types(s): A, B
+Major Languages: Palauan, other Micronesian, English, Filipino, Chinese
+Major Religions: Roman Catholic 45.3%, Protestant 34.9% (includes Evangelical, Seventh Day Adventist, Assembly of God, Baptist), Modekngei 5.7% Palau), Muslim 3%, Mormon 1.5%
+Time Difference: UTC+9 (14 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Ngerulmud; Jellyfish Lake; Rock Islands; Clear Lake; Lake Ngardok; Peleliu War Museum
+Major Sports: Soccer, volleyball, basketball
+Cultural Practices: Unlike in western countries where raised eyebrows often signal confusion, in Palau they are taken to mean agreement.
+Tipping Guidelines: Tip 10-15% of the bill in restaurants and $5 (USD) per tank when diving.
+Souvenirs: Woven baskets, mats, and straw hats; shell jewelry, wood-carved storyboards and figurines, spices, flower-based body products
+Traditional Cuisine: Tinola --- soup made with chicken, green papaya, and ginger
+
+---
+country: Palau
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Palau/travel-facts>
+license: public domain (U.S.)
+...

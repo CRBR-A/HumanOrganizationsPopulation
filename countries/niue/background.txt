@@ -1,0 +1,8 @@
+Niue's remoteness, as well as cultural and linguistic differences between its Polynesian inhabitants and those of the adjacent Cook Islands, has caused it to be separately administered by New Zealand. The population of the island has trended downwards over recent decades (from a peak of 5,200 in 1966 to 1,618 in 2017) with substantial emigration to New Zealand 2,400 km to the southwest.  
+
+---
+country: Niue
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Niue/>
+license: public domain (U.S.)
+...

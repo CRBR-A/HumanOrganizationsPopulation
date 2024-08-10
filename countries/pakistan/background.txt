@@ -1,0 +1,9 @@
+The Indus Valley civilization, one of the oldest in the world and dating back at least 5,000 years, spread over much of what is presently Pakistan. During the second millennium B.C., remnants of this culture fused with the migrating Indo-Aryan peoples. The area underwent successive invasions in subsequent centuries from the Persians, Greeks, Scythians, Arabs (who brought Islam), Afghans, and Turks. The Mughal Empire flourished in the 16th and 17th centuries; the British came to dominate the region in the 18th century. The separation in 1947 of British India into the Muslim state of Pakistan (with West and East sections) and largely Hindu India was never satisfactorily resolved, and India and Pakistan fought two wars and a limited conflict - in 1947-48, 1965, and 1999 respectively - over the disputed Kashmir territory. A third war between these countries in 1971 - in which India assisted an indigenous movement reacting to the marginalization of Bengalis in Pakistani politics - resulted in East Pakistan becoming the separate nation of Bangladesh.  
+In response to Indian nuclear weapons testing, Pakistan conducted its own tests in mid-1998. India-Pakistan relations improved in the mid-2000s but have been rocky since the November 2008 Mumbai attacks and have been further strained by attacks in India by militants believed to be based in Pakistan. Imran KHAN took office as prime minister in 2018 after the Pakistan Tehreek-e-Insaaf (PTI) party won a plurality of seats in the July 2018 general elections. Pakistan has been engaged in a decades-long armed conflict with militant groups that target government institutions and civilians, including the Tehreek-e-Taliban Pakistan (TTP) and other militant networks.  
+
+---
+country: Pakistan
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Pakistan/>
+license: public domain (U.S.)
+...

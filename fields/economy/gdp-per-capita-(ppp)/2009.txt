@@ -1,0 +1,235 @@
+CIA - The World Factbook --  GDP - per capita (PPP)   
+
+This entry shows GDP on a purchasing power parity basis divided by population as of 1 July for the same year.
+
+| Rank | country | GDP - per capita (PPP) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Liechtenstein | $ 118,000 | 2007 est. |
+| 2 | Qatar | $ 111,000 | 2008 est. |
+| 3 | Luxembourg | $ 81,200 | 2008 est. |
+| 4 | Bermuda | $ 69,900 | 2004 est. |
+| 5 | Norway | $ 59,500 | 2008 est. |
+| 6 | Kuwait | $ 57,500 | 2008 est. |
+| 7 | Jersey | $ 57,000 | 2005 est. |
+| 8 | Singapore | $ 51,600 | 2008 est. |
+| 9 | Brunei | $ 51,300 | 2008 est. |
+| 10 | United States | $ 47,500 | 2008 est. |
+| 11 | Ireland | $ 45,500 | 2008 est. |
+| 12 | United Arab Emirates | $ 44,600 | 2008 est. |
+| 13 | Guernsey | $ 44,600 | 2005 |
+| 14 | Cayman Islands | $ 43,800 | 2004 est. |
+| 15 | Hong Kong | $ 43,800 | 2008 est. |
+| 16 | Andorra | $ 42,500 | 2007 |
+| 17 | Iceland | $ 42,300 | 2008 est. |
+| 18 | Switzerland | $ 42,000 | 2008 est. |
+| 19 | San Marino | $ 41,900 | 2007 |
+| 20 | Netherlands | $ 40,500 | 2008 est. |
+| 21 | Austria | $ 40,400 | 2008 est. |
+| 22 | Canada | $ 39,200 | 2008 est. |
+| 23 | British Virgin Islands | $ 38,500 | 2004 est. |
+| 24 | Australia | $ 38,200 | 2008 est. |
+| 25 | Sweden | $ 38,200 | 2008 est. |
+| 26 | Gibraltar | $ 38,200 | 2005 est. |
+| 27 | Belgium | $ 37,500 | 2008 est. |
+| 28 | Bahrain | $ 37,400 | 2008 est. |
+| 29 | Equatorial Guinea | $ 37,300 | 2008 est. |
+| 30 | Denmark | $ 37,200 | 2008 est. |
+| 31 | Finland | $ 37,000 | 2008 est. |
+| 32 | United Kingdom | $ 36,700 | 2008 est. |
+| 33 | Germany | $ 35,500 | 2008 est. |
+| 34 | Falkland Islands (Islas Malvinas) | $ 35,400 | 2002 est. |
+| 35 | Isle of Man | $ 35,000 | 2005 est. |
+| 36 | Spain | $ 34,600 | 2008 est. |
+| 37 | Japan | $ 34,100 | 2008 est. |
+| 38 | European Union | $ 33,700 | 2008 est. |
+| 39 | France | $ 33,300 | 2008 est. |
+| 40 | Greece | $ 32,100 | 2008 est. |
+| 41 | Italy | $ 31,400 | 2008 est. |
+| 42 | Taiwan | $ 31,100 | 2008 est. |
+| 43 | Faroe Islands | $ 31,000 | 2001 est. |
+| 44 | Bahamas, The | $ 30,700 | 2008 est. |
+| 45 | Macau | $ 30,000 | 2007 |
+| 46 | Monaco | $ 30,000 | 2006 est. |
+| 47 | Slovenia | $ 29,600 | 2008 est. |
+| 48 | Israel | $ 28,600 | 2008 est. |
+| 49 | New Zealand | $ 27,900 | 2008 est. |
+| 50 | Korea, South | $ 27,700 | 2008 est. |
+| 51 | Czech Republic | $ 25,900 | 2008 est. |
+| 52 | Malta | $ 24,600 | 2008 est. |
+| 53 | Trinidad and Tobago | $ 23,600 | 2008 est. |
+| 54 | Portugal | $ 22,200 | 2008 est. |
+| 55 | Slovakia | $ 22,000 | 2008 est. |
+| 56 | Aruba | $ 21,800 | 2004 est. |
+| 57 | Estonia | $ 21,400 | 2008 est. |
+| 58 | Cyprus | $ 21,300 | 2008 est. |
+| 59 | Seychelles | $ 21,000 | 2008 est. |
+| 60 | Saudi Arabia | $ 20,500 | 2008 est. |
+| 61 | Oman | $ 20,200 | 2008 est. |
+| 62 | Greenland | $ 20,000 | 2001 est. |
+| 63 | Hungary | $ 19,800 | 2008 est. |
+| 64 | Antigua and Barbuda | $ 19,400 | 2008 est. |
+| 65 | Saint Kitts and Nevis | $ 19,100 | 2008 est. |
+| 66 | Barbados | $ 18,900 | 2008 est. |
+| 67 | Croatia | $ 18,400 | 2008 est. |
+| 68 | French Polynesia | $ 18,000 | 2004 est. |
+| 69 | Lithuania | $ 17,800 | 2008 est. |
+| 70 | Puerto Rico | $ 17,800 | 2008 est. |
+| 71 | Poland | $ 17,400 | 2008 est. |
+| 72 | Latvia | $ 17,300 | 2008 est. |
+| 73 | Russia | $ 16,100 | 2008 est. |
+| 74 | Netherlands Antilles | $ 16,000 | 2004 est. |
+| 75 | Malaysia | $ 15,200 | 2008 est. |
+| 76 | New Caledonia | $ 15,000 | 2003 est. |
+| 77 | Chile | $ 14,900 | 2008 est. |
+| 78 | Virgin Islands | $ 14,500 | 2004 est. |
+| 79 | Mexico | $ 14,300 | 2008 est. |
+| 80 | Argentina | $ 14,200 | 2008 est. |
+| 81 | Gabon | $ 14,200 | 2008 est. |
+| 82 | Libya | $ 14,200 | 2008 est. |
+| 83 | Botswana | $ 13,900 | 2008 est. |
+| 84 | Venezuela | $ 13,500 | 2008 est. |
+| 85 | Grenada | $ 13,200 | 2008 est. |
+| 86 | Bulgaria | $ 12,900 | 2008 est. |
+| 87 | Iran | $ 12,800 | 2008 est. |
+| 88 | Northern Mariana Islands | $ 12,500 | 2000 est. |
+| 89 | Uruguay | $ 12,400 | 2008 est. |
+| 90 | Romania | $ 12,200 | 2008 est. |
+| 91 | Mauritius | $ 12,100 | 2008 est. |
+| 92 | Turkey | $ 11,900 | 2008 est. |
+| 93 | Belarus | $ 11,800 | 2008 est. |
+| 94 | Panama | $ 11,800 | 2008 est. |
+| 95 | Costa Rica | $ 11,600 | 2008 est. |
+| 96 | Kazakhstan | $ 11,500 | 2008 est. |
+| 97 | Turks and Caicos Islands | $ 11,500 | 2002 est. |
+| 98 | Lebanon | $ 11,100 | 2008 est. |
+| 99 | Saint Lucia | $ 11,100 | 2008 est. |
+| 100 | Serbia | $ 10,800 | 2008 est. |
+| 101 | World | $ 10,500 | 2008 est. |
+| 102 | Brazil | $ 10,200 | 2008 est. |
+| 103 | Saint Vincent and the Grenadines | $ 10,200 | 2008 est. |
+| 104 | Montenegro | $ 10,100 | 2008 est. |
+| 105 | South Africa | $ 10,100 | 2008 est. |
+| 106 | Dominica | $ 10,000 | 2008 est. |
+| 107 | Azerbaijan | $ 9,500 | 2008 est. |
+| 108 | Cuba | $ 9,500 | 2008 est. |
+| 109 | Colombia | $ 9,200 | 2008 est. |
+| 110 | Cook Islands | $ 9,100 | 2005 est. |
+| 111 | Macedonia | $ 9,100 | 2008 est. |
+| 112 | Angola | $ 9,000 | 2008 est. |
+| 113 | Suriname | $ 8,900 | 2008 est. |
+| 114 | Anguilla | $ 8,800 | 2004 est. |
+| 115 | Jamaica | $ 8,600 | 2008 est. |
+| 116 | Peru | $ 8,500 | 2008 est. |
+| 117 | Belize | $ 8,400 | 2008 est. |
+| 118 | Thailand | $ 8,400 | 2008 est. |
+| 119 | Dominican Republic | $ 8,200 | 2008 est. |
+| 120 | Palau | $ 8,100 | 2008 est. |
+| 121 | American Samoa | $ 8,000 | 2007 est. |
+| 122 | Tunisia | $ 7,900 | 2008 est. |
+| 123 | Ecuador | $ 7,500 | 2008 est. |
+| 124 | Ukraine | $ 7,400 | 2008 est. |
+| 125 | Saint Pierre and Miquelon | $ 7,000 | 2001 est. |
+| 126 | Algeria | $ 6,900 | 2008 est. |
+| 127 | Bosnia and Herzegovina | $ 6,500 | 2008 est. |
+| 128 | Turkmenistan | $ 6,500 | 2008 est. |
+| 129 | Namibia | $ 6,400 | 2008 est. |
+| 130 | Armenia | $ 6,300 | 2008 est. |
+| 131 | El Salvador | $ 6,200 | 2008 est. |
+| 132 | Albania | $ 6,000 | 2008 est. |
+| 133 | China | $ 6,000 | 2008 est. |
+| 134 | Egypt | $ 5,800 | 2008 est. |
+| 135 | Niue | $ 5,800 | 2003 est. |
+| 136 | Guatemala | $ 5,300 | 2008 est. |
+| 137 | Kiribati | $ 5,300 | 2008 est. |
+| 138 | Bhutan | $ 5,200 | 2008 est. |
+| 139 | Jordan | $ 5,200 | 2008 est. |
+| 140 | Nauru | $ 5,000 | 2005 est. |
+| 141 | Mayotte | $ 4,900 | 2005 est. |
+| 142 | Georgia | $ 4,700 | 2008 est. |
+| 143 | Samoa | $ 4,700 | 2008 est. |
+| 144 | Vanuatu | $ 4,600 | 2008 est. |
+| 145 | Tonga | $ 4,600 | 2008 est. |
+| 146 | Syria | $ 4,600 | 2008 est. |
+| 147 | Bolivia | $ 4,500 | 2008 est. |
+| 148 | Morocco | $ 4,500 | 2008 est. |
+| 149 | Maldives | $ 4,500 | 2008 est. |
+| 150 | Sri Lanka | $ 4,400 | 2008 est. |
+| 151 | Swaziland | $ 4,400 | 2008 est. |
+| 152 | Honduras | $ 4,400 | 2008 est. |
+| 153 | Paraguay | $ 4,200 | 2008 est. |
+| 154 | Congo, Republic of the | $ 3,900 | 2008 est. |
+| 155 | Indonesia | $ 3,900 | 2008 est. |
+| 156 | Guyana | $ 3,900 | 2008 est. |
+| 157 | Cape Verde | $ 3,800 | 2008 est. |
+| 158 | Wallis and Futuna | $ 3,800 | 2004 est. |
+| 159 | Fiji | $ 3,800 | 2008 est. |
+| 160 | Montserrat | $ 3,400 | 2002 est. |
+| 161 | Philippines | $ 3,300 | 2008 est. |
+| 162 | Iraq | $ 3,200 | 2008 est. |
+| 163 | Mongolia | $ 3,200 | 2008 est. |
+| 164 | Gaza Strip | $ 2,900 | 2008 est. |
+| 165 | Nicaragua | $ 2,900 | 2008 est. |
+| 166 | West Bank | $ 2,900 | 2008 est. |
+| 167 | India | $ 2,900 | 2008 est. |
+| 168 | Vietnam | $ 2,800 | 2008 est. |
+| 169 | Solomon Islands | $ 2,700 | 2008 est. |
+| 170 | Djibouti | $ 2,700 | 2008 est. |
+| 171 | Uzbekistan | $ 2,600 | 2008 est. |
+| 172 | Moldova | $ 2,500 | 2008 est. |
+| 173 | Pakistan | $ 2,500 | 2008 est. |
+| 174 | Western Sahara | $ 2,500 | 2007 est. |
+| 175 | Yemen | $ 2,500 | 2008 est. |
+| 176 | Saint Helena | $ 2,500 | 1998 est. |
+| 177 | Marshall Islands | $ 2,500 | 2008 est. |
+| 178 | Cameroon | $ 2,300 | 2008 est. |
+| 179 | Kosovo | $ 2,300 | 2007 est. |
+| 180 | Timor-Leste | $ 2,300 | 2008 est. |
+| 181 | Papua New Guinea | $ 2,300 | 2008 est. |
+| 182 | Nigeria | $ 2,300 | 2008 est. |
+| 183 | Micronesia, Federated States of | $ 2,200 | 2008 est. |
+| 184 | Kyrgyzstan | $ 2,200 | 2008 est. |
+| 185 | Sudan | $ 2,200 | 2008 est. |
+| 186 | Laos | $ 2,100 | 2008 est. |
+| 187 | Mauritania | $ 2,100 | 2008 est. |
+| 188 | Cambodia | $ 2,000 | 2008 est. |
+| 189 | Korea, North | $ 1,800 | 2008 est. |
+| 190 | Tajikistan | $ 1,800 | 2008 est. |
+| 191 | Cote d'Ivoire | $ 1,700 | 2008 est. |
+| 192 | Chad | $ 1,600 | 2008 est. |
+| 193 | Kenya | $ 1,600 | 2008 est. |
+| 194 | Lesotho | $ 1,600 | 2008 est. |
+| 195 | Tuvalu | $ 1,600 | 2002 est. |
+| 196 | Senegal | $ 1,600 | 2008 est. |
+| 197 | Bangladesh | $ 1,500 | 2008 est. |
+| 198 | Ghana | $ 1,500 | 2008 est. |
+| 199 | Benin | $ 1,500 | 2008 est. |
+| 200 | Zambia | $ 1,500 | 2008 est. |
+| 201 | Tanzania | $ 1,400 | 2008 est. |
+| 202 | Gambia, The | $ 1,300 | 2008 est. |
+| 203 | Haiti | $ 1,300 | 2008 est. |
+| 204 | Uganda | $ 1,300 | 2008 est. |
+| 205 | Sao Tome and Principe | $ 1,300 | 2008 est. |
+| 206 | Burma | $ 1,200 | 2008 est. |
+| 207 | Burkina Faso | $ 1,200 | 2008 est. |
+| 208 | Guinea | $ 1,100 | 2008 est. |
+| 209 | Mali | $ 1,100 | 2008 est. |
+| 210 | Nepal | $ 1,100 | 2008 est. |
+| 211 | Comoros | $ 1,000 | 2008 est. |
+| 212 | Madagascar | $ 1,000 | 2008 est. |
+| 213 | Tokelau | $ 1,000 | 1993 est. |
+| 214 | Ethiopia | $ 900 | 2008 est. |
+| 215 | Mozambique | $ 900 | 2008 est. |
+| 216 | Togo | $ 900 | 2008 est. |
+| 217 | Sierra Leone | $ 900 | 2008 est. |
+| 218 | Rwanda | $ 900 | 2008 est. |
+| 219 | Afghanistan | $ 800 | 2008 est. |
+| 220 | Malawi | $ 800 | 2008 est. |
+| 221 | Central African Republic | $ 700 | 2008 est. |
+| 222 | Niger | $ 700 | 2008 est. |
+| 223 | Eritrea | $ 700 | 2008 est. |
+| 224 | Guinea-Bissau | $ 600 | 2008 est. |
+| 225 | Somalia | $ 600 | 2008 est. |
+| 226 | Liberia | $ 500 | 2008 est. |
+| 227 | Burundi | $ 300 | 2008 est. |
+| 228 | Congo, Democratic Republic of the | $ 300 | 2008 est. |
+| 229 | Zimbabwe | $ 200 | 2008 est. |

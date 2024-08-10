@@ -1,0 +1,29 @@
+Telephone Code: 374
+Local Emergency Phone - Ambulance: 103
+Local Emergency Phone - Fire: 101
+Local Emergency Phone - Police: 102
+Climate: Highland continental, hot summers, cold winters
+Currency (Code): Drams (AMD)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, F
+Major Languages: Armenian (official) 97.9%, Russian
+Major Religions: Armenian Apostolic 92.6%
+Time Difference: UTC+4 (9 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Yes
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Yerevan (includes Saint Gregory Cathedral, Blue Mosque, Cafesjian Museum); Shikahogh State Reserve; Lake Sevan; Dilijan National Park; Mount Aragats; Noravank Monastery Complex; Mount Ararat
+Major Sports: Wrestling, soccer, gymnastics
+Cultural Practices: When using public transportation, arrive early because buses fill up quickly and leave before their departure time.
+Tipping Guidelines: Tipping is only common in the parts of the country visited by Western travelers. Anything from 10-20% is acceptable. Restaurants may include a service fee, but this is not the same as a tip. Rounding up taxi fares as a tip is common practice.
+Souvenirs: Woven carpets, evil eye glass or bead jewelry, pottery, quilled picture art, silver jewelry and cameo jewelry/art
+Traditional Cuisine: Harees --- a dish of boiled, cracked, or coarsely-ground wheat, mixed with meat and seasoned
+
+---
+country: Armenia
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Armenia/travel-facts>
+license: public domain (U.S.)
+...

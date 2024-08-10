@@ -1,0 +1,27 @@
+Telephone Code: 503
+Local Emergency Phone: 911
+Climate: Tropical; rainy season (May to October); dry season (November to April); tropical on coast; temperate in uplands
+Currency (Code): US $ (USD)
+Electricity: 120 V
+Voltage: 60 Hz
+Plug types(s): A, B
+Major Languages: Spanish, Nawat
+Major Religions: Roman Catholic 50%, Protestant 36%, other 2%, none 12%
+Time Difference: UTC-6 (1 hour behind Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested; additionally, if you plan to drive in El Salvador, you will need an Inter-American Driving Permit issued by the AAA
+Road Driving Side: Right
+Tourist Destinations: Suchitoto; Ruta de las Flores; Lake Ilopango; Montecristo National Park; Puerta del Diablo; Joya de Ceren Archaeological Site
+Major Sports: Soccer, beach soccer, cycling, basketball, boxing
+Cultural Practices: After eating, it is considered polite to spend at least an hour conversing with your hosts instead of leaving right away.
+Tipping Guidelines: At most upscale restaurants, the tip will be included in the bill. If you do leave a tip, 10% is appropriate. Taxi drivers do not expect a tip. Hotel staff, such as bellhops or porters would appreciate a $1 (USD) per bag tip.
+Souvenirs: Sorpresa ceramic figurines, silk bahia band bracelets, wooden toys, wicker furniture, hammocks, native clothing, painted-wood household and decorative items
+Traditional Cuisine: Pupusa --- a thick griddle cake made with cornmeal or rice flour usually stuffed with ingredients such as cheese, chicharrón (fried pork skin), squash, or refried beans; typically served with curtido (spicy fermented cabbage slaw) and tomato salsa
+
+---
+country: El Salvador
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/El Salvador/travel-facts>
+license: public domain (U.S.)
+...

@@ -1,0 +1,230 @@
+CIA - The World Factbook --  Median age   
+
+This entry is the age that divides a population into two numerically equal groups; that is, half the people are younger than this age and half are older. It is a single index that summarizes the age distribution of a population. Currently, the median age ranges from a low of about 15 in Uganda and Gaza Strip to 40 or more in several European countries and Japan. See the entry for "Age structure" for the importance of a young versus an older age structure and, by implication, a low versus a higher median age.
+
+| Rank | country | (years) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Monaco | 49.40 | 2011 est. |
+| 2 | Germany | 44.90 | 2011 est. |
+| 3 | Japan | 44.80 | 2011 est. |
+| 4 | Italy | 43.50 | 2011 est. |
+| 5 | Hong Kong | 43.40 | 2011 est. |
+| 6 | Austria | 43.00 | 2011 est. |
+| 7 | Saint Pierre and Miquelon | 42.60 | 2011 est. |
+| 8 | Isle of Man | 42.60 | 2011 est. |
+| 9 | Finland | 42.50 | 2011 est. |
+| 10 | Greece | 42.50 | 2011 est. |
+| 11 | San Marino | 42.50 | 2011 est. |
+| 12 | Slovenia | 42.40 | 2011 est. |
+| 13 | Belgium | 42.30 | 2011 est. |
+| 14 | Guernsey | 42.20 | 2011 est. |
+| 15 | Bermuda | 42.00 | 2011 est. |
+| 16 | Sweden | 42.00 | 2011 est. |
+| 17 | Bulgaria | 41.90 | 2011 est. |
+| 18 | Liechtenstein | 41.80 | 2011 est. |
+| 19 | Switzerland | 41.70 | 2011 est. |
+| 20 | Croatia | 41.40 | 2011 est. |
+| 21 | Serbia | 41.30 | 2011 est. |
+| 22 | Netherlands | 41.10 | 2011 est. |
+| 23 | Canada | 41.00 | 2011 est. |
+| 24 | Denmark | 40.90 | 2011 est. |
+| 25 | Czech Republic | 40.80 | 2011 est. |
+| 26 | Bosnia and Herzegovina | 40.70 | 2011 est. |
+| 27 | Latvia | 40.60 | 2011 est. |
+| 28 | Spain | 40.50 | 2011 est. |
+| 29 | Estonia | 40.50 | 2011 est. |
+| 30 | Andorra | 40.50 | 2011 est. |
+| 31 | Saint Barthelemy | 40.40 | 2011 est. |
+| 32 | Virgin Islands | 40.40 | 2011 est. |
+| 33 | Hungary | 40.20 | 2011 est. |
+| 34 | Jersey | 40.10 | 2011 est. |
+| 35 | Lithuania | 40.10 | 2011 est. |
+| 36 | Singapore | 40.10 | 2011 est. |
+| 37 | Norway | 40.00 | 2011 est. |
+| 38 | Malta | 40.00 | 2011 est. |
+| 39 | United Kingdom | 40.00 | 2011 est. |
+| 40 | Portugal | 40.00 | 2011 est. |
+| 41 | France | 39.90 | 2011 est. |
+| 42 | Ukraine | 39.90 | 2011 est. |
+| 43 | Luxembourg | 39.40 | 2011 est. |
+| 44 | Georgia | 39.10 | 2011 est. |
+| 45 | Belarus | 39.00 | 2011 est. |
+| 46 | Saint Helena, Ascension, and Tristan da Cunha | 38.80 | 2011 est. |
+| 47 | Romania | 38.70 | 2011 est. |
+| 48 | Cayman Islands | 38.70 | 2011 est. |
+| 49 | Russia | 38.70 | 2011 est. |
+| 50 | Poland | 38.50 | 2011 est. |
+| 51 | Cuba | 38.40 | 2011 est. |
+| 52 | Korea, South | 38.40 | 2011 est. |
+| 53 | Aruba | 38.20 | 2011 est. |
+| 54 | Montenegro | 37.80 | 2011 est. |
+| 55 | Australia | 37.70 | 2011 est. |
+| 56 | Slovakia | 37.60 | 2011 est. |
+| 57 | Taiwan | 37.60 | 2011 est. |
+| 58 | Faroe Islands | 37.30 | 2011 est. |
+| 59 | Puerto Rico | 37.30 | 2011 est. |
+| 60 | New Zealand | 37.00 | 2011 est. |
+| 61 | United States | 36.90 | 2011 est. |
+| 62 | Barbados | 36.50 | 2011 est. |
+| 63 | Macau | 36.20 | 2011 est. |
+| 64 | Macedonia | 35.80 | 2011 est. |
+| 65 | Iceland | 35.60 | 2011 est. |
+| 66 | China | 35.50 | 2011 est. |
+| 67 | Moldova | 35.40 | 2011 est. |
+| 68 | Cyprus | 34.80 | 2011 est. |
+| 69 | Ireland | 34.80 | 2011 est. |
+| 70 | Thailand | 34.20 | 2011 est. |
+| 71 | Greenland | 33.60 | 2011 est. |
+| 72 | Uruguay | 33.60 | 2011 est. |
+| 73 | Gibraltar | 33.30 | 2011 est. |
+| 74 | Anguilla | 33.30 | 2011 est. |
+| 75 | Trinidad and Tobago | 33.10 | 2011 est. |
+| 76 | British Virgin Islands | 32.90 | 2011 est. |
+| 77 | Korea, North | 32.90 | 2011 est. |
+| 78 | Mauritius | 32.70 | 2011 est. |
+| 79 | Palau | 32.60 | 2011 est. |
+| 80 | Seychelles | 32.50 | 2011 est. |
+| 81 | Armenia | 32.20 | 2011 est. |
+| 82 | Chile | 32.10 | 2011 est. |
+| 83 | Saint Kitts and Nevis | 32.00 | 2011 est. |
+| 84 | Cook Islands | 32.00 | 2011 est. |
+| 85 | Saint Lucia | 31.00 | 2011 est. |
+| 86 | Saint Martin | 31.00 | 2011 est. |
+| 87 | Bahrain | 30.90 | 2011 est. |
+| 88 | Sri Lanka | 30.80 | 2011 est. |
+| 89 | Qatar | 30.80 | 2011 est. |
+| 90 | Dominica | 30.80 | 2011 est. |
+| 91 | Argentina | 30.50 | 2011 est. |
+| 92 | Albania | 30.40 | 2011 est. |
+| 93 | Turks and Caicos Islands | 30.40 | 2011 est. |
+| 94 | Antigua and Barbuda | 30.30 | 2011 est. |
+| 95 | Bahamas, The | 30.20 | 2011 est. |
+| 96 | United Arab Emirates | 30.20 | 2011 est. |
+| 97 | Kazakhstan | 30.20 | 2011 est. |
+| 98 | Saint Vincent and the Grenadines | 30.10 | 2011 est. |
+| 99 | New Caledonia | 30.10 | 2011 est. |
+| 100 | Tunisia | 30.00 | 2011 est. |
+| 101 | Northern Mariana Islands | 30.00 | 2011 est. |
+| 102 | French Polynesia | 29.90 | 2011 est. |
+| 103 | Lebanon | 29.80 | 2011 est. |
+| 104 | Montserrat | 29.60 | 2011 est. |
+| 105 | Israel | 29.40 | 2011 est. |
+| 106 | Brazil | 29.30 | 2011 est. |
+| 107 | Azerbaijan | 28.80 | 2011 est. |
+| 108 | Costa Rica | 28.80 | 2011 est. |
+| 109 | Suriname | 28.70 | 2011 est. |
+| 110 | Grenada | 28.60 | 2011 est. |
+| 111 | Wallis and Futuna | 28.50 | 2011 est. |
+| 112 | Kuwait | 28.50 | 2011 est. |
+| 113 | Turkey | 28.50 | 2011 est. |
+| 114 | Brunei | 28.40 | 2011 est. |
+| 115 | Indonesia | 28.20 | 2011 est. |
+| 116 | Colombia | 28.00 | 2011 est. |
+| 117 | Vietnam | 27.80 | 2011 est. |
+| 118 | Algeria | 27.60 | 2011 est. |
+| 119 | Panama | 27.50 | 2011 est. |
+| 120 | Mexico | 27.10 | 2011 est. |
+| 121 | Burma | 26.90 | 2011 est. |
+| 122 | Fiji | 26.90 | 2011 est. |
+| 123 | Morocco | 26.90 | 2011 est. |
+| 124 | Malaysia | 26.80 | 2011 est. |
+| 125 | Iran | 26.80 | 2011 est. |
+| 126 | Kosovo | 26.70 | 2011 est. |
+| 127 | Peru | 26.20 | 2011 est. |
+| 128 | Maldives | 26.20 | 2011 est. |
+| 129 | India | 26.20 | 2011 est. |
+| 130 | Mongolia | 26.20 | 2011 est. |
+| 131 | Dominican Republic | 26.10 | 2011 est. |
+| 132 | Venezuela | 26.10 | 2011 est. |
+| 133 | Ecuador | 25.70 | 2011 est. |
+| 134 | Uzbekistan | 25.70 | 2011 est. |
+| 135 | Paraguay | 25.40 | 2011 est. |
+| 136 | Saudi Arabia | 25.30 | 2011 est. |
+| 137 | Turkmenistan | 25.30 | 2011 est. |
+| 138 | South Africa | 25.00 | 2011 est. |
+| 139 | Kyrgyzstan | 25.00 | 2011 est. |
+| 140 | Vanuatu | 24.90 | 2011 est. |
+| 141 | Bhutan | 24.80 | 2011 est. |
+| 142 | Libya | 24.50 | 2011 est. |
+| 143 | Egypt | 24.30 | 2011 est. |
+| 144 | El Salvador | 24.30 | 2011 est. |
+| 145 | Jamaica | 24.20 | 2011 est. |
+| 146 | Nauru | 24.20 | 2011 est. |
+| 147 | Tuvalu | 24.10 | 2011 est. |
+| 148 | Oman | 24.10 | 2011 est. |
+| 149 | Guyana | 23.90 | 2011 est. |
+| 150 | American Samoa | 23.70 | 2011 est. |
+| 151 | Bangladesh | 23.30 | 2011 est. |
+| 152 | Lesotho | 22.90 | 2011 est. |
+| 153 | Cambodia | 22.90 | 2011 est. |
+| 154 | Philippines | 22.90 | 2011 est. |
+| 155 | Nicaragua | 22.90 | 2011 est. |
+| 156 | Cape Verde | 22.70 | 2011 est. |
+| 157 | Micronesia, Federated States of | 22.70 | 2011 est. |
+| 158 | Tajikistan | 22.60 | 2011 est. |
+| 159 | Bolivia | 22.50 | 2011 est. |
+| 160 | Kiribati | 22.50 | 2011 est. |
+| 161 | Timor-Leste | 22.50 | 2011 est. |
+| 162 | Botswana | 22.30 | 2011 est. |
+| 163 | Jordan | 22.10 | 2011 est. |
+| 164 | Samoa | 22.10 | 2011 est. |
+| 165 | Syria | 21.90 | 2011 est. |
+| 166 | Djibouti | 21.80 | 2011 est. |
+| 167 | Marshall Islands | 21.80 | 2011 est. |
+| 168 | Papua New Guinea | 21.80 | 2011 est. |
+| 169 | Namibia | 21.70 | 2011 est. |
+| 170 | Nepal | 21.60 | 2011 est. |
+| 171 | Pakistan | 21.60 | 2011 est. |
+| 172 | Haiti | 21.40 | 2011 est. |
+| 173 | Ghana | 21.40 | 2011 est. |
+| 174 | Tonga | 21.40 | 2011 est. |
+| 175 | West Bank | 21.30 | 2011 est. |
+| 176 | Belize | 21.00 | 2011 est. |
+| 177 | Honduras | 21.00 | 2011 est. |
+| 178 | Laos | 21.00 | 2011 est. |
+| 179 | Solomon Islands | 20.90 | 2011 est. |
+| 180 | Iraq | 20.90 | 2011 est. |
+| 181 | Swaziland | 20.30 | 2011 est. |
+| 182 | Western Sahara | 20.30 | 2011 est. |
+| 183 | Guatemala | 20.00 | 2011 est. |
+| 184 | Cote d'Ivoire | 19.60 | 2011 est. |
+| 185 | Guinea-Bissau | 19.50 | 2011 est. |
+| 186 | Mauritania | 19.50 | 2011 est. |
+| 187 | Cameroon | 19.40 | 2011 est. |
+| 188 | Gambia, The | 19.40 | 2011 est. |
+| 189 | Togo | 19.30 | 2011 est. |
+| 190 | Central African Republic | 19.20 | 2011 est. |
+| 191 | Nigeria | 19.20 | 2011 est. |
+| 192 | Sierra Leone | 19.10 | 2011 est. |
+| 193 | Equatorial Guinea | 19.10 | 2011 est. |
+| 194 | Comoros | 19.00 | 2011 est. |
+| 195 | Kenya | 18.90 | 2011 est. |
+| 196 | Rwanda | 18.70 | 2011 est. |
+| 197 | Eritrea | 18.70 | 2011 est. |
+| 198 | Gabon | 18.60 | 2011 est. |
+| 199 | Guinea | 18.60 | 2011 est. |
+| 200 | Sudan | 18.50 | 2011 est. |
+| 201 | Tanzania | 18.50 | 2011 est. |
+| 202 | Zimbabwe | 18.30 | 2011 est. |
+| 203 | Liberia | 18.30 | 2011 est. |
+| 204 | Afghanistan | 18.20 | 2011 est. |
+| 205 | Madagascar | 18.20 | 2011 est. |
+| 206 | Angola | 18.10 | 2011 est. |
+| 207 | Yemen | 18.10 | 2011 est. |
+| 208 | Senegal | 18.00 | 2011 est. |
+| 209 | Somalia | 17.80 | 2011 est. |
+| 210 | Gaza Strip | 17.70 | 2011 est. |
+| 211 | Sao Tome and Principe | 17.50 | 2011 est. |
+| 212 | Congo, Democratic Republic of the | 17.40 | 2011 est. |
+| 213 | Benin | 17.40 | 2011 est. |
+| 214 | Malawi | 17.20 | 2011 est. |
+| 215 | Congo, Republic of the | 17.00 | 2011 est. |
+| 216 | Burundi | 16.90 | 2011 est. |
+| 217 | Burkina Faso | 16.90 | 2011 est. |
+| 218 | Chad | 16.80 | 2011 est. |
+| 219 | Ethiopia | 16.80 | 2011 est. |
+| 220 | Mozambique | 16.80 | 2011 est. |
+| 221 | Zambia | 16.50 | 2011 est. |
+| 222 | Mali | 16.30 | 2011 est. |
+| 223 | Niger | 15.20 | 2011 est. |
+| 224 | Uganda | 15.10 | 2011 est. |

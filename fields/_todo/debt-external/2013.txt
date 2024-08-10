@@ -1,0 +1,213 @@
+CIA - The World Factbook --  Debt - external   
+
+This entry gives the total public and private debt owed to nonresidents repayable in internationally accepted currencies, goods, or services. These figures are calculated on an exchange rate basis, i.e., not in purchasing power parity (PPP) terms.
+
+| Rank | country | Debt - external | Date of Information |
+| --- | --- | --- | --- |
+| 1 | United States | $ 15,930,000,000,000 | 31 December 2012 |
+| 2 | European Union | $ 15,500,000,000,000 | 31 December 2012 |
+| 3 | United Kingdom | $ 10,090,000,000,000 | 31 December 2012 |
+| 4 | Germany | $ 5,719,000,000,000 | 31 December 2012 |
+| 5 | France | $ 5,165,000,000,000 | 31 December 2012 |
+| 6 | Japan | $ 3,024,000,000,000 | 31 December 2012 |
+| 7 | Luxembourg | $ 2,643,000,000,000 | 31 December 2012 |
+| 8 | Italy | $ 2,493,000,000,000 | 31 December 2012 est. |
+| 9 | Netherlands | $ 2,487,000,000,000 | 31 December 2012 |
+| 10 | Spain | $ 2,311,000,000,000 | 31 December 2012 |
+| 11 | Ireland | $ 2,163,000,000,000 | 31 December 2012 |
+| 12 | Switzerland | $ 1,563,000,000,000 | 31 December 2012 |
+| 13 | Australia | $ 1,497,000,000,000 | 31 December 2012 est. |
+| 14 | Belgium | $ 1,424,000,000,000 | 31 December 2012 |
+| 15 | Canada | $ 1,326,000,000,000 | 31 December 2012 |
+| 16 | Singapore | $ 1,174,000,000,000 | 31 December 2012 est. |
+| 17 | Sweden | $ 1,034,000,000,000 | 31 December 2012 |
+| 18 | Austria | $ 812,000,000,000 | 31 December 2012 |
+| 19 | China | $ 728,900,000,000 | 31 December 2012 est. |
+| 20 | Norway | $ 659,100,000,000 | 31 December 2012 |
+| 21 | Russia | $ 631,800,000,000 | 31 December 2012 est. |
+| 22 | Finland | $ 599,300,000,000 | 31 December 2012 |
+| 23 | Denmark | $ 587,600,000,000 | 31 December 2012 |
+| 24 | Greece | $ 576,600,000,000 | 31 December 2012 |
+| 25 | Portugal | $ 508,300,000,000 | 31 December 2012 |
+| 26 | Brazil | $ 438,900,000,000 | 31 December 2012 est. |
+| 27 | Korea, South | $ 420,400,000,000 | 31 December 2012 est. |
+| 28 | India | $ 378,900,000,000 | 31 December 2012 est. |
+| 29 | Poland | $ 364,200,000,000 | 31 December 2012 est. |
+| 30 | Mexico | $ 347,100,000,000 | 31 December 2012 est. |
+| 31 | Turkey | $ 336,700,000,000 | 31 December 2012 est. |
+| 32 | Indonesia | $ 224,100,000,000 | 31 December 2012 est. |
+| 33 | Hungary | $ 169,300,000,000 | 31 December 2012 est. |
+| 34 | United Arab Emirates | $ 162,300,000,000 | 31 December 2012 est. |
+| 35 | Ukraine | $ 136,500,000,000 | 31 December 2012 est. |
+| 36 | Saudi Arabia | $ 136,300,000,000 | 31 December 2012 est. |
+| 37 | Qatar | $ 134,800,000,000 | 31 December 2012 est. |
+| 38 | Hong Kong | $ 134,700,000,000 | 31 December 2012 est. |
+| 39 | Thailand | $ 133,700,000,000 | 31 December 2012 est. |
+| 40 | Kazakhstan | $ 133,500,000,000 | 31 December 2012 est. |
+| 41 | Taiwan | $ 130,800,000,000 | 31 December 2012 est. |
+| 42 | South Africa | $ 130,400,000,000 | 31 December 2012 est. |
+| 43 | Romania | $ 129,300,000,000 | 31 December 2012 est. |
+| 44 | Argentina | $ 113,700,000,000 | 31 December 2012 est. |
+| 45 | Chile | $ 112,700,000,000 | 31 December 2012 est. |
+| 46 | Cyprus | $ 103,500,000,000 | 31 December 2012 est. |
+| 47 | Czech Republic | $ 101,000,000,000 | 31 December 2012 est. |
+| 48 | Iceland | $ 100,200,000,000 | 31 December 2012 |
+| 49 | Malaysia | $ 98,820,000,000 | 31 December 2012 est. |
+| 50 | Israel | $ 93,980,000,000 | 31 December 2012 est. |
+| 51 | New Zealand | $ 85,180,000,000 | 31 December 2012 est. |
+| 52 | Colombia | $ 80,720,000,000 | 31 December 2012 est. |
+| 53 | Venezuela | $ 75,750,000,000 | 31 December 2012 est. |
+| 54 | Philippines | $ 74,880,000,000 | 31 December 2012 est. |
+| 55 | Slovakia | $ 68,440,000,000 | 31 December 2012 est. |
+| 56 | Croatia | $ 65,370,000,000 | 31 December 2012 est. |
+| 57 | Vietnam | $ 63,950,000,000 | 31 December 2012 est. |
+| 58 | Iraq | $ 60,200,000,000 | 31 December 2012 est. |
+| 59 | Puerto Rico | $ 56,820,000,000 | 31 December 2010 est. |
+| 60 | Pakistan | $ 54,500,000,000 | 31 December 2012 est. |
+| 61 | Slovenia | $ 53,880,000,000 | 31 December 2012 |
+| 62 | Peru | $ 50,470,000,000 | 31 December 2012 est. |
+| 63 | Malta | $ 45,770,000,000 | 31 December 2012 |
+| 64 | Sudan | $ 39,540,000,000 | 31 December 2012 est. |
+| 65 | Latvia | $ 39,430,000,000 | 31 December 2012 est. |
+| 66 | Egypt | $ 38,690,000,000 | 31 December 2012 est. |
+| 67 | Bulgaria | $ 36,520,000,000 | 31 December 2012 est. |
+| 68 | Serbia | $ 33,690,000,000 | 31 December 2012 est. |
+| 69 | Lithuania | $ 32,840,000,000 | 31 December 2012 est. |
+| 70 | Morocco | $ 32,150,000,000 | 31 December 2012 est. |
+| 71 | Kuwait | $ 29,760,000,000 | 31 December 2012 est. |
+| 72 | Bangladesh | $ 29,530,000,000 | 31 December 2012 est. |
+| 73 | Bahrain | $ 27,540,000,000 | 31 December 2012 est. |
+| 74 | Sri Lanka | $ 26,830,000,000 | 31 December 2012 est. |
+| 75 | Estonia | $ 25,690,000,000 | 31 December 2012 est. |
+| 76 | Lebanon | $ 25,160,000,000 | 31 December 2012 est. |
+| 77 | Tunisia | $ 24,600,000,000 | 31 December 2012 est. |
+| 78 | Cuba | $ 22,510,000,000 | 31 December 2012 est. |
+| 79 | Angola | $ 21,850,000,000 | 31 December 2012 est. |
+| 80 | Jordan | $ 19,670,000,000 | 31 December 2012 est. |
+| 81 | Ecuador | $ 17,680,000,000 | 31 December 2012 est. |
+| 82 | Guatemala | $ 16,610,000,000 | 31 December 2012 est. |
+| 83 | Bahamas, The | $ 16,350,000,000 | 31 December 2012 est. |
+| 84 | Dominican Republic | $ 16,330,000,000 | 31 December 2012 est. |
+| 85 | Uruguay | $ 16,020,000,000 | 31 December 2012 est. |
+| 86 | Iran | $ 14,840,000,000 | 31 December 2012 est. |
+| 87 | Jamaica | $ 14,090,000,000 | 31 December 2012 est. |
+| 88 | Costa Rica | $ 13,810,000,000 | 31 December 2012 est. |
+| 89 | Panama | $ 13,560,000,000 | 31 December 2012 est. |
+| 90 | El Salvador | $ 13,560,000,000 | 31 December 2012 est. |
+| 91 | Nigeria | $ 13,400,000,000 | 31 December 2012 est. |
+| 92 | Papua New Guinea | $ 12,960,000,000 | 31 December 2012 est. |
+| 93 | Ghana | $ 12,640,000,000 | 31 December 2012 est. |
+| 94 | Korea, North | $ 12,500,000,000 | 2001 est. |
+| 95 | Tanzania | $ 11,820,000,000 | 31 December 2012 est. |
+| 96 | Georgia | $ 11,670,000,000 | 31 December 2012 est. |
+| 97 | Kenya | $ 11,060,000,000 | 31 December 2012 est. |
+| 98 | Bosnia and Herzegovina | $ 10,810,000,000 | 31 December 2012 est. |
+| 99 | Ethiopia | $ 10,030,000,000 | 31 December 2012 est. |
+| 100 | Oman | $ 9,990,000,000 | 31 December 2012 est. |
+| 101 | Azerbaijan | $ 9,110,000,000 | 31 December 2012 est. |
+| 102 | Zimbabwe | $ 8,765,000,000 | 31 December 2012 est. |
+| 103 | Syria | $ 8,394,000,000 | 31 December 2012 est. |
+| 104 | Cote d'Ivoire | $ 8,096,000,000 | 31 December 2012 est. |
+| 105 | Nicaragua | $ 7,790,000,000 | 31 December 2012 est. |
+| 106 | Armenia | $ 7,633,000,000 | 31 December 2012 est. |
+| 107 | Yemen | $ 7,419,000,000 | 31 December 2012 est. |
+| 108 | Uzbekistan | $ 7,342,000,000 | 31 December 2012 est. |
+| 109 | Bolivia | $ 6,890,000,000 | 31 December 2012 est. |
+| 110 | Macedonia | $ 6,807,000,000 | 31 December 2012 est. |
+| 111 | Laos | $ 6,288,000,000 | 31 December 2012 est. |
+| 112 | Congo, Democratic Republic of the | $ 6,087,000,000 | 31 December 2012 est. |
+| 113 | Paraguay | $ 5,985,000,000 | 31 December 2012 est. |
+| 114 | Moldova | $ 5,888,000,000 | 31 December 2012 est. |
+| 115 | Albania | $ 5,838,000,000 | 31 December 2012 est. |
+| 116 | Algeria | $ 5,639,000,000 | 31 December 2012 est. |
+| 117 | Zambia | $ 5,618,000,000 | 31 December 2012 est. |
+| 118 | Burma | $ 5,591,000,000 | 31 December 2012 est. |
+| 119 | Libya | $ 5,278,000,000 | 31 December 2012 est. |
+| 120 | Honduras | $ 5,233,000,000 | 31 December 2012 est. |
+| 121 | Trinidad and Tobago | $ 4,722,000,000 | 31 December 2012 est. |
+| 122 | Mozambique | $ 4,700,000,000 | 31 December 2012 est. |
+| 123 | Mongolia | $ 4,669,000,000 | 31 December 2012 est. |
+| 124 | Cambodia | $ 4,567,000,000 | 31 December 2012 est. |
+| 125 | Barbados | $ 4,490,000,000 | 2010 est. |
+| 126 | Uganda | $ 4,461,000,000 | 31 December 2012 est. |
+| 127 | Namibia | $ 4,292,000,000 | 31 December 2012 est. |
+| 128 | Senegal | $ 4,221,000,000 | 31 December 2012 est. |
+| 129 | Nepal | $ 3,956,000,000 | 31 December 2011 est. |
+| 130 | Kyrgyzstan | $ 3,746,000,000 | 31 December 2012 est. |
+| 131 | Tajikistan | $ 3,439,000,000 | 31 December 2012 est. |
+| 132 | Cameroon | $ 3,207,000,000 | 31 December 2012 est. |
+| 133 | Gabon | $ 3,196,000,000 | 31 December 2012 est. |
+| 134 | Madagascar | $ 3,116,000,000 | 31 December 2012 est. |
+| 135 | Somalia | $ 3,050,000,000 | 31 December 2011 est. |
+| 136 | Mali | $ 3,041,000,000 | 31 December 2012 est. |
+| 137 | Congo, Republic of the | $ 2,999,000,000 | 31 December 2012 est. |
+| 138 | Mauritania | $ 2,922,000,000 | 31 December 2012 est. |
+| 139 | Burkina Faso | $ 2,607,000,000 | 31 December 2012 est. |
+| 140 | Mauritius | $ 2,606,000,000 | 31 December 2012 est. |
+| 141 | Guinea | $ 2,584,000,000 | 31 December 2012 est. |
+| 142 | Botswana | $ 2,443,000,000 | 31 December 2012 est. |
+| 143 | Equatorial Guinea | $ 1,858,000,000 | 31 December 2012 est. |
+| 144 | Guyana | $ 1,846,000,000 | 31 December 2011 est. |
+| 145 | Chad | $ 1,794,000,000 | 31 December 2012 est. |
+| 146 | Seychelles | $ 1,733,000,000 | 31 December 2012 est. |
+| 147 | Montenegro | $ 1,700,000,000 | 2012 est. |
+| 148 | Niger | $ 1,551,000,000 | 31 December 2012 est. |
+| 149 | Belize | $ 1,473,000,000 | 31 December 2012 est. |
+| 150 | Bermuda | $ 1,400,000,000 | 2012 est. |
+| 151 | Malawi | $ 1,354,000,000 | 31 December 2012 est. |
+| 152 | Afghanistan | $ 1,280,000,000 | FY10/11 |
+| 153 | Bhutan | $ 1,275,000,000 | 2011 |
+| 154 | Belarus | $ 1,225,000,000 | 31 December 2012 est. |
+| 155 | Cabo Verde | $ 1,180,000,000 | 31 December 2012 est. |
+| 156 | Sierra Leone | $ 1,172,000,000 | 31 December 2012 est. |
+| 157 | Rwanda | $ 1,153,000,000 | 31 December 2012 est. |
+| 158 | Benin | $ 1,123,000,000 | 31 December 2012 est. |
+| 159 | Guinea-Bissau | $ 1,095,000,000 | 31 December 2010 est. |
+| 160 | Eritrea | $ 1,057,000,000 | 31 December 2012 est. |
+| 161 | West Bank | $ 1,040,000,000 | 2010 est. |
+| 162 | Haiti | $ 957,600,000 | 31 December 2012 est. |
+| 163 | Maldives | $ 890,800,000 | 2012 est. |
+| 164 | Faroe Islands | $ 888,800,000 | 2010 |
+| 165 | Suriname | $ 810,800,000 | 31 December 2012 est. |
+| 166 | Lesotho | $ 779,800,000 | 31 December 2012 est. |
+| 167 | Djibouti | $ 773,900,000 | 31 December 2012 est. |
+| 168 | Fiji | $ 685,500,000 | 31 December 2012 est. |
+| 169 | Togo | $ 658,100,000 | 31 December 2012 est. |
+| 170 | Burundi | $ 641,900,000 | 31 December 2012 est. |
+| 171 | Central African Republic | $ 632,700,000 | 31 December 2012 est. |
+| 172 | Swaziland | $ 604,800,000 | 31 December 2012 est. |
+| 173 | Grenada | $ 538,000,000 | 2010 est. |
+| 174 | Aruba | $ 533,400,000 | 2005 est. |
+| 175 | Gambia, The | $ 481,500,000 | 31 December 2012 est. |
+| 176 | Antigua and Barbuda | $ 441,200,000 | 31 December 2012 |
+| 177 | Saint Lucia | $ 438,700,000 | 31 December 2012 est. |
+| 178 | Turkmenistan | $ 428,900,000 | 31 December 2012 est. |
+| 179 | Samoa | $ 368,300,000 | 31 December 2011 est. |
+| 180 | Liberia | $ 349,200,000 | 31 December 2012 est. |
+| 181 | Kosovo | $ 326,000,000 | 2011 est. |
+| 182 | Sao Tome and Principe | $ 313,300,000 | 31 December 2012 est. |
+| 183 | Dominica | $ 272,100,000 | 31 December 2012 est. |
+| 184 | Saint Vincent and the Grenadines | $ 265,000,000 | 31 December 2012 est. |
+| 185 | Solomon Islands | $ 255,500,000 | 31 December 2011 est. |
+| 186 | Vanuatu | $ 201,800,000 | 31 December 2011 est. |
+| 187 | Tonga | $ 198,600,000 | 31 December 2012 est. |
+| 188 | Saint Kitts and Nevis | $ 189,300,000 | 31 December 2012 est. |
+| 189 | Cook Islands | $ 141,000,000 | 1996 est. |
+| 190 | Comoros | $ 136,100,000 | 31 December 2012 est. |
+| 191 | Marshall Islands | $ 87,000,000 | 2008 est. |
+| 192 | New Caledonia | $ 79,000,000 | 1998 est. |
+| 193 | Micronesia, Federated States of | $ 60,800,000 | FY05 est. |
+| 194 | Greenland | $ 36,400,000 | 2010 |
+| 195 | British Virgin Islands | $ 36,100,000 | 1997 |
+| 196 | Nauru | $ 33,300,000 | 2004 est. |
+| 197 | Kiribati | $ 10,000,000 | 1999 est. |
+| 198 | Montserrat | $ 8,900,000 | 1997 |
+| 199 | Anguilla | $ 8,800,000 | 1998 |
+| 200 | Wallis and Futuna | $ 3,670,000 | 2004 |
+| 201 | Niue | $ 418,000 | 2002 est. |
+| 202 | Palau | $ 0 | FY99/00 |
+| 203 | Brunei | $ 0 | 2005 |
+| 204 | Macau | $ 0 | 2012 |
+| 205 | Liechtenstein | $ 0 | 2001 |
+
+

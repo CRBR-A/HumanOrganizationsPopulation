@@ -1,0 +1,238 @@
+CIA - The World Factbook -- Australia
+
+| Geography | Australia |
+| --- | --- |
+| Location: | Oceania, continent between the Indian Ocean and the South Pacific Ocean |
+| Geographic coordinates: | 27 00 S, 133 00 E |
+| Map references: | Oceania |
+| Area: | total: 7,686,850 sq km |
+| | land: 7,617,930 sq km |
+| | water: 68,920 sq km |
+| | note: includes Lord Howe Island and Macquarie Island |
+| Area - comparative: | slightly smaller than the US contiguous 48 states |
+| Land boundaries: | 0 km |
+| Coastline: | 25,760 km |
+| Maritime claims: | territorial sea: 12 nm |
+| | contiguous zone: 24 nm |
+| | exclusive economic zone: 200 nm |
+| | continental shelf: 200 nm or to the edge of the continental margin |
+| Climate: | generally arid to semiarid; temperate in south and east; tropical in north |
+| Terrain: | mostly low plateau with deserts; fertile plain in southeast |
+| Elevation extremes: | lowest point: Lake Eyre -15 m |
+| | highest point: Mount Kosciuszko 2,229 m |
+| Natural resources: | bauxite, coal, iron ore, copper, tin, gold, silver, uranium, nickel, tungsten, mineral sands, lead, zinc, diamonds, natural gas, petroleum |
+| Land use: | arable land: 6.15% (includes about 27 million hectares of cultivated grassland) |
+| | permanent crops: 0.04% |
+| | other: 93.81% (2005) |
+| Irrigated land: | 25,450 sq km (2003) |
+| Natural hazards: | cyclones along the coast; severe droughts; forest fires |
+| Environment - current issues: | soil erosion from overgrazing, industrial development, urbanization, and poor farming practices; soil salinity rising due to the use of poor quality water; desertification; clearing for agricultural purposes threatens the natural habitat of many unique animal and plant species; the Great Barrier Reef off the northeast coast, the largest coral reef in the world, is threatened by increased shipping and its popularity as a tourist site; limited natural fresh water resources |
+| Environment - international agreements: | party to: Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling |
+| | signed, but not ratified: Climate Change-Kyoto Protocol |
+| Geography - note: | world's smallest continent but sixth-largest country; population concentrated along the eastern and southeastern coasts; the invigorating tropical sea breeze known as the "Fremantle Doctor" affects the city of Perth on the west coast, and is one of the most consistent winds in the world |
+
+| People | Australia |
+| --- | --- |
+| Population: | 20,264,082 (July 2006 est.) |
+| Age structure: | 0-14 years: 19.6% (male 2,031,313/female 1,936,802) |
+| | 15-64 years: 67.3% (male 6,881,863/female 6,764,709) |
+| | 65 years and over: 13.1% (male 1,170,589/female 1,478,806) (2006 est.) |
+| Median age: | total: 36.9 years |
+| | male: 36 years |
+| | female: 37.7 years (2006 est.) |
+| Population growth rate: | 0.85% (2006 est.) |
+| Birth rate: | 12.14 births/1,000 population (2006 est.) |
+| Death rate: | 7.51 deaths/1,000 population (2006 est.) |
+| Net migration rate: | 3.85 migrant(s)/1,000 population (2006 est.) |
+| Sex ratio: | at birth: 1.05 male(s)/female |
+| | under 15 years: 1.05 male(s)/female |
+| | 15-64 years: 1.02 male(s)/female |
+| | 65 years and over: 0.79 male(s)/female |
+| | total population: 0.99 male(s)/female (2006 est.) |
+| Infant mortality rate: | total: 4.63 deaths/1,000 live births |
+| | male: 5.02 deaths/1,000 live births |
+| | female: 4.22 deaths/1,000 live births (2006 est.) |
+| Life expectancy at birth: | total population: 80.5 years |
+| | male: 77.64 years |
+| | female: 83.52 years (2006 est.) |
+| Total fertility rate: | 1.76 children born/woman (2006 est.) |
+| HIV/AIDS - adult prevalence rate: | 0.1% (2003 est.) |
+| HIV/AIDS - people living with HIV/AIDS: | 14,000 (2003 est.) |
+| HIV/AIDS - deaths: | less than 200 (2003 est.) |
+| Nationality: | noun: Australian(s) |
+| | adjective: Australian |
+| Ethnic groups: | Caucasian 92%, Asian 7%, aboriginal and other 1% |
+| Religions: | Catholic 26.4%, Anglican 20.5%, other Christian 20.5%, Buddhist 1.9%, Muslim 1.5%, other 1.2%, unspecified 12.7%, none 15.3% (2001 Census) |
+| Languages: | English 79.1%, Chinese 2.1%, Italian 1.9%, other 11.1%, unspecified 5.8% (2001 Census) |
+| Literacy: | definition: age 15 and over can read and write |
+| | total population: 99% |
+| | male: 99% |
+| | female: 99% (2003 est.) |
+
+| Government | Australia |
+| --- | --- |
+| Country name: | conventional long form: Commonwealth of Australia |
+| | conventional short form: Australia |
+| Government type: | federal parliamentary democracy |
+| Capital: | name: Canberra |
+| | geographic coordinates: 35 17 S, 149 08 E |
+| | time difference: UTC+10 (15 hours ahead of Washington, DC during Standard Time) |
+| | daylight saving time: +1hr, begins last Sunday in October; ends last Sunday in March (ended first Sunday in April 2006) |
+| | note: Australia is divided into three time zones |
+| Administrative divisions: | 6 states and 2 territories*; Australian Capital Territory*, New South Wales, Northern Territory*, Queensland, South Australia, Tasmania, Victoria, Western Australia |
+| Dependent areas: | Ashmore and Cartier Islands, Christmas Island, Cocos (Keeling) Islands, Coral Sea Islands, Heard Island and McDonald Islands, Norfolk Island, Macquarie Island |
+| Independence: | 1 January 1901 (federation of UK colonies) |
+| National holiday: | Australia Day, 26 January (1788) |
+| Constitution: | 9 July 1900, effective 1 January 1901 |
+| Legal system: | based on English common law; accepts compulsory ICJ jurisdiction, with reservations |
+| Suffrage: | 18 years of age; universal and compulsory |
+| Executive branch: | chief of state: Queen of Australia ELIZABETH II (since 6 February 1952), represented by Governor General Maj. Gen. (Ret.) Michael JEFFERY (since 11 August 2003) |
+| | head of government: Prime Minister John Winston HOWARD (since 11 March 1996); Deputy Prime Minister Mark VAILE (since 6 July 2005) |
+| | cabinet: prime minister nominates, from among members of Parliament, candidates who are subsequently sworn in by the governor general to serve as government ministers |
+| | elections: none; the monarch is hereditary; governor general appointed by the monarch on the recommendation of the prime minister; following legislative elections, the leader of the majority party or leader of a majority coalition is sworn in as prime minister by the governor general |
+| | note: government coalition - Liberal Party and National Party |
+| Legislative branch: | bicameral Federal Parliament consists of the Senate (76 seats - 12 from each of the six states and 2 from each of the two mainland territories; one-half of state members are elected every three years by popular vote to serve six-year terms while all territory members are elected every three years) and the House of Representatives (150 seats; members elected by popular preferential voting to serve terms of up to three-years; no state can have fewer than 5 representatives) |
+| | elections: Senate - last held 9 October 2004 (next to be held no later than June 2008); House of Representatives - last held 9 October 2004 (next to be called no later than November 2007) |
+| | election results: Senate - percent of vote by party - NA%; seats by party - Liberal Party-National Party coalition 39, Australian Labor Party 28, Democrats 4, Australian Greens 4, Family First Party 1; House of Representatives - percent of vote by party - NA%; seats by party - Liberal Party-National Party coalition 87, Australian Labor Party 60, independents 3 |
+| Judicial branch: | High Court (the chief justice and six other justices are appointed by the governor general) |
+| Political parties and leaders: | Australian Democrats [Lyn ALLISON]; Australian Greens [Bob BROWN]; Australian Labor Party [Kevin RUDD]; Country Liberal Party [Jodeen CARNEY]; Family First Party [Steve FIELDING]; Liberal Party [John Winston HOWARD]; The Nationals [Mark VAILE] |
+| International organization participation: | ANZUS, APEC, ARF, AsDB, ASEAN (dialogue partner), Australia Group, BIS, C, CP, EAS, EBRD, FAO, IAEA, IBRD, ICAO, ICC, ICCt, ICFTU, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, MIGA, NAM (guest), NEA, NSG, OECD, OPCW, Paris Club, PCA, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNHCR, UNMIS, UNRWA, UNTSO, UPU, WCO, WFTU, WHO, WIPO, WMO, WToO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Dennis J. RICHARDSON |
+| | chancery: 1601 Massachusetts Avenue NW, Washington, DC 20036 |
+| | telephone: [1] (202) 797-3000 |
+| | FAX: [1] (202) 797-3168 |
+| | consulate(s) general: Atlanta, Chicago, Honolulu, Los Angeles, New York, San Francisco |
+| Diplomatic representation from the US: | chief of mission: Ambassador Robert D. McCALLUM, Jr. |
+| | embassy: Moonah Place, Yarralumla, Canberra, Australian Capital Territory 2600 |
+| | mailing address: APO AP 96549 |
+| | telephone: [61] (02) 6214-5600 |
+| | FAX: [61] (02) 6214-5970 |
+| | consulate(s) general: Melbourne, Perth, Sydney |
+| Flag description: | blue with the flag of the UK in the upper hoist-side quadrant and a large seven-pointed star in the lower hoist-side quadrant known as the Commonwealth or Federation Star, representing the federation of the colonies of Australia in 1901; the star depicts one point for each of the six original states and one representing all of Australia's internal and external territories; on the fly half is a representation of the Southern Cross constellation in white with one small five-pointed star and four larger, seven-pointed stars |
+
+| Economy | Australia |
+| --- | --- |
+| Economy - overview: | Australia has an enviable Western-style capitalist economy with a per capita GDP on par with the four dominant West European economies. Rising output in the domestic economy, robust business and consumer confidence, and rising exports of raw materials and agricultural products are fueling the economy. Australia's emphasis on reforms, low inflation, and growing ties with China are other key factors behind the economy's strength. The impact of drought, weak foreign demand, and strong import demand pushed the trade deficit up from $8 billion in 2002, to $18 billion in 2003, $13 billion in 2004, and nearly $17 billion in 2005. Housing prices probably peaked in 2005, diminishing the prospect that interest rates would be raised to prevent a speculative bubble. Conservative fiscal policies have kept Australia's budget in surplus from 2002 to 2005. |
+| GDP (purchasing power parity): | $635.5 billion (2005 est.) |
+| GDP (official exchange rate): | $612.8 billion (2005 est.) |
+| GDP - real growth rate: | 2.7% (2005 est.) |
+| GDP - per capita (PPP): | $31,600 (2005 est.) |
+| GDP - composition by sector: | agriculture: 3.8% |
+| | industry: 26.2% |
+| | services: 70% (2004 est.) |
+| Labor force: | 10.42 million (2005 est.) |
+| Labor force - by occupation: | agriculture: 3.6% |
+| | industry: 21.2% |
+| | services: 75.2% (2004 est.) |
+| Unemployment rate: | 5.1% (2005 est.) |
+| Population below poverty line: | NA% |
+| Household income or consumption by percentage share: | lowest 10%: 2% |
+| | highest 10%: 25.4% (1994) |
+| Distribution of family income - Gini index: | 35.2 (1994) |
+| Inflation rate (consumer prices): | 2.7% (2005 est.) |
+| Investment (gross fixed): | 25.9% of GDP (2005 est.) |
+| Budget: | revenues: $249.8 billion |
+| | expenditures: $240.2 billion; including capital expenditures of $NA (2005 est.) |
+| Public debt: | 16.1% of GDP (2005 est.) |
+| Agriculture - products: | wheat, barley, sugarcane, fruits, cattle, sheep, poultry |
+| Industries: | mining, industrial and transportation equipment, food processing, chemicals, steel |
+| Industrial production growth rate: | 1.1% (2005 est.) |
+| Electricity - production: | 237 billion kWh (2004) |
+| Electricity - production by source: | fossil fuel: 90.8% |
+| | hydro: 8.3% |
+| | nuclear: 0% |
+| | other: 0.9% (2001) |
+| Electricity - consumption: | 221 billion kWh (2004) |
+| Electricity - exports: | 0 kWh (2003) |
+| Electricity - imports: | 0 kWh (2003) |
+| Oil - production: | 530,000 bbl/day (2005 est.) |
+| Oil - consumption: | 875,600 bbl/day (2003 est.) |
+| Oil - exports: | 523,400 bbl/day (2001) |
+| Oil - imports: | 530,800 bbl/day (2001) |
+| Oil - proved reserves: | 3.664 billion bbl (1 January 2002) |
+| Natural gas - production: | 35.6 billion cu m (2003 est.) |
+| Natural gas - consumption: | 25.08 billion cu m (2003 est.) |
+| Natural gas - exports: | 9.744 billion cu m (2001 est.) |
+| Natural gas - imports: | 0 cu m (2001 est.) |
+| Natural gas - proved reserves: | 2.549 trillion cu m (1 January 2002) |
+| Current account balance: | $-42.09 billion (2005 est.) |
+| Exports: | $103 billion (2005 est.) |
+| Exports - commodities: | coal, gold, meat, wool, alumina, iron ore, wheat, machinery and transport equipment |
+| Exports - partners: | Japan 20.3%, China 11.5%, South Korea 7.9%, US 6.7%, NZ 6.5%, India 5% (2005) |
+| Imports: | $119.6 billion (2005 est.) |
+| Imports - commodities: | machinery and transport equipment, computers and office machines, telecommunication equipment and parts; crude oil and petroleum products |
+| Imports - partners: | US 13.9%, China 13.7%, Japan 11%, Singapore 5.6%, Germany 5.6% (2005) |
+| Reserves of foreign exchange and gold: | $43.26 billion (2005 est.) |
+| Debt - external: | $323.4 billion (2005 est.) |
+| Economic aid - donor: | ODA, $894 million (FY99/00) |
+| Currency (code): | Australian dollar (AUD) |
+| Currency code: | AUD |
+| Exchange rates: | Australian dollars per US dollar - 1.3095 (2005), 1.3598 (2004), 1.5419 (2003), 1.8406 (2002), 1.9334 (2001) |
+| Fiscal year: | 1 July - 30 June |
+
+| Communications | Australia |
+| --- | --- |
+| Telephones - main lines in use: | 11.46 million (2005) |
+| Telephones - mobile cellular: | 18.42 million (2005) |
+| Telephone system: | general assessment: excellent domestic and international service |
+| | domestic: domestic satellite system; much use of radiotelephone in areas of low population density; rapid growth of mobile cellular telephones |
+| | international: country code - 61; submarine cables to New Zealand, Papua New Guinea, and Indonesia; satellite earth stations - 19 (10 Intelsat - 4 Indian Ocean and 6 Pacific Ocean, 2 Inmarsat - Indian and Pacific Ocean regions, 2 Globalstar, 5 other) (2005) |
+| Radio broadcast stations: | AM 262, FM 345, shortwave 1 (1998) |
+| Radios: | 25.5 million (1997) |
+| Television broadcast stations: | 104 (1997) |
+| Televisions: | 10.15 million (1997) |
+| Internet country code: | .au |
+| Internet hosts: | 7,772,888 (2006) |
+| Internet Service Providers (ISPs): | 571 (2002) |
+| Internet users: | 14,663,622 (2006) |
+
+| Transportation | Australia |
+| --- | --- |
+| Airports: | 455 (2006) |
+| Airports - with paved runways: | total: 311 |
+| | over 3,047 m: 10 |
+| | 2,438 to 3,047 m: 12 |
+| | 1,524 to 2,437 m: 133 |
+| | 914 to 1,523 m: 143 |
+| | under 914 m: 13 (2006) |
+| Airports - with unpaved runways: | total: 144 |
+| | 1,524 to 2,437 m: 18 |
+| | 914 to 1,523 m: 111 |
+| | under 914 m: 15 (2006) |
+| Heliports: | 1 (2006) |
+| Pipelines: | condensate/gas 546 km; gas 31,323 km; liquid petroleum gas 240 km; oil 4,808 km; oil/gas/water 110 km (2006) |
+| Railways: | total: 47,738 km |
+| | broad gauge: 4,015 km 1.600-m gauge |
+| | standard gauge: 28,662 km 1.435-m gauge (1,397 km electrified) |
+| | narrow gauge: 14,831 km 1.067-m gauge (2,462 km electrified) |
+| | dual gauge: 230 km dual gauge (2005) |
+| Roadways: | total: 810,641 km |
+| | paved: 336,962 km |
+| | unpaved: 473,679 km (2004) |
+| Waterways: | 2,000 km (mainly used for recreation on Murray and Murray-Darling river systems) (2002) |
+| Merchant marine: | total: 53 ships (1000 GRT or over) 1,361,000 GRT/1,532,874 DWT |
+| | by type: bulk carrier 17, cargo 4, chemical tanker 3, container 1, liquefied gas 4, passenger 6, passenger/cargo 7, petroleum tanker 6, roll on/roll off 5 |
+| | foreign-owned: 17 (Canada 1, France 3, Germany 3, Japan 1, Netherlands 2, Norway 1, Philippines 1, UK 2, US 3) |
+| | registered in other countries: 34 (Antigua and Barbuda 1, Bahamas 2, Bermuda 3, Fiji 1, Hong Kong 1, Liberia 2, Marshall Islands 2, Netherlands 1, NZ 2, Panama 3, Portugal 1, Singapore 7, Tonga 1, UK 3, US 2, Vanuatu 2) (2006) |
+| Ports and terminals: | Brisbane, Dampier, Fremantle, Gladstone, Hay Point, Melbourne, Newcastle, Port Hedland, Port Kembla, Port Walcott, Sydney |
+
+| Military | Australia |
+| --- | --- |
+| Military branches: | Australian Defense Force (ADF): Australian Army, Royal Australian Navy, Royal Australian Air Force, Special Operations Command |
+| Military service age and obligation: | 16 years of age for voluntary service; women allowed to serve in Army combat units in non-combat support roles (2001) |
+| Manpower available for military service: | males age 18-49: 4,943,676 |
+| | females age 18-49: 4,821,264 |
+| Manpower fit for military service: | males age 16-49: 4,092,717 |
+| | females age 16-49: 3,983,447 (2005 est.) |
+| Manpower reaching military service age annually: | males age 18-49: 142,158 |
+| | females age 16-49: 135,675 (2005 est.) |
+| Military expenditures - dollar figure: | $17.84 billion (2005 est.) |
+| Military expenditures - percent of GDP: | 2.7% (2005 est.) |
+
+| Transnational Issues | Australia |
+| --- | --- |
+| Disputes - international: | East Timor and Australia agreed in 2005 to defer the disputed portion of the boundary for fifty years and to split hydrocarbon revenues evenly outside the Joint Petroleum Development Area covered by the 2002 Timor Sea Treaty; East Timor dispute hampers creation of a revised maritime boundary with Indonesia (see also Ashmore and Cartier Islands dispute); regional states express concern over Australia's 2004 declaration of a 1,000-nautical mile-wide maritime identification zone; Australia asserts land and maritime claims to Antarctica (see Antarctica); in 2004 Australia submitted its claims to UN Commission on the Limits of the Continental Shelf (CLCS) to extend its continental margin from both its mainland and Antarctic claims |
+| Illicit drugs: | Tasmania is one of the world's major suppliers of licit opiate products; government maintains strict controls over areas of opium poppy cultivation and output of poppy straw concentrate |
+
+---
+This page was last updated on 19 December, 2006                      

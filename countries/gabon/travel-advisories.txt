@@ -1,0 +1,14 @@
+| Precautions | Exercise normal precautions in Gabon. Some areas have increased risk. |
+| | Consult the link below for updates to travel advisories and statements on safety, security, local laws, and special circumstances in this country. |
+| | <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html> |
+| Passport/Visa Requirements | US citizens should make sure their passport will not expire for at least 6 months after they enter the country even if they do not intend to stay that long. They should also make sure they have at least 1 blank page in their passport for any entry stamp and or visa that will be required. A visa is required. US citizens will need to get in touch with the country's embassy or nearest consulate to obtain a visa prior to visiting the country. |
+| Vaccinations | An International Certificate of Vaccination for yellow fever is required for all travelers. See WHO recommendations.  <http://www.who.int/> |
+| US Embassy/Consulate | [241] 01-45-71-00; US Embassy in Libreville, Sablière B.P. 4000, Libreville, Gabon; https://ga.usembassy.gov/; ACSLibreville@state.gov |
+
+---
+country: Gabon
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Gabon/travel-facts>
+license: public domain (U.S.)
+...

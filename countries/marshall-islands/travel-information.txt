@@ -1,0 +1,27 @@
+Telephone Code: 692
+Local Emergency Phone: Ambulance: 625, 4111; Police: 625, 8666
+Climate: Tropical; hot and humid; wet season May to November; islands border typhoon belt
+Currency (Code): US dollar is used (USD)
+Electricity: 120 V
+Voltage: 60 Hz
+Plug types(s): A, B
+Major Languages: Marshallese; note: English, widely spoken as a second language
+Major Religions: Protestant 80.5%, Roman Catholic 8.5%, Mormon 7%, Jehovah's Witness 1.7%
+Time Difference: UTC+12 (17 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Bikini Atoll Nuclear Test Site; Kwajalein Island; Alele Museum
+Major Sports: Soccer, baseball, softball
+Cultural Practices: The people of the Marshall Islands emphasize respect for their elders. Codes of respect and deference are important, and often Americans are considered haughty, brash, and irreverent.
+Tipping Guidelines: Meals are generally inexpensive so tipping by rounding up is appropriate. Taxi drivers do not expect tips.
+Souvenirs: Coconut products, seashells/seashell items; woven handbags, baskets, and carpets; stick-chart sea maps, recreational boats
+Traditional Cuisine: Barramundi cod --- a whole fresh barramundi cod seasoned and then tightly wrapped within banana leaves and baked
+
+---
+country: Marshall Islands
+date: May 25, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Marshall Islands/travel-facts>
+license: public domain (U.S.)
+...

@@ -1,0 +1,189 @@
+CIA - The World Factbook --  Commercial bank prime lending rate   
+
+This entry provides a simple average of annualized interest rates commercial banks charge on new loans, denominated in the national currency, to their most credit-worthy customers.
+
+| Rank | country | (%) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Madagascar | 52.50 | 31 December 2011 est. |
+| 2 | Brazil | 43.88 | 31 December 2011 est. |
+| 3 | Congo, Democratic Republic of the | 43.75 | 31 December 2011 est. |
+| 4 | Kyrgyzstan | 34.07 | 31 December 2011 est. |
+| 5 | Zimbabwe | 34.00 | 31 December 2011 est. |
+| 6 | Paraguay | 28.94 | 31 December 2011 est. |
+| 7 | Gambia, The | 28.00 | 31 December 2011 est. |
+| 8 | Guinea | 28.00 | 31 December 2011 est. |
+| 9 | Sao Tome and Principe | 26.75 | 31 December 2011 est. |
+| 10 | Tajikistan | 26.34 | 31 December 2011 est. |
+| 11 | Yemen | 25.00 | 31 December 2011 est. |
+| 12 | Malawi | 23.80 | 31 December 2011 est. |
+| 13 | Georgia | 22.19 | 31 December 2011 est. |
+| 14 | Laos | 21.90 | 31 December 2011 est. |
+| 15 | Uganda | 21.83 | 31 December 2011 est. |
+| 16 | Sierra Leone | 21.00 | 31 December 2011 est. |
+| 17 | Jamaica | 19.51 | 31 December 2011 est. |
+| 18 | Mozambique | 19.10 | 31 December 2011 est. |
+| 19 | Azerbaijan | 19.00 | 31 December 2011 est. |
+| 20 | Zambia | 18.84 | 31 December 2011 est. |
+| 21 | Angola | 18.76 | 31 December 2011 est. |
+| 22 | Peru | 18.69 | 31 December 2011 est. |
+| 23 | Honduras | 18.56 | 31 December 2011 est. |
+| 24 | Serbia | 18.40 | 31 December 2011 est. |
+| 25 | Ghana | 18.20 | 31 December 2011 est. |
+| 26 | Armenia | 17.76 | 31 December 2011 est. |
+| 27 | Venezuela | 17.15 | 31 December 2011 est. |
+| 28 | Turkey | 17.00 | 31 December 2011 est. |
+| 29 | Mauritania | 17.00 | 31 December 2011 est. |
+| 30 | Vietnam | 16.96 | 31 December 2011 est. |
+| 31 | Rwanda | 16.90 | 31 December 2011 est. |
+| 32 | Burma | 16.33 | 31 December 2011 est. |
+| 33 | Costa Rica | 16.15 | 31 December 2011 est. |
+| 34 | Nigeria | 16.02 | 31 December 2011 est. |
+| 35 | Ethiopia | 16.00 | 31 December 2011 est. |
+| 36 | Ukraine | 15.95 | 31 December 2011 est. |
+| 37 | Dominican Republic | 15.55 | 31 December 2011 est. |
+| 38 | Mongolia | 15.50 | 31 December 2011 est. |
+| 39 | Cambodia | 15.22 | 31 December 2011 est. |
+| 40 | Afghanistan | 15.15 | 31 December 2011 est. |
+| 41 | Kenya | 15.05 | 31 December 2011 est. |
+| 42 | Guinea-Bissau | 15.00 | 31 December 2011 est. |
+| 43 | Gabon | 15.00 | 31 December 2011 est. |
+| 44 | Central African Republic | 15.00 | 31 December 2011 est. |
+| 45 | Congo, Republic of the | 15.00 | 31 December 2011 est. |
+| 46 | Chad | 15.00 | 31 December 2011 est. |
+| 47 | Equatorial Guinea | 15.00 | 31 December 2011 est. |
+| 48 | Tanzania | 14.96 | 31 December 2011 est. |
+| 49 | Senegal | 14.50 | 31 December 2011 est. |
+| 50 | Guyana | 14.45 | 31 December 2011 est. |
+| 51 | Moldova | 14.44 | 31 December 2011 est. |
+| 52 | Micronesia, Federated States of | 14.35 | 31 December 2011 est. |
+| 53 | Kosovo | 14.31 | 31 December 2010 est. |
+| 54 | Bhutan | 14.16 | 31 December 2011 est. |
+| 55 | Pakistan | 14.12 | 31 December 2011 est. |
+| 56 | Argentina | 14.09 | 31 December 2011 est. |
+| 57 | Cameroon | 14.00 | 31 December 2011 est. |
+| 58 | Liberia | 13.75 | 31 December 2011 est. |
+| 59 | Belarus | 13.58 | 31 December 2011 est. |
+| 60 | Guatemala | 13.43 | 31 December 2011 est. |
+| 61 | Belize | 13.36 | 31 December 2011 est. |
+| 62 | Bangladesh | 13.25 | 31 December 2011 est. |
+| 63 | Burundi | 13.23 | 31 December 2011 est. |
+| 64 | Solomon Islands | 13.17 | 31 December 2011 est. |
+| 65 | Albania | 12.43 | 31 December 2011 est. |
+| 66 | Indonesia | 12.40 | 31 December 2011 est. |
+| 67 | Romania | 12.12 | 31 December 2011 est. |
+| 68 | Suriname | 11.75 | 31 December 2011 est. |
+| 69 | Haiti | 11.61 | 31 December 2011 est. |
+| 70 | Iran | 11.25 | 31 December 2011 est. |
+| 71 | Colombia | 11.22 | 31 December 2011 est. |
+| 72 | Tonga | 11.21 | 31 December 2011 est. |
+| 73 | Seychelles | 11.19 | 31 December 2011 est. |
+| 74 | Timor-Leste | 11.04 | 31 December 2011 est. |
+| 75 | Egypt | 11.03 | 31 December 2011 est. |
+| 76 | Botswana | 11.00 | 31 December 2011 est. |
+| 77 | Antigua and Barbuda | 10.93 | 31 December 2011 est. |
+| 78 | Bolivia | 10.92 | 31 December 2011 est. |
+| 79 | Papua New Guinea | 10.81 | 31 December 2011 est. |
+| 80 | Grenada | 10.68 | 31 December 2011 est. |
+| 81 | Bulgaria | 10.63 | 31 December 2011 est. |
+| 82 | Djibouti | 10.61 | 31 December 2011 est. |
+| 83 | Nicaragua | 10.54 | 31 December 2011 est. |
+| 84 | Syria | 10.50 | 31 December 2011 est. |
+| 85 | Lesotho | 10.43 | 31 December 2011 est. |
+| 86 | Maldives | 10.20 | 31 December 2011 est. |
+| 87 | India | 10.19 | 31 December 2011 est. |
+| 88 | Saint Lucia | 10.00 | 31 December 2011 est. |
+| 89 | Samoa | 9.97 | 31 December 2011 est. |
+| 90 | Cabo Verde | 9.81 | 31 December 2011 est. |
+| 91 | Uruguay | 9.78 | 31 December 2011 est. |
+| 92 | Croatia | 9.68 | 31 December 2011 est. |
+| 93 | Montenegro | 9.53 | 31 December 2010 est. |
+| 94 | Saint Kitts and Nevis | 9.45 | 31 December 2011 est. |
+| 95 | Sri Lanka | 9.41 | 31 December 2011 est. |
+| 96 | Anguilla | 9.29 | 31 December 2011 est. |
+| 97 | Saint Vincent and the Grenadines | 9.13 | 31 December 2011 est. |
+| 98 | Chile | 9.03 | 31 December 2011 est. |
+| 99 | Aruba | 9.00 | 31 December 2011 est. |
+| 100 | Mali | 9.00 | 31 December 2011 est. |
+| 101 | Swaziland | 9.00 | 31 December 2011 est. |
+| 102 | South Africa | 9.00 | 31 December 2011 est. |
+| 103 | Mauritius | 8.92 | 31 December 2011 est. |
+| 104 | Dominica | 8.88 | 31 December 2011 est. |
+| 105 | Macedonia | 8.87 | 31 December 2011 est. |
+| 106 | Namibia | 8.73 | 31 December 2011 est. |
+| 107 | Barbados | 8.70 | 31 December 2011 est. |
+| 108 | Jordan | 8.67 | 31 December 2011 est. |
+| 109 | Montserrat | 8.56 | 31 December 2011 est. |
+| 110 | Poland | 8.47 | 31 December 2011 est. |
+| 111 | Russia | 8.45 | 31 December 2011 est. |
+| 112 | Ecuador | 8.35 | 31 December 2011 est. |
+| 113 | Hungary | 8.34 | 31 December 2011 est. |
+| 114 | Spain | 8.09 | 31 December 2011 est. |
+| 115 | Algeria | 8.00 | 31 December 2011 est. |
+| 116 | Nepal | 8.00 | 31 December 2011 est. |
+| 117 | Trinidad and Tobago | 7.97 | 31 December 2011 est. |
+| 118 | Australia | 7.74 | 31 December 2011 est. |
+| 119 | Iceland | 7.70 | 31 December 2011 est. |
+| 120 | Lebanon | 7.53 | 31 December 2011 est. |
+| 121 | European Union | 7.52 | 31 December 2009 est. |
+| 122 | Fiji | 7.47 | 31 December 2011 est. |
+| 123 | Comoros | 7.29 | 31 December 2011 est. |
+| 124 | Saudi Arabia | 7.20 | 31 December 2011 est. |
+| 125 | Greece | 7.15 | 31 December 2011 est. |
+| 126 | Bosnia and Herzegovina | 7.14 | 31 December 2011 est. |
+| 127 | Thailand | 6.91 | 31 December 2011 est. |
+| 128 | Panama | 6.91 | 31 December 2011 est. |
+| 129 | Bahrain | 6.83 | 31 December 2011 est. |
+| 130 | Cyprus | 6.83 | 31 December 2011 est. |
+| 131 | West Bank | 6.79 | 31 December 2011 est. |
+| 132 | Tunisia | 6.76 | 31 December 2011 est. |
+| 133 | Kazakhstan | 6.71 | 31 December 2011 est. |
+| 134 | Philippines | 6.66 | 31 December 2011 est. |
+| 135 | China | 6.56 | 31 December 2011 est. |
+| 136 | Latvia | 6.39 | 31 December 2011 est. |
+| 137 | Morocco | 6.32 | 31 December 2011 est. |
+| 138 | Oman | 6.19 | 31 December 2011 est. |
+| 139 | Estonia | 6.12 | 31 December 2011 est. |
+| 140 | New Zealand | 6.11 | 31 December 2011 est. |
+| 141 | Libya | 6.00 | 31 December 2011 est. |
+| 142 | Iraq | 6.00 | 31 December 2011 est. |
+| 143 | El Salvador | 5.99 | 31 December 2011 est. |
+| 144 | Slovenia | 5.82 | 31 December 2011 est. |
+| 145 | Lithuania | 5.78 | 31 December 2011 est. |
+| 146 | Korea, South | 5.77 | 31 December 2011 est. |
+| 147 | Czech Republic | 5.72 | 31 December 2011 est. |
+| 148 | Portugal | 5.71 | 31 December 2011 est. |
+| 149 | Israel | 5.53 | 31 December 2011 est. |
+| 150 | Brunei | 5.50 | 31 December 2011 est. |
+| 151 | Vanuatu | 5.50 | 31 December 2011 est. |
+| 152 | Qatar | 5.49 | 31 December 2011 est. |
+| 153 | San Marino | 5.38 | 31 December 2010 est. |
+| 154 | Singapore | 5.38 | 31 December 2011 est. |
+| 155 | Macau | 5.25 | 31 December 2011 est. |
+| 156 | Kuwait | 5.20 | 31 December 2011 est. |
+| 157 | Bahamas, The | 5.06 | 31 December 2011 est. |
+| 158 | Hong Kong | 5.00 | 31 December 2011 est. |
+| 159 | Mexico | 4.92 | 31 December 2011 est. |
+| 160 | Malaysia | 4.83 | 31 December 2011 est. |
+| 161 | Malta | 4.76 | 31 December 2011 est. |
+| 162 | Italy | 4.60 | 31 December 2011 est. |
+| 163 | Norway | 4.40 | 31 December 2011 est. |
+| 164 | Cote d'Ivoire | 4.30 | 31 December 2011 est. |
+| 165 | Niger | 4.30 | 31 December 2011 est. |
+| 166 | Sweden | 4.28 | 31 December 2011 est. |
+| 167 | United Kingdom | 4.08 | 31 December 2011 est. |
+| 168 | Denmark | 4.03 | 31 December 2011 est. |
+| 169 | Germany | 3.94 | 31 December 2011 est. |
+| 170 | Belgium | 3.93 | 31 December 2011 est. |
+| 171 | Slovakia | 3.91 | 31 December 2011 est. |
+| 172 | Ireland | 3.81 | 31 December 2011 est. |
+| 173 | France | 3.43 | 31 December 2011 est. |
+| 174 | United States | 3.25 | 31 December 2011 est. |
+| 175 | Netherlands | 3.19 | 31 December 2011 est. |
+| 176 | Canada | 3.00 | 31 December 2011 est. |
+| 177 | Taiwan | 2.88 | 31 December 2011 est. |
+| 178 | Switzerland | 2.72 | 31 December 2011 est. |
+| 179 | Finland | 2.68 | 31 December 2011 est. |
+| 180 | Austria | 2.50 | 31 December 2011 est. |
+| 181 | Japan | 1.48 | 31 December 2011 est. |
+
+

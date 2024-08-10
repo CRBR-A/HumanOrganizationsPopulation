@@ -1,0 +1,174 @@
+CIA - The World Factbook --  Industrial production growth rate   
+
+This entry gives the annual percentage increase in industrial production (includes manufacturing, mining, and construction).
+
+| Rank | country | (%) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Angola | 14.30 | 2008 est. |
+| 2 | Panama | 14.20 | 2008 est. |
+| 3 | Qatar | 13.00 | 2008 est. |
+| 4 | Uzbekistan | 12.70 | 2008 est. |
+| 5 | Belarus | 12.00 | 2008 est. |
+| 6 | Bosnia and Herzegovina | 11.60 | 2008 est. |
+| 7 | Equatorial Guinea | 11.30 | 2008 est. |
+| 8 | Laos | 11.00 | 2008 est. |
+| 9 | Kyrgyzstan | 10.70 | 2008 est. |
+| 10 | Bolivia | 10.60 | 2008 est. |
+| 11 | Iraq | 10.50 | 2008 est. |
+| 12 | Ethiopia | 10.40 | 2008 est. |
+| 13 | Lesotho | 10.00 | 2008 est. |
+| 14 | Sao Tome and Principe | 9.50 | 2008 est. |
+| 15 | China | 9.30 | 2008 est. |
+| 16 | Tanzania | 9.10 | 2008 est. |
+| 17 | Mozambique | 9.00 | 2008 est. |
+| 18 | Timor-Leste | 8.50 | 2004 est. |
+| 19 | Ghana | 8.10 | 2008 est. |
+| 20 | Cambodia | 8.00 | 2008 est. |
+| 21 | Faroe Islands | 8.00 | 1999 est. |
+| 22 | Peru | 8.00 | 2008 est. |
+| 23 | Uruguay | 8.00 | 2008 est. |
+| 24 | Kuwait | 8.00 | 2008 est. |
+| 25 | Burma | 7.80 | 2008 est. |
+| 26 | Rwanda | 7.50 | 2008 est. |
+| 27 | Romania | 7.10 | 2008 est. |
+| 28 | Congo, Republic of the | 7.00 | 2008 est. |
+| 29 | Guinea | 7.00 | 2008 est. |
+| 30 | Uganda | 7.00 | 2008 est. |
+| 31 | Bangladesh | 6.90 | 2008 est. |
+| 32 | United Arab Emirates | 6.70 | 2008 est. |
+| 33 | Suriname | 6.50 | 1994 est. |
+| 34 | Switzerland | 6.50 | 2006 est. |
+| 35 | Bahrain | 6.30 | 2008 est. |
+| 36 | Vietnam | 6.30 | 2008 est. |
+| 37 | Libya | 6.20 | 2008 est. |
+| 38 | Egypt | 6.10 | 2008 est. |
+| 39 | Azerbaijan | 6.00 | 2008 est. |
+| 40 | Zambia | 6.00 | 2008 est. |
+| 41 | Sri Lanka | 5.90 | 2008 est. |
+| 42 | Jordan | 5.70 | 2008 est. |
+| 43 | Papua New Guinea | 5.60 | 2008 est. |
+| 44 | Ecuador | 5.50 | 2008 est. |
+| 45 | Niger | 5.10 | 2003 est. |
+| 46 | Burundi | 5.00 | 2008 est. |
+| 47 | Mauritius | 5.00 | 2008 est. |
+| 48 | Philippines | 5.00 | 2008 est. |
+| 49 | Cape Verde | 5.00 | 2008 est. |
+| 50 | Ireland | 5.00 | 2007 est. |
+| 51 | India | 4.80 | 2008 est. |
+| 52 | Kenya | 4.80 | 2008 est. |
+| 53 | Poland | 4.80 | 2008 est. |
+| 54 | Morocco | 4.70 | 2008 est. |
+| 55 | Guinea-Bissau | 4.70 | 2003 est. |
+| 56 | Pakistan | 4.60 | 2008 est. |
+| 57 | Iran | 4.50 | 2008 est. |
+| 58 | Burkina Faso | 4.50 | 2008 est. |
+| 59 | Senegal | 4.50 | 2008 est. |
+| 60 | Honduras | 4.40 | 2008 est. |
+| 61 | Argentina | 4.30 | 2008 est. |
+| 62 | Brazil | 4.30 | 2008 est. |
+| 63 | Cameroon | 4.20 | 2008 est. |
+| 64 | Cyprus | 4.10 | 2008 est. |
+| 65 | Trinidad and Tobago | 4.10 | 2008 est. |
+| 66 | Malawi | 4.00 | 2008 est. |
+| 67 | Macedonia | 4.00 | 2008 est. |
+| 68 | Paraguay | 4.00 | 2008 est. |
+| 69 | Czech Republic | 3.80 | 2008 est. |
+| 70 | Indonesia | 3.70 | 2008 est. |
+| 71 | Benin | 3.50 | 2008 est. |
+| 72 | Israel | 3.50 | 2008 est. |
+| 73 | Oman | 3.50 | 2008 est. |
+| 74 | Russia | 3.50 | 2008 est. |
+| 75 | Thailand | 3.40 | 2008 est. |
+| 76 | Algeria | 3.20 | 2008 est. |
+| 77 | Greece | 3.20 | 2008 est. |
+| 78 | San Marino | 3.10 | 2007 |
+| 79 | Albania | 3.00 | 2008 est. |
+| 80 | Togo | 3.00 | 2008 est. |
+| 81 | Nicaragua | 3.00 | 2008 est. |
+| 82 | Mongolia | 3.00 | 2006 est. |
+| 83 | Madagascar | 3.00 | 2008 est. |
+| 84 | Cote d'Ivoire | 3.00 | 2008 est. |
+| 85 | Central African Republic | 3.00 | 2002 |
+| 86 | Australia | 3.00 | 2008 est. |
+| 87 | Netherlands | 2.90 | 2008 est. |
+| 88 | Nigeria | 2.80 | 2008 est. |
+| 89 | Yemen | 2.80 | 2008 est. |
+| 90 | Samoa | 2.80 | 2000 |
+| 91 | Tunisia | 2.70 | 2008 est. |
+| 92 | Venezuela | 2.50 | 2008 est. |
+| 93 | Armenia | 2.40 | 2008 est. |
+| 94 | Kazakhstan | 2.40 | 2008 est. |
+| 95 | Gaza Strip | 2.40 | 2005 |
+| 96 | West Bank | 2.40 | 2005 |
+| 97 | Saudi Arabia | 2.40 | 2008 est. |
+| 98 | Austria | 2.40 | 2008 est. |
+| 99 | Guyana | 2.40 | 2008 est. |
+| 100 | Syria | 2.30 | 2008 est. |
+| 101 | Korea, South | 2.20 | 2008 est. |
+| 102 | Belgium | 2.00 | 2008 est. |
+| 103 | Eritrea | 2.00 | 2008 est. |
+| 104 | Mauritania | 2.00 | 2000 est. |
+| 105 | Seychelles | 2.00 | 2008 est. |
+| 106 | Chad | 2.00 | 2008 est. |
+| 107 | Cuba | 1.90 | 2008 est. |
+| 108 | Belize | 1.80 | 2008 est. |
+| 109 | Brunei | 1.80 | 2006 est. |
+| 110 | Nepal | 1.80 | FY08 |
+| 111 | Serbia | 1.80 | 2007 est. |
+| 112 | Croatia | 1.70 | 2008 est. |
+| 113 | Luxembourg | 1.70 | 2007 est. |
+| 114 | Slovenia | 1.70 | 2008 est. |
+| 115 | Bulgaria | 1.50 | 2008 est. |
+| 116 | Lithuania | 1.50 | 2008 est. |
+| 117 | El Salvador | 1.50 | 2008 est. |
+| 118 | Guatemala | 1.40 | 2008 est. |
+| 119 | Dominican Republic | 1.30 | 2008 est. |
+| 120 | Swaziland | 1.10 | 2008 est. |
+| 121 | Cook Islands | 1.00 | 2002 |
+| 122 | Tonga | 1.00 | 2003 est. |
+| 123 | South Africa | 1.00 | 2008 est. |
+| 124 | Gabon | 1.00 | 2008 est. |
+| 125 | Malaysia | 1.00 | 2008 est. |
+| 126 | Colombia | 0.80 | 2008 est. |
+| 127 | Namibia | 0.80 | 2008 est. |
+| 128 | Chile | 0.70 | 2008 est. |
+| 129 | Finland | 0.40 | 2008 est. |
+| 130 | Gambia, The | 0.30 | 2008 est. |
+| 131 | Germany | 0.10 | 2008 est. |
+| 132 | Sudan | 0.10 | 2008 est. |
+| 133 | Haiti | 0.00 | 2008 est. |
+| 134 | Iceland | 0.00 | 2008 est. |
+| 135 | Norway | -0.20 | 2008 est. |
+| 136 | Jamaica | -0.50 | 2008 est. |
+| 137 | European Union | -0.60 | 2008 est. |
+| 138 | Turkey | -0.60 | 2008 est. |
+| 139 | Mexico | -0.70 | 2008 est. |
+| 140 | Singapore | -0.80 | 2008 est. |
+| 141 | Maldives | -0.90 | 2004 est. |
+| 142 | Georgia | -1.00 | 2008 est. |
+| 143 | Moldova | -1.00 | 2008 est. |
+| 144 | Hungary | -1.00 | 2008 est. |
+| 145 | Costa Rica | -1.10 | 2008 est. |
+| 146 | Hong Kong | -1.20 | 2008 est. |
+| 147 | Taiwan | -1.20 | 2008 est. |
+| 148 | Turkmenistan | -1.50 | 2008 est. |
+| 149 | France | -1.80 | 2008 est. |
+| 150 | Sweden | -1.80 | 2008 est. |
+| 151 | Comoros | -2.00 | 1999 est. |
+| 152 | United States | -2.00 | 2008 est. |
+| 153 | Japan | -2.00 | 2008 est. |
+| 154 | United Kingdom | -2.00 | 2008 est. |
+| 155 | New Zealand | -2.20 | 2008 est. |
+| 156 | Portugal | -2.20 | 2008 est. |
+| 157 | Spain | -2.30 | 2008 est. |
+| 158 | Botswana | -2.40 | 2008 est. |
+| 159 | Canada | -2.80 | 2008 est. |
+| 160 | Italy | -2.80 | 2008 est. |
+| 161 | Denmark | -3.00 | 2008 est. |
+| 162 | Barbados | -3.20 | 2000 est. |
+| 163 | Slovakia | -3.70 | 2008 est. |
+| 164 | Tajikistan | -4.00 | 2008 est. |
+| 165 | Latvia | -4.50 | 2008 est. |
+| 166 | Estonia | -4.80 | 2008 est. |
+| 167 | Ukraine | -5.00 | 2008 est. |
+| 168 | Zimbabwe | -14.70 | 2008 est. |

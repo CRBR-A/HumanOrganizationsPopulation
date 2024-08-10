@@ -1,0 +1,27 @@
+Telephone Code: 382
+Local Emergency Phone: 94
+Climate: Mediterranean climate, hot dry summers and autumns and relatively cold winters with heavy snowfalls inland
+Currency (Code): Euros (EUR)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, F
+Major Languages: Serbian, Montenegrin, Bosnian, Albanian, Serbo-Croat
+Major Religions: Orthodox 72.1%, Muslim 19.1%, Catholic 3.4%, atheist 1.2%
+Time Difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time); daylight saving time: +1 hr, begins last Sunday in March; ends last Sunday in October
+Potable Water: Yes
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Sveti Stefan; Budva Old Town; Kotor (includes San Giovanni Fortress); Durmitor National Park (includes Tara Canyon, Black Lake); Stecci Medieval Tombstones; Podgorica
+Major Sports: Soccer, water polo, basketball, football, volleyball
+Cultural Practices: Conversations in Montenegro may involve more physical touching than those in America, with light touches and taps on the shoulder being common.
+Tipping Guidelines: Service charges are generally not included in restaurants and hotel bills, so a tip of 10% is appreciated. Taxi drivers do not expect tips, but a small gratuity is appropriate.
+Souvenirs: Traditional caps, brojanica prayer bracelets, cheese, honey, Amaro Montenegro liqueur, wine
+Traditional Cuisine: Brudet --- fish stew made with white fish and shellfish, as well as tomatoes, wine, and spices; typically served with polenta (coarsely ground corn)
+
+---
+country: Montenegro
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Montenegro/travel-facts>
+license: public domain (U.S.)
+...

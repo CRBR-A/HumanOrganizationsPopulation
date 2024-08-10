@@ -1,0 +1,650 @@
+CIA - The World Factbook --  GDP - composition by sector   
+
+This entry gives the percentage contribution of agriculture, industry, and services to total GDP. The distribution will total less than 100 percent if the data are incomplete.
+
+| Rank | country | (%) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Macau | 97.10 | 2007 est. |
+| 2 | Jersey | 97.00 | 2005 |
+| 3 | Cayman Islands | 95.40 | 1994 est. |
+| 4 | Monaco | 95.10 | 2005 |
+| 5 | Falkland Islands (Islas Malvinas) | 95.00 | 1996 |
+| 6 | Equatorial Guinea | 93.70 | 2008 est. |
+| 7 | Hong Kong | 92.70 | 2008 est. |
+| 8 | British Virgin Islands | 92.00 | 1996 est. |
+| 9 | Bahamas, The | 90.00 | 2001 est. |
+| 10 | Bermuda | 89.00 | 2002 est. |
+| 11 | Guernsey | 87.00 | 2000 |
+| 12 | Isle of Man | 86.00 | 2000 est. |
+| 13 | Luxembourg | 86.00 | 2007 est. |
+| 14 | Netherlands Antilles | 84.00 | 2000 est. |
+| 15 | Saint Martin | 84.00 | 2000 |
+| 16 | Djibouti | 81.90 | 2006 est. |
+| 17 | Palau | 81.80 | 2003 |
+| 18 | Malta | 80.60 | 2007 est. |
+| 19 | Saint Lucia | 80.00 | 2005 est. |
+| 20 | Virgin Islands | 80.00 | 2003 est. |
+| 21 | United States | 79.60 | 2008 est. |
+| 22 | Gaza Strip | 79.00 | 2007 est. |
+| 23 | West Bank | 79.00 | 2007 est. |
+| 24 | Cyprus | 78.30 | 2008 est. |
+| 25 | Anguilla | 78.00 | 2002 est. |
+| 26 | Barbados | 78.00 | 2000 est. |
+| 27 | Fiji | 77.60 | 2004 est. |
+| 28 | France | 77.60 | 2008 est. |
+| 29 | Liberia | 76.90 | 2002 est. |
+| 30 | Grenada | 76.60 | 2003 |
+| 31 | Panama | 76.40 | 2008 est. |
+| 32 | New Caledonia | 76.20 | 2003 |
+| 33 | Belgium | 76.10 | 2008 est. |
+| 34 | French Polynesia | 76.10 | 2005 |
+| 35 | Lebanon | 76.10 | 2008 est. |
+| 36 | Maldives | 76.00 | 2006 est. |
+| 37 | Greece | 75.70 | 2008 est. |
+| 38 | Montserrat | 75.70 | 1999 est. |
+| 39 | Cook Islands | 75.30 | 2004 |
+| 40 | Samoa | 75.30 | 2004 est. |
+| 41 | Brunei | 75.00 | 2005 est. |
+| 42 | Qatar | 74.90 | 2008 est. |
+| 43 | United Kingdom | 74.50 | 2008 est. |
+| 44 | Cape Verde | 74.40 | 2008 est. |
+| 45 | Antigua and Barbuda | 74.30 | 2002 est. |
+| 46 | Latvia | 74.20 | 2008 est. |
+| 47 | Taiwan | 73.20 | 2008 est. |
+| 48 | Netherlands | 72.90 | 2008 est. |
+| 49 | Cuba | 72.80 | 2008 est. |
+| 50 | Denmark | 72.60 | 2008 est. |
+| 51 | Japan | 72.30 | 2008 est. |
+| 52 | Portugal | 72.20 | 2008 est. |
+| 53 | Singapore | 72.20 | 2008 est. |
+| 54 | Italy | 71.00 | 2008 est. |
+| 55 | European Union | 70.90 | 2008 est. |
+| 56 | Libya | 70.90 | 2008 est. |
+| 57 | Sao Tome and Principe | 70.80 | 2008 est. |
+| 58 | Saint Kitts and Nevis | 70.70 | 2001 |
+| 59 | Mauritius | 70.50 | 2008 est. |
+| 60 | Sweden | 70.50 | 2008 est. |
+| 61 | Peru | 70.30 | 2008 est. |
+| 62 | New Zealand | 69.90 | 2008 est. |
+| 63 | Australia | 69.80 | 2008 est. |
+| 64 | Iceland | 69.80 | 2008 est. |
+| 65 | Canada | 69.60 | 2008 est. |
+| 66 | Seychelles | 69.20 | 2008 est. |
+| 67 | Germany | 69.10 | 2008 est. |
+| 68 | Estonia | 68.40 | 2008 est. |
+| 69 | Iraq | 68.00 | 2006 est. |
+| 70 | Costa Rica | 67.60 | 2008 est. |
+| 71 | Spain | 67.60 | 2008 est. |
+| 72 | Austria | 67.40 | 2008 est. |
+| 73 | Uruguay | 67.10 | 2008 est. |
+| 74 | Kiribati | 66.80 | 2004 |
+| 75 | Jordan | 66.50 | 2008 est. |
+| 76 | Aruba | 66.30 | 2002 est. |
+| 77 | Croatia | 66.30 | 2008 est. |
+| 78 | Dominican Republic | 66.30 | 2008 est. |
+| 79 | Bahrain | 66.20 | 2008 est. |
+| 80 | Bosnia and Herzegovina | 66.00 | 2006 est. |
+| 81 | Angola | 65.80 | 2008 est. |
+| 82 | Brazil | 65.30 | 2008 est. |
+| 83 | Israel | 65.00 | 2008 est. |
+| 84 | Somalia | 65.00 | 2005 est. |
+| 85 | Finland | 64.90 | 2008 est. |
+| 86 | Suriname | 64.80 | 2005 est. |
+| 87 | Senegal | 64.60 | 2008 est. |
+| 88 | Switzerland | 64.50 | 2003 est. |
+| 89 | Poland | 64.30 | 2008 est. |
+| 90 | Slovenia | 64.30 | 2008 est. |
+| 91 | Saint Vincent and the Grenadines | 64.00 | 2001 est. |
+| 92 | Turkey | 63.80 | 2008 est. |
+| 93 | Serbia | 63.50 | 2007 est. |
+| 94 | Lithuania | 63.30 | 2008 est. |
+| 95 | South Africa | 63.00 | 2008 est. |
+| 96 | United Arab Emirates | 62.70 | 2008 est. |
+| 97 | Algeria | 62.30 | 2008 est. |
+| 98 | Trinidad and Tobago | 62.30 | 2008 est. |
+| 99 | Bulgaria | 62.20 | 2008 est. |
+| 100 | Jamaica | 62.20 | 2008 est. |
+| 101 | Faroe Islands | 62.00 | 1999 |
+| 102 | Guinea-Bissau | 62.00 | 1999 est. |
+| 103 | Vanuatu | 62.00 | 2000 est. |
+| 104 | Guatemala | 61.90 | 2008 est. |
+| 105 | Saudi Arabia | 61.90 | 2008 est. |
+| 106 | Oman | 61.80 | 2008 est. |
+| 107 | Mexico | 61.00 | 2008 est. |
+| 108 | Macedonia | 60.70 | 2008 est. |
+| 109 | El Salvador | 60.60 | 2008 est. |
+| 110 | Moldova | 60.60 | 2008 est. |
+| 111 | Azerbaijan | 60.50 | 2008 est. |
+| 112 | Hungary | 60.20 | 2008 est. |
+| 113 | Czech Republic | 60.10 | 2008 est. |
+| 114 | Kosovo | 60.00 | 2007 est. |
+| 115 | Albania | 59.70 | 2008 est. |
+| 116 | Georgia | 59.60 | 2008 est. |
+| 117 | Kenya | 59.50 | 2007 est. |
+| 118 | Eritrea | 59.40 | 2008 est. |
+| 119 | Zimbabwe | 59.30 | 2008 est. |
+| 120 | Ecuador | 59.00 | 2008 est. |
+| 121 | Gambia, The | 59.00 | 2008 est. |
+| 122 | Slovakia | 59.00 | 2008 est. |
+| 123 | Ukraine | 58.90 | 2008 est. |
+| 124 | Venezuela | 58.60 | 2008 est. |
+| 125 | Madagascar | 58.50 | 2008 est. |
+| 126 | Paraguay | 58.20 | 2008 est. |
+| 127 | Gabon | 57.80 | 2008 est. |
+| 128 | Russia | 57.70 | 2008 est. |
+| 129 | Korea, South | 57.60 | 2008 est. |
+| 130 | Argentina | 57.40 | 2008 est. |
+| 131 | Zambia | 57.40 | 2008 est. |
+| 132 | Sri Lanka | 57.30 | 2008 est. |
+| 133 | Nicaragua | 57.30 | 2008 est. |
+| 134 | Congo, Republic of the | 57.10 | 2006 est. |
+| 135 | Tonga | 57.00 | FY05/06 est. |
+| 136 | Honduras | 56.90 | 2008 est. |
+| 137 | Yemen | 56.50 | 2008 est. |
+| 138 | Tuvalu | 56.20 | 2002 |
+| 139 | Comoros | 56.00 | 2001 est. |
+| 140 | Micronesia, Federated States of | 55.90 | 2004 est. |
+| 141 | Romania | 55.90 | 2008 est. |
+| 142 | Congo, Democratic Republic of the | 55.00 | 2000 est. |
+| 143 | Timor-Leste | 55.00 | 2005 |
+| 144 | Central African Republic | 55.00 | 2001 est. |
+| 145 | Syria | 54.60 | 2008 est. |
+| 146 | Belize | 54.10 | 2008 est. |
+| 147 | Morocco | 54.10 | 2008 est. |
+| 148 | Liechtenstein | 54.00 | 2007 |
+| 149 | Puerto Rico | 54.00 | 2005 est. |
+| 150 | Namibia | 54.00 | 2008 est. |
+| 151 | Uganda | 53.90 | 2008 est. |
+| 152 | Kazakhstan | 53.80 | 2008 est. |
+| 153 | Norway | 53.80 | 2008 est. |
+| 154 | Philippines | 53.70 | 2008 est. |
+| 155 | India | 53.40 | 2008 est. |
+| 156 | Marshall Islands | 53.40 | 2004 est. |
+| 157 | San Marino | 53.40 | 2007 |
+| 158 | Pakistan | 53.00 | 2008 est. |
+| 159 | Colombia | 52.90 | 2008 est. |
+| 160 | Botswana | 52.60 | 2008 est. |
+| 161 | Tunisia | 52.50 | 2008 est. |
+| 162 | Bangladesh | 52.30 | 2008 est. |
+| 163 | Benin | 52.30 | 2007 est. |
+| 164 | Kuwait | 52.20 | 2008 est. |
+| 165 | Haiti | 52.00 | 2004 est. |
+| 166 | Turkmenistan | 51.90 | 2008 est. |
+| 167 | Bolivia | 51.80 | 2008 est. |
+| 168 | Burkina Faso | 51.00 | 2008 est. |
+| 169 | Nepal | 50.90 | FY07 est. |
+| 170 | Nigeria | 50.80 | 2008 est. |
+| 171 | Kyrgyzstan | 50.60 | 2008 est. |
+| 172 | Chile | 50.50 | 2008 est. |
+| 173 | Cote d'Ivoire | 50.40 | 2008 est. |
+| 174 | Tanzania | 50.40 | 2008 est. |
+| 175 | Belarus | 50.30 | 2008 est. |
+| 176 | Guyana | 50.20 | 2008 est. |
+| 177 | Tajikistan | 50.20 | 2008 est. |
+| 178 | Dominica | 49.50 | 2004 est. |
+| 179 | Niue | 49.50 | 2003 |
+| 180 | Armenia | 49.40 | 2008 est. |
+| 181 | Ireland | 49.00 | 2002 est. |
+| 182 | Sierra Leone | 49.00 | 2005 est. |
+| 183 | China | 48.60 | 2008 est. |
+| 184 | Egypt | 48.10 | 2008 est. |
+| 185 | Indonesia | 48.10 | 2008 est. |
+| 186 | Chad | 48.00 | 2008 est. |
+| 187 | Iran | 47.80 | 2008 est. |
+| 188 | Kuwait | 47.50 | 2008 est. |
+| 189 | Solomon Islands | 47.00 | 2005 est. |
+| 190 | Mauritania | 46.70 | 2008 est. |
+| 191 | San Marino | 46.50 | 2007 |
+| 192 | Lesotho | 46.40 | 2008 est. |
+| 193 | Malaysia | 46.30 | 2008 est. |
+| 194 | Ireland | 46.00 | 2002 est. |
+| 195 | Swaziland | 46.00 | 2008 est. |
+| 196 | Botswana | 45.80 | 2008 est. |
+| 197 | Burundi | 45.60 | 2008 est. |
+| 198 | Mozambique | 45.60 | 2008 est. |
+| 199 | Thailand | 45.10 | 2008 est. |
+| 200 | Mali | 45.00 | 2001 est. |
+| 201 | Puerto Rico | 45.00 | 2005 est. |
+| 202 | Ethiopia | 44.90 | 2008 est. |
+| 203 | Chile | 44.70 | 2008 est. |
+| 204 | Norway | 44.20 | 2008 est. |
+| 205 | Malawi | 44.00 | 2008 est. |
+| 206 | Niger | 44.00 | 2001 |
+| 207 | Malaysia | 43.70 | 2008 est. |
+| 208 | Cameroon | 43.60 | 2008 est. |
+| 209 | Thailand | 43.30 | 2008 est. |
+| 210 | Rwanda | 43.20 | 2008 est. |
+| 211 | Korea, North | 43.10 | 2002 est. |
+| 212 | Afghanistan | 43.00 | 2008 est. |
+| 213 | Uzbekistan | 42.80 | 2008 est. |
+| 214 | Swaziland | 42.80 | 2008 est. |
+| 215 | Mongolia | 42.70 | 2008 |
+| 216 | Ethiopia | 42.30 | 2008 est. |
+| 217 | Solomon Islands | 42.00 | 2005 est. |
+| 218 | Iran | 41.90 | 2008 est. |
+| 219 | Belarus | 41.20 | 2008 est. |
+| 220 | Cambodia | 41.00 | 2007 est. |
+| 221 | Burma | 40.90 | 2008 est. |
+| 222 | Kazakhstan | 40.90 | 2008 est. |
+| 223 | Mauritania | 40.70 | 2008 est. |
+| 224 | Cameroon | 40.50 | 2008 est. |
+| 225 | China | 40.10 | 2008 est. |
+| 226 | Comoros | 40.00 | 2001 est. |
+| 227 | Western Sahara | 40.00 | 2007 est. |
+| 228 | Togo | 40.00 | 2008 est. |
+| 229 | Vietnam | 39.90 | 2008 est. |
+| 230 | Bhutan | 39.80 | 2006 |
+| 231 | Guinea | 39.50 | 2008 est. |
+| 232 | Korea, South | 39.50 | 2008 est. |
+| 233 | Burma | 39.20 | 2008 est. |
+| 234 | Malawi | 39.20 | 2008 est. |
+| 235 | Laos | 39.20 | 2008 est. |
+| 236 | Liechtenstein | 39.00 | 2007 |
+| 237 | Niger | 39.00 | 2001 |
+| 238 | Turkmenistan | 39.00 | 2008 est. |
+| 239 | Egypt | 38.70 | 2008 est. |
+| 240 | Lesotho | 38.50 | 2008 est. |
+| 241 | Mongolia | 38.50 | 2008 |
+| 242 | Colombia | 38.10 | 2008 est. |
+| 243 | Vietnam | 38.10 | 2008 est. |
+| 244 | Mali | 38.00 | 2001 est. |
+| 245 | Bhutan | 37.90 | 2006 |
+| 246 | Czech Republic | 37.60 | 2008 est. |
+| 247 | Russia | 37.60 | 2008 est. |
+| 248 | Venezuela | 37.60 | 2008 est. |
+| 249 | Ghana | 37.50 | 2006 est. |
+| 250 | Indonesia | 37.50 | 2008 est. |
+| 251 | Congo, Republic of the | 37.30 | 2006 est. |
+| 252 | Ghana | 37.30 | 2006 est. |
+| 253 | Guinea | 37.30 | 2008 est. |
+| 254 | Slovakia | 37.20 | 2008 est. |
+| 255 | Trinidad and Tobago | 37.20 | 2008 est. |
+| 256 | Tunisia | 37.00 | 2008 est. |
+| 257 | Namibia | 37.00 | 2008 est. |
+| 258 | Bolivia | 36.90 | 2008 est. |
+| 259 | Hungary | 36.90 | 2008 est. |
+| 260 | Gabon | 36.60 | 2008 est. |
+| 261 | Papua New Guinea | 36.30 | 2008 est. |
+| 262 | Oman | 36.10 | 2008 est. |
+| 263 | Romania | 36.00 | 2008 est. |
+| 264 | United Arab Emirates | 35.70 | 2008 est. |
+| 265 | Mexico | 35.20 | 2008 est. |
+| 266 | Saudi Arabia | 35.00 | 2008 est. |
+| 267 | Togo | 35.00 | 2008 est. |
+| 268 | Sudan | 34.70 | 2008 est. |
+| 269 | Rwanda | 34.50 | 2008 est. |
+| 270 | Ecuador | 34.30 | 2008 est. |
+| 271 | Laos | 34.30 | 2008 est. |
+| 272 | Sudan | 34.30 | 2008 est. |
+| 273 | Congo, Democratic Republic of the | 34.00 | 2000 est. |
+| 274 | Switzerland | 34.00 | 2003 est. |
+| 275 | Armenia | 33.80 | 2008 est. |
+| 276 | South Africa | 33.70 | 2008 est. |
+| 277 | Korea, North | 33.60 | 2002 est. |
+| 278 | Azerbaijan | 33.50 | 2008 est. |
+| 279 | Burundi | 33.40 | 2008 est. |
+| 280 | Slovenia | 33.40 | 2008 est. |
+| 281 | Aruba | 33.30 | 2002 est. |
+| 282 | Gambia, The | 33.30 | 2008 est. |
+| 283 | Bahrain | 33.30 | 2008 est. |
+| 284 | Papua New Guinea | 33.30 | 2008 est. |
+| 285 | Benin | 33.20 | 2007 est. |
+| 286 | Yemen | 33.20 | 2008 est. |
+| 287 | Dominica | 32.80 | 2004 est. |
+| 288 | Argentina | 32.70 | 2008 est. |
+| 289 | Jamaica | 32.60 | 2008 est. |
+| 290 | Nepal | 32.50 | FY07 est. |
+| 291 | Finland | 32.40 | 2008 est. |
+| 292 | Israel | 32.40 | 2008 est. |
+| 293 | Lithuania | 32.20 | 2008 est. |
+| 294 | Timor-Leste | 32.20 | 2005 |
+| 295 | Marshall Islands | 31.70 | 2004 est. |
+| 296 | Ukraine | 31.70 | 2008 est. |
+| 297 | Philippines | 31.60 | 2008 est. |
+| 298 | Chad | 31.50 | 2008 est. |
+| 299 | Uzbekistan | 31.40 | 2008 est. |
+| 300 | Poland | 31.20 | 2008 est. |
+| 301 | Nigeria | 31.10 | 2008 est. |
+| 302 | Afghanistan | 31.00 | 2008 est. |
+| 303 | Sudan | 31.00 | 2008 est. |
+| 304 | Sierra Leone | 31.00 | 2005 est. |
+| 305 | Mozambique | 30.90 | 2008 est. |
+| 306 | Austria | 30.70 | 2008 est. |
+| 307 | Bulgaria | 30.50 | 2008 est. |
+| 308 | Papua New Guinea | 30.40 | 2008 est. |
+| 309 | Germany | 30.10 | 2008 est. |
+| 310 | Morocco | 30.10 | 2008 est. |
+| 311 | Cambodia | 30.00 | 2007 est. |
+| 312 | Honduras | 30.00 | 2008 est. |
+| 313 | Jordan | 29.90 | 2008 est. |
+| 314 | Kyrgyzstan | 29.80 | 2008 est. |
+| 315 | Algeria | 29.40 | 2008 est. |
+| 316 | Sri Lanka | 29.40 | 2008 est. |
+| 317 | Burkina Faso | 29.10 | 2008 est. |
+| 318 | Belize | 29.00 | 2008 est. |
+| 319 | Estonia | 29.00 | 2008 est. |
+| 320 | Cambodia | 29.00 | 2007 est. |
+| 321 | Spain | 29.00 | 2008 est. |
+| 322 | India | 29.00 | 2008 est. |
+| 323 | Micronesia, Federated States of | 28.90 | 2004 est. |
+| 324 | Seychelles | 28.90 | 2008 est. |
+| 325 | El Salvador | 28.80 | 2008 est. |
+| 326 | Bangladesh | 28.60 | 2008 est. |
+| 327 | Canada | 28.40 | 2008 est. |
+| 328 | Brazil | 28.00 | 2008 est. |
+| 329 | Sweden | 28.00 | 2008 est. |
+| 330 | Cote d'Ivoire | 28.00 | 2008 est. |
+| 331 | Haiti | 28.00 | 2004 est. |
+| 332 | Georgia | 27.90 | 2008 est. |
+| 333 | Macedonia | 27.80 | 2008 est. |
+| 334 | Singapore | 27.80 | 2008 est. |
+| 335 | Croatia | 27.70 | 2008 est. |
+| 336 | Turkey | 27.50 | 2008 est. |
+| 337 | Libya | 27.40 | 2008 est. |
+| 338 | Tuvalu | 27.20 | 2002 |
+| 339 | European Union | 27.10 | 2008 est. |
+| 340 | Tanzania | 27.10 | 2008 est. |
+| 341 | Tajikistan | 27.10 | 2008 est. |
+| 342 | Faroe Islands | 27.00 | 1999 |
+| 343 | Italy | 27.00 | 2008 est. |
+| 344 | Iraq | 27.00 | 2006 est. |
+| 345 | Niue | 26.90 | 2003 |
+| 346 | Syria | 26.90 | 2008 est. |
+| 347 | Australia | 26.80 | 2008 est. |
+| 348 | Pakistan | 26.60 | 2008 est. |
+| 349 | Zambia | 26.60 | 2008 est. |
+| 350 | Laos | 26.50 | 2008 est. |
+| 351 | Japan | 26.30 | 2008 est. |
+| 352 | Madagascar | 26.20 | 2008 est. |
+| 353 | Denmark | 26.10 | 2008 est. |
+| 354 | Afghanistan | 26.00 | 2008 est. |
+| 355 | Saint Vincent and the Grenadines | 26.00 | 2001 est. |
+| 356 | Guinea-Bissau | 26.00 | 1999 est. |
+| 357 | Vanuatu | 26.00 | 2000 est. |
+| 358 | Costa Rica | 25.90 | 2008 est. |
+| 359 | Nicaragua | 25.80 | 2008 est. |
+| 360 | Saint Kitts and Nevis | 25.80 | 2001 |
+| 361 | Uzbekistan | 25.80 | 2008 est. |
+| 362 | New Zealand | 25.70 | 2008 est. |
+| 363 | Netherlands | 25.50 | 2008 est. |
+| 364 | Ghana | 25.30 | 2006 est. |
+| 365 | Iceland | 25.20 | 2008 est. |
+| 366 | Qatar | 25.10 | 2008 est. |
+| 367 | Taiwan | 25.10 | 2008 est. |
+| 368 | Brunei | 25.00 | 2005 est. |
+| 369 | Guatemala | 25.00 | 2008 est. |
+| 370 | Togo | 25.00 | 2008 est. |
+| 371 | Tonga | 25.00 | FY05/06 est. |
+| 372 | Somalia | 25.00 | 2005 est. |
+| 373 | Portugal | 25.00 | 2008 est. |
+| 374 | Central African Republic | 25.00 | 2001 est. |
+| 375 | Guyana | 24.90 | 2008 est. |
+| 376 | Guyana | 24.90 | 2008 est. |
+| 377 | Mauritius | 24.90 | 2008 est. |
+| 378 | Angola | 24.60 | 2008 est. |
+| 379 | Uganda | 24.60 | 2008 est. |
+| 380 | Suriname | 24.40 | 2005 est. |
+| 381 | Kiribati | 24.20 | 2004 |
+| 382 | Serbia | 24.20 | 2007 est. |
+| 383 | United Kingdom | 24.20 | 2008 est. |
+| 384 | Bosnia and Herzegovina | 23.90 | 2006 est. |
+| 385 | Kenya | 23.80 | 2007 est. |
+| 386 | Mozambique | 23.50 | 2008 est. |
+| 387 | Niue | 23.50 | 2003 |
+| 388 | Paraguay | 23.40 | 2008 est. |
+| 389 | Uruguay | 23.40 | 2008 est. |
+| 390 | Korea, North | 23.30 | 2002 est. |
+| 391 | Belgium | 23.20 | 2008 est. |
+| 392 | Guinea | 23.20 | 2008 est. |
+| 393 | Eritrea | 23.20 | 2008 est. |
+| 394 | Montserrat | 23.10 | 1999 est. |
+| 395 | Dominican Republic | 22.90 | 2008 est. |
+| 396 | Cuba | 22.80 | 2008 est. |
+| 397 | Latvia | 22.70 | 2008 est. |
+| 398 | Tajikistan | 22.70 | 2008 est. |
+| 399 | Zimbabwe | 22.60 | 2008 est. |
+| 400 | Tanzania | 22.50 | 2008 est. |
+| 401 | Bhutan | 22.30 | 2006 |
+| 402 | Rwanda | 22.30 | 2008 est. |
+| 403 | Antigua and Barbuda | 22.00 | 2002 est. |
+| 404 | Vietnam | 22.00 | 2008 est. |
+| 405 | Cote d'Ivoire | 21.60 | 2008 est. |
+| 406 | Uganda | 21.50 | 2008 est. |
+| 407 | Peru | 21.20 | 2008 est. |
+| 408 | Burundi | 21.00 | 2008 est. |
+| 409 | Sierra Leone | 21.00 | 2005 est. |
+| 410 | Greece | 20.60 | 2008 est. |
+| 411 | Albania | 20.50 | 2008 est. |
+| 412 | Chad | 20.50 | 2008 est. |
+| 413 | French Polynesia | 20.40 | 2005 |
+| 414 | Pakistan | 20.40 | 2008 est. |
+| 415 | France | 20.40 | 2008 est. |
+| 416 | Central African Republic | 20.00 | 2001 est. |
+| 417 | Moldova | 20.00 | 2008 est. |
+| 418 | Kosovo | 20.00 | 2007 est. |
+| 419 | Kosovo | 20.00 | 2007 est. |
+| 420 | Haiti | 20.00 | 2004 est. |
+| 421 | Burkina Faso | 19.90 | 2008 est. |
+| 422 | Albania | 19.80 | 2008 est. |
+| 423 | Burma | 19.80 | 2008 est. |
+| 424 | Kyrgyzstan | 19.70 | 2008 est. |
+| 425 | Cyprus | 19.60 | 2008 est. |
+| 426 | Moldova | 19.40 | 2008 est. |
+| 427 | Senegal | 19.30 | 2008 est. |
+| 428 | United States | 19.20 | 2008 est. |
+| 429 | Bangladesh | 19.10 | 2008 est. |
+| 430 | Virgin Islands | 19.00 | 2003 est. |
+| 431 | Lebanon | 18.80 | 2008 est. |
+| 432 | Mongolia | 18.80 | 2008 |
+| 433 | Syria | 18.50 | 2008 est. |
+| 434 | Paraguay | 18.40 | 2008 est. |
+| 435 | Nigeria | 18.10 | 2008 est. |
+| 436 | Zimbabwe | 18.10 | 2008 est. |
+| 437 | Anguilla | 18.00 | 2002 est. |
+| 438 | Malta | 18.00 | 2007 est. |
+| 439 | Grenada | 18.00 | 2003 |
+| 440 | Dominica | 17.70 | 2004 est. |
+| 441 | Liberia | 17.70 | 2002 est. |
+| 442 | India | 17.60 | 2008 est. |
+| 443 | Eritrea | 17.40 | 2008 est. |
+| 444 | Panama | 17.20 | 2008 est. |
+| 445 | Mali | 17.00 | 2001 est. |
+| 446 | Maldives | 17.00 | 2006 est. |
+| 447 | Tonga | 17.00 | FY05/06 est. |
+| 448 | Niger | 17.00 | 2001 |
+| 449 | Belize | 16.90 | 2008 est. |
+| 450 | Nicaragua | 16.90 | 2008 est. |
+| 451 | Malawi | 16.80 | 2008 est. |
+| 452 | Armenia | 16.70 | 2008 est. |
+| 453 | Kenya | 16.70 | 2007 est. |
+| 454 | Cape Verde | 16.60 | 2008 est. |
+| 455 | Tuvalu | 16.60 | 2002 |
+| 456 | Nepal | 16.60 | FY07 est. |
+| 457 | Senegal | 16.10 | 2008 est. |
+| 458 | Barbados | 16.00 | 2000 est. |
+| 459 | Zambia | 16.00 | 2008 est. |
+| 460 | Cameroon | 15.90 | 2008 est. |
+| 461 | Morocco | 15.70 | 2008 est. |
+| 462 | Micronesia, Federated States of | 15.20 | 2004 est. |
+| 463 | Madagascar | 15.20 | 2008 est. |
+| 464 | Cook Islands | 15.10 | 2004 |
+| 465 | Lesotho | 15.10 | 2008 est. |
+| 466 | New Caledonia | 15.00 | 2003 |
+| 467 | Saint Lucia | 15.00 | 2005 est. |
+| 468 | Netherlands Antilles | 15.00 | 2000 est. |
+| 469 | Saint Martin | 15.00 | 2000 |
+| 470 | Djibouti | 14.90 | 2006 est. |
+| 471 | Marshall Islands | 14.90 | 2004 est. |
+| 472 | Philippines | 14.70 | 2008 est. |
+| 473 | Sao Tome and Principe | 14.60 | 2008 est. |
+| 474 | Sao Tome and Principe | 14.60 | 2008 est. |
+| 475 | Benin | 14.50 | 2007 est. |
+| 476 | Indonesia | 14.40 | 2008 est. |
+| 477 | Luxembourg | 13.60 | 2007 est. |
+| 478 | Fiji | 13.50 | 2004 est. |
+| 479 | Sri Lanka | 13.40 | 2008 est. |
+| 480 | Egypt | 13.20 | 2008 est. |
+| 481 | Guatemala | 13.10 | 2008 est. |
+| 482 | Honduras | 13.10 | 2008 est. |
+| 483 | Samoa | 13.10 | 2004 est. |
+| 484 | Gaza Strip | 13.00 | 2007 est. |
+| 485 | Isle of Man | 13.00 | 2000 est. |
+| 486 | West Bank | 13.00 | 2007 est. |
+| 487 | Ethiopia | 12.80 | 2008 est. |
+| 488 | Timor-Leste | 12.80 | 2005 |
+| 489 | Georgia | 12.50 | 2008 est. |
+| 490 | Mauritania | 12.50 | 2008 est. |
+| 491 | Serbia | 12.30 | 2007 est. |
+| 492 | Vanuatu | 12.00 | 2000 est. |
+| 493 | Guinea-Bissau | 12.00 | 1999 est. |
+| 494 | Palau | 12.00 | 2003 |
+| 495 | Thailand | 11.60 | 2008 est. |
+| 496 | Samoa | 11.60 | 2004 est. |
+| 497 | Macedonia | 11.50 | 2008 est. |
+| 498 | Bolivia | 11.30 | 2008 est. |
+| 499 | China | 11.30 | 2008 est. |
+| 500 | Swaziland | 11.20 | 2008 est. |
+| 501 | Solomon Islands | 11.00 | 2005 est. |
+| 502 | Faroe Islands | 11.00 | 1999 |
+| 503 | Congo, Democratic Republic of the | 11.00 | 2000 est. |
+| 504 | Dominican Republic | 10.80 | 2008 est. |
+| 505 | Suriname | 10.80 | 2005 est. |
+| 506 | El Salvador | 10.70 | 2008 est. |
+| 507 | Tunisia | 10.50 | 2008 est. |
+| 508 | Yemen | 10.30 | 2008 est. |
+| 509 | Bosnia and Herzegovina | 10.20 | 2006 est. |
+| 510 | Iran | 10.20 | 2008 est. |
+| 511 | Malaysia | 10.10 | 2008 est. |
+| 512 | Bermuda | 10.00 | 2002 est. |
+| 513 | Somalia | 10.00 | 2005 est. |
+| 514 | Guernsey | 10.00 | 2000 |
+| 515 | Saint Vincent and the Grenadines | 10.00 | 2001 est. |
+| 516 | Argentina | 9.90 | 2008 est. |
+| 517 | Cook Islands | 9.60 | 2004 |
+| 518 | Uruguay | 9.50 | 2008 est. |
+| 519 | Ukraine | 9.30 | 2008 est. |
+| 520 | Angola | 9.20 | 2008 est. |
+| 521 | Cape Verde | 9.10 | 2008 est. |
+| 522 | Turkmenistan | 9.10 | 2008 est. |
+| 523 | Colombia | 9.00 | 2008 est. |
+| 524 | Namibia | 9.00 | 2008 est. |
+| 525 | Fiji | 8.90 | 2004 est. |
+| 526 | Kiribati | 8.90 | 2004 |
+| 527 | New Caledonia | 8.80 | 2003 |
+| 528 | Turkey | 8.80 | 2008 est. |
+| 529 | Belarus | 8.50 | 2008 est. |
+| 530 | Peru | 8.50 | 2008 est. |
+| 531 | Algeria | 8.30 | 2008 est. |
+| 532 | Romania | 8.10 | 2008 est. |
+| 533 | Gaza Strip | 8.00 | 2007 est. |
+| 534 | West Bank | 8.00 | 2007 est. |
+| 535 | Liechtenstein | 8.00 | 2007 |
+| 536 | Gambia, The | 7.60 | 2008 est. |
+| 537 | Hong Kong | 7.40 | 2008 est. |
+| 538 | Bulgaria | 7.30 | 2008 est. |
+| 539 | Bahamas, The | 7.00 | 2001 est. |
+| 540 | Maldives | 7.00 | 2006 est. |
+| 541 | Brazil | 6.70 | 2008 est. |
+| 542 | Ecuador | 6.70 | 2008 est. |
+| 543 | Costa Rica | 6.50 | 2008 est. |
+| 544 | Panama | 6.40 | 2008 est. |
+| 545 | Palau | 6.20 | 2003 |
+| 546 | British Virgin Islands | 6.20 | 1996 est. |
+| 547 | Azerbaijan | 6.00 | 2008 est. |
+| 548 | Croatia | 6.00 | 2008 est. |
+| 549 | Barbados | 6.00 | 2000 est. |
+| 550 | Congo, Republic of the | 5.60 | 2006 est. |
+| 551 | Gabon | 5.60 | 2008 est. |
+| 552 | Grenada | 5.40 | 2003 |
+| 553 | Liberia | 5.40 | 2002 est. |
+| 554 | Kazakhstan | 5.30 | 2008 est. |
+| 555 | Jamaica | 5.20 | 2008 est. |
+| 556 | Lebanon | 5.10 | 2008 est. |
+| 557 | Ireland | 5.00 | 2002 est. |
+| 558 | Saint Lucia | 5.00 | 2005 est. |
+| 559 | Iceland | 5.00 | 2008 est. |
+| 560 | Iraq | 5.00 | 2006 est. |
+| 561 | Monaco | 4.90 | 2005 |
+| 562 | Chile | 4.80 | 2008 est. |
+| 563 | Russia | 4.70 | 2008 est. |
+| 564 | Mauritius | 4.60 | 2008 est. |
+| 565 | Lithuania | 4.50 | 2008 est. |
+| 566 | Poland | 4.50 | 2008 est. |
+| 567 | Cuba | 4.40 | 2008 est. |
+| 568 | New Zealand | 4.40 | 2008 est. |
+| 569 | Anguilla | 4.00 | 2002 est. |
+| 570 | Comoros | 4.00 | 2001 est. |
+| 571 | Equatorial Guinea | 3.90 | 2008 est. |
+| 572 | Antigua and Barbuda | 3.80 | 2002 est. |
+| 573 | Mexico | 3.80 | 2008 est. |
+| 574 | Venezuela | 3.80 | 2008 est. |
+| 575 | Greece | 3.70 | 2008 est. |
+| 576 | Slovakia | 3.70 | 2008 est. |
+| 577 | Jordan | 3.60 | 2008 est. |
+| 578 | French Polynesia | 3.50 | 2005 |
+| 579 | Saint Kitts and Nevis | 3.50 | 2001 |
+| 580 | Australia | 3.40 | 2008 est. |
+| 581 | Spain | 3.40 | 2008 est. |
+| 582 | South Africa | 3.30 | 2008 est. |
+| 583 | Cayman Islands | 3.20 | 1994 est. |
+| 584 | Djibouti | 3.20 | 2006 est. |
+| 585 | Latvia | 3.10 | 2008 est. |
+| 586 | Saudi Arabia | 3.10 | 2008 est. |
+| 587 | Bahamas, The | 3.00 | 2001 est. |
+| 588 | Korea, South | 3.00 | 2008 est. |
+| 589 | Guernsey | 3.00 | 2000 |
+| 590 | Hungary | 2.90 | 2008 est. |
+| 591 | Finland | 2.80 | 2008 est. |
+| 592 | Portugal | 2.80 | 2008 est. |
+| 593 | Macau | 2.80 | 2007 est. |
+| 594 | Estonia | 2.60 | 2008 est. |
+| 595 | Israel | 2.60 | 2008 est. |
+| 596 | Equatorial Guinea | 2.30 | 2008 est. |
+| 597 | Czech Republic | 2.30 | 2008 est. |
+| 598 | Slovenia | 2.20 | 2008 est. |
+| 599 | Cyprus | 2.10 | 2008 est. |
+| 600 | Oman | 2.10 | 2008 est. |
+| 601 | Canada | 2.00 | 2008 est. |
+| 602 | Seychelles | 2.00 | 2008 est. |
+| 603 | Norway | 2.00 | 2008 est. |
+| 604 | European Union | 2.00 | 2008 est. |
+| 605 | France | 2.00 | 2008 est. |
+| 606 | Jersey | 2.00 | 2005 |
+| 607 | Italy | 2.00 | 2008 est. |
+| 608 | Austria | 1.90 | 2008 est. |
+| 609 | British Virgin Islands | 1.80 | 1996 est. |
+| 610 | Libya | 1.70 | 2008 est. |
+| 611 | Taiwan | 1.70 | 2008 est. |
+| 612 | Netherlands | 1.70 | 2008 est. |
+| 613 | Botswana | 1.60 | 2008 est. |
+| 614 | Sweden | 1.60 | 2008 est. |
+| 615 | United Arab Emirates | 1.50 | 2008 est. |
+| 616 | Japan | 1.50 | 2008 est. |
+| 617 | Switzerland | 1.50 | 2003 est. |
+| 618 | Cayman Islands | 1.40 | 1994 est. |
+| 619 | Malta | 1.40 | 2007 est. |
+| 620 | Denmark | 1.30 | 2008 est. |
+| 621 | United Kingdom | 1.30 | 2008 est. |
+| 622 | Montserrat | 1.20 | 1999 est. |
+| 623 | United States | 1.20 | 2008 est. |
+| 624 | Bermuda | 1.00 | 2002 est. |
+| 625 | Isle of Man | 1.00 | 2000 est. |
+| 626 | Virgin Islands | 1.00 | 2003 est. |
+| 627 | Saint Martin | 1.00 | 2000 |
+| 628 | Puerto Rico | 1.00 | 2005 est. |
+| 629 | Netherlands Antilles | 1.00 | 2000 est. |
+| 630 | Jersey | 1.00 | 2005 |
+| 631 | Germany | 0.90 | 2008 est. |
+| 632 | Belgium | 0.80 | 2008 est. |
+| 633 | Brunei | 0.70 | 2005 est. |
+| 634 | Trinidad and Tobago | 0.50 | 2008 est. |
+| 635 | Aruba | 0.40 | 2002 est. |
+| 636 | Luxembourg | 0.40 | 2007 est. |
+| 637 | Bahrain | 0.40 | 2008 est. |
+| 638 | Kuwait | 0.30 | 2008 est. |
+| 639 | Macau | 0.10 | 2007 est. |
+| 640 | Qatar | 0.10 | 2008 est. |
+| 641 | San Marino | 0.10 | 2007 |
+| 642 | Hong Kong | 0.00 | 2008 est. |
+| 643 | Monaco | 0.00 | 2005 |
+| 644 | Singapore | 0.00 | 2008 est. |

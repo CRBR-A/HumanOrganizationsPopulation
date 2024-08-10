@@ -1,0 +1,236 @@
+CIA - The World Factbook --  GDP - per capita (PPP)   
+
+GDP - per capita (PPP) compares GDP on a purchasing power parity basis divided by population as of 1 July for the same year.
+
+| Rank | country | GDP - per capita (PPP) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Qatar | $ 102,100 | 2013 est. |
+| 2 | Liechtenstein | $ 89,400 | 2009 est. |
+| 3 | Macau | $ 88,700 | 2013 est. |
+| 4 | Bermuda | $ 86,000 | 2011 est. |
+| 5 | Monaco | $ 85,500 | 2011 |
+| 6 | Luxembourg | $ 77,900 | 2013 est. |
+| 7 | Singapore | $ 62,400 | 2013 est. |
+| 8 | Jersey | $ 57,000 | 2005 est. |
+| 9 | Norway | $ 55,400 | 2013 est. |
+| 10 | Falkland Islands (Islas Malvinas) | $ 55,400 | 2002 est. |
+| 11 | Switzerland | $ 54,800 | 2013 est. |
+| 12 | Brunei | $ 54,800 | 2013 est. |
+| 13 | Isle of Man | $ 53,800 | 2007 est. |
+| 14 | United States | $ 52,800 | 2013 est. |
+| 15 | Hong Kong | $ 52,700 | 2013 est. |
+| 16 | Guernsey | $ 44,600 | 2005 |
+| 17 | Cayman Islands | $ 43,800 | 2004 est. |
+| 18 | Netherlands | $ 43,300 | 2012 est. |
+| 19 | Canada | $ 43,100 | 2013 est. |
+| 20 | Gibraltar | $ 43,000 | 2008 est. |
+| 21 | Australia | $ 43,000 | 2013 est. |
+| 22 | Austria | $ 42,600 | 2013 est. |
+| 23 | British Virgin Islands | $ 42,300 | 2010 est. |
+| 24 | Kuwait | $ 42,100 | 2013 est. |
+| 25 | Ireland | $ 41,300 | 2013 est. |
+| 26 | Sweden | $ 40,900 | 2013 est. |
+| 27 | Iceland | $ 40,700 | 2013 est. |
+| 28 | Taiwan | $ 39,600 | 2013 est. |
+| 29 | Germany | $ 39,500 | 2013 est. |
+| 30 | Greenland | $ 38,400 | 2008 est. |
+| 31 | Belgium | $ 37,800 | 2013 est. |
+| 32 | Denmark | $ 37,800 | 2013 est. |
+| 33 | New Caledonia | $ 37,700 | 2008 est. |
+| 34 | United Kingdom | $ 37,300 | 2013 est. |
+| 35 | Andorra | $ 37,200 | 2011 est. |
+| 36 | Japan | $ 37,100 | 2013 est. |
+| 37 | Israel | $ 36,200 | 2013 est. |
+| 38 | Finland | $ 35,900 | 2013 est. |
+| 39 | France | $ 35,700 | 2013 est. |
+| 40 | Saint Pierre and Miquelon | $ 34,900 | 2006 est. |
+| 41 | European Union | $ 34,500 | 2013 est. |
+| 42 | Korea, South | $ 33,200 | 2013 est. |
+| 43 | Bahamas, The | $ 32,000 | 2013 est. |
+| 44 | Saudi Arabia | $ 31,300 | 2013 est. |
+| 45 | Faroe Islands | $ 30,500 | 2008 est. |
+| 46 | New Zealand | $ 30,400 | 2013 est. |
+| 47 | Spain | $ 30,100 | 2013 est. |
+| 48 | United Arab Emirates | $ 29,900 | 2013 est. |
+| 49 | Bahrain | $ 29,800 | 2013 est. |
+| 50 | Oman | $ 29,800 | 2013 est. |
+| 51 | Italy | $ 29,600 | 2013 est. |
+| 52 | Malta | $ 29,200 | 2012 est. |
+| 53 | Turks and Caicos Islands | $ 29,100 | 2007 est. |
+| 54 | Guam | $ 28,700 | 2010 est. |
+| 55 | Slovenia | $ 27,400 | 2013 est. |
+| 56 | Czech Republic | $ 26,300 | 2013 est. |
+| 57 | Seychelles | $ 25,900 | 2013 est. |
+| 58 | Equatorial Guinea | $ 25,700 | 2013 est. |
+| 59 | Aruba | $ 25,300 | 2011 est. |
+| 60 | Barbados | $ 25,100 | 2013 est. |
+| 61 | Slovakia | $ 24,700 | 2013 est. |
+| 62 | Cyprus | $ 24,500 | 2013 est. |
+| 63 | Greece | $ 23,600 | 2013 est. |
+| 64 | Portugal | $ 22,900 | 2013 est. |
+| 65 | Lithuania | $ 22,600 | 2013 est. |
+| 66 | Estonia | $ 22,400 | 2013 est. |
+| 67 | French Polynesia | $ 22,000 | 2006 est. |
+| 68 | Timor-Leste | $ 21,400 | 2013 est. |
+| 69 | Poland | $ 21,100 | 2013 est. |
+| 70 | Trinidad and Tobago | $ 20,300 | 2013 est. |
+| 71 | Hungary | $ 19,800 | 2013 est. |
+| 72 | Gabon | $ 19,200 | 2013 est. |
+| 73 | Chile | $ 19,100 | 2013 est. |
+| 74 | Latvia | $ 19,100 | 2013 est. |
+| 75 | Argentina | $ 18,600 | 2013 est. |
+| 76 | Antigua and Barbuda | $ 18,400 | 2013 est. |
+| 77 | Russia | $ 18,100 | 2013 est. |
+| 78 | Croatia | $ 17,800 | 2013 est. |
+| 79 | Malaysia | $ 17,500 | 2013 est. |
+| 80 | Uruguay | $ 16,600 | 2013 est. |
+| 81 | Panama | $ 16,500 | 2013 est. |
+| 82 | Botswana | $ 16,400 | 2013 est. |
+| 83 | Saint Kitts and Nevis | $ 16,300 | 2013 est. |
+| 84 | Puerto Rico | $ 16,300 | 2010 est. |
+| 85 | Belarus | $ 16,100 | 2013 est. |
+| 86 | Mauritius | $ 16,100 | 2013 est. |
+| 87 | Lebanon | $ 15,800 | 2013 est. |
+| 88 | Mexico | $ 15,600 | 2013 est. |
+| 89 | Sint Maarten | $ 15,400 | 2008 est. |
+| 90 | Turkey | $ 15,300 | 2013 est. |
+| 91 | Curacao | $ 15,000 | 2004 est. |
+| 92 | Virgin Islands | $ 14,500 | 2004 est. |
+| 93 | Bulgaria | $ 14,400 | 2013 est. |
+| 94 | Romania | $ 14,400 | 2013 est. |
+| 95 | Dominica | $ 14,300 | 2013 est. |
+| 96 | Kazakhstan | $ 14,100 | 2013 est. |
+| 97 | Grenada | $ 13,800 | 2013 est. |
+| 98 | Northern Mariana Islands | $ 13,600 | 2010 est. |
+| 99 | Venezuela | $ 13,600 | 2013 est. |
+| 100 | Saint Lucia | $ 13,100 | 2013 est. |
+| 101 | Suriname | $ 12,900 | 2013 est. |
+| 102 | Costa Rica | $ 12,900 | 2013 est. |
+| 103 | Iran | $ 12,800 | 2013 est. |
+| 104 | Anguilla | $ 12,200 | 2008 est. |
+| 105 | Brazil | $ 12,100 | 2013 est. |
+| 106 | Saint Vincent and the Grenadines | $ 12,100 | 2013 est. |
+| 107 | Montenegro | $ 11,900 | 2013 est. |
+| 108 | South Africa | $ 11,500 | 2013 est. |
+| 109 | Libya | $ 11,300 | 2013 est. |
+| 110 | Colombia | $ 11,100 | 2013 est. |
+| 111 | Serbia | $ 11,100 | 2013 est. |
+| 112 | Peru | $ 11,100 | 2013 est. |
+| 113 | Macedonia | $ 10,800 | 2013 est. |
+| 114 | Azerbaijan | $ 10,800 | 2013 est. |
+| 115 | Albania | $ 10,700 | 2013 est. |
+| 116 | Ecuador | $ 10,600 | 2013 est. |
+| 117 | Palau | $ 10,500 | 2011 est. |
+| 118 | Cuba | $ 10,200 | 2010 est. |
+| 119 | Tunisia | $ 9,900 | 2013 est. |
+| 120 | Thailand | $ 9,900 | 2013 est. |
+| 121 | China | $ 9,800 | 2013 est. |
+| 122 | Turkmenistan | $ 9,700 | 2013 est. |
+| 123 | Dominican Republic | $ 9,700 | 2013 est. |
+| 124 | Cook Islands | $ 9,100 | 2005 est. |
+| 125 | Maldives | $ 9,100 | 2013 est. |
+| 126 | Jamaica | $ 9,000 | 2013 est. |
+| 127 | Belize | $ 8,800 | 2013 est. |
+| 128 | Marshall Islands | $ 8,700 | 2013 est. |
+| 129 | Guyana | $ 8,500 | 2013 est. |
+| 130 | Montserrat | $ 8,500 | 2006 est. |
+| 131 | Bosnia and Herzegovina | $ 8,300 | 2013 est. |
+| 132 | Namibia | $ 8,200 | 2013 est. |
+| 133 | Tonga | $ 8,200 | 2013 est. |
+| 134 | American Samoa | $ 8,000 | 2007 est. |
+| 135 | Saint Helena, Ascension, and Tristan da Cunha | $ 7,800 | FY09/10 est. |
+| 136 | Kosovo | $ 7,600 | 2013 est. |
+| 137 | El Salvador | $ 7,500 | 2013 est. |
+| 138 | Algeria | $ 7,500 | 2013 est. |
+| 139 | Ukraine | $ 7,400 | 2013 est. |
+| 140 | Micronesia, Federated States of | $ 7,300 | 2013 est. |
+| 141 | Iraq | $ 7,100 | 2013 est. |
+| 142 | Bhutan | $ 7,000 | 2013 est. |
+| 143 | Paraguay | $ 6,800 | 2013 est. |
+| 144 | Egypt | $ 6,600 | 2013 est. |
+| 145 | Sri Lanka | $ 6,500 | 2013 est. |
+| 146 | Kiribati | $ 6,400 | 2013 est. |
+| 147 | Angola | $ 6,300 | 2013 est. |
+| 148 | Armenia | $ 6,300 | 2013 est. |
+| 149 | Samoa | $ 6,200 | 2013 est. |
+| 150 | Georgia | $ 6,100 | 2013 est. |
+| 151 | Jordan | $ 6,100 | 2013 est. |
+| 152 | Mongolia | $ 5,900 | 2013 est. |
+| 153 | Niue | $ 5,800 | 2003 est. |
+| 154 | Swaziland | $ 5,700 | 2013 est. |
+| 155 | Bolivia | $ 5,500 | 2013 est. |
+| 156 | Morocco | $ 5,500 | 2013 est. |
+| 157 | Guatemala | $ 5,300 | 2013 est. |
+| 158 | Indonesia | $ 5,200 | 2013 est. |
+| 159 | Syria | $ 5,100 | 2011 est. |
+| 160 | Nauru | $ 5,000 | 2005 est. |
+| 161 | Fiji | $ 4,900 | 2013 est. |
+| 162 | Vanuatu | $ 4,800 | 2013 est. |
+| 163 | Congo, Republic of the | $ 4,800 | 2013 est. |
+| 164 | Honduras | $ 4,800 | 2013 est. |
+| 165 | Philippines | $ 4,700 | 2013 est. |
+| 166 | Nicaragua | $ 4,500 | 2013 est. |
+| 167 | Cabo Verde | $ 4,400 | 2013 est. |
+| 168 | Vietnam | $ 4,000 | 2013 est. |
+| 169 | India | $ 4,000 | 2013 est. |
+| 170 | Wallis and Futuna | $ 3,800 | 2004 est. |
+| 171 | Uzbekistan | $ 3,800 | 2013 est. |
+| 172 | Moldova | $ 3,800 | 2013 est. |
+| 173 | Ghana | $ 3,500 | 2013 est. |
+| 174 | Tuvalu | $ 3,500 | 2013 est. |
+| 175 | Solomon Islands | $ 3,400 | 2013 est. |
+| 176 | Laos | $ 3,100 | 2013 est. |
+| 177 | Pakistan | $ 3,100 | 2013 est. |
+| 178 | West Bank | $ 2,900 | 2008 est. |
+| 179 | Papua New Guinea | $ 2,900 | 2013 est. |
+| 180 | Nigeria | $ 2,800 | 2013 est. |
+| 181 | Djibouti | $ 2,700 | 2013 est. |
+| 182 | Sudan | $ 2,600 | 2013 est. |
+| 183 | Cambodia | $ 2,600 | 2013 est. |
+| 184 | Western Sahara | $ 2,500 | 2007 est. |
+| 185 | Kyrgyzstan | $ 2,500 | 2013 est. |
+| 186 | Chad | $ 2,500 | 2013 est. |
+| 187 | Yemen | $ 2,500 | 2013 est. |
+| 188 | Cameroon | $ 2,400 | 2013 est. |
+| 189 | Tajikistan | $ 2,300 | 2013 est. |
+| 190 | Mauritania | $ 2,200 | 2013 est. |
+| 191 | Sao Tome and Principe | $ 2,200 | 2013 est. |
+| 192 | Lesotho | $ 2,200 | 2013 est. |
+| 193 | Senegal | $ 2,100 | 2013 est. |
+| 194 | Bangladesh | $ 2,100 | 2013 est. |
+| 195 | Gambia, The | $ 2,000 | 2013 est. |
+| 196 | Zambia | $ 1,800 | 2013 est. |
+| 197 | Kenya | $ 1,800 | 2013 est. |
+| 198 | Korea, North | $ 1,800 | 2011 est. |
+| 199 | Cote d'Ivoire | $ 1,800 | 2013 est. |
+| 200 | Tanzania | $ 1,700 | 2013 est. |
+| 201 | Burma | $ 1,700 | 2013 est. |
+| 202 | Benin | $ 1,600 | 2013 est. |
+| 203 | Burkina Faso | $ 1,500 | 2013 est. |
+| 204 | Uganda | $ 1,500 | 2013 est. |
+| 205 | Nepal | $ 1,500 | 2013 est. |
+| 206 | Rwanda | $ 1,500 | 2013 est. |
+| 207 | South Sudan | $ 1,400 | 2013 est. |
+| 208 | Sierra Leone | $ 1,400 | 2013 est. |
+| 209 | Haiti | $ 1,300 | 2013 est. |
+| 210 | Comoros | $ 1,300 | 2013 est. |
+| 211 | Ethiopia | $ 1,300 | 2013 est. |
+| 212 | Eritrea | $ 1,200 | 2013 est. |
+| 213 | Mozambique | $ 1,200 | 2013 est. |
+| 214 | Guinea-Bissau | $ 1,200 | 2013 est. |
+| 215 | Afghanistan | $ 1,100 | 2013 est. |
+| 216 | Mali | $ 1,100 | 2013 est. |
+| 217 | Togo | $ 1,100 | 2013 est. |
+| 218 | Guinea | $ 1,100 | 2013 est. |
+| 219 | Tokelau | $ 1,000 | 1993 est. |
+| 220 | Madagascar | $ 1,000 | 2013 est. |
+| 221 | Malawi | $ 900 | 2013 est. |
+| 222 | Niger | $ 800 | 2013 est. |
+| 223 | Liberia | $ 700 | 2013 est. |
+| 224 | Central African Republic | $ 700 | 2013 est. |
+| 225 | Burundi | $ 600 | 2013 est. |
+| 226 | Somalia | $ 600 | 2010 est. |
+| 227 | Zimbabwe | $ 600 | 2013 est. |
+| 228 | Congo, Democratic Republic of the | $ 400 | 2013 est. |
+
+

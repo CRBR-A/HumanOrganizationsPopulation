@@ -1,0 +1,8 @@
+English and Irish colonists from St. Kitts first settled on Montserrat in 1632; the first African slaves arrived three decades later. The British and French fought for possession of the island for most of the 18th century, but it finally was confirmed as a British possession in 1783. The island's sugar plantation economy was converted to small farm landholdings in the mid-19th century. Much of this island was devastated and two-thirds of the population fled abroad because of the eruption of the Soufriere Hills Volcano that began on 18 July 1995. Montserrat has endured volcanic activity since, with the last eruption occurring in 2013.  
+
+---
+country: Montserrat
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Montserrat/>
+license: public domain (U.S.)
+...

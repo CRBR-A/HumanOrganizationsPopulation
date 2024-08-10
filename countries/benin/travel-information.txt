@@ -1,0 +1,27 @@
+Telephone Code: 229
+Local Emergency Phone: Local numbers only
+Climate: Tropical; hot, humid in south; semiarid in north
+Currency (Code): Communaute Financiere Africaine francs (Western African CFA francs, XOF)
+Electricity: 220 V
+Voltage: 50 Hz
+Plug types(s): C, E
+Major Languages: French, Fon, Yoruba
+Major Religions: Muslim 27.7%, Roman Catholic 25.5%, Protestant 13.5%, Vodoun 11.6%, other Christian 9.5%, other traditional religions 2.6%, other 2.6%, none 5.8
+Time Difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Cotonou; Ouidah; Porto Novo; Royal Palaces at Abomey
+Major Sports: Soccer, tennis, track and field
+Cultural Practices: Many people in Benin eat using the fingers of the right hand; eating or offering food to others with the left hand is considered rude.
+Tipping Guidelines: Tipping in restaurants is appreciated; round up the bill in smaller establishments or tip up to 10%. Tipping at bars is unexpected. When taking a taxi, round up the fare. Tipping in hotels is not required, but if you enjoyed your stay you could tip the bellboy 200 francs per bag and the maid 200 francs per night.
+Souvenirs: Tribal masks, basketware, pottery, handwoven textiles, brassware
+Traditional Cuisine: Kuli-kuli --- ground, smashed peanuts mixed with salt, pepper, and other spices shaped into balls or biscuits and deep-fried
+
+---
+country: Benin
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Benin/travel-facts>
+license: public domain (U.S.)
+...

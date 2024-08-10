@@ -1,0 +1,27 @@
+Telephone Code: 298
+Local Emergency Phone: 112
+Climate: Mild winters, cool summers; usually overcast; foggy, windy
+Currency (Code): Danish kroner (DKK)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, E, F, K
+Major Languages: Faroese (derived from Old Norse), Danish
+Major Religions: Christian 89.3% (predominantly Evangelical Lutheran)
+Time Difference: UTC 0 (5 hours ahead of Washington, DC, during Standard Time); daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October
+Potable Water: Yes
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Nordic House; Tinganes area of Torshavn
+Major Sports: Soccer, swimming, rowing (outdoor Kapproour and indoor), volleyball, handball
+Cultural Practices: The Faroese fondly refer to their own country as "the land of maybe" because of its extreme and often unpredictable weather changes. Wasting food is frowned upon by Danes, so try to finish your plate when served.
+Tipping Guidelines: Restaurants may include a service charge, if so, round up for the wait staff.
+Souvenirs: Woolen clothes, crystal, local art, liquor, stamps, Danish goods
+Traditional Cuisine: Skerpikjøt --- semi-fermented mutton prepared by wind-drying and typically served with toasted sourdough bread sprinkled with coarse salt
+
+---
+country: Faroe Islands
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Faroe Islands/travel-facts>
+license: public domain (U.S.)
+...

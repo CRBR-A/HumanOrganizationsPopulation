@@ -1,0 +1,12 @@
+| Precautions | <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html> |
+| Passport/Visa Requirements | A foreign national or alien entering the US is generally required to present a passport and valid visa issued by a US Consular Official, unless they are a citizen of a country eligible for the Visa Waiver Program (VWP), or are a lawful permanent resident of the US or a citizen of Canada. The VWP allows foreign nationals from certain countries to be admitted to the US under limited conditions and for a limited time without obtaining a visa. The foreign national must arrive on an approved carrier (if coming by air or sea), stay no more than 90 days (for pleasure, medical purposes, and/or business), and be able to prove they are not inadmissible. The foreign national is still required to have a passport. To obtain a list of VWP-eligible countries and VWP passport requirements, please visit https://www.dhs.gov/visa-waiver-program. Note: all travelers transiting the US are subject to US customs and/or immigration laws. |
+| Vaccinations | See WHO recommendations  <http://www.who.int/> |
+| US Embassy/Consulate | N/A |
+
+---
+country: Guam
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Guam/travel-facts>
+license: public domain (U.S.)
+...

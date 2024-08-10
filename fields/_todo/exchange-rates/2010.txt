@@ -1,0 +1,1090 @@
+CIA - The World Factbook --  Exchange rates   
+
+This entry provides the official value of a country's monetary unit at a given date or over a given period of time, as expressed in units of local currency per US dollar and as determined by international market forces or official fiat. The International Organization for Standardization (ISO) 4217 alphabetic currency code for the national medium of exchange is presented in parenthesis.
+
+| Rank | country | Exchange rates | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Zimbabwe | 30,000.00 | NA |
+| 2 | Sao Tome and Principe | 19,641.00 | NA |
+| 3 | Vietnam | 19,148.90 | NA |
+| 4 | Vietnam | 17,799.60 | NA |
+| 5 | Vietnam | 16,548.30 | NA |
+| 6 | Vietnam | 16,119.00 | NA |
+| 7 | Sao Tome and Principe | 16,000.00 | NA |
+| 8 | Vietnam | 15,983.00 | NA |
+| 9 | Sao Tome and Principe | 14,900.00 | NA |
+| 10 | Turkmenistan | 14,250.00 | NA |
+| 11 | Sao Tome and Principe | 13,700.00 | NA |
+| 12 | Sao Tome and Principe | 12,050.00 | NA |
+| 13 | Indonesia | 10,389.90 | NA |
+| 14 | Iran | 10,308.20 | NA |
+| 15 | Laos | 10,235.00 | NA |
+| 16 | Iran | 9,864.30 | NA |
+| 17 | Indonesia | 9,698.90 | NA |
+| 18 | Laos | 9,658.00 | NA |
+| 19 | Iran | 9,407.50 | NA |
+| 20 | Iran | 9,227.10 | NA |
+| 21 | Ghana | 9,174.80 | NA |
+| 22 | Indonesia | 9,169.50 | NA |
+| 23 | Indonesia | 9,159.30 | NA |
+| 24 | Indonesia | 9,143.00 | NA |
+| 25 | Iran | 9,142.80 | NA |
+| 26 | Laos | 8,760.69 | NA |
+| 27 | Laos | 8,516.04 | NA |
+| 28 | Laos | 8,320.27 | NA |
+| 29 | Guinea | 6,100.00 | NA |
+| 30 | Paraguay | 5,672.80 | NA |
+| 31 | Guinea | 5,500.00 | NA |
+| 32 | Guinea | 5,500.00 | NA |
+| 33 | Guinea | 5,350.00 | NA |
+| 34 | Zambia | 5,046.10 | NA |
+| 35 | Paraguay | 5,031.00 | NA |
+| 36 | Paraguay | 4,965.40 | NA |
+| 37 | Zambia | 4,823.60 | NA |
+| 38 | Paraguay | 4,767.60 | NA |
+| 39 | Paraguay | 4,337.70 | NA |
+| 40 | Cambodia | 4,217.96 | NA |
+| 41 | Cambodia | 4,139.33 | NA |
+| 42 | Guinea | 4,122.80 | NA |
+| 43 | Cambodia | 4,103.00 | NA |
+| 44 | Cambodia | 4,070.94 | NA |
+| 45 | Cambodia | 4,006.00 | NA |
+| 46 | Zambia | 3,990.20 | NA |
+| 47 | Korea, North | 3,630.00 | NA |
+| 48 | Zambia | 3,601.50 | NA |
+| 49 | Zambia | 3,512.90 | NA |
+| 50 | Belarus | 3,019.90 | NA |
+| 51 | Sierra Leone | 2,961.70 | NA |
+| 52 | Sierra Leone | 2,889.60 | NA |
+| 53 | Belarus | 2,789.50 | NA |
+| 54 | Sierra Leone | 2,701.30 | NA |
+| 55 | Colombia | 2,358.60 | NA |
+| 56 | Sierra Leone | 2,347.90 | NA |
+| 57 | Colombia | 2,243.60 | NA |
+| 58 | Uganda | 2,166.00 | NA |
+| 59 | Madagascar | 2,161.40 | NA |
+| 60 | Colombia | 2,157.60 | NA |
+| 61 | Venezuela | 2,147.00 | NA |
+| 62 | Venezuela | 2,147.00 | NA |
+| 63 | Belarus | 2,145.00 | NA |
+| 64 | Belarus | 2,144.60 | NA |
+| 65 | Belarus | 2,130.00 | NA |
+| 66 | Madagascar | 2,062.50 | NA |
+| 67 | Uganda | 2,038.90 | NA |
+| 68 | Colombia | 2,013.80 | NA |
+| 69 | Madagascar | 1,956.21 | NA |
+| 70 | Colombia | 1,893.10 | NA |
+| 71 | Madagascar | 1,880.00 | NA |
+| 72 | Uganda | 1,834.90 | NA |
+| 73 | Korea, North | 1,800.00 | NA |
+| 74 | Uganda | 1,685.80 | NA |
+| 75 | Uganda | 1,658.10 | NA |
+| 76 | Madagascar | 1,654.78 | NA |
+| 77 | Uzbekistan | 1,588.10 | NA |
+| 78 | Lebanon | 1,507.50 | NA |
+| 79 | Lebanon | 1,507.50 | NA |
+| 80 | Lebanon | 1,507.50 | NA |
+| 81 | Lebanon | 1,507.50 | NA |
+| 82 | Lebanon | 1,507.50 | NA |
+| 83 | Uzbekistan | 1,466.70 | NA |
+| 84 | Iraq | 1,466.00 | NA |
+| 85 | Mongolia | 1,442.80 | NA |
+| 86 | Somalia | 1,438.30 | NA |
+| 87 | Tanzania | 1,423.30 | NA |
+| 88 | Tanzania | 1,320.30 | NA |
+| 89 | Uzbekistan | 1,317.00 | NA |
+| 90 | Burma | 1,296.00 | NA |
+| 91 | Burma | 1,280.00 | NA |
+| 92 | Korea, South | 1,276.93 | NA |
+| 93 | Mongolia | 1,267.51 | NA |
+| 94 | Uzbekistan | 1,263.80 | NA |
+| 95 | Iraq | 1,255.00 | NA |
+| 96 | Tanzania | 1,255.00 | NA |
+| 97 | Tanzania | 1,251.90 | NA |
+| 98 | Burundi | 1,250.75 | NA |
+| 99 | Burundi | 1,230.18 | NA |
+| 100 | Uzbekistan | 1,219.80 | NA |
+| 101 | Burma | 1,205.00 | NA |
+| 102 | Burundi | 1,198.00 | NA |
+| 103 | Tanzania | 1,178.10 | NA |
+| 104 | Iraq | 1,176.00 | NA |
+| 105 | Iraq | 1,170.00 | NA |
+| 106 | Iraq | 1,170.00 | NA |
+| 107 | Mongolia | 1,170.00 | NA |
+| 108 | Mongolia | 1,165.00 | NA |
+| 109 | Korea, South | 1,153.77 | NA |
+| 110 | Korea, South | 1,101.70 | NA |
+| 111 | Burundi | 1,065.00 | NA |
+| 112 | Burma | 1,055.00 | NA |
+| 113 | Burundi | 1,030.00 | NA |
+| 114 | Burma | 1,000.00 | NA |
+| 115 | Korea, South | 954.80 | NA |
+| 116 | Congo, Democratic Republic of the | 930.00 | NA |
+| 117 | Korea, South | 929.20 | NA |
+| 118 | Congo, Democratic Republic of the | 810.00 | NA |
+| 119 | Rwanda | 586.25 | NA |
+| 120 | Rwanda | 585.00 | NA |
+| 121 | Costa Rica | 573.29 | NA |
+| 122 | Rwanda | 568.18 | NA |
+| 123 | Chile | 560.86 | NA |
+| 124 | Rwanda | 560.00 | NA |
+| 125 | Congo, Democratic Republic of the | 559.00 | NA |
+| 126 | Rwanda | 550.00 | NA |
+| 127 | Costa Rica | 530.41 | NA |
+| 128 | Chile | 530.29 | NA |
+| 129 | Costa Rica | 526.68 | NA |
+| 130 | Chile | 526.25 | NA |
+| 131 | Chile | 525.34 | NA |
+| 132 | Cote d'Ivoire | 522.89 | NA |
+| 133 | Gabon | 522.89 | NA |
+| 134 | Senegal | 522.89 | NA |
+| 135 | Benin | 522.59 | NA |
+| 136 | Central African Republic | 522.59 | NA |
+| 137 | Togo | 522.59 | NA |
+| 138 | Niger | 522.59 | NA |
+| 139 | Mali | 522.59 | NA |
+| 140 | Guinea-Bissau | 522.59 | NA |
+| 141 | Congo, Republic of the | 522.59 | NA |
+| 142 | Chad | 522.59 | NA |
+| 143 | Burkina Faso | 522.59 | NA |
+| 144 | Cameroon | 522.59 | NA |
+| 145 | Equatorial Guinea | 522.40 | NA |
+| 146 | Costa Rica | 519.53 | NA |
+| 147 | Congo, Democratic Republic of the | 516.00 | NA |
+| 148 | Costa Rica | 511.30 | NA |
+| 149 | Chile | 509.02 | NA |
+| 150 | Congo, Republic of the | 507.71 | NA |
+| 151 | Senegal | 507.71 | NA |
+| 152 | Gabon | 507.71 | NA |
+| 153 | Togo | 507.71 | NA |
+| 154 | Benin | 506.04 | NA |
+| 155 | Chad | 506.04 | NA |
+| 156 | Cote d'Ivoire | 506.04 | NA |
+| 157 | Mali | 506.04 | NA |
+| 158 | Niger | 506.04 | NA |
+| 159 | Guinea-Bissau | 506.04 | NA |
+| 160 | Equatorial Guinea | 506.04 | NA |
+| 161 | Central African Republic | 506.04 | NA |
+| 162 | Burkina Faso | 506.04 | NA |
+| 163 | Cameroon | 506.04 | NA |
+| 164 | Benin | 493.51 | NA |
+| 165 | Niger | 493.51 | NA |
+| 166 | Mali | 493.51 | NA |
+| 167 | Guinea-Bissau | 493.51 | NA |
+| 168 | Cameroon | 493.51 | NA |
+| 169 | Burkina Faso | 493.51 | NA |
+| 170 | Congo, Republic of the | 483.60 | NA |
+| 171 | Togo | 482.71 | NA |
+| 172 | Cote d'Ivoire | 481.83 | NA |
+| 173 | Gabon | 481.83 | NA |
+| 174 | Senegal | 481.83 | NA |
+| 175 | Equatorial Guinea | 481.83 | NA |
+| 176 | Central African Republic | 481.80 | NA |
+| 177 | Chad | 480.10 | NA |
+| 178 | Benin | 472.19 | NA |
+| 179 | Equatorial Guinea | 472.19 | NA |
+| 180 | Togo | 472.19 | NA |
+| 181 | Gabon | 472.19 | NA |
+| 182 | Cote d'Ivoire | 472.19 | NA |
+| 183 | Congo, Republic of the | 472.19 | NA |
+| 184 | Chad | 472.19 | NA |
+| 185 | Cameroon | 472.19 | NA |
+| 186 | Burkina Faso | 472.19 | NA |
+| 187 | Senegal | 470.90 | NA |
+| 188 | Congo, Democratic Republic of the | 464.69 | NA |
+| 189 | Benin | 447.81 | NA |
+| 190 | Burkina Faso | 447.81 | NA |
+| 191 | Togo | 447.81 | NA |
+| 192 | Senegal | 447.81 | NA |
+| 193 | Niger | 447.81 | NA |
+| 194 | Mali | 447.81 | NA |
+| 195 | Guinea-Bissau | 447.81 | NA |
+| 196 | Gabon | 447.81 | NA |
+| 197 | Equatorial Guinea | 447.81 | NA |
+| 198 | Cote d'Ivoire | 447.81 | NA |
+| 199 | Congo, Republic of the | 447.81 | NA |
+| 200 | Chad | 447.81 | NA |
+| 201 | Central African Republic | 447.81 | NA |
+| 202 | Cameroon | 447.81 | NA |
+| 203 | Comoros | 435.90 | NA |
+| 204 | Armenia | 414.69 | NA |
+| 205 | Comoros | 396.21 | NA |
+| 206 | Comoros | 395.60 | NA |
+| 207 | Comoros | 391.80 | NA |
+| 208 | Armenia | 374.29 | NA |
+| 209 | Armenia | 363.28 | NA |
+| 210 | Comoros | 361.40 | NA |
+| 211 | Armenia | 344.06 | NA |
+| 212 | Armenia | 303.93 | NA |
+| 213 | Mauritania | 271.30 | NA |
+| 214 | Mauritania | 262.40 | NA |
+| 215 | Mauritania | 261.50 | NA |
+| 216 | Mauritania | 258.60 | NA |
+| 217 | Mauritania | 238.20 | NA |
+| 218 | Zimbabwe | 234.25 | NA |
+| 219 | Zimbabwe | 234.00 | NA |
+| 220 | Yemen | 220.05 | NA |
+| 221 | Hungary | 213.69 | NA |
+| 222 | Hungary | 210.39 | NA |
+| 223 | Guyana | 204.07 | NA |
+| 224 | Guyana | 204.02 | NA |
+| 225 | Guyana | 203.86 | NA |
+| 226 | Yemen | 202.85 | NA |
+| 227 | Hungary | 202.34 | NA |
+| 228 | Guyana | 201.89 | NA |
+| 229 | Guyana | 200.28 | NA |
+| 230 | Yemen | 199.76 | NA |
+| 231 | Yemen | 199.14 | NA |
+| 232 | Yemen | 197.18 | NA |
+| 233 | Hungary | 183.83 | NA |
+| 234 | Djibouti | 177.72 | NA |
+| 235 | Djibouti | 177.72 | NA |
+| 236 | Djibouti | 177.72 | NA |
+| 237 | Djibouti | 177.71 | NA |
+| 238 | Djibouti | 174.75 | NA |
+| 239 | Hungary | 171.80 | NA |
+| 240 | Zimbabwe | 162.00 | NA |
+| 241 | Malawi | 151.65 | NA |
+| 242 | Nigeria | 150.88 | NA |
+| 243 | Nigeria | 148.84 | NA |
+| 244 | Kazakhstan | 147.50 | NA |
+| 245 | Kazakhstan | 147.28 | NA |
+| 246 | Malawi | 142.41 | NA |
+| 247 | Malawi | 141.14 | NA |
+| 248 | Malawi | 141.12 | NA |
+| 249 | Korea, North | 141.00 | NA |
+| 250 | Korea, North | 140.00 | NA |
+| 251 | Iceland | 139.32 | NA |
+| 252 | Malawi | 135.96 | NA |
+| 253 | Nigeria | 127.46 | NA |
+| 254 | Nigeria | 127.38 | NA |
+| 255 | Kazakhstan | 126.09 | NA |
+| 256 | Iceland | 123.64 | NA |
+| 257 | Kazakhstan | 122.55 | NA |
+| 258 | Vanuatu | 122.19 | NA |
+| 259 | Kazakhstan | 120.25 | NA |
+| 260 | Japan | 117.99 | NA |
+| 261 | Nigeria | 117.80 | NA |
+| 262 | Japan | 116.18 | NA |
+| 263 | Sri Lanka | 114.95 | NA |
+| 264 | Sri Lanka | 113.36 | NA |
+| 265 | Vanuatu | 111.93 | NA |
+| 266 | Vanuatu | 111.79 | NA |
+| 267 | Sri Lanka | 110.78 | NA |
+| 268 | Sri Lanka | 108.33 | NA |
+| 269 | Albania | 106.50 | NA |
+| 270 | French Polynesia | 105.66 | NA |
+| 271 | New Caledonia | 105.66 | NA |
+| 272 | Wallis and Futuna | 105.66 | NA |
+| 273 | Sri Lanka | 103.99 | NA |
+| 274 | Japan | 103.58 | NA |
+| 275 | Albania | 98.38 | NA |
+| 276 | Vanuatu | 97.93 | NA |
+| 277 | French Polynesia | 96.04 | NA |
+| 278 | New Caledonia | 96.04 | NA |
+| 279 | Wallis and Futuna | 96.04 | NA |
+| 280 | French Polynesia | 95.89 | NA |
+| 281 | New Caledonia | 95.89 | NA |
+| 282 | Wallis and Futuna | 95.89 | NA |
+| 283 | Albania | 94.98 | NA |
+| 284 | French Polynesia | 94.97 | NA |
+| 285 | Wallis and Futuna | 94.97 | NA |
+| 286 | New Caledonia | 94.97 | NA |
+| 287 | Japan | 93.57 | NA |
+| 288 | Albania | 92.67 | NA |
+| 289 | Angola | 92.08 | NA |
+| 290 | Japan | 88.67 | NA |
+| 291 | Cape Verde | 88.58 | NA |
+| 292 | Cape Verde | 87.95 | NA |
+| 293 | Jamaica | 87.89 | NA |
+| 294 | French Polynesia | 87.59 | NA |
+| 295 | New Caledonia | 87.59 | NA |
+| 296 | Wallis and Futuna | 87.59 | NA |
+| 297 | Jamaica | 87.41 | NA |
+| 298 | Iceland | 85.62 | NA |
+| 299 | Pakistan | 85.27 | NA |
+| 300 | Pakistan | 81.71 | NA |
+| 301 | Cape Verde | 81.24 | NA |
+| 302 | Angola | 80.40 | NA |
+| 303 | Serbia | 79.98 | NA |
+| 304 | Albania | 79.55 | NA |
+| 305 | Cape Verde | 79.38 | NA |
+| 306 | Angola | 79.33 | NA |
+| 307 | Kenya | 79.22 | NA |
+| 308 | Zimbabwe | 78.00 | NA |
+| 309 | Nepal | 77.44 | NA |
+| 310 | Kenya | 77.35 | NA |
+| 311 | Angola | 76.60 | NA |
+| 312 | Algeria | 76.00 | NA |
+| 313 | Angola | 75.02 | NA |
+| 314 | Cape Verde | 73.84 | NA |
+| 315 | Algeria | 72.65 | NA |
+| 316 | Algeria | 72.65 | NA |
+| 317 | Nepal | 72.56 | NA |
+| 318 | Nepal | 72.45 | NA |
+| 319 | Jamaica | 72.24 | NA |
+| 320 | Kenya | 72.10 | NA |
+| 321 | Pakistan | 70.64 | NA |
+| 322 | Bangladesh | 70.59 | NA |
+| 323 | Nepal | 70.35 | NA |
+| 324 | Iceland | 70.20 | NA |
+| 325 | Algeria | 69.90 | NA |
+| 326 | Bangladesh | 69.89 | NA |
+| 327 | Bangladesh | 69.04 | NA |
+| 328 | Jamaica | 69.03 | NA |
+| 329 | Bangladesh | 69.03 | NA |
+| 330 | Bangladesh | 68.55 | NA |
+| 331 | Kenya | 68.36 | NA |
+| 332 | Kenya | 68.31 | NA |
+| 333 | Jamaica | 65.77 | NA |
+| 334 | Nepal | 65.21 | NA |
+| 335 | Iceland | 63.39 | NA |
+| 336 | Algeria | 63.25 | NA |
+| 337 | Serbia | 62.90 | NA |
+| 338 | Pakistan | 60.63 | NA |
+| 339 | Pakistan | 60.35 | NA |
+| 340 | Serbia | 59.98 | NA |
+| 341 | Liberia | 59.43 | NA |
+| 342 | Liberia | 59.38 | NA |
+| 343 | Liberia | 54.91 | NA |
+| 344 | Serbia | 54.50 | NA |
+| 345 | Liberia | 53.10 | NA |
+| 346 | Syria | 51.69 | NA |
+| 347 | Philippines | 51.25 | NA |
+| 348 | Afghanistan | 50.25 | NA |
+| 349 | Afghanistan | 50.23 | NA |
+| 350 | Syria | 50.01 | NA |
+| 351 | Afghanistan | 50.00 | NA |
+| 352 | Macedonia | 48.98 | NA |
+| 353 | India | 48.41 | NA |
+| 354 | Afghanistan | 48.00 | NA |
+| 355 | Afghanistan | 47.70 | NA |
+| 356 | Philippines | 47.68 | NA |
+| 357 | Macedonia | 47.60 | NA |
+| 358 | Syria | 46.71 | NA |
+| 359 | Bhutan | 46.60 | NA |
+| 360 | Syria | 46.53 | NA |
+| 361 | Syria | 46.46 | NA |
+| 362 | Kyrgyzstan | 46.34 | NA |
+| 363 | India | 46.16 | NA |
+| 364 | Philippines | 46.15 | NA |
+| 365 | Afghanistan | 46.00 | NA |
+| 366 | Philippines | 45.46 | NA |
+| 367 | Bhutan | 45.32 | NA |
+| 368 | India | 45.30 | NA |
+| 369 | Bhutan | 45.28 | NA |
+| 370 | Macedonia | 44.73 | NA |
+| 371 | Philippines | 44.44 | NA |
+| 372 | Bhutan | 44.10 | NA |
+| 373 | Macedonia | 44.10 | NA |
+| 374 | India | 43.32 | NA |
+| 375 | Kyrgyzstan | 42.91 | NA |
+| 376 | Bhutan | 41.49 | NA |
+| 377 | India | 41.49 | NA |
+| 378 | Macedonia | 41.41 | NA |
+| 379 | Haiti | 41.20 | NA |
+| 380 | Haiti | 41.20 | NA |
+| 381 | Haiti | 40.23 | NA |
+| 382 | Kyrgyzstan | 40.15 | NA |
+| 383 | Haiti | 39.22 | NA |
+| 384 | Thailand | 37.88 | NA |
+| 385 | Kyrgyzstan | 37.75 | NA |
+| 386 | Haiti | 37.14 | NA |
+| 387 | Dominican Republic | 36.92 | NA |
+| 388 | Kyrgyzstan | 36.11 | NA |
+| 389 | Dominican Republic | 36.03 | NA |
+| 390 | Mozambique | 35.00 | NA |
+| 391 | Dominican Republic | 34.78 | NA |
+| 392 | Thailand | 34.52 | NA |
+| 393 | Thailand | 34.29 | NA |
+| 394 | Dominican Republic | 33.41 | NA |
+| 395 | Thailand | 33.37 | NA |
+| 396 | Dominican Republic | 33.11 | NA |
+| 397 | Taiwan | 33.06 | NA |
+| 398 | Taiwan | 32.84 | NA |
+| 399 | Taiwan | 32.53 | NA |
+| 400 | Mauritius | 31.96 | NA |
+| 401 | Taiwan | 31.86 | NA |
+| 402 | Mauritius | 31.80 | NA |
+| 403 | Russia | 31.74 | NA |
+| 404 | Thailand | 31.66 | NA |
+| 405 | Mauritius | 31.66 | NA |
+| 406 | Taiwan | 31.53 | NA |
+| 407 | Mauritius | 30.99 | NA |
+| 408 | Russia | 30.00 | NA |
+| 409 | Slovakia | 29.61 | NA |
+| 410 | Gambia, The | 28.52 | NA |
+| 411 | Gambia, The | 28.07 | NA |
+| 412 | Mauritius | 27.97 | NA |
+| 413 | Gambia, The | 27.79 | NA |
+| 414 | Russia | 27.19 | NA |
+| 415 | Gambia, The | 26.67 | NA |
+| 416 | Mozambique | 26.28 | NA |
+| 417 | Mozambique | 26.26 | NA |
+| 418 | Russia | 25.58 | NA |
+| 419 | Mozambique | 25.40 | NA |
+| 420 | Slovakia | 24.92 | NA |
+| 421 | Russia | 24.85 | NA |
+| 422 | Mozambique | 24.13 | NA |
+| 423 | Uruguay | 24.05 | NA |
+| 424 | Uruguay | 23.95 | NA |
+| 425 | Gambia, The | 22.75 | NA |
+| 426 | Czech Republic | 22.60 | NA |
+| 427 | Uruguay | 22.57 | NA |
+| 428 | Nicaragua | 21.35 | NA |
+| 429 | Slovakia | 21.05 | NA |
+| 430 | Uruguay | 20.94 | NA |
+| 431 | Czech Republic | 20.53 | NA |
+| 432 | Nicaragua | 20.34 | NA |
+| 433 | Uruguay | 20.28 | NA |
+| 434 | Czech Republic | 19.74 | NA |
+| 435 | Nicaragua | 19.37 | NA |
+| 436 | Czech Republic | 19.06 | NA |
+| 437 | Honduras | 18.98 | NA |
+| 438 | Honduras | 18.90 | NA |
+| 439 | Honduras | 18.90 | NA |
+| 440 | Honduras | 18.90 | NA |
+| 441 | Honduras | 18.90 | NA |
+| 442 | Nicaragua | 18.46 | NA |
+| 443 | Nicaragua | 17.58 | NA |
+| 444 | Czech Republic | 17.06 | NA |
+| 445 | Eritrea | 15.50 | NA |
+| 446 | Eritrea | 15.40 | NA |
+| 447 | Eritrea | 15.38 | NA |
+| 448 | Eritrea | 15.38 | NA |
+| 449 | Eritrea | 15.38 | NA |
+| 450 | Ethiopia | 14.40 | NA |
+| 451 | Seychelles | 13.61 | NA |
+| 452 | Mexico | 13.51 | NA |
+| 453 | Moldova | 13.13 | NA |
+| 454 | Maldives | 12.80 | NA |
+| 455 | Maldives | 12.80 | NA |
+| 456 | Maldives | 12.80 | NA |
+| 457 | Maldives | 12.80 | NA |
+| 458 | Mexico | 12.69 | NA |
+| 459 | Estonia | 12.47 | NA |
+| 460 | Moldova | 12.44 | NA |
+| 461 | Seychelles | 12.22 | NA |
+| 462 | Moldova | 12.18 | NA |
+| 463 | Estonia | 12.11 | NA |
+| 464 | Ethiopia | 11.78 | NA |
+| 465 | Estonia | 11.54 | NA |
+| 466 | Estonia | 11.23 | NA |
+| 467 | Moldova | 11.11 | NA |
+| 468 | Mexico | 11.02 | NA |
+| 469 | Mexico | 10.90 | NA |
+| 470 | Mexico | 10.80 | NA |
+| 471 | Estonia | 10.70 | NA |
+| 472 | Moldova | 10.33 | NA |
+| 473 | Ethiopia | 9.57 | NA |
+| 474 | Ethiopia | 8.96 | NA |
+| 475 | Morocco | 8.77 | NA |
+| 476 | Western Sahara | 8.77 | NA |
+| 477 | Ethiopia | 8.69 | NA |
+| 478 | Lesotho | 8.47 | NA |
+| 479 | Swaziland | 8.47 | NA |
+| 480 | Namibia | 8.42 | NA |
+| 481 | South Africa | 8.42 | NA |
+| 482 | Morocco | 8.36 | NA |
+| 483 | Western Sahara | 8.36 | NA |
+| 484 | Morocco | 8.36 | NA |
+| 485 | Western Sahara | 8.36 | NA |
+| 486 | Guatemala | 8.16 | NA |
+| 487 | Guatemala | 8.08 | NA |
+| 488 | Morocco | 8.06 | NA |
+| 489 | Bolivia | 8.02 | NA |
+| 490 | Macau | 8.01 | NA |
+| 491 | Macau | 8.00 | NA |
+| 492 | Seychelles | 8.00 | NA |
+| 493 | Macau | 7.99 | NA |
+| 494 | Macau | 7.98 | NA |
+| 495 | China | 7.97 | NA |
+| 496 | South Africa | 7.96 | NA |
+| 497 | Ukraine | 7.91 | NA |
+| 498 | Lesotho | 7.90 | NA |
+| 499 | Bolivia | 7.86 | NA |
+| 500 | Hong Kong | 7.80 | NA |
+| 501 | Ukraine | 7.79 | NA |
+| 502 | Hong Kong | 7.78 | NA |
+| 503 | Hong Kong | 7.77 | NA |
+| 504 | Hong Kong | 7.75 | NA |
+| 505 | Hong Kong | 7.75 | NA |
+| 506 | Lesotho | 7.75 | NA |
+| 507 | Namibia | 7.75 | NA |
+| 508 | Swaziland | 7.75 | NA |
+| 509 | Guatemala | 7.68 | NA |
+| 510 | Sweden | 7.65 | NA |
+| 511 | China | 7.61 | NA |
+| 512 | Guatemala | 7.60 | NA |
+| 513 | Guatemala | 7.59 | NA |
+| 514 | Namibia | 7.57 | NA |
+| 515 | Swaziland | 7.57 | NA |
+| 516 | Solomon Islands | 7.53 | NA |
+| 517 | Morocco | 7.53 | NA |
+| 518 | Western Sahara | 7.53 | NA |
+| 519 | Sweden | 7.51 | NA |
+| 520 | Solomon Islands | 7.51 | NA |
+| 521 | Solomon Islands | 7.48 | NA |
+| 522 | Swaziland | 7.40 | NA |
+| 523 | South Africa | 7.38 | NA |
+| 524 | Sweden | 7.37 | NA |
+| 525 | Solomon Islands | 7.34 | NA |
+| 526 | Bolivia | 7.25 | NA |
+| 527 | Lesotho | 7.25 | NA |
+| 528 | Namibia | 7.18 | NA |
+| 529 | Botswana | 7.16 | NA |
+| 530 | Bolivia | 7.07 | NA |
+| 531 | Bolivia | 7.07 | NA |
+| 532 | South Africa | 7.05 | NA |
+| 533 | China | 6.94 | NA |
+| 534 | Lesotho | 6.85 | NA |
+| 535 | Swaziland | 6.85 | NA |
+| 536 | China | 6.83 | NA |
+| 537 | Botswana | 6.79 | NA |
+| 538 | China | 6.79 | NA |
+| 539 | Namibia | 6.76 | NA |
+| 540 | South Africa | 6.76 | NA |
+| 541 | Sweden | 6.76 | NA |
+| 542 | Botswana | 6.74 | NA |
+| 543 | Seychelles | 6.50 | NA |
+| 544 | Norway | 6.42 | NA |
+| 545 | Svalbard | 6.42 | NA |
+| 546 | Sweden | 6.41 | NA |
+| 547 | Trinidad and Tobago | 6.33 | NA |
+| 548 | Trinidad and Tobago | 6.33 | NA |
+| 549 | Trinidad and Tobago | 6.31 | NA |
+| 550 | Trinidad and Tobago | 6.31 | NA |
+| 551 | Trinidad and Tobago | 6.29 | NA |
+| 552 | Norway | 6.29 | NA |
+| 553 | Botswana | 6.20 | NA |
+| 554 | Norway | 6.15 | NA |
+| 555 | Svalbard | 6.15 | NA |
+| 556 | Denmark | 5.95 | NA |
+| 557 | Faroe Islands | 5.95 | NA |
+| 558 | Greenland | 5.95 | NA |
+| 559 | Croatia | 5.86 | NA |
+| 560 | Norway | 5.86 | NA |
+| 561 | Svalbard | 5.86 | NA |
+| 562 | Botswana | 5.84 | NA |
+| 563 | Denmark | 5.77 | NA |
+| 564 | Faroe Islands | 5.77 | NA |
+| 565 | Greenland | 5.77 | NA |
+| 566 | Egypt | 5.73 | NA |
+| 567 | Egypt | 5.67 | NA |
+| 568 | Norway | 5.64 | NA |
+| 569 | Svalbard | 5.64 | NA |
+| 570 | Croatia | 5.64 | NA |
+| 571 | Egypt | 5.61 | NA |
+| 572 | Egypt | 5.55 | NA |
+| 573 | Seychelles | 5.50 | NA |
+| 574 | Denmark | 5.48 | NA |
+| 575 | Greenland | 5.48 | NA |
+| 576 | Faroe Islands | 5.48 | NA |
+| 577 | Egypt | 5.40 | NA |
+| 578 | Croatia | 5.37 | NA |
+| 579 | Denmark | 5.36 | NA |
+| 580 | Croatia | 5.27 | NA |
+| 581 | Ukraine | 5.05 | NA |
+| 582 | Ukraine | 5.05 | NA |
+| 583 | Denmark | 5.02 | NA |
+| 584 | Greenland | 5.02 | NA |
+| 585 | Faroe Islands | 5.02 | NA |
+| 586 | Croatia | 4.98 | NA |
+| 587 | Ukraine | 4.95 | NA |
+| 588 | Gaza Strip | 4.46 | NA |
+| 589 | Israel | 4.46 | NA |
+| 590 | West Bank | 4.46 | NA |
+| 591 | Tajikistan | 4.38 | NA |
+| 592 | Venezuela | 4.30 | NA |
+| 593 | Tajikistan | 4.14 | NA |
+| 594 | Gaza Strip | 4.14 | NA |
+| 595 | Israel | 4.14 | NA |
+| 596 | West Bank | 4.14 | NA |
+| 597 | Gaza Strip | 3.93 | NA |
+| 598 | Israel | 3.93 | NA |
+| 599 | West Bank | 3.93 | NA |
+| 600 | Argentina | 3.90 | NA |
+| 601 | Saudi Arabia | 3.75 | NA |
+| 602 | Saudi Arabia | 3.75 | NA |
+| 603 | Saudi Arabia | 3.75 | NA |
+| 604 | Gaza Strip | 3.75 | NA |
+| 605 | West Bank | 3.75 | NA |
+| 606 | Israel | 3.75 | NA |
+| 607 | Saudi Arabia | 3.75 | NA |
+| 608 | Saudi Arabia | 3.75 | NA |
+| 609 | Argentina | 3.71 | NA |
+| 610 | United Arab Emirates | 3.67 | NA |
+| 611 | United Arab Emirates | 3.67 | NA |
+| 612 | United Arab Emirates | 3.67 | NA |
+| 613 | United Arab Emirates | 3.67 | NA |
+| 614 | United Arab Emirates | 3.67 | NA |
+| 615 | Malaysia | 3.67 | NA |
+| 616 | Qatar | 3.64 | NA |
+| 617 | Qatar | 3.64 | NA |
+| 618 | Qatar | 3.64 | NA |
+| 619 | Qatar | 3.64 | NA |
+| 620 | Qatar | 3.64 | NA |
+| 621 | Israel | 3.59 | NA |
+| 622 | Gaza Strip | 3.56 | NA |
+| 623 | West Bank | 3.56 | NA |
+| 624 | Malaysia | 3.52 | NA |
+| 625 | Malaysia | 3.46 | NA |
+| 626 | Tajikistan | 3.46 | NA |
+| 627 | Tajikistan | 3.44 | NA |
+| 628 | Malaysia | 3.33 | NA |
+| 629 | Tajikistan | 3.30 | NA |
+| 630 | Peru | 3.27 | NA |
+| 631 | Malaysia | 3.22 | NA |
+| 632 | Romania | 3.20 | NA |
+| 633 | Peru | 3.17 | NA |
+| 634 | Argentina | 3.16 | NA |
+| 635 | Poland | 3.12 | NA |
+| 636 | Argentina | 3.11 | NA |
+| 637 | Poland | 3.10 | NA |
+| 638 | Poland | 3.07 | NA |
+| 639 | Papua New Guinea | 3.06 | NA |
+| 640 | Argentina | 3.05 | NA |
+| 641 | Romania | 3.05 | NA |
+| 642 | Papua New Guinea | 3.03 | NA |
+| 643 | Peru | 3.01 | NA |
+| 644 | Samoa | 2.97 | NA |
+| 645 | Peru | 2.91 | NA |
+| 646 | Turkmenistan | 2.85 | NA |
+| 647 | Turkmenistan | 2.85 | NA |
+| 648 | Peru | 2.82 | NA |
+| 649 | Poland | 2.81 | NA |
+| 650 | Romania | 2.81 | NA |
+| 651 | Samoa | 2.78 | NA |
+| 652 | Samoa | 2.76 | NA |
+| 653 | Papua New Guinea | 2.76 | NA |
+| 654 | Papua New Guinea | 2.75 | NA |
+| 655 | Lithuania | 2.75 | NA |
+| 656 | Suriname | 2.75 | NA |
+| 657 | Suriname | 2.75 | NA |
+| 658 | Suriname | 2.73 | NA |
+| 659 | Suriname | 2.73 | NA |
+| 660 | Samoa | 2.71 | NA |
+| 661 | Anguilla | 2.70 | NA |
+| 662 | Antigua and Barbuda | 2.70 | NA |
+| 663 | Antigua and Barbuda | 2.70 | NA |
+| 664 | Saint Vincent and the Grenadines | 2.70 | NA |
+| 665 | Saint Vincent and the Grenadines | 2.70 | NA |
+| 666 | Saint Vincent and the Grenadines | 2.70 | NA |
+| 667 | Saint Vincent and the Grenadines | 2.70 | NA |
+| 668 | Saint Vincent and the Grenadines | 2.70 | NA |
+| 669 | Saint Lucia | 2.70 | NA |
+| 670 | Saint Lucia | 2.70 | NA |
+| 671 | Saint Lucia | 2.70 | NA |
+| 672 | Saint Lucia | 2.70 | NA |
+| 673 | Saint Lucia | 2.70 | NA |
+| 674 | Saint Kitts and Nevis | 2.70 | NA |
+| 675 | Saint Kitts and Nevis | 2.70 | NA |
+| 676 | Saint Kitts and Nevis | 2.70 | NA |
+| 677 | Saint Kitts and Nevis | 2.70 | NA |
+| 678 | Saint Kitts and Nevis | 2.70 | NA |
+| 679 | Montserrat | 2.70 | NA |
+| 680 | Montserrat | 2.70 | NA |
+| 681 | Montserrat | 2.70 | NA |
+| 682 | Montserrat | 2.70 | NA |
+| 683 | Montserrat | 2.70 | NA |
+| 684 | Grenada | 2.70 | NA |
+| 685 | Grenada | 2.70 | NA |
+| 686 | Grenada | 2.70 | NA |
+| 687 | Grenada | 2.70 | NA |
+| 688 | Grenada | 2.70 | NA |
+| 689 | Dominica | 2.70 | NA |
+| 690 | Dominica | 2.70 | NA |
+| 691 | Dominica | 2.70 | NA |
+| 692 | Dominica | 2.70 | NA |
+| 693 | Dominica | 2.70 | NA |
+| 694 | Antigua and Barbuda | 2.70 | NA |
+| 695 | Antigua and Barbuda | 2.70 | NA |
+| 696 | Antigua and Barbuda | 2.70 | NA |
+| 697 | Anguilla | 2.70 | NA |
+| 698 | Anguilla | 2.70 | NA |
+| 699 | Anguilla | 2.70 | NA |
+| 700 | Anguilla | 2.70 | NA |
+| 701 | Papua New Guinea | 2.70 | NA |
+| 702 | Lithuania | 2.66 | NA |
+| 703 | Suriname | 2.60 | NA |
+| 704 | Lithuania | 2.54 | NA |
+| 705 | Romania | 2.50 | NA |
+| 706 | Lithuania | 2.48 | NA |
+| 707 | Romania | 2.43 | NA |
+| 708 | Sudan | 2.36 | NA |
+| 709 | Lithuania | 2.33 | NA |
+| 710 | Sudan | 2.32 | NA |
+| 711 | Poland | 2.30 | NA |
+| 712 | Brazil | 2.18 | NA |
+| 713 | Sudan | 2.17 | NA |
+| 714 | Venezuela | 2.15 | NA |
+| 715 | Venezuela | 2.15 | NA |
+| 716 | Tonga | 2.14 | NA |
+| 717 | Sudan | 2.10 | NA |
+| 718 | Sudan | 2.06 | NA |
+| 719 | Tonga | 2.03 | NA |
+| 720 | Barbados | 2.00 | NA |
+| 721 | Brunei | 2.00 | NA |
+| 722 | Brunei | 2.00 | NA |
+| 723 | Brunei | 2.00 | NA |
+| 724 | Belize | 2.00 | NA |
+| 725 | Barbados | 2.00 | NA |
+| 726 | Belize | 2.00 | NA |
+| 727 | Belize | 2.00 | NA |
+| 728 | Belize | 2.00 | NA |
+| 729 | Belize | 2.00 | NA |
+| 730 | Barbados | 2.00 | NA |
+| 731 | Barbados | 2.00 | NA |
+| 732 | Brazil | 2.00 | NA |
+| 733 | Tonga | 1.97 | NA |
+| 734 | Tonga | 1.96 | NA |
+| 735 | Fiji | 1.90 | NA |
+| 736 | Brazil | 1.86 | NA |
+| 737 | Brazil | 1.85 | NA |
+| 738 | Georgia | 1.80 | NA |
+| 739 | Aruba | 1.79 | NA |
+| 740 | Sint Maarten | 1.79 | NA |
+| 741 | Sint Maarten | 1.79 | NA |
+| 742 | Sint Maarten | 1.79 | NA |
+| 743 | Sint Maarten | 1.79 | NA |
+| 744 | Curacao | 1.79 | NA |
+| 745 | Curacao | 1.79 | NA |
+| 746 | Curacao | 1.79 | NA |
+| 747 | Curacao | 1.79 | NA |
+| 748 | Aruba | 1.79 | NA |
+| 749 | Aruba | 1.79 | NA |
+| 750 | Aruba | 1.79 | NA |
+| 751 | Georgia | 1.78 | NA |
+| 752 | Brazil | 1.77 | NA |
+| 753 | Fiji | 1.73 | NA |
+| 754 | Fiji | 1.73 | NA |
+| 755 | Georgia | 1.70 | NA |
+| 756 | Fiji | 1.69 | NA |
+| 757 | Georgia | 1.67 | NA |
+| 758 | New Zealand | 1.60 | NA |
+| 759 | Pitcairn Islands | 1.60 | NA |
+| 760 | Niue | 1.60 | NA |
+| 761 | Tokelau | 1.60 | NA |
+| 762 | Singapore | 1.59 | NA |
+| 763 | Bosnia and Herzegovina | 1.56 | NA |
+| 764 | Bulgaria | 1.56 | NA |
+| 765 | Turkey | 1.55 | NA |
+| 766 | Cook Islands | 1.54 | NA |
+| 767 | Niue | 1.54 | NA |
+| 768 | Tokelau | 1.54 | NA |
+| 769 | New Zealand | 1.54 | NA |
+| 770 | Pitcairn Islands | 1.54 | NA |
+| 771 | Turkey | 1.52 | NA |
+| 772 | Bulgaria | 1.51 | NA |
+| 773 | Bosnia and Herzegovina | 1.51 | NA |
+| 774 | Singapore | 1.51 | NA |
+| 775 | Georgia | 1.47 | NA |
+| 776 | Singapore | 1.45 | NA |
+| 777 | Brunei | 1.45 | NA |
+| 778 | Brunei | 1.45 | NA |
+| 779 | Bosnia and Herzegovina | 1.44 | NA |
+| 780 | Tunisia | 1.44 | NA |
+| 781 | Bulgaria | 1.44 | NA |
+| 782 | Turkey | 1.43 | NA |
+| 783 | Cook Islands | 1.42 | NA |
+| 784 | Pitcairn Islands | 1.42 | NA |
+| 785 | Tokelau | 1.42 | NA |
+| 786 | New Zealand | 1.42 | NA |
+| 787 | Niue | 1.42 | NA |
+| 788 | Singapore | 1.42 | NA |
+| 789 | Bosnia and Herzegovina | 1.41 | NA |
+| 790 | Bulgaria | 1.40 | NA |
+| 791 | Cook Islands | 1.40 | NA |
+| 792 | New Zealand | 1.40 | NA |
+| 793 | Tokelau | 1.40 | NA |
+| 794 | Pitcairn Islands | 1.40 | NA |
+| 795 | Niue | 1.40 | NA |
+| 796 | Ghana | 1.40 | NA |
+| 797 | Ghana | 1.40 | NA |
+| 798 | Cook Islands | 1.38 | NA |
+| 799 | New Zealand | 1.38 | NA |
+| 800 | Niue | 1.38 | NA |
+| 801 | Tokelau | 1.38 | NA |
+| 802 | Pitcairn Islands | 1.38 | NA |
+| 803 | Singapore | 1.37 | NA |
+| 804 | Tunisia | 1.35 | NA |
+| 805 | Tunisia | 1.33 | NA |
+| 806 | Australia | 1.33 | NA |
+| 807 | Christmas Island | 1.33 | NA |
+| 808 | Tuvalu | 1.33 | NA |
+| 809 | Kiribati | 1.33 | NA |
+| 810 | Norfolk Island | 1.33 | NA |
+| 811 | Nauru | 1.33 | NA |
+| 812 | Cocos (Keeling) Islands | 1.33 | NA |
+| 813 | Turkey | 1.32 | NA |
+| 814 | Turkey | 1.32 | NA |
+| 815 | Bulgaria | 1.32 | NA |
+| 816 | Libya | 1.31 | NA |
+| 817 | Bosnia and Herzegovina | 1.31 | NA |
+| 818 | Australia | 1.28 | NA |
+| 819 | Norfolk Island | 1.28 | NA |
+| 820 | Nauru | 1.28 | NA |
+| 821 | Kiribati | 1.28 | NA |
+| 822 | Cocos (Keeling) Islands | 1.28 | NA |
+| 823 | Christmas Island | 1.28 | NA |
+| 824 | Tunisia | 1.28 | NA |
+| 825 | Libya | 1.26 | NA |
+| 826 | Libya | 1.26 | NA |
+| 827 | Liechtenstein | 1.25 | NA |
+| 828 | Switzerland | 1.25 | NA |
+| 829 | Libya | 1.25 | NA |
+| 830 | Australia | 1.21 | NA |
+| 831 | Christmas Island | 1.21 | NA |
+| 832 | Cocos (Keeling) Islands | 1.21 | NA |
+| 833 | Tuvalu | 1.21 | NA |
+| 834 | Norfolk Island | 1.21 | NA |
+| 835 | Nauru | 1.21 | NA |
+| 836 | Kiribati | 1.21 | NA |
+| 837 | Libya | 1.21 | NA |
+| 838 | Tunisia | 1.21 | NA |
+| 839 | Australia | 1.21 | NA |
+| 840 | Christmas Island | 1.21 | NA |
+| 841 | Cocos (Keeling) Islands | 1.21 | NA |
+| 842 | Tuvalu | 1.21 | NA |
+| 843 | Norfolk Island | 1.21 | NA |
+| 844 | Nauru | 1.21 | NA |
+| 845 | Kiribati | 1.21 | NA |
+| 846 | Liechtenstein | 1.20 | NA |
+| 847 | Switzerland | 1.20 | NA |
+| 848 | Canada | 1.14 | NA |
+| 849 | Canada | 1.13 | NA |
+| 850 | Australia | 1.12 | NA |
+| 851 | Tuvalu | 1.12 | NA |
+| 852 | Norfolk Island | 1.12 | NA |
+| 853 | Nauru | 1.12 | NA |
+| 854 | Kiribati | 1.12 | NA |
+| 855 | Cocos (Keeling) Islands | 1.12 | NA |
+| 856 | Christmas Island | 1.12 | NA |
+| 857 | Ghana | 1.10 | NA |
+| 858 | Liechtenstein | 1.09 | NA |
+| 859 | Switzerland | 1.09 | NA |
+| 860 | Liechtenstein | 1.08 | NA |
+| 861 | Switzerland | 1.08 | NA |
+| 862 | Canada | 1.07 | NA |
+| 863 | Liechtenstein | 1.07 | NA |
+| 864 | Switzerland | 1.07 | NA |
+| 865 | Canada | 1.04 | NA |
+| 866 | Canada | 1.03 | NA |
+| 867 | Bahamas, The | 1.00 | NA |
+| 868 | Bahamas, The | 1.00 | NA |
+| 869 | Bahamas, The | 1.00 | NA |
+| 870 | United States | 1.00 | NA |
+| 871 | Panama | 1.00 | NA |
+| 872 | Panama | 1.00 | NA |
+| 873 | Panama | 1.00 | NA |
+| 874 | Panama | 1.00 | NA |
+| 875 | Panama | 1.00 | NA |
+| 876 | Ecuador | 1.00 | NA |
+| 877 | Ecuador | 1.00 | NA |
+| 878 | Bahamas, The | 1.00 | NA |
+| 879 | Ghana | 0.95 | NA |
+| 880 | Cuba | 0.93 | NA |
+| 881 | Cuba | 0.93 | NA |
+| 882 | Cuba | 0.93 | NA |
+| 883 | Cuba | 0.93 | NA |
+| 884 | Cuba | 0.92 | NA |
+| 885 | Azerbaijan | 0.89 | NA |
+| 886 | Azerbaijan | 0.86 | NA |
+| 887 | Cayman Islands | 0.85 | NA |
+| 888 | Azerbaijan | 0.82 | NA |
+| 889 | Azerbaijan | 0.80 | NA |
+| 890 | Azerbaijan | 0.80 | NA |
+| 891 | Andorra | 0.80 | NA |
+| 892 | Spain | 0.80 | NA |
+| 893 | San Marino | 0.80 | NA |
+| 894 | Saint Pierre and Miquelon | 0.80 | NA |
+| 895 | Saint Martin | 0.80 | NA |
+| 896 | Netherlands | 0.80 | NA |
+| 897 | Montenegro | 0.80 | NA |
+| 898 | Monaco | 0.80 | NA |
+| 899 | Mayotte | 0.80 | NA |
+| 900 | Luxembourg | 0.80 | NA |
+| 901 | Italy | 0.80 | NA |
+| 902 | Ireland | 0.80 | NA |
+| 903 | Holy See (Vatican City) | 0.80 | NA |
+| 904 | Greece | 0.80 | NA |
+| 905 | Germany | 0.80 | NA |
+| 906 | France | 0.80 | NA |
+| 907 | Finland | 0.80 | NA |
+| 908 | European Union | 0.80 | NA |
+| 909 | Saint Barthelemy | 0.80 | NA |
+| 910 | Portugal | 0.80 | NA |
+| 911 | Belgium | 0.80 | NA |
+| 912 | Austria | 0.80 | NA |
+| 913 | Cyprus | 0.77 | NA |
+| 914 | Netherlands | 0.77 | NA |
+| 915 | Slovakia | 0.77 | NA |
+| 916 | Portugal | 0.77 | NA |
+| 917 | Slovenia | 0.77 | NA |
+| 918 | Malta | 0.77 | NA |
+| 919 | Akrotiri | 0.77 | NA |
+| 920 | Andorra | 0.77 | NA |
+| 921 | Austria | 0.77 | NA |
+| 922 | Dhekelia | 0.77 | NA |
+| 923 | Finland | 0.77 | NA |
+| 924 | Spain | 0.77 | NA |
+| 925 | San Marino | 0.77 | NA |
+| 926 | Saint Pierre and Miquelon | 0.77 | NA |
+| 927 | Saint Martin | 0.77 | NA |
+| 928 | Saint Barthelemy | 0.77 | NA |
+| 929 | Montenegro | 0.77 | NA |
+| 930 | Monaco | 0.77 | NA |
+| 931 | Mayotte | 0.77 | NA |
+| 932 | Luxembourg | 0.77 | NA |
+| 933 | Kosovo | 0.77 | NA |
+| 934 | Italy | 0.77 | NA |
+| 935 | Ireland | 0.77 | NA |
+| 936 | European Union | 0.77 | NA |
+| 937 | Holy See (Vatican City) | 0.77 | NA |
+| 938 | Greece | 0.77 | NA |
+| 939 | Germany | 0.77 | NA |
+| 940 | France | 0.77 | NA |
+| 941 | Belgium | 0.77 | NA |
+| 942 | Austria | 0.73 | NA |
+| 943 | Finland | 0.73 | NA |
+| 944 | Belgium | 0.73 | NA |
+| 945 | European Union | 0.73 | NA |
+| 946 | Spain | 0.73 | NA |
+| 947 | Slovenia | 0.73 | NA |
+| 948 | San Marino | 0.73 | NA |
+| 949 | Saint Pierre and Miquelon | 0.73 | NA |
+| 950 | Saint Martin | 0.73 | NA |
+| 951 | Saint Barthelemy | 0.73 | NA |
+| 952 | Portugal | 0.73 | NA |
+| 953 | Montenegro | 0.73 | NA |
+| 954 | Monaco | 0.73 | NA |
+| 955 | Mayotte | 0.73 | NA |
+| 956 | Luxembourg | 0.73 | NA |
+| 957 | Kosovo | 0.73 | NA |
+| 958 | Italy | 0.73 | NA |
+| 959 | Ireland | 0.73 | NA |
+| 960 | Holy See (Vatican City) | 0.73 | NA |
+| 961 | Greece | 0.73 | NA |
+| 962 | Netherlands | 0.73 | NA |
+| 963 | Germany | 0.73 | NA |
+| 964 | France | 0.73 | NA |
+| 965 | Akrotiri | 0.73 | NA |
+| 966 | Saint Barthelemy | 0.73 | NA |
+| 967 | Saint Martin | 0.73 | NA |
+| 968 | European Union | 0.73 | NA |
+| 969 | Dhekelia | 0.73 | NA |
+| 970 | Kosovo | 0.73 | NA |
+| 971 | Andorra | 0.73 | NA |
+| 972 | Slovenia | 0.72 | NA |
+| 973 | Cyprus | 0.72 | NA |
+| 974 | Slovakia | 0.72 | NA |
+| 975 | Andorra | 0.72 | NA |
+| 976 | Spain | 0.72 | NA |
+| 977 | San Marino | 0.72 | NA |
+| 978 | Saint Pierre and Miquelon | 0.72 | NA |
+| 979 | Portugal | 0.72 | NA |
+| 980 | Italy | 0.72 | NA |
+| 981 | Ireland | 0.72 | NA |
+| 982 | Holy See (Vatican City) | 0.72 | NA |
+| 983 | Greece | 0.72 | NA |
+| 984 | Germany | 0.72 | NA |
+| 985 | France | 0.72 | NA |
+| 986 | Finland | 0.72 | NA |
+| 987 | Belgium | 0.72 | NA |
+| 988 | Netherlands | 0.72 | NA |
+| 989 | Montenegro | 0.72 | NA |
+| 990 | Monaco | 0.72 | NA |
+| 991 | Mayotte | 0.72 | NA |
+| 992 | Malta | 0.72 | NA |
+| 993 | Luxembourg | 0.72 | NA |
+| 994 | Austria | 0.72 | NA |
+| 995 | Jordan | 0.71 | NA |
+| 996 | Jordan | 0.71 | NA |
+| 997 | Jordan | 0.71 | NA |
+| 998 | Jordan | 0.71 | NA |
+| 999 | Jordan | 0.71 | NA |
+| 1000 | Akrotiri | 0.68 | NA |
+| 1001 | Austria | 0.68 | NA |
+| 1002 | Belgium | 0.68 | NA |
+| 1003 | Cyprus | 0.68 | NA |
+| 1004 | Dhekelia | 0.68 | NA |
+| 1005 | Andorra | 0.68 | NA |
+| 1006 | European Union | 0.68 | NA |
+| 1007 | Spain | 0.68 | NA |
+| 1008 | Slovenia | 0.68 | NA |
+| 1009 | Saint Martin | 0.68 | NA |
+| 1010 | Saint Barthelemy | 0.68 | NA |
+| 1011 | Portugal | 0.68 | NA |
+| 1012 | Netherlands | 0.68 | NA |
+| 1013 | Montenegro | 0.68 | NA |
+| 1014 | Monaco | 0.68 | NA |
+| 1015 | Malta | 0.68 | NA |
+| 1016 | Luxembourg | 0.68 | NA |
+| 1017 | Kosovo | 0.68 | NA |
+| 1018 | Italy | 0.68 | NA |
+| 1019 | Ireland | 0.68 | NA |
+| 1020 | Holy See (Vatican City) | 0.68 | NA |
+| 1021 | Greece | 0.68 | NA |
+| 1022 | Germany | 0.68 | NA |
+| 1023 | France | 0.68 | NA |
+| 1024 | Finland | 0.68 | NA |
+| 1025 | Mayotte | 0.67 | NA |
+| 1026 | Saint Pierre and Miquelon | 0.67 | NA |
+| 1027 | San Marino | 0.67 | NA |
+| 1028 | Guernsey | 0.65 | NA |
+| 1029 | Isle of Man | 0.65 | NA |
+| 1030 | United Kingdom | 0.65 | NA |
+| 1031 | Jersey | 0.65 | NA |
+| 1032 | Gibraltar | 0.65 | NA |
+| 1033 | Saint Helena, Ascension, and Tristan da Cunha | 0.65 | NA |
+| 1034 | Isle of Man | 0.64 | NA |
+| 1035 | Jersey | 0.64 | NA |
+| 1036 | United Kingdom | 0.64 | NA |
+| 1037 | Latvia | 0.56 | NA |
+| 1038 | Falkland Islands (Islas Malvinas) | 0.55 | NA |
+| 1039 | Falkland Islands (Islas Malvinas) | 0.55 | NA |
+| 1040 | Saint Helena, Ascension, and Tristan da Cunha | 0.55 | NA |
+| 1041 | Latvia | 0.54 | NA |
+| 1042 | Falkland Islands (Islas Malvinas) | 0.54 | NA |
+| 1043 | Gibraltar | 0.54 | NA |
+| 1044 | United Kingdom | 0.54 | NA |
+| 1045 | Saint Helena, Ascension, and Tristan da Cunha | 0.54 | NA |
+| 1046 | Jersey | 0.54 | NA |
+| 1047 | Isle of Man | 0.54 | NA |
+| 1048 | Guernsey | 0.54 | NA |
+| 1049 | Falkland Islands (Islas Malvinas) | 0.53 | NA |
+| 1050 | United Kingdom | 0.53 | NA |
+| 1051 | Saint Helena, Ascension, and Tristan da Cunha | 0.53 | NA |
+| 1052 | Jersey | 0.53 | NA |
+| 1053 | Isle of Man | 0.53 | NA |
+| 1054 | Guernsey | 0.53 | NA |
+| 1055 | Gibraltar | 0.53 | NA |
+| 1056 | Latvia | 0.52 | NA |
+| 1057 | Latvia | 0.51 | NA |
+| 1058 | Falkland Islands (Islas Malvinas) | 0.50 | NA |
+| 1059 | Gibraltar | 0.50 | NA |
+| 1060 | Guernsey | 0.50 | NA |
+| 1061 | United Kingdom | 0.50 | NA |
+| 1062 | Saint Helena, Ascension, and Tristan da Cunha | 0.50 | NA |
+| 1063 | Jersey | 0.50 | NA |
+| 1064 | Isle of Man | 0.50 | NA |
+| 1065 | Latvia | 0.47 | NA |
+| 1066 | Cyprus | 0.46 | NA |
+| 1067 | Cyprus | 0.43 | NA |
+| 1068 | Oman | 0.38 | NA |
+| 1069 | Oman | 0.38 | NA |
+| 1070 | Oman | 0.38 | NA |
+| 1071 | Oman | 0.38 | NA |
+| 1072 | Oman | 0.38 | NA |
+| 1073 | Bahrain | 0.38 | NA |
+| 1074 | Bahrain | 0.38 | NA |
+| 1075 | Bahrain | 0.38 | NA |
+| 1076 | Bahrain | 0.38 | NA |
+| 1077 | Bahrain | 0.38 | NA |
+| 1078 | Malta | 0.37 | NA |
+| 1079 | Malta | 0.31 | NA |
+| 1080 | Kuwait | 0.29 | NA |
+| 1081 | Kuwait | 0.29 | NA |
+| 1082 | Kuwait | 0.29 | NA |
+| 1083 | Kuwait | 0.28 | NA |
+| 1084 | Kuwait | 0.27 | NA |

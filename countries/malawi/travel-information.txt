@@ -1,0 +1,29 @@
+Telephone Code: 265
+Local Emergency Phone - Ambulance: 998
+Local Emergency Phone - Fire: 999
+Local Emergency Phone - Police: 997
+Climate: Sub-tropical; rainy season (November to May); dry season (May to November)
+Currency (Code): Malawian kwachas (MWK)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): G
+Major Languages: English, Chichewa (common), Chinyanja, Chiyao, Chitumbuka, Chilomwe, Chinkhonde, Chingoni, Chisena, Chitonga, Chinyakyusa, Chilambya
+Major Religions: Protestant 33.5%, Roman Catholic 17.2%, other Christian 26.6%, Muslim 13.8%, traditionalist 1.1%
+Time Difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Left
+Tourist Destinations: Lake Malawi; Mulanje Mountain Forest Reserve; Likoma Island; Liwonde National Park; Zomba Plateau; Chongoni Rock-Art
+Major Sports: Soccer, rugby, track and field, basketball, tennis
+Cultural Practices: Making a circle with the thumb and index finger can be taken as an insult.
+Tipping Guidelines: Tipping is completely voluntary and dependent on the quality of the service you receive. Group guides and general hotel staff should receive $5-10 (USD) per day.
+Souvenirs: Carved wooden masks, statues, and toys; tribal jewelry; hand-woven baskets and twig rugs; Batik wall hangings, clothing, and bags; wood/cane/raffia furniture and decorative items; soapstone carvings; ceramics/pottery
+Traditional Cuisine: Chambo (fish) with nshima/nsima (a thick porridge made from cassava, corn, or other starchy flour)
+
+---
+country: Malawi
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Malawi/travel-facts>
+license: public domain (U.S.)
+...

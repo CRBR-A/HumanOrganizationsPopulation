@@ -1,0 +1,332 @@
+CIA - The World Factbook -- Maldives
+
+| Geography | Maldives |
+| --- | --- |
+| Location: | Southern Asia, group of atolls in the Indian Ocean, south-southwest of India |
+| Geographic coordinates: | 3 15 N, 73 00 E |
+| Map references: | Asia |
+| Area: | total: 298 sq km |
+| | land: 298 sq km |
+| | water: 0 sq km |
+| Area - comparative: | about 1.7 times the size of Washington, DC |
+| | Area comparison map: [Area comparison map] |
+| | The World Factbook Field Image Modal |
+| | Ã— |
+| | South Asia :: Maldives Print |
+| | [Area comparison map] |
+| | Image Description |
+| | about 1.7 times the size of Washington, DC |
+| Land boundaries: | 0 km |
+| Coastline: | 644 km |
+| Maritime claims: | territorial sea: 12 nm |
+| | exclusive economic zone: 200 nm |
+| | contiguous zone: 24 nm |
+| | measured from claimed archipelagic straight baselines |
+| Climate: | tropical; hot, humid; dry, northeast monsoon (November to March); rainy, southwest monsoon (June to August) |
+| Terrain: | flat, with white sandy beaches |
+| Elevation: | mean elevation: 2 m |
+| | lowest point: Indian Ocean 0 m |
+| | highest point: 8th tee, golf course, Villingi Island 5 m |
+| Natural resources: | fish |
+| Land use: | agricultural land: 23.3% (2011 est.) |
+| | arable land: 10% (2011 est.) / permanent crops: 10% (2011 est.) / permanent pasture: 3.3% (2011 est.) |
+| | forest: 3% (2011 est.) |
+| | other: 73.7% (2011 est.) |
+| Irrigated land: | 0 sq km (2012) |
+| Population distribution: | about a third of the population lives in the centrally located capital city of Male and almost a tenth in southern Addu City; the remainder of the populace is spread over the 200 or so populated islands of the archipelago |
+| Natural hazards: | tsunamis; low elevation of islands makes them sensitive to sea level rise |
+| Environment - current issues: | depletion of freshwater aquifers threatens water supplies; inadequate sewage treatment; coral reef bleaching |
+| Environment - international agreements: | party to: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution |
+| | signed, but not ratified: none of the selected agreements |
+| Geography - note: | smallest Asian country; archipelago of 1,190 coral islands grouped into 26 atolls (200 inhabited islands, plus 80 islands with tourist resorts); strategic location astride and along major sea lanes in Indian Ocean |
+
+| People and Society | Maldives |
+| --- | --- |
+| Population: | 391,904 (July 2020 est.) |
+| Nationality: | noun: Maldivian(s) |
+| | adjective: Maldivian |
+| Ethnic groups: | homogeneous mixture of Sinhalese, Dravidian, Arab, Australasian, and African resulting from historical changes in regional hegemony over marine trade routes |
+| Languages: | Dhivehi (official, dialect of Sinhala, script derived from Arabic), English (spoken by most government officials) |
+| Religions: | Sunni Muslim (official) |
+| Age structure: | 0-14 years: 22.13% (male 44,260/female 42,477) |
+| | 15-24 years: 17.24% (male 37,826/female 29,745) |
+| | 25-54 years: 48.91% (male 104,217/female 87,465) |
+| | 55-64 years: 6.91% (male 12,942/female 14,123) |
+| | 65 years and over: 4.81% (male 8,417/female 10,432) (2020 est.) |
+| Dependency ratios: | total dependency ratio: 30.2 |
+| | youth dependency ratio: 25.5 |
+| | elderly dependency ratio: 4.7 |
+| | potential support ratio: 21.4 (2020 est.) |
+| Median age: | total: 29.5 years |
+| | male: 29.2 years |
+| | female: 30 years (2020 est.) |
+| Population growth rate: | -0.08% (2020 est.) |
+| Birth rate: | 16 births/1,000 population (2020 est.) |
+| Death rate: | 4.1 deaths/1,000 population (2020 est.) |
+| Net migration rate: | -12.7 migrant(s)/1,000 population (2020 est.) |
+| Population distribution: | about a third of the population lives in the centrally located capital city of Male and almost a tenth in southern Addu City; the remainder of the populace is spread over the 200 or so populated islands of the archipelago |
+| Urbanization: | urban population: 40.7% of total population (2020) |
+| | rate of urbanization: 2.93% annual rate of change (2015-20 est.) |
+| | total population growth rate v. urban population growth rate, 2000-2030: [Adobe] PDF |
+| Major urban areas - population: | 177,000 MALE (capital) (2018) |
+| Sex ratio: | at birth: 1.05 male(s)/female |
+| | 0-14 years: 1.04 male(s)/female |
+| | 15-24 years: 1.27 male(s)/female |
+| | 25-54 years: 1.19 male(s)/female |
+| | 55-64 years: 0.92 male(s)/female |
+| | 65 years and over: 0.81 male(s)/female |
+| | total population: 1.13 male(s)/female (2020 est.) |
+| Mother's mean age at first birth: | 24.5 years (2009 est.) |
+| | note: median age at first birth among women 25-29 |
+| Maternal mortality rate: | 53 deaths/100,000 live births (2017 est.) |
+| Infant mortality rate: | total: 19.8 deaths/1,000 live births |
+| | male: 22 deaths/1,000 live births |
+| | female: 17.5 deaths/1,000 live births (2020 est.) |
+| Life expectancy at birth: | total population: 76.4 years |
+| | male: 74 years |
+| | female: 78.9 years (2020 est.) |
+| Total fertility rate: | 1.71 children born/woman (2020 est.) |
+| Contraceptive prevalence rate: | 18.8% (2016/17) |
+| Drinking water source: | improved: urban: 98.3% of population |
+| | rural: 100% of population |
+| | total: 100% of population |
+| | unimproved: urban: 1.7% of population |
+| | rural: 0% of population |
+| | total: 0% of population (2017 est.) |
+| Current Health Expenditure: | 9% (2017) |
+| Physicians density: | 3.72 physicians/1,000 population (2017) |
+| Hospital bed density: | 4.3 beds/1,000 population (2009) |
+| Sanitation facility access: | improved: urban: 100% of population |
+| | rural: 100% of population |
+| | total: 100% of population |
+| | unimproved: urban: 0% of population |
+| | rural: 0% of population |
+| | total: 0% of population (2017 est.) |
+| HIV/AIDS - adult prevalence rate: | NA |
+| HIV/AIDS - people living with HIV/AIDS: | NA |
+| HIV/AIDS - deaths: | NA |
+| Obesity - adult prevalence rate: | 8.6% (2016) |
+| Children under the age of 5 years underweight: | 17.7% (2009) |
+| Education expenditures: | 4.1% of GDP (2016) |
+| Literacy: | definition: age 15 and over can read and write |
+| | total population: 97.7% |
+| | male: 97.3% |
+| | female: 98.1% (2016) |
+| Unemployment, youth ages 15-24: | total: 15.9% |
+| | male: 19.1% |
+| | female: 12.1% (2016 est.) |
+
+| Government | Maldives |
+| --- | --- |
+| Country name: | conventional long form: Republic of Maldives |
+| | conventional short form: Maldives |
+| | local long form: Dhivehi Raajjeyge Jumhooriyyaa |
+| | local short form: Dhivehi Raajje |
+| | etymology: archipelago apparently named after the main island (and capital) of Male; the word "Maldives" means "the islands (dives) of Male"; alternatively, the name may derive from the Sanskrit word "maladvipa" meaning "garland of islands"; Dhivehi Raajje in Dhivehi means "Kingdom of the Dhivehi people" |
+| Government type: | presidential republic |
+| Capital: | name: Male |
+| | geographic coordinates: 4 10 N, 73 30 E |
+| | time difference: UTC+5 (10 hours ahead of Washington, DC, during Standard Time) |
+| | etymology: derived from the Sanskrit word "mahaalay" meaning "big house" |
+| Administrative divisions: | 21 administrative atolls (atholhuthah, singular - atholhu); Addu (Addu City), Ariatholhu Dhekunuburi (South Ari Atoll), Ariatholhu Uthuruburi (North Ari Atoll), Faadhippolhu, Felidhuatholhu (Felidhu Atoll), Fuvammulah, Hahdhunmathi, Huvadhuatholhu Dhekunuburi (South Huvadhu Atoll), Huvadhuatholhu Uthuruburi (North Huvadhu Atoll), Kolhumadulu, Maale (Male), Maaleatholhu (Male Atoll), Maalhosmadulu Dhekunuburi (South Maalhosmadulu), Maalhosmadulu Uthuruburi (North Maalhosmadulu), Miladhunmadulu Dhekunuburi (South Miladhunmadulu), Miladhunmadulu Uthuruburi (North Miladhunmadulu), Mulakatholhu (Mulaku Atoll), Nilandheatholhu Dhekunuburi (South Nilandhe Atoll), Nilandheatholhu Uthuruburi (North Nilandhe Atoll), Thiladhunmathee Dhekunuburi (South Thiladhunmathi), Thiladhunmathee Uthuruburi (North Thiladhunmathi) |
+| Independence: | 26 July 1965 (from the UK) |
+| National holiday: | Independence Day, 26 July (1965) |
+| Constitution: | history: many previous; latest ratified 7 August 2008 |
+| | amendments: proposed by Parliament; passage requires at least three-quarters majority vote by its membership and the signature of the president of the republic; passage of amendments to constitutional articles on rights and freedoms and the terms of office of Parliament and of the president also requires a majority vote in a referendum; amended 2015 |
+| Legal system: | Islamic (sharia) legal system with English common law influences, primarily in commercial matters |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| | citizenship by descent only: at least one parent must be a citizen of Maldives |
+| | dual citizenship recognized: yes |
+| | residency requirement for naturalization: unknown |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Ibrahim "Ibu" Mohamed SOLIH (since 17 November 2018); Vice PresidentÂ Faisal NASEEM (since 17 November 2018); the president is both chief of state and head of government |
+| | head of government: President Ibrahim Mohamed SOLIH (since 17 November 2018); Vice PresidentÂ Faisal NASEEM (since 17Â November 2018) |
+| | cabinet: Cabinet of Ministers appointed by the president, approved by Parliament |
+| | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 23 September 2018 (next to be held in 2023) |
+| | election results: Ibrahim Mohamed SOLIH elected president (in 1 round); Ibrahim Mohamed SOLIH (MDP) 58.3%, Abdulla YAMEEN Abdul Gayoom (PPM) 41.7% |
+| Legislative branch: | description: unicameral Parliament or People's Majlis (87 seats - includes 2 seats added by the Elections Commission in late 2018; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms) |
+| | elections: last held onÂ 6 April 2019Â (next to be held in 2023) |
+| | election results: percent of vote - MDP 44.7%, JP 10.8%, PPM 8.7%, PNC 6.4%, MDA 2.8%, other 5.6%, independent 21%; seats by party - MDP 65, JP 5, PPM 5, PNC 3, MDA 2, independent 7; composition - men 83, women 4, percent of women 4.6% |
+| Judicial branch: | highest courts: Supreme Court (consists of the chief justice and 4-6 justices; note - 3 justices as of late 2019) |
+| | judge selection and term of office: Supreme Court judges appointed by the president in consultation with the Judicial Service Commission - a 10-member body of selected high government officials and the public - and upon confirmation by voting members of the People's Majlis; judges serve until mandatory retirement at age 70 |
+| | subordinate courts: High Court; Criminal, Civil, Family, Juvenile, and Drug Courts; Magistrate Courts (on each of the inhabited islands) |
+| Political parties and leaders: | Adhaalath (Justice) Party or AP [Sheikh Imran ABDULLA] |
+| | Dhivehi Rayyithunge Party or DRP [Ahmed Thasmeen ALI] |
+| | Maldives Development Alliance or MDA [Ahmed Shiyam MOHAMED] |
+| | Maldivian Democratic Party or MDP [Mohamed NASHEED] |
+| | Maldives Labor and Social Democratic Party or MLSDP [Ahmed SHIHAM] |
+| | Maldives Thirdway Democrats or MTD [Ahmed ADEEB] |
+| | Maumoon/Maldives Reform Movement or MRM [Maumoon Abdul GAYOOM] |
+| | National Democratic Congress [Yousuf Maaniu] (formed in 2020) |
+| | People's National Congress or PNC [Abdul Raheem ABDULLA] (formed in early 2019) |
+| | Progressive Party of Maldives or PPM |
+| | Republican (Jumhooree) Party or JP [Qasim IBRAHIM] |
+| | (2020) |
+| International organization participation: | ADB, AOSIS, C, CP, FAO, G-77, IBRD, ICAO, ICC (NGOs), ICCt, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, MIGA, NAM, OIC, OPCW, SAARC, SACEP, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador THILMEEZA Hussain (since 8 July 2019); There is currently no Maldives Embassy in Washington, DC, but its permanent representative to the United Nations in New York is accredited currently as ambassador to the United States. Jul 27, 2020 (2020) |
+| | chancery: 801 Second Avenue, Suite 400E, New York, NY 10017 |
+| | telephone: [1] (212) 599-6194 and 599-6195 |
+| | FAX: [1] (212) 661-6405 |
+| Diplomatic representation from the US: | the US does not have an embassy in Maldives; US Ambassador to Sri Lanka and Maldives, Alaina TEPLITZ (since 1 November 2018), is accredited to both countries; note: Secretary of State Mike Pompeo spoke of establishing an embassy on his trip to Maldives in October of 2020 |
+| Flag description: | red with a large green rectangle in the center bearing a vertical white crescent moon; the closed side of the crescent is on the hoist side of the flag; red recalls those who have sacrificed their lives in defense of their country, the green rectangle represents peace and prosperity, and the white crescent signifies Islam |
+| National symbol(s): | coconut palm, yellowfin tuna; national colors: red, green, white |
+| National anthem: | name: "Gaumee Salaam" (National Salute) |
+| | lyrics/music: Mohamed Jameel DIDI/Wannakuwattawaduge DON AMARADEVA |
+| | note: lyrics adopted 1948, music adopted 1972; between 1948 and 1972, the lyrics were sung to the tune of "Auld Lang Syne" |
+
+| Economy | Maldives |
+| --- | --- |
+| Economic overview: | Maldives has quickly become a middle-income country, driven by the rapid growth of its tourism and fisheries sectors, but the country still contends with a large and growing fiscal deficit. Infrastructure projects, largely funded by China, could add significantly to debt levels. Political turmoil and the declaration of a state of emergency in February 2018 led to the issuance of travel warnings by several countries whose citizens visit Maldives in significant numbers, but the overall impact on tourism revenue was unclear. |
+| | In 2015, Maldivesâ€™ Parliament passed a constitutional amendment legalizing foreign ownership of land; foreign land-buyers must reclaim at least 70% of the desired land from the ocean and invest at least $1 billion in a construction project approved by Parliament. |
+| | Diversifying the economy beyond tourism and fishing, reforming public finance, increasing employment opportunities, and combating corruption, cronyism, and a growing drug problem are near-term challenges facing the government. Over the longer term, Maldivian authorities worry about the impact of erosion and possible global warming on their low-lying country; 80% of the area is 1 meter or less above sea level. |
+| GDP real growth rate: | 4.8% (2017 est.) |
+| | 4.5% (2016 est.) |
+| | 2.2% (2015 est.) |
+| Inflation rate (consumer prices): | 2.3% (2017 est.) |
+| | 0.8% (2016 est.) |
+| Credit ratings: | Fitch rating: CCC (2020) |
+| | Moody's rating: B3 (2020) |
+| GDP (purchasing power parity) - real: | $6.901 billion (2017 est.) |
+| | $6.583 billion (2016 est.) |
+| | $6.3 billion (2015 est.) |
+| | note: data are in 2017 dollars |
+| GDP (official exchange rate): | $4.505 billion (2017 est.) |
+| GDP - per capita (PPP): | $19,200 (2017 est.) |
+| | $18,600 (2016 est.) |
+| | $18,100 (2015 est.) |
+| | note: data are in 2017 dollars |
+| Gross national saving: | 0.5% of GDP (2017 est.) |
+| | -4.5% of GDP (2016 est.) |
+| | 12.6% of GDP (2015 est.) |
+| GDP - composition, by sector of origin: | agriculture: 3% (2015 est.) |
+| | industry: 16% (2015 est.) |
+| | services: 81% (2015 est.) |
+| GDP - composition, by end use: | household consumption: NA (2016 est.) |
+| | government consumption: NA (2016 est.) |
+| | investment in fixed capital: NA (2016 est.) |
+| | investment in inventories: NA (2016 est.) |
+| | exports of goods and services: 93.6% (2016 est.) |
+| | imports of goods and services: 89% (2016 est.) |
+| Ease of Doing Business Index scores: | 89.2 (2020) |
+| Agriculture - products: | coconuts, corn, sweet potatoes; fish |
+| Industries: | tourism, fish processing, shipping, boat building, coconut processing, woven mats, rope, handicrafts, coral and sand mining |
+| Industrial production growth rate: | 14% (2012 est.) |
+| Labor force: | 222,200 (2017 est.) |
+| Labor force - by occupation: | agriculture: 7.7% |
+| | industry: 22.8% |
+| | services: 69.5% (2017 est.) |
+| Unemployment rate: | 2.9% (2017 est.) |
+| | 3.2% (2016 est.) |
+| Population below poverty line: | 15% (2009 est.) |
+| Household income or consumption by percentage share: | lowest 10%: 1.2% |
+| | highest 10%: 33.3% (FY09/10) |
+| Budget: | revenues: 1.19 billion (2016 est.) |
+| | expenditures: 1.643 billion (2016 est.) |
+| Taxes and other revenues: | 26.4% (of GDP) (2016 est.) |
+| Budget surplus (+) or deficit (-): | -10.1% (of GDP) (2016 est.) |
+| Public debt: | 63.9% of GDP (2017 est.) |
+| | 61.7% of GDP (2016 est.) |
+| Fiscal year: | calendar year |
+| Current account balance: | -$876 million (2017 est.) |
+| | -$1.033 billion (2016 est.) |
+| Exports: | $256.2 million (2016 est.) |
+| | $239.8 million (2015 est.) |
+| Exports - partners: | Thailand 42.8%, Sri Lanka 8.7%, Bangladesh 6.4%, France 6.2%, US 6.1%, Germany 5%, Ireland 4.6% (2017) |
+| Exports - commodities: | fish |
+| Imports: | $2.125 billion (2016 est.) |
+| | $1.896 billion (2015 est.) |
+| Imports - commodities: | petroleum products, clothing, intermediate and capital goods |
+| Imports - partners: | UAE 17.1%, India 13.5%, Singapore 13.3%, China 10.8%, Sri Lanka 6.7%, Malaysia 6%, Thailand 4.5% (2017) |
+| Reserves of foreign exchange and gold: | $477.9 million (31 December 2016 est.) |
+| | $575.8 million (31 December 2015 est.) |
+| Debt - external: | $848.8 million (31 December 2016 est.) |
+| | $696.2 million (31 December 2015 est.) |
+| Exchange rates: | rufiyaa (MVR) per US dollar - |
+| | 15.42 (2017 est.) |
+| | 15.35 (2016 est.) |
+
+| Energy | Maldives |
+| --- | --- |
+| Electricity access: | electrification - total population: 100% (2020) |
+| Electricity - production: | 402 million kWh (2016 est.) |
+| Electricity - consumption: | 373.9 million kWh (2016 est.) |
+| Electricity - exports: | 0 kWh (2016 est.) |
+| Electricity - imports: | 0 kWh (2016 est.) |
+| Electricity - installed generating capacity: | 278,000 kW (2016 est.) |
+| Electricity - from fossil fuels: | 96% of total installed capacity (2016 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2017 est.) |
+| Electricity - from hydroelectric plants: | 0% of total installed capacity (2017 est.) |
+| Electricity - from other renewable sources: | 4% of total installed capacity (2017 est.) |
+| Crude oil - production: | 0 bbl/day (2018 est.) |
+| Crude oil - exports: | 0 bbl/day (2015 est.) |
+| Crude oil - imports: | 0 bbl/day (2015 est.) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2018 est.) |
+| Refined petroleum products - production: | 0 bbl/day (2015 est.) |
+| Refined petroleum products - consumption: | 11,000 bbl/day (2016 est.) |
+| Refined petroleum products - exports: | 0 bbl/day (2015 est.) |
+| Refined petroleum products - imports: | 10,840 bbl/day (2015 est.) |
+| Natural gas - production: | 0 cu m (2017 est.) |
+| Natural gas - consumption: | 0 cu m (2017 est.) |
+| Natural gas - exports: | 0 cu m (2017 est.) |
+| Natural gas - imports: | 0 cu m (2017 est.) |
+| Natural gas - proved reserves: | 0 cu m (1 January 2016 est.) |
+| Carbon dioxide emissions from consumption of energy: | 1.648 million Mt (2017 est.) |
+
+| Communications | Maldives |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 12,316 |
+| | subscriptions per 100 inhabitants: 3.14 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 611,662 |
+| | subscriptions per 100 inhabitants: 155.95 (2019 est.) |
+| Telecommunication systems: | general assessment: upgrades to telecom infrastructure extended to outer islands; two mobile operators extend LTE coverage;Â tourism has strengthened the telecom market with investment and accounts for theÂ high mobile penetration rate;Â mobile penetration passes 250%; launches 5G trials (2020) |
+| | domestic: fixed-line is at 3 per 100 persons and high mobile-cellular subscriptions stands at 156 per 100 persons (2019) |
+| | international: country code - 960; landing points for Dhiraagu Cable Network, NaSCOM, Dhiraagu-SLT Submarine Cable Networks and WARF submarine cables providing connections to 8 points in Maldives, India, and Sri Lanka;Â satellite earth station - 3 Intelsat (Indian Ocean) (2019) |
+| | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | state-owned radio and TV monopoly until recently;Â 4 state-operated and 7 privately owned TV stations and 4 state-operated and 7 privately owned radio stations (2019) |
+| Internet country code: | .mv |
+| Internet users: | total: 248,004 |
+| | percent of population: 63.19% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 53,470 |
+| | subscriptions per 100 inhabitants: 14 (2018 est.) |
+
+| Transportation | Maldives |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 3 (2020) |
+| | inventory of registered aircraft operated by air carriers: 36 |
+| | annual passenger traffic on registered air carriers: 1,147,247 (2018) |
+| | annual freight traffic on registered air carriers: 7.75 million (2018) |
+| Civil aircraft registration country code prefix: | 8Q (2016) |
+| Airports: | 9 (2013) |
+| Airports - with paved runways: | total: 7 (2017) |
+| | over 3,047 m: 1 (2017) |
+| | 2,438 to 3,047 m: 1 (2017) |
+| | 1,524 to 2,437 m: 1 (2017) |
+| | 914 to 1,523 m: 4 (2017) |
+| Airports - with unpaved runways: | total: 2 (2013) |
+| | 914 to 1,523 m: 2 (2013) |
+| Roadways: | total: 93 km (2018) |
+| | paved: 93 km - 60 km in Male; 16 km on Addu Atolis; 17 km on Laamu (2018) |
+| | note: island roads are mainly compacted coral |
+| Merchant marine: | total: 62 |
+| | by type: bulk carrier 1, general cargo 20, oil tanker 16, other 25 (2019) |
+| Ports and terminals: | major seaport(s): Male |
+
+| Military and Security | Maldives |
+| --- | --- |
+| Military and security forces: | the Republic of Maldives has no distinct army, navy, or air force but a single security unit called the Maldives National Defence Force (MNDF) comprised of ground forces, an air element, a coastguard, a presidential security division, and a special protection group (2020) |
+| | note:Â the MNDF is primarily tasked to reinforce the Maldives Police Service (MPS) and ensure security in the country's exclusive economic zone |
+| Military and security service personnel strengths: | the Maldives National Defense Force (MNDF) has approximately 2,500 personnel (2019 est.) |
+| Military equipment inventories and acquisitions: | India has provided most of the equipment in the MNDF's inventory (2020) |
+| Military service age and obligation: | 18-28 years of age for voluntary service; no conscription; 10th grade or equivalent education required; must not be a member of a political party |
+
+| Terrorism | Maldives |
+| --- | --- |
+| Terrorist group(s): | Islamic State of Iraq and ash-Sham (ISIS) (2020) |
+| | note: details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T |
+
+| Transnational Issues | Maldives |
+| --- | --- |
+| Disputes - international: | none |
+| Trafficking in persons: | current situation: Maldives is a destination country for men, women, and children subjected to forced labor and sex trafficking and a source country for women and children subjected to labor and sex trafficking; primarily Bangladeshi and Indian migrants working both legally and illegally in the construction and service sectors face conditions of forced labor, including fraudulent recruitment, confiscation of identity and travel documents, nonpayment and withholding of wages, and debt bondage; a small number of women from Asia, Eastern Europe, and former Soviet states are trafficked to Maldives for sexual exploitation; Maldivian women may be subjected to sex trafficking domestically or in Sri Lanka; some Maldivian children are transported to the capital for domestic service, where they may also be victims of sexual abuse and forced labor |
+| | tier rating: Tier 2 Watch List â€“ Maldives does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; the government adopted a national action plan for 2015-19 and is continuing to develop victim identification, protection, and referral procedures, but overall its anti-trafficking efforts did not increase; only five trafficking investigations were conducted, no new prosecutions were initiated for the second consecutive year, and no convictions were made, down from one in 2013; some officials warned businesses in advance of planned raids for suspected trafficking offenses; victim protection deteriorated when the state-run shelter for female victims barred access to victims shortly after opening in January 2014, in part because of bureaucratic disputes, which dissuaded victims from pursuing charges against perpetrators; the government did not prosecute or hold accountable any employers or government officials for withholding passports (2015) |

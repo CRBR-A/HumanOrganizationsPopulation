@@ -1,0 +1,732 @@
+CIA - The World Factbook --  Airports - with unpaved runways   
+
+This entry gives the total number of airports with unpaved runways (grass, dirt, sand, or gravel surfaces) by length. For airports with more than one runway, only the longest runway is included according to the following five groups - (1) over 3,047 m (over 10,000 ft), (2) 2,438 to 3,047 m (8,000 to 10,000 ft), (3) 1,524 to 2,437 m (5,000 to 8,000 ft), (4) 914 to 1,523 m (3,000 to 5,000 ft), and (5) under 914 m (under 3,000 ft). Only airports with usable runways are included in this listing. Not all airports have facilities for refueling, maintenance, or air traffic control. The type aircraft capable of operating from a runway of a given length is dependent upon a number of factors including elevation of the runway, runway gradient, average maximum daily temperature at the airport, engine types, flap settings, and take-off weight of the aircraft.
+
+| Rank | country | Airports - with unpaved runways | Date of Information |
+| --- | --- | --- | --- |
+| 1 | United States | 9,885.00 | 2010 |
+| 2 | United States | 7,971.00 | 2010 |
+| 3 | Brazil | 3,392.00 | 2012 |
+| 4 | United States | 1,752.00 | 2010 |
+| 5 | Brazil | 1,653.00 | 2012 |
+| 6 | Brazil | 1,648.00 | 2012 |
+| 7 | Mexico | 1,475.00 | 2012 |
+| 8 | European Union | 1,361.00 | 2012 |
+| 9 | Mexico | 1,140.00 | 2012 |
+| 10 | European Union | 1,097.00 | 2012 |
+| 11 | Argentina | 990.00 | 2012 |
+| 12 | Canada | 931.00 | 2012 |
+| 13 | Bolivia | 844.00 | 2012 |
+| 14 | Paraguay | 785.00 | 2012 |
+| 15 | Colombia | 741.00 | 2012 |
+| 16 | Bolivia | 631.00 | 2012 |
+| 17 | Russia | 625.00 | 2012 |
+| 18 | Papua New Guinea | 542.00 | 2012 |
+| 19 | Colombia | 537.00 | 2012 |
+| 20 | Argentina | 499.00 | 2012 |
+| 21 | Indonesia | 491.00 | 2012 |
+| 22 | Papua New Guinea | 476.00 | 2012 |
+| 23 | Paraguay | 473.00 | 2012 |
+| 24 | Canada | 472.00 | 2012 |
+| 25 | Indonesia | 462.00 | 2012 |
+| 26 | Russia | 454.00 | 2012 |
+| 27 | Argentina | 444.00 | 2012 |
+| 28 | South Africa | 422.00 | 2012 |
+| 29 | Chile | 388.00 | 2012 |
+| 30 | Canada | 387.00 | 2012 |
+| 31 | Venezuela | 364.00 | 2012 |
+| 32 | Ecuador | 330.00 | 2012 |
+| 33 | Chile | 318.00 | 2012 |
+| 34 | Ecuador | 290.00 | 2012 |
+| 35 | Paraguay | 289.00 | 2012 |
+| 36 | Mexico | 288.00 | 2012 |
+| 37 | Guatemala | 276.00 | 2012 |
+| 38 | South Africa | 260.00 | 2012 |
+| 39 | European Union | 249.00 | 2012 |
+| 40 | Ukraine | 233.00 | 2012 |
+| 41 | Germany | 219.00 | 2012 |
+| 42 | Ukraine | 216.00 | 2012 |
+| 43 | Guatemala | 194.00 | 2012 |
+| 44 | Venezuela | 193.00 | 2012 |
+| 45 | United Kingdom | 190.00 | 2012 |
+| 46 | Iran | 188.00 | 2012 |
+| 47 | Zimbabwe | 185.00 | 2012 |
+| 48 | Germany | 185.00 | 2012 |
+| 49 | Kenya | 179.00 | 2012 |
+| 50 | Colombia | 178.00 | 2012 |
+| 51 | France | 176.00 | 2012 |
+| 52 | Congo, Democratic Republic of the | 175.00 | 2012 |
+| 53 | Philippines | 164.00 | 2012 |
+| 54 | United Kingdom | 163.00 | 2012 |
+| 55 | Bolivia | 157.00 | 2012 |
+| 56 | United States | 155.00 | 2010 |
+| 57 | Angola | 146.00 | 2012 |
+| 58 | Iran | 142.00 | 2012 |
+| 59 | Saudi Arabia | 136.00 | 2012 |
+| 60 | Australia | 134.00 | 2012 |
+| 61 | Peru | 133.00 | 2012 |
+| 62 | Nicaragua | 132.00 | 2012 |
+| 63 | South Africa | 132.00 | 2012 |
+| 64 | Oman | 118.00 | 2012 |
+| 65 | Nicaragua | 115.00 | 2012 |
+| 66 | Venezuela | 113.00 | 2012 |
+| 67 | Costa Rica | 112.00 | 2012 |
+| 68 | Kenya | 110.00 | 2012 |
+| 69 | Zimbabwe | 110.00 | 2012 |
+| 70 | France | 109.00 | 2012 |
+| 71 | India | 101.00 | 2012 |
+| 72 | Australia | 101.00 | 2012 |
+| 73 | Philippines | 101.00 | 2012 |
+| 74 | Tanzania | 95.00 | 2012 |
+| 75 | Congo, Democratic Republic of the | 94.00 | 2012 |
+| 76 | Namibia | 93.00 | 2012 |
+| 77 | Costa Rica | 93.00 | 2012 |
+| 78 | Iceland | 93.00 | 2012 |
+| 79 | Brazil | 91.00 | 2012 |
+| 80 | Honduras | 91.00 | 2012 |
+| 81 | Guyana | 87.00 | 2012 |
+| 82 | Czech Republic | 87.00 | 2012 |
+| 83 | Russia | 85.00 | 2012 |
+| 84 | Uruguay | 83.00 | 2012 |
+| 85 | Peru | 83.00 | 2012 |
+| 86 | New Zealand | 83.00 | 2012 |
+| 87 | Algeria | 82.00 | 2012 |
+| 88 | South Sudan | 81.00 | NA |
+| 89 | Sweden | 81.00 | 2012 |
+| 90 | Libya | 80.00 | 2012 |
+| 91 | Zambia | 80.00 | 2012 |
+| 92 | Guatemala | 79.00 | 2012 |
+| 93 | Mozambique | 79.00 | 2012 |
+| 94 | Bulgaria | 78.00 | 2012 |
+| 95 | Malaysia | 78.00 | 2012 |
+| 96 | Sweden | 76.00 | 2012 |
+| 97 | Guyana | 74.00 | 2012 |
+| 98 | Zimbabwe | 73.00 | 2012 |
+| 99 | Honduras | 73.00 | 2012 |
+| 100 | Finland | 73.00 | 2012 |
+| 101 | Canada | 72.00 | 2012 |
+| 102 | Bulgaria | 72.00 | 2012 |
+| 103 | Saudi Arabia | 71.00 | 2012 |
+| 104 | Cuba | 71.00 | 2012 |
+| 105 | Malaysia | 71.00 | 2012 |
+| 106 | Finland | 70.00 | 2012 |
+| 107 | Syria | 70.00 | 2012 |
+| 108 | Russia | 69.00 | 2012 |
+| 109 | France | 67.00 | 2012 |
+| 110 | Botswana | 66.00 | 2012 |
+| 111 | Angola | 66.00 | 2012 |
+| 112 | Iceland | 63.00 | 2012 |
+| 113 | Panama | 63.00 | 2012 |
+| 114 | Congo, Democratic Republic of the | 62.00 | 2012 |
+| 115 | Denmark | 61.00 | 2012 |
+| 116 | Philippines | 60.00 | 2012 |
+| 117 | Czech Republic | 60.00 | 2012 |
+| 118 | El Salvador | 60.00 | 2012 |
+| 119 | Denmark | 59.00 | 2012 |
+| 120 | Cuba | 59.00 | 2012 |
+| 121 | Tanzania | 58.00 | 2012 |
+| 122 | Sudan | 57.00 | 2012 |
+| 123 | Madagascar | 56.00 | 2012 |
+| 124 | Somalia | 55.00 | 2012 |
+| 125 | Syria | 55.00 | 2012 |
+| 126 | Lithuania | 55.00 | 2012 |
+| 127 | Papua New Guinea | 55.00 | 2012 |
+| 128 | Kenya | 55.00 | 2012 |
+| 129 | Venezuela | 55.00 | 2012 |
+| 130 | Chile | 54.00 | 2012 |
+| 131 | Spain | 54.00 | 2012 |
+| 132 | Zambia | 53.00 | 2012 |
+| 133 | Uruguay | 53.00 | 2012 |
+| 134 | Lithuania | 52.00 | 2012 |
+| 135 | Namibia | 52.00 | 2012 |
+| 136 | Oman | 51.00 | 2012 |
+| 137 | Bolivia | 51.00 | 2012 |
+| 138 | Panama | 51.00 | 2012 |
+| 139 | Chad | 49.00 | 2012 |
+| 140 | India | 48.00 | 2012 |
+| 141 | El Salvador | 48.00 | 2012 |
+| 142 | Botswana | 47.00 | 2012 |
+| 143 | New Zealand | 47.00 | 2012 |
+| 144 | Croatia | 45.00 | 2012 |
+| 145 | China | 45.00 | 2012 |
+| 146 | Argentina | 45.00 | 2012 |
+| 147 | Pakistan | 44.00 | 2012 |
+| 148 | Mexico | 44.00 | 2012 |
+| 149 | Angola | 43.00 | 2012 |
+| 150 | Korea, South | 43.00 | 2012 |
+| 151 | Suriname | 42.00 | 2012 |
+| 152 | Korea, North | 42.00 | 2012 |
+| 153 | India | 42.00 | 2012 |
+| 154 | Saudi Arabia | 41.00 | 2012 |
+| 155 | Korea, South | 41.00 | 2012 |
+| 156 | Ethiopia | 41.00 | 2012 |
+| 157 | Uganda | 41.00 | 2012 |
+| 158 | Thailand | 40.00 | 2012 |
+| 159 | Ecuador | 40.00 | 2012 |
+| 160 | Libya | 40.00 | 2012 |
+| 161 | Yemen | 40.00 | 2012 |
+| 162 | Poland | 39.00 | 2012 |
+| 163 | Bahamas, The | 39.00 | 2012 |
+| 164 | Algeria | 39.00 | 2012 |
+| 165 | Spain | 38.00 | 2012 |
+| 166 | Suriname | 38.00 | 2012 |
+| 167 | Central African Republic | 38.00 | 2012 |
+| 168 | Burma | 38.00 | 2012 |
+| 169 | Croatia | 38.00 | 2012 |
+| 170 | Belize | 37.00 | 2012 |
+| 171 | Mozambique | 37.00 | 2012 |
+| 172 | Nepal | 36.00 | 2012 |
+| 173 | Madagascar | 36.00 | 2012 |
+| 174 | Solomon Islands | 35.00 | 2012 |
+| 175 | South Sudan | 34.00 | NA |
+| 176 | Iran | 34.00 | 2012 |
+| 177 | South Sudan | 34.00 | NA |
+| 178 | New Zealand | 33.00 | 2012 |
+| 179 | Laos | 33.00 | 2012 |
+| 180 | Kazakhstan | 33.00 | 2012 |
+| 181 | Oman | 32.00 | 2012 |
+| 182 | Japan | 32.00 | 2012 |
+| 183 | Germany | 32.00 | 2012 |
+| 184 | Mozambique | 32.00 | 2012 |
+| 185 | Norway | 31.00 | 2012 |
+| 186 | Gabon | 31.00 | 2012 |
+| 187 | Belarus | 31.00 | 2012 |
+| 188 | Angola | 31.00 | 2012 |
+| 189 | Italy | 31.00 | 2012 |
+| 190 | Peru | 30.00 | 2012 |
+| 191 | South Africa | 29.00 | 2012 |
+| 192 | Mongolia | 29.00 | 2012 |
+| 193 | Afghanistan | 29.00 | 2012 |
+| 194 | Iraq | 29.00 | 2012 |
+| 195 | Nepal | 29.00 | 2012 |
+| 196 | Vanuatu | 28.00 | 2012 |
+| 197 | Belarus | 28.00 | 2012 |
+| 198 | Austria | 28.00 | 2012 |
+| 199 | Japan | 28.00 | 2012 |
+| 200 | Romania | 27.00 | 2012 |
+| 201 | Sudan | 27.00 | 2012 |
+| 202 | Iceland | 27.00 | 2012 |
+| 203 | Uruguay | 27.00 | 2012 |
+| 204 | Liberia | 27.00 | 2012 |
+| 205 | Thailand | 27.00 | 2012 |
+| 206 | Uganda | 26.00 | 2012 |
+| 207 | Belize | 26.00 | 2012 |
+| 208 | Czech Republic | 26.00 | 2012 |
+| 209 | Oman | 26.00 | 2012 |
+| 210 | United Kingdom | 25.00 | 2012 |
+| 211 | Namibia | 25.00 | 2012 |
+| 212 | Colombia | 25.00 | 2012 |
+| 213 | Norway | 25.00 | 2012 |
+| 214 | Solomon Islands | 25.00 | 2012 |
+| 215 | Morocco | 25.00 | 2012 |
+| 216 | Somalia | 24.00 | 2012 |
+| 217 | Malawi | 24.00 | 2012 |
+| 218 | Austria | 24.00 | 2012 |
+| 219 | Fiji | 24.00 | 2012 |
+| 220 | Indonesia | 24.00 | 2012 |
+| 221 | Pakistan | 24.00 | 2012 |
+| 222 | Switzerland | 23.00 | 2012 |
+| 223 | Switzerland | 23.00 | 2012 |
+| 224 | Mongolia | 23.00 | 2012 |
+| 225 | Vanuatu | 23.00 | 2012 |
+| 226 | Paraguay | 23.00 | 2012 |
+| 227 | Ireland | 23.00 | 2012 |
+| 228 | Latvia | 23.00 | 2012 |
+| 229 | Latvia | 23.00 | 2012 |
+| 230 | Algeria | 23.00 | 2012 |
+| 231 | Antarctica | 23.00 | 2012 |
+| 232 | Burma | 23.00 | 2012 |
+| 233 | Cameroon | 23.00 | 2012 |
+| 234 | Burkina Faso | 22.00 | 2012 |
+| 235 | Laos | 22.00 | 2012 |
+| 236 | Ethiopia | 22.00 | 2012 |
+| 237 | Portugal | 22.00 | 2012 |
+| 238 | Romania | 21.00 | 2012 |
+| 239 | Zambia | 21.00 | 2012 |
+| 240 | Lesotho | 21.00 | 2012 |
+| 241 | China | 21.00 | 2012 |
+| 242 | Portugal | 21.00 | 2012 |
+| 243 | Ireland | 21.00 | 2012 |
+| 244 | Hungary | 21.00 | 2012 |
+| 245 | Poland | 21.00 | 2012 |
+| 246 | Somalia | 20.00 | 2012 |
+| 247 | Uzbekistan | 20.00 | 2012 |
+| 248 | Libya | 20.00 | 2012 |
+| 249 | Dominican Republic | 20.00 | 2012 |
+| 250 | Cote d'Ivoire | 20.00 | 2012 |
+| 251 | Bahamas, The | 20.00 | 2012 |
+| 252 | Chad | 20.00 | 2012 |
+| 253 | Niger | 20.00 | 2012 |
+| 254 | Tanzania | 19.00 | 2012 |
+| 255 | Peru | 19.00 | 2012 |
+| 256 | Serbia | 19.00 | 2012 |
+| 257 | Fiji | 19.00 | 2012 |
+| 258 | Central African Republic | 19.00 | 2012 |
+| 259 | Australia | 19.00 | 2012 |
+| 260 | Congo, Democratic Republic of the | 19.00 | 2012 |
+| 261 | Costa Rica | 19.00 | 2012 |
+| 262 | Italy | 19.00 | 2012 |
+| 263 | Tanzania | 18.00 | 2012 |
+| 264 | Uzbekistan | 18.00 | 2012 |
+| 265 | Slovakia | 18.00 | 2012 |
+| 266 | Madagascar | 18.00 | 2012 |
+| 267 | Dominican Republic | 18.00 | 2012 |
+| 268 | Israel | 18.00 | 2012 |
+| 269 | Algeria | 18.00 | 2012 |
+| 270 | Bosnia and Herzegovina | 18.00 | 2012 |
+| 271 | Congo, Republic of the | 18.00 | 2012 |
+| 272 | Mauritania | 18.00 | 2012 |
+| 273 | Sudan | 17.00 | 2012 |
+| 274 | Poland | 17.00 | 2012 |
+| 275 | United Arab Emirates | 17.00 | 2012 |
+| 276 | Korea, North | 17.00 | 2012 |
+| 277 | Honduras | 17.00 | 2012 |
+| 278 | Saudi Arabia | 16.00 | 2012 |
+| 279 | Namibia | 16.00 | 2012 |
+| 280 | Yemen | 16.00 | 2012 |
+| 281 | Chad | 16.00 | 2012 |
+| 282 | Nicaragua | 16.00 | 2012 |
+| 283 | Belgium | 16.00 | 2012 |
+| 284 | Belgium | 16.00 | 2012 |
+| 285 | Lesotho | 16.00 | 2012 |
+| 286 | Niger | 15.00 | 2012 |
+| 287 | Greece | 15.00 | 2012 |
+| 288 | Bahamas, The | 15.00 | 2012 |
+| 289 | Kiribati | 15.00 | 2012 |
+| 290 | Jamaica | 15.00 | 2012 |
+| 291 | Russia | 14.00 | 2012 |
+| 292 | Spain | 14.00 | 2012 |
+| 293 | Syria | 14.00 | 2012 |
+| 294 | Tunisia | 14.00 | 2012 |
+| 295 | Liberia | 14.00 | 2012 |
+| 296 | Botswana | 14.00 | 2012 |
+| 297 | Gabon | 14.00 | 2012 |
+| 298 | Israel | 14.00 | 2012 |
+| 299 | Kenya | 14.00 | 2012 |
+| 300 | Korea, North | 14.00 | 2012 |
+| 301 | Australia | 14.00 | 2012 |
+| 302 | European Union | 14.00 | 2012 |
+| 303 | Swaziland | 13.00 | 2012 |
+| 304 | Libya | 13.00 | 2012 |
+| 305 | Mali | 13.00 | 2012 |
+| 306 | New Caledonia | 13.00 | 2012 |
+| 307 | Cameroon | 13.00 | 2012 |
+| 308 | Greece | 13.00 | 2012 |
+| 309 | Guyana | 13.00 | 2012 |
+| 310 | Iraq | 13.00 | 2012 |
+| 311 | Kazakhstan | 13.00 | 2012 |
+| 312 | Nigeria | 13.00 | 2012 |
+| 313 | Puerto Rico | 12.00 | 2012 |
+| 314 | Sudan | 12.00 | 2012 |
+| 315 | Thailand | 12.00 | 2012 |
+| 316 | Burkina Faso | 12.00 | 2012 |
+| 317 | Malawi | 12.00 | 2012 |
+| 318 | Cuba | 12.00 | 2012 |
+| 319 | Egypt | 12.00 | 2012 |
+| 320 | Guinea | 12.00 | 2012 |
+| 321 | Afghanistan | 12.00 | 2012 |
+| 322 | Central African Republic | 12.00 | 2012 |
+| 323 | South Sudan | 12.00 | NA |
+| 324 | Bosnia and Herzegovina | 11.00 | 2012 |
+| 325 | Chad | 11.00 | 2012 |
+| 326 | Chile | 11.00 | 2012 |
+| 327 | El Salvador | 11.00 | 2012 |
+| 328 | Hungary | 11.00 | 2012 |
+| 329 | Italy | 11.00 | 2012 |
+| 330 | Cote d'Ivoire | 11.00 | 2012 |
+| 331 | Malawi | 11.00 | 2012 |
+| 332 | Morocco | 11.00 | 2012 |
+| 333 | Pakistan | 11.00 | 2012 |
+| 334 | Panama | 11.00 | 2012 |
+| 335 | Papua New Guinea | 11.00 | 2012 |
+| 336 | Marshall Islands | 11.00 | 2012 |
+| 337 | Senegal | 11.00 | 2012 |
+| 338 | Belize | 10.00 | 2012 |
+| 339 | Puerto Rico | 10.00 | 2012 |
+| 340 | Cambodia | 10.00 | 2012 |
+| 341 | China | 10.00 | 2012 |
+| 342 | China | 10.00 | 2012 |
+| 343 | Cook Islands | 10.00 | 2012 |
+| 344 | Djibouti | 10.00 | 2012 |
+| 345 | Gabon | 10.00 | 2012 |
+| 346 | Haiti | 10.00 | 2012 |
+| 347 | Iran | 10.00 | 2012 |
+| 348 | Kyrgyzstan | 10.00 | 2012 |
+| 349 | Kiribati | 10.00 | 2012 |
+| 350 | Slovakia | 10.00 | 2012 |
+| 351 | Serbia | 10.00 | 2012 |
+| 352 | Marshall Islands | 10.00 | 2012 |
+| 353 | Burma | 10.00 | 2012 |
+| 354 | Antarctica | 9.00 | 2012 |
+| 355 | Solomon Islands | 9.00 | 2012 |
+| 356 | Congo, Republic of the | 9.00 | 2012 |
+| 357 | Eritrea | 9.00 | 2012 |
+| 358 | Ethiopia | 9.00 | 2012 |
+| 359 | Yemen | 9.00 | 2012 |
+| 360 | Mozambique | 9.00 | 2012 |
+| 361 | Pakistan | 9.00 | 2012 |
+| 362 | Slovenia | 9.00 | 2012 |
+| 363 | Turkey | 9.00 | 2012 |
+| 364 | Ukraine | 9.00 | 2012 |
+| 365 | Laos | 9.00 | 2012 |
+| 366 | Congo, Republic of the | 8.00 | 2012 |
+| 367 | Haiti | 8.00 | 2012 |
+| 368 | Hungary | 8.00 | 2012 |
+| 369 | Kyrgyzstan | 8.00 | 2012 |
+| 370 | Korea, North | 8.00 | 2012 |
+| 371 | Liberia | 8.00 | 2012 |
+| 372 | Tunisia | 8.00 | 2012 |
+| 373 | Mauritania | 8.00 | 2012 |
+| 374 | New Caledonia | 8.00 | 2012 |
+| 375 | Nigeria | 8.00 | 2012 |
+| 376 | Serbia | 8.00 | 2012 |
+| 377 | Saudi Arabia | 8.00 | 2012 |
+| 378 | Slovakia | 8.00 | 2012 |
+| 379 | Azerbaijan | 7.00 | 2012 |
+| 380 | Yemen | 7.00 | 2012 |
+| 381 | Cambodia | 7.00 | 2012 |
+| 382 | Cameroon | 7.00 | 2012 |
+| 383 | Cook Islands | 7.00 | 2012 |
+| 384 | Djibouti | 7.00 | 2012 |
+| 385 | Ethiopia | 7.00 | 2012 |
+| 386 | French Polynesia | 7.00 | 2012 |
+| 387 | Gabon | 7.00 | 2012 |
+| 388 | Guinea | 7.00 | 2012 |
+| 389 | Kazakhstan | 7.00 | 2012 |
+| 390 | Morocco | 7.00 | 2012 |
+| 391 | Mauritania | 7.00 | 2012 |
+| 392 | Oman | 7.00 | 2012 |
+| 393 | Malaysia | 7.00 | 2012 |
+| 394 | Netherlands | 7.00 | 2012 |
+| 395 | Seychelles | 7.00 | 2012 |
+| 396 | Senegal | 7.00 | 2012 |
+| 397 | Sierra Leone | 7.00 | 2012 |
+| 398 | Sierra Leone | 7.00 | 2012 |
+| 399 | Tajikistan | 7.00 | 2012 |
+| 400 | Uganda | 7.00 | 2012 |
+| 401 | Uganda | 7.00 | 2012 |
+| 402 | United States | 7.00 | 2010 |
+| 403 | Vietnam | 7.00 | 2012 |
+| 404 | Swaziland | 7.00 | 2012 |
+| 405 | Azerbaijan | 7.00 | 2012 |
+| 406 | United Arab Emirates | 6.00 | 2012 |
+| 407 | Swaziland | 6.00 | 2012 |
+| 408 | Afghanistan | 6.00 | 2012 |
+| 409 | Antarctica | 6.00 | 2012 |
+| 410 | Bosnia and Herzegovina | 6.00 | 2012 |
+| 411 | Bulgaria | 6.00 | 2012 |
+| 412 | Burundi | 6.00 | 2012 |
+| 413 | Central African Republic | 6.00 | 2012 |
+| 414 | Croatia | 6.00 | 2012 |
+| 415 | India | 6.00 | 2012 |
+| 416 | Cote d'Ivoire | 6.00 | 2012 |
+| 417 | Iraq | 6.00 | 2012 |
+| 418 | Mali | 6.00 | 2012 |
+| 419 | Norway | 6.00 | 2012 |
+| 420 | Nepal | 6.00 | 2012 |
+| 421 | Guinea-Bissau | 6.00 | 2012 |
+| 422 | Romania | 6.00 | 2012 |
+| 423 | Somalia | 6.00 | 2012 |
+| 424 | Togo | 6.00 | 2012 |
+| 425 | Ukraine | 6.00 | 2012 |
+| 426 | Burkina Faso | 6.00 | 2012 |
+| 427 | Afghanistan | 6.00 | 2012 |
+| 428 | United Arab Emirates | 5.00 | 2012 |
+| 429 | Zambia | 5.00 | 2012 |
+| 430 | Antarctica | 5.00 | 2012 |
+| 431 | Botswana | 5.00 | 2012 |
+| 432 | Chile | 5.00 | 2012 |
+| 433 | Egypt | 5.00 | 2012 |
+| 434 | Estonia | 5.00 | 2012 |
+| 435 | Eritrea | 5.00 | 2012 |
+| 436 | Fiji | 5.00 | 2012 |
+| 437 | Falkland Islands (Islas Malvinas) | 5.00 | 2012 |
+| 438 | Falkland Islands (Islas Malvinas) | 5.00 | 2012 |
+| 439 | Greenland | 5.00 | 2012 |
+| 440 | Indonesia | 5.00 | 2012 |
+| 441 | Kiribati | 5.00 | 2012 |
+| 442 | Kazakhstan | 5.00 | 2012 |
+| 443 | Kazakhstan | 5.00 | 2012 |
+| 444 | Liberia | 5.00 | 2012 |
+| 445 | Lesotho | 5.00 | 2012 |
+| 446 | Moldova | 5.00 | 2012 |
+| 447 | Morocco | 5.00 | 2012 |
+| 448 | New Caledonia | 5.00 | 2012 |
+| 449 | Vanuatu | 5.00 | 2012 |
+| 450 | Seychelles | 5.00 | 2012 |
+| 451 | Slovenia | 5.00 | 2012 |
+| 452 | Sweden | 5.00 | 2012 |
+| 453 | Tajikistan | 5.00 | 2012 |
+| 454 | Tonga | 5.00 | 2012 |
+| 455 | Tunisia | 5.00 | 2012 |
+| 456 | Turkmenistan | 5.00 | 2012 |
+| 457 | Yemen | 5.00 | 2012 |
+| 458 | Afghanistan | 5.00 | 2012 |
+| 459 | United Arab Emirates | 4.00 | 2012 |
+| 460 | Burkina Faso | 4.00 | 2012 |
+| 461 | Bolivia | 4.00 | 2012 |
+| 462 | Burma | 4.00 | 2012 |
+| 463 | Benin | 4.00 | 2012 |
+| 464 | Burundi | 4.00 | 2012 |
+| 465 | Sri Lanka | 4.00 | 2012 |
+| 466 | French Polynesia | 4.00 | 2012 |
+| 467 | Georgia | 4.00 | 2012 |
+| 468 | India | 4.00 | 2012 |
+| 469 | Iraq | 4.00 | 2012 |
+| 470 | Kosovo | 4.00 | 2012 |
+| 471 | Kosovo | 4.00 | 2012 |
+| 472 | Libya | 4.00 | 2012 |
+| 473 | Moldova | 4.00 | 2012 |
+| 474 | Macedonia | 4.00 | 2012 |
+| 475 | Mali | 4.00 | 2012 |
+| 476 | Netherlands | 4.00 | 2012 |
+| 477 | Suriname | 4.00 | 2012 |
+| 478 | Somalia | 4.00 | 2012 |
+| 479 | Togo | 4.00 | 2012 |
+| 480 | Timor-Leste | 4.00 | 2012 |
+| 481 | Turkey | 4.00 | 2012 |
+| 482 | Turkey | 4.00 | 2012 |
+| 483 | Turkmenistan | 4.00 | 2012 |
+| 484 | Bahamas, The | 4.00 | 2012 |
+| 485 | Angola | 3.00 | 2012 |
+| 486 | Yemen | 3.00 | 2012 |
+| 487 | Austria | 3.00 | 2012 |
+| 488 | Antarctica | 3.00 | 2012 |
+| 489 | Sri Lanka | 3.00 | 2012 |
+| 490 | Cameroon | 3.00 | 2012 |
+| 491 | Egypt | 3.00 | 2012 |
+| 492 | Egypt | 3.00 | 2012 |
+| 493 | Estonia | 3.00 | 2012 |
+| 494 | Ethiopia | 3.00 | 2012 |
+| 495 | Finland | 3.00 | 2012 |
+| 496 | French Polynesia | 3.00 | 2012 |
+| 497 | Ghana | 3.00 | 2012 |
+| 498 | Ghana | 3.00 | 2012 |
+| 499 | Guinea | 3.00 | 2012 |
+| 500 | Iceland | 3.00 | 2012 |
+| 501 | Israel | 3.00 | 2012 |
+| 502 | Cote d'Ivoire | 3.00 | 2012 |
+| 503 | Iraq | 3.00 | 2012 |
+| 504 | Iraq | 3.00 | 2012 |
+| 505 | Japan | 3.00 | 2012 |
+| 506 | Korea, North | 3.00 | 2012 |
+| 507 | Kuwait | 3.00 | 2012 |
+| 508 | Kazakhstan | 3.00 | 2012 |
+| 509 | Libya | 3.00 | 2012 |
+| 510 | Mongolia | 3.00 | 2012 |
+| 511 | Macedonia | 3.00 | 2012 |
+| 512 | Mali | 3.00 | 2012 |
+| 513 | Mauritius | 3.00 | 2012 |
+| 514 | Niger | 3.00 | 2012 |
+| 515 | Nigeria | 3.00 | 2012 |
+| 516 | Netherlands | 3.00 | 2012 |
+| 517 | New Zealand | 3.00 | 2012 |
+| 518 | Guinea-Bissau | 3.00 | 2012 |
+| 519 | Philippines | 3.00 | 2012 |
+| 520 | Russia | 3.00 | 2012 |
+| 521 | Rwanda | 3.00 | 2012 |
+| 522 | Senegal | 3.00 | 2012 |
+| 523 | Slovenia | 3.00 | 2012 |
+| 524 | Svalbard | 3.00 | 2012 |
+| 525 | Svalbard | 3.00 | 2012 |
+| 526 | Trinidad and Tobago | 3.00 | 2012 |
+| 527 | Tonga | 3.00 | 2012 |
+| 528 | Taiwan | 3.00 | 2012 |
+| 529 | Uruguay | 3.00 | 2012 |
+| 530 | Venezuela | 3.00 | 2012 |
+| 531 | Vietnam | 3.00 | 2012 |
+| 532 | Vietnam | 3.00 | 2012 |
+| 533 | Western Sahara | 3.00 | 2012 |
+| 534 | Samoa | 3.00 | 2012 |
+| 535 | Samoa | 3.00 | 2012 |
+| 536 | Angola | 3.00 | 2012 |
+| 537 | British Virgin Islands | 2.00 | 2012 |
+| 538 | British Virgin Islands | 2.00 | 2012 |
+| 539 | Zimbabwe | 2.00 | 2012 |
+| 540 | Algeria | 2.00 | 2012 |
+| 541 | Anguilla | 2.00 | 2012 |
+| 542 | Anguilla | 2.00 | 2012 |
+| 543 | Bangladesh | 2.00 | 2012 |
+| 544 | Benin | 2.00 | 2012 |
+| 545 | Belarus | 2.00 | 2012 |
+| 546 | Burundi | 2.00 | 2012 |
+| 547 | Cambodia | 2.00 | 2012 |
+| 548 | Chad | 2.00 | 2012 |
+| 549 | China | 2.00 | 2012 |
+| 550 | China | 2.00 | 2012 |
+| 551 | Northern Mariana Islands | 2.00 | 2012 |
+| 552 | Cook Islands | 2.00 | 2012 |
+| 553 | Cyprus | 2.00 | 2012 |
+| 554 | Cyprus | 2.00 | 2012 |
+| 555 | Denmark | 2.00 | 2012 |
+| 556 | Djibouti | 2.00 | 2012 |
+| 557 | Ireland | 2.00 | 2012 |
+| 558 | Eritrea | 2.00 | 2012 |
+| 559 | Georgia | 2.00 | 2012 |
+| 560 | Greenland | 2.00 | 2012 |
+| 561 | Greenland | 2.00 | 2012 |
+| 562 | Germany | 2.00 | 2012 |
+| 563 | Greece | 2.00 | 2012 |
+| 564 | Guatemala | 2.00 | 2012 |
+| 565 | Guinea | 2.00 | 2012 |
+| 566 | Haiti | 2.00 | 2012 |
+| 567 | Hungary | 2.00 | 2012 |
+| 568 | Jordan | 2.00 | 2012 |
+| 569 | Jordan | 2.00 | 2012 |
+| 570 | Korea, South | 2.00 | 2012 |
+| 571 | Kuwait | 2.00 | 2012 |
+| 572 | Laos | 2.00 | 2012 |
+| 573 | Lebanon | 2.00 | 2012 |
+| 574 | Lebanon | 2.00 | 2012 |
+| 575 | Lithuania | 2.00 | 2012 |
+| 576 | Madagascar | 2.00 | 2012 |
+| 577 | Mongolia | 2.00 | 2012 |
+| 578 | Morocco | 2.00 | 2012 |
+| 579 | Mauritius | 2.00 | 2012 |
+| 580 | Mauritania | 2.00 | 2012 |
+| 581 | Oman | 2.00 | 2012 |
+| 582 | Maldives | 2.00 | 2012 |
+| 583 | Maldives | 2.00 | 2012 |
+| 584 | Mexico | 2.00 | 2012 |
+| 585 | Niger | 2.00 | 2012 |
+| 586 | Nigeria | 2.00 | 2012 |
+| 587 | Palau | 2.00 | 2012 |
+| 588 | Palau | 2.00 | 2012 |
+| 589 | Guinea-Bissau | 2.00 | 2012 |
+| 590 | Qatar | 2.00 | 2012 |
+| 591 | Rwanda | 2.00 | 2012 |
+| 592 | Seychelles | 2.00 | 2012 |
+| 593 | Spain | 2.00 | 2012 |
+| 594 | Trinidad and Tobago | 2.00 | 2012 |
+| 595 | Turks and Caicos Islands | 2.00 | 2012 |
+| 596 | Turks and Caicos Islands | 2.00 | 2012 |
+| 597 | Togo | 2.00 | 2012 |
+| 598 | Timor-Leste | 2.00 | 2012 |
+| 599 | Timor-Leste | 2.00 | 2012 |
+| 600 | Taiwan | 2.00 | 2012 |
+| 601 | United Kingdom | 2.00 | 2012 |
+| 602 | Ukraine | 2.00 | 2012 |
+| 603 | Uzbekistan | 2.00 | 2012 |
+| 604 | Kyrgyzstan | 1.00 | 2012 |
+| 605 | Kyrgyzstan | 1.00 | 2012 |
+| 606 | Kuwait | 1.00 | 2012 |
+| 607 | Lithuania | 1.00 | 2012 |
+| 608 | Luxembourg | 1.00 | 2012 |
+| 609 | Luxembourg | 1.00 | 2012 |
+| 610 | Moldova | 1.00 | 2012 |
+| 611 | Mongolia | 1.00 | 2012 |
+| 612 | Malawi | 1.00 | 2012 |
+| 613 | Montenegro | 1.00 | 2010 |
+| 614 | Montenegro | 1.00 | 2010 |
+| 615 | Macedonia | 1.00 | 2012 |
+| 616 | Mauritius | 1.00 | 2012 |
+| 617 | Mauritania | 1.00 | 2012 |
+| 618 | Mexico | 1.00 | 2012 |
+| 619 | Mozambique | 1.00 | 2012 |
+| 620 | Nepal | 1.00 | 2012 |
+| 621 | Nicaragua | 1.00 | 2012 |
+| 622 | South Sudan | 1.00 | NA |
+| 623 | Peru | 1.00 | 2012 |
+| 624 | Spratly Islands | 1.00 | 2012 |
+| 625 | Spratly Islands | 1.00 | 2012 |
+| 626 | Poland | 1.00 | 2012 |
+| 627 | Panama | 1.00 | 2012 |
+| 628 | Portugal | 1.00 | 2012 |
+| 629 | Guinea-Bissau | 1.00 | 2012 |
+| 630 | Qatar | 1.00 | 2012 |
+| 631 | Qatar | 1.00 | 2012 |
+| 632 | Serbia | 1.00 | 2012 |
+| 633 | Marshall Islands | 1.00 | 2012 |
+| 634 | Puerto Rico | 1.00 | 2012 |
+| 635 | Puerto Rico | 1.00 | 2012 |
+| 636 | Rwanda | 1.00 | 2012 |
+| 637 | South Africa | 1.00 | 2012 |
+| 638 | Senegal | 1.00 | 2012 |
+| 639 | Slovenia | 1.00 | 2012 |
+| 640 | Somalia | 1.00 | 2012 |
+| 641 | Sudan | 1.00 | 2012 |
+| 642 | Syria | 1.00 | 2012 |
+| 643 | Trinidad and Tobago | 1.00 | 2012 |
+| 644 | Thailand | 1.00 | 2012 |
+| 645 | Tajikistan | 1.00 | 2012 |
+| 646 | Tajikistan | 1.00 | 2012 |
+| 647 | Tonga | 1.00 | 2012 |
+| 648 | Tonga | 1.00 | 2012 |
+| 649 | Tunisia | 1.00 | 2012 |
+| 650 | Turkey | 1.00 | 2012 |
+| 651 | Tuvalu | 1.00 | 2012 |
+| 652 | Tuvalu | 1.00 | 2012 |
+| 653 | Taiwan | 1.00 | 2012 |
+| 654 | Turkmenistan | 1.00 | 2012 |
+| 655 | Uganda | 1.00 | 2012 |
+| 656 | Saint Vincent and the Grenadines | 1.00 | 2012 |
+| 657 | Saint Vincent and the Grenadines | 1.00 | 2012 |
+| 658 | Vietnam | 1.00 | 2012 |
+| 659 | Western Sahara | 1.00 | 2012 |
+| 660 | Western Sahara | 1.00 | 2012 |
+| 661 | Western Sahara | 1.00 | 2012 |
+| 662 | Zambia | 1.00 | 2012 |
+| 663 | Antigua and Barbuda | 1.00 | 2012 |
+| 664 | Antigua and Barbuda | 1.00 | 2012 |
+| 665 | United Arab Emirates | 1.00 | 2012 |
+| 666 | United Arab Emirates | 1.00 | 2012 |
+| 667 | Albania | 1.00 | 2012 |
+| 668 | Albania | 1.00 | 2012 |
+| 669 | Armenia | 1.00 | 2012 |
+| 670 | Armenia | 1.00 | 2012 |
+| 671 | Argentina | 1.00 | 2012 |
+| 672 | Argentina | 1.00 | 2012 |
+| 673 | Austria | 1.00 | 2012 |
+| 674 | Bangladesh | 1.00 | 2012 |
+| 675 | Bangladesh | 1.00 | 2012 |
+| 676 | Belize | 1.00 | 2012 |
+| 677 | Bosnia and Herzegovina | 1.00 | 2012 |
+| 678 | Bolivia | 1.00 | 2012 |
+| 679 | Burma | 1.00 | 2012 |
+| 680 | Benin | 1.00 | 2012 |
+| 681 | Benin | 1.00 | 2012 |
+| 682 | Belarus | 1.00 | 2012 |
+| 683 | Solomon Islands | 1.00 | 2012 |
+| 684 | Bhutan | 1.00 | 2012 |
+| 685 | Bhutan | 1.00 | 2012 |
+| 686 | Cambodia | 1.00 | 2012 |
+| 687 | Sri Lanka | 1.00 | 2012 |
+| 688 | Congo, Republic of the | 1.00 | 2012 |
+| 689 | Cayman Islands | 1.00 | 2012 |
+| 690 | Cayman Islands | 1.00 | 2012 |
+| 691 | Colombia | 1.00 | 2012 |
+| 692 | Northern Mariana Islands | 1.00 | 2012 |
+| 693 | Northern Mariana Islands | 1.00 | 2012 |
+| 694 | Central African Republic | 1.00 | 2012 |
+| 695 | Cape Verde | 1.00 | 2010 |
+| 696 | Cape Verde | 1.00 | 2010 |
+| 697 | Cook Islands | 1.00 | 2012 |
+| 698 | Djibouti | 1.00 | 2012 |
+| 699 | Dominican Republic | 1.00 | 2012 |
+| 700 | Dominican Republic | 1.00 | 2012 |
+| 701 | European Union | 1.00 | 2012 |
+| 702 | Egypt | 1.00 | 2012 |
+| 703 | Equatorial Guinea | 1.00 | 2012 |
+| 704 | Equatorial Guinea | 1.00 | 2012 |
+| 705 | Estonia | 1.00 | 2012 |
+| 706 | Estonia | 1.00 | 2012 |
+| 707 | Eritrea | 1.00 | 2012 |
+| 708 | Eritrea | 1.00 | 2012 |
+| 709 | El Salvador | 1.00 | 2012 |
+| 710 | Czech Republic | 1.00 | 2012 |
+| 711 | Georgia | 1.00 | 2012 |
+| 712 | Georgia | 1.00 | 2012 |
+| 713 | Greenland | 1.00 | 2012 |
+| 714 | Guam | 1.00 | 2012 |
+| 715 | Guam | 1.00 | 2012 |
+| 716 | Guatemala | 1.00 | 2012 |
+| 717 | Honduras | 1.00 | 2012 |
+| 718 | Croatia | 1.00 | 2012 |
+| 719 | India | 1.00 | 2012 |
+| 720 | Iran | 1.00 | 2012 |
+| 721 | Iran | 1.00 | 2012 |
+| 722 | Israel | 1.00 | 2012 |
+| 723 | Italy | 1.00 | 2012 |
+| 724 | Japan | 1.00 | 2012 |
+| 725 | Jan Mayen | 1.00 | 2012 |
+| 726 | Jan Mayen | 1.00 | 2012 |

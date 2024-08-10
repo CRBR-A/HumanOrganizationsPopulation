@@ -1,0 +1,14 @@
+| Precautions | Exercise increased caution in Kazakhstan due to the possibility of civil unrest. |
+| | Consult the link below for updates to travel advisories and statements on safety, security, local laws, and special circumstances in this country. |
+| | <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html> |
+| Passport/Visa Requirements | US citizens should make sure their passport will not expire for at least 3 months after they enter the country even if they do not intend to stay that long. A visa is not required as long as you do not stay in the country more than 30 days or the traveler is engaging in employment or missionary activities that will require a visa. |
+| Vaccinations | An International Certificate of Vaccination for yellow fever is required for travelers arriving from countries with a risk of yellow fever transmission and for travelers having transited through the airport of a country with risk of yellow fever transmission. See WHO recommendations.  <http://www.who.int/> |
+| US Embassy/Consulate | +(7) (7172) 70-21-00; EMER: 011-7-717-270-21-00 from the US; US Embassy in Astana, Rakhymzhan Koshkarbayev Ave, No. 3, Astana, Kazakhstan, 010010; USAKZ@state.gov; https://kz.usembassy.gov/ |
+
+---
+country: Kazakhstan
+date: June 23, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Kazakhstan/travel-facts>
+license: public domain (U.S.)
+...

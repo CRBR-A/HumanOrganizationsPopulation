@@ -1,0 +1,578 @@
+CIA - The World Factbook --  School life expectancy (primary to tertiary education)   
+
+School life expectancy (SLE) is the total number of years of schooling (primary to tertiary) that a child can expect to receive, assuming that the probability of his or her being enrolled in school at any particular future age is equal to the current enrollment ratio at that age. Caution must be maintained when utilizing this indicator in international comparisons. For example, a year or grade completed in one country is not necessarily the same in terms of educational content or quality as a year or grade completed in another country. SLE represents the expected number of years of schooling that will be completed, including years spent repeating one or more grades.
+
+| Rank | country | (years) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Australia | 20.00 | 2010 |
+| 2 | Australia | 20.00 | 2010 |
+| 3 | New Zealand | 20.00 | 2010 |
+| 4 | New Zealand | 20.00 | 2010 |
+| 5 | Iceland | 20.00 | 2010 |
+| 6 | Australia | 19.00 | 2010 |
+| 7 | Ireland | 19.00 | 2011 |
+| 8 | New Zealand | 19.00 | 2010 |
+| 9 | Ireland | 19.00 | 2011 |
+| 10 | Ireland | 19.00 | 2011 |
+| 11 | Argentina | 18.00 | 2010 |
+| 12 | Barbados | 18.00 | 2011 |
+| 13 | Denmark | 18.00 | 2010 |
+| 14 | Finland | 18.00 | 2011 |
+| 15 | Iceland | 18.00 | 2010 |
+| 16 | Korea, South | 18.00 | 2010 |
+| 17 | United States | 18.00 | 2010 |
+| 18 | Monaco | 18.00 | 2009 |
+| 19 | Norway | 18.00 | 2010 |
+| 20 | Norway | 18.00 | 2010 |
+| 21 | Slovenia | 18.00 | 2011 |
+| 22 | Spain | 18.00 | 2011 |
+| 23 | Monaco | 18.00 | 2009 |
+| 24 | Barbados | 17.00 | 2011 |
+| 25 | Uruguay | 17.00 | 2010 |
+| 26 | Canada | 17.00 | 2004 |
+| 27 | Canada | 17.00 | 2004 |
+| 28 | Canada | 17.00 | 2004 |
+| 29 | Denmark | 17.00 | 2010 |
+| 30 | Estonia | 17.00 | 2010 |
+| 31 | Finland | 17.00 | 2011 |
+| 32 | France | 17.00 | 2011 |
+| 33 | Iceland | 17.00 | 2010 |
+| 34 | Italy | 17.00 | 2010 |
+| 35 | Korea, South | 17.00 | 2010 |
+| 36 | Montserrat | 17.00 | 2007 |
+| 37 | Monaco | 17.00 | 2009 |
+| 38 | Netherlands | 17.00 | 2010 |
+| 39 | Netherlands | 17.00 | 2010 |
+| 40 | Netherlands | 17.00 | 2010 |
+| 41 | Norway | 17.00 | 2010 |
+| 42 | Slovenia | 17.00 | 2011 |
+| 43 | Spain | 17.00 | 2011 |
+| 44 | Spain | 17.00 | 2011 |
+| 45 | Sweden | 17.00 | 2011 |
+| 46 | United Kingdom | 17.00 | 2010 |
+| 47 | United Kingdom | 17.00 | 2010 |
+| 48 | United States | 17.00 | 2010 |
+| 49 | Belgium | 17.00 | 2010 |
+| 50 | Argentina | 16.00 | 2010 |
+| 51 | British Virgin Islands | 16.00 | 2009 |
+| 52 | Austria | 16.00 | 2011 |
+| 53 | Belgium | 16.00 | 2010 |
+| 54 | Belgium | 16.00 | 2010 |
+| 55 | Belarus | 16.00 | 2011 |
+| 56 | Brunei | 16.00 | 2011 |
+| 57 | Cuba | 16.00 | 2011 |
+| 58 | Denmark | 16.00 | 2010 |
+| 59 | Estonia | 16.00 | 2010 |
+| 60 | Czech Republic | 16.00 | 2011 |
+| 61 | Czech Republic | 16.00 | 2011 |
+| 62 | Czech Republic | 16.00 | 2011 |
+| 63 | Finland | 16.00 | 2011 |
+| 64 | France | 16.00 | 2011 |
+| 65 | France | 16.00 | 2011 |
+| 66 | Grenada | 16.00 | 2009 |
+| 67 | Grenada | 16.00 | 2009 |
+| 68 | Germany | 16.00 | 2006 |
+| 69 | Germany | 16.00 | 2006 |
+| 70 | Germany | 16.00 | 2006 |
+| 71 | Greece | 16.00 | 2007 |
+| 72 | Greece | 16.00 | 2007 |
+| 73 | Greece | 16.00 | 2007 |
+| 74 | Hong Kong | 16.00 | 2011 |
+| 75 | Hong Kong | 16.00 | 2011 |
+| 76 | Hungary | 16.00 | 2011 |
+| 77 | Israel | 16.00 | 2009 |
+| 78 | Israel | 16.00 | 2009 |
+| 79 | Italy | 16.00 | 2010 |
+| 80 | Italy | 16.00 | 2010 |
+| 81 | Japan | 16.00 | 2010 |
+| 82 | Korea, South | 16.00 | 2010 |
+| 83 | Kazakhstan | 16.00 | 2012 |
+| 84 | Lithuania | 16.00 | 2011 |
+| 85 | Lithuania | 16.00 | 2011 |
+| 86 | Liechtenstein | 16.00 | 2011 |
+| 87 | Libya | 16.00 | 2003 |
+| 88 | Libya | 16.00 | 2003 |
+| 89 | Libya | 16.00 | 2003 |
+| 90 | Poland | 16.00 | 2010 |
+| 91 | Portugal | 16.00 | 2010 |
+| 92 | Portugal | 16.00 | 2010 |
+| 93 | Portugal | 16.00 | 2010 |
+| 94 | Slovenia | 16.00 | 2011 |
+| 95 | Sweden | 16.00 | 2011 |
+| 96 | Switzerland | 16.00 | 2011 |
+| 97 | Switzerland | 16.00 | 2011 |
+| 98 | Switzerland | 16.00 | 2011 |
+| 99 | United Kingdom | 16.00 | 2010 |
+| 100 | United States | 16.00 | 2010 |
+| 101 | Uruguay | 16.00 | 2010 |
+| 102 | Austria | 16.00 | 2011 |
+| 103 | Fiji | 15.70 | 2011 |
+| 104 | British Virgin Islands | 15.00 | 2009 |
+| 105 | Bahrain | 15.00 | 2006 |
+| 106 | Barbados | 15.00 | 2011 |
+| 107 | Belarus | 15.00 | 2011 |
+| 108 | Belarus | 15.00 | 2011 |
+| 109 | Brazil | 15.00 | 2005 |
+| 110 | Brunei | 15.00 | 2011 |
+| 111 | Brunei | 15.00 | 2011 |
+| 112 | Chile | 15.00 | 2011 |
+| 113 | Chile | 15.00 | 2011 |
+| 114 | Chile | 15.00 | 2011 |
+| 115 | Cuba | 15.00 | 2011 |
+| 116 | Cuba | 15.00 | 2011 |
+| 117 | Estonia | 15.00 | 2010 |
+| 118 | Grenada | 15.00 | 2009 |
+| 119 | Hong Kong | 15.00 | 2011 |
+| 120 | Croatia | 15.00 | 2010 |
+| 121 | Hungary | 15.00 | 2011 |
+| 122 | Hungary | 15.00 | 2011 |
+| 123 | Israel | 15.00 | 2009 |
+| 124 | Japan | 15.00 | 2010 |
+| 125 | Japan | 15.00 | 2010 |
+| 126 | Kuwait | 15.00 | 2004 |
+| 127 | Kazakhstan | 15.00 | 2012 |
+| 128 | Kazakhstan | 15.00 | 2012 |
+| 129 | Lebanon | 15.00 | 2011 |
+| 130 | Latvia | 15.00 | 2011 |
+| 131 | Lithuania | 15.00 | 2011 |
+| 132 | Slovakia | 15.00 | 2011 |
+| 133 | Slovakia | 15.00 | 2011 |
+| 134 | Liechtenstein | 15.00 | 2011 |
+| 135 | Mongolia | 15.00 | 2011 |
+| 136 | Montserrat | 15.00 | 2007 |
+| 137 | Malta | 15.00 | 2010 |
+| 138 | Malta | 15.00 | 2010 |
+| 139 | Malta | 15.00 | 2010 |
+| 140 | Niue | 15.00 | 2005 |
+| 141 | Poland | 15.00 | 2010 |
+| 142 | Poland | 15.00 | 2010 |
+| 143 | Palau | 15.00 | 2001 |
+| 144 | Palau | 15.00 | 2001 |
+| 145 | Romania | 15.00 | 2010 |
+| 146 | Russia | 15.00 | 2009 |
+| 147 | Saudi Arabia | 15.00 | 2011 |
+| 148 | Saudi Arabia | 15.00 | 2011 |
+| 149 | Saudi Arabia | 15.00 | 2011 |
+| 150 | Sweden | 15.00 | 2011 |
+| 151 | Tunisia | 15.00 | 2011 |
+| 152 | Tunisia | 15.00 | 2011 |
+| 153 | Ukraine | 15.00 | 2011 |
+| 154 | Ukraine | 15.00 | 2011 |
+| 155 | Ukraine | 15.00 | 2011 |
+| 156 | British Virgin Islands | 15.00 | 2009 |
+| 157 | Argentina | 15.00 | 2010 |
+| 158 | Austria | 15.00 | 2011 |
+| 159 | Venezuela | 14.30 | 2009 |
+| 160 | Qatar | 14.00 | 2011 |
+| 161 | Serbia | 14.00 | 2011 |
+| 162 | Serbia | 14.00 | 2011 |
+| 163 | Romania | 14.00 | 2010 |
+| 164 | Romania | 14.00 | 2010 |
+| 165 | Russia | 14.00 | 2009 |
+| 166 | Russia | 14.00 | 2009 |
+| 167 | Seychelles | 14.00 | 2011 |
+| 168 | Tonga | 14.00 | 2007 |
+| 169 | Tonga | 14.00 | 2007 |
+| 170 | Tonga | 14.00 | 2007 |
+| 171 | Tunisia | 14.00 | 2011 |
+| 172 | Turkey | 14.00 | 2010 |
+| 173 | Turkey | 14.00 | 2010 |
+| 174 | Uruguay | 14.00 | 2010 |
+| 175 | West Bank | 14.00 | 2006 |
+| 176 | West Bank | 14.00 | 2006 |
+| 177 | Antigua and Barbuda | 14.00 | 2011 |
+| 178 | Antigua and Barbuda | 14.00 | 2011 |
+| 179 | Antigua and Barbuda | 14.00 | 2011 |
+| 180 | United Arab Emirates | 14.00 | 2009 |
+| 181 | Algeria | 14.00 | 2011 |
+| 182 | Algeria | 14.00 | 2011 |
+| 183 | Algeria | 14.00 | 2011 |
+| 184 | Bahrain | 14.00 | 2006 |
+| 185 | Bahrain | 14.00 | 2006 |
+| 186 | Bosnia and Herzegovina | 14.00 | 2011 |
+| 187 | Bosnia and Herzegovina | 14.00 | 2011 |
+| 188 | Bolivia | 14.00 | 2007 |
+| 189 | Bolivia | 14.00 | 2007 |
+| 190 | Brazil | 14.00 | 2005 |
+| 191 | Brazil | 14.00 | 2005 |
+| 192 | Bulgaria | 14.00 | 2010 |
+| 193 | Bulgaria | 14.00 | 2010 |
+| 194 | Bulgaria | 14.00 | 2010 |
+| 195 | Sri Lanka | 14.00 | 2011 |
+| 196 | Sri Lanka | 14.00 | 2011 |
+| 197 | Sri Lanka | 14.00 | 2011 |
+| 198 | Colombia | 14.00 | 2011 |
+| 199 | Colombia | 14.00 | 2011 |
+| 200 | Costa Rica | 14.00 | 2011 |
+| 201 | Costa Rica | 14.00 | 2011 |
+| 202 | Cyprus | 14.00 | 2010 |
+| 203 | Cyprus | 14.00 | 2010 |
+| 204 | Cyprus | 14.00 | 2010 |
+| 205 | Ecuador | 14.00 | 2008 |
+| 206 | Ecuador | 14.00 | 2008 |
+| 207 | Gaza Strip | 14.00 | 2006 |
+| 208 | Gaza Strip | 14.00 | 2006 |
+| 209 | Croatia | 14.00 | 2010 |
+| 210 | Croatia | 14.00 | 2010 |
+| 211 | Iran | 14.00 | 2011 |
+| 212 | Iran | 14.00 | 2011 |
+| 213 | Iran | 14.00 | 2011 |
+| 214 | Kuwait | 14.00 | 2004 |
+| 215 | Lebanon | 14.00 | 2011 |
+| 216 | Lebanon | 14.00 | 2011 |
+| 217 | Latvia | 14.00 | 2011 |
+| 218 | Latvia | 14.00 | 2011 |
+| 219 | Slovakia | 14.00 | 2011 |
+| 220 | Liechtenstein | 14.00 | 2011 |
+| 221 | Luxembourg | 14.00 | 2010 |
+| 222 | Luxembourg | 14.00 | 2010 |
+| 223 | Luxembourg | 14.00 | 2010 |
+| 224 | Macau | 14.00 | 2008 |
+| 225 | Macau | 14.00 | 2008 |
+| 226 | Macau | 14.00 | 2008 |
+| 227 | Mongolia | 14.00 | 2011 |
+| 228 | Mongolia | 14.00 | 2011 |
+| 229 | Montserrat | 14.00 | 2007 |
+| 230 | Macedonia | 14.00 | 2010 |
+| 231 | Mauritius | 14.00 | 2008 |
+| 232 | Mauritius | 14.00 | 2008 |
+| 233 | Oman | 14.00 | 2011 |
+| 234 | Oman | 14.00 | 2011 |
+| 235 | Oman | 14.00 | 2011 |
+| 236 | Mexico | 14.00 | 2011 |
+| 237 | Mexico | 14.00 | 2011 |
+| 238 | Mexico | 14.00 | 2011 |
+| 239 | Panama | 14.00 | 2010 |
+| 240 | Palau | 14.00 | 2001 |
+| 241 | Georgia | 13.20 | 2009 |
+| 242 | Saint Vincent and the Grenadines | 13.00 | 2004 |
+| 243 | West Bank | 13.00 | 2006 |
+| 244 | Samoa | 13.00 | 2005 |
+| 245 | Aruba | 13.00 | 2011 |
+| 246 | Aruba | 13.00 | 2011 |
+| 247 | Aruba | 13.00 | 2011 |
+| 248 | United Arab Emirates | 13.00 | 2009 |
+| 249 | United Arab Emirates | 13.00 | 2009 |
+| 250 | Armenia | 13.00 | 2010 |
+| 251 | Bermuda | 13.00 | 2011 |
+| 252 | Bosnia and Herzegovina | 13.00 | 2011 |
+| 253 | Bolivia | 13.00 | 2007 |
+| 254 | Cayman Islands | 13.00 | 2008 |
+| 255 | Colombia | 13.00 | 2011 |
+| 256 | Costa Rica | 13.00 | 2011 |
+| 257 | Cabo Verde | 13.00 | 2011 |
+| 258 | Cabo Verde | 13.00 | 2011 |
+| 259 | Cabo Verde | 13.00 | 2011 |
+| 260 | Cook Islands | 13.00 | 2011 |
+| 261 | Dominica | 13.00 | 2008 |
+| 262 | Dominica | 13.00 | 2008 |
+| 263 | Dominica | 13.00 | 2008 |
+| 264 | Dominican Republic | 13.00 | 2004 |
+| 265 | Ecuador | 13.00 | 2008 |
+| 266 | Egypt | 13.00 | 2010 |
+| 267 | Gabon | 13.00 | 2002 |
+| 268 | Gaza Strip | 13.00 | 2006 |
+| 269 | Indonesia | 13.00 | 2011 |
+| 270 | Indonesia | 13.00 | 2011 |
+| 271 | Indonesia | 13.00 | 2011 |
+| 272 | Jordan | 13.00 | 2010 |
+| 273 | Jordan | 13.00 | 2010 |
+| 274 | Kyrgyzstan | 13.00 | 2011 |
+| 275 | Kuwait | 13.00 | 2004 |
+| 276 | Liberia | 13.00 | 2000 |
+| 277 | Macedonia | 13.00 | 2010 |
+| 278 | Macedonia | 13.00 | 2010 |
+| 279 | Mauritius | 13.00 | 2008 |
+| 280 | Maldives | 13.00 | 2003 |
+| 281 | Maldives | 13.00 | 2003 |
+| 282 | Malaysia | 13.00 | 2005 |
+| 283 | Malaysia | 13.00 | 2005 |
+| 284 | Niue | 13.00 | 2005 |
+| 285 | Peru | 13.00 | 2010 |
+| 286 | Peru | 13.00 | 2010 |
+| 287 | Peru | 13.00 | 2010 |
+| 288 | Panama | 13.00 | 2010 |
+| 289 | Panama | 13.00 | 2010 |
+| 290 | Qatar | 13.00 | 2011 |
+| 291 | Serbia | 13.00 | 2011 |
+| 292 | Saint Kitts and Nevis | 13.00 | 2008 |
+| 293 | Saint Kitts and Nevis | 13.00 | 2008 |
+| 294 | Seychelles | 13.00 | 2011 |
+| 295 | Seychelles | 13.00 | 2011 |
+| 296 | South Africa | 13.00 | 2004 |
+| 297 | South Africa | 13.00 | 2004 |
+| 298 | South Africa | 13.00 | 2004 |
+| 299 | Sierra Leone | 13.00 | 2007 |
+| 300 | Saint Lucia | 13.00 | 2011 |
+| 301 | Saint Lucia | 13.00 | 2011 |
+| 302 | Saint Lucia | 13.00 | 2011 |
+| 303 | Thailand | 13.00 | 2009 |
+| 304 | Tokelau | 13.00 | 2003 |
+| 305 | Turkey | 13.00 | 2010 |
+| 306 | Saint Vincent and the Grenadines | 13.00 | 2004 |
+| 307 | Saint Vincent and the Grenadines | 13.00 | 2004 |
+| 308 | Jamaica | 12.90 | 2010 |
+| 309 | Togo | 12.90 | 2011 |
+| 310 | Saint Kitts and Nevis | 12.00 | 2008 |
+| 311 | Sierra Leone | 12.00 | 2007 |
+| 312 | Syria | 12.00 | 2007 |
+| 313 | Trinidad and Tobago | 12.00 | 2004 |
+| 314 | Trinidad and Tobago | 12.00 | 2004 |
+| 315 | Trinidad and Tobago | 12.00 | 2004 |
+| 316 | Thailand | 12.00 | 2009 |
+| 317 | Thailand | 12.00 | 2009 |
+| 318 | Tajikistan | 12.00 | 2011 |
+| 319 | Tajikistan | 12.00 | 2011 |
+| 320 | Turks and Caicos Islands | 12.00 | 2005 |
+| 321 | Tokelau | 12.00 | 2003 |
+| 322 | Tokelau | 12.00 | 2003 |
+| 323 | Timor-Leste | 12.00 | 2009 |
+| 324 | Uzbekistan | 12.00 | 2011 |
+| 325 | Uzbekistan | 12.00 | 2011 |
+| 326 | Samoa | 12.00 | 2005 |
+| 327 | Samoa | 12.00 | 2005 |
+| 328 | Swaziland | 12.00 | 2011 |
+| 329 | Azerbaijan | 12.00 | 2011 |
+| 330 | Azerbaijan | 12.00 | 2011 |
+| 331 | Azerbaijan | 12.00 | 2011 |
+| 332 | Armenia | 12.00 | 2010 |
+| 333 | Armenia | 12.00 | 2010 |
+| 334 | Andorra | 12.00 | 2008 |
+| 335 | Andorra | 12.00 | 2008 |
+| 336 | Botswana | 12.00 | 2006 |
+| 337 | Botswana | 12.00 | 2006 |
+| 338 | Botswana | 12.00 | 2006 |
+| 339 | Bermuda | 12.00 | 2011 |
+| 340 | Bahamas, The | 12.00 | 2006 |
+| 341 | Bahamas, The | 12.00 | 2006 |
+| 342 | Bahamas, The | 12.00 | 2006 |
+| 343 | Belize | 12.00 | 2003 |
+| 344 | Belize | 12.00 | 2003 |
+| 345 | Belize | 12.00 | 2003 |
+| 346 | Bhutan | 12.00 | 2011 |
+| 347 | Bhutan | 12.00 | 2011 |
+| 348 | Bhutan | 12.00 | 2011 |
+| 349 | Burundi | 12.00 | 2010 |
+| 350 | China | 12.00 | 2011 |
+| 351 | China | 12.00 | 2011 |
+| 352 | China | 12.00 | 2011 |
+| 353 | Cayman Islands | 12.00 | 2008 |
+| 354 | Cameroon | 12.00 | 2011 |
+| 355 | Cameroon | 12.00 | 2011 |
+| 356 | Cook Islands | 12.00 | 2011 |
+| 357 | Cook Islands | 12.00 | 2011 |
+| 358 | Dominican Republic | 12.00 | 2004 |
+| 359 | Dominican Republic | 12.00 | 2004 |
+| 360 | Egypt | 12.00 | 2010 |
+| 361 | Egypt | 12.00 | 2010 |
+| 362 | El Salvador | 12.00 | 2011 |
+| 363 | El Salvador | 12.00 | 2011 |
+| 364 | El Salvador | 12.00 | 2011 |
+| 365 | Gabon | 12.00 | 2002 |
+| 366 | Gabon | 12.00 | 2002 |
+| 367 | Ghana | 12.00 | 2012 |
+| 368 | Ghana | 12.00 | 2012 |
+| 369 | Honduras | 12.00 | 2010 |
+| 370 | Honduras | 12.00 | 2010 |
+| 371 | Jordan | 12.00 | 2010 |
+| 372 | Kyrgyzstan | 12.00 | 2011 |
+| 373 | Kyrgyzstan | 12.00 | 2011 |
+| 374 | Kiribati | 12.00 | 2008 |
+| 375 | Kiribati | 12.00 | 2008 |
+| 376 | Kiribati | 12.00 | 2008 |
+| 377 | Moldova | 12.00 | 2011 |
+| 378 | Moldova | 12.00 | 2011 |
+| 379 | Moldova | 12.00 | 2011 |
+| 380 | Morocco | 12.00 | 2010 |
+| 381 | Maldives | 12.00 | 2003 |
+| 382 | Malaysia | 12.00 | 2005 |
+| 383 | Niue | 12.00 | 2005 |
+| 384 | Suriname | 12.00 | 2002 |
+| 385 | Paraguay | 12.00 | 2010 |
+| 386 | Paraguay | 12.00 | 2010 |
+| 387 | Paraguay | 12.00 | 2010 |
+| 388 | Qatar | 12.00 | 2011 |
+| 389 | Marshall Islands | 12.00 | 2003 |
+| 390 | Marshall Islands | 12.00 | 2003 |
+| 391 | Philippines | 12.00 | 2009 |
+| 392 | Albania | 11.00 | 2003 |
+| 393 | Albania | 11.00 | 2003 |
+| 394 | Albania | 11.00 | 2003 |
+| 395 | Andorra | 11.00 | 2008 |
+| 396 | Anguilla | 11.00 | 2008 |
+| 397 | Anguilla | 11.00 | 2008 |
+| 398 | Anguilla | 11.00 | 2008 |
+| 399 | Bermuda | 11.00 | 2011 |
+| 400 | Benin | 11.00 | 2005 |
+| 401 | Burundi | 11.00 | 2010 |
+| 402 | Burundi | 11.00 | 2010 |
+| 403 | Cambodia | 11.00 | 2008 |
+| 404 | Cayman Islands | 11.00 | 2008 |
+| 405 | Cameroon | 11.00 | 2011 |
+| 406 | Comoros | 11.00 | 2005 |
+| 407 | Ghana | 11.00 | 2012 |
+| 408 | Guatemala | 11.00 | 2007 |
+| 409 | Guatemala | 11.00 | 2007 |
+| 410 | Guinea | 11.00 | 2011 |
+| 411 | Guyana | 11.00 | 2011 |
+| 412 | Guyana | 11.00 | 2011 |
+| 413 | Honduras | 11.00 | 2010 |
+| 414 | India | 11.00 | 2010 |
+| 415 | India | 11.00 | 2010 |
+| 416 | Iraq | 11.00 | 2004 |
+| 417 | Kenya | 11.00 | 2009 |
+| 418 | Kenya | 11.00 | 2009 |
+| 419 | Kenya | 11.00 | 2009 |
+| 420 | Laos | 11.00 | 2011 |
+| 421 | Liberia | 11.00 | 2000 |
+| 422 | Madagascar | 11.00 | 2009 |
+| 423 | Malawi | 11.00 | 2011 |
+| 424 | Malawi | 11.00 | 2011 |
+| 425 | Malawi | 11.00 | 2011 |
+| 426 | Morocco | 11.00 | 2010 |
+| 427 | Morocco | 11.00 | 2010 |
+| 428 | Vanuatu | 11.00 | 2004 |
+| 429 | Vanuatu | 11.00 | 2004 |
+| 430 | Nicaragua | 11.00 | 2003 |
+| 431 | Nicaragua | 11.00 | 2003 |
+| 432 | Nicaragua | 11.00 | 2003 |
+| 433 | Marshall Islands | 11.00 | 2003 |
+| 434 | Philippines | 11.00 | 2009 |
+| 435 | Philippines | 11.00 | 2009 |
+| 436 | Rwanda | 11.00 | 2011 |
+| 437 | Rwanda | 11.00 | 2011 |
+| 438 | Rwanda | 11.00 | 2011 |
+| 439 | Sierra Leone | 11.00 | 2007 |
+| 440 | Syria | 11.00 | 2007 |
+| 441 | Syria | 11.00 | 2007 |
+| 442 | Tajikistan | 11.00 | 2011 |
+| 443 | Turks and Caicos Islands | 11.00 | 2005 |
+| 444 | Turks and Caicos Islands | 11.00 | 2005 |
+| 445 | Sao Tome and Principe | 11.00 | 2010 |
+| 446 | Sao Tome and Principe | 11.00 | 2010 |
+| 447 | Sao Tome and Principe | 11.00 | 2010 |
+| 448 | Tuvalu | 11.00 | 2001 |
+| 449 | Tuvalu | 11.00 | 2001 |
+| 450 | Uganda | 11.00 | 2009 |
+| 451 | Uganda | 11.00 | 2009 |
+| 452 | Uganda | 11.00 | 2009 |
+| 453 | Uzbekistan | 11.00 | 2011 |
+| 454 | Vietnam | 11.00 | 2001 |
+| 455 | Namibia | 11.00 | 2006 |
+| 456 | Namibia | 11.00 | 2006 |
+| 457 | Namibia | 11.00 | 2006 |
+| 458 | Swaziland | 11.00 | 2011 |
+| 459 | Swaziland | 11.00 | 2011 |
+| 460 | Yemen | 11.00 | 2005 |
+| 461 | Afghanistan | 10.00 | 2009 |
+| 462 | Zimbabwe | 10.00 | 2003 |
+| 463 | Solomon Islands | 10.00 | 2007 |
+| 464 | Cambodia | 10.00 | 2008 |
+| 465 | Cambodia | 10.00 | 2008 |
+| 466 | Chad | 10.00 | 2011 |
+| 467 | Congo, Republic of the | 10.00 | 2003 |
+| 468 | Congo, Democratic Republic of the | 10.00 | 2011 |
+| 469 | Comoros | 10.00 | 2005 |
+| 470 | Ethiopia | 10.00 | 2011 |
+| 471 | Guatemala | 10.00 | 2007 |
+| 472 | Guinea | 10.00 | 2011 |
+| 473 | Guyana | 10.00 | 2011 |
+| 474 | India | 10.00 | 2010 |
+| 475 | Iraq | 10.00 | 2004 |
+| 476 | Laos | 10.00 | 2011 |
+| 477 | Laos | 10.00 | 2011 |
+| 478 | Lesotho | 10.00 | 2006 |
+| 479 | Lesotho | 10.00 | 2006 |
+| 480 | Lesotho | 10.00 | 2006 |
+| 481 | Madagascar | 10.00 | 2009 |
+| 482 | Madagascar | 10.00 | 2009 |
+| 483 | Mozambique | 10.00 | 2011 |
+| 484 | Mozambique | 10.00 | 2011 |
+| 485 | Vanuatu | 10.00 | 2004 |
+| 486 | Nigeria | 10.00 | 2005 |
+| 487 | Nepal | 10.00 | 2002 |
+| 488 | Nauru | 10.00 | 2008 |
+| 489 | Tuvalu | 10.00 | 2001 |
+| 490 | Vietnam | 10.00 | 2001 |
+| 491 | Vietnam | 10.00 | 2001 |
+| 492 | Angola | 10.00 | 2010 |
+| 493 | Guinea-Bissau | 9.50 | 2006 |
+| 494 | Zimbabwe | 9.00 | 2003 |
+| 495 | Solomon Islands | 9.00 | 2007 |
+| 496 | Solomon Islands | 9.00 | 2007 |
+| 497 | Congo, Republic of the | 9.00 | 2003 |
+| 498 | Congo, Republic of the | 9.00 | 2003 |
+| 499 | Comoros | 9.00 | 2005 |
+| 500 | Equatorial Guinea | 9.00 | 2002 |
+| 501 | Ethiopia | 9.00 | 2011 |
+| 502 | Iraq | 9.00 | 2004 |
+| 503 | Liberia | 9.00 | 2000 |
+| 504 | Mozambique | 9.00 | 2011 |
+| 505 | Nigeria | 9.00 | 2005 |
+| 506 | Nepal | 9.00 | 2002 |
+| 507 | Nauru | 9.00 | 2008 |
+| 508 | Nauru | 9.00 | 2008 |
+| 509 | Tanzania | 9.00 | 2012 |
+| 510 | Tanzania | 9.00 | 2012 |
+| 511 | Tanzania | 9.00 | 2012 |
+| 512 | Yemen | 9.00 | 2005 |
+| 513 | Zimbabwe | 9.00 | 2003 |
+| 514 | Burma | 9.00 | 2007 |
+| 515 | Benin | 9.00 | 2005 |
+| 516 | Gambia, The | 8.60 | 2008 |
+| 517 | Zambia | 8.00 | 2000 |
+| 518 | Bangladesh | 8.00 | 2007 |
+| 519 | Bangladesh | 8.00 | 2007 |
+| 520 | Benin | 8.00 | 2005 |
+| 521 | Chad | 8.00 | 2011 |
+| 522 | Congo, Democratic Republic of the | 8.00 | 2011 |
+| 523 | Central African Republic | 8.00 | 2011 |
+| 524 | Equatorial Guinea | 8.00 | 2002 |
+| 525 | Ethiopia | 8.00 | 2011 |
+| 526 | Guinea | 8.00 | 2011 |
+| 527 | Cote d'Ivoire | 8.00 | 2000 |
+| 528 | Mali | 8.00 | 2011 |
+| 529 | Mali | 8.00 | 2011 |
+| 530 | Mauritania | 8.00 | 2011 |
+| 531 | Mauritania | 8.00 | 2011 |
+| 532 | Mauritania | 8.00 | 2011 |
+| 533 | Nigeria | 8.00 | 2005 |
+| 534 | Nepal | 8.00 | 2002 |
+| 535 | Pakistan | 8.00 | 2011 |
+| 536 | Pakistan | 8.00 | 2011 |
+| 537 | Senegal | 8.00 | 2010 |
+| 538 | Senegal | 8.00 | 2010 |
+| 539 | Senegal | 8.00 | 2010 |
+| 540 | Afghanistan | 8.00 | 2009 |
+| 541 | Bangladesh | 8.00 | 2007 |
+| 542 | Congo, Democratic Republic of the | 7.00 | 2011 |
+| 543 | Central African Republic | 7.00 | 2011 |
+| 544 | Equatorial Guinea | 7.00 | 2002 |
+| 545 | Mali | 7.00 | 2011 |
+| 546 | Zambia | 7.00 | 2000 |
+| 547 | Burkina Faso | 7.00 | 2011 |
+| 548 | Burkina Faso | 7.00 | 2011 |
+| 549 | Yemen | 7.00 | 2005 |
+| 550 | Zambia | 7.00 | 2000 |
+| 551 | Pakistan | 7.00 | 2011 |
+| 552 | Afghanistan | 6.00 | 2009 |
+| 553 | Chad | 6.00 | 2011 |
+| 554 | Djibouti | 6.00 | 2011 |
+| 555 | Burkina Faso | 6.00 | 2011 |
+| 556 | Cote d'Ivoire | 6.00 | 2000 |
+| 557 | Niger | 6.00 | 2011 |
+| 558 | Djibouti | 6.00 | 2011 |
+| 559 | Central African Republic | 5.00 | 2011 |
+| 560 | Djibouti | 5.00 | 2011 |
+| 561 | Eritrea | 5.00 | 2010 |
+| 562 | Niger | 5.00 | 2011 |
+| 563 | Cote d'Ivoire | 5.00 | 2000 |
+| 564 | Niger | 5.00 | 2011 |
+| 565 | Eritrea | 5.00 | 2010 |
+| 566 | Sudan | 4.00 | 2000 |
+| 567 | Eritrea | 4.00 | 2010 |
+| 568 | Somalia | 3.00 | 2007 |
+| 569 | Somalia | 3.00 | 2007 |
+| 570 | Somalia | 2.00 | 2007 |
+
+

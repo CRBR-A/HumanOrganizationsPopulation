@@ -1,0 +1,8 @@
+The Portuguese discovered the uninhabited island in 1513. From the 17th to the 19th centuries, French immigration, supplemented by influxes of Africans, Chinese, Malays, and Malabar Indians, gave the island its ethnic mix. The opening of the Suez Canal in 1869 cost the island its importance as a stopover on the East Indies trade route.  
+
+---
+country: Reunion
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Reunion/>
+license: public domain (U.S.)
+...

@@ -1,0 +1,8 @@
+The eastern half of the island of New Guinea - second largest in the world - was divided between Germany (north) and the UK (south) in 1885. The latter area was transferred to Australia in 1902, which occupied the northern portion during World War I and continued to administer the combined areas until independence in 1975. A nine-year secessionist revolt on the island of Bougainville ended in 1997 after claiming some 20,000 lives. Since 2001, Bougainville has experienced autonomy; a referendum asking the population if they would like independence or greaterÂ self rule occurred in November 2019, with almost 98% of voters choosing independence.  
+
+---
+country: Papua New Guinea
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Papua New Guinea/>
+license: public domain (U.S.)
+...

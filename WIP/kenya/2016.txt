@@ -1,0 +1,378 @@
+CIA - The World Factbook -- KENYA
+
+| Geography | KENYA |
+| --- | --- |
+| Location: | Eastern Africa, bordering the Indian Ocean, between Somalia and Tanzania |
+| Geographic coordinates: | 1 00 N, 38 00 E |
+| Map references: | Africa |
+| Area: | total: 580,367 sq km |
+| | land: 569,140 sq km |
+| | water: 11,227 sq km |
+| Area - comparative: | five times the size of Ohio; slightly more than twice the size of Nevada |
+| Land boundaries: | total: 3,457 km |
+| | border countries (5): Ethiopia 867 km, Somalia 684 km, South Sudan 317 km, Tanzania 775 km, Uganda 814 km |
+| Coastline: | 536 km |
+| Maritime claims: | territorial sea: 12 nm |
+| | exclusive economic zone: 200 nm |
+| | continental shelf: 200-m depth or to the depth of exploitation |
+| Climate: | varies from tropical along coast to arid in interior |
+| Terrain: | low plains rise to central highlands bisected by Great Rift Valley; fertile plateau in west |
+| Elevation: | mean elevation: 762 m |
+| | elevation extremes: lowest point: Indian Ocean 0 m |
+| | highest point: Mount Kenya 5,199 m |
+| Natural resources: | limestone, soda ash, salt, gemstones, fluorspar, zinc, diatomite, gypsum, wildlife, hydropower |
+| Land use: | agricultural land: 48.1% |
+| | arable land 9.8%; permanent crops 0.9%; permanent pasture 37.4% |
+| | forest: 6.1% |
+| | other: 45.8% (2011 est.) |
+| Irrigated land: | 1,030 sq km (2012) |
+| Natural hazards: | recurring drought; flooding during rainy seasons |
+| | volcanism: limited volcanic activity; the Barrier (elev. 1,032 m) last erupted in 1921; South Island is the only other historically active volcano |
+| Environment - current issues: | water pollution from urban and industrial wastes; degradation of water quality from increased use of pesticides and fertilizers; water hyacinth infestation in Lake Victoria; deforestation; soil erosion; desertification; poaching |
+| Environment - international agreements: | party to: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling |
+| | signed, but not ratified: none of the selected agreements |
+| Geography - note: | the Kenyan Highlands comprise one of the most successful agricultural production regions in Africa; glaciers are found on Mount Kenya, Africa's second highest peak; unique physiography supports abundant and varied wildlife of scientific and economic value |
+
+| People and Society | KENYA |
+| --- | --- |
+| Population: | 46,790,758 |
+| | note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2016 est.) |
+| Nationality: | noun: Kenyan(s) |
+| | adjective: Kenyan |
+| Ethnic groups: | Kikuyu 22%, Luhya 14%, Luo 13%, Kalenjin 12%, Kamba 11%, Kisii 6%, Meru 6%, other African 15%, non-African (Asian, European, and Arab) 1% |
+| Languages: | English (official), Kiswahili (official), numerous indigenous languages |
+| Religions: | Christian 83% (Protestant 47.7%, Catholic 23.4%, other Christian 11.9%), Muslim 11.2%, Traditionalists 1.7%, other 1.6%, none 2.4%, unspecified 0.2% (2009 est.) |
+| Demographic profile: | Kenya has experienced dramatic population growth since the mid-20th century as a result of its high birth rate and its declining mortality rate. More than 40% of Kenyans are under the age of 15 because of sustained high fertility, early marriage and childbearing, and an unmet need for family planning. Kenya’s persistent rapid population growth strains the labor market, social services, arable land, and natural resources. Although Kenya in 1967 was the first sub-Saharan country to launch a nationwide family planning program, progress in reducing the birth rate has largely stalled since the late 1990s, when the government decreased its support for family planning to focus on the HIV epidemic. Government commitment and international technical support spurred Kenyan contraceptive use, decreasing the fertility rate (children per woman) from about 8 in the late 1970s to less than 5 children twenty years later, but it has plateaued at just over 3 children today. |
+| | Kenya is a source of emigrants and a host country for refugees. In the 1960s and 1970s, Kenyans pursued higher education in the UK because of colonial ties, but as British immigration rules tightened, the US, the then Soviet Union, and Canada became attractive study destinations. Kenya’s stagnant economy and political problems during the 1980s and 1990s led to an outpouring of Kenyan students and professionals seeking permanent opportunities in the West and southern Africa. Nevertheless, Kenya’s relative stability since its independence in 1963 has attracted hundreds of thousands of refugees escaping violent conflicts in neighboring countries; Kenya presently shelters nearly 400,000 Somali refugees. |
+| Age structure: | 0-14 years: 40.87% (male 9,592,017/female 9,532,032) |
+| | 15-24 years: 18.83% (male 4,398,554/female 4,411,586) |
+| | 25-54 years: 33.54% (male 7,938,111/female 7,755,128) |
+| | 55-64 years: 3.84% (male 819,665/female 976,862) |
+| | 65 years and over: 2.92% (male 590,961/female 775,842) (2016 est.) |
+| Dependency ratios: | total dependency ratio: 80.9% |
+| | youth dependency ratio: 75.8% |
+| | elderly dependency ratio: 5.1% |
+| | potential support ratio: 19.7% (2015 est.) |
+| Median age: | total: 19.5 years |
+| | male: 19.4 years |
+| | female: 19.6 years (2016 est.) |
+| Population growth rate: | 1.81% (2016 est.) |
+| Birth rate: | 25.1 births/1,000 population (2016 est.) |
+| Death rate: | 6.8 deaths/1,000 population (2016 est.) |
+| Net migration rate: | -0.2 migrant(s)/1,000 population (2016 est.) |
+| Urbanization: | urban population: 25.6% of total population (2015) |
+| | rate of urbanization: 4.34% annual rate of change (2010-15 est.) |
+| Major urban areas - population: | NAIROBI (capital) 3.915 million; Mombassa 1.104 million (2015) |
+| Sex ratio: | at birth: 1.02 male(s)/female |
+| | 0-14 years: 1.01 male(s)/female |
+| | 15-24 years: 1 male(s)/female |
+| | 25-54 years: 1.02 male(s)/female |
+| | 55-64 years: 0.84 male(s)/female |
+| | 65 years and over: 0.77 male(s)/female |
+| | total population: 1 male(s)/female (2016 est.) |
+| Mother's mean age at first birth: | 20.3 |
+| | note: median age at first birth among women 25-29 (2014 est.) |
+| Maternal mortality rate: | 510 deaths/100,000 live births (2015 est.) |
+| Infant mortality rate: | total: 38.3 deaths/1,000 live births |
+| | male: 42.7 deaths/1,000 live births |
+| | female: 33.7 deaths/1,000 live births (2016 est.) |
+| Life expectancy at birth: | total population: 64 years |
+| | male: 62.6 years |
+| | female: 65.5 years (2016 est.) |
+| Total fertility rate: | 3.14 children born/woman (2016 est.) |
+| Contraceptive prevalence rate: | 45.5% (2008/09) |
+| Health expenditures: | 5.7% of GDP (2014) |
+| Physicians density: | 0.2 physicians/1,000 population (2013) |
+| Hospital bed density: | 1.4 beds/1,000 population (2010) |
+| Drinking water source: | improved: |
+| | urban: 81.6% of population |
+| | rural: 56.8% of population |
+| | total: 63.2% of population |
+| unimproved: | urban: 18.4% of population |
+| | rural: 43.2% of population |
+| | total: 36.8% of population (2015 est.) |
+| Sanitation facility access: | improved: |
+| | urban: 31.2% of population |
+| | rural: 29.7% of population |
+| | total: 30.1% of population |
+| unimproved: | urban: 68.8% of population |
+| | rural: 70.3% of population |
+| | total: 69.9% of population (2015 est.) |
+| HIV/AIDS - adult prevalence rate: | 5.91% (2015 est.) |
+| HIV/AIDS - people living with HIV/AIDS: | 1,517,700 (2015 est.) |
+| HIV/AIDS - deaths: | 35,800 (2015 est.) |
+| Major infectious diseases: | degree of risk: very high |
+| | food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| | vectorborne disease: malaria, dengue fever, and Rift Valley fever |
+| | water contact disease: schistosomiasis |
+| | animal contact disease: rabies (2016) |
+| Obesity - adult prevalence rate: | 5.9% (2014) |
+| Children under the age of 5 years underweight: | 11% (2014) |
+| Education expenditures: | 5.5% of GDP (2010) |
+| Literacy: | definition: age 15 and over can read and write |
+| | total population: 78% |
+| | male: 81.1% |
+| | female: 74.9% (2015 est.) |
+| School life expectancy (primary to tertiary education): | total: 11 years |
+| | male: 11 years |
+| | female: 11 years (2009) |
+
+| Government | KENYA |
+| --- | --- |
+| Country name: | conventional long form: Republic of Kenya |
+| | conventional short form: Kenya |
+| | local long form: Republic of Kenya/Jamhuri ya Kenya |
+| | local short form: Kenya |
+| | former: British East Africa |
+| | etymolgy: named for Mount Kenya; the meaning of the name is unclear but may derive from the Kikuyu, Embu, and Kamba words "kirinyaga," "kirenyaa," and "kiinyaa" - all of which mean "God's resting place" |
+| Government type: | presidential republic |
+| Capital: | name: Nairobi |
+| | geographic coordinates: 1 17 S, 36 49 E |
+| | time difference: UTC+3 (8 hours ahead of Washington, DC, during Standard Time) |
+| Administrative divisions: | 47 counties; Baringo, Bomet, Bungoma, Busia, Elgeyo/Marakwet, Embu, Garissa, Homa Bay, Isiolo, Kajiado, Kakamega, Kericho, Kiambu, Kilifi, Kirinyaga, Kisii, Kisumu, Kitui, Kwale, Laikipia, Lamu, Machakos, Makueni, Mandera, Marsabit, Meru, Migori, Mombasa, Murang'a, Nairobi City, Nakuru, Nandi, Narok, Nyamira, Nyandarua, Nyeri, Samburu, Siaya, Taita/Taveta, Tana River, Tharaka-Nithi, Trans Nzoia, Turkana, Uasin Gishu, Vihiga, Wajir, West Pokot |
+| Independence: | 12 December 1963 (from the UK) |
+| National holiday: | Independence Day, 12 December (1963); Madaraka Day, 1 June (1963); Mashujaa Day (or Heroes' Day), 20 October (2010) |
+| Constitution: | previous 1963, 1969; latest drafted 6 May 2010, passed by referendum 4 August 2010, promulgated 27 August 2010 (2016) |
+| Legal system: | mixed legal system of English common law, Islamic law, and customary law; judicial review in a new Supreme Court established pursuant to the new constitution |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| | citizenship by descent only: at least one parent must be a citizen of Kenya |
+| | dual citizenship recognized: yes |
+| | residency requirement for naturalization: 4 out of the previous 7 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Uhuru KENYATTA (since 9 April 2013); Deputy President William RUTO (since 9 April 2013); note - the president is both chief of state and head of government |
+| | head of government: President Uhuru KENYATTA (since 9 April 2013); Deputy President William RUTO (since 9 April 2013); note - position of the prime minister abolished after the March 2013 elections |
+| | cabinet: Cabinet appointed by the president, subject to confirmation by the Natioal Assembly |
+| | elections/appointments: president and deputy president directly elected on the same ballot by qualified majority popular vote for a 5-year term (eligible for a second term); in addition to receiving an absolute majority popular vote, the presidential candidate must also win at least 25% of the votes cast in each of more than half of the 47 counties to avoid a runoff; election last held on 4 March 2013 (next to be held in 2017) |
+| | election results: Uhuru KENYATTA elected president in first round; percent of vote - Uhuru KENYATTA (TNA) 50.1%, Raila ODINGA (ODM) 43.7%, Musalia MUDAVADI (UDF) 4.0%, other 2.2% |
+| Legislative branch: | description: bicameral parliament consists of the Senate (67 seats; 47 members directly elected in single-seat constituencies by simple majority vote and 20 directly elected by proportional representation vote - 16 women, 2 representing youth, and 2 representing the disabled; members serve 5-year terms) and the National Assembly (349 seats; 290 members directly elected in single-seat constituencies by simple majority vote, 47 women in single-seat constituencies elected by simple majority vote, and 12 members nominated by the National Assembly - 6 representing youth and 6 representing the disabled; members serve 5-year terms) |
+| | elections: last held on 4 March 2013 (next to be held in 2017) |
+| | election results: Senate - percent of vote by party/coalition - NA; seats by party/coalition - Jubilee Alliance 30 (TNA 17, URP 12, NARC 1); CORD Coalition 28 (ODM 17, FORD-K 5, WDM-K 5, other 1); Amani Coalition 6 (KANU 3, UDF 3), APK 3; National Assembly - percent of vote by party/coalition - NA; seats by party/coalition - Jubilee Alliance 167 (TNA 89, URP 75, NARC 3), CORD Coalition 141 (ODM 96, WDM-K 26, FORD-K 10, other 9), Amani Coalition 24 (UDF 12, KANU 6, NFK 6), Eagle Coalition 2 (KNC 2), APK 5, FORD-P 4, independent 4, other 2 |
+| Judicial branch: | highest court(s): Supreme Court (consists of chief and deputy chief justices and 5 judges) |
+| | judge selection and term of office: chief and deputy chief justices nominated by Judicial Service Commission (JSC) and appointed by president with approval of the National Assembly; other judges nominated by the JSC and appointed by president; chief justice serves a nonrenewable 10-year term or till age 70 whichever comes first; other judges serve till age 70 |
+| | subordinate courts: High Court; Court of Appeal; military courts; magistrates' courts; religious courts |
+| Political parties and leaders: | Alliance Party of Kenya or APK [Kiraitu MURUNGI] |
+| | Amani National Congress [Musalia MUDAVADI] |
+| | Coalition for Reforms and Democracy or CORD (includes ODM, WDM-K, FORD-K) [Raila ODINGA] |
+| | Federal Party of Kenya or FPK [Cyrus JIRONGA] |
+| | Forum for the Restoration of Democracy-Kenya or FORD-K [Moses WETANGULA] |
+| | Forum for the Restoration of Democracy-People or FORD-P [Henry OBWOCHA] |
+| | Jubilee Alliance (includes TNA, URP, NARC) [Uhuru KENYATTA] |
+| | Kenya African National Union or KANU [Gideon MOI] |
+| | National Rainbow Coalition or NARC [Charity NGILU] |
+| | New Ford Kenya or NFK [Eugene WAMALWA] |
+| | Orange Democratic Movement Party of Kenya or ODM [Raila ODINGA] |
+| | The National Alliance or TNA [Uhuru KENYATTA] |
+| | United Republican Party or URP [William RUTO] |
+| | Wiper Democratic Movement-K or WDM-K (formerly Orange Democratic Movement-Kenya or ODM-K) [Kalonzo MUSYOKA] |
+| Political pressure groups and leaders: | African Center for Open Governance [Gladwell OTIENO] |
+| | Anglican Church of Kenya [Archbishop Eliud WABUKALA] |
+| | Council of Imams and Preachers of Kenya or CIPK [Sheikh Mohammed KHALIFA] |
+| | Federation of Women Lawyers in Kenya |
+| | Kenya Association of Manufacturers |
+| | Kenya Human Rights Commission or KHRC [George KEGORO] |
+| | Kenya Private Sector Alliance |
+| | Kenyans for Peace with Truth and Justice (umbrella group of more than 30 NGOs) |
+| | Muslim Human Rights Forum [Ali-Amin KIMATHI] |
+| | National Muslim Leaders Forum or NAMLEF [Abdullahi ABDI] |
+| | Protestant National Council of Churches of Kenya or NCCK [Canon Peter Karanja MWANGI] |
+| | Roman Catholic Church [Cardinal John NJUE] |
+| | Supreme Council of Kenya Muslims or SUPKEM [Adan WACHU, secretary general] |
+| | other: labor unions, other Christian churches |
+| International organization participation: | ACP, AfDB, AU, C, CD, COMESA, EAC, EADB, FAO, G-15, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NAM, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNMIL, UNMISS, UNWTO, UPU, WCO, WHO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Robinson GITHAE (since 18 November 2014) |
+| | chancery: 2249 R Street NW, Washington, DC 20008 |
+| | telephone: [1] (202) 387-6101 |
+| | FAX: [1] (202) 462-3829 |
+| | consulate(s) general: Los Angeles |
+| | consulate(s): New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Robert F. GODEC (since 16 January 2013) |
+| | embassy: United Nations Avenue, Nairobi; P.O. Box 606 Village Market, Nairobi 00621 |
+| | mailing address: American Embassy Nairobi, U.S. Department of State, Washington, DC 20521-8900 |
+| | telephone: [254] (20) 363-6000 |
+| | FAX: [254] (20) 363-6157 |
+| Flag description: | three equal horizontal bands of black (top), red, and green; the red band is edged in white; a large Maasai warrior's shield covering crossed spears is superimposed at the center; black symbolizes the majority population, red the blood shed in the struggle for freedom, green stands for natural wealth, and white for peace; the shield and crossed spears symbolize the defense of freedom |
+| National symbol(s): | lion; national colors: black, red, green, white |
+| National anthem: | name: "Ee Mungu Nguvu Yetu" (Oh God of All Creation) |
+| | lyrics/music: Graham HYSLOP, Thomas KALUME, Peter KIBUKOSYA, Washington OMONDI, and George W. SENOGA-ZAKE/traditional, adapted by Graham HYSLOP, Thomas KALUME, Peter KIBUKOSYA, Washington OMONDI, and George W. SENOGA-ZAKE |
+| | note: adopted 1963; based on a traditional Kenyan folk song |
+
+| Economy | KENYA |
+| --- | --- |
+| Economy - overview: | Kenya is the economic and transport hub of East Africa. Kenya’s real GDP growth has averaged over 5% for the last seven years. Since 2014 Kenya has been ranked as a lower middle income country because its per capita GDP crossed a World Bank threshold. While Kenya has a growing entrepreneurial middle class and faster growth, its economic and development trajectory is threatened by weak governance and corruption. Unemployment and under-employment are high, but reliable numbers are hard to find. |
+| | Agriculture remains the backbone of the Kenyan economy, contributing 25% of GDP. About 80% of Kenya’s population of roughly 42 million work at least part-time in the agricultural sector, including livestock and pastoral activities. Over 75% of agricultural output is from small-scale, rain-fed farming or livestock production. |
+| | Inadequate infrastructure continues to hamper Kenya’s efforts to improve its economic growth to the 8-10% range so that it can meaningfully address poverty and unemployment. The KENYATTA administration sought external investment in infrastructure development. International financial institutions and donors remain important to Kenya's economic growth and development, but Kenya has also successfully raised capital in the global bond market. Kenya issued its first sovereign bond offering in mid-2014. Nairobi has contracted with a Chinese company to construct a new standard gauge railway connecting Mombasa and Nairobi, with completion expected in 2017. The country is in the process of devolving some state revenues and responsibilities to the counties. Inflationary pressures and sharp currency depreciation peaked in early 2012 but have since abated following low global food and fuel prices and monetary interventions by the Central Bank. Chronic budget deficits, including a shortage of funds in mid-2015, hampered the government’s ability to implement proposed development programs, but the economy is back in balance with many indicators, including foreign exchange reserves, interest rates, inflation, and FDI moving in the right direction. |
+| | Tourism holds a significant place in Kenya’s economy. Multiple terror attacks by the Somalia-based group al-Shabaab in the time since the 2013 attack on Nairobi’s Westgate mall, which killed at least 67, had a negative effect on international tourism earnings, but the sector is starting to recover. Kenya’s success in hosting a series of incident-free high-profile events in the second half of 2015, including the visit of US President Obama, has helped improve the outlook for tourism. |
+| GDP (purchasing power parity): | $141.6 billion (2015 est.) |
+| | $134.3 billion (2014 est.) |
+| | $127.6 billion (2013 est.) |
+| | note: data are in 2015 US dollars |
+| GDP (official exchange rate): | $61.41 billion (2015 est.) |
+| GDP - real growth rate: | 5.4% (2015 est.) |
+| | 5.3% (2014 est.) |
+| | 5.7% (2013 est.) |
+| GDP - per capita (PPP): | $3,200 (2015 est.) |
+| | $3,100 (2014 est.) |
+| | $3,100 (2013 est.) |
+| | note: data are in 2015 US dollars |
+| Gross national saving: | 14.8% of GDP (2015 est.) |
+| | 12.2% of GDP (2014 est.) |
+| | 11.3% of GDP (2013 est.) |
+| GDP - composition, by end use: | household consumption: 79.3% |
+| | government consumption: 14.5% |
+| | investment in fixed capital: 21.5% |
+| | investment in inventories: -2.1% |
+| | exports of goods and services: 15.8% |
+| | imports of goods and services: -29% (2015 est.) |
+| GDP - composition, by sector of origin: | agriculture: 32.9% |
+| | industry: 17.8% |
+| | services: 49.2% (2015 est.) |
+| Agriculture - products: | tea, coffee, corn, wheat, sugarcane, fruit, vegetables; dairy products, beef, fish, pork, poultry, eggs |
+| Industries: | small-scale consumer goods (plastic, furniture, batteries, textiles, clothing, soap, cigarettes, flour), agricultural products, horticulture, oil refining; aluminum, steel, lead; cement, commercial ship repair, tourism |
+| Industrial production growth rate: | 6.1% (2015 est.) |
+| Labor force: | 18.07 million (2015 est.) |
+| Labor force - by occupation: | agriculture: 75% |
+| | industry and services: 25% (2011 est.) |
+| Unemployment rate: | 40% (2013 est.) |
+| | 40% (2001 est.) |
+| Population below poverty line: | 43.4% (2012 est.) |
+| Household income or consumption by percentage share: | lowest 10%: 1.8% |
+| | highest 10%: 37.8% (2005) |
+| Distribution of family income - Gini index: | 42.5 (2008 est.) |
+| | 44.9 (1997) |
+| Budget: | revenues: $10.76 billion |
+| | expenditures: $14.78 billion (2015 est.) |
+| Taxes and other revenues: | 17.5% of GDP (2015 est.) |
+| Budget surplus (+) or deficit (-): | -6.5% of GDP (2015 est.) |
+| Public debt: | 48% of GDP (2015 est.) |
+| | 45.9% of GDP (2014 est.) |
+| Fiscal year: | 1 July - 30 June |
+| Inflation rate (consumer prices): | 6.6% (2015 est.) |
+| | 6.9% (2014 est.) |
+| Central bank discount rate: | 11.5% (20 January 2016) |
+| | 7% (31 December 2010) |
+| Commercial bank prime lending rate: | 16.09% (31 December 2015 est.) |
+| | 16.51% (31 December 2014 est.) |
+| Stock of narrow money: | $9.927 billion (31 December 2015 est.) |
+| | $10.34 billion (31 December 2014 est.) |
+| Stock of broad money: | $24.02 billion (31 December 2014 est.) |
+| | $18.92 billion (31 December 2013 est.) |
+| Stock of domestic credit: | $27.5 billion (31 December 2015 est.) |
+| | $26.37 billion (31 December 2014 est.) |
+| Market value of publicly traded shares: | $26.16 billion (31 December 2014 est.) |
+| | $22.09 billion (31 December 2013 est.) |
+| | $14.79 billion (31 December 2012 est.) |
+| Current account balance: | -$5.011 billion (2015 est.) |
+| | -$6.339 billion (2014 est.) |
+| Exports: | $5.982 billion (2015 est.) |
+| | $6.174 billion (2014 est.) |
+| Exports - commodities: | tea, horticultural products, coffee, petroleum products, fish, cement |
+| Exports - partners: | Uganda 11.2%, US 8.3%, Tanzania 8.1%, Netherlands 7.4%, UK 6%, Pakistan 4.2% (2015) |
+| Imports: | $15.56 billion (2015 est.) |
+| | $17.61 billion (2014 est.) |
+| Imports - commodities: | machinery and transportation equipment, petroleum products, motor vehicles, iron and steel, resins and plastics |
+| Imports - partners: | China 30%, India 15.5%, UAE 5.7%, US 4.8%, Japan 4.7% (2015) |
+| Reserves of foreign exchange and gold: | $7.548 billion (31 December 2015 est.) |
+| | $7.911 billion (31 December 2014 est.) |
+| Debt - external: | $17.92 billion (31 December 2015 est.) |
+| | $16.18 billion (31 December 2014 est.) |
+| Stock of direct foreign investment - at home: | $4.662 billion (31 December 2015 est.) |
+| | $3.902 billion (31 December 2014 est.) |
+| Stock of direct foreign investment - abroad: | $NA (31 December 2015 est.) |
+| | $NA (31 December 2014 est.) |
+| Exchange rates: | Kenyan shillings (KES) per US dollar - |
+| | 98.179 (2015 est.) |
+| | 87.923 (2014 est.) |
+| | 87.921 (2013 est.) |
+| | 84.53 (2012 est.) |
+| | 88.811 (2011 est.) |
+
+| Energy | KENYA |
+| --- | --- |
+| Electricity access: | population without electricity: 35,400,000 |
+| | electrification - total population: 20% |
+| | electrification - urban areas: 60% |
+| | electrification - rural areas: 7% (2013) |
+| Electricity - production: | 9.2 billion kWh (2014 est.) |
+| Electricity - consumption: | 7.6 billion kWh (2014 est.) |
+| Electricity - exports: | 38 million kWh (2014 est.) |
+| Electricity - imports: | 79 million kWh (2014 est.) |
+| Electricity - installed generating capacity: | 2.281 million kW (2015 est.) |
+| Electricity - from fossil fuels: | 42.4% of total installed capacity (2012 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2012 est.) |
+| Electricity - from hydroelectric plants: | 43.9% of total installed capacity (2012 est.) |
+| Electricity - from other renewable sources: | 13.8% of total installed capacity (2012 est.) |
+| Crude oil - production: | 0 bbl/day (2015 est.) |
+| Crude oil - exports: | 0 bbl/day (2013 est.) |
+| Crude oil - imports: | 11,270 bbl/day (2013 est.) |
+| Crude oil - proved reserves: | 0 bbl (1 January 2016 es) |
+| Refined petroleum products - production: | 12,610 bbl/day (2013 est.) |
+| Refined petroleum products - consumption: | 92,000 bbl/day (2014 est.) |
+| Refined petroleum products - exports: | 575.3 bbl/day (2013 est.) |
+| Refined petroleum products - imports: | 82,950 bbl/day (2013 est.) |
+| Natural gas - production: | 0 cu m (2013 est.) |
+| Natural gas - consumption: | 0 cu m (2013 est.) |
+| Natural gas - exports: | 0 cu m (2013 est.) |
+| Natural gas - imports: | 0 cu m (2013 est.) |
+| Natural gas - proved reserves: | 0 cu m (1 January 2014 es) |
+| Carbon dioxide emissions from consumption of energy: | 13 million Mt (2013 est.) |
+
+| Communications | KENYA |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 85,496 |
+| | subscriptions per 100 inhabitants: less than 1 (July 2015 est.) |
+| Telephones - mobile cellular: | total: 37.716 million |
+| | subscriptions per 100 inhabitants: 82 (July 2015 est.) |
+| Telephone system: | general assessment: the mobile-cellular system is generally good, especially is urban areas; fixed-line telephone system is small and inefficient; trunks are primarily microwave radio relay; business data commonly transferred by a very small aperture terminal (VSAT) system |
+| | domestic: sole fixed-line provider, Telkom Kenya, privatized and as of 2013 is 70% owned by France Telecom; multiple providers in the mobile-cellular segment of the market fostering a boom in mobile-cellular telephone usage with teledensity reaching 80 per 100 persons in 2015 |
+| | international: country code - 254; landing point for the EASSy, TEAMS and SEACOM fiber-optic submarine cable systems; satellite earth stations - 4 Intelsat (2015) |
+| Broadcast media: | about a half-dozen large-scale privately owned media companies with TV and radio stations, as well as a state-owned TV broadcaster, provide service nationwide; satellite and cable TV subscription services available; state-owned radio broadcaster operates 2 national radio channels and provides regional and local radio services in multiple languages; many private radio stations broadcast on a national level along with over 100 private and non-profit provincial stations broadcasting in local languages; transmissions of several international broadcasters available (2014) |
+| Internet country code: | .ke |
+| Internet users: | total: 20.952 million |
+| | percent of population: 45.6% (July 2015 est.) |
+
+| Transportation | KENYA |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 16 |
+| | inventory of registered aircraft operated by air carriers: 106 |
+| | annual passenger traffic on registered air carriers: 4,874,590 |
+| | annual freight traffic on registered air carriers: 286,414,683 mt-km (2015) |
+| Civil aircraft registration country code prefix: | 5Y (2016) |
+| Airports: | 197 (2013) |
+| Airports - with paved runways: | total: 16 |
+| | over 3,047 m: 5 |
+| | 2,438 to 3,047 m: 2 |
+| | 1,524 to 2,437 m: 2 |
+| | 914 to 1,523 m: 6 |
+| | under 914 m: 1 (2013) |
+| Airports - with unpaved runways: | total: 181 |
+| | 1,524 to 2,437 m: 14 |
+| | 914 to 1,523 m: 107 |
+| | under 914 m: 60 (2013) |
+| Pipelines: | oil 4 km; refined products 928 km (2013) |
+| Railways: | total: 3,334 km |
+| | narrow gauge: 3,334 km 1.000-m gauge (2014) |
+| Roadways: | total: 160,878 km |
+| | paved: 11,189 km |
+| | unpaved: 149,689 km |
+| | note: includes 99 km of urban and other roads (2013) |
+| Waterways: | none specifically; the only significant inland waterway is the part of Lake Victoria within the boundaries of Kenya; Kisumu is the main port and has ferry connections to Uganda and Tanzania (2011) |
+| Merchant marine: | registered in other countries: 5 (Comoros 2, Saint Vincent and the Grenadines 2, unknown 1) (2010) |
+| Ports and terminals: | major seaport(s): Kisumu, Mombasa |
+| | LNG terminal(s) (import): Mombasa |
+
+| Military and Security | KENYA |
+| --- | --- |
+| Military branches: | Kenya Defence Forces: Kenya Army, Kenya Navy, Kenya Air Force (2012) |
+| Military service age and obligation: | 18-26 years of age for male and female voluntary service (under 18 with parental consent), with a 9-year obligation (7 years for Kenyan Navy); applicants must be Kenyan citizens and provide a national identity card (obtained at age 18) and a school-leaving certificate; women serve under the same terms and conditions as men; mandatory retirement at age 55 (2012) |
+| Military expenditures: | 1.96% of GDP (2012) |
+| | 1.88% of GDP (2011) |
+| | 1.96% of GDP (2010) |
+
+| Transnational Issues | KENYA |
+| --- | --- |
+| Disputes - international: | Kenya served as an important mediator in brokering Sudan's north-south separation in February 2005; Kenya provides shelter to an estimated 580,000 refugees, including Ugandans who flee across the border periodically to seek protection from Lord's Resistance Army rebels; Kenya works hard to prevent the clan and militia fighting in Somalia from spreading across the border, which has long been open to nomadic pastoralists; the boundary that separates Kenya's and Sudan's sovereignty is unclear in the "Ilemi Triangle," which Kenya has administered since colonial times |
+| Refugees and internally displaced persons: | refugees (country of origin): 334,197 (Somalia); 87,912 (South Sudan) (refugees and asylum seekers); 27,485 (Democratic Republic of the Congo); 21,537 (Ethiopia) (2016) |
+| | IDPs: 309,000 (represents people displaced since the 1990s by ethnic and political violence and land disputes and who sought refuge mostly in camps; persons who took refuge in host communities or were evicted in urban areas are not included in the data; data is not available on pastoralists displaced by cattle rustling, violence, natural disasters, and development projects; the largest displacement resulted from 2007-08 post-election violence (2014) |
+| | stateless persons: 20,000 (2015); note - the stateless population consists of Nubians, Kenyan Somalis, and coastal Arabs; the Nubians are descendants of Sudanese soldiers recruited by the British to fight for them in East Africa more than a century ago; Nubians did not receive Kenyan citizenship when the country became independent in 1963; only recently have Nubians become a formally recognized tribe and had less trouble obtaining national IDs; Galjeel and other Somalis who have lived in Kenya for decades are included with more recent Somali refugees and denied ID cards |
+| Illicit drugs: | widespread harvesting of small plots of marijuana; transit country for South Asian heroin destined for Europe and North America; Indian methaqualone also transits on way to South Africa; significant potential for money-laundering activity given the country's status as a regional financial center; massive corruption, and relatively high levels of narcotics-associated activities |

@@ -1,0 +1,14 @@
+| Precautions | Reconsider Travel to Guinea-Bissau due to civil unrest. Exercise increased caution due to crime. |
+| | Consult the link below for updates to travel advisories and statements on safety, security, local laws, and special circumstances in this country. |
+| | <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html> |
+| Passport/Visa Requirements | US citizens should make sure their passport is valid at the date of their entering the country. They should also make sure they have at least 1 blank page in their passport for any entry stamp that will be required. A visa is required. US citizens will need to get in touch with the country's embassy or nearest consulate to obtain a visa prior to visiting the country. |
+| Vaccinations | An International Certificate of Vaccination for yellow fever is required for all travelers. See WHO recommendations. On 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Guinea-Bissau is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine.  <http://www.who.int/> |
+| US Embassy/Consulate | US Embassy suspended operations on 14 June 1998; the US Ambassador to Senegal is accredited to Guinea-Bissau; +(221) 33-879-4000; EMER: +(221) 33-879-4444; US Embassy Dakar, Route des Almadies -- BP 49, Dakar, Senegal; dakarACS@state.gov; https://gw.usmission.gov/ |
+
+---
+country: Guinea-Bissau
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Guinea-Bissau/travel-facts>
+license: public domain (U.S.)
+...

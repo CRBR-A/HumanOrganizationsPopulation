@@ -1,0 +1,225 @@
+CIA - The World Factbook --  CRUDE OIL - PRODUCTION
+
+Crude oil - production is the total amount of crude oil produced, in barrels per day (bbl/day).
+
+| Rank | Country | (BBL/DAY) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Russia | 10,550,000 | 2016 est. |
+| 2 | Saudi Arabia | 10,460,000 | 2016 est. |
+| 3 | United States | 8,853,000 | 2016 est. |
+| 4 | Iraq | 4,452,000 | 2016 est. |
+| 5 | Iran | 4,068,000 | 2016 est. |
+| 6 | China | 3,981,000 | 2016 est. |
+| 7 | Canada | 3,679,000 | 2016 est. |
+| 8 | United Arab Emirates | 3,106,000 | 2016 est. |
+| 9 | Kuwait | 2,924,000 | 2016 est. |
+| 10 | Brazil | 2,515,000 | 2016 est. |
+| 11 | Venezuela | 2,277,000 | 2016 est. |
+| 12 | Mexico | 2,187,000 | 2016 est. |
+| 13 | Nigeria | 1,871,000 | 2016 est. |
+| 14 | Angola | 1,770,000 | 2016 est. |
+| 15 | Norway | 1,648,000 | 2016 est. |
+| 16 | Kazakhstan | 1,595,000 | 2016 est. |
+| 17 | Qatar | 1,523,000 | 2016 est. |
+| 18 | European Union | 1,507,000 | 2015 est. |
+| 19 | Algeria | 1,348,000 | 2016 est. |
+| 20 | Oman | 1,007,000 | 2016 est. |
+| 21 | United Kingdom | 933,000 | 2016 est. |
+| 22 | Colombia | 886,000 | 2016 est. |
+| 23 | Azerbaijan | 833,500 | 2016 est. |
+| 24 | Indonesia | 831,100 | 2016 est. |
+| 25 | India | 734,500 | 2016 est. |
+| 26 | Malaysia | 666,900 | 2016 est. |
+| 27 | Ecuador | 548,400 | 2016 est. |
+| 28 | Argentina | 510,600 | 2016 est. |
+| 29 | Egypt | 494,300 | 2016 est. |
+| 30 | Libya | 384,700 | 2016 est. |
+| 31 | Congo, Republic of the | 308,400 | 2016 est. |
+| 32 | Vietnam | 301,800 | 2016 est. |
+| 33 | Australia | 289,700 | 2016 est. |
+| 34 | Thailand | 257,500 | 2016 est. |
+| 35 | Turkmenistan | 230,800 | 2016 est. |
+| 36 | Equatorial Guinea | 227,000 | 2016 est. |
+| 37 | Gabon | 210,800 | 2016 est. |
+| 38 | Svalbard | 194,300 | 2014 est. |
+| 39 | South Sudan | 152,500 | 2016 est. |
+| 40 | Denmark | 140,600 | 2016 est. |
+| 41 | Chad | 110,200 | 2016 est. |
+| 42 | Brunei | 109,100 | 2016 est. |
+| 43 | Sudan | 104,900 | 2016 est. |
+| 44 | Ghana | 100,500 | 2016 est. |
+| 45 | Cameroon | 93,200 | 2016 est. |
+| 46 | Pakistan | 85,500 | 2016 est. |
+| 47 | Romania | 77,910 | 2016 est. |
+| 48 | Trinidad and Tobago | 71,570 | 2016 est. |
+| 49 | Italy | 70,670 | 2016 est. |
+| 50 | Bolivia | 59,330 | 2016 est. |
+| 51 | Papua New Guinea | 55,990 | 2016 est. |
+| 52 | Uzbekistan | 52,910 | 2016 est. |
+| 53 | Bahrain | 50,000 | 2016 est. |
+| 54 | Cuba | 49,830 | 2016 est. |
+| 55 | Turkey | 49,500 | 2016 est. |
+| 56 | Timor-Leste | 49,240 | 2016 est. |
+| 57 | Tunisia | 48,670 | 2016 est. |
+| 58 | Germany | 46,590 | 2016 est. |
+| 59 | Peru | 40,270 | 2016 est. |
+| 60 | New Zealand | 34,730 | 2016 est. |
+| 61 | Belarus | 32,670 | 2016 est. |
+| 62 | Ukraine | 32,070 | 2016 est. |
+| 63 | Cote d'Ivoire | 30,000 | 2016 est. |
+| 64 | Syria | 28,670 | 2016 est. |
+| 65 | Mongolia | 23,430 | 2016 est. |
+| 66 | Albania | 22,750 | 2016 est. |
+| 67 | Yemen | 21,670 | 2016 est. |
+| 68 | Poland | 20,100 | 2016 est. |
+| 69 | Philippines | 20,000 | 2016 est. |
+| 70 | Serbia | 20,000 | 2016 est. |
+| 71 | Congo, Democratic Republic of the | 20,000 | 2016 est. |
+| 72 | Netherlands | 18,090 | 2016 est. |
+| 73 | Suriname | 17,000 | 2016 est. |
+| 74 | France | 16,420 | 2016 est. |
+| 75 | Austria | 15,160 | 2016 est. |
+| 76 | Burma | 15,000 | 2016 est. |
+| 77 | Hungary | 13,830 | 2016 est. |
+| 78 | Croatia | 13,580 | 2016 est. |
+| 79 | Niger | 13,000 | 2016 est. |
+| 80 | Guatemala | 8,977 | 2016 est. |
+| 81 | Mauritania | 5,000 | 2016 est. |
+| 82 | Chile | 4,423 | 2016 est. |
+| 83 | Bangladesh | 4,000 | 2016 est. |
+| 84 | Japan | 3,918 | 2016 est. |
+| 85 | Greece | 3,172 | 2016 est. |
+| 86 | Spain | 2,667 | 2016 est. |
+| 87 | Czechia | 2,333 | 2016 est. |
+| 88 | Lithuania | 2,000 | 2016 est. |
+| 89 | South Africa | 2,000 | 2016 est. |
+| 90 | Belize | 2,000 | 2016 est. |
+| 91 | Kyrgyzstan | 1,000 | 2016 est. |
+| 92 | Bulgaria | 1,000 | 2016 est. |
+| 93 | Barbados | 1,000 | 2016 est. |
+| 94 | Georgia | 400 | 2016 est. |
+| 95 | Israel | 390 | 2016 est. |
+| 96 | Slovakia | 200 | 2016 est. |
+| 97 | Taiwan | 196 | 2016 est. |
+| 98 | Tajikistan | 180 | 2016 est. |
+| 99 | Morocco | 160 | 2016 est. |
+| 100 | Jordan | 22 | 2016 est. |
+| 101 | Slovenia | 5 | 2016 est. |
+| 102 | Aruba | 0 | 2016 est. |
+| 103 | Antigua and Barbuda | 0 | 2016 est. |
+| 104 | Afghanistan | 0 | 2016 est. |
+| 105 | Armenia | 0 | 2016 est. |
+| 106 | Andorra | 0 | 2016 |
+| 107 | American Samoa | 0 | 2016 est. |
+| 108 | Botswana | 0 | 2016 est. |
+| 109 | Bermuda | 0 | 2016 est. |
+| 110 | Belgium | 0 | 2016 est. |
+| 111 | Bahamas, The | 0 | 2016 est. |
+| 112 | Bosnia and Herzegovina | 0 | 2016 est. |
+| 113 | Benin | 0 | 2016 est. |
+| 114 | Solomon Islands | 0 | 2016 est. |
+| 115 | Bhutan | 0 | 2016 est. |
+| 116 | Burundi | 0 | 2016 est. |
+| 117 | Cambodia | 0 | 2016 est. |
+| 118 | Sri Lanka | 0 | 2016 est. |
+| 119 | Cayman Islands | 0 | 2016 est. |
+| 120 | Comoros | 0 | 2016 est. |
+| 121 | Costa Rica | 0 | 2016 est. |
+| 122 | Central African Republic | 0 | 2016 est. |
+| 123 | Cabo Verde | 0 | 2016 est. |
+| 124 | Cook Islands | 0 | 2016 est. |
+| 125 | Cyprus | 0 | 2016 est. |
+| 126 | Djibouti | 0 | 2016 est. |
+| 127 | Dominica | 0 | 2016 est. |
+| 128 | Dominican Republic | 0 | 2016 est. |
+| 129 | Ireland | 0 | 2016 est. |
+| 130 | Estonia | 0 | 2016 est. |
+| 131 | Eritrea | 0 | 2016 est. |
+| 132 | El Salvador | 0 | 2016 est. |
+| 133 | Ethiopia | 0 | 2016 est. |
+| 134 | Finland | 0 | 2016 est. |
+| 135 | Fiji | 0 | 2016 est. |
+| 136 | Falkland Islands (Islas Malvinas) | 0 | 2016 est. |
+| 137 | Micronesia, Federated States of | 0 | 2014 |
+| 138 | Faroe Islands | 0 | 2016 est. |
+| 139 | French Polynesia | 0 | 2016 est. |
+| 140 | Gambia, The | 0 | 2016 est. |
+| 141 | Gibraltar | 0 | 2016 est. |
+| 142 | Grenada | 0 | 2016 est. |
+| 143 | Greenland | 0 | 2016 est. |
+| 144 | Guam | 0 | 2016 est. |
+| 145 | Guinea | 0 | 2016 est. |
+| 146 | Guyana | 0 | 2016 est. |
+| 147 | Haiti | 0 | 2016 est. |
+| 148 | Hong Kong | 0 | 2016 est. |
+| 149 | Honduras | 0 | 2016 est. |
+| 150 | Iceland | 0 | 2016 est. |
+| 151 | Jamaica | 0 | 2016 est. |
+| 152 | Kenya | 0 | 2016 est. |
+| 153 | Korea, North | 0 | 2016 est. |
+| 154 | Kiribati | 0 | 2016 est. |
+| 155 | Korea, South | 0 | 2016 est. |
+| 156 | Kosovo | 0 | 2016 est. |
+| 157 | Laos | 0 | 2016 est. |
+| 158 | Lebanon | 0 | 2016 est. |
+| 159 | Latvia | 0 | 2016 est. |
+| 160 | Liberia | 0 | 2016 est. |
+| 161 | Lesotho | 0 | 2016 est. |
+| 162 | Luxembourg | 0 | 2016 est. |
+| 163 | Madagascar | 0 | 2016 est. |
+| 164 | Macau | 0 | 2016 est. |
+| 165 | Moldova | 0 | 2016 est. |
+| 166 | Montserrat | 0 | 2016 est. |
+| 167 | Malawi | 0 | 2016 est. |
+| 168 | Montenegro | 0 | 2016 est. |
+| 169 | Macedonia | 0 | 2016 est. |
+| 170 | Mali | 0 | 2016 est. |
+| 171 | Mauritius | 0 | 2016 est. |
+| 172 | Malta | 0 | 2016 est. |
+| 173 | Maldives | 0 | 2016 est. |
+| 174 | Mozambique | 0 | 2016 est. |
+| 175 | New Caledonia | 0 | 2016 est. |
+| 176 | Niue | 0 | 2016 est. |
+| 177 | Vanuatu | 0 | 2016 est. |
+| 178 | Nepal | 0 | 2016 est. |
+| 179 | Nauru | 0 | 2016 est. |
+| 180 | Nicaragua | 0 | 2016 est. |
+| 181 | Paraguay | 0 | 2016 est. |
+| 182 | Panama | 0 | 2016 est. |
+| 183 | Portugal | 0 | 2016 est. |
+| 184 | Guinea-Bissau | 0 | 2016 est. |
+| 185 | Marshall Islands | 0 | 2016 est. |
+| 186 | Puerto Rico | 0 | 2016 est. |
+| 187 | Rwanda | 0 | 2016 est. |
+| 188 | Saint Pierre and Miquelon | 0 | 2016 est. |
+| 189 | Saint Kitts and Nevis | 0 | 2016 est. |
+| 190 | Seychelles | 0 | 2016 est. |
+| 191 | Senegal | 0 | 2016 est. |
+| 192 | Saint Helena, Ascension, and Tristan da Cunha | 0 | 2016 est. |
+| 193 | Sierra Leone | 0 | 2016 est. |
+| 194 | Singapore | 0 | 2016 est. |
+| 195 | Somalia | 0 | 2016 est. |
+| 196 | Saint Lucia | 0 | 2016 est. |
+| 197 | Sweden | 0 | 2016 est. |
+| 198 | Switzerland | 0 | 2016 est. |
+| 199 | Turks and Caicos Islands | 0 | 2016 est. |
+| 200 | Tonga | 0 | 2016 est. |
+| 201 | Togo | 0 | 2016 est. |
+| 202 | Sao Tome and Principe | 0 | 2016 est. |
+| 203 | Tuvalu | 0 | 2014 |
+| 204 | Tanzania | 0 | 2016 est. |
+| 205 | Uganda | 0 | 2016 est. |
+| 206 | Burkina Faso | 0 | 2016 est. |
+| 207 | Uruguay | 0 | 2016 est. |
+| 208 | Saint Vincent and the Grenadines | 0 | 2016 est. |
+| 209 | British Virgin Islands | 0 | 2016 est. |
+| 210 | Virgin Islands | 0 | 2016 est. |
+| 211 | Namibia | 0 | 2016 est. |
+| 212 | West Bank | 0 | 2016 est. |
+| 213 | Western Sahara | 0 | 2016 est. |
+| 214 | Samoa | 0 | 2016 est. |
+| 215 | Swaziland | 0 | 2016 est. |
+| 216 | Zambia | 0 | 2016 est. |
+| 217 | Zimbabwe | 0 | 2016 est. |
+
+

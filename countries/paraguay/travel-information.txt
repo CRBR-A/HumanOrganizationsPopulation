@@ -1,0 +1,27 @@
+Telephone Code: 595
+Local Emergency Phone: 0
+Climate: Subtropical to temperate; substantial rainfall in the eastern portions, becoming semiarid in the far west
+Currency (Code): Guarani (PYG)
+Electricity: 220 V
+Voltage: 50 Hz
+Plug types(s): C
+Major Languages: Spanish and Guarani, only Guarani, only Spanish
+Major Religions: Roman Catholic 89.6%, Protestant 6.2%, other Christian 1.1%
+Time Difference: UTC-4 (1 hour ahead of Washington, DC, during Standard Time); daylight saving time: +1hr, begins first Sunday in October; ends last Sunday in March
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested; additionally, if you plan to drive in Paraguay, you will need an Inter-American Driving Permit issued by the AAA
+Road Driving Side: Right
+Tourist Destinations: Asuncion; Encarnacion (includes Jesuit Ruins); Cerro Cora National Park; Ciudad del Este & Monday Falls; Ybycui National Park; Aregua
+Major Sports: Soccer, rugby
+Cultural Practices: Flicking your fingers under your chin signifies not knowing or not caring.
+Tipping Guidelines: A tip of 10-15% is common in restaurants. Round up taxi fares to the nearest 1,000 guarani.
+Souvenirs: Yerba guampa cups or mate gourds, wood crafts, native feathered jewelry, filigree jewelry, native fabric and lace items, leather goods, woven baskets, pottery
+Traditional Cuisine: Sopá Paraguaí (or Sopa paraguaya) --- a spongy cake similar to corn bread made with corn flour, cheese, onion, egg, and milk
+
+---
+country: Paraguay
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Paraguay/travel-facts>
+license: public domain (U.S.)
+...

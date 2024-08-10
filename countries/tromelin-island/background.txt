@@ -1,0 +1,8 @@
+First explored by the French in 1776, the island came under the jurisdiction of Reunion in 1814. At present, it serves as a sea turtle sanctuary and is the site of an important meteorological station.  
+
+---
+country: Tromelin Island
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Tromelin Island/>
+license: public domain (U.S.)
+...

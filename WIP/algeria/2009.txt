@@ -1,0 +1,268 @@
+CIA - The World Factbook -- Algeria
+page last updated on November 11, 2009
+
+
+| Geography | Algeria |
+| --- | --- |
+| Location: | Northern Africa, bordering the Mediterranean Sea, between Morocco and Tunisia |
+| Geographic coordinates: | 28 00 N, 3 00 E |
+| Map references: | Africa |
+| Area: | total: 2,381,741 sq km |
+| | land: 2,381,741 sq km |
+| | water: 0 sq km |
+| Area - comparative: | slightly less than 3.5 times the size of Texas |
+| Land boundaries: | total: 6,343 km |
+| | border countries: Libya 982 km, Mali 1,376 km, Mauritania 463 km, Morocco 1,559 km, Niger 956 km, Tunisia 965 km, Western Sahara 42 km |
+| Coastline: | 998 km |
+| Maritime claims: | territorial sea: 12 nm |
+| | exclusive fishing zone: 32-52 nm |
+| Climate: | arid to semiarid; mild, wet winters with hot, dry summers along coast; drier with cold winters and hot summers on high plateau; sirocco is a hot, dust/sand-laden wind especially common in summer |
+| Terrain: | mostly high plateau and desert; some mountains; narrow, discontinuous coastal plain |
+| Elevation extremes: | lowest point: Chott Melrhir -40 m |
+| | highest point: Tahat 3,003 m |
+| Natural resources: | petroleum, natural gas, iron ore, phosphates, uranium, lead, zinc |
+| Land use: | arable land: 3.17% |
+| | permanent crops: 0.28% |
+| | other: 96.55% (2005) |
+| Irrigated land: | 5,690 sq km (2003) |
+| Total renewable water resources: | 14.3 cu km (1997) |
+| Freshwater withdrawal (domestic/industrial/agricultural): | total: 6.07 cu km/yr (22%/13%/65%) |
+| | per capita: 185 cu m/yr (2000) |
+| Natural hazards: | mountainous areas subject to severe earthquakes; mudslides and floods in rainy season |
+| Environment - current issues: | soil erosion from overgrazing and other poor farming practices; desertification; dumping of raw sewage, petroleum refining wastes, and other industrial effluents is leading to the pollution of rivers and coastal waters; Mediterranean Sea, in particular, becoming polluted from oil wastes, soil erosion, and fertilizer runoff; inadequate supplies of potable water |
+| Environment - international agreements: | party to: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands |
+| | signed, but not ratified: none of the selected agreements |
+| Geography - note: | second-largest country in Africa (after Sudan) |
+
+
+| People | Algeria |
+| --- | --- |
+| Population: | 34,178,188 (July 2009 est.) |
+| Age structure: | 0-14 years: 25.4% (male 4,436,591/female 4,259,729) |
+| | 15-64 years: 69.5% (male 11,976,965/female 11,777,618) |
+| | 65 years and over: 5.1% (male 798,576/female 928,709) (2009 est.) |
+| Median age: | total: 26.6 years |
+| | male: 26.3 years |
+| | female: 26.8 years (2009 est.) |
+| Population growth rate: | 1.196% (2009 est.) |
+| Birth rate: | 16.9 births/1,000 population (2009 est.) |
+| Death rate: | 4.64 deaths/1,000 population (July 2009 est.) |
+| Net migration rate: | -0.29 migrant(s)/1,000 population (2009 est.) |
+| Urbanization: | urban population: 65% of total population (2008) |
+| | rate of urbanization: 2.5% annual rate of change (2005-10 est.) |
+| Sex ratio: | at birth: 1.05 male(s)/female |
+| | under 15 years: 1.04 male(s)/female |
+| | 15-64 years: 1.02 male(s)/female |
+| | 65 years and over: 0.86 male(s)/female |
+| | total population: 1.01 male(s)/female (2009 est.) |
+| Infant mortality rate: | total: 27.73 deaths/1,000 live births |
+| | male: 30.86 deaths/1,000 live births |
+| | female: 24.45 deaths/1,000 live births (2009 est.) |
+| Life expectancy at birth: | total population: 74.02 years |
+| | male: 72.35 years |
+| | female: 75.77 years (2009 est.) |
+| Total fertility rate: | 1.79 children born/woman (2009 est.) |
+| HIV/AIDS - adult prevalence rate: | 0.1%; note - no country specific models provided (2007 est.) |
+| HIV/AIDS - people living with HIV/AIDS: | 21,000 (2007 est.) |
+| HIV/AIDS - deaths: | fewer than 1,000 (2007 est.) |
+| Nationality: | noun: Algerian(s) |
+| | adjective: Algerian |
+| Ethnic groups: | Arab-Berber 99%, European less than 1% |
+| | note: almost all Algerians are Berber in origin, not Arab; the minority who identify themselves as Berber live mostly in the mountainous region of Kabylie east of Algiers; the Berbers are also Muslim but identify with their Berber rather than Arab cultural heritage; Berbers have long agitated, sometimes violently, for autonomy; the government is unlikely to grant autonomy but has offered to begin sponsoring teaching Berber language in schools |
+| Religions: | Sunni Muslim (state religion) 99%, Christian and Jewish 1% |
+| Languages: | Arabic (official), French, Berber dialects |
+| Literacy: | definition: age 15 and over can read and write |
+| | total population: 69.9% |
+| | male: 79.6% |
+| | female: 60.1% (2002 est.) |
+| School life expectancy (primary to tertiary education): | total: 13 years |
+| | male: 13 years |
+| | female: 13 years (2005) |
+| Education expenditures: | 5.1% of GDP (1999) |
+
+
+| Government | Algeria |
+| --- | --- |
+| Country name: | conventional long form: People's Democratic Republic of Algeria |
+| | conventional short form: Algeria |
+| | local long form: Al Jumhuriyah al Jaza'iriyah ad Dimuqratiyah ash Sha'biyah |
+| | local short form: Al Jaza'ir |
+| Government type: | republic |
+| Capital: | name: Algiers |
+| | geographic coordinates: 36 45 N, 3 03 E |
+| | time difference: UTC+1 (6 hours ahead of Washington, DC during Standard Time) |
+| Administrative divisions: | 48 provinces (wilayat, singular - wilaya); Adrar, Ain Defla, Ain Temouchent, Alger, Annaba, Batna, Bechar, Bejaia, Biskra, Blida, Bordj Bou Arreridj, Bouira, Boumerdes, Chlef, Constantine, Djelfa, El Bayadh, El Oued, El Tarf, Ghardaia, Guelma, Illizi, Jijel, Khenchela, Laghouat, Mascara, Medea, Mila, Mostaganem, M'Sila, Naama, Oran, Ouargla, Oum el Bouaghi, Relizane, Saida, Setif, Sidi Bel Abbes, Skikda, Souk Ahras, Tamanghasset, Tebessa, Tiaret, Tindouf, Tipaza, Tissemsilt, Tizi Ouzou, Tlemcen |
+| Independence: | 5 July 1962 (from France) |
+| National holiday: | Revolution Day, 1 November (1954) |
+| Constitution: | 8 September 1963; revised 19 November 1976; effective 22 November 1976; revised 3 November 1988, 23 February 1989, 28 November 1996, 10 April 2002, and 12 November 2008 |
+| Legal system: | socialist, based on French and Islamic law; judicial review of legislative acts in ad hoc Constitutional Council composed of various public officials including several Supreme Court justices; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Abdelaziz BOUTEFLIKA (since 28 April 1999) |
+| | head of government: Prime Minister Ahmed OUYAHIA (since 23 June 2008) |
+| | cabinet: Cabinet of Ministers appointed by the president |
+| | elections: president elected by popular vote for a five-year term; note - a November 2008 constitutional amendment abolished presidential term limits; election last held 9 April 2009 (next to be held in April 2014); prime minister appointed by the president |
+| | election results: Abdelaziz BOUTEFLIKA reelected president for third term; percent of vote - Abdelaziz BOUTEFLIKA 90.2%, Louisa HANOUNE 4.2%, Moussa TOUATI 2.3%, Djahid YOUNSI 1.4%, Ali Fawzi REBIANE less than 1%, Mohamed SAID less than 1% |
+| Legislative branch: | bicameral Parliament consists of the Council of Nations (Senate) (144 seats; one-third of the members appointed by the president, two-thirds elected by indirect vote to serve six-year terms; the constitution requires half the council to be renewed every three years) and the National People's Assembly or Al-Majlis Al-Shabi Al-Watani (389 seats; members elected by popular vote to serve five-year terms) |
+| | elections: National People's Assembly - last held 17 May 2007 (next to be held in 2012); Council of Nations (Senate) - last held 28 December 2006 (next to be held in 2009) |
+| | election results: National People's Assembly - percent of vote by party - NA; seats by party - FLN 136, RND 61, MSP 52, PT 26, RCD 19, FNA 13, other 49, independents 33; Council of Nations - percent of vote by party - NA; seats by party - FLN 29, RND 12, MSP 3, RCD 1, independents 3, presidential appointees (unknown affiliation) 24; note - Council seating reflects the number of replaced council members rather than the whole Council |
+| Judicial branch: | Supreme Court |
+| Political parties and leaders: | Ahd 54 [Ali Fauzi REBAINE]; Algerian National Front or FNA [Moussa TOUATI]; National Democratic Rally (Rassemblement National Democratique) or RND [Ahmed OUYAHIA]; National Liberation Front or FLN [Abdelaziz BELKHADEM, secretary general]; National Reform Movement or Islah (formerly MRN) [Ahmed ABDESLAM]; Rally for Culture and Democracy or RCD [Said SADI]; Renaissance Movement or EnNahda Movement [Fatah RABEI]; Socialist Forces Front or FFS [Hocine Ait AHMED]; Society of Peace Movement or MSP [Boudjerra SOLTANI]; Workers Party or PT [Louisa HANOUNE] |
+| | note: a law banning political parties based on religion was enacted in March 1997 |
+| Political pressure groups and leaders: | The Algerian Human Rights League or LADDH [Hocine ZEHOUANE]; SOS Disparus [Nacera DUTOUR] |
+| International organization participation: | ABEDA, AfDB, AFESD, AMF, AMU, AU, BIS, FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC, ICCt (signatory), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, LAS, MIGA, MONUC, NAM, OAPEC, OAS (observer), OIC, OPCW, OPEC, OSCE (partner), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO (observer) |
+| Diplomatic representation in the US: | chief of mission: Ambassador Abdallah BAALI |
+| | chancery: 2118 Kalorama Road NW, Washington, DC 20008 |
+| | telephone: [1] (202) 265-2800 |
+| | FAX: [1] (202) 667-2174 |
+| Diplomatic representation from the US: | chief of mission: Ambassador David D. PEARCE |
+| | embassy: 05 Chemin Cheikh Bachir, El-Ibrahimi, El-Biar 16000 Algiers |
+| | mailing address: B. P. 408, Alger-Gare, 16030 Algiers |
+| | telephone: [213] 770-08-2000 |
+| | FAX: [213] 21-60-7355 |
+| Flag description: | two equal vertical bands of green (hoist side) and white; a red, five-pointed star within a red crescent centered over the two-color boundary; the colors represent Islam (green), purity and peace (white), and liberty (red); the crescent and star are also Islamic symbols, but the crescent is more closed than those of other Muslim countries because the Algerians believe the long crescent horns bring happiness |
+
+
+| Economy | Algeria |
+| --- | --- |
+| Economy - overview: | The hydrocarbons sector is the backbone of the economy, accounting for roughly 60% of budget revenues, 30% of GDP, and over 95% of export earnings. Algeria has the eighth-largest reserves of natural gas in the world and is the fourth-largest gas exporter; it ranks 15th in oil reserves. Sustained high oil prices in recent years have helped improve Algeria's financial and macroeconomic indicators. Algeria is running substantial trade surpluses and building up record foreign exchange reserves. Algeria has decreased its external debt to less than 5% of GDP after repaying its Paris Club and London Club debt in 2006. Real GDP has risen due to higher oil output and increased government spending. The government's continued efforts to diversify the economy by attracting foreign and domestic investment outside the energy sector, however, has had little success in reducing high unemployment and improving living standards. Structural reform within the economy, such as development of the banking sector and the construction of infrastructure, moves ahead slowly hampered by corruption and bureaucratic resistance. |
+| GDP (purchasing power parity): | $233.5 billion (2008 est.) |
+| | $225.6 billion (2007 est.) |
+| | $218.8 billion (2006 est.) |
+| | note: data are in 2008 US dollars |
+| GDP (official exchange rate): | $159.7 billion (2008 est.) |
+| GDP - real growth rate: | 3.5% (2008 est.) |
+| | 3.1% (2007 est.) |
+| | 2.1% (2006 est.) |
+| GDP - per capita (PPP): | $6,900 (2008 est.) |
+| | $6,800 (2007 est.) |
+| | $6,600 (2006 est.) |
+| | note: data are in 2008 US dollars |
+| GDP - composition by sector: | agriculture: 8.3% |
+| | industry: 62.3% |
+| | services: 29.4% (2008 est.) |
+| Labor force: | 9.464 million (2008 est.) |
+| Labor force - by occupation: | agriculture 14%, industry 13.4%, construction and public works 10%, trade 14.6%, government 32%, other 16% (2003 est.) |
+| Unemployment rate: | 12.8% (2008 est.) |
+| | 11.8% (2007 est.) |
+| Population below poverty line: | 23% (2006 est.) |
+| Household income or consumption by percentage share: | lowest 10%: 2.8% |
+| | highest 10%: 26.8% (1995) |
+| Distribution of family income - Gini index: | 35.3 (1995) |
+| Investment (gross fixed): | 26.1% of GDP (2008 est.) |
+| Budget: | revenues: $70.06 billion |
+| | expenditures: $56.04 billion (2008 est.) |
+| Public debt: | 8.4% of GDP (2008 est.) |
+| | 37.4% of GDP (2004 est.) |
+| Inflation rate (consumer prices): | 4.4% (2008 est.) |
+| | 3.5% (2007 est.) |
+| Central bank discount rate: | 4% (31 December 2008) |
+| | 4% (31 December 2007) |
+| Commercial bank prime lending rate: | 8% (31 December 2008) |
+| | 8% (31 December 2007) |
+| Stock of money: | $60.91 billion (31 December 2008) |
+| | $55.43 billion (31 December 2007) |
+| Stock of quasi money: | $30.36 billion (31 December 2008) |
+| | $28.59 billion (31 December 2007) |
+| Stock of domestic credit: | $NA (31 December 2008) |
+| | $NA (31 December 2007) |
+| Market value of publicly traded shares: | $NA |
+| Agriculture - products: | wheat, barley, oats, grapes, olives, citrus, fruits; sheep, cattle |
+| Industries: | petroleum, natural gas, light industries, mining, electrical, petrochemical, food processing |
+| Industrial production growth rate: | 3.2% (2008 est.) |
+| Electricity - production: | 34.98 billion kWh (2007 est.) |
+| Electricity - consumption: | 28.34 billion kWh (2007 est.) |
+| Electricity - exports: | 273 million kWh (2007 est.) |
+| Electricity - imports: | 279 million kWh (2007 est.) |
+| Oil - production: | 2.18 million bbl/day (2008 est.) |
+| Oil - consumption: | 299,000 bbl/day (2008 est.) |
+| Oil - exports: | 1.891 million bbl/day (2007 est.) |
+| Oil - imports: | 14,320 bbl/day (2007 est.) |
+| Oil - proved reserves: | 12.2 billion bbl (1 January 2009 est.) |
+| Natural gas - production: | 86.5 billion cu m (2008 est.) |
+| Natural gas - consumption: | 26.83 billion cu m (2008 est.) |
+| Natural gas - exports: | 59.67 billion cu m (2008) |
+| Natural gas - imports: | 0 cu m (2008 est.) |
+| Natural gas - proved reserves: | 4.502 trillion cu m (1 January 2009 est.) |
+| Current account balance: | $35.27 billion (2008 est.) |
+| | $30.6 billion (2007 est.) |
+| Exports: | $78.23 billion (2008 est.) |
+| | $60.6 billion (2007 est.) |
+| Exports - commodities: | petroleum, natural gas, and petroleum products 97% |
+| Exports - partners: | US 23.9%, Italy 15.5%, Spain 11.4%, France 8%, Netherlands 7.8%, Canada 6.8% (2008) |
+| Imports: | $39.16 billion (2008 est.) |
+| | $26.4 billion (2007 est.) |
+| Imports - commodities: | capital goods, foodstuffs, consumer goods |
+| Imports - partners: | France 16.5%, Italy 11%, China 10.3%, Spain 7.4%, Germany 6.1%, US 5.5% (2008) |
+| Reserves of foreign exchange and gold: | $143.5 billion (31 December 2008 est.) |
+| | $110.6 billion (31 December 2007 est.) |
+| Debt - external: | $3.753 billion (31 December 2008 est.) |
+| | $3.957 billion (31 December 2007 est.) |
+| Stock of direct foreign investment - at home: | $13.76 billion (31 December 2008 est.) |
+| | $11.91 billion (31 December 2007 est.) |
+| Stock of direct foreign investment - abroad: | $1.162 billion (31 December 2008 est.) |
+| | $962 million (31 December 2007 est.) |
+| Exchange rates: | Algerian dinars (DZD) per US dollar - 63.25 (2008 est.), 69.9 (2007), 72.647 (2006), 73.276 (2005), 72.061 (2004) |
+
+
+| Communications | Algeria |
+| --- | --- |
+| Telephones - main lines in use: | 3.314 million (2008) |
+| Telephones - mobile cellular: | 31.871 million (2008) |
+| Telephone system: | general assessment: a weak network of fixed-main lines, which remains at roughly 10 telephones per 100 persons, is offset by the rapid increase in mobile cellular subscribership; in 2008, combined fixed-line and mobile telephone density surpassed 100 telephones per 100 persons |
+| | domestic: privatization of Algeria's telecommunications sector began in 2000; three mobile cellular licenses have been issued and, in 2005, a consortium led by Egypt's Orascom Telecom won a 15-year license to build and operate a fixed-line network in Algeria; the license will allow Orascom to develop high-speed data and other specialized services and contribute to meeting the large unfulfilled demand for basic residential telephony; Internet broadband services began in 2003 |
+| | international: country code - 213; landing point for the SEA-ME-WE-4 fiber-optic submarine cable system that provides links to Europe, the Middle East, and Asia; microwave radio relay to Italy, France, Spain, Morocco, and Tunisia; coaxial cable to Morocco and Tunisia; participant in Medarabtel; satellite earth stations - 51 (Intelsat, Intersputnik, and Arabsat) (2008) |
+| Radio broadcast stations: | AM 25, FM 1, shortwave 8 (1999) |
+| Television broadcast stations: | 46 (plus 216 repeaters) (1995) |
+| Internet country code: | .dz |
+| Internet hosts: | 510 (2009) |
+| Internet users: | 4.1 million (2008) |
+
+
+| Transportation | Algeria |
+| --- | --- |
+| Airports: | 143 (2009) |
+| Airports - with paved runways: | total: 57 |
+| | over 3,047 m: 11 |
+| | 2,438 to 3,047 m: 29 |
+| | 1,524 to 2,437 m: 11 |
+| | 914 to 1,523 m: 5 |
+| | under 914 m: 1 (2009) |
+| Airports - with unpaved runways: | total: 86 |
+| | 2,438 to 3,047 m: 3 |
+| | 1,524 to 2,437 m: 19 |
+| | 914 to 1,523 m: 41 |
+| | under 914 m: 23 (2009) |
+| Heliports: | 2 (2009) |
+| Pipelines: | condensate 1,937 km; gas 14,648 km; liquid petroleum gas 2,933 km; oil 7,579 km (2008) |
+| Railways: | total: 3,973 km |
+| | standard gauge: 2,888 km 1.435-m gauge (283 km electrified) |
+| | narrow gauge: 1,085 km 1.055-m gauge (2008) |
+| Roadways: | total: 108,302 km |
+| | paved: 76,028 km (includes 645 km of expressways) |
+| | unpaved: 32,274 km (2004) |
+| Merchant marine: | total: 33 |
+| | by type: bulk carrier 6, cargo 8, chemical tanker 1, liquefied gas 9, passenger/cargo 3, petroleum tanker 4, roll on/roll off 2 |
+| | foreign-owned: 18 (Jordan 7, UK 11) (2008) |
+| Ports and terminals: | Algiers, Annaba, Arzew, Bejaia, Djendjene, Jijel, Mostaganem, Oran, Skikda |
+
+
+| Military | Algeria |
+| --- | --- |
+| Military branches: | People's National Army (Armee Nationale Populaire, ANP), Land Forces (Forces Terrestres, FT), Navy of the Republic of Algeria (Marine de la Republique Algerienne, MRA), Air Force (Al-Quwwat al-Jawwiya al-Jaza'eriya, QJJ), Territorial Air Defense Force (2009) |
+| Military service age and obligation: | 19-30 years of age for compulsory military service; conscript service obligation - 18 months (6 months basic training, 12 months civil projects) (2006) |
+| Manpower available for military service: | males age 16-49: 9,736,757 |
+| | females age 16-49: 9,590,978 (2008 est.) |
+| Manpower fit for military service: | males age 16-49: 8,317,473 |
+| | females age 16-49: 8,367,005 (2009 est.) |
+| Manpower reaching militarily significant age annually: | male: 375,852 |
+| | female: 362,158 (2009 est.) |
+| Military expenditures: | 3.3% of GDP (2006) |
+
+
+| Transnational Issues | Algeria |
+| --- | --- |
+| Disputes - international: | Algeria, and many other states, rejects Moroccan administration of Western Sahara; the Polisario Front, exiled in Algeria, represents the Sahrawi Arab Democratic Republic; Algeria's border with Morocco remains an irritant to bilateral relations, each nation accusing the other of harboring militants and arms smuggling; Algeria remains concerned about armed bandits operating throughout the Sahel who sometimes destabilize southern Algerian towns; dormant disputes include Libyan claims of about 32,000 sq km still reflected on its maps of southeastern Algeria and the FLN's assertions of a claim to Chirac Pastures in southeastern Morocco |
+| Refugees and internally displaced persons: | refugees (country of origin): 90,000 (Western Saharan Sahrawi, mostly living in Algerian-sponsored camps in the southwestern Algerian town of Tindouf) |
+| | IDPs: undetermined (civil war during 1990s) (2007) |
+| Trafficking in persons: | current situation: Algeria is a transit country for men and women trafficked from sub-Saharan Africa to Europe for the purposes of commercial sexual exploitation and involuntary servitude; Algerian children are trafficked internally for the purpose of domestic servitude or street vending |
+| | tier rating: Tier 3 - Algeria did not report any serious law enforcement actions to punish traffickers who force women into commercial sexual exploitation or men into involuntary servitude in 2007; the government again reported no investigations of trafficking of children for domestic servitude or improvements in protection services available to victims of trafficking; Algeria still lacks victim protection services, and its failure to distinguish between trafficking and illegal migration may result in the punishment of victims of trafficking (2008) |

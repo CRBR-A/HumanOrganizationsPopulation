@@ -1,0 +1,223 @@
+CIA - The World Factbook --  CRUDE OIL - PROVED RESERVES
+
+Crude oil - proved reserves is the stock of proved reserves of crude oil, in barrels (bbl). Proved reserves are those quantities of petroleum which, by analysis of geological and engineering data, can be estimated with a high degree of confidence to be commercially recoverable from a given date forward, from known reservoirs and under current economic conditions.
+
+| Rank | Country | (BBL) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Venezuela | 298,400,000,000 | 1 January 2015 est. |
+| 2 | Saudi Arabia | 268,300,000,000 | 1 January 2015 est. |
+| 3 | Canada | 171,000,000,000 | 1 January 2015 est. |
+| 4 | Iran | 157,800,000,000 | 1 January 2015 est. |
+| 5 | Iraq | 144,200,000,000 | 1 January 2015 est. |
+| 6 | Kuwait | 104,000,000,000 | 1 January 2015 est. |
+| 7 | Russia | 103,200,000,000 | 1 January 2015 est. |
+| 8 | United Arab Emirates | 97,800,000,000 | 1 January 2015 est. |
+| 9 | Libya | 48,360,000,000 | 1 January 2015 est. |
+| 10 | Nigeria | 37,070,000,000 | 1 January 2015 est. |
+| 11 | United States | 36,520,000,000 | 1 January 2015 est. |
+| 12 | Kazakhstan | 30,000,000,000 | 1 January 2015 est. |
+| 13 | Qatar | 25,240,000,000 | 1 January 2015 est. |
+| 14 | China | 24,650,000,000 | 1 January 2015 est. |
+| 15 | Brazil | 15,310,000,000 | 1 January 2015 est. |
+| 16 | Algeria | 12,200,000,000 | 1 January 2015 est. |
+| 17 | Mexico | 9,812,000,000 | 1 January 2015 est. |
+| 18 | Angola | 9,011,000,000 | 1 January 2015 est. |
+| 19 | Ecuador | 8,832,000,000 | 1 January 2015 est. |
+| 20 | Azerbaijan | 7,000,000,000 | 1 January 2015 est. |
+| 21 | Norway | 6,435,000,000 | 1 January 2010 est. |
+| 22 | European Union | 5,789,000,000 | 1 January 2015 est. |
+| 23 | India | 5,675,000,000 | 1 January 2015 est. |
+| 24 | Oman | 5,151,000,000 | 1 January 2015 est. |
+| 25 | Vietnam | 4,400,000,000 | 1 January 2015 est. |
+| 26 | Egypt | 4,400,000,000 | 1 January 2015 est. |
+| 27 | Malaysia | 4,000,000,000 | 1 January 2015 est. |
+| 28 | South Sudan | 3,750,000,000 | 1 January 2015 est. |
+| 29 | Indonesia | 3,693,000,000 | 1 January 2015 est. |
+| 30 | Yemen | 3,000,000,000 | 1 January 2015 est. |
+| 31 | United Kingdom | 2,982,000,000 | 1 January 2015 est. |
+| 32 | Syria | 2,500,000,000 | 1 January 2015 est. |
+| 33 | Uganda | 2,500,000,000 | 1 January 2015 est. |
+| 34 | Colombia | 2,445,000,000 | 1 January 2015 est. |
+| 35 | Argentina | 2,354,000,000 | 1 January 2015 est. |
+| 36 | Gabon | 2,000,000,000 | 1 January 2015 est. |
+| 37 | Congo, Republic of the | 1,600,000,000 | 1 January 2015 est. |
+| 38 | Chad | 1,500,000,000 | 1 January 2015 est. |
+| 39 | Sudan | 1,250,000,000 | 1 January 2015 est. |
+| 40 | Australia | 1,193,000,000 | 1 January 2015 est. |
+| 41 | Equatorial Guinea | 1,100,000,000 | 1 January 2015 est. |
+| 42 | Brunei | 1,100,000,000 | 1 January 2015 est. |
+| 43 | Peru | 741,200,000 | 1 January 2015 est. |
+| 44 | Trinidad and Tobago | 728,300,000 | 1 January 2015 est. |
+| 45 | Ghana | 660,000,000 | 1 January 2015 est. |
+| 46 | Denmark | 611,000,000 | 1 January 2015 est. |
+| 47 | Romania | 600,000,000 | 1 January 2015 est. |
+| 48 | Turkmenistan | 600,000,000 | 1 January 2015 est. |
+| 49 | Uzbekistan | 594,000,000 | 1 January 2015 est. |
+| 50 | Italy | 544,500,000 | 1 January 2015 est. |
+| 51 | Japan | 541,600,000 | March, 2015 est. |
+| 52 | Thailand | 461,000,000 | 1 January 2015 est. |
+| 53 | Tunisia | 425,000,000 | 1 January 2015 est. |
+| 54 | Ukraine | 395,000,000 | 1 January 2015 est. |
+| 55 | Pakistan | 371,000,000 | 1 January 2015 est. |
+| 56 | Turkey | 296,000,000 | 1 January 2015 est. |
+| 57 | Germany | 226,800,000 | 1 January 2015 est. |
+| 58 | Bolivia | 209,800,000 | 1 January 2015 est. |
+| 59 | Cameroon | 200,000,000 | 1 January 2015 est. |
+| 60 | Belarus | 198,000,000 | 1 January 2015 est. |
+| 61 | Congo, Democratic Republic of the | 180,000,000 | 1 January 2015 est. |
+| 62 | Papua New Guinea | 175,200,000 | 1 January 2015 est. |
+| 63 | Albania | 168,300,000 | 1 January 2015 est. |
+| 64 | Niger | 150,000,000 | July 7, 1905 est. |
+| 65 | Spain | 150,000,000 | 1 January 2015 est. |
+| 66 | Chile | 150,000,000 | 1 January 2015 est. |
+| 67 | Netherlands | 144,700,000 | 1 January 2015 est. |
+| 68 | Poland | 142,400,000 | 1 January 2010 est. |
+| 69 | Philippines | 138,500,000 | 1 January 2015 est. |
+| 70 | Bahrain | 124,600,000 | 1 January 2015 est. |
+| 71 | Cuba | 124,000,000 | 1 January 2015 est. |
+| 72 | Cote d'Ivoire | 100,000,000 | 1 January 2015 est. |
+| 73 | Suriname | 88,970,000 | 1 January 2015 est. |
+| 74 | France | 84,080,000 | 1 January 2015 est. |
+| 75 | Guatemala | 83,070,000 | 1 January 2015 est. |
+| 76 | Serbia | 77,500,000 | 1 January 2015 est. |
+| 77 | Croatia | 71,000,000 | 1 January 2015 est. |
+| 78 | New Zealand | 67,200,000 | 1 January 2015 est. |
+| 79 | Austria | 61,690,000 | 1 January 2015 est. |
+| 80 | Burma | 50,000,000 | 1 January 2015 est. |
+| 81 | Kyrgyzstan | 40,000,000 | 1 January 2015 est. |
+| 82 | Georgia | 35,000,000 | 1 January 2015 est. |
+| 83 | Bangladesh | 28,000,000 | 1 January 2015 est. |
+| 84 | Hungary | 27,190,000 | 1 January 2015 est. |
+| 85 | Mauritania | 20,000,000 | 1 January 2015 est. |
+| 86 | Bulgaria | 15,000,000 | 1 January 2015 est. |
+| 87 | South Africa | 15,000,000 | 1 January 2015 est. |
+| 88 | Czechia | 15,000,000 | 1 January 2015 est. |
+| 89 | Israel | 13,950,000 | 1 January 2015 est. |
+| 90 | Lithuania | 12,000,000 | 1 January 2015 est. |
+| 91 | Tajikistan | 12,000,000 | 29 February 2016 est. |
+| 92 | Taiwan | 10,060,000 | 1 January 2015 est. |
+| 93 | Greece | 10,000,000 | 1 January 2015 est. |
+| 94 | Slovakia | 9,000,000 | 1 January 2015 est. |
+| 95 | Benin | 8,000,000 | 1 January 2015 est. |
+| 96 | Belize | 6,700,000 | 1 January 2015 est. |
+| 97 | Barbados | 2,530,000 | 1 January 2015 est. |
+| 98 | Jordan | 1,000,000 | 1 January 2015 est. |
+| 99 | Morocco | 680,000 | 1 January 2015 est. |
+| 100 | Portugal | 538,100 | 1 January 2015 est. |
+| 101 | Ethiopia | 430,000 | 1 January 2015 est. |
+| 102 | Aruba | 0 | 1 January 2015 est. |
+| 103 | Antigua and Barbuda | 0 | 1 January 2015 est. |
+| 104 | Armenia | 0 | 1 January 2015 est. |
+| 105 | American Samoa | 0 | 1 January 2015 est. |
+| 106 | Botswana | 0 | 1 January 2015 est. |
+| 107 | Bermuda | 0 | 1 January 2015 est. |
+| 108 | Belgium | 0 | 1 January 2015 est. |
+| 109 | Bahamas, The | 0 | 1 January 2015 est. |
+| 110 | Bosnia and Herzegovina | 0 | 1 January 2015 est. |
+| 111 | Solomon Islands | 0 | 1 January 2015 est. |
+| 112 | Bhutan | 0 | 1 January 2015 est. |
+| 113 | Burundi | 0 | 1 January 2015 est. |
+| 114 | Cambodia | 0 | 1 January 2015 est. |
+| 115 | Curacao | 0 | 1 January 2011 est. |
+| 116 | Sri Lanka | 0 | 1 January 2015 est. |
+| 117 | Cayman Islands | 0 | 1 January 2015 est. |
+| 118 | Comoros | 0 | 1 January 2015 est. |
+| 119 | Costa Rica | 0 | 1 January 2015 est. |
+| 120 | Central African Republic | 0 | 1 January 2015 est. |
+| 121 | Cabo Verde | 0 | 1 January 2015 est. |
+| 122 | Cook Islands | 0 | 1 January 2015 est. |
+| 123 | Cyprus | 0 | 1 January 2015 est. |
+| 124 | Djibouti | 0 | 1 January 2015 est. |
+| 125 | Dominica | 0 | 1 January 2015 est. |
+| 126 | Dominican Republic | 0 | 1 January 2015 est. |
+| 127 | Ireland | 0 | 1 January 2015 est. |
+| 128 | Estonia | 0 | 1 January 2015 est. |
+| 129 | Eritrea | 0 | 1 January 2015 est. |
+| 130 | El Salvador | 0 | 1 January 2015 est. |
+| 131 | Finland | 0 | 1 January 2015 est. |
+| 132 | Fiji | 0 | 1 January 2015 est. |
+| 133 | Falkland Islands (Islas Malvinas) | 0 | 1 January 2015 est. |
+| 134 | Micronesia, Federated States of | 0 | 1 January 2014 |
+| 135 | Faroe Islands | 0 | 1 January 2015 est. |
+| 136 | French Polynesia | 0 | 1 January 2015 est. |
+| 137 | Gambia, The | 0 | 1 January 2015 est. |
+| 138 | Gibraltar | 0 | 1 January 2015 est. |
+| 139 | Grenada | 0 | 1 January 2015 est. |
+| 140 | Greenland | 0 | 1 January 2015 est. |
+| 141 | Guam | 0 | 1 January 2015 est. |
+| 142 | Guinea | 0 | 1 January 2015 est. |
+| 143 | Guyana | 0 | 1 January 2015 est. |
+| 144 | Gaza Strip | 0 | 1 January 2010 est. |
+| 145 | Haiti | 0 | 1 January 2015 est. |
+| 146 | Hong Kong | 0 | 1 January 2015 est. |
+| 147 | Honduras | 0 | 1 January 2015 est. |
+| 148 | Iceland | 0 | 1 January 2015 est. |
+| 149 | Jamaica | 0 | 1 January 2015 est. |
+| 150 | Kenya | 0 | 1 January 2015 est. |
+| 151 | Korea, North | 0 | 1 January 2015 est. |
+| 152 | Kiribati | 0 | 1 January 2015 est. |
+| 153 | Korea, South | 0 | |
+| 154 | Laos | 0 | 1 January 2015 est. |
+| 155 | Lebanon | 0 | 1 January 2015 est. |
+| 156 | Latvia | 0 | 1 January 2015 est. |
+| 157 | Liberia | 0 | 1 January 2015 est. |
+| 158 | Lesotho | 0 | 1 January 2015 est. |
+| 159 | Luxembourg | 0 | 1 January 2015 est. |
+| 160 | Madagascar | 0 | 1 January 2015 est. |
+| 161 | Macau | 0 | 1 January 2015 est. |
+| 162 | Moldova | 0 | 1 January 2015 est. |
+| 163 | Mongolia | 0 | |
+| 164 | Montserrat | 0 | 1 January 2015 est. |
+| 165 | Malawi | 0 | 1 January 2015 est. |
+| 166 | Montenegro | 0 | 1 January 2012 est. |
+| 167 | Macedonia | 0 | 1 January 2015 est. |
+| 168 | Mali | 0 | 1 January 2015 est. |
+| 169 | Mauritius | 0 | 1 January 2015 est. |
+| 170 | Malta | 0 | July 6, 1905 est. |
+| 171 | Maldives | 0 | 1 January 2015 est. |
+| 172 | Mozambique | 0 | 1 January 2015 est. |
+| 173 | New Caledonia | 0 | 1 January 2015 est. |
+| 174 | Niue | 0 | 1 January 2015 est. |
+| 175 | Vanuatu | 0 | 1 January 2015 est. |
+| 176 | Nepal | 0 | 1 January 2015 est. |
+| 177 | Nauru | 0 | 1 January 2015 est. |
+| 178 | Nicaragua | 0 | 1 January 2015 est. |
+| 179 | Paraguay | 0 | 1 January 2015 est. |
+| 180 | Panama | 0 | 1 January 2010 est. |
+| 181 | Guinea-Bissau | 0 | 1 January 2015 est. |
+| 182 | Puerto Rico | 0 | 1 January 2014 est. |
+| 183 | Rwanda | 0 | 1 January 2015 est. |
+| 184 | Saint Pierre and Miquelon | 0 | 1 January 2015 est. |
+| 185 | Saint Kitts and Nevis | 0 | 1 January 2015 est. |
+| 186 | Seychelles | 0 | 1 January 2010 est. |
+| 187 | Senegal | 0 | 1 January 2015 est. |
+| 188 | Saint Helena, Ascension, and Tristan da Cunha | 0 | 1 January 2015 est. |
+| 189 | Slovenia | 0 | 1 January 2015 est. |
+| 190 | Sierra Leone | 0 | 1 January 2015 est. |
+| 191 | Singapore | 0 | 1 January 2015 est. |
+| 192 | Somalia | 0 | 1 January 2015 est. |
+| 193 | Saint Lucia | 0 | 1 January 2015 est. |
+| 194 | Sweden | 0 | 1 January 2015 est. |
+| 195 | Switzerland | 0 | 1 January 2015 est. |
+| 196 | Turks and Caicos Islands | 0 | 1 January 2015 est. |
+| 197 | Tokelau | 0 | 1 January 2015 est. |
+| 198 | Tonga | 0 | 1 January 2010 est. |
+| 199 | Togo | 0 | 1 January 2015 est. |
+| 200 | Sao Tome and Principe | 0 | 1 January 2010 est. |
+| 201 | Timor-Leste | 0 | 1 January 2015 est. |
+| 202 | Tuvalu | 0 | 1 January 2015 est. |
+| 203 | Tanzania | 0 | 1 January 2015 est. |
+| 204 | Burkina Faso | 0 | 1 January 2015 est. |
+| 205 | Uruguay | 0 | 1 January 2014 est. |
+| 206 | Saint Vincent and the Grenadines | 0 | 1 January 2015 est. |
+| 207 | British Virgin Islands | 0 | 1 January 2015 est. |
+| 208 | Virgin Islands | 0 | 1 January 2015 est. |
+| 209 | Namibia | 0 | 1 January 2015 est. |
+| 210 | West Bank | 0 | 1 January 2009 est. |
+| 211 | Western Sahara | 0 | 1 January 2015 est. |
+| 212 | Samoa | 0 | 1 January 2015 est. |
+| 213 | Swaziland | 0 | 1 January 2010 est. |
+| 214 | Zambia | 0 | 1 January 2015 est. |
+| 215 | Zimbabwe | 0 | 1 January 2015 est. |
+
+

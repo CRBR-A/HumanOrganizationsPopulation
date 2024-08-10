@@ -1,0 +1,29 @@
+Telephone Code: 82
+Local Emergency Phone - Ambulance: 119
+Local Emergency Phone - Fire: 119
+Local Emergency Phone - Police: 112
+Climate: Temperate, with rainfall heavier in summer than winter; cold winters
+Currency (Code): South Korean won (KRW)
+Electricity: 220 V
+Voltage: 60 Hz
+Plug types(s): F
+Major Languages: Korean, English
+Major Religions: Protestant 19.7%, Buddhist 15.5%, Catholic 7.9%, none 56.9%; note: many people also practice some Confucian practices
+Time Difference: UTC+9 (14 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Yes, but some opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Gamcheon Culture Village; Jeonju Hanok Village; Bridge of No Return; Hwaseong Fortress; Ganghwa Peace Observatory; Jindo Sea Parting; Seoraksan National Park; Seokguram Grotto & Bulguksa Temple; Jongmyo Shrine; Boryeong Mud Festival
+Major Sports: Taekwondo, soccer, baseball
+Cultural Practices: It is regarded as rude to point with your fingers. Better to gesture with your arm or hand. Casual physical contact, such as back slapping, is considered rude.
+Tipping Guidelines: South Korea has a no-tip culture. Staff in restaurants and hotels, as well as taxi drivers, porters, and bellhops do not expect tips. Telling the taxi driver "keep the change" is appreciated. Most hotels add a compulsory 10% service charge to the bill.
+Souvenirs: Hanbok fashion and dolls, decorated masks, leather goods, jewelry, lacquerware/woodcarvings, cosmetics, seaweeds and teas, Soju stationary, electronics
+Traditional Cuisine: Kimchi --- various vegetables (cabbage, radish, or scallion are commonly used) seasoned using ginger, brine, garlic, etc., and put through a fermentation or pickling process; Bulgogi -- thinly sliced, prime cuts of meat marinated in a mixture of soy sauce, sesame oil, garlic, onions, ginger, sugar, and wine and then grilled
+
+---
+country: Korea, South
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Korea, South/travel-facts>
+license: public domain (U.S.)
+...

@@ -1,0 +1,27 @@
+Telephone Code: 243
+Local Emergency Phone: Local numbers only
+Climate: Tropical; hot and humid in equatorial river basin; cooler and drier in southern highlands; cooler and wetter in eastern highlands; north of Equator -wet season (April - October), dry season (December to February); south of Equator - wet season (November to March), dry season (April to October)
+Currency (Code): Congolese francs (CDF)
+Electricity: 220 V
+Voltage: 50 Hz
+Plug types(s): C, D, E
+Major Languages: French, Lingala (a lingua franca trade language), Kingwana (a dialect of Kiswahili or Swahili), Kikongo, Tshiluba
+Major Religions: Roman Catholic 29.9%, Protestant 26.7%, Kimbanguist 2.8%, other Christian 36.5%, Muslim 1.3%
+Time Difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time); note: the DRC ha2 time zones
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Kinshasa; Lola Ya Bonobo; Kahuzi Biega National Park; Nyiragongo Volcano; Virunga National Park; Lake Kivu
+Major Sports: Soccer, basketball, rugby
+Cultural Practices: Eat with your right hand and avoid holding bowls or utensils with the left. When eating from a shared bowl only, use the part of the bowl directly in front of you. It is very impolite to start eating before the oldest man has been served and has started eating.
+Tipping Guidelines: Tipping 7% is expected in restaurants frequented by Westerners and at fancier eating establishments. Taxis do not typically expect tips.
+Souvenirs: Precious stone and seed jewelry, woven baskets, hand-carved wood furniture, ebony statues, bronze sculptures, native pottery, natural perfumes and cosmetics
+Traditional Cuisine: Poulet à la moambe --- a savory chicken dish made by combining chicken, spices, and palm butter to create a stew-like consistency
+
+---
+country: Congo, Democratic Republic of the
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Congo, Democratic Republic of the/travel-facts>
+license: public domain (U.S.)
+...

@@ -1,0 +1,1141 @@
+CIA - The World Factbook --  Sex ratio   
+
+This entry includes the number of males for each female in five age groups - at birth, under 15 years, 15-64 years, 65 years and over, and for the total population. Sex ratio at birth has recently emerged as an indicator of certain kinds of sex discrimination in some countries. For instance, high sex ratios at birth in some Asian countries are now attributed to sex-selective abortion and infanticide due to a strong preference for sons. This will affect future marriage patterns and fertility patterns. Eventually, it could cause unrest among young adult males who are unable to find partners.
+
+| Rank | country | (male(s)/female) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | United Arab Emirates | 2.75 | 2011 est. |
+| 2 | Qatar | 2.44 | 2011 est. |
+| 3 | United Arab Emirates | 2.20 | 2011 est. |
+| 4 | Montserrat | 2.03 | 2011 est. |
+| 5 | Qatar | 1.99 | 2011 est. |
+| 6 | United Arab Emirates | 1.80 | 2011 est. |
+| 7 | Kuwait | 1.79 | 2011 est. |
+| 8 | Kuwait | 1.65 | 2011 est. |
+| 9 | Maldives | 1.57 | 2011 est. |
+| 10 | Kuwait | 1.54 | 2011 est. |
+| 11 | Maldives | 1.40 | 2011 est. |
+| 12 | Qatar | 1.36 | 2011 est. |
+| 13 | Oman | 1.34 | 2011 est. |
+| 14 | Bahrain | 1.33 | 2011 est. |
+| 15 | Saudi Arabia | 1.27 | 2011 est. |
+| 16 | Palau | 1.25 | 2011 est. |
+| 17 | Bahrain | 1.24 | 2011 est. |
+| 18 | Oman | 1.23 | 2011 est. |
+| 19 | Papua New Guinea | 1.20 | 2011 est. |
+| 20 | Saint Barthelemy | 1.19 | 2011 est. |
+| 21 | Saudi Arabia | 1.17 | 2011 est. |
+| 22 | China | 1.17 | 2011 est. |
+| 23 | Armenia | 1.15 | 2011 est. |
+| 24 | Curacao | 1.15 | 2010 |
+| 25 | Northern Mariana Islands | 1.15 | 2011 est. |
+| 26 | Georgia | 1.15 | 2011 est. |
+| 27 | Greenland | 1.15 | 2011 est. |
+| 28 | Faroe Islands | 1.15 | 2011 est. |
+| 29 | Macau | 1.14 | 2011 est. |
+| 30 | Saint Barthelemy | 1.14 | 2011 est. |
+| 31 | San Marino | 1.14 | 2011 est. |
+| 32 | China | 1.13 | 2011 est. |
+| 33 | Bhutan | 1.13 | 2011 est. |
+| 34 | Palau | 1.13 | 2011 est. |
+| 35 | Cook Islands | 1.13 | 2011 est. |
+| 36 | India | 1.13 | 2011 est. |
+| 37 | Bahrain | 1.13 | 2011 est. |
+| 38 | Azerbaijan | 1.13 | 2011 est. |
+| 39 | Armenia | 1.12 | 2011 est. |
+| 40 | Greenland | 1.12 | 2011 est. |
+| 41 | India | 1.12 | 2011 est. |
+| 42 | Bhutan | 1.12 | 2011 est. |
+| 43 | Albania | 1.12 | 2011 est. |
+| 44 | Vietnam | 1.12 | 2011 est. |
+| 45 | Azerbaijan | 1.12 | 2011 est. |
+| 46 | Georgia | 1.11 | 2011 est. |
+| 47 | Albania | 1.10 | 2011 est. |
+| 48 | Bhutan | 1.10 | 2011 est. |
+| 49 | Turks and Caicos Islands | 1.10 | 2011 est. |
+| 50 | Vietnam | 1.10 | 2011 est. |
+| 51 | Wallis and Futuna | 1.10 | 2011 est. |
+| 52 | Korea, South | 1.10 | 2011 est. |
+| 53 | Grenada | 1.10 | 2011 est. |
+| 54 | San Marino | 1.10 | 2011 est. |
+| 55 | Kosovo | 1.09 | 2011 est. |
+| 56 | Montserrat | 1.09 | 2011 est. |
+| 57 | Portugal | 1.09 | 2011 est. |
+| 58 | Kosovo | 1.09 | 2011 est. |
+| 59 | Seychelles | 1.09 | 2011 est. |
+| 60 | Pakistan | 1.09 | 2011 est. |
+| 61 | Faroe Islands | 1.09 | 2011 est. |
+| 62 | Andorra | 1.09 | 2011 est. |
+| 63 | Hong Kong | 1.09 | 2011 est. |
+| 64 | Kosovo | 1.09 | 2011 est. |
+| 65 | Taiwan | 1.08 | 2011 est. |
+| 66 | India | 1.08 | 2011 est. |
+| 67 | Jersey | 1.08 | 2011 est. |
+| 68 | Montenegro | 1.08 | 2011 est. |
+| 69 | Taiwan | 1.08 | 2011 est. |
+| 70 | Singapore | 1.08 | 2011 est. |
+| 71 | Switzerland | 1.08 | 2011 est. |
+| 72 | Samoa | 1.08 | 2011 est. |
+| 73 | Isle of Man | 1.08 | 2011 est. |
+| 74 | Cyprus | 1.08 | 2011 est. |
+| 75 | Macedonia | 1.08 | 2011 est. |
+| 76 | Singapore | 1.08 | 2011 est. |
+| 77 | Macedonia | 1.08 | 2011 est. |
+| 78 | Hong Kong | 1.08 | 2011 est. |
+| 79 | Bosnia and Herzegovina | 1.07 | 2011 est. |
+| 80 | Montenegro | 1.07 | 2011 est. |
+| 81 | Faroe Islands | 1.07 | 2011 est. |
+| 82 | Cook Islands | 1.07 | 2011 est. |
+| 83 | Cook Islands | 1.07 | 2011 est. |
+| 84 | Luxembourg | 1.07 | 2011 est. |
+| 85 | India | 1.07 | 2011 est. |
+| 86 | Pakistan | 1.07 | 2011 est. |
+| 87 | Serbia | 1.07 | 2011 est. |
+| 88 | British Virgin Islands | 1.07 | 2011 est. |
+| 89 | Samoa | 1.07 | 2011 est. |
+| 90 | Turks and Caicos Islands | 1.07 | 2011 est. |
+| 91 | Tunisia | 1.07 | 2011 est. |
+| 92 | Gibraltar | 1.07 | 2011 est. |
+| 93 | French Polynesia | 1.07 | 2011 est. |
+| 94 | Faroe Islands | 1.07 | 2011 est. |
+| 95 | Bosnia and Herzegovina | 1.07 | 2011 est. |
+| 96 | Tunisia | 1.07 | 2011 est. |
+| 97 | Andorra | 1.07 | 2011 est. |
+| 98 | Ireland | 1.07 | 2011 est. |
+| 99 | Korea, South | 1.07 | 2011 est. |
+| 100 | Malaysia | 1.07 | 2011 est. |
+| 101 | Suriname | 1.07 | 2011 est. |
+| 102 | Portugal | 1.07 | 2011 est. |
+| 103 | Andorra | 1.07 | 2011 est. |
+| 104 | Slovenia | 1.07 | 2011 est. |
+| 105 | Luxembourg | 1.07 | 2011 est. |
+| 106 | Ukraine | 1.07 | 2011 est. |
+| 107 | Spain | 1.07 | 2011 est. |
+| 108 | Serbia | 1.07 | 2011 est. |
+| 109 | Palau | 1.06 | 2011 est. |
+| 110 | Greece | 1.06 | 2011 est. |
+| 111 | Estonia | 1.06 | 2011 est. |
+| 112 | Belarus | 1.06 | 2011 est. |
+| 113 | Northern Mariana Islands | 1.06 | 2011 est. |
+| 114 | Poland | 1.06 | 2011 est. |
+| 115 | Sweden | 1.06 | 2011 est. |
+| 116 | Samoa | 1.06 | 2011 est. |
+| 117 | Trinidad and Tobago | 1.06 | 2011 est. |
+| 118 | Tuvalu | 1.06 | 2011 est. |
+| 119 | Ukraine | 1.06 | 2011 est. |
+| 120 | Uzbekistan | 1.06 | 2011 est. |
+| 121 | Saint Vincent and the Grenadines | 1.06 | 2011 est. |
+| 122 | Russia | 1.06 | 2011 est. |
+| 123 | Saint Pierre and Miquelon | 1.06 | 2011 est. |
+| 124 | Andorra | 1.06 | 2011 est. |
+| 125 | American Samoa | 1.06 | 2011 est. |
+| 126 | European Union | 1.06 | 2011 est. |
+| 127 | Estonia | 1.06 | 2011 est. |
+| 128 | Burma | 1.06 | 2011 est. |
+| 129 | Belarus | 1.06 | 2011 est. |
+| 130 | Bulgaria | 1.06 | 2011 est. |
+| 131 | Brunei | 1.06 | 2011 est. |
+| 132 | China | 1.06 | 2011 est. |
+| 133 | China | 1.06 | 2011 est. |
+| 134 | Czech Republic | 1.06 | 2011 est. |
+| 135 | French Polynesia | 1.06 | 2011 est. |
+| 136 | Gibraltar | 1.06 | 2011 est. |
+| 137 | Greece | 1.06 | 2011 est. |
+| 138 | Colombia | 1.06 | 2011 est. |
+| 139 | Cuba | 1.06 | 2011 est. |
+| 140 | Cuba | 1.06 | 2011 est. |
+| 141 | Cyprus | 1.06 | 2011 est. |
+| 142 | Kosovo | 1.06 | 2011 est. |
+| 143 | Lithuania | 1.06 | 2011 est. |
+| 144 | Libya | 1.06 | 2011 est. |
+| 145 | Moldova | 1.06 | 2011 est. |
+| 146 | Gaza Strip | 1.06 | 2011 est. |
+| 147 | Gaza Strip | 1.06 | 2011 est. |
+| 148 | Croatia | 1.06 | 2011 est. |
+| 149 | Hungary | 1.06 | 2011 est. |
+| 150 | Italy | 1.06 | 2011 est. |
+| 151 | Japan | 1.06 | 2011 est. |
+| 152 | Jersey | 1.06 | 2011 est. |
+| 153 | Jordan | 1.06 | 2011 est. |
+| 154 | Jordan | 1.06 | 2011 est. |
+| 155 | Romania | 1.06 | 2011 est. |
+| 156 | Russia | 1.06 | 2011 est. |
+| 157 | Oman | 1.06 | 2011 est. |
+| 158 | Malaysia | 1.06 | 2011 est. |
+| 159 | Nigeria | 1.06 | 2011 est. |
+| 160 | Slovenia | 1.06 | 2011 est. |
+| 161 | Spain | 1.06 | 2011 est. |
+| 162 | Sweden | 1.06 | 2011 est. |
+| 163 | Syria | 1.06 | 2011 est. |
+| 164 | Saint Barthelemy | 1.06 | 2011 est. |
+| 165 | Pakistan | 1.06 | 2011 est. |
+| 166 | Poland | 1.06 | 2011 est. |
+| 167 | Papua New Guinea | 1.06 | 2011 est. |
+| 168 | Papua New Guinea | 1.06 | 2011 est. |
+| 169 | Palau | 1.06 | 2011 est. |
+| 170 | Qatar | 1.06 | 2011 est. |
+| 171 | West Bank | 1.06 | 2011 est. |
+| 172 | Moldova | 1.06 | 2011 est. |
+| 173 | Italy | 1.06 | 2011 est. |
+| 174 | Czech Republic | 1.06 | 2011 est. |
+| 175 | Virgin Islands | 1.06 | 2011 est. |
+| 176 | Malta | 1.06 | 2011 est. |
+| 177 | Kazakhstan | 1.06 | 2011 est. |
+| 178 | Lithuania | 1.06 | 2011 est. |
+| 179 | Hungary | 1.06 | 2011 est. |
+| 180 | Ireland | 1.06 | 2011 est. |
+| 181 | Japan | 1.06 | 2011 est. |
+| 182 | Qatar | 1.06 | 2011 est. |
+| 183 | Canada | 1.06 | 2011 est. |
+| 184 | Australia | 1.06 | 2011 est. |
+| 185 | Saint Lucia | 1.06 | 2011 est. |
+| 186 | Denmark | 1.06 | 2011 est. |
+| 187 | Germany | 1.06 | 2011 est. |
+| 188 | Croatia | 1.06 | 2011 est. |
+| 189 | Switzerland | 1.05 | 2011 est. |
+| 190 | Norway | 1.05 | 2011 est. |
+| 191 | Thailand | 1.05 | 2011 est. |
+| 192 | Latvia | 1.05 | 2011 est. |
+| 193 | Kyrgyzstan | 1.05 | 2011 est. |
+| 194 | Turks and Caicos Islands | 1.05 | 2011 est. |
+| 195 | United Kingdom | 1.05 | 2011 est. |
+| 196 | Argentina | 1.05 | 2011 est. |
+| 197 | Netherlands | 1.05 | 2011 est. |
+| 198 | Slovakia | 1.05 | 2011 est. |
+| 199 | Austria | 1.05 | 2011 est. |
+| 200 | France | 1.05 | 2011 est. |
+| 201 | Samoa | 1.05 | 2011 est. |
+| 202 | Greenland | 1.05 | 2011 est. |
+| 203 | Trinidad and Tobago | 1.05 | 2011 est. |
+| 204 | Thailand | 1.05 | 2011 est. |
+| 205 | Tajikistan | 1.05 | 2011 est. |
+| 206 | Timor-Leste | 1.05 | 2011 est. |
+| 207 | Turkey | 1.05 | 2011 est. |
+| 208 | Turkey | 1.05 | 2011 est. |
+| 209 | Turkmenistan | 1.05 | 2011 est. |
+| 210 | United Kingdom | 1.05 | 2011 est. |
+| 211 | Uzbekistan | 1.05 | 2011 est. |
+| 212 | Venezuela | 1.05 | 2011 est. |
+| 213 | Saudi Arabia | 1.05 | 2011 est. |
+| 214 | Seychelles | 1.05 | 2011 est. |
+| 215 | Slovakia | 1.05 | 2011 est. |
+| 216 | Libya | 1.05 | 2011 est. |
+| 217 | Libya | 1.05 | 2011 est. |
+| 218 | Macau | 1.05 | 2011 est. |
+| 219 | Mongolia | 1.05 | 2011 est. |
+| 220 | Gaza Strip | 1.05 | 2011 est. |
+| 221 | Honduras | 1.05 | 2011 est. |
+| 222 | Indonesia | 1.05 | 2011 est. |
+| 223 | Isle of Man | 1.05 | 2011 est. |
+| 224 | Iran | 1.05 | 2011 est. |
+| 225 | Iran | 1.05 | 2011 est. |
+| 226 | Israel | 1.05 | 2011 est. |
+| 227 | Israel | 1.05 | 2011 est. |
+| 228 | Iraq | 1.05 | 2011 est. |
+| 229 | Jamaica | 1.05 | 2011 est. |
+| 230 | Romania | 1.05 | 2011 est. |
+| 231 | Philippines | 1.05 | 2011 est. |
+| 232 | Puerto Rico | 1.05 | 2011 est. |
+| 233 | Monaco | 1.05 | 2011 est. |
+| 234 | Morocco | 1.05 | 2011 est. |
+| 235 | Mauritius | 1.05 | 2011 est. |
+| 236 | Malta | 1.05 | 2011 est. |
+| 237 | Oman | 1.05 | 2011 est. |
+| 238 | Oman | 1.05 | 2011 est. |
+| 239 | Maldives | 1.05 | 2011 est. |
+| 240 | Mexico | 1.05 | 2011 est. |
+| 241 | New Caledonia | 1.05 | 2011 est. |
+| 242 | Vanuatu | 1.05 | 2011 est. |
+| 243 | Vanuatu | 1.05 | 2011 est. |
+| 244 | Nigeria | 1.05 | 2011 est. |
+| 245 | Netherlands | 1.05 | 2011 est. |
+| 246 | Kiribati | 1.05 | 2011 est. |
+| 247 | Saint Helena, Ascension, and Tristan da Cunha | 1.05 | 2011 est. |
+| 248 | Saint Lucia | 1.05 | 2011 est. |
+| 249 | Sudan | 1.05 | 2011 est. |
+| 250 | Sudan | 1.05 | 2011 est. |
+| 251 | Syria | 1.05 | 2011 est. |
+| 252 | Nicaragua | 1.05 | 2011 est. |
+| 253 | New Zealand | 1.05 | 2011 est. |
+| 254 | Paraguay | 1.05 | 2011 est. |
+| 255 | Pakistan | 1.05 | 2011 est. |
+| 256 | Papua New Guinea | 1.05 | 2011 est. |
+| 257 | Marshall Islands | 1.05 | 2011 est. |
+| 258 | British Virgin Islands | 1.05 | 2011 est. |
+| 259 | British Virgin Islands | 1.05 | 2011 est. |
+| 260 | British Virgin Islands | 1.05 | 2011 est. |
+| 261 | West Bank | 1.05 | 2011 est. |
+| 262 | West Bank | 1.05 | 2011 est. |
+| 263 | Yemen | 1.05 | 2011 est. |
+| 264 | Albania | 1.05 | 2011 est. |
+| 265 | Angola | 1.05 | 2011 est. |
+| 266 | Argentina | 1.05 | 2011 est. |
+| 267 | Australia | 1.05 | 2011 est. |
+| 268 | Austria | 1.05 | 2011 est. |
+| 269 | Anguilla | 1.05 | 2011 est. |
+| 270 | European Union | 1.05 | 2011 est. |
+| 271 | Egypt | 1.05 | 2011 est. |
+| 272 | Egypt | 1.05 | 2011 est. |
+| 273 | El Salvador | 1.05 | 2011 est. |
+| 274 | El Salvador | 1.05 | 2011 est. |
+| 275 | Belize | 1.05 | 2011 est. |
+| 276 | Bolivia | 1.05 | 2011 est. |
+| 277 | Benin | 1.05 | 2011 est. |
+| 278 | Solomon Islands | 1.05 | 2011 est. |
+| 279 | Brazil | 1.05 | 2011 est. |
+| 280 | Bhutan | 1.05 | 2011 est. |
+| 281 | Bulgaria | 1.05 | 2011 est. |
+| 282 | Canada | 1.05 | 2011 est. |
+| 283 | Curacao | 1.05 | 2010 |
+| 284 | Chile | 1.05 | 2011 est. |
+| 285 | Chile | 1.05 | 2011 est. |
+| 286 | Antigua and Barbuda | 1.05 | 2011 est. |
+| 287 | United Arab Emirates | 1.05 | 2011 est. |
+| 288 | United Arab Emirates | 1.05 | 2011 est. |
+| 289 | Afghanistan | 1.05 | 2011 est. |
+| 290 | Afghanistan | 1.05 | 2011 est. |
+| 291 | Afghanistan | 1.05 | 2011 est. |
+| 292 | Afghanistan | 1.05 | 2011 est. |
+| 293 | Algeria | 1.05 | 2011 est. |
+| 294 | Fiji | 1.05 | 2011 est. |
+| 295 | Micronesia, Federated States of | 1.05 | 2011 est. |
+| 296 | French Polynesia | 1.05 | 2011 est. |
+| 297 | France | 1.05 | 2011 est. |
+| 298 | Grenada | 1.05 | 2011 est. |
+| 299 | Guernsey | 1.05 | 2011 est. |
+| 300 | Greenland | 1.05 | 2011 est. |
+| 301 | Germany | 1.05 | 2011 est. |
+| 302 | Guatemala | 1.05 | 2011 est. |
+| 303 | Guyana | 1.05 | 2011 est. |
+| 304 | Colombia | 1.05 | 2011 est. |
+| 305 | Costa Rica | 1.05 | 2011 est. |
+| 306 | Costa Rica | 1.05 | 2011 est. |
+| 307 | Cyprus | 1.05 | 2011 est. |
+| 308 | Denmark | 1.05 | 2011 est. |
+| 309 | Dominica | 1.05 | 2011 est. |
+| 310 | Dominica | 1.05 | 2011 est. |
+| 311 | Ecuador | 1.05 | 2011 est. |
+| 312 | Lebanon | 1.05 | 2011 est. |
+| 313 | Lebanon | 1.05 | 2011 est. |
+| 314 | Latvia | 1.05 | 2011 est. |
+| 315 | New Zealand | 1.05 | 2011 est. |
+| 316 | Wallis and Futuna | 1.05 | 2011 est. |
+| 317 | Cook Islands | 1.05 | 2011 est. |
+| 318 | Brunei | 1.05 | 2011 est. |
+| 319 | Korea, North | 1.05 | 2011 est. |
+| 320 | Kuwait | 1.05 | 2011 est. |
+| 321 | United States | 1.05 | 2011 est. |
+| 322 | Peru | 1.05 | 2011 est. |
+| 323 | Panama | 1.05 | 2011 est. |
+| 324 | Cambodia | 1.05 | 2011 est. |
+| 325 | Belgium | 1.05 | 2011 est. |
+| 326 | Saint Pierre and Miquelon | 1.04 | 2011 est. |
+| 327 | Tuvalu | 1.04 | 2011 est. |
+| 328 | Albania | 1.04 | 2011 est. |
+| 329 | American Samoa | 1.04 | 2011 est. |
+| 330 | Botswana | 1.04 | 2011 est. |
+| 331 | Belgium | 1.04 | 2011 est. |
+| 332 | Bangladesh | 1.04 | 2011 est. |
+| 333 | Belize | 1.04 | 2011 est. |
+| 334 | Bolivia | 1.04 | 2011 est. |
+| 335 | Burma | 1.04 | 2011 est. |
+| 336 | Benin | 1.04 | 2011 est. |
+| 337 | Solomon Islands | 1.04 | 2011 est. |
+| 338 | Brazil | 1.04 | 2011 est. |
+| 339 | Bhutan | 1.04 | 2011 est. |
+| 340 | Chad | 1.04 | 2011 est. |
+| 341 | Sri Lanka | 1.04 | 2011 est. |
+| 342 | Sri Lanka | 1.04 | 2011 est. |
+| 343 | Algeria | 1.04 | 2011 est. |
+| 344 | Jordan | 1.04 | 2011 est. |
+| 345 | Finland | 1.04 | 2011 est. |
+| 346 | Finland | 1.04 | 2011 est. |
+| 347 | Fiji | 1.04 | 2011 est. |
+| 348 | French Polynesia | 1.04 | 2011 est. |
+| 349 | Grenada | 1.04 | 2011 est. |
+| 350 | Germany | 1.04 | 2011 est. |
+| 351 | Guatemala | 1.04 | 2011 est. |
+| 352 | Guyana | 1.04 | 2011 est. |
+| 353 | Cyprus | 1.04 | 2011 est. |
+| 354 | Dominica | 1.04 | 2011 est. |
+| 355 | Dominican Republic | 1.04 | 2011 est. |
+| 356 | Dominican Republic | 1.04 | 2011 est. |
+| 357 | Dominican Republic | 1.04 | 2011 est. |
+| 358 | Ecuador | 1.04 | 2011 est. |
+| 359 | Kazakhstan | 1.04 | 2011 est. |
+| 360 | Laos | 1.04 | 2011 est. |
+| 361 | Libya | 1.04 | 2011 est. |
+| 362 | Mongolia | 1.04 | 2011 est. |
+| 363 | Gaza Strip | 1.04 | 2011 est. |
+| 364 | Honduras | 1.04 | 2011 est. |
+| 365 | Iceland | 1.04 | 2011 est. |
+| 366 | Indonesia | 1.04 | 2011 est. |
+| 367 | Cote d'Ivoire | 1.04 | 2011 est. |
+| 368 | Iraq | 1.04 | 2011 est. |
+| 369 | Philippines | 1.04 | 2011 est. |
+| 370 | Puerto Rico | 1.04 | 2011 est. |
+| 371 | Mauritius | 1.04 | 2011 est. |
+| 372 | Maldives | 1.04 | 2011 est. |
+| 373 | Mexico | 1.04 | 2011 est. |
+| 374 | New Caledonia | 1.04 | 2011 est. |
+| 375 | Vanuatu | 1.04 | 2011 est. |
+| 376 | Vanuatu | 1.04 | 2011 est. |
+| 377 | Vanuatu | 1.04 | 2011 est. |
+| 378 | Nigeria | 1.04 | 2011 est. |
+| 379 | Nigeria | 1.04 | 2011 est. |
+| 380 | Norway | 1.04 | 2011 est. |
+| 381 | Nepal | 1.04 | 2011 est. |
+| 382 | Nepal | 1.04 | 2011 est. |
+| 383 | Nauru | 1.04 | 2011 est. |
+| 384 | Kyrgyzstan | 1.04 | 2011 est. |
+| 385 | Kiribati | 1.04 | 2011 est. |
+| 386 | Korea, South | 1.04 | 2011 est. |
+| 387 | Kuwait | 1.04 | 2011 est. |
+| 388 | Saint Helena, Ascension, and Tristan da Cunha | 1.04 | 2011 est. |
+| 389 | Saint Helena, Ascension, and Tristan da Cunha | 1.04 | 2011 est. |
+| 390 | Sudan | 1.04 | 2011 est. |
+| 391 | Suriname | 1.04 | 2011 est. |
+| 392 | Nicaragua | 1.04 | 2011 est. |
+| 393 | Peru | 1.04 | 2011 est. |
+| 394 | Panama | 1.04 | 2011 est. |
+| 395 | Marshall Islands | 1.04 | 2011 est. |
+| 396 | Marshall Islands | 1.04 | 2011 est. |
+| 397 | Marshall Islands | 1.04 | 2011 est. |
+| 398 | Saint Martin | 1.04 | 2011 est. |
+| 399 | Virgin Islands | 1.04 | 2011 est. |
+| 400 | West Bank | 1.04 | 2011 est. |
+| 401 | Western Sahara | 1.04 | 2011 est. |
+| 402 | Yemen | 1.04 | 2011 est. |
+| 403 | Tajikistan | 1.04 | 2011 est. |
+| 404 | Turks and Caicos Islands | 1.04 | 2011 est. |
+| 405 | Tonga | 1.04 | 2011 est. |
+| 406 | Timor-Leste | 1.04 | 2011 est. |
+| 407 | United States | 1.04 | 2011 est. |
+| 408 | Saudi Arabia | 1.04 | 2011 est. |
+| 409 | Monaco | 1.04 | 2011 est. |
+| 410 | Uruguay | 1.04 | 2011 est. |
+| 411 | Montserrat | 1.03 | 2011 est. |
+| 412 | Seychelles | 1.03 | 2011 est. |
+| 413 | Saint Vincent and the Grenadines | 1.03 | 2011 est. |
+| 414 | Anguilla | 1.03 | 2011 est. |
+| 415 | Venezuela | 1.03 | 2011 est. |
+| 416 | British Virgin Islands | 1.03 | 2011 est. |
+| 417 | Namibia | 1.03 | 2011 est. |
+| 418 | Namibia | 1.03 | 2011 est. |
+| 419 | Swaziland | 1.03 | 2011 est. |
+| 420 | Yemen | 1.03 | 2011 est. |
+| 421 | Yemen | 1.03 | 2011 est. |
+| 422 | Zambia | 1.03 | 2011 est. |
+| 423 | Zimbabwe | 1.03 | 2011 est. |
+| 424 | Tonga | 1.03 | 2011 est. |
+| 425 | Togo | 1.03 | 2011 est. |
+| 426 | Sao Tome and Principe | 1.03 | 2011 est. |
+| 427 | Sao Tome and Principe | 1.03 | 2011 est. |
+| 428 | Timor-Leste | 1.03 | 2011 est. |
+| 429 | Timor-Leste | 1.03 | 2011 est. |
+| 430 | Tanzania | 1.03 | 2011 est. |
+| 431 | Uganda | 1.03 | 2011 est. |
+| 432 | United Kingdom | 1.03 | 2011 est. |
+| 433 | Burkina Faso | 1.03 | 2011 est. |
+| 434 | Uruguay | 1.03 | 2011 est. |
+| 435 | Saint Vincent and the Grenadines | 1.03 | 2011 est. |
+| 436 | Rwanda | 1.03 | 2011 est. |
+| 437 | Saudi Arabia | 1.03 | 2011 est. |
+| 438 | Saint Pierre and Miquelon | 1.03 | 2011 est. |
+| 439 | Saint Kitts and Nevis | 1.03 | 2011 est. |
+| 440 | Seychelles | 1.03 | 2011 est. |
+| 441 | Senegal | 1.03 | 2011 est. |
+| 442 | Sierra Leone | 1.03 | 2011 est. |
+| 443 | Somalia | 1.03 | 2011 est. |
+| 444 | Sudan | 1.03 | 2011 est. |
+| 445 | Syria | 1.03 | 2011 est. |
+| 446 | Syria | 1.03 | 2011 est. |
+| 447 | Paraguay | 1.03 | 2011 est. |
+| 448 | Papua New Guinea | 1.03 | 2011 est. |
+| 449 | Guinea-Bissau | 1.03 | 2011 est. |
+| 450 | Mali | 1.03 | 2011 est. |
+| 451 | Morocco | 1.03 | 2011 est. |
+| 452 | Mauritania | 1.03 | 2011 est. |
+| 453 | Malta | 1.03 | 2011 est. |
+| 454 | Niger | 1.03 | 2011 est. |
+| 455 | Norway | 1.03 | 2011 est. |
+| 456 | Korea, North | 1.03 | 2011 est. |
+| 457 | Liberia | 1.03 | 2011 est. |
+| 458 | Liberia | 1.03 | 2011 est. |
+| 459 | Lesotho | 1.03 | 2011 est. |
+| 460 | Madagascar | 1.03 | 2011 est. |
+| 461 | Iceland | 1.03 | 2011 est. |
+| 462 | Israel | 1.03 | 2011 est. |
+| 463 | Italy | 1.03 | 2011 est. |
+| 464 | Cote d'Ivoire | 1.03 | 2011 est. |
+| 465 | Cote d'Ivoire | 1.03 | 2011 est. |
+| 466 | Iraq | 1.03 | 2011 est. |
+| 467 | Iraq | 1.03 | 2011 est. |
+| 468 | Jamaica | 1.03 | 2011 est. |
+| 469 | Jordan | 1.03 | 2011 est. |
+| 470 | Micronesia, Federated States of | 1.03 | 2011 est. |
+| 471 | Gambia, The | 1.03 | 2011 est. |
+| 472 | Gabon | 1.03 | 2011 est. |
+| 473 | Ghana | 1.03 | 2011 est. |
+| 474 | Guernsey | 1.03 | 2011 est. |
+| 475 | Greenland | 1.03 | 2011 est. |
+| 476 | Guinea | 1.03 | 2011 est. |
+| 477 | Comoros | 1.03 | 2011 est. |
+| 478 | Central African Republic | 1.03 | 2011 est. |
+| 479 | Cape Verde | 1.03 | 2011 est. |
+| 480 | Djibouti | 1.03 | 2011 est. |
+| 481 | Dominican Republic | 1.03 | 2011 est. |
+| 482 | Egypt | 1.03 | 2011 est. |
+| 483 | Egypt | 1.03 | 2011 est. |
+| 484 | Equatorial Guinea | 1.03 | 2011 est. |
+| 485 | Equatorial Guinea | 1.03 | 2011 est. |
+| 486 | Eritrea | 1.03 | 2011 est. |
+| 487 | Ethiopia | 1.03 | 2011 est. |
+| 488 | Bahamas, The | 1.03 | 2011 est. |
+| 489 | Bahamas, The | 1.03 | 2011 est. |
+| 490 | Belize | 1.03 | 2011 est. |
+| 491 | Burundi | 1.03 | 2011 est. |
+| 492 | Chad | 1.03 | 2011 est. |
+| 493 | Congo, Republic of the | 1.03 | 2011 est. |
+| 494 | Congo, Democratic Republic of the | 1.03 | 2011 est. |
+| 495 | Cameroon | 1.03 | 2011 est. |
+| 496 | Antigua and Barbuda | 1.03 | 2011 est. |
+| 497 | Angola | 1.03 | 2011 est. |
+| 498 | American Samoa | 1.03 | 2011 est. |
+| 499 | Australia | 1.03 | 2011 est. |
+| 500 | Botswana | 1.03 | 2011 est. |
+| 501 | Bahrain | 1.03 | 2011 est. |
+| 502 | Trinidad and Tobago | 1.03 | 2011 est. |
+| 503 | Saint Barthelemy | 1.03 | 2011 est. |
+| 504 | Aruba | 1.02 | 2011 est. |
+| 505 | Zimbabwe | 1.02 | 2011 est. |
+| 506 | Trinidad and Tobago | 1.02 | 2011 est. |
+| 507 | Turkey | 1.02 | 2011 est. |
+| 508 | Turkey | 1.02 | 2011 est. |
+| 509 | Taiwan | 1.02 | 2011 est. |
+| 510 | Taiwan | 1.02 | 2011 est. |
+| 511 | Turkmenistan | 1.02 | 2011 est. |
+| 512 | Saint Vincent and the Grenadines | 1.02 | 2011 est. |
+| 513 | Saint Kitts and Nevis | 1.02 | 2011 est. |
+| 514 | South Africa | 1.02 | 2011 est. |
+| 515 | South Africa | 1.02 | 2011 est. |
+| 516 | Saint Helena, Ascension, and Tristan da Cunha | 1.02 | 2011 est. |
+| 517 | Slovenia | 1.02 | 2011 est. |
+| 518 | Sweden | 1.02 | 2011 est. |
+| 519 | Switzerland | 1.02 | 2011 est. |
+| 520 | Panama | 1.02 | 2011 est. |
+| 521 | Panama | 1.02 | 2011 est. |
+| 522 | Macedonia | 1.02 | 2011 est. |
+| 523 | Niger | 1.02 | 2011 est. |
+| 524 | Netherlands | 1.02 | 2011 est. |
+| 525 | Kenya | 1.02 | 2011 est. |
+| 526 | Haiti | 1.02 | 2011 est. |
+| 527 | Iceland | 1.02 | 2011 est. |
+| 528 | Iran | 1.02 | 2011 est. |
+| 529 | Iran | 1.02 | 2011 est. |
+| 530 | Cote d'Ivoire | 1.02 | 2011 est. |
+| 531 | Japan | 1.02 | 2011 est. |
+| 532 | Finland | 1.02 | 2011 est. |
+| 533 | French Polynesia | 1.02 | 2011 est. |
+| 534 | Ghana | 1.02 | 2011 est. |
+| 535 | Gibraltar | 1.02 | 2011 est. |
+| 536 | Grenada | 1.02 | 2011 est. |
+| 537 | Guinea | 1.02 | 2011 est. |
+| 538 | Cameroon | 1.02 | 2011 est. |
+| 539 | Dominica | 1.02 | 2011 est. |
+| 540 | Belgium | 1.02 | 2011 est. |
+| 541 | Belize | 1.02 | 2011 est. |
+| 542 | Bosnia and Herzegovina | 1.02 | 2011 est. |
+| 543 | Solomon Islands | 1.02 | 2011 est. |
+| 544 | Solomon Islands | 1.02 | 2011 est. |
+| 545 | Canada | 1.02 | 2011 est. |
+| 546 | Cambodia | 1.02 | 2011 est. |
+| 547 | Algeria | 1.02 | 2011 est. |
+| 548 | Angola | 1.02 | 2011 est. |
+| 549 | Angola | 1.02 | 2011 est. |
+| 550 | American Samoa | 1.02 | 2011 est. |
+| 551 | Bahrain | 1.02 | 2011 est. |
+| 552 | Swaziland | 1.02 | 2011 est. |
+| 553 | Western Sahara | 1.02 | 2011 est. |
+| 554 | Botswana | 1.02 | 2011 est. |
+| 555 | Namibia | 1.02 | 2011 est. |
+| 556 | Wallis and Futuna | 1.02 | 2011 est. |
+| 557 | Mozambique | 1.02 | 2011 est. |
+| 558 | Cayman Islands | 1.02 | 2011 est. |
+| 559 | Bermuda | 1.02 | 2011 est. |
+| 560 | Malawi | 1.02 | 2011 est. |
+| 561 | Barbados | 1.01 | 2011 est. |
+| 562 | Haiti | 1.01 | 2011 est. |
+| 563 | Botswana | 1.01 | 2011 est. |
+| 564 | Bermuda | 1.01 | 2011 est. |
+| 565 | Namibia | 1.01 | 2011 est. |
+| 566 | Wallis and Futuna | 1.01 | 2011 est. |
+| 567 | Zambia | 1.01 | 2011 est. |
+| 568 | Zambia | 1.01 | 2011 est. |
+| 569 | Tunisia | 1.01 | 2011 est. |
+| 570 | Tunisia | 1.01 | 2011 est. |
+| 571 | Tanzania | 1.01 | 2011 est. |
+| 572 | Uganda | 1.01 | 2011 est. |
+| 573 | Uganda | 1.01 | 2011 est. |
+| 574 | Uganda | 1.01 | 2011 est. |
+| 575 | Burkina Faso | 1.01 | 2011 est. |
+| 576 | Rwanda | 1.01 | 2011 est. |
+| 577 | Senegal | 1.01 | 2011 est. |
+| 578 | Spain | 1.01 | 2011 est. |
+| 579 | Sudan | 1.01 | 2011 est. |
+| 580 | Paraguay | 1.01 | 2011 est. |
+| 581 | Paraguay | 1.01 | 2011 est. |
+| 582 | Peru | 1.01 | 2011 est. |
+| 583 | Peru | 1.01 | 2011 est. |
+| 584 | Mali | 1.01 | 2011 est. |
+| 585 | Mauritania | 1.01 | 2011 est. |
+| 586 | Malaysia | 1.01 | 2011 est. |
+| 587 | Malaysia | 1.01 | 2011 est. |
+| 588 | Mozambique | 1.01 | 2011 est. |
+| 589 | New Caledonia | 1.01 | 2011 est. |
+| 590 | Kenya | 1.01 | 2011 est. |
+| 591 | Kenya | 1.01 | 2011 est. |
+| 592 | Kenya | 1.01 | 2011 est. |
+| 593 | Laos | 1.01 | 2011 est. |
+| 594 | Liberia | 1.01 | 2011 est. |
+| 595 | Lesotho | 1.01 | 2011 est. |
+| 596 | Luxembourg | 1.01 | 2011 est. |
+| 597 | Madagascar | 1.01 | 2011 est. |
+| 598 | Montserrat | 1.01 | 2011 est. |
+| 599 | Honduras | 1.01 | 2011 est. |
+| 600 | Honduras | 1.01 | 2011 est. |
+| 601 | Indonesia | 1.01 | 2011 est. |
+| 602 | Isle of Man | 1.01 | 2011 est. |
+| 603 | Czech Republic | 1.01 | 2011 est. |
+| 604 | Gambia, The | 1.01 | 2011 est. |
+| 605 | Gabon | 1.01 | 2011 est. |
+| 606 | Gibraltar | 1.01 | 2011 est. |
+| 607 | Cameroon | 1.01 | 2011 est. |
+| 608 | Cameroon | 1.01 | 2011 est. |
+| 609 | Comoros | 1.01 | 2011 est. |
+| 610 | Costa Rica | 1.01 | 2011 est. |
+| 611 | Costa Rica | 1.01 | 2011 est. |
+| 612 | Central African Republic | 1.01 | 2011 est. |
+| 613 | Cape Verde | 1.01 | 2011 est. |
+| 614 | Denmark | 1.01 | 2011 est. |
+| 615 | Eritrea | 1.01 | 2011 est. |
+| 616 | Bangladesh | 1.01 | 2011 est. |
+| 617 | Burundi | 1.01 | 2011 est. |
+| 618 | Congo, Republic of the | 1.01 | 2011 est. |
+| 619 | Congo, Democratic Republic of the | 1.01 | 2011 est. |
+| 620 | Cayman Islands | 1.01 | 2011 est. |
+| 621 | Aruba | 1.01 | 2011 est. |
+| 622 | Algeria | 1.01 | 2011 est. |
+| 623 | Austria | 1.01 | 2011 est. |
+| 624 | Zambia | 1.00 | 2011 est. |
+| 625 | Barbados | 1.00 | 2011 est. |
+| 626 | Sao Tome and Principe | 1.00 | 2011 est. |
+| 627 | United States | 1.00 | 2011 est. |
+| 628 | Burkina Faso | 1.00 | 2011 est. |
+| 629 | Saint Kitts and Nevis | 1.00 | 2011 est. |
+| 630 | South Africa | 1.00 | 2011 est. |
+| 631 | Somalia | 1.00 | 2011 est. |
+| 632 | Somalia | 1.00 | 2011 est. |
+| 633 | Somalia | 1.00 | 2011 est. |
+| 634 | Nauru | 1.00 | 2011 est. |
+| 635 | Nicaragua | 1.00 | 2011 est. |
+| 636 | Nicaragua | 1.00 | 2011 est. |
+| 637 | New Zealand | 1.00 | 2011 est. |
+| 638 | Portugal | 1.00 | 2011 est. |
+| 639 | Guinea-Bissau | 1.00 | 2011 est. |
+| 640 | Serbia | 1.00 | 2011 est. |
+| 641 | Philippines | 1.00 | 2011 est. |
+| 642 | Philippines | 1.00 | 2011 est. |
+| 643 | Malawi | 1.00 | 2011 est. |
+| 644 | Malawi | 1.00 | 2011 est. |
+| 645 | Macedonia | 1.00 | 2011 est. |
+| 646 | Monaco | 1.00 | 2011 est. |
+| 647 | New Caledonia | 1.00 | 2011 est. |
+| 648 | Niger | 1.00 | 2011 est. |
+| 649 | Korea, South | 1.00 | 2011 est. |
+| 650 | Liberia | 1.00 | 2011 est. |
+| 651 | Liechtenstein | 1.00 | 2011 est. |
+| 652 | Mongolia | 1.00 | 2011 est. |
+| 653 | Mongolia | 1.00 | 2011 est. |
+| 654 | Guyana | 1.00 | 2011 est. |
+| 655 | Guyana | 1.00 | 2011 est. |
+| 656 | Iceland | 1.00 | 2011 est. |
+| 657 | Indonesia | 1.00 | 2011 est. |
+| 658 | Israel | 1.00 | 2011 est. |
+| 659 | Jersey | 1.00 | 2011 est. |
+| 660 | Fiji | 1.00 | 2011 est. |
+| 661 | Fiji | 1.00 | 2011 est. |
+| 662 | France | 1.00 | 2011 est. |
+| 663 | Gambia, The | 1.00 | 2011 est. |
+| 664 | Gabon | 1.00 | 2011 est. |
+| 665 | Ghana | 1.00 | 2011 est. |
+| 666 | Ghana | 1.00 | 2011 est. |
+| 667 | Greece | 1.00 | 2011 est. |
+| 668 | Guinea | 1.00 | 2011 est. |
+| 669 | Guinea | 1.00 | 2011 est. |
+| 670 | Cuba | 1.00 | 2011 est. |
+| 671 | Djibouti | 1.00 | 2011 est. |
+| 672 | European Union | 1.00 | 2011 est. |
+| 673 | Ireland | 1.00 | 2011 est. |
+| 674 | Ethiopia | 1.00 | 2011 est. |
+| 675 | Benin | 1.00 | 2011 est. |
+| 676 | Brunei | 1.00 | 2011 est. |
+| 677 | Chile | 1.00 | 2011 est. |
+| 678 | Argentina | 1.00 | 2011 est. |
+| 679 | Australia | 1.00 | 2011 est. |
+| 680 | Togo | 1.00 | 2011 est. |
+| 681 | Andorra | 0.99 | 2011 est. |
+| 682 | Burma | 0.99 | 2011 est. |
+| 683 | Burma | 0.99 | 2011 est. |
+| 684 | Benin | 0.99 | 2011 est. |
+| 685 | Brunei | 0.99 | 2011 est. |
+| 686 | Congo, Republic of the | 0.99 | 2011 est. |
+| 687 | Congo, Republic of the | 0.99 | 2011 est. |
+| 688 | Congo, Democratic Republic of the | 0.99 | 2011 est. |
+| 689 | Congo, Democratic Republic of the | 0.99 | 2011 est. |
+| 690 | Cuba | 0.99 | 2011 est. |
+| 691 | Ecuador | 0.99 | 2011 est. |
+| 692 | Ireland | 0.99 | 2011 est. |
+| 693 | Equatorial Guinea | 0.99 | 2011 est. |
+| 694 | Micronesia, Federated States of | 0.99 | 2011 est. |
+| 695 | Micronesia, Federated States of | 0.99 | 2011 est. |
+| 696 | Gabon | 0.99 | 2011 est. |
+| 697 | Haiti | 0.99 | 2011 est. |
+| 698 | Croatia | 0.99 | 2011 est. |
+| 699 | Cote d'Ivoire | 0.99 | 2011 est. |
+| 700 | Slovakia | 0.99 | 2011 est. |
+| 701 | Madagascar | 0.99 | 2011 est. |
+| 702 | Madagascar | 0.99 | 2011 est. |
+| 703 | Malawi | 0.99 | 2011 est. |
+| 704 | Montenegro | 0.99 | 2011 est. |
+| 705 | Mauritius | 0.99 | 2011 est. |
+| 706 | Malta | 0.99 | 2011 est. |
+| 707 | Niger | 0.99 | 2011 est. |
+| 708 | Nauru | 0.99 | 2011 est. |
+| 709 | Suriname | 0.99 | 2011 est. |
+| 710 | Suriname | 0.99 | 2011 est. |
+| 711 | New Zealand | 0.99 | 2011 est. |
+| 712 | Poland | 0.99 | 2011 est. |
+| 713 | Saint Martin | 0.99 | 2011 est. |
+| 714 | Romania | 0.99 | 2011 est. |
+| 715 | Rwanda | 0.99 | 2011 est. |
+| 716 | Rwanda | 0.99 | 2011 est. |
+| 717 | Saint Kitts and Nevis | 0.99 | 2011 est. |
+| 718 | South Africa | 0.99 | 2011 est. |
+| 719 | Senegal | 0.99 | 2011 est. |
+| 720 | Tajikistan | 0.99 | 2011 est. |
+| 721 | Tonga | 0.99 | 2011 est. |
+| 722 | Tonga | 0.99 | 2011 est. |
+| 723 | Burkina Faso | 0.99 | 2011 est. |
+| 724 | Uruguay | 0.99 | 2011 est. |
+| 725 | Uzbekistan | 0.99 | 2011 est. |
+| 726 | Uzbekistan | 0.99 | 2011 est. |
+| 727 | Vietnam | 0.99 | 2011 est. |
+| 728 | Vietnam | 0.99 | 2011 est. |
+| 729 | Swaziland | 0.99 | 2011 est. |
+| 730 | Bolivia | 0.98 | 2011 est. |
+| 731 | Swaziland | 0.98 | 2011 est. |
+| 732 | Brazil | 0.98 | 2011 est. |
+| 733 | Burundi | 0.98 | 2011 est. |
+| 734 | Canada | 0.98 | 2011 est. |
+| 735 | Chile | 0.98 | 2011 est. |
+| 736 | Comoros | 0.98 | 2011 est. |
+| 737 | Comoros | 0.98 | 2011 est. |
+| 738 | Colombia | 0.98 | 2011 est. |
+| 739 | Central African Republic | 0.98 | 2011 est. |
+| 740 | Central African Republic | 0.98 | 2011 est. |
+| 741 | Denmark | 0.98 | 2011 est. |
+| 742 | Eritrea | 0.98 | 2011 est. |
+| 743 | Gambia, The | 0.98 | 2011 est. |
+| 744 | Gambia, The | 0.98 | 2011 est. |
+| 745 | Guernsey | 0.98 | 2011 est. |
+| 746 | Haiti | 0.98 | 2011 est. |
+| 747 | Hungary | 0.98 | 2011 est. |
+| 748 | Jamaica | 0.98 | 2011 est. |
+| 749 | Korea, North | 0.98 | 2011 est. |
+| 750 | Laos | 0.98 | 2011 est. |
+| 751 | Laos | 0.98 | 2011 est. |
+| 752 | Liberia | 0.98 | 2011 est. |
+| 753 | Liechtenstein | 0.98 | 2011 est. |
+| 754 | Mali | 0.98 | 2011 est. |
+| 755 | Maldives | 0.98 | 2011 est. |
+| 756 | Mozambique | 0.98 | 2011 est. |
+| 757 | Netherlands | 0.98 | 2011 est. |
+| 758 | Norway | 0.98 | 2011 est. |
+| 759 | Saint Pierre and Miquelon | 0.98 | 2011 est. |
+| 760 | Senegal | 0.98 | 2011 est. |
+| 761 | Sint Maarten | 0.98 | 2010 |
+| 762 | Sierra Leone | 0.98 | 2011 est. |
+| 763 | Sweden | 0.98 | 2011 est. |
+| 764 | Saint Barthelemy | 0.98 | 2011 est. |
+| 765 | Thailand | 0.98 | 2011 est. |
+| 766 | Thailand | 0.98 | 2011 est. |
+| 767 | Tajikistan | 0.98 | 2011 est. |
+| 768 | Turks and Caicos Islands | 0.98 | 2011 est. |
+| 769 | Turkmenistan | 0.98 | 2011 est. |
+| 770 | Turkmenistan | 0.98 | 2011 est. |
+| 771 | Tanzania | 0.98 | 2011 est. |
+| 772 | Tanzania | 0.98 | 2011 est. |
+| 773 | United Kingdom | 0.98 | 2011 est. |
+| 774 | Venezuela | 0.98 | 2011 est. |
+| 775 | Western Sahara | 0.98 | 2011 est. |
+| 776 | Brazil | 0.98 | 2011 est. |
+| 777 | Azerbaijan | 0.97 | 2011 est. |
+| 778 | Western Sahara | 0.97 | 2011 est. |
+| 779 | Argentina | 0.97 | 2011 est. |
+| 780 | Barbados | 0.97 | 2011 est. |
+| 781 | Bermuda | 0.97 | 2011 est. |
+| 782 | Bahamas, The | 0.97 | 2011 est. |
+| 783 | Bosnia and Herzegovina | 0.97 | 2011 est. |
+| 784 | Bulgaria | 0.97 | 2011 est. |
+| 785 | Burundi | 0.97 | 2011 est. |
+| 786 | Sri Lanka | 0.97 | 2011 est. |
+| 787 | Colombia | 0.97 | 2011 est. |
+| 788 | Ecuador | 0.97 | 2011 est. |
+| 789 | Equatorial Guinea | 0.97 | 2011 est. |
+| 790 | Ethiopia | 0.97 | 2011 est. |
+| 791 | Germany | 0.97 | 2011 est. |
+| 792 | Guatemala | 0.97 | 2011 est. |
+| 793 | Jersey | 0.97 | 2011 est. |
+| 794 | Jamaica | 0.97 | 2011 est. |
+| 795 | Jordan | 0.97 | 2011 est. |
+| 796 | Kiribati | 0.97 | 2011 est. |
+| 797 | Liechtenstein | 0.97 | 2011 est. |
+| 798 | Lesotho | 0.97 | 2011 est. |
+| 799 | Luxembourg | 0.97 | 2011 est. |
+| 800 | Morocco | 0.97 | 2011 est. |
+| 801 | Mauritius | 0.97 | 2011 est. |
+| 802 | Nauru | 0.97 | 2011 est. |
+| 803 | Switzerland | 0.97 | 2011 est. |
+| 804 | Togo | 0.97 | 2011 est. |
+| 805 | Sao Tome and Principe | 0.97 | 2011 est. |
+| 806 | Tuvalu | 0.97 | 2011 est. |
+| 807 | United States | 0.97 | 2011 est. |
+| 808 | Venezuela | 0.97 | 2011 est. |
+| 809 | Azerbaijan | 0.97 | 2011 est. |
+| 810 | Belgium | 0.96 | 2011 est. |
+| 811 | Togo | 0.96 | 2011 est. |
+| 812 | Bolivia | 0.96 | 2011 est. |
+| 813 | Cambodia | 0.96 | 2011 est. |
+| 814 | Sri Lanka | 0.96 | 2011 est. |
+| 815 | Cayman Islands | 0.96 | 2011 est. |
+| 816 | Cook Islands | 0.96 | 2011 est. |
+| 817 | Eritrea | 0.96 | 2011 est. |
+| 818 | Ethiopia | 0.96 | 2011 est. |
+| 819 | Finland | 0.96 | 2011 est. |
+| 820 | France | 0.96 | 2011 est. |
+| 821 | Greece | 0.96 | 2011 est. |
+| 822 | Isle of Man | 0.96 | 2011 est. |
+| 823 | Italy | 0.96 | 2011 est. |
+| 824 | Kyrgyzstan | 0.96 | 2011 est. |
+| 825 | Kyrgyzstan | 0.96 | 2011 est. |
+| 826 | Lebanon | 0.96 | 2011 est. |
+| 827 | Lithuania | 0.96 | 2011 est. |
+| 828 | Lesotho | 0.96 | 2011 est. |
+| 829 | Libya | 0.96 | 2011 est. |
+| 830 | Morocco | 0.96 | 2011 est. |
+| 831 | Mexico | 0.96 | 2011 est. |
+| 832 | Mozambique | 0.96 | 2011 est. |
+| 833 | Nepal | 0.96 | 2011 est. |
+| 834 | Sint Maarten | 0.96 | 2010 |
+| 835 | Spain | 0.96 | 2011 est. |
+| 836 | Bahamas, The | 0.96 | 2011 est. |
+| 837 | Austria | 0.95 | 2011 est. |
+| 838 | Uruguay | 0.95 | 2011 est. |
+| 839 | Cayman Islands | 0.95 | 2011 est. |
+| 840 | European Union | 0.95 | 2011 est. |
+| 841 | Czech Republic | 0.95 | 2011 est. |
+| 842 | Guernsey | 0.95 | 2011 est. |
+| 843 | Hong Kong | 0.95 | 2011 est. |
+| 844 | Japan | 0.95 | 2011 est. |
+| 845 | Korea, North | 0.95 | 2011 est. |
+| 846 | Kiribati | 0.95 | 2011 est. |
+| 847 | Kazakhstan | 0.95 | 2011 est. |
+| 848 | Lebanon | 0.95 | 2011 est. |
+| 849 | Latvia | 0.95 | 2011 est. |
+| 850 | Lesotho | 0.95 | 2011 est. |
+| 851 | Montenegro | 0.95 | 2011 est. |
+| 852 | Mali | 0.95 | 2011 est. |
+| 853 | Monaco | 0.95 | 2011 est. |
+| 854 | Portugal | 0.95 | 2011 est. |
+| 855 | Guinea-Bissau | 0.95 | 2011 est. |
+| 856 | Serbia | 0.95 | 2011 est. |
+| 857 | Romania | 0.95 | 2011 est. |
+| 858 | Slovenia | 0.95 | 2011 est. |
+| 859 | Singapore | 0.95 | 2011 est. |
+| 860 | Singapore | 0.95 | 2011 est. |
+| 861 | Saint Lucia | 0.95 | 2011 est. |
+| 862 | Tuvalu | 0.95 | 2011 est. |
+| 863 | Cambodia | 0.95 | 2011 est. |
+| 864 | Anguilla | 0.94 | 2011 est. |
+| 865 | Saint Lucia | 0.94 | 2011 est. |
+| 866 | Bermuda | 0.94 | 2011 est. |
+| 867 | Belarus | 0.94 | 2011 est. |
+| 868 | Brunei | 0.94 | 2011 est. |
+| 869 | Cape Verde | 0.94 | 2011 est. |
+| 870 | Cape Verde | 0.94 | 2011 est. |
+| 871 | Guatemala | 0.94 | 2011 est. |
+| 872 | Hong Kong | 0.94 | 2011 est. |
+| 873 | Slovakia | 0.94 | 2011 est. |
+| 874 | Liechtenstein | 0.94 | 2011 est. |
+| 875 | Moldova | 0.94 | 2011 est. |
+| 876 | Mexico | 0.94 | 2011 est. |
+| 877 | Nigeria | 0.94 | 2011 est. |
+| 878 | Poland | 0.94 | 2011 est. |
+| 879 | Marshall Islands | 0.94 | 2011 est. |
+| 880 | Saint Helena, Ascension, and Tristan da Cunha | 0.94 | 2011 est. |
+| 881 | Sierra Leone | 0.94 | 2011 est. |
+| 882 | San Marino | 0.94 | 2011 est. |
+| 883 | San Marino | 0.94 | 2011 est. |
+| 884 | Barbados | 0.94 | 2011 est. |
+| 885 | Anguilla | 0.93 | 2011 est. |
+| 886 | Puerto Rico | 0.93 | 2011 est. |
+| 887 | Bangladesh | 0.93 | 2011 est. |
+| 888 | China | 0.93 | 2011 est. |
+| 889 | Northern Mariana Islands | 0.93 | 2011 est. |
+| 890 | Ecuador | 0.93 | 2011 est. |
+| 891 | El Salvador | 0.93 | 2011 est. |
+| 892 | Georgia | 0.93 | 2011 est. |
+| 893 | Gibraltar | 0.93 | 2011 est. |
+| 894 | Croatia | 0.93 | 2011 est. |
+| 895 | Kazakhstan | 0.93 | 2011 est. |
+| 896 | Mauritania | 0.93 | 2011 est. |
+| 897 | Guinea-Bissau | 0.93 | 2011 est. |
+| 898 | Saint Martin | 0.93 | 2011 est. |
+| 899 | Bangladesh | 0.93 | 2011 est. |
+| 900 | Aruba | 0.92 | 2011 est. |
+| 901 | Ukraine | 0.92 | 2011 est. |
+| 902 | Bulgaria | 0.92 | 2011 est. |
+| 903 | Chad | 0.92 | 2011 est. |
+| 904 | Northern Mariana Islands | 0.92 | 2011 est. |
+| 905 | Macau | 0.92 | 2011 est. |
+| 906 | Mali | 0.92 | 2011 est. |
+| 907 | Nepal | 0.92 | 2011 est. |
+| 908 | Pakistan | 0.92 | 2011 est. |
+| 909 | Puerto Rico | 0.92 | 2011 est. |
+| 910 | Russia | 0.92 | 2011 est. |
+| 911 | Sint Maarten | 0.92 | 2010 |
+| 912 | Sint Maarten | 0.92 | 2010 |
+| 913 | Sierra Leone | 0.92 | 2011 est. |
+| 914 | Taiwan | 0.92 | 2011 est. |
+| 915 | Afghanistan | 0.92 | 2011 est. |
+| 916 | Belize | 0.91 | 2011 est. |
+| 917 | Estonia | 0.91 | 2011 est. |
+| 918 | Georgia | 0.91 | 2011 est. |
+| 919 | Hungary | 0.91 | 2011 est. |
+| 920 | India | 0.91 | 2011 est. |
+| 921 | Zimbabwe | 0.91 | 2011 est. |
+| 922 | Moldova | 0.91 | 2011 est. |
+| 923 | Montserrat | 0.91 | 2011 est. |
+| 924 | Saint Martin | 0.91 | 2011 est. |
+| 925 | Yemen | 0.91 | 2011 est. |
+| 926 | Iran | 0.91 | 2011 est. |
+| 927 | Aruba | 0.90 | 2011 est. |
+| 928 | Antigua and Barbuda | 0.90 | 2011 est. |
+| 929 | Virgin Islands | 0.90 | 2011 est. |
+| 930 | Faroe Islands | 0.90 | 2011 est. |
+| 931 | Timor-Leste | 0.90 | 2011 est. |
+| 932 | Anguilla | 0.90 | 2011 est. |
+| 933 | Armenia | 0.89 | 2011 est. |
+| 934 | Bangladesh | 0.89 | 2011 est. |
+| 935 | Solomon Islands | 0.89 | 2011 est. |
+| 936 | Peru | 0.89 | 2011 est. |
+| 937 | El Salvador | 0.89 | 2011 est. |
+| 938 | Lithuania | 0.89 | 2011 est. |
+| 939 | Mauritania | 0.89 | 2011 est. |
+| 940 | Cayman Islands | 0.89 | 2011 est. |
+| 941 | Armenia | 0.88 | 2011 est. |
+| 942 | American Samoa | 0.88 | 2011 est. |
+| 943 | Hong Kong | 0.88 | 2011 est. |
+| 944 | Nepal | 0.88 | 2011 est. |
+| 945 | Macau | 0.88 | 2011 est. |
+| 946 | Macau | 0.88 | 2011 est. |
+| 947 | Iraq | 0.88 | 2011 est. |
+| 948 | Antigua and Barbuda | 0.87 | 2011 est. |
+| 949 | Albania | 0.87 | 2011 est. |
+| 950 | Belarus | 0.87 | 2011 est. |
+| 951 | Virgin Islands | 0.87 | 2011 est. |
+| 952 | Panama | 0.87 | 2011 est. |
+| 953 | Senegal | 0.87 | 2011 est. |
+| 954 | Lebanon | 0.87 | 2011 est. |
+| 955 | Algeria | 0.86 | 2011 est. |
+| 956 | Sri Lanka | 0.86 | 2011 est. |
+| 957 | Costa Rica | 0.86 | 2011 est. |
+| 958 | Djibouti | 0.86 | 2011 est. |
+| 959 | Dominican Republic | 0.86 | 2011 est. |
+| 960 | Tunisia | 0.86 | 2011 est. |
+| 961 | Latvia | 0.86 | 2011 est. |
+| 962 | New Caledonia | 0.86 | 2011 est. |
+| 963 | Paraguay | 0.86 | 2011 est. |
+| 964 | Syria | 0.86 | 2011 est. |
+| 965 | Sao Tome and Principe | 0.86 | 2011 est. |
+| 966 | Guatemala | 0.86 | 2011 est. |
+| 967 | Curacao | 0.85 | 2010 |
+| 968 | Chad | 0.85 | 2011 est. |
+| 969 | Cameroon | 0.85 | 2011 est. |
+| 970 | Wallis and Futuna | 0.85 | 2011 est. |
+| 971 | Russia | 0.85 | 2011 est. |
+| 972 | Ukraine | 0.85 | 2011 est. |
+| 973 | Northern Mariana Islands | 0.85 | 2011 est. |
+| 974 | Australia | 0.84 | 2011 est. |
+| 975 | Estonia | 0.84 | 2011 est. |
+| 976 | Turkey | 0.84 | 2011 est. |
+| 977 | New Zealand | 0.84 | 2011 est. |
+| 978 | Ghana | 0.84 | 2011 est. |
+| 979 | Nauru | 0.84 | 2011 est. |
+| 980 | Cuba | 0.83 | 2011 est. |
+| 981 | Egypt | 0.83 | 2011 est. |
+| 982 | Iceland | 0.83 | 2011 est. |
+| 983 | Zimbabwe | 0.83 | 2011 est. |
+| 984 | Morocco | 0.83 | 2011 est. |
+| 985 | Saint Vincent and the Grenadines | 0.83 | 2011 est. |
+| 986 | Virgin Islands | 0.83 | 2011 est. |
+| 987 | Comoros | 0.83 | 2011 est. |
+| 988 | Kenya | 0.83 | 2011 est. |
+| 989 | Curacao | 0.82 | 2010 |
+| 990 | Eritrea | 0.82 | 2011 est. |
+| 991 | Grenada | 0.82 | 2011 est. |
+| 992 | Thailand | 0.82 | 2011 est. |
+| 993 | Saint Martin | 0.82 | 2011 est. |
+| 994 | Saint Lucia | 0.82 | 2011 est. |
+| 995 | Mexico | 0.82 | 2011 est. |
+| 996 | Djibouti | 0.81 | 2011 est. |
+| 997 | Ireland | 0.81 | 2011 est. |
+| 998 | El Salvador | 0.81 | 2011 est. |
+| 999 | Fiji | 0.81 | 2011 est. |
+| 1000 | Singapore | 0.81 | 2011 est. |
+| 1001 | Jamaica | 0.81 | 2011 est. |
+| 1002 | Sint Maarten | 0.81 | 2010 |
+| 1003 | Sierra Leone | 0.81 | 2011 est. |
+| 1004 | Honduras | 0.81 | 2011 est. |
+| 1005 | Djibouti | 0.80 | 2011 est. |
+| 1006 | Jersey | 0.80 | 2011 est. |
+| 1007 | Madagascar | 0.80 | 2011 est. |
+| 1008 | Monaco | 0.80 | 2011 est. |
+| 1009 | Samoa | 0.80 | 2011 est. |
+| 1010 | San Marino | 0.80 | 2011 est. |
+| 1011 | Sweden | 0.80 | 2011 est. |
+| 1012 | Namibia | 0.80 | 2011 est. |
+| 1013 | Niger | 0.80 | 2011 est. |
+| 1014 | Angola | 0.79 | 2011 est. |
+| 1015 | Bolivia | 0.79 | 2011 est. |
+| 1016 | Venezuela | 0.79 | 2011 est. |
+| 1017 | Malaysia | 0.79 | 2011 est. |
+| 1018 | Indonesia | 0.79 | 2011 est. |
+| 1019 | Canada | 0.78 | 2011 est. |
+| 1020 | Denmark | 0.78 | 2011 est. |
+| 1021 | Equatorial Guinea | 0.78 | 2011 est. |
+| 1022 | Greece | 0.78 | 2011 est. |
+| 1023 | Western Sahara | 0.78 | 2011 est. |
+| 1024 | Israel | 0.78 | 2011 est. |
+| 1025 | Nicaragua | 0.78 | 2011 est. |
+| 1026 | Saint Kitts and Nevis | 0.78 | 2011 est. |
+| 1027 | Guinea | 0.78 | 2011 est. |
+| 1028 | Burma | 0.77 | 2011 est. |
+| 1029 | Cyprus | 0.77 | 2011 est. |
+| 1030 | Guernsey | 0.77 | 2011 est. |
+| 1031 | Tanzania | 0.77 | 2011 est. |
+| 1032 | Mongolia | 0.77 | 2011 est. |
+| 1033 | Malta | 0.77 | 2011 est. |
+| 1034 | Turkmenistan | 0.77 | 2011 est. |
+| 1035 | Liechtenstein | 0.77 | 2011 est. |
+| 1036 | Antigua and Barbuda | 0.76 | 2011 est. |
+| 1037 | Dominica | 0.76 | 2011 est. |
+| 1038 | Malawi | 0.76 | 2011 est. |
+| 1039 | United Kingdom | 0.76 | 2011 est. |
+| 1040 | Netherlands | 0.76 | 2011 est. |
+| 1041 | Norway | 0.76 | 2011 est. |
+| 1042 | Philippines | 0.76 | 2011 est. |
+| 1043 | Macedonia | 0.76 | 2011 est. |
+| 1044 | Ethiopia | 0.75 | 2011 est. |
+| 1045 | Laos | 0.75 | 2011 est. |
+| 1046 | Suriname | 0.75 | 2011 est. |
+| 1047 | Zimbabwe | 0.75 | 2011 est. |
+| 1048 | Trinidad and Tobago | 0.75 | 2011 est. |
+| 1049 | United States | 0.75 | 2011 est. |
+| 1050 | Uzbekistan | 0.75 | 2011 est. |
+| 1051 | Puerto Rico | 0.75 | 2011 est. |
+| 1052 | Colombia | 0.74 | 2011 est. |
+| 1053 | Micronesia, Federated States of | 0.74 | 2011 est. |
+| 1054 | Tajikistan | 0.74 | 2011 est. |
+| 1055 | Kosovo | 0.74 | 2011 est. |
+| 1056 | Mauritania | 0.74 | 2011 est. |
+| 1057 | Japan | 0.74 | 2011 est. |
+| 1058 | Brazil | 0.73 | 2011 est. |
+| 1059 | Tuvalu | 0.73 | 2011 est. |
+| 1060 | European Union | 0.73 | 2011 est. |
+| 1061 | Chad | 0.73 | 2011 est. |
+| 1062 | Chile | 0.72 | 2011 est. |
+| 1063 | France | 0.72 | 2011 est. |
+| 1064 | Gabon | 0.72 | 2011 est. |
+| 1065 | Swaziland | 0.72 | 2011 est. |
+| 1066 | Italy | 0.72 | 2011 est. |
+| 1067 | Spain | 0.72 | 2011 est. |
+| 1068 | Switzerland | 0.72 | 2011 est. |
+| 1069 | Germany | 0.72 | 2011 est. |
+| 1070 | Austria | 0.71 | 2011 est. |
+| 1071 | Bermuda | 0.71 | 2011 est. |
+| 1072 | Belgium | 0.71 | 2011 est. |
+| 1073 | West Bank | 0.71 | 2011 est. |
+| 1074 | Isle of Man | 0.71 | 2011 est. |
+| 1075 | Mozambique | 0.71 | 2011 est. |
+| 1076 | Guyana | 0.71 | 2011 est. |
+| 1077 | Argentina | 0.70 | 2011 est. |
+| 1078 | Congo, Republic of the | 0.70 | 2011 est. |
+| 1079 | Luxembourg | 0.70 | 2011 est. |
+| 1080 | Uganda | 0.70 | 2011 est. |
+| 1081 | Serbia | 0.70 | 2011 est. |
+| 1082 | Somalia | 0.70 | 2011 est. |
+| 1083 | Tonga | 0.70 | 2011 est. |
+| 1084 | Portugal | 0.70 | 2011 est. |
+| 1085 | Bosnia and Herzegovina | 0.69 | 2011 est. |
+| 1086 | Benin | 0.69 | 2011 est. |
+| 1087 | Romania | 0.69 | 2011 est. |
+| 1088 | Finland | 0.69 | 2011 est. |
+| 1089 | Congo, Democratic Republic of the | 0.69 | 2011 est. |
+| 1090 | Botswana | 0.68 | 2011 est. |
+| 1091 | Bulgaria | 0.68 | 2011 est. |
+| 1092 | Zambia | 0.68 | 2011 est. |
+| 1093 | Saint Pierre and Miquelon | 0.68 | 2011 est. |
+| 1094 | South Africa | 0.68 | 2011 est. |
+| 1095 | Gaza Strip | 0.68 | 2011 est. |
+| 1096 | Burundi | 0.67 | 2011 est. |
+| 1097 | Curacao | 0.67 | 2010 |
+| 1098 | Central African Republic | 0.67 | 2011 est. |
+| 1099 | Uruguay | 0.67 | 2011 est. |
+| 1100 | Montenegro | 0.67 | 2011 est. |
+| 1101 | Mauritius | 0.67 | 2011 est. |
+| 1102 | Rwanda | 0.67 | 2011 est. |
+| 1103 | Korea, South | 0.67 | 2011 est. |
+| 1104 | Aruba | 0.66 | 2011 est. |
+| 1105 | Guinea-Bissau | 0.66 | 2011 est. |
+| 1106 | Georgia | 0.66 | 2011 est. |
+| 1107 | Czech Republic | 0.66 | 2011 est. |
+| 1108 | Slovenia | 0.65 | 2011 est. |
+| 1109 | Barbados | 0.64 | 2011 est. |
+| 1110 | Croatia | 0.64 | 2011 est. |
+| 1111 | Burkina Faso | 0.64 | 2011 est. |
+| 1112 | Korea, North | 0.64 | 2011 est. |
+| 1113 | Kiribati | 0.64 | 2011 est. |
+| 1114 | Kyrgyzstan | 0.64 | 2011 est. |
+| 1115 | Togo | 0.63 | 2011 est. |
+| 1116 | Armenia | 0.62 | 2011 est. |
+| 1117 | Bahamas, The | 0.62 | 2011 est. |
+| 1118 | Vietnam | 0.62 | 2011 est. |
+| 1119 | Poland | 0.62 | 2011 est. |
+| 1120 | Haiti | 0.62 | 2011 est. |
+| 1121 | Cape Verde | 0.61 | 2011 est. |
+| 1122 | Cambodia | 0.60 | 2011 est. |
+| 1123 | Seychelles | 0.60 | 2011 est. |
+| 1124 | Slovakia | 0.60 | 2011 est. |
+| 1125 | Moldova | 0.58 | 2011 est. |
+| 1126 | Azerbaijan | 0.58 | 2011 est. |
+| 1127 | Hungary | 0.57 | 2011 est. |
+| 1128 | Lithuania | 0.53 | 2011 est. |
+| 1129 | Kazakhstan | 0.53 | 2011 est. |
+| 1130 | Ukraine | 0.49 | 2011 est. |
+| 1131 | Estonia | 0.49 | 2011 est. |
+| 1132 | Latvia | 0.48 | 2011 est. |
+| 1133 | Belarus | 0.47 | 2011 est. |
+| 1134 | Russia | 0.44 | 2011 est. |
+| 1135 | Palau | 0.43 | 2011 est. |

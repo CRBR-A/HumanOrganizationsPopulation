@@ -1,0 +1,8 @@
+Originally settled by Arawak Indians, Curacao was seized by the Dutch in 1634 along with the neighboring island of Bonaire. Once the center of the Caribbean slave trade, Curacao was hard hit economically by the abolition of slavery in 1863. Its prosperity (and that of neighboring Aruba) was restored in the early 20th century with the construction of the Isla Refineria to service the newly discovered Venezuelan oil fields. In 1954, Curacao and several other Dutch Caribbean possessions were reorganized as the Netherlands Antilles, part of the Kingdom of the Netherlands. In referenda in 2005 and 2009, the citizens of Curacao voted to become a self-governing country within the Kingdom of the Netherlands. The change in status became effective in October 2010 with the dissolution of the Netherlands Antilles.  
+
+---
+country: CURACAO
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/CURACAO/>
+license: public domain (U.S.)
+...

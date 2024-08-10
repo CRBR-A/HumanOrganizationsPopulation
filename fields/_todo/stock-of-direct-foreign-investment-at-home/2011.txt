@@ -1,0 +1,97 @@
+CIA - The World Factbook --  Stock of direct foreign investment - at home   
+
+This entry gives the cumulative US dollar value of all investments in the home country made directly by residents - primarily companies - of other countries as of the end of the time period indicated. Direct investment excludes investment through purchase of shares.
+
+| Rank | country | Stock of direct foreign investment - at home | Date of Information |
+| --- | --- | --- | --- |
+| 1 | United States | $ 2,674,000,000,000 | 31 December 2010 est. |
+| 2 | France | $ 1,161,000,000,000 | 31 December 2010 est. |
+| 3 | Hong Kong | $ 1,098,000,000,000 | 31 December 2010 est. |
+| 4 | United Kingdom | $ 1,076,000,000,000 | 31 December 2010 est. |
+| 5 | Germany | $ 956,600,000,000 | 31 December 2010 est. |
+| 6 | Belgium | $ 910,800,000,000 | 31 December 2010 est. |
+| 7 | Spain | $ 614,500,000,000 | 31 December 2010 est. |
+| 8 | Netherlands | $ 587,300,000,000 | 31 December 2010 est. |
+| 9 | China | $ 578,800,000,000 | 31 December 2010 est. |
+| 10 | Switzerland | $ 576,200,000,000 | 31 December 2010 est. |
+| 11 | Canada | $ 561,100,000,000 | 31 December 2010 est. |
+| 12 | Australia | $ 514,400,000,000 | 31 December 2010 est. |
+| 13 | Italy | $ 403,000,000,000 | 31 December 2010 est. |
+| 14 | Brazil | $ 368,400,000,000 | 31 December 2010 est. |
+| 15 | Sweden | $ 348,600,000,000 | 31 December 2010 est. |
+| 16 | Mexico | $ 326,100,000,000 | 31 December 2010 est. |
+| 17 | Singapore | $ 298,700,000,000 | 31 December 2010 est. |
+| 18 | Russia | $ 297,400,000,000 | 31 December 2010 est. |
+| 19 | Austria | $ 259,400,000,000 | 31 December 2010 est. |
+| 20 | Ireland | $ 228,000,000,000 | 31 September 2010 est. |
+| 21 | Japan | $ 199,400,000,000 | 31 December 2010 est. |
+| 22 | Poland | $ 193,100,000,000 | 31 December 2010 est. |
+| 23 | India | $ 188,600,000,000 | 31 December 2010 est. |
+| 24 | Saudi Arabia | $ 187,700,000,000 | 31 December 2010 est. |
+| 25 | Norway | $ 148,300,000,000 | 31 December 2010 est. |
+| 26 | Denmark | $ 139,700,000,000 | 31 December 2010 est. |
+| 27 | Chile | $ 137,400,000,000 | 31 December 2010 est. |
+| 28 | Czech Republic | $ 129,900,000,000 | 31 December 2010 est. |
+| 29 | Korea, South | $ 127,000,000,000 | 31 December 2010 est. |
+| 30 | South Africa | $ 119,000,000,000 | 31 December 2010 est. |
+| 31 | Thailand | $ 115,900,000,000 | 31 December 2010 est. |
+| 32 | Portugal | $ 110,200,000,000 | 31 December 2010 est. |
+| 33 | Trinidad and Tobago | $ 102,000,000,000 | 31 December 2008 est. |
+| 34 | Tajikistan | $ 100,300,000,000 | 31 December 2009 est. |
+| 35 | Angola | $ 88,400,000,000 | 31 December 2010 est. |
+| 36 | Turkey | $ 86,980,000,000 | 31 December 2010 est. |
+| 37 | Argentina | $ 86,350,000,000 | 31 December 2010 est. |
+| 38 | Indonesia | $ 86,150,000,000 | 31 December 2010 est. |
+| 39 | Finland | $ 82,710,000,000 | 31 December 2010 est. |
+| 40 | Colombia | $ 82,420,000,000 | 31 December 2010 est. |
+| 41 | Kazakhstan | $ 79,130,000,000 | 31 December 2010 est. |
+| 42 | Vietnam | $ 77,950,000,000 | 31 December 2010 est. |
+| 43 | Israel | $ 77,820,000,000 | 31 December 2010 est. |
+| 44 | Malaysia | $ 77,440,000,000 | 31 December 2010 est. |
+| 45 | United Arab Emirates | $ 74,130,000,000 | 31 December 2010 est. |
+| 46 | Egypt | $ 73,100,000,000 | 31 December 2010 est. |
+| 47 | Hungary | $ 71,470,000,000 | 31 December 2010 est. |
+| 48 | New Zealand | $ 70,130,000,000 | 31 December 2010 est. |
+| 49 | Romania | $ 70,060,000,000 | 31 December 2010 est. |
+| 50 | Nigeria | $ 69,400,000,000 | 31 December 2010 est. |
+| 51 | Taiwan | $ 63,380,000,000 | 31 December 2010 est. |
+| 52 | Ukraine | $ 53,300,000,000 | 31 December 2010 est. |
+| 53 | Bulgaria | $ 51,450,000,000 | 31 December 2010 est. |
+| 54 | Slovakia | $ 50,680,000,000 | 31 December 2010 est. |
+| 55 | Peru | $ 44,240,000,000 | 31 December 2010 est. |
+| 56 | Morocco | $ 43,820,000,000 | 31 December 2010 est. |
+| 57 | Venezuela | $ 38,020,000,000 | 31 December 2010 est. |
+| 58 | Greece | $ 33,560,000,000 | 31 December 2010 est. |
+| 59 | Croatia | $ 32,500,000,000 | 31 December 2010 est. |
+| 60 | Cyprus | $ 31,410,000,000 | 31 December 2010 est. |
+| 61 | Tunisia | $ 31,410,000,000 | 31 December 2010 est. |
+| 62 | Pakistan | $ 30,060,000,000 | 31 December 2010 est. |
+| 63 | Qatar | $ 26,380,000,000 | 31 December 2010 est. |
+| 64 | Philippines | $ 25,270,000,000 | 31 December 2010 est. |
+| 65 | Serbia | $ 22,420,000,000 | 31 December 2009 est. |
+| 66 | Kosovo | $ 21,200,000,000 | 31 December 2010 est. |
+| 67 | Algeria | $ 21,030,000,000 | 31 December 2010 est. |
+| 68 | Jordan | $ 20,670,000,000 | 31 December 2010 est. |
+| 69 | Libya | $ 19,390,000,000 | 31 December 2010 est. |
+| 70 | Dominican Republic | $ 18,910,000,000 | 31 December 2010 est. |
+| 71 | Iran | $ 16,820,000,000 | 31 December 2010 est. |
+| 72 | Malta | $ 16,630,000,000 | 31 December 2010 |
+| 73 | Estonia | $ 16,390,000,000 | 31 December 2010 est. |
+| 74 | Bahrain | $ 15,150,000,000 | 31 December 2010 est. |
+| 75 | Slovenia | $ 15,020,000,000 | 31 December 2010 est. |
+| 76 | Lithuania | $ 13,610,000,000 | 31 December 2010 est. |
+| 77 | Costa Rica | $ 13,500,000,000 | 31 December 2010 est. |
+| 78 | Ecuador | $ 12,110,000,000 | 31 December 2010 est. |
+| 79 | Macau | $ 12,100,000,000 | 2008 est. |
+| 80 | Latvia | $ 11,970,000,000 | 31 December 2010 est. |
+| 81 | Uruguay | $ 9,100,000,000 | 30 September 2010 |
+| 82 | Azerbaijan | $ 8,881,000,000 | 31 December 2010 est. |
+| 83 | El Salvador | $ 7,760,000,000 | 31 December 2010 est. |
+| 84 | Bolivia | $ 7,257,000,000 | 31 December 2010 |
+| 85 | Bangladesh | $ 6,107,000,000 | 31 December 2010 est. |
+| 86 | Macedonia | $ 3,739,000,000 | 31 October 2010 est. |
+| 87 | Moldova | $ 2,649,000,000 | 1 January 2010 est. |
+| 88 | Kenya | $ 2,262,000,000 | 31 December 2010 est. |
+| 89 | Kuwait | $ 2,128,000,000 | 31 December 2010 est. |
+| 90 | Korea, North | $ 1,437,000,000 | 31 December 2010 est. |
+| 91 | Paraguay | $ 3,393,000 | 31 December 2010 |

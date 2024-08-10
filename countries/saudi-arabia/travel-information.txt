@@ -1,0 +1,29 @@
+Telephone Code: 966
+Local Emergency Phone - Ambulance: 997
+Local Emergency Phone - Fire: 998
+Local Emergency Phone - Police: 999
+Climate: Harsh, dry desert with great temperature extremes
+Currency (Code): Saudi riyals (SAR)
+Electricity: 220 V
+Voltage: 60 Hz
+Plug types(s): G
+Major Languages: Arabic
+Major Religions: Muslim (85-90% Sunni and 10-15% Shia), other (includes Eastern Orthodox, Protestant, Roman Catholic, Jewish, Hindu, Buddhist, and Sikh); note: most forms of public religious expression inconsistent with the government-sanctioned interpretation of Sunni Islam are restricted
+Time Difference: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Yes, but some opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: National Museum of Saudi Arabia; Jamaraat Bridge; Mada'in Salih; King's Fountain; Dumat al-Jandal; Al-Turaif District
+Major Sports: Soccer, camel racing, wrestling
+Cultural Practices: Do not point at people, better to keep hands flattened and gesture instead.
+Tipping Guidelines: Tipping 10-15% is expected for good service. Tip a porter/bellhop $1-2 (USD) per bag and a housekeeper $2 (USD) per day.
+Souvenirs: Oud perfume, dried dates, olive oil, woven wool prayer rugs, oil lamps or incense burners, frankincense and myrrh incense
+Traditional Cuisine: Kabsa --- water used to cook meat or fish is re-used to cook rice to impart flavor; the dish can be made with chicken, lamb, camel meat, fish, or shrimp; the meat or fish is usually placed on top of the rice and served on a large platter
+
+---
+country: Saudi Arabia
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Saudi Arabia/travel-facts>
+license: public domain (U.S.)
+...

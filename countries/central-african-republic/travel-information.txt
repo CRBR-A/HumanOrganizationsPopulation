@@ -1,0 +1,27 @@
+Telephone Code: 236
+Local Emergency Phone: Local numbers only
+Climate: Tropical; hot, dry winters; mild to hot, wet summers
+Currency (Code): Cooperation Financiere en Afrique Central francs (Central African CFA franc, XAF)
+Electricity: 220 V
+Voltage: 50 Hz
+Plug types(s): C, E
+Major Languages: French, Sangho, tribal languages
+Major Religions: Christian 89%, Muslim 9%, folk religion 1%
+Time Difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Boali Falls; Manovo-Gounda Saint Floris National Park; Bangui; Boganda Museum; Dzanga-Sangha National Park; Chinko Nature Reserve; Bouar Megaliths; Andre Felix National Park
+Major Sports: Soccer, basketball, rugby, boxing
+Cultural Practices: Locals eat using their hands, so travelers are advised to eat with their hands out of respect. It is important to eat with the right hand, because the left is often considered unclean.
+Tipping Guidelines: Tips of about 10% are customary for wait staff at restaurants. Small tips for hotel service staff are appreciated.
+Souvenirs: Ebony wood carvings, native drums, handwoven baskets/mats, gold and gemstone jewelry, butterfly artwork
+Traditional Cuisine: Makara --- bread made from cassava flour
+
+---
+country: Central African Republic
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Central African Republic/travel-facts>
+license: public domain (U.S.)
+...

@@ -1,0 +1,176 @@
+CIA - The World Factbook --  HIV/AIDS - adult prevalence rate   
+
+This entry gives an estimate of the percentage of adults (aged 15-49) living with HIV/AIDS. The adult prevalence rate is calculated by dividing the estimated number of adults living with HIV/AIDS at yearend by the total adult population at yearend.
+
+| Rank | country | (%) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Swaziland | 26.10 | 2007 est. |
+| 2 | Botswana | 23.90 | 2007 est. |
+| 3 | Lesotho | 23.20 | 2007 est. |
+| 4 | South Africa | 18.10 | 2007 est. |
+| 5 | Namibia | 15.30 | 2007 est. |
+| 6 | Zimbabwe | 15.30 | 2007 est. |
+| 7 | Zambia | 15.20 | 2007 est. |
+| 8 | Mozambique | 12.50 | 2007 est. |
+| 9 | Malawi | 11.90 | 2007 est. |
+| 10 | Kenya | 6.70 | 2003 est. |
+| 11 | Central African Republic | 6.30 | 2007 est. |
+| 12 | Tanzania | 6.20 | 2007 est. |
+| 13 | Gabon | 5.90 | 2007 est. |
+| 14 | Uganda | 5.40 | 2007 est. |
+| 15 | Cameroon | 5.10 | 2007 est. |
+| 16 | Congo, Democratic Republic of the | 4.20 | 2003 est. |
+| 17 | Cote d'Ivoire | 3.90 | 2007 est. |
+| 18 | Chad | 3.50 | 2007 est. |
+| 19 | Congo, Republic of the | 3.50 | 2007 est. |
+| 20 | Equatorial Guinea | 3.40 | 2007 est. |
+| 21 | Togo | 3.30 | 2007 est. |
+| 22 | Djibouti | 3.10 | 2007 est. |
+| 23 | Nigeria | 3.10 | 2007 est. |
+| 24 | Bahamas, The | 3.00 | 2007 est. |
+| 25 | Rwanda | 2.80 | 2007 est. |
+| 26 | Guyana | 2.50 | 2007 est. |
+| 27 | Suriname | 2.40 | 2007 est. |
+| 28 | Haiti | 2.20 | 2007 est. |
+| 29 | Angola | 2.10 | 2007 est. |
+| 30 | Belize | 2.10 | 2007 est. |
+| 31 | Ethiopia | 2.10 | 2007 est. |
+| 32 | Burundi | 2.00 | 2007 est. |
+| 33 | Ghana | 1.90 | 2007 est. |
+| 34 | Guinea-Bissau | 1.80 | 2007 est. |
+| 35 | Liberia | 1.70 | 2007 est. |
+| 36 | Mauritius | 1.70 | 2007 est. |
+| 37 | Sierra Leone | 1.70 | 2007 est. |
+| 38 | Burkina Faso | 1.60 | 2007 est. |
+| 39 | Ukraine | 1.60 | 2007 est. |
+| 40 | Jamaica | 1.60 | 2007 est. |
+| 41 | Guinea | 1.60 | 2007 est. |
+| 42 | Mali | 1.50 | 2007 est. |
+| 43 | Papua New Guinea | 1.50 | 2007 est. |
+| 44 | Trinidad and Tobago | 1.50 | 2007 est. |
+| 45 | Sudan | 1.40 | 2007 est. |
+| 46 | Thailand | 1.40 | 2007 est. |
+| 47 | Eritrea | 1.30 | 2007 est. |
+| 48 | Estonia | 1.30 | 2007 est. |
+| 49 | Barbados | 1.20 | 2007 est. |
+| 50 | Benin | 1.20 | 2007 est. |
+| 51 | Dominican Republic | 1.10 | 2007 est. |
+| 52 | Russia | 1.10 | 2007 est. |
+| 53 | Panama | 1.00 | 2007 est. |
+| 54 | Senegal | 1.00 | 2007 est. |
+| 55 | Gambia, The | 0.90 | 2007 est. |
+| 56 | World | 0.80 | 2007 est. |
+| 57 | Niger | 0.80 | 2007 est. |
+| 58 | Mauritania | 0.80 | 2007 est. |
+| 59 | Latvia | 0.80 | 2007 est. |
+| 60 | Guatemala | 0.80 | 2007 est. |
+| 61 | El Salvador | 0.80 | 2007 est. |
+| 62 | Cambodia | 0.80 | 2007 est. |
+| 63 | Venezuela | 0.70 | 2001 est. |
+| 64 | Burma | 0.70 | 2007 est. |
+| 65 | Honduras | 0.70 | 2007 est. |
+| 66 | Brazil | 0.60 | 2007 est. |
+| 67 | Paraguay | 0.60 | 2007 est. |
+| 68 | Switzerland | 0.60 | 2007 est. |
+| 69 | Uruguay | 0.60 | 2007 est. |
+| 70 | United States | 0.60 | 2007 est. |
+| 71 | Colombia | 0.60 | 2007 est. |
+| 72 | Argentina | 0.50 | 2007 est. |
+| 73 | Vietnam | 0.50 | 2007 est. |
+| 74 | Somalia | 0.50 | 2007 est. |
+| 75 | Spain | 0.50 | 2007 est. |
+| 76 | Portugal | 0.50 | 2007 est. |
+| 77 | Malaysia | 0.50 | 2007 est. |
+| 78 | Peru | 0.50 | 2007 est. |
+| 79 | Nepal | 0.50 | 2007 est. |
+| 80 | Canada | 0.40 | 2007 est. |
+| 81 | Moldova | 0.40 | 2007 est. |
+| 82 | Italy | 0.40 | 2007 est. |
+| 83 | France | 0.40 | 2007 est. |
+| 84 | Costa Rica | 0.40 | 2007 est. |
+| 85 | Chile | 0.30 | 2007 est. |
+| 86 | Ecuador | 0.30 | 2007 est. |
+| 87 | Tajikistan | 0.30 | 2007 est. |
+| 88 | Mexico | 0.30 | 2007 est. |
+| 89 | India | 0.30 | 2007 est. |
+| 90 | Bermuda | 0.30 | 2005 |
+| 91 | Libya | 0.30 | 2001 est. |
+| 92 | Australia | 0.20 | 2007 est. |
+| 93 | Austria | 0.20 | 2007 est. |
+| 94 | Belarus | 0.20 | 2007 est. |
+| 95 | United Kingdom | 0.20 | 2007 est. |
+| 96 | Singapore | 0.20 | 2007 est. |
+| 97 | Nicaragua | 0.20 | 2007 est. |
+| 98 | Netherlands | 0.20 | 2007 est. |
+| 99 | Luxembourg | 0.20 | 2007 est. |
+| 100 | Laos | 0.20 | 2007 est. |
+| 101 | Ireland | 0.20 | 2007 est. |
+| 102 | Iran | 0.20 | 2007 est. |
+| 103 | Indonesia | 0.20 | 2007 est. |
+| 104 | Iceland | 0.20 | 2007 est. |
+| 105 | Greece | 0.20 | 2007 est. |
+| 106 | Denmark | 0.20 | 2007 est. |
+| 107 | Bolivia | 0.20 | 2007 est. |
+| 108 | Belgium | 0.20 | 2007 est. |
+| 109 | Azerbaijan | 0.20 | 2007 est. |
+| 110 | Bahrain | 0.20 | 2001 est. |
+| 111 | United Arab Emirates | 0.20 | 2001 est. |
+| 112 | Algeria | 0.10 | 2007 est. |
+| 113 | Bhutan | 0.10 | 2007 est. |
+| 114 | Armenia | 0.10 | 2007 est. |
+| 115 | China | 0.10 | 2007 est. |
+| 116 | Malta | 0.10 | 2007 est. |
+| 117 | Madagascar | 0.10 | 2007 est. |
+| 118 | Lithuania | 0.10 | 2007 est. |
+| 119 | Lebanon | 0.10 | 2007 est. |
+| 120 | Kyrgyzstan | 0.10 | 2007 est. |
+| 121 | Kazakhstan | 0.10 | 2007 est. |
+| 122 | Israel | 0.10 | 2007 est. |
+| 123 | Hungary | 0.10 | 2007 est. |
+| 124 | Germany | 0.10 | 2007 est. |
+| 125 | Tunisia | 0.10 | 2007 est. |
+| 126 | Sweden | 0.10 | 2007 est. |
+| 127 | Romania | 0.10 | 2007 est. |
+| 128 | Poland | 0.10 | 2007 est. |
+| 129 | Pakistan | 0.10 | 2007 est. |
+| 130 | Norway | 0.10 | 2007 est. |
+| 131 | New Zealand | 0.10 | 2007 est. |
+| 132 | Morocco | 0.10 | 2007 est. |
+| 133 | Mongolia | 0.10 | 2007 est. |
+| 134 | Uzbekistan | 0.10 | 2007 est. |
+| 135 | Georgia | 0.10 | 2007 est. |
+| 136 | Finland | 0.10 | 2007 est. |
+| 137 | Fiji | 0.10 | 2007 est. |
+| 138 | Cuba | 0.10 | 2007 est. |
+| 139 | Bangladesh | 0.10 | 2001 est. |
+| 140 | Brunei | 0.10 | 2003 est. |
+| 141 | Bulgaria | 0.10 | 2001 est. |
+| 142 | Comoros | 0.10 | 2007 est. |
+| 143 | Philippines | 0.10 | 2003 est. |
+| 144 | Oman | 0.10 | 2001 est. |
+| 145 | Maldives | 0.10 | 2001 est. |
+| 146 | Macedonia | 0.10 | 2007 est. |
+| 147 | Kuwait | 0.10 | 2001 est. |
+| 148 | Korea, South | 0.10 | 2007 est. |
+| 149 | Jordan | 0.10 | 2001 est. |
+| 150 | Japan | 0.10 | 2003 est. |
+| 151 | Iraq | 0.10 | 2001 est. |
+| 152 | Hong Kong | 0.10 | 2003 est. |
+| 153 | Yemen | 0.10 | 2001 est. |
+| 154 | Turkmenistan | 0.10 | 2007 est. |
+| 155 | Turkey | 0.10 | 2001 est. |
+| 156 | Syria | 0.10 | 2001 est. |
+| 157 | Sri Lanka | 0.10 | 2001 est. |
+| 158 | Slovenia | 0.10 | 2007 est. |
+| 159 | Slovakia | 0.10 | 2007 est. |
+| 160 | Serbia | 0.10 | 2009 est. |
+| 161 | Qatar | 0.10 | 2001 est. |
+| 162 | Czech Republic | 0.10 | 2001 est. |
+| 163 | Egypt | 0.10 | 2001 est. |
+| 164 | Cyprus | 0.10 | 2003 est. |
+| 165 | Croatia | 0.10 | 2007 est. |
+| 166 | Bosnia and Herzegovina | 0.10 | 2007 est. |
+| 167 | Cape Verde | 0.04 | NA |
+| 168 | Afghanistan | 0.01 | 2001 est. |
+| 169 | Saudi Arabia | 0.01 | 2001 est. |
+| 170 | Svalbard | 0.00 | 2001 |

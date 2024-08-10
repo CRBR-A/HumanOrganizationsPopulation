@@ -1,0 +1,29 @@
+Telephone Code: 33
+Local Emergency Phone - Ambulance: 112, 15
+Local Emergency Phone - Fire: 112, 18
+Local Emergency Phone - Police: 112, 17
+Climate: Generally cool winters and mild summers, but mild winters and hot summers along the Mediterranean; occasionally strong, cold, dry north-to-northwesterly wind know as the mistral
+Currency (Code): Euros (EUR)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, E
+Major Languages: French
+Major Religions: Christian (overwhelmingly Roman Catholic) 63-66%, Muslim 7-9%, Buddhist 0.5-0.75%, Jewish 0.5-0.75%
+Time Difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time); daylight saving time: +1hr, begins last Sunday in March, ends last Sunday in October
+Potable Water: Yes
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Eiffel Tower; Louvre Museum; Notre-Dame de Paris; Palace of Versailles; Côte d'Azur; Mont Saint-Michel; Loire Valley Châteaux; Provence; Normandy; Brittany; Carcassone; Avignon; Alsace (includes Colmar and Strasbourg); Notre-Dame de Chartres; Caves of Vezere Valley; Grotte Chauvet, Ardeche River and Pont d'Arc
+Major Sports: Soccer, tennis, cycling, basketball, handball, rugby
+Cultural Practices: Hugging is a much less common form of greeting in France than in other countries, and may be received uncomfortably.
+Tipping Guidelines: Tips are not necessary, but appreciated and you may always round up for good service. In nicer restaurants, a tip of 5% is sufficient. Tip taxi drivers 10% of a total fare. Bellhops, room service, and housekeeping appreciate a tip between 1-3 euros.
+Souvenirs: Designer fashion, perfumes, wine, porcelain items, lavender goods, soap, kitchen items
+Traditional Cuisine: Crêpes --- thin wheat or buckwheat flour batter pancakes filled with either sweet (chocolate, preserves, cream etc.) or savory (ham, sausage, cheese, mushroom, etc.) ingredients
+
+---
+country: France
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/France/travel-facts>
+license: public domain (U.S.)
+...

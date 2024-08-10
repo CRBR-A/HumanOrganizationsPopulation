@@ -1,0 +1,183 @@
+CIA - The World Factbook --  Contraceptive prevalence rate   
+
+This field gives the percent of women of reproductive age (15-49) who are married or in union and are using, or whose sexual partner is using, a method of contraception according to the date of the most recent available data. The contraceptive prevalence rate is an indicator of health services, development, and womenâ€™s empowerment. It is also useful in understanding, past, present, and future fertility trends, especially in developing countries.
+
+| Rank | country | (%) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Norway | 88.40 | 2005 |
+| 2 | Portugal | 86.80 | 2005/06 |
+| 3 | Czech Republic | 86.30 | 2008 |
+| 4 | Malta | 85.80 | 1993 |
+| 5 | China | 84.60 | 2006 |
+| 6 | Puerto Rico | 84.10 | 2002 |
+| 7 | United Kingdom | 84.00 | 2008/09 |
+| 8 | Costa Rica | 82.20 | 2010 |
+| 9 | Switzerland | 82.00 | 1994/95 |
+| 10 | Hungary | 80.60 | 1992/93 |
+| 11 | Brazil | 80.30 | 2006 |
+| 12 | Korea, South | 80.00 | 2009 |
+| 13 | Slovakia | 79.80 | 1997 |
+| 14 | Thailand | 79.60 | 2009 |
+| 15 | Hong Kong | 79.50 | 2007 |
+| 16 | Russia | 79.50 | 2007 |
+| 17 | Paraguay | 79.40 | 2008 |
+| 18 | Colombia | 79.10 | 2010 |
+| 19 | Argentina | 78.90 | 2004/05 |
+| 20 | Slovenia | 78.90 | 1994/95 |
+| 21 | Virgin Islands | 78.40 | 2002 |
+| 22 | Vietnam | 77.80 | 2010/11 |
+| 23 | Uruguay | 77.00 | 2004 |
+| 24 | France | 76.40 | 2008 |
+| 25 | United States | 76.40 | 2010 |
+| 26 | Greece | 76.20 | 2001 |
+| 27 | Mauritius | 75.80 | 2002 |
+| 28 | Sweden | 75.20 | 1996 |
+| 29 | New Zealand | 75.00 | 1995 |
+| 30 | Cuba | 74.30 | 2011 |
+| 31 | Canada | 74.00 | 2002 |
+| 32 | Iran | 73.30 | 2002 |
+| 33 | Turkey | 73.00 | 2008 |
+| 34 | Dominican Republic | 72.90 | 2007 |
+| 35 | Ecuador | 72.70 | 2004 |
+| 36 | Poland | 72.70 | 1991 |
+| 37 | Belarus | 72.60 | 2005 |
+| 38 | El Salvador | 72.50 | 2008 |
+| 39 | Nicaragua | 72.40 | 2006/07 |
+| 40 | Australia | 72.30 | 2005 |
+| 41 | Mexico | 70.90 | 2006 |
+| 42 | Belgium | 70.40 | 2010 |
+| 43 | Venezuela | 70.30 | 1998 |
+| 44 | Romania | 69.80 | 2005 |
+| 45 | Austria | 69.60 | 2009 |
+| 46 | Albania | 69.30 | 2008/09 |
+| 47 | Bulgaria | 69.20 | 2007 |
+| 48 | Netherlands | 69.00 | 2008 |
+| 49 | Jamaica | 69.00 | 2002/03 |
+| 50 | Peru | 68.90 | 2011 |
+| 51 | Korea, North | 68.60 | 2002 |
+| 52 | Sri Lanka | 68.00 | 2006/07 |
+| 53 | Latvia | 67.80 | 1995 |
+| 54 | Moldova | 67.80 | 2005 |
+| 55 | Morocco | 67.40 | 2011 |
+| 56 | Ukraine | 66.70 | 2007 |
+| 57 | Guam | 66.60 | 2002 |
+| 58 | Germany | 66.20 | 2005 |
+| 59 | Spain | 65.70 | 2006 |
+| 60 | Bhutan | 65.60 | 2010 |
+| 61 | Swaziland | 65.20 | 2010 |
+| 62 | Honduras | 65.20 | 2005/06 |
+| 63 | Uzbekistan | 64.90 | 2006 |
+| 64 | Ireland | 64.80 | 2004/05 |
+| 65 | Chile | 64.20 | 2006 |
+| 66 | Estonia | 63.40 | 2005 |
+| 67 | Tunisia | 63.00 | 2012 |
+| 68 | Lithuania | 62.90 | 2006 |
+| 69 | Italy | 62.70 | 1995/96 |
+| 70 | Singapore | 62.00 | 1997 |
+| 71 | Indonesia | 61.90 | 2012 |
+| 72 | Bahrain | 61.80 | 1995 |
+| 73 | Turkmenistan | 61.80 | 2000 |
+| 74 | Algeria | 61.40 | 2006 |
+| 75 | Cabo Verde | 61.30 | 2005 |
+| 76 | Bangladesh | 61.20 | 2011/12 |
+| 77 | Serbia | 60.80 | 2010 |
+| 78 | Bolivia | 60.50 | 2008 |
+| 79 | Egypt | 60.30 | 2008 |
+| 80 | South Africa | 59.90 | 2003/04 |
+| 81 | Jordan | 59.30 | 2009 |
+| 82 | Zimbabwe | 58.50 | 2010/11 |
+| 83 | Syria | 58.30 | 2006 |
+| 84 | Lebanon | 58.00 | 2004 |
+| 85 | Belize | 55.20 | 2011 |
+| 86 | Namibia | 55.10 | 2006/07 |
+| 87 | Mongolia | 55.00 | 2010 |
+| 88 | Armenia | 54.90 | 2010 |
+| 89 | India | 54.80 | 2007/08 |
+| 90 | Japan | 54.30 | 2005 |
+| 91 | Grenada | 54.30 | 1990 |
+| 92 | Georgia | 53.40 | 2010 |
+| 93 | Botswana | 52.80 | 2007/08 |
+| 94 | Panama | 52.20 | 2009 |
+| 95 | Kuwait | 52.00 | 1999 |
+| 96 | Rwanda | 51.60 | 2010/11 |
+| 97 | Iraq | 51.20 | 2011 |
+| 98 | Azerbaijan | 51.10 | 2006 |
+| 99 | Kazakhstan | 51.00 | 2011 |
+| 100 | Cambodia | 50.50 | 2010/11 |
+| 101 | Nepal | 49.70 | 2011 |
+| 102 | Malaysia | 49.00 | 2004 |
+| 103 | Philippines | 48.90 | 2011 |
+| 104 | Kyrgyzstan | 47.80 | 2005/06 |
+| 105 | Lesotho | 47.00 | 2009/10 |
+| 106 | Malawi | 46.10 | 2010 |
+| 107 | Burma | 46.00 | 2009/10 |
+| 108 | Bosnia and Herzegovina | 45.80 | 2012 |
+| 109 | Suriname | 45.60 | 2006 |
+| 110 | Kenya | 45.50 | 2008/09 |
+| 111 | Libya | 45.20 | 1995 |
+| 112 | Congo, Republic of the | 44.70 | 2011/12 |
+| 113 | Marshall Islands | 44.60 | 2007 |
+| 114 | Guatemala | 43.30 | 2002 |
+| 115 | Qatar | 43.20 | 1998 |
+| 116 | Cook Islands | 43.20 | 1999 |
+| 117 | Anguilla | 43.00 | 2003 |
+| 118 | Trinidad and Tobago | 42.50 | 2006 |
+| 119 | Guyana | 42.50 | 2009 |
+| 120 | Zambia | 40.80 | 2007 |
+| 121 | Madagascar | 39.90 | 2008/09 |
+| 122 | Montenegro | 39.40 | 2005/06 |
+| 123 | Laos | 38.40 | 2005 |
+| 124 | Sao Tome and Principe | 38.40 | 2008/09 |
+| 125 | Vanuatu | 38.40 | 2007 |
+| 126 | Nauru | 35.60 | 2007 |
+| 127 | Maldives | 34.70 | 2009 |
+| 128 | Solomon Islands | 34.60 | 2006/07 |
+| 129 | Haiti | 34.50 | 2012 |
+| 130 | Tanzania | 34.40 | 2009/10 |
+| 131 | Palau | 32.80 | 2003 |
+| 132 | Papua New Guinea | 32.40 | 2007 |
+| 133 | Oman | 31.70 | 2000 |
+| 134 | Gabon | 31.10 | 2012 |
+| 135 | Tuvalu | 30.50 | 2007 |
+| 136 | Uganda | 30.00 | 2011 |
+| 137 | Samoa | 28.70 | 2009 |
+| 138 | Ethiopia | 28.60 | 2010/11 |
+| 139 | Tajikistan | 27.90 | 2012 |
+| 140 | Yemen | 27.70 | 2006 |
+| 141 | United Arab Emirates | 27.50 | 1995 |
+| 142 | Pakistan | 27.00 | 2007/08 |
+| 143 | Comoros | 25.70 | 2000 |
+| 144 | Saudi Arabia | 23.80 | 2007 |
+| 145 | Ghana | 23.50 | 2008 |
+| 146 | Cameroon | 23.40 | 2011 |
+| 147 | Timor-Leste | 22.30 | 2009/10 |
+| 148 | Kiribati | 22.30 | 2009 |
+| 149 | Burundi | 21.90 | 2010/11 |
+| 150 | Afghanistan | 21.80 | 2010 |
+| 151 | Central African Republic | 19.00 | 2006 |
+| 152 | Cote d'Ivoire | 18.20 | 2012 |
+| 153 | Djibouti | 17.80 | 2006 |
+| 154 | Angola | 17.70 | 2009 |
+| 155 | Congo, Democratic Republic of the | 17.70 | 2010 |
+| 156 | Burkina Faso | 16.20 | 2010/11 |
+| 157 | Togo | 15.20 | 2010 |
+| 158 | Somalia | 14.60 | 2006 |
+| 159 | Nigeria | 14.10 | 2011 |
+| 160 | Guinea-Bissau | 14.00 | 2010 |
+| 161 | Niger | 13.90 | 2012 |
+| 162 | Gambia, The | 13.30 | 2010 |
+| 163 | Senegal | 13.10 | 2010/11 |
+| 164 | Benin | 12.90 | 2012 |
+| 165 | Mozambique | 11.60 | 2011 |
+| 166 | Liberia | 11.40 | 2007 |
+| 167 | Sierra Leone | 11.00 | 2010 |
+| 168 | Equatorial Guinea | 10.10 | 2000 |
+| 169 | Mauritania | 9.30 | 2007 |
+| 170 | Sudan | 9.00 | 2010 |
+| 171 | Mali | 8.20 | 2006 |
+| 172 | Eritrea | 8.00 | 2002 |
+| 173 | Guinea | 5.60 | 2012 |
+| 174 | Chad | 4.80 | 2010 |
+| 175 | South Sudan | 3.50 | 2006 |
+
+

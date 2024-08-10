@@ -1,0 +1,27 @@
+Telephone Code: 240
+Local Emergency Phone: Local numbers only
+Climate: Tropical; always hot, humid
+Currency (Code): Cooperation Financiere en Afrique Central francs (Central African CFA franc, XAF)
+Electricity: 220 V
+Voltage: 50 Hz
+Plug types(s): C, E
+Major Languages: Spanish 67%, other (includes Fang, Bubi, Portuguese, French) 32.4%
+Major Religions: Nominally Christian and predominantly Roman Catholic, Protestant
+Time Difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Malabo; Monte Alén National Park; Cascades of Moca; Bioko Island; Bata
+Major Sports: Soccer, swimming
+Cultural Practices: In some groups, if greeting someone with higher status, it is customary to bow slightly so that your head is lower than theirs.
+Tipping Guidelines: Tipping is not expected in most restaurants and hotels except at establishments frequented by expatriates. Guides and private drivers also appreciate a tip of around 10%.
+Souvenirs: Traditional African cloth; soapstone, ivory, and wood carvings; woven baskets, tribal masks
+Traditional Cuisine: Succotash --- a salad-like dish consisting of corn, lima beans, sweet peppers, tomatoes, and other vegetables sautéed in butter
+
+---
+country: Equatorial Guinea
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Equatorial Guinea/travel-facts>
+license: public domain (U.S.)
+...

@@ -1,0 +1,29 @@
+Telephone Code: 241
+Local Emergency Phone - Ambulance: 1300-1399
+Local Emergency Phone - Fire: 18
+Local Emergency Phone - Police: 1730
+Climate: Tropical; always hot, humid
+Currency (Code): Cooperation Financiere en Afrique Central francs (Central African CFA franc, XAF)
+Electricity: 220 V
+Voltage: 50 Hz
+Plug types(s): C
+Major Languages: French, Fang, Myene, Nzebi, Bapounou/Eschira, Bandjabi
+Major Religions: Roman Catholic 42.3%, Protestant 12.3%, other Christian 27.4%, Muslim 9.8%, animist 0.6%
+Time Difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Libreville; Loango National Park; Fernan Vaz Lagoon; Ivindo National Park (includes Kongou Falls)
+Major Sports: Soccer, basketball
+Cultural Practices: Personal space is not considered necessary in Gabon, where it is common for conversations to occur at very close distances.
+Tipping Guidelines: Tips are not expected in hotels and restaurants, except at upscale locales frequented by foreigners. Tip drivers and guides 10%.
+Souvenirs: Stone carvings, ceremonial masks, pottery, drums, precious and semi-precious gemstones; beaded or brass, copper, or silver pendant necklaces
+Traditional Cuisine: Poulet Nyembwe --- chicken in palm butter sauce
+
+---
+country: Gabon
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Gabon/travel-facts>
+license: public domain (U.S.)
+...

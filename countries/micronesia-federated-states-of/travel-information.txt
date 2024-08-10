@@ -1,0 +1,27 @@
+Telephone Code: 691
+Local Emergency Phone: Local numbers only
+Climate: Tropical; heavy year-round rainfall, especially in the eastern islands; located on southern edge of the typhoon belt with occasionally severe damage
+Currency (Code): US dollar is used
+Electricity: 120 V
+Voltage: 60 Hz
+Plug types(s): A, B
+Major Languages: English, Chuukese, Kosrean, Pohnpeian, Yapese, Ulithian, Woleaian, Nukuoro, Kapingamarangi
+Major Religions: Roman Catholic 54.7%, Protestant 41.1%, Mormon 1.5%
+Time Difference: UTC+11 (16 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Nan Madol; Chuuk (Truk) Lagoon; Kepirohi Falls
+Major Sports: Baseball, soccer
+Cultural Practices: The islands are known for their stick dancing traditions. All the islands revere their extended family connections and clan system.
+Tipping Guidelines: Meals are generally inexpensive so tipping by rounding up is appropriate. Taxi drivers do not expect tips.
+Souvenirs: Shell jewelry, woven baskets and mats, navigational stick charts, wooden monkeyman statues, replica canoes
+Traditional Cuisine: Kelaguen --- chicken, meat, or raw seafood marinated in lemon juice, salt, and hot peppers topped with coconut and scallions; the chicken or other meat is grilled while the seafood is prepared raw and "cooked" for only a few hours in lemon juice
+
+---
+country: Micronesia, Federated States of
+date: May 09, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Micronesia, Federated States of/travel-facts>
+license: public domain (U.S.)
+...

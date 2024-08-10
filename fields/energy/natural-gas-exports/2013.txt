@@ -1,0 +1,219 @@
+CIA - The World Factbook --  Natural gas - exports   
+
+This entry is the total natural gas exported in cubic meters (cu m).
+
+| Rank | country | (cu m) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Russia | 200,100,000,000 | 2012 est. |
+| 2 | Qatar | 113,700,000,000 | 2011 est. |
+| 3 | Norway | 107,300,000,000 | 2012 est. |
+| 4 | European Union | 93,750,000,000 | 2010 est. |
+| 5 | Canada | 88,290,000,000 | 2012 est. |
+| 6 | Netherlands | 74,060,000,000 | 2012 est. |
+| 7 | Algeria | 52,020,000,000 | 2011 est. |
+| 8 | Turkmenistan | 46,100,000,000 | 2011 est. |
+| 9 | United States | 45,840,000,000 | 2012 est. |
+| 10 | Slovakia | 45,430,000,000 | 2012 est. |
+| 11 | Bolivia | 40,280,000,000 | 2012 est. |
+| 12 | Indonesia | 38,670,000,000 | 2011 est. |
+| 13 | Austria | 34,750,000,000 | 2012 est. |
+| 14 | Malaysia | 33,100,000,000 | 2011 est. |
+| 15 | Australia | 30,270,000,000 | 2012 est. |
+| 16 | Nigeria | 25,960,000,000 | 2011 est. |
+| 17 | Czech Republic | 25,230,000,000 | 2012 est. |
+| 18 | Poland | 25,010,000,000 | 2012 est. |
+| 19 | Belgium | 21,180,000,000 | 2012 est. |
+| 20 | Germany | 18,170,000,000 | 2012 est. |
+| 21 | Trinidad and Tobago | 17,640,000,000 | 2011 est. |
+| 22 | Uzbekistan | 13,400,000,000 | 2012 est. |
+| 23 | United Kingdom | 11,970,000,000 | 2012 est. |
+| 24 | Oman | 10,930,000,000 | 2011 est. |
+| 25 | Egypt | 10,510,000,000 | 2011 est. |
+| 26 | Kazakhstan | 9,700,000,000 | 2011 est. |
+| 27 | Brunei | 9,420,000,000 | 2011 est. |
+| 28 | Iran | 9,050,000,000 | 2011 est. |
+| 29 | Yemen | 8,750,000,000 | 2011 est. |
+| 30 | Peru | 8,730,000,000 | 2012 est. |
+| 31 | Burma | 8,570,000,000 | 2011 est. |
+| 32 | Switzerland | 8,494,000,000 | 2012 est. |
+| 33 | France | 5,994,000,000 | 2012 est. |
+| 34 | Azerbaijan | 5,550,000,000 | 2011 est. |
+| 35 | Equatorial Guinea | 5,260,000,000 | 2011 est. |
+| 36 | United Arab Emirates | 5,180,000,000 | 2011 est. |
+| 37 | Spain | 4,414,000,000 | 2012 est. |
+| 38 | Libya | 3,666,000,000 | 2011 est. |
+| 39 | Mozambique | 3,300,000,000 | 2011 est. |
+| 40 | China | 3,195,000,000 | 2011 est. |
+| 41 | Denmark | 2,983,000,000 | 2012 est. |
+| 42 | Hungary | 2,837,000,000 | 2012 est. |
+| 43 | Ukraine | 2,600,000,000 | 2010 est. |
+| 44 | Colombia | 2,110,000,000 | 2011 est. |
+| 45 | Slovenia | 1,181,000,000 | 2012 est. |
+| 46 | Turkey | 600,000,000 | 2012 est. |
+| 47 | Brazil | 400,000,000 | 2012 est. |
+| 48 | Italy | 324,000,000 | 2012 est. |
+| 49 | Croatia | 222,000,000 | 2012 est. |
+| 50 | Argentina | 200,000,000 | 2011 est. |
+| 51 | Congo, Republic of the | 39,000,000 | 2012 est. |
+| 52 | Mexico | 11,000,000 | 2012 est. |
+| 53 | Aruba | 1 | 2011 est. |
+| 54 | Antigua and Barbuda | 0 | 2011 est. |
+| 55 | Afghanistan | 0 | 2011 est. |
+| 56 | Albania | 0 | 2011 est. |
+| 57 | Armenia | 0 | 2011 est. |
+| 58 | Angola | 0 | 2011 est. |
+| 59 | American Samoa | 0 | 2011 est. |
+| 60 | Bahrain | 0 | 2011 est. |
+| 61 | Barbados | 0 | 2011 est. |
+| 62 | Botswana | 0 | 2011 est. |
+| 63 | Bermuda | 0 | 2012 est. |
+| 64 | Bahamas, The | 0 | 2011 est. |
+| 65 | Bangladesh | 0 | 2011 est. |
+| 66 | Belize | 0 | 2011 est. |
+| 67 | Bosnia and Herzegovina | 0 | 2011 est. |
+| 68 | Benin | 0 | 2011 est. |
+| 69 | Belarus | 0 | 2011 est. |
+| 70 | Solomon Islands | 0 | 2011 est. |
+| 71 | Bhutan | 0 | 2011 est. |
+| 72 | Bulgaria | 0 | 2011 est. |
+| 73 | Burundi | 0 | 2011 est. |
+| 74 | Cambodia | 0 | 2011 est. |
+| 75 | Curacao | 0 | 2009 est. |
+| 76 | Chad | 0 | 2011 est. |
+| 77 | Sri Lanka | 0 | 2012 est. |
+| 78 | Congo, Democratic Republic of the | 0 | 2011 est. |
+| 79 | Chile | 0 | 2011 est. |
+| 80 | Cayman Islands | 0 | 2011 est. |
+| 81 | Cameroon | 0 | 2011 est. |
+| 82 | Comoros | 0 | 2011 est. |
+| 83 | Costa Rica | 0 | 2011 est. |
+| 84 | Central African Republic | 0 | 2011 est. |
+| 85 | Cuba | 0 | 2012 est. |
+| 86 | Cabo Verde | 0 | 2011 est. |
+| 87 | Cook Islands | 0 | 2011 est. |
+| 88 | Cyprus | 0 | 2011 est. |
+| 89 | Djibouti | 0 | 2011 est. |
+| 90 | Dominica | 0 | 2011 est. |
+| 91 | Dominican Republic | 0 | 2011 est. |
+| 92 | Ecuador | 0 | 2011 est. |
+| 93 | Ireland | 0 | 2011 est. |
+| 94 | Estonia | 0 | 2012 est. |
+| 95 | Eritrea | 0 | 2011 est. |
+| 96 | El Salvador | 0 | 2011 est. |
+| 97 | Ethiopia | 0 | 2011 est. |
+| 98 | Finland | 0 | 2011 est. |
+| 99 | Fiji | 0 | 2011 est. |
+| 100 | Falkland Islands (Islas Malvinas) | 0 | 2011 est. |
+| 101 | Faroe Islands | 0 | 2011 est. |
+| 102 | French Polynesia | 0 | 2011 est. |
+| 103 | Gambia, The | 0 | 2011 est. |
+| 104 | Gabon | 0 | 2011 est. |
+| 105 | Georgia | 0 | 2012 est. |
+| 106 | Ghana | 0 | 2011 est. |
+| 107 | Gibraltar | 0 | 2011 est. |
+| 108 | Grenada | 0 | 2011 est. |
+| 109 | Greenland | 0 | 2011 est. |
+| 110 | Guam | 0 | 2011 est. |
+| 111 | Greece | 0 | 2011 est. |
+| 112 | Guatemala | 0 | 2011 est. |
+| 113 | Guinea | 0 | 2011 est. |
+| 114 | Guyana | 0 | 2011 est. |
+| 115 | Haiti | 0 | 2011 est. |
+| 116 | Hong Kong | 0 | 2012 est. |
+| 117 | Honduras | 0 | 2011 est. |
+| 118 | Iceland | 0 | 2011 est. |
+| 119 | India | 0 | 2011 est. |
+| 120 | Israel | 0 | 2011 est. |
+| 121 | Cote d'Ivoire | 0 | 2011 est. |
+| 122 | Iraq | 0 | 2011 est. |
+| 123 | Japan | 0 | 2012 est. |
+| 124 | Jamaica | 0 | 2011 est. |
+| 125 | Jordan | 0 | 2011 est. |
+| 126 | Kenya | 0 | 2011 est. |
+| 127 | Korea, North | 0 | 2011 est. |
+| 128 | Kiribati | 0 | 2011 est. |
+| 129 | Korea, South | 0 | 2012 est. |
+| 130 | Kuwait | 0 | 2011 est. |
+| 131 | Laos | 0 | 2011 est. |
+| 132 | Lebanon | 0 | 2011 est. |
+| 133 | Latvia | 0 | 2011 est. |
+| 134 | Lithuania | 0 | 2012 est. |
+| 135 | Liberia | 0 | 2011 est. |
+| 136 | Lesotho | 0 | 2011 est. |
+| 137 | Luxembourg | 0 | 2011 est. |
+| 138 | Madagascar | 0 | 2011 est. |
+| 139 | Macau | 0 | 2012 est. |
+| 140 | Moldova | 0 | 2011 est. |
+| 141 | Mongolia | 0 | 2011 est. |
+| 142 | Montserrat | 0 | 2011 est. |
+| 143 | Malawi | 0 | 2011 est. |
+| 144 | Montenegro | 0 | 2011 est. |
+| 145 | Macedonia | 0 | 2012 |
+| 146 | Mali | 0 | 2011 est. |
+| 147 | Morocco | 0 | 2011 est. |
+| 148 | Mauritius | 0 | 2011 est. |
+| 149 | Mauritania | 0 | 2011 est. |
+| 150 | Malta | 0 | 2011 est. |
+| 151 | Maldives | 0 | 2012 est. |
+| 152 | New Caledonia | 0 | 2011 est. |
+| 153 | Niue | 0 | 2011 est. |
+| 154 | Niger | 0 | 2011 est. |
+| 155 | Vanuatu | 0 | 2011 est. |
+| 156 | Nepal | 0 | 2011 est. |
+| 157 | Nauru | 0 | 2011 est. |
+| 158 | Suriname | 0 | 2011 est. |
+| 159 | Nicaragua | 0 | 2012 est. |
+| 160 | New Zealand | 0 | 2012 est. |
+| 161 | South Sudan | 0 | 2011 est. |
+| 162 | Paraguay | 0 | 2011 est. |
+| 163 | Pakistan | 0 | 2011 est. |
+| 164 | Panama | 0 | 2011 est. |
+| 165 | Portugal | 0 | 2011 est. |
+| 166 | Papua New Guinea | 0 | 2011 est. |
+| 167 | Guinea-Bissau | 0 | 2011 est. |
+| 168 | Serbia | 0 | 2012 est. |
+| 169 | Romania | 0 | 2011 est. |
+| 170 | Philippines | 0 | 2011 est. |
+| 171 | Puerto Rico | 0 | 2011 est. |
+| 172 | Rwanda | 0 | 2011 est. |
+| 173 | Saudi Arabia | 0 | 2011 est. |
+| 174 | Saint Pierre and Miquelon | 0 | 2011 est. |
+| 175 | Saint Kitts and Nevis | 0 | 2011 est. |
+| 176 | Seychelles | 0 | 2011 est. |
+| 177 | South Africa | 0 | 2011 est. |
+| 178 | Senegal | 0 | 2011 est. |
+| 179 | Saint Helena, Ascension, and Tristan da Cunha | 0 | 2011 est. |
+| 180 | Sierra Leone | 0 | 2011 est. |
+| 181 | Singapore | 0 | 2011 est. |
+| 182 | Somalia | 0 | 2011 est. |
+| 183 | Saint Lucia | 0 | 2011 est. |
+| 184 | Sudan | 0 | 2011 est. |
+| 185 | Sweden | 0 | 2011 est. |
+| 186 | Syria | 0 | 2011 est. |
+| 187 | Thailand | 0 | 2011 est. |
+| 188 | Tajikistan | 0 | 2012 est. |
+| 189 | Turks and Caicos Islands | 0 | 2011 est. |
+| 190 | Tonga | 0 | 2011 est. |
+| 191 | Togo | 0 | 2011 est. |
+| 192 | Sao Tome and Principe | 0 | 2011 est. |
+| 193 | Tunisia | 0 | 2011 est. |
+| 194 | Timor-Leste | 0 | 2011 est. |
+| 195 | Taiwan | 0 | 2011 est. |
+| 196 | Tanzania | 0 | 2011 est. |
+| 197 | Uganda | 0 | 2011 est. |
+| 198 | Burkina Faso | 0 | 2011 est. |
+| 199 | Uruguay | 0 | 2011 est. |
+| 200 | Saint Vincent and the Grenadines | 0 | 2011 est. |
+| 201 | Venezuela | 0 | 2011 est. |
+| 202 | British Virgin Islands | 0 | 2011 est. |
+| 203 | Vietnam | 0 | 2012 est. |
+| 204 | Virgin Islands | 0 | 2011 est. |
+| 205 | Namibia | 0 | 2012 est. |
+| 206 | West Bank | 0 | 2011 est. |
+| 207 | Western Sahara | 0 | 2011 est. |
+| 208 | Samoa | 0 | 2011 est. |
+| 209 | Swaziland | 0 | 2011 est. |
+| 210 | Zambia | 0 | 2011 est. |
+| 211 | Zimbabwe | 0 | 2011 est. |
+
+

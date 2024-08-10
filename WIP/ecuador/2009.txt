@@ -1,0 +1,274 @@
+CIA - The World Factbook -- Ecuador
+page last updated on November 11, 2009
+
+
+| Geography | Ecuador |
+| --- | --- |
+| Location: | Western South America, bordering the Pacific Ocean at the Equator, between Colombia and Peru |
+| Geographic coordinates: | 2 00 S, 77 30 W |
+| Map references: | South America |
+| Area: | total: 283,561 sq km |
+| | land: 276,841 sq km |
+| | water: 6,720 sq km |
+| | note: includes Galapagos Islands |
+| Area - comparative: | slightly smaller than Nevada |
+| Land boundaries: | total: 2,010 km |
+| | border countries: Colombia 590 km, Peru 1,420 km |
+| Coastline: | 2,237 km |
+| Maritime claims: | territorial sea: 200 nm |
+| | continental shelf: 100 nm from 2,500-m isobath |
+| Climate: | tropical along coast, becoming cooler inland at higher elevations; tropical in Amazonian jungle lowlands |
+| Terrain: | coastal plain (costa), inter-Andean central highlands (sierra), and flat to rolling eastern jungle (oriente) |
+| Elevation extremes: | lowest point: Pacific Ocean 0 m |
+| | highest point: Chimborazo 6,267 m |
+| | note: due to the fact that the earth is not a perfect sphere and has an equatorial bulge, the highest point on the planet furthest from its center is Mount Chimborazo not Mount Everest, which is merely the highest point above sea-level |
+| Natural resources: | petroleum, fish, timber, hydropower |
+| Land use: | arable land: 5.71% |
+| | permanent crops: 4.81% |
+| | other: 89.48% (2005) |
+| Irrigated land: | 8,650 sq km (2003) |
+| Total renewable water resources: | 432 cu km (2000) |
+| Freshwater withdrawal (domestic/industrial/agricultural): | total: 16.98 cu km/yr (12%/5%/82%) |
+| | per capita: 1,283 cu m/yr (2000) |
+| Natural hazards: | frequent earthquakes; landslides; volcanic activity; floods; periodic droughts |
+| Environment - current issues: | deforestation; soil erosion; desertification; water pollution; pollution from oil production wastes in ecologically sensitive areas of the Amazon Basin and Galapagos Islands |
+| Environment - international agreements: | party to: Antarctic-Environmental Protocol, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands |
+| | signed, but not ratified: none of the selected agreements |
+| Geography - note: | Cotopaxi in Andes is highest active volcano in world |
+
+
+| People | Ecuador |
+| --- | --- |
+| Population: | 14,573,101 (July 2009 est.) |
+| Age structure: | 0-14 years: 31.1% (male 2,312,610/female 2,220,378) |
+| | 15-64 years: 62.7% (male 4,506,908/female 4,636,703) |
+| | 65 years and over: 6.2% (male 432,144/female 464,358) (2009 est.) |
+| Median age: | total: 25 years |
+| | male: 24.4 years |
+| | female: 25.6 years (2009 est.) |
+| Population growth rate: | 1.497% (2009 est.) |
+| Birth rate: | 20.77 births/1,000 population (2009 est.) |
+| Death rate: | 4.99 deaths/1,000 population (July 2009 est.) |
+| Net migration rate: | -0.81 migrant(s)/1,000 population (2009 est.) |
+| Urbanization: | urban population: 66% of total population (2008) |
+| | rate of urbanization: 2.1% annual rate of change (2005-10 est.) |
+| Sex ratio: | at birth: 1.05 male(s)/female |
+| | under 15 years: 1.04 male(s)/female |
+| | 15-64 years: 0.97 male(s)/female |
+| | 65 years and over: 0.93 male(s)/female |
+| | total population: 0.99 male(s)/female (2009 est.) |
+| Infant mortality rate: | total: 20.9 deaths/1,000 live births |
+| | male: 24.4 deaths/1,000 live births |
+| | female: 17.24 deaths/1,000 live births (2009 est.) |
+| Life expectancy at birth: | total population: 75.3 years |
+| | male: 72.37 years |
+| | female: 78.37 years (2009 est.) |
+| Total fertility rate: | 2.51 children born/woman (2009 est.) |
+| HIV/AIDS - adult prevalence rate: | 0.3% (2007 est.) |
+| HIV/AIDS - people living with HIV/AIDS: | 26,000 (2007 est.) |
+| HIV/AIDS - deaths: | 1,400 (2007 est.) |
+| Major infectious diseases: | degree of risk: high |
+| | food or waterborne diseases: bacterial diarrhea, hepatitis A, and typhoid fever |
+| | vectorborne diseases: dengue fever and malaria |
+| | water contact disease: leptospirosis (2009) |
+| Nationality: | noun: Ecuadorian(s) |
+| | adjective: Ecuadorian |
+| Ethnic groups: | mestizo (mixed Amerindian and white) 65%, Amerindian 25%, Spanish and others 7%, black 3% |
+| Religions: | Roman Catholic 95%, other 5% |
+| Languages: | Spanish (official), Amerindian languages (especially Quechua) |
+| Literacy: | definition: age 15 and over can read and write |
+| | total population: 91% |
+| | male: 92.3% |
+| | female: 89.7% (2001 census) |
+| Education expenditures: | 1% of GDP (2001) |
+
+
+| Government | Ecuador |
+| --- | --- |
+| Country name: | conventional long form: Republic of Ecuador |
+| | conventional short form: Ecuador |
+| | local long form: Republica del Ecuador |
+| | local short form: Ecuador |
+| Government type: | republic |
+| Capital: | name: Quito |
+| | geographic coordinates: 0 13 S, 78 30 W |
+| | time difference: UTC-5 (same time as Washington, DC during Standard Time) |
+| Administrative divisions: | 24 provinces (provincias, singular - provincia); Azuay, Bolivar, Canar, Carchi, Chimborazo, Cotopaxi, El Oro, Esmeraldas, Galapagos, Guayas, Imbabura, Loja, Los Rios, Manabi, Morona-Santiago, Napo, Orellana, Pastaza, Pichincha, Santa Elena, Santo Domingo de los Tsachilas, Sucumbios, Tungurahua, Zamora-Chinchipe |
+| Independence: | 24 May 1822 (from Spain) |
+| National holiday: | Independence Day (independence of Quito), 10 August (1809) |
+| Constitution: | 20 October 2008 |
+| Legal system: | based on civil law system; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal, compulsory for literate persons ages 18-65, optional for other eligible voters |
+| Executive branch: | chief of state: President Rafael CORREA Delgado (since 15 January 2007); Vice President Lenin MORENO Garces (since 15 January 2007); note - the president is both the chief of state and head of government |
+| | head of government: President Rafael CORREA Delgado (since 15 January 2007); Vice President Lenin MORENO Garces (since 15 January 2007) |
+| | cabinet: Cabinet appointed by the president |
+| | elections: the president and vice president are elected on the same ticket by popular vote for a four-year term and can be re-elected for another consecutive term; election last held 26 April 2009 (next to be held 2013) |
+| | election results: President Rafael CORREA Delgado reelected president; percent of vote - Rafael CORREA Delgado 51.7%; Lucio GUTIERREZ 28%; Alvaro NOBOA 11.6%; other 8.7%; note - official results pending |
+| Legislative branch: | unicameral National Congress or Congreso Nacional (100 seats; members are elected through a party-list proportional representation system to serve four-year terms) |
+| | elections: last held 15 October 2006 (next to be held 26 April 2009) |
+| | election results: percent of vote by party - NA; seats by party - PRIAN 28; PSP 24; PSC 13; ID 7; PRE 6; MUPP-NP 6; RED 5; UDC 5; other 6; note - defections by members of National Congress are commonplace, resulting in frequent changes in the numbers of seats held by the various parties |
+| | note: when a Constituent Assembly was convened to draft a new constitution, the National Congress was placed on indefinite recess and replaced by a legislative committee; the legislative committee will continue to function until a new National Assembly is elected in April 2009 |
+| Judicial branch: | Supreme Court or Corte Suprema (according to the Constitution, new justices are elected by the full Supreme Court; in December 2004, however, Congress successfully replaced the entire court by a simple majority resolution) |
+| Political parties and leaders: | Alianza PAIS Movement [Rafael Vicente CORREA Delgado]; Christian Democratic Union or UDC [Diego ORDONEZ Guerrero]; Democratic Left or ID [Andres PAEZ Benalcazar]; Ethical and Democratic Network or RED [Leon ROLDOS]; Institutional Renewal and National Action Party or PRIAN [Alvaro NOBOA]; Pachakutik Plurinational Unity Movement - New Country or MUPP-NP [Jorge GUAMAN]; Patriotic Society Party or PSP [Lucio GUTIERREZ Borbua]; Popular Democratic Movement or MPD [Ciro GUZMAN Aldaz]; Roldosist Party or PRE [Abdala BUCARAM Ortiz, director]; Social Christian Party or PSC [Pascual DEL CIOPPO]; Socialist Party - Broad Front or PS-FA [Gustavo AYALA Cruz] |
+| Political pressure groups and leaders: | Confederation of Indigenous Nationalities of Ecuador or CONAIE [Marlon SANTI, president]; Coordinator of Social Movements or CMS [F. Napoleon SANTOS]; Federation of Indigenous Evangelists of Ecuador or FEINE [Marco MURILLO, president]; National Federation of Indigenous Afro-Ecuatorianos and Peasants or FENOCIN [Pedro DE LA CRUZ, president] |
+| International organization participation: | CAN, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, LAES, LAIA, Mercosur (associate), MIGA, MINURCAT, MINUSTAH, NAM, OAS, OPANAL, OPCW, OPEC, PCA, RG, UN, UNASUR, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNMIL, UNMIS, UNOCI, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Luis Benigno GALLEGOS Chiriboga |
+| | chancery: 2535 15th Street NW, Washington, DC 20009 |
+| | telephone: [1] (202) 234-7200 |
+| | FAX: [1] (202) 667-3482 |
+| | consulate(s) general: Chicago, Houston, Los Angeles, Miami, New Orleans, New York, Newark (New Jersey), San Francisco |
+| Diplomatic representation from the US: | chief of mission: Ambassador Heather HODGES |
+| | embassy: Avenida Avigiras E12-170 y Avenida Eloy Alfaro, Quito |
+| | mailing address: Avenida Guayacanes N52-205 y Avenida Avigiras |
+| | telephone: [593] (2) 398-5000 |
+| | FAX: [593] (2) 398-5100 |
+| | consulate(s) general: Guayaquil |
+| Flag description: | three horizontal bands of yellow (top, double width), blue, and red with the coat of arms superimposed at the center of the flag; similar to the flag of Colombia, which is shorter and does not bear a coat of arms |
+
+
+| Economy | Ecuador |
+| --- | --- |
+| Economy - overview: | Ecuador is substantially dependent on its petroleum resources, which have accounted for more than half of the country's export earnings and one-fourth of public sector revenues in recent years. In 1999/2000, Ecuador suffered a severe economic crisis, with GDP contracting by more than 6%. Poverty increased significantly, the banking system collapsed, and Ecuador defaulted on its external debt later that year. In March 2000, Congress approved a series of structural reforms that also provided for the adoption of the US dollar as legal tender. Dollarization stabilized the economy, and positive growth returned in the years that followed, helped by high oil prices, remittances, and increased non-traditional exports. From 2002-06 the economy grew 5.5%, the highest five-year average in 25 years. The poverty rate declined but remained high at 38% in 2006. In 2006 the government imposed a windfall revenue tax on foreign oil companies, leading to the suspension of free trade negotiations with the US. These measures led to a drop in petroleum production in 2007. President Rafael CORREA raised the specter of debt default and followed through on those threats in December 2008 by defaulting on some commercial bond obligations. He also decreed a higher windfall revenue tax on private oil companies, then renegotiated their contracts to overcome the debilitating effect of the tax. This generated economic uncertainty; private investment has dropped and economic growth has slowed. |
+| GDP (purchasing power parity): | $108 billion (2008 est.) |
+| | $101.4 billion (2007 est.) |
+| | $98.93 billion (2006 est.) |
+| | note: data are in 2008 US dollars |
+| GDP (official exchange rate): | $54.69 billion (2008 est.) |
+| GDP - real growth rate: | 6.5% (2008 est.) |
+| | 2.5% (2007 est.) |
+| | 3.9% (2006 est.) |
+| GDP - per capita (PPP): | $7,500 (2008 est.) |
+| | $7,200 (2007 est.) |
+| | $7,100 (2006 est.) |
+| | note: data are in 2008 US dollars |
+| GDP - composition by sector: | agriculture: 6.7% |
+| | industry: 34.3% |
+| | services: 59% (2008 est.) |
+| Labor force: | 4.64 million (urban) (2008 est.) |
+| Labor force - by occupation: | agriculture: 8.3% |
+| | industry: 21.2% |
+| | services: 70.4% (2005) |
+| Unemployment rate: | 7.3% (2008 est.) |
+| | 8.8% (2007 est.) |
+| Population below poverty line: | 38.3% (2006) |
+| Household income or consumption by percentage share: | lowest 10%: 1.2% |
+| | highest 10%: 43.3% |
+| | note: data for urban households only (2007) |
+| Distribution of family income - Gini index: | 46 (2006) |
+| | 43.7 (1995) |
+| | note: data are for urban households |
+| Investment (gross fixed): | 22.1% of GDP (2008 est.) |
+| Budget: | revenues: $21.09 billion |
+| | expenditures: planned $21.35 billion (2008 est.) |
+| Public debt: | 25.1% of GDP (2008 est.) |
+| Inflation rate (consumer prices): | 8.3% (2008 est.) |
+| | 2.3% (2007 est.) |
+| Central bank discount rate: | 9.14% (31 December 2008) |
+| | 10.72% (31 December 2007) |
+| Commercial bank prime lending rate: | 9.71% (31 December 2008) |
+| Stock of money: | $5.907 billion (31 December 2008) |
+| | $4.395 billion (31 December 2007) |
+| Stock of quasi money: | $9.383 billion (31 December 2008) |
+| | $7.974 billion (31 December 2007) |
+| Stock of domestic credit: | $10.13 billion (31 December 2008) |
+| | $8.926 billion (31 December 2007) |
+| Market value of publicly traded shares: | $4.562 billion (31 December 2008) |
+| | $4.266 billion (31 December 2007) |
+| | $4.04 billion (31 December 2006) |
+| Agriculture - products: | bananas, coffee, cocoa, rice, potatoes, manioc (tapioca), plantains, sugarcane; cattle, sheep, pigs, beef, pork, dairy products; balsa wood; fish, shrimp |
+| Industries: | petroleum, food processing, textiles, wood products, chemicals |
+| Industrial production growth rate: | 5.5% (2008 est.) |
+| Electricity - production: | 16.75 billion kWh (2007 est.) |
+| Electricity - consumption: | 9.888 billion kWh (2007 est.) |
+| Electricity - exports: | 38.53 million kWh (2007 est.) |
+| Electricity - imports: | 861 million kWh (2007 est.) |
+| Oil - production: | 505,100 bbl/day (2008 est.) |
+| Oil - consumption: | 178,000 bbl/day (2008 est.) |
+| Oil - exports: | 417,000 bbl/day (2007 est.) |
+| Oil - imports: | 54,190 bbl/day (2007 est.) |
+| Oil - proved reserves: | 4.66 billion bbl (1 January 2009 est.) |
+| Natural gas - production: | 260 million cu m (2008 est.) |
+| Natural gas - consumption: | 260 million cu m (2008 est.) |
+| Natural gas - exports: | 0 cu m (2008) |
+| Natural gas - imports: | 0 cu m (2008 est.) |
+| Natural gas - proved reserves: | 8.919 billion cu m (1 January 2009 est.) |
+| Current account balance: | $1.194 billion (2008 est.) |
+| | $1.65 billion (2007 est.) |
+| Exports: | $19.15 billion (2008 est.) |
+| | $14.87 billion (2007 est.) |
+| Exports - commodities: | petroleum, bananas, cut flowers, shrimp, cacao, coffee, hemp, wood, fish |
+| Exports - partners: | US 45.3%, Peru 9.2%, Chile 8.1%, Panama 4.8%, Colombia 4.2% (2008) |
+| Imports: | $17.79 billion (2008 est.) |
+| | $13.05 billion (2007 est.) |
+| Imports - commodities: | industrial materials, fuels and lubricants, nondurable consumer goods |
+| Imports - partners: | US 19.1%, Venezuela 13.8%, Colombia 9.9%, China 8.4%, Brazil 4.8%, Japan 4.1% (2008) |
+| Reserves of foreign exchange and gold: | $4.473 billion (31 December 2008 est.) |
+| | $3.521 billion (31 December 2007 est.) |
+| Debt - external: | $18.11 billion (31 December 2008) |
+| | $NA (31 December 2007) |
+| Stock of direct foreign investment - at home: | $16.99 billion (31 December 2008 est.) |
+| | $16.31 billion (31 December 2007 est.) |
+| Stock of direct foreign investment - abroad: | $8.487 billion (31 December 2008 est.) |
+| | $10.77 billion (31 December 2007 est.) |
+| Exchange rates: | the US dollar is used; the sucre was eliminated in 2000 |
+
+
+| Communications | Ecuador |
+| --- | --- |
+| Telephones - main lines in use: | 1.91 million (2008) |
+| Telephones - mobile cellular: | 11.595 million (2008) |
+| Telephone system: | general assessment: generally elementary but being expanded |
+| | domestic: fixed-line services provided by three state-owned enterprises; plans to transfer the state-owned operators to private ownership have repeatedly failed; fixed-line density stands at about 14 per 100 persons; mobile cellular use has surged and has a subscribership of nearly 85 per 100 persons |
+| | international: country code - 593; landing point for the PAN-AM submarine telecommunications cable that provides links to the west coast of South America, Panama, Colombia, Venezuela, and extending onward to Aruba and the US Virgin Islands in the Caribbean; satellite earth station - 1 Intelsat (Atlantic Ocean) (2008) |
+| Radio broadcast stations: | AM 392, FM 35, shortwave 29 (2001) |
+| Television broadcast stations: | 7 (plus 14 repeaters) (2000) |
+| Internet country code: | .ec |
+| Internet hosts: | 57,785 (2009) |
+| Internet users: | 1.31 million (2008) |
+
+
+| Transportation | Ecuador |
+| --- | --- |
+| Airports: | 420 (2009) |
+| Airports - with paved runways: | total: 103 |
+| | over 3,047 m: 3 |
+| | 2,438 to 3,047 m: 3 |
+| | 1,524 to 2,437 m: 18 |
+| | 914 to 1,523 m: 25 |
+| | under 914 m: 54 (2009) |
+| Airports - with unpaved runways: | total: 317 |
+| | 914 to 1,523 m: 38 |
+| | under 914 m: 279 (2009) |
+| Heliports: | 2 (2009) |
+| Pipelines: | extra heavy crude 435 km; gas 5 km; oil 1,374 km; refined products 1,301 km (2008) |
+| Railways: | total: 965 km |
+| | narrow gauge: 965 km 1.067-m gauge (2008) |
+| Roadways: | total: 43,670 km |
+| | paved: 6,472 km |
+| | unpaved: 37,198 km (2006) |
+| Waterways: | 1,500 km (most inaccessible) (2008) |
+| Merchant marine: | total: 37 |
+| | by type: cargo 1, chemical tanker 1, liquefied gas 1, passenger 8, petroleum tanker 24, refrigerated cargo 1, specialized tanker 1 |
+| | foreign-owned: 1 (US 1) |
+| | registered in other countries: 5 (China 1, Panama 4) (2008) |
+| Ports and terminals: | Esmeraldas, Guayaquil, Manta, Puerto Bolivar |
+
+
+| Military | Ecuador |
+| --- | --- |
+| Military branches: | Army, Navy (includes Naval Infantry, Naval Aviation, Coast Guard), Air Force (Fuerza Aerea Ecuatoriana, FAE) (2007) |
+| Military service age and obligation: | 20 years of age for selective conscript military service; 12-month service obligation (2008) |
+| Manpower available for military service: | males age 16-49: 3,536,602 |
+| | females age 16-49: 3,559,188 (2008 est.) |
+| Manpower fit for military service: | males age 16-49: 2,708,470 |
+| | females age 16-49: 3,165,489 (2009 est.) |
+| Manpower reaching militarily significant age annually: | male: 148,010 |
+| | female: 143,291 (2009 est.) |
+| Military expenditures: | 2.8% of GDP (2006) |
+
+
+| Transnational Issues | Ecuador |
+| --- | --- |
+| Disputes - international: | organized illegal narcotics operations in Colombia penetrate across Ecuador's shared border, which thousands of Colombians also cross to escape the violence in their home country |
+| Refugees and internally displaced persons: | refugees (country of origin): 11,526 (Colombia); note - UNHCR estimates as many as 250,000 Columbians are seeking asylum in Ecuador, many of whom do not register as refugees for fear of deportation (2007) |
+| Illicit drugs: | significant transit country for cocaine originating in Colombia and Peru, with much of the US-bound cocaine passing through Ecuadorian Pacific waters; importer of precursor chemicals used in production of illicit narcotics; attractive location for cash-placement by drug traffickers laundering money because of dollarization and weak anti-money-laundering regime; increased activity on the northern frontier by trafficking groups and Colombian insurgents (2008) |

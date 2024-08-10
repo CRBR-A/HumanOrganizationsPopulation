@@ -1,0 +1,101 @@
+CIA - The World Factbook --  Stock of direct foreign investment - abroad   
+
+Stock of direct foreign investment - abroad compares the cumulative US dollar value of all investments in foreign countries made directly by residents - primarily companies - of the home country, as of the end of the time period indicated. Direct investment excludes investment through purchase of shares.
+
+| Rank | country | Stock of direct foreign investment - abroad | Date of Information |
+| --- | --- | --- | --- |
+| 1 | United States | $ 4,854,000,000,000 | 31 December 2013 est. |
+| 2 | United Kingdom | $ 1,884,000,000,000 | 31 December 2013 est. |
+| 3 | Germany | $ 1,871,000,000,000 | 31 December 2013 est. |
+| 4 | France | $ 1,489,000,000,000 | 31 December 2013 est. |
+| 5 | Switzerland | $ 1,432,000,000,000 | 31 December 2013 est. |
+| 6 | Hong Kong | $ 1,392,000,000,000 | 31 December 2013 est. |
+| 7 | Belgium | $ 1,215,000,000,000 | 31 December 2013 est. |
+| 8 | Japan | $ 1,179,000,000,000 | 31 December 2013 est. |
+| 9 | Canada | $ 1,047,000,000,000 | 31 December 2013 est. |
+| 10 | Netherlands | $ 1,034,000,000,000 | 31 December 2013 est. |
+| 11 | Ireland | $ 792,600,000,000 | 31 December 2013 est. |
+| 12 | Spain | $ 714,400,000,000 | 31 December 2013 est. |
+| 13 | Italy | $ 683,600,000,000 | 31 December 2013 est. |
+| 14 | Sweden | $ 558,800,000,000 | 31 December 2013 est. |
+| 15 | China | $ 541,000,000,000 | 31 December 2013 est. |
+| 16 | Australia | $ 440,100,000,000 | 31 December 2013 est. |
+| 17 | Russia | $ 439,200,000,000 | 31 December 2013 est. |
+| 18 | Singapore | $ 367,800,000,000 | 31 December 2012 est. |
+| 19 | Austria | $ 345,200,000,000 | 31 December 2013 est. |
+| 20 | Norway | $ 264,300,000,000 | 31 December 2013 est. |
+| 21 | Denmark | $ 248,300,000,000 | 31 December 2013 est. |
+| 22 | Taiwan | $ 240,300,000,000 | 31 December 2013 est. |
+| 23 | Korea, South | $ 223,200,000,000 | 31 December 2013 est. |
+| 24 | Finland | $ 197,200,000,000 | 31 December 2013 est. |
+| 25 | Brazil | $ 179,600,000,000 | 31 December 2013 est. |
+| 26 | Mexico | $ 141,200,000,000 | 31 December 2013 est. |
+| 27 | Malaysia | $ 133,500,000,000 | 31 December 2013 est. |
+| 28 | India | $ 120,100,000,000 | 31 December 2013 est. |
+| 29 | Chile | $ 109,200,000,000 | 31 December 2013 est. |
+| 30 | South Africa | $ 87,670,000,000 | 31 December 2013 est. |
+| 31 | Israel | $ 80,850,000,000 | 31 December 2013 est. |
+| 32 | Portugal | $ 71,260,000,000 | 31 December 2013 est. |
+| 33 | Poland | $ 69,780,000,000 | 31 December 2013 est. |
+| 34 | Thailand | $ 65,140,000,000 | 31 December 2013 est. |
+| 35 | United Arab Emirates | $ 61,960,000,000 | 31 December 2013 est. |
+| 36 | Kuwait | $ 60,760,000,000 | 31 December 2013 est. |
+| 37 | New Zealand | $ 59,080,000,000 | 31 December 2009 |
+| 38 | Hungary | $ 45,950,000,000 | 31 December 2013 est. |
+| 39 | Greece | $ 43,310,000,000 | 31 December 2013 est. |
+| 40 | Argentina | $ 34,210,000,000 | 31 December 2013 est. |
+| 41 | Colombia | $ 33,700,000,000 | 31 December 2013 est. |
+| 42 | Turkey | $ 33,440,000,000 | 31 December 2013 est. |
+| 43 | Qatar | $ 28,860,000,000 | 31 December 2013 est. |
+| 44 | Kazakhstan | $ 26,530,000,000 | 31 December 2013 est. |
+| 45 | Saudi Arabia | $ 26,080,000,000 | 31 December 2013 est. |
+| 46 | Venezuela | $ 21,940,000,000 | 31 December 2013 est. |
+| 47 | Libya | $ 17,820,000,000 | 31 December 2013 est. |
+| 48 | Indonesia | $ 17,410,000,000 | 31 December 2013 est. |
+| 49 | Czech Republic | $ 16,630,000,000 | 31 December 2013 est. |
+| 50 | Angola | $ 12,870,000,000 | 31 December 2013 est. |
+| 51 | Cyprus | $ 12,110,000,000 | 31 December 2013 est. |
+| 52 | Slovakia | $ 11,150,000,000 | 31 December 2013 est. |
+| 53 | Bahrain | $ 10,860,000,000 | 31 December 2013 est. |
+| 54 | Philippines | $ 9,435,000,000 | 31 December 2013 est. |
+| 55 | Nigeria | $ 9,212,000,000 | 31 December 2013 est. |
+| 56 | Azerbaijan | $ 8,616,000,000 | 31 December 2013 est. |
+| 57 | Ukraine | $ 8,604,000,000 | 31 December 2013 est. |
+| 58 | Slovenia | $ 7,453,000,000 | 31 December 2013 est. |
+| 59 | Estonia | $ 7,340,000,000 | 31 December 2013 est. |
+| 60 | Egypt | $ 6,475,000,000 | 31 December 2013 est. |
+| 61 | Ecuador | $ 6,330,000,000 | 31 December 2012 est. |
+| 62 | Croatia | $ 6,081,000,000 | 31 December 2013 est. |
+| 63 | Cuba | $ 4,138,000,000 | 2006 est. |
+| 64 | Trinidad and Tobago | $ 3,829,000,000 | 2007 |
+| 65 | Iran | $ 3,645,000,000 | 31 December 2013 est. |
+| 66 | Panama | $ 3,233,000,000 | 31 December 2013 est. |
+| 67 | Peru | $ 3,165,000,000 | 31 December 2013 est. |
+| 68 | Lithuania | $ 3,029,000,000 | 31 December 2013 est. |
+| 69 | Algeria | $ 2,433,000,000 | 31 December 2013 est. |
+| 70 | Latvia | $ 2,212,000,000 | 31 December 2013 est. |
+| 71 | Morocco | $ 1,972,000,000 | 31 December 2013 est. |
+| 72 | Bulgaria | $ 1,939,000,000 | 31 December 2013 est. |
+| 73 | Costa Rica | $ 1,681,000,000 | 31 December 2013 est. |
+| 74 | Pakistan | $ 1,569,000,000 | 31 December 2013 est. |
+| 75 | Romania | $ 1,455,000,000 | 31 December 2013 est. |
+| 76 | Malta | $ 1,442,000,000 | 31 June 2013 est. |
+| 77 | Georgia | $ 1,359,000,000 | 31 December 2013 est. |
+| 78 | Macau | $ 1,166,000,000 | 2012 est. |
+| 79 | Jordan | $ 549,000,000 | 31 December 2013 est. |
+| 80 | Uruguay | $ 422,000,000 | 31 December 2013 est. |
+| 81 | Kenya | $ 335,400,000 | 31 December 2013 est. |
+| 82 | Tunisia | $ 295,000,000 | 31 December 2013 est. |
+| 83 | Paraguay | $ 213,600,000 | 31 December 2013 est. |
+| 84 | Guinea | $ 145,000,000 | 31 December 2013 est. |
+| 85 | Bangladesh | $ 110,100,000 | 31 December 2013 est. |
+| 86 | Moldova | $ 108,200,000 | 31 December 2012 |
+| 87 | Dominican Republic | $ 59,000,000 | 31 December 2013 est. |
+| 88 | Fiji | $ 43,030,000 | 31 December 2013 est. |
+| 89 | Kyrgyzstan | $ 39,600,000 | 31 December 2013 est. |
+| 90 | Vanuatu | $ 21,300,000 | 31 December 2013 est. |
+| 91 | Rwanda | $ 12,900,000 | 31 December 2013 est. |
+| 92 | El Salvador | $ 5,700,000 | 31 December 2013 est. |
+| 93 | Bolivia | $ 0 | 31 december 2013 |
+
+

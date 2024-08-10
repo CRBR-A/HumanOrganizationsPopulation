@@ -1,0 +1,8 @@
+The French began to settle this island in 1635, overcoming resistance from the local Carib inhabitants. In 1660, the suviving natives were rounded up and permanently expelled. The island has subsequently remained a French possession except for three brief periods of foreign occupation.  
+
+---
+country: Martinique
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Martinique/>
+license: public domain (U.S.)
+...

@@ -1,0 +1,29 @@
+Telephone Code: 220
+Local Emergency Phone - Ambulance: 16
+Local Emergency Phone - Fire: 18
+Local Emergency Phone - Police: 17
+Climate: Tropical; hot, rainy season (June to November); cooler, dry season (November to May)
+Currency (Code): Dalasis (GMD)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): G
+Major Languages: English, Mandinka, Wolof, Fula, other indigenous vernaculars
+Major Religions: Muslim 95.7%, Christian 4.2%
+Time Difference: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Obtain a temporary license from local authority.
+Road Driving Side: Right
+Tourist Destinations: Sanyang Village; National Museum of Gambia; Stone Circles of Senegambia; Kachikally Crocodile Pool; Makasutu Culture Forest; Kotu Beach; River Gambia National Park; Bijilo Forest Park
+Major Sports: Soccer, basketball, athletics (track and field), cricket
+Cultural Practices: Looking elders directly in the eye is considered rude.
+Tipping Guidelines: A 7.5% tip is recommended at restaurants. A $1 (USD) a day tip for room service or maid staff is expected during a hotel stay.
+Souvenirs: Batik cloth goods, traditional clothing, acacia or ebony wood carvings, native drums, ceremonial masks and statues; beaded, stamped, or carved silver jewelry
+Traditional Cuisine: Domodah --- a stew with ground peanuts or peanut butter, meat, onion, tomato, garlic, seasonal vegetables, and spices typically served over rice or findi (a grain similar to couscous)
+
+---
+country: Gambia, The
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Gambia, The/travel-facts>
+license: public domain (U.S.)
+...

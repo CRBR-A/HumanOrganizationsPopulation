@@ -1,0 +1,27 @@
+Telephone Code: 377
+Local Emergency Phone: 112
+Climate: Mediterranean with mild, wet winters and hot, dry summers
+Currency (Code): Euros (EUR)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, E, F
+Major Languages: French, English, Italian, Monegasque
+Major Religions: Roman Catholic 90%, other 10%
+Time Difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time); daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October
+Potable Water: Yes
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Oceanographic Museum; Motor Races; Monte Carlo Casino; Jardin Exotique; Les Apartments du Palais; St Martin & Saint Barbe Gardens
+Major Sports: Formula One & E, soccer, yachting, tennis, chess
+Cultural Practices: Be gentle with pouring - never fill the glass more than half-way - alcohol is something that is to be savored, not guzzled. Never drink before every single person has been served, and never fill your own glass.
+Tipping Guidelines: Restaurants nearly always includes a service charge of 10-15% of the total bill. Doorman and porters generally receive up to 5 euros for their services.
+Souvenirs: Designer clothes, jewelry, watches, and perfumes; racing memorabilia, ceramics, collectible stamps
+Traditional Cuisine: Barbagiuan --- chard leaves, onions, ham, and parmesan-or ricotta-cheese-stuffed deep-fried pastries
+
+---
+country: Monaco
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Monaco/travel-facts>
+license: public domain (U.S.)
+...

@@ -1,0 +1,316 @@
+CIA - The World Factbook -- Australia
+page last updated on January 29, 2013
+
+
+| Geography | Australia |
+| --- | --- |
+| Location: | Oceania, continent between the Indian Ocean and the South Pacific Ocean |
+| Geographic coordinates: | 27 00 S, 133 00 E |
+| Map references: | Oceania |
+| Area: | total: 7,741,220 sq km |
+| | land: 7,682,300 sq km |
+| | water: 58,920 sq km |
+| | note: includes Lord Howe Island and Macquarie Island |
+| Area - comparative: | slightly smaller than the US contiguous 48 states |
+| Land boundaries: | 0 km |
+| Coastline: | 25,760 km |
+| Maritime claims: | territorial sea: 12 nm |
+| | contiguous zone: 24 nm |
+| | exclusive economic zone: 200 nm |
+| | continental shelf: 200 nm or to the edge of the continental margin |
+| Climate: | generally arid to semiarid; temperate in south and east; tropical in north |
+| Terrain: | mostly low plateau with deserts; fertile plain in southeast |
+| Elevation extremes: | lowest point: Lake Eyre -15 m |
+| | highest point: Mount Kosciuszko 2,229 m |
+| Natural resources: | bauxite, coal, iron ore, copper, tin, gold, silver, uranium, nickel, tungsten, rare earth elements, mineral sands, lead, zinc, diamonds, natural gas, petroleum |
+| | note: Australia is the world's largest net exporter of coal accounting for 29% of global coal exports |
+| Land use: | arable land: 6.15% (includes about 27 million hectares of cultivated grassland) |
+| | permanent crops: 0.04% |
+| | other: 93.81% (2005) |
+| Irrigated land: | 25,500 sq km (2003) |
+| Total renewable water resources: | 398 cu km (1995) |
+| Freshwater withdrawal (domestic/industrial/agricultural): | total: 24.06 cu km/yr (15%/10%/75%) |
+| | per capita: 1,193 cu m/yr (2000) |
+| Natural hazards: | cyclones along the coast; severe droughts; forest fires |
+| | volcanism: volcanic activity on Heard and McDonald Islands |
+| Environment - current issues: | soil erosion from overgrazing, industrial development, urbanization, and poor farming practices; soil salinity rising due to the use of poor quality water; desertification; clearing for agricultural purposes threatens the natural habitat of many unique animal and plant species; the Great Barrier Reef off the northeast coast, the largest coral reef in the world, is threatened by increased shipping and its popularity as a tourist site; limited natural freshwater resources |
+| Environment - international agreements: | party to: Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling |
+| | signed, but not ratified: none of the selected agreements |
+| Geography - note: | world's smallest continent but sixth-largest country; the only continent without glaciers; population concentrated along the eastern and southeastern coasts; the invigorating sea breeze known as the "Fremantle Doctor" affects the city of Perth on the west coast and is one of the most consistent winds in the world |
+
+
+| People and Society | Australia |
+| --- | --- |
+| Nationality: | noun: Australian(s) |
+| | adjective: Australian |
+| Ethnic groups: | white 92%, Asian 7%, aboriginal and other 1% |
+| Languages: | English 78.5%, Chinese 2.5%, Italian 1.6%, Greek 1.3%, Arabic 1.2%, Vietnamese 1%, other 8.2%, unspecified 5.7% (2006 Census) |
+| Religions: | Protestant 27.4% (Anglican 18.7%, Uniting Church 5.7%, Presbyterian and Reformed 3%), Catholic 25.8%, Eastern Orthodox 2.7%, other Christian 7.9%, Buddhist 2.1%, Muslim 1.7%, other 2.4%, unspecified 11.3%, none 18.7% (2006 Census) |
+| Population: | 22,015,576 (July 2012 est.) |
+| Age structure: | 0-14 years: 18.2% (male 2,050,403/ female 1,946,829) |
+| | 15-64 years: 67.5% (male 7,532,611/ female 7,326,120) |
+| | 65 years and over: 14.4% (male 1,451,869/ female 1,707,744) (2012 est.) |
+| | population pyramid: [] |
+| Median age: | total: 37.9 years |
+| | male: 37.1 years |
+| | female: 38.6 years (2012 est.) |
+| Population growth rate: | 1.126% (2012 est.) |
+| Birth rate: | 12.28 births/1,000 population (2012 est.) |
+| Death rate: | 6.94 deaths/1,000 population (July 2012 est.) |
+| Net migration rate: | 5.93 migrant(s)/1,000 population (2012 est.) |
+| Urbanization: | urban population: 89% of total population (2010) |
+| | rate of urbanization: 1.2% annual rate of change (2010-15 est.) |
+| Major cities - population: | Sydney 4.429 million; Melbourne 3.853 million; Brisbane 1.97 million; Perth 1.599 million; CANBERRA (capital) 384,000 (2009) |
+| Sex ratio: | at birth: 1.06 male(s)/female |
+| | under 15 years: 1.05 male(s)/female |
+| | 15-64 years: 1.03 male(s)/female |
+| | 65 years and over: 0.85 male(s)/female |
+| | total population: 1 male(s)/female (2011 est.) |
+| Maternal mortality rate: | 7 deaths/100,000 live births (2010) |
+| Infant mortality rate: | total: 4.55 deaths/1,000 live births |
+| | male: 4.87 deaths/1,000 live births |
+| | female: 4.21 deaths/1,000 live births (2012 est.) |
+| Life expectancy at birth: | total population: 81.9 years |
+| | male: 79.48 years |
+| | female: 84.45 years (2012 est.) |
+| Total fertility rate: | 1.77 children born/woman (2012 est.) |
+| Health expenditures: | 8.5% of GDP (2009) |
+| Physicians density: | 2.991 physicians/1,000 population (2009) |
+| Hospital bed density: | 3.82 beds/1,000 population (2009) |
+| Sanitation facility access: | improved: |
+| | urban: 100% of population |
+| | rural: 100% of population |
+| | total: 100% of population |
+| HIV/AIDS - adult prevalence rate: | 0.1% (2009 est.) |
+| HIV/AIDS - people living with HIV/AIDS: | 20,000 (2009 est.) |
+| HIV/AIDS - deaths: | fewer than 100 (2009 est.) |
+| Obesity - adult prevalence rate: | 16.4% (2005) |
+| Education expenditures: | 4.5% of GDP (2007) |
+| Literacy: | definition: age 15 and over can read and write |
+| | total population: 99% |
+| | male: 99% |
+| | female: 99% (2003 est.) |
+| School life expectancy (primary to tertiary education): | total: 21 years |
+| | male: 20 years |
+| | female: 21 years (2008) |
+| Unemployment, youth ages 15-24: | total: 11.6% |
+| | male: 12.6% |
+| | female: 10.4% (2009) |
+
+
+| Government | Australia |
+| --- | --- |
+| Country name: | conventional long form: Commonwealth of Australia |
+| | conventional short form: Australia |
+| Government type: | federal parliamentary democracy and a Commonwealth realm |
+| Capital: | name: Canberra |
+| | geographic coordinates: 35 16 S, 149 08 E |
+| | time difference: UTC+10 (15 hours ahead of Washington, DC during Standard Time) |
+| | daylight saving time: +1hr, begins first Sunday in October; ends first Sunday in April |
+| | note: Australia is divided into three time zones |
+| Administrative divisions: | 6 states and 2 territories*; Australian Capital Territory*, New South Wales, Northern Territory*, Queensland, South Australia, Tasmania, Victoria, Western Australia |
+| Dependent areas: | Ashmore and Cartier Islands, Christmas Island, Cocos (Keeling) Islands, Coral Sea Islands, Heard Island and McDonald Islands, Macquarie Island, Norfolk Island |
+| Independence: | 1 January 1901 (from the federation of UK colonies) |
+| National holiday: | Australia Day, 26 January (1788); ANZAC Day (commemorates the anniversary of the landing of troops of the Australian and New Zealand Army Corps during World War I at Gallipoli, Turkey), 25 April (1915) |
+| Constitution: | 9 July 1900; effective 1 January 1901 |
+| Legal system: | common law system based on the English model |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Suffrage: | 18 years of age; universal and compulsory |
+| Executive branch: | chief of state: Queen of Australia ELIZABETH II (since 6 February 1952); represented by Governor General Quentin BRYCE (since 5 September 2008) |
+| | head of government: Prime Minister Julia Eileen GILLARD (since 24 June 2010); Deputy Prime Minister Wayne Maxwell SWAN (since 24 June 2010) |
+| | cabinet: prime minister nominates, from among members of Parliament, candidates who are subsequently sworn in by the governor general to serve as government ministers |
+| | (For more information visit the World Leaders website [Opens in New Window]) |
+| | elections: the monarchy is hereditary; governor general appointed by the monarch on the recommendation of the prime minister; following legislative elections, the leader of the majority party or leader of a majority coalition is sworn in as prime minister by the governor general |
+| Legislative branch: | bicameral Federal Parliament consists of the Senate (76 seats; 12 members from each of the six states and 2 from each of the two mainland territories; one-half of state members are elected every three years by popular vote to serve six-year terms while all territory members are elected every three years) and the House of Representatives (150 seats; members elected by popular vote to serve terms of up to three-years; no state can have fewer than 5 representatives) |
+| | elections: Senate - last held on 21 August 2010; House of Representatives - last held on 21 August 2010 (the latest a simultaneous half-Senate and House of Representative elections can be held is 30 November 2013) |
+| | election results: Senate (effective 1 July 2011) - percent of vote by party - NA; seats by party - Liberal/National Coalition 34, Australian Labor Party 31, Australian Greens Party 9, others 2; House of Representatives - percent of vote by party - Australian Labor Party 38.1%, Liberal Party 30.4%, Greens Party 11.5%, Liberal National Party of Queensland 9.3%, independents 6.6%, National Party of Australia 3.7%, Country Liberals 0.3%; seats by party - Australian Labor Party 72, Liberal Party 44, Liberal National Party of Queensland 21, National Party of Australia 7, Country Liberals 1, Australian Greens Party 1, independents 4 |
+| Judicial branch: | High Court (the chief justice and six other justices are appointed by the governor general acting on the advice of the government) |
+| Political parties and leaders: | Australian Greens Party [Christine MILNE]; Australian Labor Party [Julia GILLARD]; Family First Party [Steve FIELDING]; Liberal Party [Tony ABBOTT]; National Party of Australia [Warren TRUSS] |
+| Political pressure groups and leaders: | other: business groups; environmental groups; social groups; trade unions |
+| International organization participation: | ADB, ANZUS, APEC, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CP, EAS, EBRD, EITI (implementing country), FAO, FATF, G-20, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IEA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NEA, NSG, OECD, OPCW, OSCE (partner), Paris Club, PCA, PIF, SAARC (observer), SICA (observer), Sparteca, SPC, UN, UNCTAD, UNESCO, UNHCR, UNMISS, UNMIT, UNRWA, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Kim Christian BEAZLEY |
+| | chancery: 1601 Massachusetts Avenue NW, Washington, DC 20036 |
+| | telephone: [1] (202) 797-3000 |
+| | FAX: [1] (202) 797-3168 |
+| | consulate(s) general: Atlanta, Chicago, Honolulu, Los Angeles, New York, San Francisco |
+| Diplomatic representation from the US: | chief of mission: Ambassador Jeffrey L. BLEICH |
+| | embassy: Moonah Place, Yarralumla, Canberra, Australian Capital Territory 2600 |
+| | mailing address: APO AP 96549 |
+| | telephone: [61] (02) 6214-5600 |
+| | FAX: [61] (02) 6214-5970 |
+| | consulate(s) general: Melbourne, Perth, Sydney |
+| Flag description: | blue with the flag of the UK in the upper hoist-side quadrant and a large seven-pointed star in the lower hoist-side quadrant known as the Commonwealth or Federation Star, representing the federation of the colonies of Australia in 1901; the star depicts one point for each of the six original states and one representing all of Australia's internal and external territories; on the fly half is a representation of the Southern Cross constellation in white with one small five-pointed star and four larger, seven-pointed stars |
+| National symbol(s): | Southern Cross constellation (five, seven-pointed stars); kangaroo; emu |
+| National anthem: | name: "Advance Australia Fair" |
+| | lyrics/music: Peter Dodds McCORMICK |
+| | note: adopted 1984; although originally written in the late 19th century, the anthem did not become used for all official occasions until 1984; as a Commonwealth country, in addition to the national anthem, "God Save the Queen" is also played at Royal functions (see United Kingdom) |
+
+
+| Economy | Australia |
+| --- | --- |
+| Economy - overview: | Australia's abundant and diverse natural resources attract high levels of foreign investment and include extensive reserves of coal, iron ore, copper, gold, natural gas, uranium, and renewable energy sources. A series of major investments, such as the US$40 billion Gorgon Liquid Natural Gas project, will significantly expand the resources sector. Australia also has a large services sector and is a significant exporter of natural resources, energy, and food. Key tenets of Australia's trade policy include support for open trade and the successful culmination of the Doha Round of multilateral trade negotiations, particularly for agriculture and services. The Australian economy grew for 17 consecutive years before the global financial crisis. Subsequently, the former RUDD government introduced a fiscal stimulus package worth over US$50 billion to offset the effect of the slowing world economy, while the Reserve Bank of Australia cut interest rates to historic lows. These policies - and continued demand for commodities, especially from China - helped the Australian economy rebound after just one quarter of negative growth. The economy grew by 1.4% during 2009 - the best performance in the OECD - by 2.5% in 2010, 2.1% in 2011, and 3.3% in 2012. Unemployment, originally expected to reach 8-10%, peaked at 5.7% in late 2009 and fell to 5.2% in 2012. As a result of an improved economy, the budget deficit dropped to 0.8% of GDP in 2012 and the government could return to budget surpluses before 2015. Australia was one of the first advanced economies to raise interest rates, with seven rate hikes between October 2009 and November 2010. The GILLARD government is focused on raising Australia's economic productivity to ensure the sustainability of growth, and continues to manage the symbiotic, but sometimes tense, economic relationship with China. Australia is engaged in the Trans-Pacific Partnership talks and ongoing free trade agreement negotiations with China, Japan, and Korea. |
+| GDP (purchasing power parity): | $960.7 billion (2012 est.) |
+| | $930 billion (2011 est.) |
+| | $910.5 billion (2010 est.) |
+| | note: data are in 2012 US dollars |
+| GDP (official exchange rate): | $1.542 trillion (2012 est.) |
+| GDP - real growth rate: | 3.3% (2012 est.) |
+| | 2.1% (2011 est.) |
+| | 2.5% (2010 est.) |
+| GDP - per capita (PPP): | $42,400 (2012 est.) |
+| | $41,500 (2011 est.) |
+| | $41,000 (2010 est.) |
+| | note: data are in 2012 US dollars |
+| GDP - composition by sector: | agriculture: 4% |
+| | industry: 26.6% |
+| | services: 69.4% (2012 est.) |
+| Labor force: | 12.27 million (2012 est.) |
+| Labor force - by occupation: | agriculture: 3.6% |
+| | industry: 21.1% |
+| | services: 75% (2009 est.) |
+| Unemployment rate: | 5.2% (2012 est.) |
+| | 5.1% (2011 est.) |
+| Population below poverty line: | NA% |
+| Household income or consumption by percentage share: | lowest 10%: 2% |
+| | highest 10%: 25.4% (1994) |
+| Distribution of family income - Gini index: | 30.5 (2006) |
+| | 35.2 (1994) |
+| Investment (gross fixed): | 28.2% of GDP (2012 est.) |
+| Budget: | revenues: $516.3 billion |
+| | expenditures: $528.3 billion (2012 est.) |
+| Taxes and other revenues: | 33.5% of GDP (2012 est.) |
+| Budget surplus (+) or deficit (-): | -0.8% of GDP (2012 est.) |
+| Public debt: | 26.9% of GDP (2012 est.) |
+| | 26.7% of GDP (2011 est.) |
+| Inflation rate (consumer prices): | 2.1% (2012 est.) |
+| | 3.4% (2011 est.) |
+| Central bank discount rate: | 4.35% (31 December 2010 est.) |
+| | 3.28% (31 December 2009 est.) |
+| | note: this is the Reserve Bank of Australia's "cash rate target," or policy rate |
+| Commercial bank prime lending rate: | 7.3% (31 December 2012 est.) |
+| | 7.74% (31 December 2011 est.) |
+| Stock of narrow money: | $544 billion (31 December 2012 est.) |
+| | $492.3 billion (31 December 2011 est.) |
+| Stock of broad money: | $1.708 trillion (31 December 2012 est.) |
+| | $1.501 trillion (31 December 2011 est.) |
+| Stock of domestic credit: | $2.303 trillion (31 December 2012 est.) |
+| | $2.061 trillion (31 December 2011 est.) |
+| Market value of publicly traded shares: | $1.198 trillion (31 December 2011) |
+| | $1.455 trillion (31 December 2010) |
+| | $1.258 trillion (31 December 2009) |
+| Agriculture - products: | wheat, barley, sugarcane, fruits; cattle, sheep, poultry |
+| Industrial production growth rate: | -0.1% (2011 est.) |
+| Current account balance: | -$47.1 billion (2012 est.) |
+| | -$29.5 billion (2011 est.) |
+| Exports: | $263.9 billion (2012 est.) |
+| | $271.1 billion (2011 est.) |
+| Exports - commodities: | coal, iron ore, gold, meat, wool, alumina, wheat, machinery and transport equipment |
+| Exports - partners: | China 27.4%, Japan 19.2%, South Korea 8.9%, India 5.8% (2011) |
+| Imports: | $258.1 billion (2012 est.) |
+| | $242.2 billion (2011 est.) |
+| Imports - commodities: | machinery and transport equipment, computers and office machines, telecommunication equipment and parts; crude oil and petroleum products |
+| Imports - partners: | China 18.5%, US 11.4%, Japan 7.9%, Singapore 6.2%, Germany 4.7% (2011) |
+| Reserves of foreign exchange and gold: | $47.7 billion (31 December 2012 est.) |
+| | $46.83 billion (31 December 2011 est.) |
+| Debt - external: | $1.466 trillion (31 December 2012 est.) |
+| | $1.367 trillion (31 December 2011 est.) |
+| Stock of direct foreign investment - at home: | $598.7 billion (31 December 2012 est.) |
+| | $549 billion (31 December 2011 est.) |
+| Stock of direct foreign investment - abroad: | $496.4 billion (31 December 2012 est.) |
+| | $442.6 billion (31 December 2011 est.) |
+| Exchange rates: | Australian dollars (AUD) per US dollar - |
+| | 0.963 (2012 est.) |
+| | 0.9695 (2011 est.) |
+| | 1.0902 (2010) |
+| | 1.2822 (2009) |
+| | 1.2059 (2008) |
+| Fiscal year: | 1 July - 30 June |
+
+
+| Energy | Australia |
+| --- | --- |
+| Electricity - production: | 241.5 billion kWh (2010 est.) |
+| Electricity - consumption: | 228.8 billion kWh (2009 est.) |
+| Electricity - exports: | 0 kWh (2010 est.) |
+| Electricity - imports: | 0 kWh (2010 est.) |
+| Electricity - installed generating capacity: | 56.94 million kW (2009 est.) |
+| Electricity - from fossil fuels: | 79% of total installed capacity (2009 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2009 est.) |
+| Electricity - from hydroelectric plants: | 13.7% of total installed capacity (2009 est.) |
+| Electricity - from other renewable sources: | 4.7% of total installed capacity (2009 est.) |
+| Crude oil - production: | 482,500 bbl/day (2011 est.) |
+| Crude oil - exports: | 250,000 bbl/day (2009 est.) |
+| Crude oil - imports: | 380,900 bbl/day (2009 est.) |
+| Crude oil - proved reserves: | 1.426 billion bbl (1 January 2012 est.) |
+| Refined petroleum products - production: | 674,700 bbl/day (2009 est.) |
+| Refined petroleum products - consumption: | 1.023 million bbl/day (2011 est.) |
+| Refined petroleum products - exports: | 64,730 bbl/day (2009 est.) |
+| Refined petroleum products - imports: | 332,900 bbl/day (2009 est.) |
+| Natural gas - production: | 44.99 billion cu m (2011 est.) |
+| Natural gas - consumption: | 27.56 billion cu m (2011 est.) |
+| Natural gas - exports: | 25.53 billion cu m (2011 est.) |
+| Natural gas - imports: | 8.102 billion cu m (2011 est.) |
+| Natural gas - proved reserves: | 788.6 billion cu m (1 January 2012 est.) |
+| Carbon dioxide emissions from consumption of energy: | 405.3 million Mt (2010 est.) |
+
+
+| Communications | Australia |
+| --- | --- |
+| Telephones - main lines in use: | 10.57 million (2011) |
+| Telephones - mobile cellular: | 24.49 million (2011) |
+| Telephone system: | general assessment: excellent domestic and international service |
+| | domestic: domestic satellite system; significant use of radiotelephone in areas of low population density; rapid growth of mobile telephones |
+| | international: country code - 61; landing point for the SEA-ME-WE-3 optical telecommunications submarine cable with links to Asia, the Middle East, and Europe; the Southern Cross fiber optic submarine cable provides links to New Zealand and the United States; satellite earth stations - 19 (10 Intelsat - 4 Indian Ocean and 6 Pacific Ocean, 2 Inmarsat - Indian and Pacific Ocean regions, 2 Globalstar, 5 other) (2007) |
+| Broadcast media: | the Australian Broadcasting Corporation (ABC) runs multiple national and local radio networks and TV stations, as well as Australia Network, a TV service that broadcasts throughout the Asia-Pacific region and is the main public broadcaster; Special Broadcasting Service (SBS), a second large public broadcaster, operates radio and TV networks broadcasting in multiple languages; several large national commercial TV networks, a large number of local commercial TV stations, and hundreds of commercial radio stations are accessible; cable and satellite systems are available (2008) |
+| Internet country code: | .au |
+| Internet hosts: | 17.081 million (2012) |
+| Internet users: | 15.81 million (2009) |
+
+
+| Transportation | Australia |
+| --- | --- |
+| Airports: | 467 (2012) |
+| Airports - with paved runways: | total: 333 |
+| | over 3,047 m: 11 |
+| | 2,438 to 3,047 m: 13 |
+| | 1,524 to 2,437 m: 146 |
+| | 914 to 1,523 m: 149 |
+| | under 914 m: 14 (2012) |
+| Airports - with unpaved runways: | total: 134 |
+| | 1,524 to 2,437 m: 19 |
+| | 914 to 1,523 m: 101 |
+| | under 914 m: 14 (2012) |
+| Heliports: | 1 (2012) |
+| Pipelines: | gas 27,900 km; liquid petroleum gas 240 km; oil 3,257 km; oil/gas/water 1 km (2010) |
+| Railways: | total: 38,445 km |
+| | broad gauge: 3,355 km 1.600-m gauge |
+| | standard gauge: 21,674 km 1.435-m gauge (650 km electrified) |
+| | narrow gauge: 9,539 km 1.067-m gauge (2,067 km electrified); 3,877 km 1.000-m gauge (2008) |
+| Roadways: | total: 823,217 km |
+| | paved: 356,343 km |
+| | unpaved: 466,874 km (2011) |
+| Waterways: | 2,000 km (mainly used for recreation on Murray and Murray-Darling river systems) (2011) |
+| Merchant marine: | total: 41 |
+| | by type: bulk carrier 8, cargo 7, liquefied gas 4, passenger 6, passenger/cargo 6, petroleum tanker 5, roll on/roll off 5 |
+| | foreign-owned: 17 (Canada 5, Germany 2, Singapore 2, South Africa 1, UK 5, US 2) |
+| | registered in other countries: 25 (Bahamas 1, Dominica 1, Fiji 2, Liberia 1, Netherlands 1, Panama 4, Singapore 12, Tonga 1, UK 1, US 1) (2010) |
+| Ports and terminals: | Brisbane, Cairns, Dampier, Darwin, Fremantle, Gladstone, Geelong, Hay Point, Hobart, Jervis Bay, Melbourne, Newcastle, Port Adelaide, Port Dalrymple, Port Hedland, Port Kembla, Port Lincoln, Port Walcott, Sydney |
+
+
+| Military | Australia |
+| --- | --- |
+| Military branches: | Australian Defense Force (ADF): Australian Army, Royal Australian Navy, Royal Australian Air Force, Special Operations Command (2006) |
+| Military service age and obligation: | 17 years of age for voluntary military service (with parental consent); no conscription; women allowed to serve in Army combat units in noncombat support roles (2012) |
+| Manpower available for military service: | males age 16-49: 5,316,464 |
+| | females age 16-49: 5,116,722 (2010 est.) |
+| Manpower fit for military service: | males age 16-49: 4,411,958 |
+| | females age 16-49: 4,239,985 (2010 est.) |
+| Manpower reaching militarily significant age annually: | male: 143,565 |
+| | female: 135,800 (2010 est.) |
+| Military expenditures: | 3% of GDP (2009) |
+
+
+| Transnational Issues | Australia |
+| --- | --- |
+| Disputes - international: | In 2007, Australia and Timor-Leste agreed to a 50-year development zone and revenue sharing arrangement and deferred a maritime boundary; Australia asserts land and maritime claims to Antarctica; Australia's 2004 submission to Commission on the Limits of the Continental Shelf (CLCS) extends its continental margins over 3.37 million square kilometers, expanding its seabed roughly 30 percent beyond its claimed exclusive economic zone; all borders between Indonesia and Australia have been agreed upon bilaterally, but a 1997 treaty that would settle the last of their maritime and Exclusive Economic Zone (EEZ) boundary has yet to be ratified by Indonesia's legislature; Indonesian groups challenge Australia's claim to Ashmore Reef; Australia closed parts of the Ashmore and Cartier reserve to Indonesian traditional fishing |
+| Illicit drugs: | Tasmania is one of the world's major suppliers of licit opiate products; government maintains strict controls over areas of opium poppy cultivation and output of poppy straw concentrate; major consumer of cocaine and amphetamines |

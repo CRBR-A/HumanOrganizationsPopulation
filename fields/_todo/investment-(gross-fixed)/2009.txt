@@ -1,0 +1,156 @@
+CIA - The World Factbook --  Investment (gross fixed)   
+
+This entry records total business spending on fixed assets, such as factories, machinery, equipment, dwellings, and inventories of raw materials, which provide the basis for future production. It is measured gross of the depreciation of the assets, i.e., it includes investment that merely replaces worn-out or scrapped capital.
+
+| Rank | country | (% of GDP) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Vietnam | 41.90 | 2008 est. |
+| 2 | Cape Verde | 41.60 | 2008 est. |
+| 3 | Lesotho | 40.80 | 2008 est. |
+| 4 | China | 40.50 | 2008 est. |
+| 5 | Armenia | 39.00 | 2008 est. |
+| 6 | India | 39.00 | 2008 est. |
+| 7 | Sao Tome and Principe | 38.80 | 2008 est. |
+| 8 | Guyana | 35.30 | 2008 est. |
+| 9 | Congo, Republic of the | 34.50 | 2008 est. |
+| 10 | Nicaragua | 34.50 | 2008 est. |
+| 11 | Bulgaria | 33.40 | 2008 est. |
+| 12 | Honduras | 33.40 | 2008 est. |
+| 13 | Romania | 33.30 | 2008 est. |
+| 14 | Moldova | 32.50 | 2008 est. |
+| 15 | Jordan | 32.30 | 2008 est. |
+| 16 | Ghana | 32.10 | 2008 est. |
+| 17 | Morocco | 32.10 | 2008 est. |
+| 18 | Qatar | 32.10 | 2008 est. |
+| 19 | Belarus | 31.90 | 2008 est. |
+| 20 | Equatorial Guinea | 31.80 | 2008 est. |
+| 21 | Croatia | 31.10 | 2008 est. |
+| 22 | Montenegro | 30.50 | 2006 est. |
+| 23 | Latvia | 30.20 | 2008 est. |
+| 24 | Kosovo | 30.00 | 2007 est. |
+| 25 | Spain | 29.40 | 2008 est. |
+| 26 | Haiti | 28.90 | 2008 est. |
+| 27 | Australia | 28.70 | 2008 est. |
+| 28 | Singapore | 28.50 | 2008 est. |
+| 29 | Estonia | 28.40 | 2008 est. |
+| 30 | Gambia, The | 28.00 | 2008 est. |
+| 31 | Slovenia | 28.00 | 2008 est. |
+| 32 | Belize | 27.80 | 2008 est. |
+| 33 | Kazakhstan | 27.80 | 2008 est. |
+| 34 | Gabon | 27.30 | 2008 est. |
+| 35 | Thailand | 27.30 | 2008 est. |
+| 36 | Oman | 27.20 | 2008 est. |
+| 37 | Ukraine | 27.20 | 2008 est. |
+| 38 | Korea, South | 27.10 | 2008 est. |
+| 39 | Bahrain | 26.60 | 2008 est. |
+| 40 | Madagascar | 26.60 | 2008 est. |
+| 41 | Jamaica | 26.50 | 2008 est. |
+| 42 | Iran | 26.30 | 2008 est. |
+| 43 | Algeria | 26.10 | 2008 est. |
+| 44 | Slovakia | 25.90 | 2008 est. |
+| 45 | Yemen | 25.90 | 2008 est. |
+| 46 | Peru | 25.90 | 2008 est. |
+| 47 | Panama | 25.70 | 2008 est. |
+| 48 | Zambia | 25.50 | 2008 est. |
+| 49 | Mauritius | 25.40 | 2008 est. |
+| 50 | Senegal | 25.30 | 2008 est. |
+| 51 | Ethiopia | 25.20 | 2008 est. |
+| 52 | Mozambique | 24.90 | 2008 est. |
+| 53 | Lithuania | 24.80 | 2008 est. |
+| 54 | Sri Lanka | 24.50 | 2008 est. |
+| 55 | Bangladesh | 24.30 | 2008 est. |
+| 56 | Colombia | 24.30 | 2008 est. |
+| 57 | Costa Rica | 24.30 | 2008 est. |
+| 58 | Chile | 24.00 | 2008 est. |
+| 59 | Czech Republic | 24.00 | 2008 est. |
+| 60 | Iceland | 23.90 | 2008 est. |
+| 61 | Indonesia | 23.60 | 2008 |
+| 62 | Botswana | 23.40 | 2008 est. |
+| 63 | Namibia | 23.40 | 2008 est. |
+| 64 | Cyprus | 23.30 | 2008 est. |
+| 65 | Argentina | 23.20 | 2008 est. |
+| 66 | South Africa | 23.20 | 2008 est. |
+| 67 | Uganda | 23.20 | 2008 est. |
+| 68 | Kyrgyzstan | 23.20 | 2008 est. |
+| 69 | Albania | 23.10 | 2008 est. |
+| 70 | Japan | 23.00 | 2008 est. |
+| 71 | United Arab Emirates | 22.80 | 2008 est. |
+| 72 | Belgium | 22.70 | 2008 est. |
+| 73 | Canada | 22.60 | 2008 est. |
+| 74 | Tanzania | 22.60 | 2008 est. |
+| 75 | Georgia | 22.50 | 2008 est. |
+| 76 | Austria | 22.40 | 2008 est. |
+| 77 | Lebanon | 22.40 | 2008 est. |
+| 78 | New Zealand | 22.40 | 2008 est. |
+| 79 | Cambodia | 22.40 | 2008 est. |
+| 80 | Ecuador | 22.10 | 2008 est. |
+| 81 | Russia | 22.10 | 2008 est. |
+| 82 | Mexico | 22.10 | 2008 est. |
+| 83 | Poland | 22.00 | 2008 est. |
+| 84 | Rwanda | 22.00 | 2008 est. |
+| 85 | France | 21.90 | 2008 est. |
+| 86 | Tunisia | 21.80 | 2008 est. |
+| 87 | World | 21.80 | 2008 est. |
+| 88 | Nigeria | 21.70 | 2008 est. |
+| 89 | Portugal | 21.70 | 2008 est. |
+| 90 | Syria | 21.70 | 2008 est. |
+| 91 | Denmark | 21.60 | 2008 est. |
+| 92 | Kenya | 21.30 | 2008 est. |
+| 93 | Azerbaijan | 21.20 | 2008 est. |
+| 94 | Switzerland | 21.20 | 2008 est. |
+| 95 | Ireland | 21.20 | 2008 est. |
+| 96 | European Union | 21.10 | 2008 est. |
+| 97 | Italy | 20.90 | 2008 est. |
+| 98 | Norway | 20.80 | 2008 est. |
+| 99 | Greece | 20.70 | 2008 est. |
+| 100 | Finland | 20.60 | 2008 est. |
+| 101 | Macedonia | 20.60 | 2008 est. |
+| 102 | Taiwan | 20.60 | 2008 est. |
+| 103 | Netherlands | 20.50 | 2008 est. |
+| 104 | Turkey | 20.30 | 2008 est. |
+| 105 | Eritrea | 20.20 | 2008 est. |
+| 106 | Luxembourg | 20.20 | 2008 est. |
+| 107 | Togo | 20.20 | 2008 est. |
+| 108 | Hungary | 20.20 | 2008 est. |
+| 109 | Serbia | 20.10 | 2007 est. |
+| 110 | Pakistan | 20.00 | 2008 est. |
+| 111 | Hong Kong | 19.70 | 2008 est. |
+| 112 | Malaysia | 19.70 | 2008 est. |
+| 113 | Venezuela | 19.70 | 2008 est. |
+| 114 | Paraguay | 19.60 | 2008 est. |
+| 115 | Burkina Faso | 19.60 | 2008 est. |
+| 116 | Sweden | 19.50 | 2008 est. |
+| 117 | Dominican Republic | 19.40 | 2008 est. |
+| 118 | Papua New Guinea | 19.40 | 2008 est. |
+| 119 | Saudi Arabia | 19.40 | 2008 est. |
+| 120 | Benin | 19.20 | 2008 est. |
+| 121 | Germany | 19.20 | 2008 est. |
+| 122 | Egypt | 19.10 | 2008 est. |
+| 123 | Brazil | 19.00 | 2008 est. |
+| 124 | Swaziland | 18.80 | 2008 est. |
+| 125 | Uruguay | 18.70 | 2008 est. |
+| 126 | Guatemala | 18.60 | 2008 est. |
+| 127 | Kuwait | 18.30 | 2008 est. |
+| 128 | Israel | 18.10 | 2008 est. |
+| 129 | Sudan | 18.10 | 2008 est. |
+| 130 | Bolivia | 18.00 | 2008 est. |
+| 131 | Cameroon | 17.70 | 2008 est. |
+| 132 | Zimbabwe | 17.70 | 2008 est. |
+| 133 | Trinidad and Tobago | 16.70 | 2008 est. |
+| 134 | United Kingdom | 16.70 | 2008 est. |
+| 135 | Malta | 16.20 | 2008 est. |
+| 136 | El Salvador | 14.90 | 2008 est. |
+| 137 | Philippines | 14.80 | 2008 est. |
+| 138 | United States | 14.30 | 2008 est. |
+| 139 | Burma | 14.10 | 2008 est. |
+| 140 | Chad | 13.70 | 2008 est. |
+| 141 | Seychelles | 13.70 | 2008 est. |
+| 142 | Burundi | 12.50 | 2008 est. |
+| 143 | Guinea | 12.30 | 2008 est. |
+| 144 | Tajikistan | 12.00 | 2008 est. |
+| 145 | Cuba | 10.50 | 2008 est. |
+| 146 | Cote d'Ivoire | 9.50 | 2008 est. |
+| 147 | Libya | 9.30 | 2008 est. |
+| 148 | Angola | 9.00 | 2008 est. |
+| 149 | Malawi | 8.40 | 2008 est. |
+| 150 | Turkmenistan | 1.20 | 2008 est. |

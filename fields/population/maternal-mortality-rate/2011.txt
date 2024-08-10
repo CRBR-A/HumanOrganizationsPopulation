@@ -1,0 +1,178 @@
+CIA - The World Factbook --  Maternal mortality rate   
+
+The maternal mortality rate (MMR) is the annual number of female deaths per 100,000 live births from any cause related to or aggravated by pregnancy or its management (excluding accidental or incidental causes). The MMR includes deaths during pregnancy, childbirth, or within 42 days of termination of pregnancy, irrespective of the duration and site of the pregnancy, for a specified year.
+
+| Rank | country | (deaths/100,000 live births) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Afghanistan | 1,400.00 | 2008 |
+| 2 | Somalia | 1,200.00 | 2008 |
+| 3 | Chad | 1,200.00 | 2008 |
+| 4 | Guinea-Bissau | 1,000.00 | 2008 |
+| 5 | Liberia | 990.00 | 2008 |
+| 6 | Burundi | 970.00 | 2008 |
+| 7 | Sierra Leone | 970.00 | 2008 |
+| 8 | Central African Republic | 850.00 | 2008 |
+| 9 | Nigeria | 840.00 | 2008 |
+| 10 | Mali | 830.00 | 2008 |
+| 11 | Niger | 820.00 | 2008 |
+| 12 | Tanzania | 790.00 | 2008 |
+| 13 | Zimbabwe | 790.00 | 2008 |
+| 14 | Sudan | 750.00 | 2008 |
+| 15 | Guinea | 680.00 | 2008 |
+| 16 | Congo, Democratic Republic of the | 670.00 | 2008 |
+| 17 | Angola | 610.00 | 2008 |
+| 18 | Cameroon | 600.00 | 2008 |
+| 19 | Congo, Republic of the | 580.00 | 2008 |
+| 20 | Laos | 580.00 | 2008 |
+| 21 | Burkina Faso | 560.00 | 2008 |
+| 22 | Mauritania | 550.00 | 2008 |
+| 23 | Mozambique | 550.00 | 2008 |
+| 24 | Rwanda | 540.00 | 2008 |
+| 25 | Lesotho | 530.00 | 2008 |
+| 26 | Kenya | 530.00 | 2008 |
+| 27 | Malawi | 510.00 | 2008 |
+| 28 | Zambia | 470.00 | 2008 |
+| 29 | Ethiopia | 470.00 | 2008 |
+| 30 | Cote d'Ivoire | 470.00 | 2008 |
+| 31 | Madagascar | 440.00 | 2008 |
+| 32 | Uganda | 430.00 | 2008 |
+| 33 | Swaziland | 420.00 | 2008 |
+| 34 | Senegal | 410.00 | 2008 |
+| 35 | South Africa | 410.00 | 2008 |
+| 36 | Benin | 410.00 | 2008 |
+| 37 | Gambia, The | 400.00 | 2008 |
+| 38 | Nepal | 380.00 | 2008 |
+| 39 | Timor-Leste | 370.00 | 2008 |
+| 40 | Ghana | 350.00 | 2008 |
+| 41 | Togo | 350.00 | 2008 |
+| 42 | Bangladesh | 340.00 | 2008 |
+| 43 | Comoros | 340.00 | 2008 |
+| 44 | Haiti | 300.00 | 2008 |
+| 45 | Djibouti | 300.00 | 2008 |
+| 46 | Cambodia | 290.00 | 2008 |
+| 47 | Eritrea | 280.00 | 2008 |
+| 48 | Equatorial Guinea | 280.00 | 2008 |
+| 49 | Guyana | 270.00 | 2008 |
+| 50 | Gabon | 260.00 | 2008 |
+| 51 | Pakistan | 260.00 | 2008 |
+| 52 | Papua New Guinea | 250.00 | 2008 |
+| 53 | Korea, North | 250.00 | 2008 |
+| 54 | Burma | 240.00 | 2008 |
+| 55 | Indonesia | 240.00 | 2008 |
+| 56 | India | 230.00 | 2008 |
+| 57 | Yemen | 210.00 | 2008 |
+| 58 | Bhutan | 200.00 | 2008 |
+| 59 | Botswana | 190.00 | 2008 |
+| 60 | Bolivia | 180.00 | 2008 |
+| 61 | Namibia | 180.00 | 2008 |
+| 62 | Ecuador | 140.00 | 2008 |
+| 63 | Algeria | 120.00 | 2008 |
+| 64 | Honduras | 110.00 | 2008 |
+| 65 | Guatemala | 110.00 | 2008 |
+| 66 | Morocco | 110.00 | 2008 |
+| 67 | El Salvador | 110.00 | 2008 |
+| 68 | Solomon Islands | 100.00 | 2008 |
+| 69 | Dominican Republic | 100.00 | 2008 |
+| 70 | Suriname | 100.00 | 2008 |
+| 71 | Nicaragua | 100.00 | 2008 |
+| 72 | Peru | 98.00 | 2008 |
+| 73 | Paraguay | 95.00 | 2008 |
+| 74 | Cape Verde | 94.00 | 2008 |
+| 75 | Belize | 94.00 | 2008 |
+| 76 | Philippines | 94.00 | 2008 |
+| 77 | Jamaica | 89.00 | 2008 |
+| 78 | Mexico | 85.00 | 2008 |
+| 79 | Colombia | 85.00 | 2008 |
+| 80 | Egypt | 82.00 | 2008 |
+| 81 | Kyrgyzstan | 81.00 | 2008 |
+| 82 | Turkmenistan | 77.00 | 2008 |
+| 83 | Iraq | 75.00 | 2008 |
+| 84 | Panama | 71.00 | 2008 |
+| 85 | Argentina | 70.00 | 2008 |
+| 86 | Venezuela | 68.00 | 2008 |
+| 87 | Mongolia | 65.00 | 2008 |
+| 88 | Libya | 64.00 | 2008 |
+| 89 | Barbados | 64.00 | 2008 |
+| 90 | Tajikistan | 64.00 | 2008 |
+| 91 | Tunisia | 60.00 | 2008 |
+| 92 | Jordan | 59.00 | 2008 |
+| 93 | Brazil | 58.00 | 2008 |
+| 94 | Vietnam | 56.00 | 2008 |
+| 95 | Trinidad and Tobago | 55.00 | 2008 |
+| 96 | Cuba | 53.00 | 2008 |
+| 97 | Bahamas, The | 49.00 | 2008 |
+| 98 | Thailand | 48.00 | 2008 |
+| 99 | Georgia | 48.00 | 2008 |
+| 100 | Syria | 46.00 | 2008 |
+| 101 | Kazakhstan | 45.00 | 2008 |
+| 102 | Costa Rica | 44.00 | 2008 |
+| 103 | Sri Lanka | 39.00 | 2008 |
+| 104 | Russia | 39.00 | 2008 |
+| 105 | China | 38.00 | 2008 |
+| 106 | Azerbaijan | 38.00 | 2008 |
+| 107 | Maldives | 37.00 | 2008 |
+| 108 | Mauritius | 36.00 | 2008 |
+| 109 | Moldova | 32.00 | 2008 |
+| 110 | Albania | 31.00 | 2008 |
+| 111 | Malaysia | 31.00 | 2008 |
+| 112 | Iran | 30.00 | 2008 |
+| 113 | Uzbekistan | 30.00 | 2008 |
+| 114 | Armenia | 29.00 | 2008 |
+| 115 | Uruguay | 27.00 | 2008 |
+| 116 | Romania | 27.00 | 2008 |
+| 117 | Ukraine | 26.00 | 2008 |
+| 118 | Chile | 26.00 | 2008 |
+| 119 | Fiji | 26.00 | 2008 |
+| 120 | Lebanon | 26.00 | 2008 |
+| 121 | United States | 24.00 | 2008 |
+| 122 | Saudi Arabia | 24.00 | 2008 |
+| 123 | Turkey | 23.00 | 2008 |
+| 124 | Brunei | 21.00 | 2008 |
+| 125 | Latvia | 20.00 | 2008 |
+| 126 | Oman | 20.00 | 2008 |
+| 127 | Bahrain | 19.00 | 2008 |
+| 128 | Slovenia | 18.00 | 2008 |
+| 129 | Puerto Rico | 18.00 | 2008 |
+| 130 | Korea, South | 18.00 | 2008 |
+| 131 | Luxembourg | 17.00 | 2008 |
+| 132 | Belarus | 15.00 | 2008 |
+| 133 | Montenegro | 15.00 | 2008 |
+| 134 | Croatia | 14.00 | 2008 |
+| 135 | New Zealand | 14.00 | 2008 |
+| 136 | Hungary | 13.00 | 2008 |
+| 137 | Bulgaria | 13.00 | 2008 |
+| 138 | Lithuania | 13.00 | 2008 |
+| 139 | Canada | 12.00 | 2008 |
+| 140 | Estonia | 12.00 | 2008 |
+| 141 | United Kingdom | 12.00 | 2008 |
+| 142 | United Arab Emirates | 10.00 | 2008 |
+| 143 | Cyprus | 10.00 | 2008 |
+| 144 | Switzerland | 10.00 | 2008 |
+| 145 | Kiribati | 9.00 | 2008 |
+| 146 | Macedonia | 9.00 | 2008 |
+| 147 | Netherlands | 9.00 | 2008 |
+| 148 | Singapore | 9.00 | 2008 |
+| 149 | Bosnia and Herzegovina | 9.00 | 2008 |
+| 150 | France | 8.00 | 2008 |
+| 151 | Finland | 8.00 | 2008 |
+| 152 | Czech Republic | 8.00 | 2008 |
+| 153 | Serbia | 8.00 | 2008 |
+| 154 | Qatar | 8.00 | 2008 |
+| 155 | Malta | 8.00 | 2008 |
+| 156 | Australia | 8.00 | 2008 |
+| 157 | Israel | 7.00 | 2008 |
+| 158 | Portugal | 7.00 | 2008 |
+| 159 | Norway | 7.00 | 2008 |
+| 160 | Germany | 7.00 | 2008 |
+| 161 | Japan | 6.00 | 2008 |
+| 162 | Poland | 6.00 | 2008 |
+| 163 | Slovakia | 6.00 | 2008 |
+| 164 | Spain | 6.00 | 2008 |
+| 165 | Italy | 5.00 | 2008 |
+| 166 | Iceland | 5.00 | 2008 |
+| 167 | Denmark | 5.00 | 2008 |
+| 168 | Belgium | 5.00 | 2008 |
+| 169 | Sweden | 5.00 | 2008 |
+| 170 | Austria | 5.00 | 2008 |
+| 171 | Ireland | 3.00 | 2008 |
+| 172 | Greece | 2.00 | 2008 |

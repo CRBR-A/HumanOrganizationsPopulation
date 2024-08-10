@@ -1,0 +1,29 @@
+Telephone Code: 39
+Local Emergency Phone - Ambulance: 113
+Local Emergency Phone - Fire: 115
+Local Emergency Phone - Police: 112
+Climate: Temperate; mild, rainy winters (September to May) with hot, dry summers (May to September)
+Currency (Code): Euros (EUR)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, F, L
+Major Languages: Italian, Latin, French, various other languages
+Major Religions: Roman Catholic
+Time Difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time); daylight saving time: +1hr, begins last Sunday in March, ends last Sunday in October
+Potable Water: Yes, but some opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Saint Peter's Basilica; Sistine Chapel; Vatican Palace; Pinacotheca (Art Gallery); Piazza San Pietro (Saint Peter's Square); Museo Pio Clementino
+Major Sports: Soccer
+Cultural Practices: Access to museums, the Vatican Gardens, Sistine Chapel, and Saint Peter's Basilica is prohibited to visitors wearing sleeveless blouses, miniskirts, shorts, and hats.
+Tipping Guidelines: While visiting churches or museums a tip will help with their upkeep and preservation. Tipping is not expected for taxi drivers or at restaurants.
+Souvenirs: Religious items including blessed rosaries, prayer cards, replicas of holy icons, and relics from saints; collectible Vatican stamps, authentic gemstone and gold as well as costume jewelry
+Traditional Cuisine: Fettuccine alla papalina --- a creamy pasta dish with ham or Prosciutto and peas
+
+---
+country: Holy See (Vatican City)
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Holy See (Vatican City)/travel-facts>
+license: public domain (U.S.)
+...

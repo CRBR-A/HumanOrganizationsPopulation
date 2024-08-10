@@ -1,0 +1,193 @@
+CIA - The World Factbook --  Stock of broad money   
+
+This entry covers all of "Narrow money," plus the total quantity of time and savings deposits, credit union deposits, institutional money market funds, short-term repurchase agreements between the central bank and commercial deposit banks, and other large liquid assets held by nonbank financial institutions, state and local governments, nonfinancial public enterprises, and the private sector of the economy. National currency units have been converted to US dollars at the closing exchange rate for the date of the information. Because of exchange rate movements, changes in money stocks measured in national currency units may vary significantly from those shown in US dollars, and caution is urged when making comparisons over time in US dollars. In addition to serving as a medium of exchange, broad money includes assets that are slightly less liquid than narrow money and the assets tend to function as a "store of value" - a means of holding wealth.
+
+| Rank | country | Stock of broad money | Date of Information |
+| --- | --- | --- | --- |
+| 1 | World | $ 75,860,000,000,000 | NA |
+| 2 | Japan | $ 18,300,000,000,000 | NA |
+| 3 | United States | $ 12,390,000,000,000 | NA |
+| 4 | European Union | $ 11,170,000,000,000 | NA |
+| 5 | China | $ 10,080,000,000,000 | NA |
+| 6 | Germany | $ 4,288,000,000,000 | NA |
+| 7 | United Kingdom | $ 3,344,000,000,000 | NA |
+| 8 | France | $ 2,292,000,000,000 | NA |
+| 9 | Spain | $ 2,264,000,000,000 | NA |
+| 10 | Italy | $ 1,884,000,000,000 | NA |
+| 11 | Brazil | $ 1,522,000,000,000 | NA |
+| 12 | Canada | $ 1,469,000,000,000 | NA |
+| 13 | Korea, South | $ 1,346,000,000,000 | NA |
+| 14 | India | $ 1,290,000,000,000 | NA |
+| 15 | Australia | $ 1,134,000,000,000 | NA |
+| 16 | Netherlands | $ 1,124,000,000,000 | NA |
+| 17 | Taiwan | $ 952,200,000,000 | NA |
+| 18 | Hong Kong | $ 850,800,000,000 | NA |
+| 19 | Switzerland | $ 834,600,000,000 | NA |
+| 20 | Russia | $ 650,700,000,000 | NA |
+| 21 | Mexico | $ 583,800,000,000 | NA |
+| 22 | Belgium | $ 539,400,000,000 | NA |
+| 23 | Austria | $ 402,800,000,000 | NA |
+| 24 | Thailand | $ 354,500,000,000 | NA |
+| 25 | Malaysia | $ 337,600,000,000 | NA |
+| 26 | Greece | $ 335,900,000,000 | NA |
+| 27 | Singapore | $ 295,800,000,000 | NA |
+| 28 | Sweden | $ 293,200,000,000 | NA |
+| 29 | Saudi Arabia | $ 286,900,000,000 | NA |
+| 30 | Portugal | $ 282,000,000,000 | NA |
+| 31 | Indonesia | $ 276,800,000,000 | NA |
+| 32 | Ireland | $ 257,100,000,000 | NA |
+| 33 | Norway | $ 256,300,000,000 | NA |
+| 34 | South Africa | $ 256,200,000,000 | NA |
+| 35 | Luxembourg | $ 255,500,000,000 | NA |
+| 36 | Turkey | $ 255,500,000,000 | NA |
+| 37 | Poland | $ 251,900,000,000 | NA |
+| 38 | United Arab Emirates | $ 228,500,000,000 | NA |
+| 39 | Denmark | $ 209,000,000,000 | NA |
+| 40 | Israel | $ 208,800,000,000 | NA |
+| 41 | Iran | $ 167,400,000,000 | NA |
+| 42 | Egypt | $ 166,200,000,000 | NA |
+| 43 | Syria | $ 161,000,000,000 | NA |
+| 44 | Finland | $ 160,400,000,000 | NA |
+| 45 | Chile | $ 160,300,000,000 | NA |
+| 46 | Czech Republic | $ 138,600,000,000 | NA |
+| 47 | Vietnam | $ 118,800,000,000 | NA |
+| 48 | New Zealand | $ 118,100,000,000 | NA |
+| 49 | Argentina | $ 112,900,000,000 | NA |
+| 50 | Algeria | $ 109,700,000,000 | NA |
+| 51 | Morocco | $ 108,700,000,000 | NA |
+| 52 | Colombia | $ 104,900,000,000 | NA |
+| 53 | Lebanon | $ 92,010,000,000 | NA |
+| 54 | Nigeria | $ 91,970,000,000 | NA |
+| 55 | Philippines | $ 91,500,000,000 | NA |
+| 56 | Kuwait | $ 88,710,000,000 | NA |
+| 57 | Pakistan | $ 85,220,000,000 | NA |
+| 58 | Venezuela | $ 78,110,000,000 | NA |
+| 59 | Ukraine | $ 73,910,000,000 | NA |
+| 60 | Hungary | $ 67,940,000,000 | NA |
+| 61 | Qatar | $ 65,950,000,000 | NA |
+| 62 | Kazakhstan | $ 65,550,000,000 | NA |
+| 63 | Romania | $ 63,670,000,000 | NA |
+| 64 | Bangladesh | $ 57,210,000,000 | NA |
+| 65 | Peru | $ 55,200,000,000 | NA |
+| 66 | Slovakia | $ 52,630,000,000 | NA |
+| 67 | Cyprus | $ 50,500,000,000 | NA |
+| 68 | Iraq | $ 46,010,000,000 | NA |
+| 69 | Croatia | $ 40,800,000,000 | NA |
+| 70 | Libya | $ 35,980,000,000 | NA |
+| 71 | Cuba | $ 35,920,000,000 | NA |
+| 72 | Jordan | $ 35,530,000,000 | NA |
+| 73 | Bulgaria | $ 35,370,000,000 | NA |
+| 74 | Tunisia | $ 29,390,000,000 | NA |
+| 75 | Macau | $ 26,560,000,000 | NA |
+| 76 | Guatemala | $ 25,400,000,000 | NA |
+| 77 | Angola | $ 24,920,000,000 | NA |
+| 78 | Panama | $ 24,170,000,000 | NA |
+| 79 | Slovenia | $ 24,030,000,000 | NA |
+| 80 | Oman | $ 22,350,000,000 | NA |
+| 81 | Bahrain | $ 21,020,000,000 | NA |
+| 82 | Iceland | $ 19,970,000,000 | NA |
+| 83 | Sri Lanka | $ 19,720,000,000 | NA |
+| 84 | Serbia | $ 18,690,000,000 | NA |
+| 85 | Ecuador | $ 18,620,000,000 | NA |
+| 86 | Lithuania | $ 17,260,000,000 | NA |
+| 87 | Costa Rica | $ 16,810,000,000 | NA |
+| 88 | Dominican Republic | $ 15,710,000,000 | NA |
+| 89 | Kenya | $ 15,380,000,000 | NA |
+| 90 | Malta | $ 14,300,000,000 | NA |
+| 91 | Uruguay | $ 14,220,000,000 | NA |
+| 92 | Belarus | $ 13,620,000,000 | NA |
+| 93 | Sudan | $ 13,500,000,000 | NA |
+| 94 | Trinidad and Tobago | $ 12,470,000,000 | NA |
+| 95 | Bolivia | $ 12,160,000,000 | NA |
+| 96 | Azerbaijan | $ 11,640,000,000 | NA |
+| 97 | Latvia | $ 11,170,000,000 | NA |
+| 98 | Estonia | $ 10,700,000,000 | NA |
+| 99 | Nepal | $ 10,010,000,000 | NA |
+| 100 | Yemen | $ 9,739,000,000 | NA |
+| 101 | El Salvador | $ 9,666,000,000 | NA |
+| 102 | Mauritius | $ 9,605,000,000 | NA |
+| 103 | Ghana | $ 9,583,000,000 | NA |
+| 104 | Bosnia and Herzegovina | $ 9,307,000,000 | NA |
+| 105 | Albania | $ 9,096,000,000 | NA |
+| 106 | Brunei | $ 8,569,000,000 | NA |
+| 107 | Ethiopia | $ 8,248,000,000 | NA |
+| 108 | Burma | $ 7,800,000,000 | NA |
+| 109 | Cote d'Ivoire | $ 7,653,000,000 | NA |
+| 110 | Honduras | $ 7,618,000,000 | NA |
+| 111 | Tanzania | $ 7,440,000,000 | NA |
+| 112 | Uzbekistan | $ 7,197,000,000 | NA |
+| 113 | Botswana | $ 6,679,000,000 | NA |
+| 114 | Bahamas, The | $ 5,991,000,000 | NA |
+| 115 | Jamaica | $ 5,782,000,000 | NA |
+| 116 | West Bank | $ 5,567,000,000 | NA |
+| 117 | Cayman Islands | $ 5,564,000,000 | NA |
+| 118 | Paraguay | $ 5,030,000,000 | NA |
+| 119 | Cambodia | $ 4,982,000,000 | NA |
+| 120 | Cameroon | $ 4,831,000,000 | NA |
+| 121 | Namibia | $ 4,756,000,000 | NA |
+| 122 | Papua New Guinea | $ 4,726,000,000 | NA |
+| 123 | Senegal | $ 4,603,000,000 | NA |
+| 124 | Barbados | $ 4,563,000,000 | NA |
+| 125 | Afghanistan | $ 4,149,000,000 | NA |
+| 126 | Macedonia | $ 4,134,000,000 | NA |
+| 127 | Uganda | $ 3,905,000,000 | NA |
+| 128 | Mozambique | $ 3,803,000,000 | NA |
+| 129 | Zambia | $ 3,573,000,000 | NA |
+| 130 | Armenia | $ 3,507,000,000 | NA |
+| 131 | Haiti | $ 3,137,000,000 | NA |
+| 132 | Nicaragua | $ 2,900,000,000 | NA |
+| 133 | Moldova | $ 2,889,000,000 | NA |
+| 134 | Eritrea | $ 2,872,000,000 | NA |
+| 135 | Gabon | $ 2,764,000,000 | NA |
+| 136 | Congo, Republic of the | $ 2,746,000,000 | NA |
+| 137 | Mali | $ 2,514,000,000 | NA |
+| 138 | Benin | $ 2,424,000,000 | NA |
+| 139 | Burkina Faso | $ 2,406,000,000 | NA |
+| 140 | Equatorial Guinea | $ 2,207,000,000 | NA |
+| 141 | Georgia | $ 2,146,000,000 | NA |
+| 142 | Madagascar | $ 2,012,000,000 | NA |
+| 143 | Mongolia | $ 1,996,000,000 | NA |
+| 144 | Laos | $ 1,818,000,000 | NA |
+| 145 | Suriname | $ 1,809,000,000 | NA |
+| 146 | Aruba | $ 1,771,000,000 | NA |
+| 147 | Congo, Democratic Republic of the | $ 1,562,000,000 | NA |
+| 148 | Malawi | $ 1,434,000,000 | NA |
+| 149 | Montenegro | $ 1,406,000,000 | NA |
+| 150 | Belize | $ 1,351,000,000 | NA |
+| 151 | Cape Verde | $ 1,314,000,000 | NA |
+| 152 | Guyana | $ 1,303,000,000 | NA |
+| 153 | Swaziland | $ 1,266,000,000 | NA |
+| 154 | Chad | $ 1,257,000,000 | NA |
+| 155 | Rwanda | $ 1,243,000,000 | NA |
+| 156 | Togo | $ 1,238,000,000 | NA |
+| 157 | Antigua and Barbuda | $ 1,186,000,000 | NA |
+| 158 | Kyrgyzstan | $ 1,100,000,000 | NA |
+| 159 | Tajikistan | $ 1,095,000,000 | NA |
+| 160 | Saint Lucia | $ 1,094,000,000 | NA |
+| 161 | Maldives | $ 1,065,000,000 | NA |
+| 162 | Lesotho | $ 1,057,000,000 | NA |
+| 163 | Turkmenistan | $ 1,053,000,000 | NA |
+| 164 | Niger | $ 1,038,000,000 | NA |
+| 165 | Djibouti | $ 940,800,000 | NA |
+| 166 | Guinea | $ 830,000,000 | NA |
+| 167 | Saint Kitts and Nevis | $ 823,800,000 | NA |
+| 168 | Grenada | $ 743,500,000 | NA |
+| 169 | Vanuatu | $ 614,200,000 | NA |
+| 170 | Burundi | $ 568,300,000 | NA |
+| 171 | Anguilla | $ 458,900,000 | NA |
+| 172 | Gambia, The | $ 453,900,000 | NA |
+| 173 | Saint Vincent and the Grenadines | $ 444,400,000 | NA |
+| 174 | Sierra Leone | $ 437,000,000 | NA |
+| 175 | Seychelles | $ 415,000,000 | NA |
+| 176 | Dominica | $ 398,500,000 | NA |
+| 177 | Central African Republic | $ 343,400,000 | NA |
+| 178 | Samoa | $ 283,200,000 | NA |
+| 179 | Timor-Leste | $ 268,400,000 | NA |
+| 180 | Solomon Islands | $ 227,100,000 | NA |
+| 181 | Guinea-Bissau | $ 209,300,000 | NA |
+| 182 | Comoros | $ 168,600,000 | NA |
+| 183 | Tonga | $ 153,800,000 | NA |
+| 184 | Micronesia, Federated States of | $ 114,000,000 | NA |
+| 185 | Sao Tome and Principe | $ 82,200,000 | NA |
+| 186 | Montserrat | $ 69,630,000 | NA |
+| 187 | Zimbabwe | $ 3,057,000 | NA |

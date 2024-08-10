@@ -1,0 +1,141 @@
+CIA - The World Factbook --  HIV/AIDS - ADULT PREVALENCE RATE
+
+HIV/AIDS - adult prevalence rate compares the percentage of adults (aged 15-49) living with HIV/AIDS.
+
+| Rank | Country | (%) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Swaziland | 27.73 | 2014 est. |
+| 2 | Botswana | 25.16 | 2014 est. |
+| 3 | Lesotho | 23.39 | 2014 est. |
+| 4 | South Africa | 18.92 | 2014 est. |
+| 5 | Zimbabwe | 16.74 | 2014 est. |
+| 6 | Namibia | 15.97 | 2014 est. |
+| 7 | Zambia | 12.37 | 2014 est. |
+| 8 | Mozambique | 10.58 | 2014 est. |
+| 9 | Malawi | 10.04 | 2014 est. |
+| 10 | Uganda | 7.25 | 2014 est. |
+| 11 | Equatorial Guinea | 6.16 | 2014 est. |
+| 12 | Tanzania | 5.34 | 2014 est. |
+| 13 | Kenya | 5.30 | 2014 est. |
+| 14 | Cameroon | 4.77 | 2014 est. |
+| 15 | Central African Republic | 4.25 | 2014 est. |
+| 16 | Gabon | 3.91 | 2014 est. |
+| 17 | Guinea-Bissau | 3.69 | 2014 est. |
+| 18 | Cote d'Ivoire | 3.46 | 2014 est. |
+| 19 | Bahamas, The | 3.22 | 2013 est. |
+| 20 | Nigeria | 3.17 | 2014 est. |
+| 21 | Rwanda | 2.82 | 2014 est. |
+| 22 | Congo, Republic of the | 2.75 | 2014 est. |
+| 23 | South Sudan | 2.71 | 2014 est. |
+| 24 | Chad | 2.53 | 2014 est. |
+| 25 | Angola | 2.41 | 2014 est. |
+| 26 | Togo | 2.40 | 2014 est. |
+| 27 | Haiti | 1.93 | 2014 est. |
+| 28 | Gambia, The | 1.82 | 2014 est. |
+| 29 | Guyana | 1.81 | 2014 est. |
+| 30 | Trinidad and Tobago | 1.65 | 2013 est. |
+| 31 | Jamaica | 1.62 | 2014 est. |
+| 32 | Djibouti | 1.59 | 2014 est. |
+| 33 | Guinea | 1.55 | 2014 |
+| 34 | Ghana | 1.47 | 2014 est. |
+| 35 | Mali | 1.42 | 2014 est. |
+| 36 | Sierra Leone | 1.40 | 2014 est. |
+| 37 | Estonia | 1.30 | 2013 est. |
+| 38 | Belize | 1.18 | 2014 est. |
+| 39 | Liberia | 1.17 | 2014 est. |
+| 40 | Ethiopia | 1.15 | 2014 est. |
+| 41 | Benin | 1.14 | 2014 est. |
+| 42 | Thailand | 1.13 | 2014 est. |
+| 43 | Burundi | 1.11 | 2014 est. |
+| 44 | Cabo Verde | 1.09 | 2014 est. |
+| 45 | Dominican Republic | 1.04 | 2014 est. |
+| 46 | Congo, Democratic Republic of the | 1.04 | 2014 est. |
+| 47 | Suriname | 1.02 | 2014 est. |
+| 48 | Burkina Faso | 0.94 | 2014 est. |
+| 49 | Mauritius | 0.92 | 2014 est. |
+| 50 | Barbados | 0.88 | 2013 est. |
+| 51 | Ukraine | 0.83 | 2013 est. |
+| 52 | Sao Tome and Principe | 0.78 | 2014 est. |
+| 53 | Papua New Guinea | 0.72 | 2014 est. |
+| 54 | Uruguay | 0.70 | 2014 est. |
+| 55 | Burma | 0.69 | 2014 est. |
+| 56 | Eritrea | 0.68 | 2014 est. |
+| 57 | Mauritania | 0.66 | 2014 est. |
+| 58 | Panama | 0.65 | 2014 est. |
+| 59 | Cambodia | 0.64 | 2014 est. |
+| 60 | Moldova | 0.63 | 2014 est. |
+| 61 | Venezuela | 0.55 | 2014 est. |
+| 62 | Brazil | 0.55 | 2013 est. |
+| 63 | Somalia | 0.55 | 2014 est. |
+| 64 | Guatemala | 0.54 | 2014 est. |
+| 65 | El Salvador | 0.53 | 2014 est. |
+| 66 | Senegal | 0.53 | 2014 est. |
+| 67 | Belarus | 0.52 | 2014 est. |
+| 68 | Niger | 0.49 | 2014 est. |
+| 69 | Argentina | 0.47 | 2014 est. |
+| 70 | Vietnam | 0.47 | 2014 est. |
+| 71 | Indonesia | 0.47 | 2014 est. |
+| 72 | Malaysia | 0.45 | 2014 est. |
+| 73 | Spain | 0.42 | 2013 est. |
+| 74 | Honduras | 0.42 | 2014 est. |
+| 75 | Paraguay | 0.41 | 2014 est. |
+| 76 | Colombia | 0.40 | 2014 est. |
+| 77 | Peru | 0.36 | 2014 est. |
+| 78 | Switzerland | 0.35 | 2013 est. |
+| 79 | Tajikistan | 0.35 | 2014 est. |
+| 80 | Ecuador | 0.34 | 2014 est. |
+| 81 | United Kingdom | 0.33 | 2013 est. |
+| 82 | Madagascar | 0.29 | 2014 est. |
+| 83 | Bolivia | 0.29 | 2014 est. |
+| 84 | Chile | 0.29 | 2014 est. |
+| 85 | Italy | 0.28 | 2013 est. |
+| 86 | Georgia | 0.28 | 2014 est. |
+| 87 | Ireland | 0.28 | 2014 est. |
+| 88 | Nicaragua | 0.27 | 2014 est. |
+| 89 | Costa Rica | 0.26 | 2014 est. |
+| 90 | India | 0.26 | 2013 est. |
+| 91 | Laos | 0.26 | 2014 est. |
+| 92 | Kyrgyzstan | 0.26 | 2014 est. |
+| 93 | Sudan | 0.25 | 2014 est. |
+| 94 | Cuba | 0.25 | 2014 est. |
+| 95 | Mexico | 0.23 | 2014 est. |
+| 96 | Armenia | 0.22 | 2014 est. |
+| 97 | Nepal | 0.20 | 2014 est. |
+| 98 | Kazakhstan | 0.19 | 2014 est. |
+| 99 | Sweden | 0.18 | 2014 est. |
+| 100 | Australia | 0.17 | 2013 est. |
+| 101 | Oman | 0.16 | 2014 est. |
+| 102 | Denmark | 0.16 | 2014 est. |
+| 103 | Germany | 0.15 | 2013 est. |
+| 104 | Uzbekistan | 0.15 | 2014 est. |
+| 105 | Norway | 0.15 | 2014 est. |
+| 106 | Azerbaijan | 0.14 | 2014 est. |
+| 107 | Morocco | 0.14 | 2014 est. |
+| 108 | Iran | 0.14 | 2014 est. |
+| 109 | Fiji | 0.13 | 2014 est. |
+| 110 | Bhutan | 0.13 | 2013 est. |
+| 111 | Romania | 0.11 | 2013 est. |
+| 112 | China | 0.10 | 2012 est. |
+| 113 | Pakistan | 0.09 | 2014 est. |
+| 114 | Slovenia | 0.08 | 2014 est. |
+| 115 | Poland | 0.07 | 2014 est. |
+| 116 | Lebanon | 0.06 | 2014 est. |
+| 117 | Cyprus | 0.06 | 2013 est. |
+| 118 | Philippines | 0.06 | 2014 est. |
+| 119 | Yemen | 0.05 | 2014 est. |
+| 120 | Czechia | 0.05 | 2013 est. |
+| 121 | Serbia | 0.05 | 2013 est. |
+| 122 | Afghanistan | 0.04 | 2014 est. |
+| 123 | Tunisia | 0.04 | 2014 est. |
+| 124 | Mongolia | 0.04 | 2013 est. |
+| 125 | Algeria | 0.04 | 2014 est. |
+| 126 | Albania | 0.04 | 2013 est. |
+| 127 | Sri Lanka | 0.03 | 2014 est. |
+| 128 | Egypt | 0.02 | 2014 est. |
+| 129 | Slovakia | 0.02 | 2014 est. |
+| 130 | Bangladesh | 0.01 | 2014 est. |
+| 131 | Macedonia | 0.01 | 2013 est. |
+| 132 | Syria | 0.01 | 2014 est. |
+| 133 | Maldives | 0.01 | 2013 est. |
+
+

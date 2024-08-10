@@ -1,0 +1,371 @@
+CIA - The World Factbook --   EGYPT 
+Page last updated on September 29, 2015
+
+| Geography | EGYPT |
+| --- | --- |
+| Location: | Northern Africa, bordering the Mediterranean Sea, between Libya and the Gaza Strip, and the Red Sea north of Sudan, and includes the Asian Sinai Peninsula |
+| Geographic coordinates: | 27 00 N, 30 00 E |
+| Map references: | Africa |
+| Area: | total: 1,001,450 sq km |
+| | land: 995,450 sq km |
+| | water: 6,000 sq km |
+| Area - comparative: | more than eight times the size of Ohio; slightly more than three times the size of New Mexico |
+| Area comparison map: | Land boundaries: |
+| | total: 2,612 km |
+| | border countries (4): Gaza Strip 13 km, Israel 208 km, Libya 1,115 km, Sudan 1,276 km |
+| Coastline: | 2,450 km |
+| Maritime claims: | territorial sea: 12 nm |
+| | contiguous zone: 24 nm |
+| | exclusive economic zone: 200 nm or the equidistant median line with Cyprus |
+| | continental shelf: 200 nm |
+| Climate: | desert; hot, dry summers with moderate winters |
+| Terrain: | vast desert plateau interrupted by Nile valley and delta |
+| Elevation extremes: | lowest point: Qattara Depression -133 m |
+| | highest point: Mount Catherine 2,629 m |
+| Natural resources: | petroleum, natural gas, iron ore, phosphates, manganese, limestone, gypsum, talc, asbestos, lead, rare earth elements, zinc |
+| Land use: | agricultural land: 3.6% |
+| | arable land 2.8%; permanent crops 0.8%; permanent pasture 0% |
+| | forest: 0.1% |
+| | other: 96.3% (2011 est.) |
+| Irrigated land: | 34,220 sq km (2003) |
+| Total renewable water resources: | 57.3 cu km (2011) |
+| Freshwater withdrawal (domestic/industrial/agricultural): | total: 68.3  cu km/yr (8%/6%/86%) |
+| | per capita: 973.3  cu m/yr (2000) |
+| Natural hazards: | periodic droughts; frequent earthquakes; flash floods; landslides; hot, driving windstorms called khamsin occur in spring; dust storms; sandstorms |
+| Environment - current issues: | agricultural land being lost to urbanization and windblown sands; increasing soil salination below Aswan High Dam; desertification; oil pollution threatening coral reefs, beaches, and marine habitats; other water pollution from agricultural pesticides, raw sewage, and industrial effluents; limited natural freshwater resources away from the Nile, which is the only perennial water source; rapid growth in population overstraining the Nile and natural resources |
+| Environment - international agreements: | party to: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands |
+| | signed, but not ratified: none of the selected agreements |
+| Geography - note: | controls Sinai Peninsula, only land bridge between Africa and remainder of Eastern Hemisphere; controls Suez Canal, a sea link between Indian Ocean and Mediterranean Sea; size, and juxtaposition to Israel, establish its major role in Middle Eastern geopolitics; dependence on upstream neighbors; dominance of Nile basin issues; prone to influxes of refugees from Sudan and the Palestinian territories |
+
+| People and Society | EGYPT |
+| --- | --- |
+| Nationality: | noun: Egyptian(s) |
+| | adjective: Egyptian |
+| Ethnic groups: | Egyptian 99.6%, other 0.4% (2006 census) |
+| Languages: | Arabic (official), English and French widely understood by educated classes |
+| Religions: | Muslim (predominantly Sunni) 90%, Christian (majority Coptic Orthodox, other Christians include Armenian Apostolic, Catholic, Maronite, Orthodox, and Anglican) 10% (2012 est.) |
+| Population: | 88,487,396 (July 2015 est.) |
+| Age structure: | 0-14 years: 31.89% (male 14,430,312/female 13,790,448) |
+| | 15-24 years: 17.64% (male 7,985,589/female 7,620,404) |
+| | 25-54 years: 38.45% (male 17,307,230/female 16,715,153) |
+| | 55-64 years: 6.86% (male 2,971,475/female 3,100,747) |
+| | 65 years and over: 5.16% (male 2,058,911/female 2,507,127) (2015 est.) |
+| population pyramid: | Dependency ratios: |
+| | total dependency ratio: 62.3% |
+| | youth dependency ratio: 53.8% |
+| | elderly dependency ratio: 8.5% |
+| | potential support ratio: 11.8% (2015 est.) |
+| Median age: | total: 25.3 years |
+| | male: 24.9 years |
+| | female: 25.6 years (2015 est.) |
+| Population growth rate: | 1.79% (2015 est.) |
+| Birth rate: | 22.9 births/1,000 population (2015 est.) |
+| Death rate: | 4.77 deaths/1,000 population (2015 est.) |
+| Net migration rate: | -0.19 migrant(s)/1,000 population (2015 est.) |
+| Urbanization: | urban population: 43.1% of total population (2015) |
+| | rate of urbanization: 1.68% annual rate of change (2010-15 est.) |
+| Major urban areas - population: | CAIRO (capital) 18.772 million; Alexandria 4.778 million (2015) |
+| Sex ratio: | at birth: 1.05 male(s)/female |
+| | 0-14 years: 1.05 male(s)/female |
+| | 15-24 years: 1.05 male(s)/female |
+| | 25-54 years: 1.04 male(s)/female |
+| | 55-64 years: 0.96 male(s)/female |
+| | 65 years and over: 0.82 male(s)/female |
+| | total population: 1.02 male(s)/female (2015 est.) |
+| Infant mortality rate: | total: 21.55 deaths/1,000 live births |
+| | male: 23 deaths/1,000 live births |
+| | female: 20.02 deaths/1,000 live births (2015 est.) |
+| Life expectancy at birth: | total population: 73.7 years |
+| | male: 71.06 years |
+| | female: 76.47 years (2015 est.) |
+| Total fertility rate: | 2.83 children born/woman (2015 est.) |
+| Contraceptive prevalence rate: | 60.3% (2008) |
+| Health expenditures: | 5.1% of GDP (2013) |
+| Physicians density: | 2.83 physicians/1,000 population (2009) |
+| Hospital bed density: | 0.5 beds/1,000 population (2012) |
+| Drinking water source: | improved: |
+| | urban: 100% of population |
+| | rural: 99% of population |
+| | total: 99.4% of population |
+| unimproved: | urban: 0% of population |
+| | rural: 1% of population |
+| | total: 0.6% of population (2015 est.) |
+| Sanitation facility access: | improved: |
+| | urban: 96.8% of population |
+| | rural: 93.1% of population |
+| | total: 94.7% of population |
+| unimproved: | urban: 3.2% of population |
+| | rural: 6.9% of population |
+| | total: 5.3% of population (2015 est.) |
+| HIV/AIDS - adult prevalence rate: | 0.02% (2014 est.) |
+| HIV/AIDS - people living with HIV/AIDS: | 8,800 (2014 est.) |
+| HIV/AIDS - deaths: | 300 (2014 est.) |
+| Major infectious diseases: | degree of risk: intermediate |
+| | food or waterborne diseases: bacterial diarrhea, hepatitis A, and typhoid fever |
+| | water contact disease: schistosomiasis |
+| | note: highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2013) |
+| Obesity - adult prevalence rate: | 27.7% (2014) |
+| Children under the age of 5 years underweight: | 6.8% (2008) |
+| Education expenditures: | 3.8% of GDP (2008) |
+| Literacy: | definition: age 15 and over can read and write |
+| | total population: 73.8% |
+| | male: 82.2% |
+| | female: 65.4% (2015 est.) |
+| School life expectancy (primary to tertiary education): | total: 14 years |
+| | male: 14 years |
+| | female: 13 years (2012) |
+| Child labor - children ages 5-14: | total number: 1,066,526 |
+| | percentage: 7% (2005 est.) |
+| Unemployment, youth ages 15-24: | total: 24.8% |
+| | male: 14.7% |
+| | female: 54.1% (2010 est.) |
+
+| Government | EGYPT |
+| --- | --- |
+| Country name: | conventional long form: Arab Republic of Egypt |
+| | conventional short form: Egypt |
+| | local long form: Jumhuriyat Misr al-Arabiyah |
+| | local short form: Misr |
+| | former: United Arab Republic (with Syria) |
+| Government type: | republic |
+| Capital: | name: Cairo |
+| | geographic coordinates: 30 03 N, 31 15 E |
+| | time difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time) |
+| Administrative divisions: | 27 governorates (muhafazat, singular - muhafazat); Ad Daqahliyah, Al Bahr al Ahmar (Red Sea), Al Buhayrah, Al Fayyum, Al Gharbiyah, Al Iskandariyah (Alexandria), Al Isma'iliyah (Ismailia), Al Jizah (Giza), Al Minufiyah, Al Minya, Al Qahirah (Cairo), Al Qalyubiyah, Al Uqsur (Luxor), Al Wadi al Jadid (New Valley), As Suways (Suez), Ash Sharqiyah, Aswan, Asyut, Bani Suwayf, Bur Sa'id (Port Said), Dumyat (Damietta), Janub Sina' (South Sinai), Kafr ash Shaykh, Matruh, Qina, Shamal Sina' (North Sinai), Suhaj |
+| Independence: | 28 February 1922 (from UK protectorate status; the revolution that began on 23 July 1952 led to a republic being declared on 18 June 1953 and all British troops withdrawn on 18 June 1956); note - it was ca. 3200 B.C. that the Two Lands of Upper (southern) and Lower (northern) Egypt were first united politically |
+| National holiday: | Revolution Day, 23 July (1952) |
+| Constitution: | several previous; latest approved by a constitutional committee in December 2013, approved by referendum 14-15 January 2014, ratified by interim president 19 January 2014 (2015) |
+| Legal system: | mixed legal system based on Napoleonic civil and penal law, Islamic religious law, and vestiges of colonial-era laws; judicial review of the constitutionality of laws by the Supreme Constitutional Court |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; non-party state to the ICCt |
+| Suffrage: | 18 years of age; universal and compulsory |
+| Executive branch: | Chief of state: President Abdelfattah Said ELSISI (since 8 June 2014) |
+| | head of government: Prime Minister Sherif ISMAIL (since 12 September 2015); note - Prime Minister Ibrahim MEHLAB resigned 12 September 2015 |
+| | cabinet: Cabinet sworn in 17 June 2014 |
+| | elections/appointments: president elected by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on 26-28 May 2014 (next to be held in May 2018); prime minister appointed by the president, approved by the House of Representatives |
+| | election results: Abdelfattah Said ELSISI elected president; percent of vote in 1 round - Abdelfattah Said ELSISI (independent) 96.6%, Hamdeen SABAHI (Egyptian Current Party ) 3.4% |
+| Legislative branch: | description: unicameral House of Representatives (Majlis Al-Nowaab); according to 2014 election laws, will consist of up to 567 members; 420 members to be in elected in single- and multi-seat districts by simple majority vote, 120 members to be elected in party-list districts by simple majority vote, and up to 27 seats as presidential appointees |
+| | elections (for new House of Representatives): initially scheduled for late December 2014, changed several times, latest to 18 October 2015 |
+| | election results (for previous legislature): Advisory Council (held 29 January and 14 February 2012) - percent of vote by party - Democratic Alliance for Egypt 45%, Alliance for Egypt (Islamic Bloc) 28.6%, New Wafd Party 8.5%, Egyptian Bloc 5.4%, other 12.5%; seats by party - Democratic Alliance for Egypt 105, Alliance for Egypt (Islamic Bloc) 45, New Wafd Party 14, Egyptian Bloc 8, other 4, independents 4, presidential appointees 90; People's Assembly (held in three stages 28 November 2011 to 11 January 2012) - percent of vote by party - Democratic Alliance for Egypt 37.5%, Alliance for Egypt (Islamic Bloc) 27.8%, New Wafd Party 9.2%, Egyptian Bloc 8.9%, Al-Wasat Party 3.7%, The Revolution Continues Alliance 2.8%, Reform and Development Party 2.2%, National Party of Egypt 1.6%, Freedom Party 1.9%, Egyptian Citizen Party 0.9%, other 3.5%; seats by party - Democratic Alliance of Egypt 235, Alliance for Egypt (Islamic Bloc) 123, New Wafd Party 38, Egyptian Bloc 35, Al-Wasat 10, Reform and Development Party 9, The Revolution Continues Alliance 8, National Party of Egypt 5, Egyptian Citizen Party 4, Freedom Party 4, independents 21, other 6, SCAF appointees 10 |
+| Judicial branch: | highest court(s): Supreme Constitutional Court or SCC (consists of the court president and 10 justices); the SCC serves as the final court of arbitrator on the constitutionality of laws and conflicts between lower courts regarding jurisdiction and rulings; Court of Cassation (CC) (consists of the court president and 550 judges organized in circuits with cases heard by panels of 5 judges); the CC is the highest appeals body for civil and criminal cases, also known as &ldquo;ordinary justices"; Supreme Administrative Court (SAC) - consists of the court president and organized in circuits with cases heard by panels of 5 judges); the SAC is the highest court of the State Council |
+| | judge selection and term of office: under the 2014 constitution, all judges and justices selected by the Supreme Judiciary Council and appointed by the president of the Republic; tenure NA |
+| | subordinate courts: Courts of Appeal; Courts of First Instance; courts of limited jurisdiction; Family Court (established in 2004) |
+| Political parties and leaders: | officially recognized: Al-Asala [Ehab SHIHA] |
+| | Al-Dustour (Constitution) Party [Hala SHOKRALLAH] |
+| | Al-Karama Party [Mohamed SAMY] |
+| | Al-Nour [Yunis MAKHYUN] |
+| | Al-Wasat Party [Mohamad Abdel LATIF] |
+| | Al-Watan [Imad Abd al-GHAFUR] |
+| | Building and Development Party or BDP [Tarek al-ZOMOR] |
+| | Congress Party [Omar Mokhtar SEMEIDA] |
+| | Egyptian National Movement Party [Ahmed SHAFIK] |
+| | Egyptian Social Democratic Party [Mohamed Aboul GHAR] |
+| | El Tagamu'u Party [Sayed Abdel AAL] |
+| | Free Egyptians Party [Essam KHALIL] |
+| | New Wafd Party [Sayed al-BADADWI] |
+| | Popular Current Party [Hamdeen SABAHI] |
+| | Reform and Development Party [Mohamad Anwar al-SADAT] |
+| | Socialist Popular Alliance [Abdel Ghafar SHOUKR] |
+| | Strong Egypt Party [Abdel Moneim Aboul FOTOUH] |
+| Political pressure groups and leaders: | NA |
+| International organization participation: | ABEDA, AfDB, AFESD, AMF, AU, BSEC (observer), CAEU, CD, CICA, COMESA, D-8, EBRD, FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, LAS, MIGA, MINURSO, MINUSMA, MONUSCO, NAM, OAPEC, OAS (observer), OIC, OIF, OSCE (partner), PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNOCI, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Yasser REDA (since 17 September 2015) |
+| | chancery: 3521 International Court NW, Washington, DC 20008 |
+| | telephone: [1] (202) 895-5400 |
+| | FAX: [1] (202) 244-4319 |
+| | consulate(s) general: Chicago, Houston, Los Angeles, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador R. Stephen BEECROFT (since 18 December 2014) |
+| | embassy: 5 Tawfik Diab St., Garden City, Cairo |
+| | mailing address: Unit 64900, Box 15, APO AE 09839-4900; 5 Tawfik Diab Street, Garden City, Cairo |
+| | telephone: [20] (2) 2797-3300 |
+| | FAX: [20] (2) 2797-3200 |
+| Flag description: | three equal horizontal bands of red (top), white, and black; the national emblem (a gold Eagle of Saladin facing the hoist side with a shield superimposed on its chest above a scroll bearing the name of the country in Arabic) centered in the white band; the band colors derive from the Arab Liberation flag and represent oppression (black), overcome through bloody struggle (red), to be replaced by a bright future (white) |
+| | note: similar to the flag of Syria, which has two green stars in the white band, Iraq, which has an Arabic inscription centered in the white band, and Yemen, which has a plain white band |
+| National symbol(s): | golden eagle, white lotus; national colors: red, white, black |
+| National anthem: | name: "Bilady, Bilady, Bilady" (My Homeland, My Homeland, My Homeland) |
+| | lyrics/music: Younis-al QADI/Sayed DARWISH |
+| | note: adopted 1979; the current anthem, less militaristic than the previous one, was created after the signing of the 1979 peace treaty with Israel; Sayed DARWISH, commonly considered the father of modern Egyptian music, composed the anthem |
+
+| Economy | EGYPT |
+| --- | --- |
+| Economy - overview: | Occupying the northeast corner of the African continent, Egypt is bisected by the highly fertile Nile valley, where most economic activity takes place. Egypt's economy was highly centralized during the rule of former President Gamal Abdel NASSER but opened up considerably under former Presidents Anwar EL-SADAT and Mohamed Hosni MUBARAK. Cairo from 2004 to 2008 pursued business climate reforms to attract foreign investment and facilitate growth. Poor living conditions and limited job opportunities for the average Egyptian contribute to public discontent, a major factor leading to the January 2011 revolution that ousted Mubarak. The uncertain political, security, and policy environment since 2011 caused economic growth to slow significantly, hurting tourism, manufacturing, and other sectors and pushing up unemployment. Weak growth and limited foreign exchange earnings have made public finances unsustainable, leaving authorities dependent on expensive borrowing for deficit finance and on Gulf allies to help cover the import bill. Egypt's current Constitution passed in a referendum that took place in January 2014. |
+| GDP (purchasing power parity): | $943.1 billion (2014 est.) |
+| | $923.1 billion (2013 est.) |
+| | $904.1 billion (2012 est.) |
+| | note: data are in 2014 US dollars |
+| GDP (official exchange rate): | $286.4 billion (2014 est.) |
+| GDP - real growth rate: | 2.2% (2014 est.) |
+| | 2.1% (2013 est.) |
+| | 2.2% (2012 est.) |
+| GDP - per capita (PPP): | $10,900 (2014 est.) |
+| | $10,600 (2013 est.) |
+| | $10,400 (2012 est.) |
+| | note: data are in 2014 US dollars |
+| Gross national saving: | 13.2% of GDP (2014 est.) |
+| | 11.8% of GDP (2013 est.) |
+| | 12.5% of GDP (2012 est.) |
+| GDP - composition, by end use: | household consumption: 80.3% |
+| | government consumption: 12% |
+| | investment in fixed capital: 13% |
+| | investment in inventories: 0.5% |
+| | exports of goods and services: 15% |
+| | imports of goods and services: -20.7% |
+| | (2014 est.) |
+| GDP - composition, by sector of origin: | agriculture: 14.6% |
+| | industry: 38.9% |
+| | services: 46.5% (2014 est.) |
+| Agriculture - products: | cotton, rice, corn, wheat, beans, fruits, vegetables; cattle, water buffalo, sheep, goats |
+| Industries: | textiles, food processing, tourism, chemicals, pharmaceuticals, hydrocarbons, construction, cement, metals, light manufactures |
+| Industrial production growth rate: | 1.5% (2014 est.) |
+| Labor force: | 28.26 million (2014 est.) |
+| Labor force - by occupation: | agriculture: 29% |
+| | industry: 24% |
+| | services: 47% (2011 est.) |
+| Unemployment rate: | 13.4% (2014 est.) |
+| | 13.2% (2013 est.) |
+| Population below poverty line: | 25.2% (2011 est.) |
+| Household income or consumption by percentage share: | lowest 10%: 4% |
+| | highest 10%: 26.6% (2008) |
+| Distribution of family income - Gini index: | 30.8 (2008) |
+| | 32.1 (2005) |
+| Budget: | revenues: $65.48 billion |
+| | expenditures: $99.14 billion (2014 est.) |
+| Taxes and other revenues: | 23% of GDP (2014 est.) |
+| Budget surplus (+) or deficit (-): | -11.8% of GDP (2014 est.) |
+| Public debt: | 93.8% of GDP (2014 est.) |
+| | 91.5% of GDP (2013 est.) |
+| | note: data cover central government debt and includes debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intra-governmental debt; intra-governmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are sold at public auctions |
+| Fiscal year: | 1 July - 30 June |
+| Inflation rate (consumer prices): | 10.1% (2014 est.) |
+| | 9.5% (2013 est.) |
+| Central bank discount rate: | 9.75% (30 October 2014) |
+| | 8.75% (5 December 2013) |
+| Commercial bank prime lending rate: | 11.8% (31 December 2014 est.) |
+| | 12.29% (31 December 2013 est.) |
+| Stock of narrow money: | $60.18 billion (31 December 2014 est.) |
+| | $53.71 billion (31 December 2013 est.) |
+| Stock of broad money: | $219 billion (31 December 2014 est.) |
+| | $199.5 billion (31 December 2013 est.) |
+| Stock of domestic credit: | $225.4 billion (31 December 2014 est.) |
+| | $217.3 billion (31 December 2013 est.) |
+| Market value of publicly traded shares: | $73.04 billion (30 November 2014 est.) |
+| | $58.01 billion (31 December 2012 est.) |
+| | $48.68 billion (31 December 2011 est.) |
+| Current account balance: | -$2.356 billion (2014 est.) |
+| | $6.39 billion (2013 est.) |
+| Exports: | $27.15 billion (2014 est.) |
+| | $27.87 billion (2013 est.) |
+| Exports - commodities: | crude oil and petroleum products, fruits and vegetables, cotton, textiles, metal products, chemicals, processed food |
+| Exports - partners: | Italy 9.2%, Saudi Arabia 7.4%, India 7.2%, Turkey 5.4%, US 4.2% (2014) |
+| Imports: | $55.26 billion (2014 est.) |
+| | $55.46 billion (2013 est.) |
+| Imports - commodities: | machinery and equipment, foodstuffs, chemicals, wood products, fuels |
+| Imports - partners: | China 11.2%, Germany 7.9%, US 7.4%, Kuwait 5.1%, Italy 4.6%, Ukraine 4.4%, Russia 4.2%, Turkey 4.1% (2014) |
+| Reserves of foreign exchange and gold: | $15.13 billion (31 December 2014 est.) |
+| | $16.12 billion (31 December 2013 est.) |
+| Debt - external: | $55.86 billion (31 December 2014 est.) |
+| | $49.28 billion (31 December 2013 est.) |
+| Stock of direct foreign investment - at home: | $79.19 billion (31 December 2014 est.) |
+| | $76.76 billion (31 December 2013 est.) |
+| Stock of direct foreign investment - abroad: | $6.684 billion (31 December 2014 est.) |
+| | $6.475 billion (31 December 2013 est.) |
+| Exchange rates: | Egyptian pounds (EGP) per US dollar - |
+| | 7.1 (2014 est.) |
+| | 6.8708 (2013 est.) |
+| | 6.06 (2012 est.) |
+| | 5.9358 (2011 est.) |
+| | 5.6219 (2010 est.) |
+
+| Energy | EGYPT |
+| --- | --- |
+| Electricity - production: | 152 billion kWh (2012 est.) |
+| Electricity - consumption: | 129.4 billion kWh (2011 est.) |
+| Electricity - exports: | 1.679 billion kWh (2012 est.) |
+| Electricity - imports: | 102 million kWh (2012 est.) |
+| Electricity - installed generating capacity: | 27 million kW (2013 est.) |
+| Electricity - from fossil fuels: | 90% of total installed capacity (2012 est.) |
+| Electricity - from nuclear fuels: | 0% of total installed capacity (2014 est.) |
+| Electricity - from hydroelectric plants: | 8% of total installed capacity (2012 est.) |
+| Electricity - from other renewable sources: | 2% of total installed capacity (2012 est.) |
+| Crude oil - production: | 700,000 bbl/day (2013 est.) |
+| Crude oil - exports: | 189,000 bbl/day (2013 est.) |
+| Crude oil - imports: | 80,000 bbl/day (2013 est.) |
+| Crude oil - proved reserves: | 4.4 billion bbl (1 January 2014 est.) |
+| Refined petroleum products - production: | 445,000 bbl/day (2013 est.) |
+| Refined petroleum products - consumption: | 770,000 bbl/day (2013 est.) |
+| Refined petroleum products - exports: | 83,000 bbl/day (2013 est.) |
+| Refined petroleum products - imports: | 170,000 bbl/day (2013 est.) |
+| Natural gas - production: | 56.63 billion cu m (2013 est.) |
+| Natural gas - consumption: | 53.8 billion cu m (2013 est.) |
+| Natural gas - exports: | 3.823 billion cu m (2013 est.) |
+| Natural gas - imports: | 2.832 billion cu m (2013 est.) |
+| Natural gas - proved reserves: | 2.18 trillion cu m (1 January 2014 est.) |
+| Carbon dioxide emissions from consumption of energy: | 206.3 million Mt (2012 est.) |
+
+| Communications | EGYPT |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 6.32 million |
+| | subscriptions per 100 inhabitants: 7 (2014 est.) |
+| Telephones - mobile cellular: | total: 95.3 million |
+| | subscriptions per 100 inhabitants: 110 (2014 est.) |
+| Telephone system: | general assessment: underwent extensive upgrading during 1990s; principal centers at Alexandria, Cairo, Al Mansurah, Ismailia, Suez, and Tanta are connected by coaxial cable and microwave radio relay |
+| | domestic: largest fixed-line system in the region; multiple mobile-cellular networks with a near 100-percent penetration of the market |
+| | international: country code - 20; landing point for Aletar, the SEA-ME-WE-3 and SEA-ME-WE-4 submarine cable networks, Link Around the Globe (FLAG) Falcon and FLAG FEA; satellite earth stations - 4 (2 Intelsat - Atlantic Ocean and Indian Ocean, 1 Arabsat, and 1 Inmarsat); tropospheric scatter to Sudan; microwave radio relay to Israel; a participant in Medarabtel (2015) |
+| Broadcast media: | mix of state-run and private broadcast media; state-run TV operates 2 national and 6 regional terrestrial networks, as well as a few satellite channels; about 20 private satellite channels and a large number of Arabic satellite channels are available via subscription; state-run radio operates about 70 stations belonging to 8 networks; 2 privately owned radio stations operational (2008) |
+| Radio broadcast stations: | AM 42 (plus 15 repeaters), FM 22, shortwave 1 (2010) |
+| Television broadcast stations: | 64 (2010) |
+| Internet country code: | .eg |
+| Internet users: | total: 42 million |
+| | percent of population: 48.3% (2014 est.) |
+
+| Transportation | EGYPT |
+| --- | --- |
+| Airports: | 83 (2013) |
+| Airports - with paved runways: | total: 72 |
+| | over 3,047 m: 15 |
+| | 2,438 to 3,047 m: 36 |
+| | 1,524 to 2,437 m: 15 |
+| | under 914 m: 6 (2013) |
+| Airports - with unpaved runways: | total: 11 |
+| | 2,438 to 3,047 m: 1 |
+| | 1,524 to 2,437 m: 3 |
+| | 914 to 1,523 m: 4 |
+| under 914 m: | 3 (2013) |
+| Heliports: | 7 (2013) |
+| Pipelines: | condensate 486 km; condensate/gas 74 km; gas 7,986 km; liquid petroleum gas 957 km; oil 5,225 km; oil/gas/water 37 km; refined products 895 km; water 65 km (2013) |
+| Railways: | total: 5,085 km |
+| | standard gauge: 5,085 km 1.435-m gauge (62 km electrified) (2014) |
+| Roadways: | total: 137,430 km |
+| | paved: 126,742 km (includes 838 km of expressways) |
+| | unpaved: 10,688 km (2010) |
+| Waterways: | 3,500 km (includes the Nile River, Lake Nasser, Alexandria-Cairo Waterway, and numerous smaller canals in Nile Delta; the Suez Canal (193.5 km including approaches) is navigable by oceangoing vessels drawing up to 17.68 m) (2011) |
+| Merchant marine: | total: 67 |
+| | by type: bulk carrier 16, cargo 20, container 3, passenger/cargo 7, petroleum tanker 12, roll on/roll off 9 |
+| | foreign-owned: 13 (Denmark 1, France 1, Greece 8, Jordan 2, Lebanon 1) |
+| | registered in other countries: 42 (Cambodia 4, Georgia 7, Honduras 2, Liberia 3, Malta 1, Marshall Islands 1, Moldova 5, Panama 11, Saint Kitts and Nevis 1, Saint Vincent and the Grenadines 2, Saudi Arabia 1, Sierra Leone 3, unknown 1) (2010) |
+| Ports and terminals: | major seaport(s): Mediterranean Sea - Alexandria, Damietta, El Dekheila, Port Said; Gulf of Suez - Suez |
+| | oil terminal(s): Ain Sukhna terminal, Sidi Kerir terminal |
+| | container port(s) (TEUs): Alexandria (1,108,826), Port Said(East) (2,617,043), Port Said(West) (1,138,753) |
+| | LNG terminal(s) (export): Damietta, Idku (Abu Qir Bay) |
+
+| Military | EGYPT |
+| --- | --- |
+| Military branches: | Army, Navy, Air Force, Air Defense Forces (2015) |
+| Military service age and obligation: | 18-30 years of age for male conscript military service; service obligation - 18-36 months, followed by a 9-year reserve obligation; voluntary enlistment possible from age 16 (2012) |
+| Manpower available for military service: | males age 16-49: 21,012,199 |
+| | females age 16-49: 20,145,021 (2010 est.) |
+| Manpower fit for military service: | males age 16-49: 18,060,543 |
+| | females age 16-49: 17,244,838 (2010 est.) |
+| Manpower reaching militarily significant age annually: | male: 783,405 |
+| | female: 748,647 (2010 est.) |
+| Military expenditures: | 1.67% of GDP (2013) |
+| | 1.72% of GDP (2012) |
+| | 1.86% of GDP (2011) |
+| | 1.72% of GDP (2010) |
+
+| Transnational Issues | EGYPT |
+| --- | --- |
+| Disputes - international: | Sudan claims but Egypt de facto administers security and economic development of Halaib region north of the 22nd parallel boundary; Egypt no longer shows its administration of the Bir Tawil trapezoid in Sudan on its maps; Gazan breaches in the security wall with Egypt in January 2008 highlight difficulties in monitoring the Sinai border; Saudi Arabia claims Egyptian-administered islands of Tiran and Sanafir |
+| Refugees and internally displaced persons: | refugees (country of origin): 70,023 (West Bank and Gaza Strip); 12,730 (Sudan); 5,149 (Iraq) (2014); 132,375 (Syria); 7,365 (Somalia) (2015) |
+| | stateless persons: 20 (2014) |
+| Illicit drugs: | transit point for cannabis, heroin, and opium moving to Europe, Israel, and North Africa; transit stop for Nigerian drug couriers; concern as money laundering site due to lax enforcement of financial regulations |
+

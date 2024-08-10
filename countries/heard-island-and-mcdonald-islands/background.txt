@@ -1,0 +1,8 @@
+The UK transferred these uninhabited, barren, sub-Antarctic islands to Australia in 1947. Populated by large numbers of seal and bird species, the islands have been designated a nature preserve.  
+
+---
+country: Heard Island and McDonald Islands
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Heard Island and McDonald Islands/>
+license: public domain (U.S.)
+...

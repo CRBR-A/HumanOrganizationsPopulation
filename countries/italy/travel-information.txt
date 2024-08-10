@@ -1,0 +1,29 @@
+Telephone Code: 39
+Local Emergency Phone - Ambulance: 112, 118
+Local Emergency Phone - Fire: 112, 115
+Local Emergency Phone - Police: 112, 113;
+Climate: Predominantly Mediterranean; alpine in far north; hot, dry in south
+Currency (Code): Euros (EUR)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, F, L
+Major Languages: Italian, German, French, Slovene
+Major Religions: Christian 80.8% (overwhelmingly Roman Catholic with very small groups of Jehovah's Witnesses and Protestants), Muslim 4.9%
+Time Difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time); daylight saving time: +1hr, begins last Sunday in March, ends last Sunday in October
+Potable Water: Yes, but some opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Rome (includes Colosseum, Trevi Fountain, Pantheon, Castel Sant'Angelo, Roman Forum); Venice Canals; Pompeii; Leaning Tower of Pisa; Lake Como; Florence (includes Ponte Vecchio, Cathedral, Uffizi Gallery); Sicily; Mount Vesuvius; Amalfi Coast; Hadrian's Villa; Milan (includes Cathedral, La Scala)
+Major Sports: Soccer, basketball, rugby, cycling, water polo
+Cultural Practices: The Italian culture is commonly associated with art, music, family, and food.
+Tipping Guidelines: A service charge, ranging from 1-3 euros, is sometimes added to a restaurant bill, but you can round up for good service. Tip a bartender 1 euro for a round of drinks. Tipping in hotels is not required, but always appreciated. It is appropriate to tip a porter 5 euros, the concierge 1-2 euros (if they provided a service), and housekeeping between 75 cents to 1.5 euros per day. Round up taxi fares.
+Souvenirs: Leather goods, designer fashion, artwork, ceramics and pottery, wine and liqueurs, cheese, pasta, crystal and blown-glass items
+Traditional Cuisine: Pasta dishes, pizza
+
+---
+country: Italy
+date: May 23, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Italy/travel-facts>
+license: public domain (U.S.)
+...

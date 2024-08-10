@@ -1,0 +1,456 @@
+CIA - The World Factbook --  Manpower reaching militarily significant age annually   
+
+This entry gives the number of males and females entering the military manpower pool (i.e., reaching age 16) in any given year and is a measure of the availability of military-age young adults.
+
+| Rank | country | Manpower reaching militarily significant age annually | Date of Information |
+| --- | --- | --- | --- |
+| 1 | India | 11,795,000.00 | 2009 est. |
+| 2 | India | 10,820,590.00 | 2009 est. |
+| 3 | China | 10,621,373.00 | 2009 est. |
+| 4 | China | 9,533,880.00 | 2009 est. |
+| 5 | Indonesia | 2,197,323.00 | 2009 est. |
+| 6 | United States | 2,196,124.00 | 2009 est. |
+| 7 | Indonesia | 2,126,412.00 | 2009 est. |
+| 8 | Pakistan | 2,089,936.00 | 2009 est. |
+| 9 | United States | 2,085,085.00 | 2009 est. |
+| 10 | Pakistan | 1,964,090.00 | 2009 est. |
+| 11 | Nigeria | 1,697,030.00 | 2009 est. |
+| 12 | Brazil | 1,690,031.00 | 2009 est. |
+| 13 | Bangladesh | 1,666,670.00 | 2009 est. |
+| 14 | Brazil | 1,630,851.00 | 2009 est. |
+| 15 | Nigeria | 1,618,561.00 | 2009 est. |
+| 16 | Bangladesh | 1,538,865.00 | 2009 est. |
+| 17 | Mexico | 1,109,981.00 | 2009 est. |
+| 18 | Mexico | 1,072,094.00 | 2009 est. |
+| 19 | Philippines | 1,023,431.00 | 2009 est. |
+| 20 | Philippines | 986,434.00 | 2009 est. |
+| 21 | Ethiopia | 916,354.00 | 2009 est. |
+| 22 | Ethiopia | 908,384.00 | 2009 est. |
+| 23 | Vietnam | 893,726.00 | 2009 est. |
+| 24 | Vietnam | 834,279.00 | 2009 est. |
+| 25 | Egypt | 831,157.00 | 2009 est. |
+| 26 | Congo, Democratic Republic of the | 814,199.00 | 2009 est. |
+| 27 | Congo, Democratic Republic of the | 811,238.00 | 2009 est. |
+| 28 | Egypt | 792,330.00 | 2009 est. |
+| 29 | Russia | 741,692.00 | 2009 est. |
+| 30 | Russia | 706,081.00 | 2009 est. |
+| 31 | Iran | 700,213.00 | 2009 est. |
+| 32 | Turkey | 692,592.00 | 2009 est. |
+| 33 | Iran | 664,846.00 | 2009 est. |
+| 34 | Turkey | 663,689.00 | 2009 est. |
+| 35 | Japan | 621,254.00 | 2009 est. |
+| 36 | Japan | 589,270.00 | 2009 est. |
+| 37 | Thailand | 532,977.00 | 2009 est. |
+| 38 | South Africa | 511,616.00 | 2009 est. |
+| 39 | Thailand | 510,737.00 | 2009 est. |
+| 40 | South Africa | 510,540.00 | 2009 est. |
+| 41 | Sudan | 498,376.00 | 2009 est. |
+| 42 | Tanzania | 489,462.00 | 2009 est. |
+| 43 | Tanzania | 487,742.00 | 2009 est. |
+| 44 | Sudan | 479,005.00 | 2009 est. |
+| 45 | Colombia | 446,432.00 | 2009 est. |
+| 46 | Colombia | 437,164.00 | 2009 est. |
+| 47 | Germany | 431,508.00 | 2009 est. |
+| 48 | Burma | 426,110.00 | 2009 est. |
+| 49 | Burma | 417,674.00 | 2009 est. |
+| 50 | Kenya | 412,656.00 | 2009 est. |
+| 51 | Germany | 409,111.00 | 2009 est. |
+| 52 | Kenya | 408,657.00 | 2009 est. |
+| 53 | Uganda | 399,134.00 | 2009 est. |
+| 54 | Uganda | 395,505.00 | 2009 est. |
+| 55 | United Kingdom | 393,892.00 | 2009 est. |
+| 56 | France | 391,480.00 | 2009 est. |
+| 57 | Afghanistan | 382,720.00 | 2009 est. |
+| 58 | United Kingdom | 376,351.00 | 2009 est. |
+| 59 | Algeria | 375,852.00 | 2009 est. |
+| 60 | France | 373,334.00 | 2009 est. |
+| 61 | Korea, South | 371,728.00 | 2009 est. |
+| 62 | Nepal | 365,567.00 | 2009 est. |
+| 63 | Algeria | 362,158.00 | 2009 est. |
+| 64 | Afghanistan | 361,733.00 | 2009 est. |
+| 65 | Morocco | 356,014.00 | 2009 est. |
+| 66 | Nepal | 352,643.00 | 2009 est. |
+| 67 | Morocco | 343,520.00 | 2009 est. |
+| 68 | Argentina | 341,590.00 | 2009 est. |
+| 69 | Argentina | 326,342.00 | 2009 est. |
+| 70 | Korea, South | 322,605.00 | 2009 est. |
+| 71 | Iraq | 313,500.00 | 2009 est. |
+| 72 | Uzbekistan | 313,131.00 | 2009 est. |
+| 73 | Peru | 310,575.00 | 2009 est. |
+| 74 | Uzbekistan | 310,442.00 | 2009 est. |
+| 75 | Iraq | 304,923.00 | 2009 est. |
+| 76 | Peru | 300,838.00 | 2009 est. |
+| 77 | Italy | 287,845.00 | 2009 est. |
+| 78 | Saudi Arabia | 278,179.00 | 2009 est. |
+| 79 | Venezuela | 276,051.00 | 2009 est. |
+| 80 | Venezuela | 274,162.00 | 2009 est. |
+| 81 | Yemen | 273,624.00 | 2009 est. |
+| 82 | Ghana | 272,954.00 | 2009 est. |
+| 83 | Italy | 270,384.00 | 2009 est. |
+| 84 | Ukraine | 269,311.00 | 2009 est. |
+| 85 | Saudi Arabia | 267,905.00 | 2009 est. |
+| 86 | Malaysia | 266,267.00 | 2009 est. |
+| 87 | Ghana | 266,186.00 | 2009 est. |
+| 88 | Mozambique | 265,058.00 | 2009 est. |
+| 89 | Mozambique | 263,994.00 | 2009 est. |
+| 90 | Yemen | 263,402.00 | 2009 est. |
+| 91 | Ukraine | 257,656.00 | 2009 est. |
+| 92 | Malaysia | 252,543.00 | 2009 est. |
+| 93 | Poland | 246,667.00 | 2009 est. |
+| 94 | Madagascar | 236,500.00 | 2009 est. |
+| 95 | Cote d'Ivoire | 236,159.00 | 2009 est. |
+| 96 | Madagascar | 235,994.00 | 2009 est. |
+| 97 | Poland | 235,698.00 | 2009 est. |
+| 98 | Cote d'Ivoire | 232,617.00 | 2009 est. |
+| 99 | Canada | 223,238.00 | 2009 est. |
+| 100 | Syria | 213,513.00 | 2009 est. |
+| 101 | Cameroon | 213,027.00 | 2009 est. |
+| 102 | Canada | 210,797.00 | 2009 est. |
+| 103 | Cameroon | 208,642.00 | 2009 est. |
+| 104 | Syria | 201,055.00 | 2009 est. |
+| 105 | Spain | 199,124.00 | 2009 est. |
+| 106 | Korea, North | 191,759.00 | 2009 est. |
+| 107 | Spain | 187,224.00 | 2009 est. |
+| 108 | Korea, North | 184,641.00 | 2009 est. |
+| 109 | Burkina Faso | 182,540.00 | 2009 est. |
+| 110 | Burkina Faso | 180,051.00 | 2009 est. |
+| 111 | Cambodia | 177,881.00 | 2009 est. |
+| 112 | Cambodia | 175,332.00 | 2009 est. |
+| 113 | Malawi | 174,044.00 | 2009 est. |
+| 114 | Malawi | 173,828.00 | 2009 est. |
+| 115 | Sri Lanka | 173,256.00 | 2009 est. |
+| 116 | Niger | 170,060.00 | 2009 est. |
+| 117 | Sri Lanka | 167,645.00 | 2009 est. |
+| 118 | Guatemala | 165,910.00 | 2009 est. |
+| 119 | Taiwan | 165,738.00 | 2009 est. |
+| 120 | Niger | 163,996.00 | 2009 est. |
+| 121 | Guatemala | 163,760.00 | 2009 est. |
+| 122 | Senegal | 154,249.00 | 2009 est. |
+| 123 | Taiwan | 154,123.00 | 2009 est. |
+| 124 | Senegal | 153,679.00 | 2009 est. |
+| 125 | Zimbabwe | 149,717.00 | 2009 est. |
+| 126 | Zimbabwe | 149,592.00 | 2009 est. |
+| 127 | Zambia | 149,567.00 | 2009 est. |
+| 128 | Zambia | 148,889.00 | 2009 est. |
+| 129 | Ecuador | 148,010.00 | 2009 est. |
+| 130 | Mali | 147,846.00 | 2009 est. |
+| 131 | Angola | 146,738.00 | 2009 est. |
+| 132 | Chile | 145,766.00 | 2009 est. |
+| 133 | Australia | 144,959.00 | 2009 est. |
+| 134 | Angola | 143,478.00 | 2009 est. |
+| 135 | Ecuador | 143,291.00 | 2009 est. |
+| 136 | Mali | 140,543.00 | 2009 est. |
+| 137 | Chile | 139,648.00 | 2009 est. |
+| 138 | Kazakhstan | 139,262.00 | 2009 est. |
+| 139 | Australia | 137,333.00 | 2009 est. |
+| 140 | Kazakhstan | 133,047.00 | 2009 est. |
+| 141 | Romania | 124,356.00 | 2009 est. |
+| 142 | Chad | 121,585.00 | 2009 est. |
+| 143 | Chad | 121,080.00 | 2009 est. |
+| 144 | Romania | 118,430.00 | 2009 est. |
+| 145 | Guinea | 110,281.00 | 2009 est. |
+| 146 | Haiti | 108,444.00 | 2009 est. |
+| 147 | Bolivia | 108,304.00 | 2009 est. |
+| 148 | Guinea | 107,879.00 | 2009 est. |
+| 149 | Rwanda | 106,935.00 | 2009 est. |
+| 150 | Rwanda | 106,741.00 | 2009 est. |
+| 151 | Haiti | 106,243.00 | 2009 est. |
+| 152 | Netherlands | 105,194.00 | 2009 est. |
+| 153 | Bolivia | 104,882.00 | 2009 est. |
+| 154 | Burundi | 101,897.00 | 2009 est. |
+| 155 | Benin | 101,549.00 | 2009 est. |
+| 156 | Burundi | 101,402.00 | 2009 est. |
+| 157 | Tunisia | 100,478.00 | 2009 est. |
+| 158 | Netherlands | 100,341.00 | 2009 est. |
+| 159 | Benin | 97,856.00 | 2009 est. |
+| 160 | Dominican Republic | 97,766.00 | 2009 est. |
+| 161 | Tunisia | 94,055.00 | 2009 est. |
+| 162 | Dominican Republic | 93,922.00 | 2009 est. |
+| 163 | Somalia | 93,763.00 | 2009 est. |
+| 164 | Somalia | 93,738.00 | 2009 est. |
+| 165 | Honduras | 92,638.00 | 2009 est. |
+| 166 | Azerbaijan | 90,416.00 | 2009 est. |
+| 167 | Honduras | 88,993.00 | 2009 est. |
+| 168 | Azerbaijan | 85,344.00 | 2009 est. |
+| 169 | Tajikistan | 80,819.00 | 2009 est. |
+| 170 | Tajikistan | 78,460.00 | 2009 est. |
+| 171 | El Salvador | 77,473.00 | 2009 est. |
+| 172 | Cuba | 75,969.00 | 2009 est. |
+| 173 | Sierra Leone | 75,491.00 | 2009 est. |
+| 174 | Laos | 75,310.00 | 2009 est. |
+| 175 | El Salvador | 74,655.00 | 2009 est. |
+| 176 | Laos | 74,498.00 | 2009 est. |
+| 177 | Paraguay | 73,660.00 | 2009 est. |
+| 178 | Nicaragua | 72,366.00 | 2009 est. |
+| 179 | Cuba | 72,253.00 | 2009 est. |
+| 180 | Paraguay | 72,046.00 | 2009 est. |
+| 181 | Sierra Leone | 71,524.00 | 2009 est. |
+| 182 | Togo | 70,775.00 | 2009 est. |
+| 183 | Nicaragua | 70,118.00 | 2009 est. |
+| 184 | Togo | 70,051.00 | 2009 est. |
+| 185 | Jordan | 69,830.00 | 2009 est. |
+| 186 | Jordan | 67,292.00 | 2009 est. |
+| 187 | Papua New Guinea | 64,636.00 | 2009 est. |
+| 188 | Portugal | 64,047.00 | 2009 est. |
+| 189 | Papua New Guinea | 62,803.00 | 2009 est. |
+| 190 | Belgium | 62,722.00 | 2009 est. |
+| 191 | Eritrea | 62,328.00 | 2009 est. |
+| 192 | Eritrea | 62,265.00 | 2009 est. |
+| 193 | Sweden | 62,262.00 | 2009 est. |
+| 194 | Israel | 61,223.00 | 2009 est. |
+| 195 | Libya | 60,710.00 | 2009 est. |
+| 196 | Hungary | 60,248.00 | 2009 est. |
+| 197 | Czech Republic | 60,150.00 | 2009 est. |
+| 198 | Belarus | 60,009.00 | 2009 est. |
+| 199 | Belgium | 59,969.00 | 2009 est. |
+| 200 | Sweden | 59,340.00 | 2009 est. |
+| 201 | Israel | 58,219.00 | 2009 est. |
+| 202 | Libya | 58,219.00 | 2009 est. |
+| 203 | Kyrgyzstan | 57,659.00 | 2009 est. |
+| 204 | Portugal | 57,630.00 | 2009 est. |
+| 205 | Hungary | 57,280.00 | 2009 est. |
+| 206 | Czech Republic | 57,157.00 | 2009 est. |
+| 207 | Turkmenistan | 57,021.00 | 2009 est. |
+| 208 | Belarus | 56,834.00 | 2009 est. |
+| 209 | Turkmenistan | 56,064.00 | 2009 est. |
+| 210 | Kyrgyzstan | 55,557.00 | 2009 est. |
+| 211 | Central African Republic | 55,484.00 | 2009 est. |
+| 212 | Central African Republic | 55,168.00 | 2009 est. |
+| 213 | Greece | 53,401.00 | 2009 est. |
+| 214 | Austria | 50,540.00 | 2009 est. |
+| 215 | Greece | 50,084.00 | 2009 est. |
+| 216 | Switzerland | 48,076.00 | 2009 est. |
+| 217 | Austria | 48,042.00 | 2009 est. |
+| 218 | Congo, Republic of the | 46,976.00 | 2009 est. |
+| 219 | Congo, Republic of the | 46,490.00 | 2009 est. |
+| 220 | Serbia | 44,601.00 | 2009 est. |
+| 221 | Switzerland | 44,049.00 | 2009 est. |
+| 222 | Hong Kong | 42,330.00 | 2009 est. |
+| 223 | Serbia | 41,845.00 | 2009 est. |
+| 224 | Costa Rica | 40,698.00 | 2009 est. |
+| 225 | Costa Rica | 38,808.00 | 2009 est. |
+| 226 | Hong Kong | 38,797.00 | 2009 est. |
+| 227 | Bulgaria | 38,263.00 | 2009 est. |
+| 228 | Denmark | 37,231.00 | 2009 est. |
+| 229 | Slovakia | 36,552.00 | 2009 est. |
+| 230 | Bulgaria | 36,374.00 | 2009 est. |
+| 231 | Oman | 35,647.00 | 2009 est. |
+| 232 | Denmark | 35,306.00 | 2009 est. |
+| 233 | Mauritania | 35,272.00 | 2009 est. |
+| 234 | Slovakia | 34,783.00 | 2009 est. |
+| 235 | Albania | 34,778.00 | 2009 est. |
+| 236 | Mauritania | 34,546.00 | 2009 est. |
+| 237 | Oman | 34,407.00 | 2009 est. |
+| 238 | Liberia | 34,059.00 | 2009 est. |
+| 239 | Finland | 33,784.00 | 2009 est. |
+| 240 | Liberia | 33,281.00 | 2009 est. |
+| 241 | Lebanon | 33,018.00 | 2009 est. |
+| 242 | Finland | 32,621.00 | 2009 est. |
+| 243 | Georgia | 32,355.00 | 2009 est. |
+| 244 | Norway | 31,980.00 | 2009 est. |
+| 245 | Jamaica | 31,833.00 | 2009 est. |
+| 246 | Lebanon | 31,800.00 | 2009 est. |
+| 247 | Albania | 31,673.00 | 2009 est. |
+| 248 | Moldova | 31,633.00 | 2009 est. |
+| 249 | New Zealand | 31,461.00 | 2009 est. |
+| 250 | Jamaica | 31,257.00 | 2009 est. |
+| 251 | Panama | 31,089.00 | 2009 est. |
+| 252 | Georgia | 30,809.00 | 2009 est. |
+| 253 | Norway | 30,543.00 | 2009 est. |
+| 254 | Puerto Rico | 30,422.00 | 2009 est. |
+| 255 | West Bank | 30,233.00 | 2009 est. |
+| 256 | Moldova | 30,214.00 | 2009 est. |
+| 257 | Panama | 29,939.00 | 2009 est. |
+| 258 | New Zealand | 29,809.00 | 2009 est. |
+| 259 | Puerto Rico | 29,396.00 | 2009 est. |
+| 260 | West Bank | 28,745.00 | 2009 est. |
+| 261 | Mongolia | 28,251.00 | 2009 est. |
+| 262 | Ireland | 28,072.00 | 2009 est. |
+| 263 | Singapore | 27,715.00 | 2009 est. |
+| 264 | Croatia | 27,620.00 | 2009 est. |
+| 265 | Uruguay | 27,452.00 | 2009 est. |
+| 266 | Bosnia and Herzegovina | 27,368.00 | 2009 est. |
+| 267 | Mongolia | 27,344.00 | 2009 est. |
+| 268 | Armenia | 27,293.00 | 2009 est. |
+| 269 | United Arab Emirates | 26,659.00 | 2009 est. |
+| 270 | Uruguay | 26,479.00 | 2009 est. |
+| 271 | Ireland | 26,400.00 | 2009 est. |
+| 272 | Singapore | 26,290.00 | 2009 est. |
+| 273 | Croatia | 26,154.00 | 2009 est. |
+| 274 | Lesotho | 26,039.00 | 2009 est. |
+| 275 | Lesotho | 25,964.00 | 2009 est. |
+| 276 | Namibia | 25,857.00 | 2009 est. |
+| 277 | Bosnia and Herzegovina | 25,644.00 | 2009 est. |
+| 278 | Armenia | 25,574.00 | 2009 est. |
+| 279 | Namibia | 25,505.00 | 2009 est. |
+| 280 | United Arab Emirates | 23,793.00 | 2009 est. |
+| 281 | Lithuania | 23,556.00 | 2009 est. |
+| 282 | Botswana | 23,420.00 | 2009 est. |
+| 283 | Botswana | 22,904.00 | 2009 est. |
+| 284 | Lithuania | 22,404.00 | 2009 est. |
+| 285 | Gambia, The | 20,238.00 | 2009 est. |
+| 286 | Gambia, The | 20,167.00 | 2009 est. |
+| 287 | Gaza Strip | 19,147.00 | 2009 est. |
+| 288 | Kuwait | 18,865.00 | 2009 est. |
+| 289 | Gaza Strip | 18,200.00 | 2009 est. |
+| 290 | Kuwait | 18,122.00 | 2009 est. |
+| 291 | Guinea-Bissau | 17,172.00 | 2009 est. |
+| 292 | Guinea-Bissau | 16,957.00 | 2009 est. |
+| 293 | Gabon | 16,942.00 | 2009 est. |
+| 294 | Gabon | 16,933.00 | 2009 est. |
+| 295 | Swaziland | 15,985.00 | 2009 est. |
+| 296 | Swaziland | 15,754.00 | 2009 est. |
+| 297 | Macedonia | 14,596.00 | 2009 est. |
+| 298 | Macedonia | 13,881.00 | 2009 est. |
+| 299 | Latvia | 12,901.00 | 2009 est. |
+| 300 | Timor-Leste | 12,887.00 | 2009 est. |
+| 301 | Timor-Leste | 12,529.00 | 2009 est. |
+| 302 | Latvia | 12,497.00 | 2009 est. |
+| 303 | Mauritius | 10,901.00 | 2009 est. |
+| 304 | Mauritius | 10,796.00 | 2009 est. |
+| 305 | Slovenia | 10,192.00 | 2009 est. |
+| 306 | Slovenia | 9,717.00 | 2009 est. |
+| 307 | Trinidad and Tobago | 9,183.00 | 2009 est. |
+| 308 | Fiji | 9,107.00 | 2009 est. |
+| 309 | Fiji | 8,755.00 | 2009 est. |
+| 310 | Trinidad and Tobago | 8,662.00 | 2009 est. |
+| 311 | Comoros | 8,203.00 | 2009 est. |
+| 312 | Comoros | 8,188.00 | 2009 est. |
+| 313 | Bhutan | 7,668.00 | 2009 est. |
+| 314 | Estonia | 7,583.00 | 2009 est. |
+| 315 | Bhutan | 7,379.00 | 2009 est. |
+| 316 | Estonia | 7,111.00 | 2009 est. |
+| 317 | Solomon Islands | 7,091.00 | 2009 est. |
+| 318 | Equatorial Guinea | 6,983.00 | 2009 est. |
+| 319 | Solomon Islands | 6,837.00 | 2009 est. |
+| 320 | Equatorial Guinea | 6,726.00 | 2009 est. |
+| 321 | Guyana | 6,625.00 | 2009 est. |
+| 322 | Bahrain | 6,612.00 | 2009 est. |
+| 323 | Bahrain | 6,499.00 | 2009 est. |
+| 324 | Guyana | 6,365.00 | 2009 est. |
+| 325 | Qatar | 6,337.00 | 2009 est. |
+| 326 | Cyprus | 6,241.00 | 2009 est. |
+| 327 | Cyprus | 5,979.00 | 2009 est. |
+| 328 | Djibouti | 5,778.00 | 2009 est. |
+| 329 | Djibouti | 5,771.00 | 2009 est. |
+| 330 | Cape Verde | 5,471.00 | 2009 est. |
+| 331 | Cape Verde | 5,349.00 | 2009 est. |
+| 332 | Qatar | 5,059.00 | 2009 est. |
+| 333 | Western Sahara | 4,796.00 | 2009 est. |
+| 334 | Western Sahara | 4,679.00 | 2009 est. |
+| 335 | Macau | 4,578.00 | 2009 est. |
+| 336 | Maldives | 4,576.00 | 2009 est. |
+| 337 | Suriname | 4,265.00 | 2009 est. |
+| 338 | Suriname | 4,251.00 | 2009 est. |
+| 339 | Macau | 4,052.00 | 2009 est. |
+| 340 | Montenegro | 3,945.00 | 2009 est. |
+| 341 | Maldives | 3,942.00 | 2009 est. |
+| 342 | Montenegro | 3,907.00 | 2009 est. |
+| 343 | Belize | 3,632.00 | 2009 est. |
+| 344 | Belize | 3,500.00 | 2009 est. |
+| 345 | Brunei | 3,460.00 | 2009 est. |
+| 346 | Brunei | 3,399.00 | 2009 est. |
+| 347 | Luxembourg | 3,170.00 | 2009 est. |
+| 348 | Bahamas, The | 3,003.00 | 2009 est. |
+| 349 | Luxembourg | 2,995.00 | 2009 est. |
+| 350 | Bahamas, The | 2,992.00 | 2009 est. |
+| 351 | Malta | 2,695.00 | 2009 est. |
+| 352 | French Polynesia | 2,665.00 | 2009 est. |
+| 353 | Samoa | 2,597.00 | 2009 est. |
+| 354 | French Polynesia | 2,552.00 | 2009 est. |
+| 355 | Sao Tome and Principe | 2,534.00 | 2009 est. |
+| 356 | Malta | 2,533.00 | 2009 est. |
+| 357 | Mayotte | 2,517.00 | 2009 est. |
+| 358 | Mayotte | 2,511.00 | 2009 est. |
+| 359 | Sao Tome and Principe | 2,485.00 | 2009 est. |
+| 360 | Samoa | 2,477.00 | 2009 est. |
+| 361 | Iceland | 2,369.00 | 2009 est. |
+| 362 | Vanuatu | 2,368.00 | 2009 est. |
+| 363 | Iceland | 2,349.00 | 2009 est. |
+| 364 | Vanuatu | 2,272.00 | 2009 est. |
+| 365 | New Caledonia | 2,160.00 | 2009 est. |
+| 366 | New Caledonia | 2,087.00 | 2009 est. |
+| 367 | Barbados | 2,015.00 | 2009 est. |
+| 368 | Barbados | 2,007.00 | 2009 est. |
+| 369 | Netherlands Antilles | 1,920.00 | 2009 est. |
+| 370 | Netherlands Antilles | 1,827.00 | 2009 est. |
+| 371 | Saint Lucia | 1,607.00 | 2009 est. |
+| 372 | Saint Lucia | 1,511.00 | 2009 est. |
+| 373 | Tonga | 1,458.00 | 2009 est. |
+| 374 | Tonga | 1,403.00 | 2009 est. |
+| 375 | Micronesia, Federated States of | 1,273.00 | 2009 est. |
+| 376 | Kiribati | 1,264.00 | 2009 est. |
+| 377 | Kiribati | 1,242.00 | 2009 est. |
+| 378 | Micronesia, Federated States of | 1,212.00 | 2009 est. |
+| 379 | Saint Vincent and the Grenadines | 1,020.00 | 2009 est. |
+| 380 | Saint Vincent and the Grenadines | 1,009.00 | 2009 est. |
+| 381 | Grenada | 982.00 | 2009 est. |
+| 382 | Grenada | 937.00 | 2009 est. |
+| 383 | Virgin Islands | 873.00 | 2009 est. |
+| 384 | Virgin Islands | 831.00 | 2009 est. |
+| 385 | American Samoa | 820.00 | 2009 est. |
+| 386 | American Samoa | 802.00 | 2009 est. |
+| 387 | Dominica | 776.00 | 2009 est. |
+| 388 | Antigua and Barbuda | 744.00 | 2009 est. |
+| 389 | Antigua and Barbuda | 743.00 | 2009 est. |
+| 390 | Dominica | 731.00 | 2009 est. |
+| 391 | Aruba | 722.00 | 2009 est. |
+| 392 | Seychelles | 714.00 | 2009 est. |
+| 393 | Aruba | 711.00 | 2009 est. |
+| 394 | Seychelles | 685.00 | 2009 est. |
+| 395 | Northern Mariana Islands | 587.00 | 2009 est. |
+| 396 | Jersey | 586.00 | 2009 est. |
+| 397 | Northern Mariana Islands | 570.00 | 2009 est. |
+| 398 | Jersey | 541.00 | 2009 est. |
+| 399 | Marshall Islands | 540.00 | 2009 est. |
+| 400 | Greenland | 532.00 | 2009 est. |
+| 401 | Marshall Islands | 521.00 | 2009 est. |
+| 402 | Greenland | 491.00 | 2009 est. |
+| 403 | Isle of Man | 466.00 | 2009 est. |
+| 404 | Isle of Man | 446.00 | 2009 est. |
+| 405 | Bermuda | 426.00 | 2009 est. |
+| 406 | Bermuda | 413.00 | 2009 est. |
+| 407 | Andorra | 402.00 | 2009 est. |
+| 408 | Faroe Islands | 386.00 | 2009 est. |
+| 409 | Saint Kitts and Nevis | 376.00 | 2009 est. |
+| 410 | Faroe Islands | 375.00 | 2009 est. |
+| 411 | Andorra | 373.00 | 2009 est. |
+| 412 | Guernsey | 362.00 | 2009 est. |
+| 413 | Saint Kitts and Nevis | 362.00 | 2009 est. |
+| 414 | Guernsey | 351.00 | 2009 est. |
+| 415 | Cayman Islands | 345.00 | 2009 est. |
+| 416 | Cayman Islands | 334.00 | 2009 est. |
+| 417 | Turks and Caicos Islands | 226.00 | 2009 est. |
+| 418 | Liechtenstein | 222.00 | 2009 est. |
+| 419 | Turks and Caicos Islands | 218.00 | 2009 est. |
+| 420 | Palau | 214.00 | 2009 est. |
+| 421 | Palau | 207.00 | 2009 est. |
+| 422 | Liechtenstein | 199.00 | 2009 est. |
+| 423 | Monaco | 190.00 | 2009 est. |
+| 424 | Gibraltar | 186.00 | 2009 est. |
+| 425 | Monaco | 182.00 | 2009 est. |
+| 426 | Gibraltar | 179.00 | 2009 est. |
+| 427 | Nauru | 179.00 | 2009 est. |
+| 428 | British Virgin Islands | 178.00 | 2009 est. |
+| 429 | Saint Martin | 177.00 | 2009 est. |
+| 430 | Wallis and Futuna | 175.00 | 2009 est. |
+| 431 | Nauru | 174.00 | 2009 est. |
+| 432 | British Virgin Islands | 173.00 | 2009 est. |
+| 433 | Wallis and Futuna | 164.00 | 2009 est. |
+| 434 | Saint Martin | 162.00 | 2009 est. |
+| 435 | San Marino | 161.00 | 2009 est. |
+| 436 | San Marino | 160.00 | 2009 est. |
+| 437 | Cook Islands | 148.00 | 2009 est. |
+| 438 | Cook Islands | 125.00 | 2009 est. |
+| 439 | Tuvalu | 125.00 | 2009 est. |
+| 440 | Tuvalu | 121.00 | 2009 est. |
+| 441 | Anguilla | 107.00 | 2009 est. |
+| 442 | Anguilla | 106.00 | 2009 est. |
+| 443 | Saint Pierre and Miquelon | 61.00 | 2009 est. |
+| 444 | Saint Pierre and Miquelon | 57.00 | 2009 est. |
+| 445 | Saint Helena | 47.00 | 2009 est. |
+| 446 | Saint Helena | 45.00 | 2009 est. |
+| 447 | Montserrat | 36.00 | 2009 est. |
+| 448 | Montserrat | 33.00 | 2009 est. |
+| 449 | Saint Barthelemy | 21.00 | 2009 est. |
+| 450 | Saint Barthelemy | 20.00 | 2009 est. |

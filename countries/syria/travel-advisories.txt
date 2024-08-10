@@ -1,0 +1,14 @@
+| Precautions | DO NOT TRAVEL to Syria due to terrorism, civil unrest, kidnapping, armed conflict, and risk of unjust detention. |
+| | Consult the link below for updates to travel advisories and statements on safety, security, local laws, and special circumstances in this country. |
+| | <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html> |
+| Passport/Visa Requirements | US citizens should make sure their passport is valid at the date of their entering the country. They should also make sure they have at least 1 blank page in their passport for any entry stamp and or visa that will be required. A visa is required. US citizens will need to get in touch with the country's embassy or nearest consulate to obtain a visa prior to visiting the country. |
+| Vaccinations | See WHO recommendations  <http://www.who.int/> |
+| US Embassy/Consulate | [963] (11) 3391-4444; US Embassy in Damascus, Abou Roumaneh, 2 Al Mansour Street, Damascus, Syria; USIS_damascus@embassy.mzv.cz; https://sy.usembassy.gov/ |
+
+---
+country: Syria
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Syria/travel-facts>
+license: public domain (U.S.)
+...

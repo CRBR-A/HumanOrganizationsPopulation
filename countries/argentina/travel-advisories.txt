@@ -1,0 +1,14 @@
+| Precautions | Exercise normal precautions in Argentina. |
+| | Consult the link below for updates to travel advisories and statements on safety, security, local laws, and special circumstances in this country. |
+| | <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html> |
+| Passport/Visa Requirements | US citizens should make sure their passport is valid at the date of their entering the country. They should also make sure they have at least 1 blank page in their passport for any entry stamp that will be required. A visa is not required as long as the stay is less than 90 days. |
+| Vaccinations | An International Certificate of Vaccination for yellow fever is required for travelers arriving from countries with a risk of yellow fever transmission and for travelers having transited through the airport of a country with risk of yellow fever transmission. See WHO recommendations.  <http://www.who.int/> |
+| US Embassy/Consulate | [54] (11) 5777-4533; US Embassy in Buenos Aires, Avenida Colombia 4300, (C1425GMN) Buenos Aires, Argentina; https://ar.usembassy.gov/; buenosaires-acs@state.gov |
+
+---
+country: Argentina
+date: June 13, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Argentina/travel-facts>
+license: public domain (U.S.)
+...

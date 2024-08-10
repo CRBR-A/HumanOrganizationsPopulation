@@ -1,0 +1,192 @@
+CIA - The World Factbook --  Education expenditures   
+
+This entry provides the public expenditure on education as a percent of GDP.
+
+| Rank | country | (% of GDP) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Kiribati | 17.80 | 2002 |
+| 2 | Cuba | 13.60 | 2008 |
+| 3 | Lesotho | 12.40 | 2008 |
+| 4 | Marshall Islands | 12.30 | 2004 |
+| 5 | Palau | 10.30 | 2002 |
+| 6 | Saint Kitts and Nevis | 9.90 | 2005 |
+| 7 | Uzbekistan | 9.40 | 1991 |
+| 8 | Djibouti | 8.70 | 2007 |
+| 9 | Moldova | 8.20 | 2008 |
+| 10 | Botswana | 8.10 | 2007 |
+| 11 | Maldives | 8.10 | 2008 |
+| 12 | Denmark | 7.90 | 2006 |
+| 13 | Swaziland | 7.90 | 2008 |
+| 14 | Comoros | 7.60 | 2008 |
+| 15 | Iceland | 7.50 | 2007 |
+| 16 | Micronesia, Federated States of | 7.30 | 2000 |
+| 17 | Burundi | 7.20 | 2008 |
+| 18 | Tunisia | 7.20 | 2007 |
+| 19 | Cyprus | 7.10 | 2007 |
+| 20 | Timor-Leste | 7.10 | 2008 |
+| 21 | Kenya | 7.00 | 2006 |
+| 22 | Saint Vincent and the Grenadines | 7.00 | 2007 |
+| 23 | Namibia | 6.90 | 2008 |
+| 24 | Vanuatu | 6.90 | 2008 |
+| 25 | Tanzania | 6.80 | 2008 |
+| 26 | Barbados | 6.70 | 2008 |
+| 27 | Norway | 6.70 | 2007 |
+| 28 | Sweden | 6.70 | 2007 |
+| 29 | Kyrgyzstan | 6.60 | 2007 |
+| 30 | Israel | 6.40 | 2007 |
+| 31 | Bolivia | 6.30 | 2006 |
+| 32 | Saint Lucia | 6.30 | 2008 |
+| 33 | Fiji | 6.20 | 2004 |
+| 34 | Jamaica | 6.20 | 2008 |
+| 35 | New Zealand | 6.20 | 2007 |
+| 36 | Belgium | 6.10 | 2007 |
+| 37 | Guyana | 6.10 | 2007 |
+| 38 | Sudan | 6.00 | 1991 |
+| 39 | Cape Verde | 5.70 | 2008 |
+| 40 | Morocco | 5.70 | 2008 |
+| 41 | Saudi Arabia | 5.70 | 2008 |
+| 42 | France | 5.60 | 2006 |
+| 43 | United Kingdom | 5.60 | 2007 |
+| 44 | Ethiopia | 5.50 | 2007 |
+| 45 | Netherlands | 5.50 | 2006 |
+| 46 | United States | 5.50 | 2007 |
+| 47 | Austria | 5.40 | 2007 |
+| 48 | Hungary | 5.40 | 2006 |
+| 49 | South Africa | 5.40 | 2009 |
+| 50 | Samoa | 5.40 | 2008 |
+| 51 | Finland | 5.40 | 2007 |
+| 52 | Ghana | 5.40 | 2005 |
+| 53 | Switzerland | 5.30 | 2007 |
+| 54 | Ukraine | 5.30 | 2007 |
+| 55 | Vietnam | 5.30 | 2008 |
+| 56 | Belarus | 5.20 | 2007 |
+| 57 | Slovenia | 5.20 | 2007 |
+| 58 | Grenada | 5.20 | 2003 |
+| 59 | Guinea-Bissau | 5.20 | 1999 |
+| 60 | Yemen | 5.20 | 2008 |
+| 61 | Brazil | 5.20 | 2007 |
+| 62 | Belize | 5.10 | 2007 |
+| 63 | Bhutan | 5.10 | 2008 |
+| 64 | Senegal | 5.10 | 2008 |
+| 65 | Mongolia | 5.10 | 2007 |
+| 66 | Costa Rica | 5.00 | 2008 |
+| 67 | Latvia | 5.00 | 2007 |
+| 68 | Estonia | 5.00 | 2007 |
+| 69 | Seychelles | 5.00 | 2006 |
+| 70 | Mozambique | 5.00 | 2006 |
+| 71 | Argentina | 4.90 | 2007 |
+| 72 | Jordan | 4.90 | 1999 |
+| 73 | Ireland | 4.90 | 2007 |
+| 74 | Aruba | 4.90 | 2007 |
+| 75 | Canada | 4.90 | 2007 |
+| 76 | Thailand | 4.90 | 2008 |
+| 77 | Syria | 4.90 | 2007 |
+| 78 | Poland | 4.90 | 2007 |
+| 79 | Dominica | 4.80 | 2008 |
+| 80 | Iran | 4.80 | 2008 |
+| 81 | Malta | 4.80 | 2004 |
+| 82 | Mexico | 4.80 | 2007 |
+| 83 | Australia | 4.70 | 2007 |
+| 84 | Tonga | 4.70 | 2004 |
+| 85 | Lithuania | 4.70 | 2007 |
+| 86 | Burkina Faso | 4.60 | 2007 |
+| 87 | Zimbabwe | 4.60 | 2000 |
+| 88 | Czech Republic | 4.60 | 2006 |
+| 89 | Cote d'Ivoire | 4.60 | 2008 |
+| 90 | Malaysia | 4.50 | 2007 |
+| 91 | Serbia | 4.50 | 2007 |
+| 92 | Germany | 4.40 | 2006 |
+| 93 | Spain | 4.40 | 2007 |
+| 94 | Romania | 4.40 | 2007 |
+| 95 | Mauritania | 4.40 | 2008 |
+| 96 | Portugal | 4.40 | 2008 |
+| 97 | Monaco | 4.40 | 2004 |
+| 98 | Algeria | 4.30 | 2008 |
+| 99 | Italy | 4.30 | 2007 |
+| 100 | Korea, South | 4.20 | 2007 |
+| 101 | Malawi | 4.20 | 2003 |
+| 102 | Trinidad and Tobago | 4.20 | 2002 |
+| 103 | Bulgaria | 4.10 | 2007 |
+| 104 | Rwanda | 4.10 | 2008 |
+| 105 | Greece | 4.00 | 2005 |
+| 106 | Paraguay | 4.00 | 2008 |
+| 107 | Oman | 4.00 | 2006 |
+| 108 | Antigua and Barbuda | 3.90 | 2002 |
+| 109 | Russia | 3.90 | 2006 |
+| 110 | Turkmenistan | 3.90 | 1991 |
+| 111 | Colombia | 3.90 | 2008 |
+| 112 | Croatia | 3.90 | 2004 |
+| 113 | Egypt | 3.80 | 2008 |
+| 114 | Sierra Leone | 3.80 | 2005 |
+| 115 | Panama | 3.80 | 2008 |
+| 116 | Nepal | 3.80 | 2008 |
+| 117 | Mali | 3.80 | 2008 |
+| 118 | Kuwait | 3.80 | 2006 |
+| 119 | Honduras | 3.80 | 1991 |
+| 120 | Gabon | 3.80 | 2000 |
+| 121 | Brunei | 3.70 | 2000 |
+| 122 | Venezuela | 3.70 | 2007 |
+| 123 | Togo | 3.70 | 2007 |
+| 124 | Niger | 3.70 | 2008 |
+| 125 | Luxembourg | 3.70 | 2001 |
+| 126 | Japan | 3.70 | 2007 |
+| 127 | Bahamas, The | 3.60 | 2000 |
+| 128 | El Salvador | 3.60 | 2008 |
+| 129 | Slovakia | 3.60 | 2007 |
+| 130 | Benin | 3.60 | 2007 |
+| 131 | Anguilla | 3.50 | 2008 |
+| 132 | Tajikistan | 3.50 | 2008 |
+| 133 | Macedonia | 3.50 | 2002 |
+| 134 | Indonesia | 3.50 | 2007 |
+| 135 | Chile | 3.40 | 2007 |
+| 136 | Mauritius | 3.40 | 2009 |
+| 137 | Hong Kong | 3.30 | 2008 |
+| 138 | Montserrat | 3.30 | 2004 |
+| 139 | Uganda | 3.30 | 2009 |
+| 140 | Qatar | 3.30 | 2005 |
+| 141 | Andorra | 3.20 | 2008 |
+| 142 | India | 3.20 | 2006 |
+| 143 | Guatemala | 3.20 | 2008 |
+| 144 | Singapore | 3.20 | 2009 |
+| 145 | British Virgin Islands | 3.20 | 2007 |
+| 146 | Nicaragua | 3.10 | 2003 |
+| 147 | Armenia | 3.00 | 2007 |
+| 148 | Albania | 2.90 | 2002 |
+| 149 | Bahrain | 2.90 | 2008 |
+| 150 | Cameroon | 2.90 | 2008 |
+| 151 | Georgia | 2.90 | 2008 |
+| 152 | Madagascar | 2.90 | 2008 |
+| 153 | Pakistan | 2.90 | 2008 |
+| 154 | Uruguay | 2.90 | 2006 |
+| 155 | Turkey | 2.90 | 2006 |
+| 156 | Kazakhstan | 2.80 | 2007 |
+| 157 | Liberia | 2.70 | 2008 |
+| 158 | Peru | 2.70 | 2008 |
+| 159 | Libya | 2.70 | 1999 |
+| 160 | Angola | 2.60 | 2006 |
+| 161 | Cayman Islands | 2.60 | 2006 |
+| 162 | Philippines | 2.60 | 2007 |
+| 163 | Bangladesh | 2.40 | 2008 |
+| 164 | Laos | 2.30 | 2008 |
+| 165 | Dominican Republic | 2.20 | 2007 |
+| 166 | Macau | 2.20 | 2008 |
+| 167 | Solomon Islands | 2.20 | 1999 |
+| 168 | Eritrea | 2.00 | 2006 |
+| 169 | Lebanon | 2.00 | 2008 |
+| 170 | Gambia, The | 2.00 | 2004 |
+| 171 | Azerbaijan | 1.90 | 2008 |
+| 172 | China | 1.90 | 1999 |
+| 173 | Chad | 1.90 | 2005 |
+| 174 | Congo, Republic of the | 1.90 | 2005 |
+| 175 | Guinea | 1.70 | 2008 |
+| 176 | Cambodia | 1.60 | 2007 |
+| 177 | Haiti | 1.40 | 1991 |
+| 178 | Zambia | 1.40 | 2008 |
+| 179 | Central African Republic | 1.30 | 2007 |
+| 180 | Bermuda | 1.20 | 2006 |
+| 181 | Burma | 1.20 | 2001 |
+| 182 | Ecuador | 1.00 | 2001 |
+| 183 | Nigeria | 0.90 | 1991 |
+| 184 | United Arab Emirates | 0.90 | 2008 |
+| 185 | Equatorial Guinea | 0.60 | 2003 |
+| 186 | Cook Islands | 0.20 | 2001 |

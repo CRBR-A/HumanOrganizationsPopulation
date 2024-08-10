@@ -1,0 +1,224 @@
+CIA - The World Factbook --  Suffrage   
+
+This entry gives the age at enfranchisement and whether the right to vote is universal or restricted.
+
+| Rank | country | Suffrage | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Solomon Islands | 21.00 | NA |
+| 2 | Tonga | 21.00 | NA |
+| 3 | Tokelau | 21.00 | NA |
+| 4 | Singapore | 21.00 | NA |
+| 5 | Saudi Arabia | 21.00 | NA |
+| 6 | Malaysia | 21.00 | NA |
+| 7 | Samoa | 21.00 | NA |
+| 8 | Fiji | 21.00 | NA |
+| 9 | Lebanon | 21.00 | NA |
+| 10 | Oman | 21.00 | NA |
+| 11 | Japan | 20.00 | NA |
+| 12 | Nauru | 20.00 | NA |
+| 13 | Cameroon | 20.00 | NA |
+| 14 | Taiwan | 20.00 | NA |
+| 15 | Bahrain | 20.00 | NA |
+| 16 | Korea, South | 19.00 | NA |
+| 17 | Aruba | 18.00 | NA |
+| 18 | Antigua and Barbuda | 18.00 | NA |
+| 19 | Afghanistan | 18.00 | NA |
+| 20 | Algeria | 18.00 | NA |
+| 21 | Azerbaijan | 18.00 | NA |
+| 22 | Albania | 18.00 | NA |
+| 23 | Armenia | 18.00 | NA |
+| 24 | Andorra | 18.00 | NA |
+| 25 | Angola | 18.00 | NA |
+| 26 | American Samoa | 18.00 | NA |
+| 27 | Australia | 18.00 | NA |
+| 28 | Anguilla | 18.00 | NA |
+| 29 | Barbados | 18.00 | NA |
+| 30 | Botswana | 18.00 | NA |
+| 31 | Bermuda | 18.00 | NA |
+| 32 | Belgium | 18.00 | NA |
+| 33 | Bahamas, The | 18.00 | NA |
+| 34 | Bangladesh | 18.00 | NA |
+| 35 | Belize | 18.00 | NA |
+| 36 | Bosnia and Herzegovina | 18.00 | NA |
+| 37 | Bolivia | 18.00 | NA |
+| 38 | Burma | 18.00 | NA |
+| 39 | Benin | 18.00 | NA |
+| 40 | Belarus | 18.00 | NA |
+| 41 | Bhutan | 18.00 | NA |
+| 42 | Bulgaria | 18.00 | NA |
+| 43 | Canada | 18.00 | NA |
+| 44 | Cambodia | 18.00 | NA |
+| 45 | Chad | 18.00 | NA |
+| 46 | Sri Lanka | 18.00 | NA |
+| 47 | Congo, Republic of the | 18.00 | NA |
+| 48 | Congo, Democratic Republic of the | 18.00 | NA |
+| 49 | China | 18.00 | NA |
+| 50 | Chile | 18.00 | NA |
+| 51 | Cayman Islands | 18.00 | NA |
+| 52 | Cocos (Keeling) Islands | 18.00 | NA |
+| 53 | Comoros | 18.00 | NA |
+| 54 | Colombia | 18.00 | NA |
+| 55 | Northern Mariana Islands | 18.00 | NA |
+| 56 | Costa Rica | 18.00 | NA |
+| 57 | Central African Republic | 18.00 | NA |
+| 58 | Cape Verde | 18.00 | NA |
+| 59 | Cook Islands | 18.00 | NA |
+| 60 | Cyprus | 18.00 | NA |
+| 61 | Denmark | 18.00 | NA |
+| 62 | Djibouti | 18.00 | NA |
+| 63 | Dominica | 18.00 | NA |
+| 64 | Dominican Republic | 18.00 | NA |
+| 65 | Egypt | 18.00 | NA |
+| 66 | Ireland | 18.00 | NA |
+| 67 | Equatorial Guinea | 18.00 | NA |
+| 68 | Estonia | 18.00 | NA |
+| 69 | Eritrea | 18.00 | NA |
+| 70 | El Salvador | 18.00 | NA |
+| 71 | Ethiopia | 18.00 | NA |
+| 72 | Czech Republic | 18.00 | NA |
+| 73 | Finland | 18.00 | NA |
+| 74 | Falkland Islands (Islas Malvinas) | 18.00 | NA |
+| 75 | Micronesia, Federated States of | 18.00 | NA |
+| 76 | Faroe Islands | 18.00 | NA |
+| 77 | French Polynesia | 18.00 | NA |
+| 78 | France | 18.00 | NA |
+| 79 | Gambia, The | 18.00 | NA |
+| 80 | Gabon | 18.00 | NA |
+| 81 | Georgia | 18.00 | NA |
+| 82 | Ghana | 18.00 | NA |
+| 83 | Gibraltar | 18.00 | NA |
+| 84 | Grenada | 18.00 | NA |
+| 85 | Greenland | 18.00 | NA |
+| 86 | Germany | 18.00 | NA |
+| 87 | Greece | 18.00 | NA |
+| 88 | Guatemala | 18.00 | NA |
+| 89 | Guinea | 18.00 | NA |
+| 90 | Guyana | 18.00 | NA |
+| 91 | Haiti | 18.00 | NA |
+| 92 | Hong Kong | 18.00 | NA |
+| 93 | Honduras | 18.00 | NA |
+| 94 | Croatia | 18.00 | NA |
+| 95 | Hungary | 18.00 | NA |
+| 96 | Iceland | 18.00 | NA |
+| 97 | India | 18.00 | NA |
+| 98 | Iran | 18.00 | NA |
+| 99 | Israel | 18.00 | NA |
+| 100 | Italy | 18.00 | NA |
+| 101 | Cote d'Ivoire | 18.00 | NA |
+| 102 | Iraq | 18.00 | NA |
+| 103 | Jamaica | 18.00 | NA |
+| 104 | Jordan | 18.00 | NA |
+| 105 | Kenya | 18.00 | NA |
+| 106 | Kyrgyzstan | 18.00 | NA |
+| 107 | Kiribati | 18.00 | NA |
+| 108 | Christmas Island | 18.00 | NA |
+| 109 | Kosovo | 18.00 | NA |
+| 110 | Kazakhstan | 18.00 | NA |
+| 111 | Laos | 18.00 | NA |
+| 112 | Latvia | 18.00 | NA |
+| 113 | Lithuania | 18.00 | NA |
+| 114 | Liberia | 18.00 | NA |
+| 115 | Slovakia | 18.00 | NA |
+| 116 | Liechtenstein | 18.00 | NA |
+| 117 | Lesotho | 18.00 | NA |
+| 118 | Luxembourg | 18.00 | NA |
+| 119 | Madagascar | 18.00 | NA |
+| 120 | Macau | 18.00 | NA |
+| 121 | Moldova | 18.00 | NA |
+| 122 | Mongolia | 18.00 | NA |
+| 123 | Montserrat | 18.00 | NA |
+| 124 | Malawi | 18.00 | NA |
+| 125 | Montenegro | 18.00 | NA |
+| 126 | Macedonia | 18.00 | NA |
+| 127 | Mali | 18.00 | NA |
+| 128 | Monaco | 18.00 | NA |
+| 129 | Morocco | 18.00 | NA |
+| 130 | Mauritius | 18.00 | NA |
+| 131 | Mauritania | 18.00 | NA |
+| 132 | Malta | 18.00 | NA |
+| 133 | Maldives | 18.00 | NA |
+| 134 | Mexico | 18.00 | NA |
+| 135 | Mozambique | 18.00 | NA |
+| 136 | New Caledonia | 18.00 | NA |
+| 137 | Niue | 18.00 | NA |
+| 138 | Norfolk Island | 18.00 | NA |
+| 139 | Niger | 18.00 | NA |
+| 140 | Vanuatu | 18.00 | NA |
+| 141 | Nigeria | 18.00 | NA |
+| 142 | Netherlands | 18.00 | NA |
+| 143 | Norway | 18.00 | NA |
+| 144 | Nepal | 18.00 | NA |
+| 145 | Suriname | 18.00 | NA |
+| 146 | New Zealand | 18.00 | NA |
+| 147 | Paraguay | 18.00 | NA |
+| 148 | Pitcairn Islands | 18.00 | NA |
+| 149 | Peru | 18.00 | NA |
+| 150 | Pakistan | 18.00 | NA |
+| 151 | Poland | 18.00 | NA |
+| 152 | Panama | 18.00 | NA |
+| 153 | Portugal | 18.00 | NA |
+| 154 | Papua New Guinea | 18.00 | NA |
+| 155 | Palau | 18.00 | NA |
+| 156 | Guinea-Bissau | 18.00 | NA |
+| 157 | Qatar | 18.00 | NA |
+| 158 | Serbia | 18.00 | NA |
+| 159 | Marshall Islands | 18.00 | NA |
+| 160 | Saint Martin | 18.00 | NA |
+| 161 | Romania | 18.00 | NA |
+| 162 | Philippines | 18.00 | NA |
+| 163 | Puerto Rico | 18.00 | NA |
+| 164 | Russia | 18.00 | NA |
+| 165 | Rwanda | 18.00 | NA |
+| 166 | Saint Pierre and Miquelon | 18.00 | NA |
+| 167 | Saint Kitts and Nevis | 18.00 | NA |
+| 168 | South Africa | 18.00 | NA |
+| 169 | Senegal | 18.00 | NA |
+| 170 | Slovenia | 18.00 | NA |
+| 171 | Sierra Leone | 18.00 | NA |
+| 172 | San Marino | 18.00 | NA |
+| 173 | Somalia | 18.00 | NA |
+| 174 | Spain | 18.00 | NA |
+| 175 | Saint Lucia | 18.00 | NA |
+| 176 | Sweden | 18.00 | NA |
+| 177 | Syria | 18.00 | NA |
+| 178 | Switzerland | 18.00 | NA |
+| 179 | Trinidad and Tobago | 18.00 | NA |
+| 180 | Thailand | 18.00 | NA |
+| 181 | Tajikistan | 18.00 | NA |
+| 182 | Turks and Caicos Islands | 18.00 | NA |
+| 183 | Togo | 18.00 | NA |
+| 184 | Sao Tome and Principe | 18.00 | NA |
+| 185 | Tunisia | 18.00 | NA |
+| 186 | Turkey | 18.00 | NA |
+| 187 | Tuvalu | 18.00 | NA |
+| 188 | Turkmenistan | 18.00 | NA |
+| 189 | Tanzania | 18.00 | NA |
+| 190 | Uganda | 18.00 | NA |
+| 191 | United Kingdom | 18.00 | NA |
+| 192 | Ukraine | 18.00 | NA |
+| 193 | United States | 18.00 | NA |
+| 194 | Uruguay | 18.00 | NA |
+| 195 | Uzbekistan | 18.00 | NA |
+| 196 | Saint Vincent and the Grenadines | 18.00 | NA |
+| 197 | Venezuela | 18.00 | NA |
+| 198 | British Virgin Islands | 18.00 | NA |
+| 199 | Vietnam | 18.00 | NA |
+| 200 | Virgin Islands | 18.00 | NA |
+| 201 | Namibia | 18.00 | NA |
+| 202 | Wallis and Futuna | 18.00 | NA |
+| 203 | Swaziland | 18.00 | NA |
+| 204 | Yemen | 18.00 | NA |
+| 205 | Zambia | 18.00 | NA |
+| 206 | Zimbabwe | 18.00 | NA |
+| 207 | Sudan | 17.00 | NA |
+| 208 | Seychelles | 17.00 | NA |
+| 209 | Timor-Leste | 17.00 | NA |
+| 210 | Korea, North | 17.00 | NA |
+| 211 | Indonesia | 17.00 | NA |
+| 212 | Nicaragua | 16.00 | NA |
+| 213 | Jersey | 16.00 | NA |
+| 214 | Guernsey | 16.00 | NA |
+| 215 | Ecuador | 16.00 | NA |
+| 216 | Cuba | 16.00 | NA |
+| 217 | Austria | 16.00 | NA |
+| 218 | Isle of Man | 16.00 | NA |

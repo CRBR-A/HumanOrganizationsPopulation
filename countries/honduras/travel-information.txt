@@ -1,0 +1,29 @@
+Telephone Code: 504
+Local Emergency Phone - Ambulance: 195, 37, 8654
+Local Emergency Phone - Fire: 198
+Local Emergency Phone - Police: 119
+Climate: Subtropical in lowlands, temperate in mountains
+Currency (Code): Lempiras (HNL)
+Electricity: 120 V
+Voltage: 60 Hz
+Plug types(s): A, B
+Major Languages: Spanish, Amerindian dialects
+Major Religions: Roman Catholic 46%, Protestant 41%, atheist 1%
+Time Difference: UTC-6 (1 hour behind Washington, DC during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: IDP honored; be sure to check into an INTER-AMERICAN DRIVING PERMIT also issued by AAA
+Road Driving Side: Right
+Tourist Destinations: Bay Islands (includes Roatan, Utila); Copán Archeological Site; Mayan Sculpture Museum (Copan); Lago de Yojoa; Punta Sal; Rio Platano Biosphere Reserve
+Major Sports: Soccer, baseball, tennis, swimming, basketball
+Cultural Practices: It is common to turn one's head and purse lips in the direction one is pointing towards.
+Tipping Guidelines: A tip of 10-15% of the bill at a restaurant is considered a good tip. Leaving the equivalent of $2-3 (USD) per night for housekeeping is acceptable.
+Souvenirs: Mahogany wood carvings, cigars, leather goods, straw work, pottery, shell items, woven cloth hammocks, replica Mayan items and corn husk dolls, coffee
+Traditional Cuisine: Plato típico --- a variety of foods prepared separately, but forming a complete meal in the end; the dish consists of marinated and grilled beef, pork sausages and cracklings, fried plantains, stewed or refried beans, and rice; traditionally served with sour cream, fresh white cheese, avocado slices, marinated cabbage, lime juice, and small tortillas
+
+---
+country: Honduras
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Honduras/travel-facts>
+license: public domain (U.S.)
+...

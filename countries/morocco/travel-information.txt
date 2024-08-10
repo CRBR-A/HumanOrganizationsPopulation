@@ -1,0 +1,29 @@
+Telephone Code: 212
+Local Emergency Phone - Ambulance: 15
+Local Emergency Phone - Fire: 15
+Local Emergency Phone - Police: 19
+Climate: Mediterranean, becoming more extreme in the interior
+Currency (Code): Moroccan dirhams (MAD)
+Electricity: 220 V
+Voltage: 50 Hz
+Plug types(s): C, E
+Major Languages: Arabic, Berber languages (Tamazight, Tachelhit, Tarifit), French
+Major Religions: Muslim 99% (virtually all Sunni, <0.1% Shia), other 1% (includes Christian, Jewish, and Baha'i)
+Time Difference: UTC 0 (5 hours ahead of Washington, DC, during Standard Time); daylight saving time: +1 hour, begins last Sunday in March, ends last Sunday in October
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Marrakesh (includes Medina, Majorelle & Secret Gardens, Museum); Hassan II Mosque (Casablanca); Rabat (includes Royal Palace, Udayas Kasbah, Hassan Tower); Fes el Bali; Tangier; Chefchaouen; Volubilis; Atlas Mountains; Ouzoud Waterfalls; Ait Benhaddou
+Major Sports: Soccer, kickboxing
+Cultural Practices: Using the index finger to ask someone to approach is considered impolite.
+Tipping Guidelines: In restaurants, if a service charge has not been added, leave 20-30 dirhams or 10% of the bill. Tipping the bellhop 10-20 dirhams is reasonable. Round up taxi fares. Leave 5-10 dirhams per day for housekeeping.
+Souvenirs: Silver and brass tea sets, Argan oil, ceramics/tagine clay cooking pots, leather goods including bobouche slippers, jewelry
+Traditional Cuisine: Tagine --- chicken stew with spices, vegetables, olives, and preserved lemons served with couscous
+
+---
+country: Morocco
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Morocco/travel-facts>
+license: public domain (U.S.)
+...

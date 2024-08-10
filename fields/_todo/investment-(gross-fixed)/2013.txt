@@ -1,0 +1,161 @@
+CIA - The World Factbook --  Investment (gross fixed)   
+
+This entry records total business spending on fixed assets, such as factories, machinery, equipment, dwellings, and inventories of raw materials, which provide the basis for future production. It is measured gross of the depreciation of the assets, i.e., it includes investment that merely replaces worn-out or scrapped capital.
+
+| Rank | country | (% of GDP) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Congo, Republic of the | 51.90 | 2012 est. |
+| 2 | Sao Tome and Principe | 48.70 | 2012 est. |
+| 3 | China | 46.10 | 2012 est. |
+| 4 | Lesotho | 37.30 | 2012 est. |
+| 5 | Seychelles | 37.20 | 2012 est. |
+| 6 | Haiti | 37.00 | 2012 est. |
+| 7 | Kosovo | 35.00 | 2010 est. |
+| 8 | Cape Verde | 34.20 | 2012 est. |
+| 9 | Indonesia | 33.20 | 2012 est. |
+| 10 | Lebanon | 32.90 | 2012 est. |
+| 11 | Belarus | 32.80 | 2012 est. |
+| 12 | Nicaragua | 32.80 | 2012 est. |
+| 13 | Equatorial Guinea | 32.40 | 2012 est. |
+| 14 | Chad | 31.90 | 2012 est. |
+| 15 | Iran | 31.80 | 2012 est. |
+| 16 | Algeria | 31.50 | 2012 est. |
+| 17 | Morocco | 31.40 | 2012 est. |
+| 18 | Armenia | 30.60 | 2012 est. |
+| 19 | Qatar | 30.60 | 2012 est. |
+| 20 | Belize | 30.40 | 2012 est. |
+| 21 | Gabon | 30.30 | 2012 est. |
+| 22 | Botswana | 30.00 | 2012 est. |
+| 23 | India | 29.90 | 2012 est. |
+| 24 | Laos | 29.20 | 2012 est. |
+| 25 | United Arab Emirates | 29.00 | 2012 est. |
+| 26 | Ghana | 29.00 | 2012 est. |
+| 27 | Panama | 28.90 | 2012 est. |
+| 28 | Sri Lanka | 28.90 | 2012 est. |
+| 29 | Thailand | 28.50 | 2012 est. |
+| 30 | Australia | 28.50 | 2012 est. |
+| 31 | Vietnam | 28.20 | 2012 est. |
+| 32 | Gambia, The | 27.80 | 2012 est. |
+| 33 | Sudan | 27.20 | 2012 est. |
+| 34 | Ethiopia | 26.80 | 2012 est. |
+| 35 | Korea, South | 26.70 | 2012 est. |
+| 36 | Romania | 26.70 | 2012 est. |
+| 37 | Peru | 26.60 | 2012 est. |
+| 38 | Saudi Arabia | 26.60 | 2012 est. |
+| 39 | Tanzania | 26.50 | 2012 est. |
+| 40 | Ecuador | 26.50 | 2012 est. |
+| 41 | Hong Kong | 26.40 | 2012 est. |
+| 42 | Oman | 26.20 | 2012 est. |
+| 43 | Albania | 26.00 | 2012 est. |
+| 44 | Jordan | 25.90 | 2012 est. |
+| 45 | Kyrgyzstan | 25.70 | 2012 est. |
+| 46 | Malaysia | 25.70 | 2012 est. |
+| 47 | Senegal | 25.50 | 2012 est. |
+| 48 | Togo | 25.40 | 2012 est. |
+| 49 | Bangladesh | 25.40 | 2012 est. |
+| 50 | Honduras | 25.40 | 2012 est. |
+| 51 | Mozambique | 24.80 | 2012 est. |
+| 52 | Uganda | 24.60 | 2012 est. |
+| 53 | Estonia | 24.50 | 2012 est. |
+| 54 | Singapore | 24.10 | 2012 est. |
+| 55 | Chile | 24.10 | 2012 est. |
+| 56 | Canada | 24.00 | 2012 est. |
+| 57 | Colombia | 23.90 | 2012 est. |
+| 58 | Czech Republic | 23.60 | 2012 est. |
+| 59 | Mauritius | 23.10 | 2012 est. |
+| 60 | Latvia | 23.00 | 2012 est. |
+| 61 | Georgia | 22.80 | 2012 est. |
+| 62 | Benin | 22.60 | 2012 est. |
+| 63 | Namibia | 22.60 | 2012 est. |
+| 64 | Azerbaijan | 22.50 | 2012 est. |
+| 65 | Tunisia | 22.30 | 2012 est. |
+| 66 | Russia | 22.00 | 2012 est. |
+| 67 | Kenya | 22.00 | 2012 est. |
+| 68 | Zimbabwe | 21.90 | 2012 est. |
+| 69 | Argentina | 21.80 | 2012 est. |
+| 70 | Macedonia | 21.80 | 2012 est. |
+| 71 | Moldova | 21.80 | 2012 est. |
+| 72 | Burundi | 21.80 | 2012 est. |
+| 73 | Guyana | 21.60 | 2012 est. |
+| 74 | Austria | 21.50 | 2012 est. |
+| 75 | Slovakia | 21.50 | 2012 est. |
+| 76 | Uruguay | 21.40 | 2012 est. |
+| 77 | Bulgaria | 21.40 | 2012 est. |
+| 78 | Japan | 21.20 | 2012 est. |
+| 79 | Kazakhstan | 21.10 | 2012 est. |
+| 80 | Burkina Faso | 20.90 | 2012 est. |
+| 81 | Cameroon | 20.90 | 2012 est. |
+| 82 | Papua New Guinea | 20.70 | 2012 est. |
+| 83 | Belgium | 20.70 | 2012 est. |
+| 84 | Mexico | 20.70 | 2012 est. |
+| 85 | Jamaica | 20.70 | 2012 est. |
+| 86 | Norway | 20.60 | 2012 est. |
+| 87 | Syria | 20.50 | 2012 est. |
+| 88 | Bahrain | 20.40 | 2012 est. |
+| 89 | Rwanda | 20.40 | 2012 est. |
+| 90 | Cambodia | 20.30 | 2012 est. |
+| 91 | Turkey | 20.30 | 2012 est. |
+| 92 | Costa Rica | 20.20 | 2012 est. |
+| 93 | Somalia | 20.00 | NA |
+| 94 | Switzerland | 20.00 | 2012 est. |
+| 95 | Venezuela | 19.90 | 2012 est. |
+| 96 | Luxembourg | 19.90 | 2012 est. |
+| 97 | France | 19.80 | 2012 est. |
+| 98 | Suriname | 19.70 | 2012 est. |
+| 99 | Zambia | 19.50 | 2012 est. |
+| 100 | Taiwan | 19.50 | 2012 est. |
+| 101 | Finland | 19.40 | 2012 est. |
+| 102 | Philippines | 19.40 | 2012 est. |
+| 103 | Poland | 19.30 | 2012 est. |
+| 104 | South Africa | 19.20 | 2012 est. |
+| 105 | Israel | 19.10 | 2012 est. |
+| 106 | Spain | 19.10 | 2012 est. |
+| 107 | Ukraine | 18.90 | 2012 est. |
+| 108 | Sweden | 18.90 | 2012 est. |
+| 109 | New Zealand | 18.90 | 2012 est. |
+| 110 | Madagascar | 18.70 | 2012 est. |
+| 111 | Nigeria | 18.40 | 2012 est. |
+| 112 | Croatia | 18.40 | 2012 est. |
+| 113 | Bolivia | 18.30 | 2012 est. |
+| 114 | Italy | 18.20 | 2012 est. |
+| 115 | Brazil | 18.10 | 2012 est. |
+| 116 | Yemen | 18.00 | 2012 est. |
+| 117 | Denmark | 17.80 | 2012 est. |
+| 118 | European Union | 17.80 | 2012 est. |
+| 119 | Germany | 17.60 | 2012 est. |
+| 120 | Slovenia | 17.40 | 2012 est. |
+| 121 | Guinea | 17.40 | 2012 est. |
+| 122 | Serbia | 17.30 | 2012 est. |
+| 123 | Hungary | 17.20 | 2012 est. |
+| 124 | Netherlands | 16.80 | 2012 est. |
+| 125 | Lithuania | 16.70 | 2012 est. |
+| 126 | Tajikistan | 16.60 | 2012 est. |
+| 127 | Dominican Republic | 16.40 | 2012 est. |
+| 128 | Burma | 16.30 | 2012 est. |
+| 129 | Egypt | 16.00 | 2012 est. |
+| 130 | Portugal | 15.80 | 2012 est. |
+| 131 | Trinidad and Tobago | 15.60 | 2012 est. |
+| 132 | Eritrea | 15.20 | 2012 est. |
+| 133 | Cote d'Ivoire | 15.00 | 2012 est. |
+| 134 | Guatemala | 14.60 | 2012 est. |
+| 135 | Malta | 14.60 | 2012 est. |
+| 136 | Paraguay | 14.60 | 2012 est. |
+| 137 | Iceland | 14.40 | 2012 est. |
+| 138 | El Salvador | 14.20 | 2012 est. |
+| 139 | United Kingdom | 14.20 | 2012 est. |
+| 140 | Kuwait | 14.00 | 2012 est. |
+| 141 | Malawi | 13.30 | 2012 est. |
+| 142 | Cyprus | 12.80 | 2012 est. |
+| 143 | United States | 12.80 | 2012 est. |
+| 144 | Greece | 12.60 | 2012 est. |
+| 145 | Angola | 11.40 | 2012 est. |
+| 146 | Pakistan | 10.90 | 2012 est. |
+| 147 | Turkmenistan | 10.60 | 2012 est. |
+| 148 | Swaziland | 10.30 | 2012 est. |
+| 149 | Iraq | 10.10 | 2011 est. |
+| 150 | Ireland | 10.00 | 2012 est. |
+| 151 | Cuba | 9.60 | 2012 est. |
+| 152 | Montenegro | 8.30 | 2012 est. |
+| 153 | Libya | 4.70 | 2012 est. |
+
+

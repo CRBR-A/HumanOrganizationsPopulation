@@ -1,0 +1,114 @@
+CIA - The World Factbook --  Waterways   
+
+This entry gives the total length of navigable rivers, canals, and other inland bodies of water.
+
+| Rank | country | (km) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | China | 110,000 | 2010 |
+| 2 | Russia | 102,000 | 2009 |
+| 3 | Brazil | 50,000 | 2010 |
+| 4 | United States | 41,009 | 2008 |
+| 5 | Indonesia | 21,579 | 2011 |
+| 6 | Colombia | 18,000 | 2010 |
+| 7 | Vietnam | 17,702 | 2011 |
+| 8 | Congo, Democratic Republic of the | 15,000 | 2009 |
+| 9 | India | 14,500 | 2008 |
+| 10 | Burma | 12,800 | 2008 |
+| 11 | Papua New Guinea | 11,000 | 2011 |
+| 12 | Argentina | 11,000 | 2007 |
+| 13 | Bolivia | 10,000 | 2010 |
+| 14 | Peru | 8,808 | 2010 |
+| 15 | Nigeria | 8,600 | 2009 |
+| 16 | France | 8,501 | 2010 |
+| 17 | Bangladesh | 8,370 | 2007 |
+| 18 | Finland | 7,842 | 2010 |
+| 19 | Germany | 7,467 | 2010 |
+| 20 | Malaysia | 7,200 | 2011 |
+| 21 | Venezuela | 7,100 | 2010 |
+| 22 | Netherlands | 6,214 | 2010 |
+| 23 | Iraq | 5,279 | 2010 |
+| 24 | Laos | 4,600 | 2010 |
+| 25 | Sudan | 4,068 | 2008 |
+| 26 | Kazakhstan | 4,000 | 2010 |
+| 27 | Thailand | 4,000 | 2010 |
+| 28 | Poland | 3,997 | 2009 |
+| 29 | Egypt | 3,500 | 2010 |
+| 30 | Philippines | 3,219 | 2011 |
+| 31 | United Kingdom | 3,200 | 2009 |
+| 32 | Paraguay | 3,100 | 2010 |
+| 33 | Mexico | 2,900 | 2010 |
+| 34 | Central African Republic | 2,800 | 2010 |
+| 35 | Belarus | 2,500 | 2003 |
+| 36 | Italy | 2,400 | 2009 |
+| 37 | Cambodia | 2,400 | 2010 |
+| 38 | Korea, North | 2,250 | 2010 |
+| 39 | Zambia | 2,250 | 2010 |
+| 40 | Nicaragua | 2,220 | 2010 |
+| 41 | Ukraine | 2,185 | 2010 |
+| 42 | Sweden | 2,052 | 2010 |
+| 43 | Belgium | 2,043 | 2010 |
+| 44 | Australia | 2,000 | 2006 |
+| 45 | Mali | 1,800 | 2010 |
+| 46 | Japan | 1,770 | 2010 |
+| 47 | Romania | 1,731 | 2006 |
+| 48 | Hungary | 1,622 | 2010 |
+| 49 | Korea, South | 1,608 | 2010 |
+| 50 | Uruguay | 1,600 | 2010 |
+| 51 | Gabon | 1,600 | 2010 |
+| 52 | Norway | 1,577 | 2010 |
+| 53 | Ecuador | 1,500 | 2010 |
+| 54 | Guinea | 1,300 | 2009 |
+| 55 | Turkmenistan | 1,300 | 2008 |
+| 56 | Angola | 1,300 | 2010 |
+| 57 | Switzerland | 1,299 | 2010 |
+| 58 | Ghana | 1,293 | 2011 |
+| 59 | Afghanistan | 1,200 | 2008 |
+| 60 | Turkey | 1,200 | 2008 |
+| 61 | Suriname | 1,200 | 2010 |
+| 62 | Congo, Republic of the | 1,120 | 2010 |
+| 63 | Uzbekistan | 1,100 | 2009 |
+| 64 | Senegal | 1,000 | 2010 |
+| 65 | Spain | 1,000 | 2009 |
+| 66 | Guatemala | 990 | 2010 |
+| 67 | Cote d'Ivoire | 980 | 2009 |
+| 68 | Ireland | 956 | 2010 |
+| 69 | Syria | 900 | 2010 |
+| 70 | Iran | 850 | 2009 |
+| 71 | Belize | 825 | 2010 |
+| 72 | Sierra Leone | 800 | 2009 |
+| 73 | Panama | 800 | 2010 |
+| 74 | Croatia | 785 | 2009 |
+| 75 | Costa Rica | 730 | 2010 |
+| 76 | Malawi | 700 | 2010 |
+| 77 | Czech Republic | 664 | 2010 |
+| 78 | Canada | 636 | 2008 |
+| 79 | Madagascar | 600 | 2010 |
+| 80 | Kyrgyzstan | 600 | 2010 |
+| 81 | Serbia | 587 | 2009 |
+| 82 | Mongolia | 580 | 2010 |
+| 83 | Moldova | 558 | 2008 |
+| 84 | Bulgaria | 470 | 2009 |
+| 85 | Honduras | 465 | 2010 |
+| 86 | Mozambique | 460 | 2010 |
+| 87 | Lithuania | 441 | 2007 |
+| 88 | Denmark | 400 | 2010 |
+| 89 | Gambia, The | 390 | 2010 |
+| 90 | Austria | 358 | 2011 |
+| 91 | Estonia | 335 | 2010 |
+| 92 | Guyana | 330 | 2010 |
+| 93 | Latvia | 300 | 2010 |
+| 94 | Niger | 300 | 2010 |
+| 95 | Cuba | 240 | 2010 |
+| 96 | Portugal | 210 | 2010 |
+| 97 | Brunei | 209 | 2011 |
+| 98 | Fiji | 203 | 2010 |
+| 99 | Tajikistan | 200 | 2010 |
+| 100 | Slovakia | 172 | 2009 |
+| 101 | Sri Lanka | 160 | 2008 |
+| 102 | Benin | 150 | 2010 |
+| 103 | Togo | 50 | 2009 |
+| 104 | Albania | 41 | 2010 |
+| 105 | Luxembourg | 37 | 2010 |
+| 106 | Liechtenstein | 28 | 2010 |
+| 107 | Greece | 6 | 2010 |
+| 108 | Kiribati | 5 | 2007 |

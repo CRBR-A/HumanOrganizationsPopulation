@@ -1,0 +1,29 @@
+Telephone Code: 90
+Local Emergency Phone - Ambulance: 112
+Local Emergency Phone - Fire: 112
+Local Emergency Phone - Police: 112
+Climate: Temperate; hot, dry summers with mild, wet winters; harsher in interior
+Currency (Code): Turkish liras (TRY)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, F
+Major Languages: Turkish, Kurdish, other minority languages
+Major Religions: Muslim 99.8% (mostly Sunni), other 0.2% (mostly Christian and Jews)
+Time Difference: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Istanbul (includes Hagia Sofia & Blue Mosque, Topkapi Palace); Ephesus; Pamukkale; Sumela Monastery; Mount Nemrut; Goreme National Park & rock sites of Cappadocia; Troy ruins; Catalhoyuk
+Major Sports: Soccer, basketball, volleyball
+Cultural Practices: Removing shoes in Turkish homes is customary. Be careful not to point your bare feet at anyone though, as this is often considered taboo.
+Tipping Guidelines: Tipping 10-15% in restaurants, cafes, and bars is typical. Hotel staff expect 5-20 liras for their services. Round up taxi fares.
+Souvenirs: Turkish/Kilim rugs, nargile smoking pipes, evil eye items, Turkish Delight candy, ceramics and pottery, copperwork, inlaid woodwork, chess sets, musical instruments, Turkish coffee sets and coffee, leather items, gold jewelry and onyx and mother-of-pearl items, embroidered items
+Traditional Cuisine: Döner Kebab --- grilled, sliced, or shaved seasoned lamb and/or beef shredded from a vertical skewer and typically folded in flat bread with tomatoes, onions, lettuce, and cucumbers; cheese is also occasionally added
+
+---
+country: Turkey (Turkiye)
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Turkey (Turkiye)/travel-facts>
+license: public domain (U.S.)
+...

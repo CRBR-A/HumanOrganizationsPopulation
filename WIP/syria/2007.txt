@@ -1,0 +1,242 @@
+CIA - The World Factbook -- Syria
+
+| Geography | Syria |
+| --- | --- |
+| Location: | Middle East, bordering the Mediterranean Sea, between Lebanon and Turkey |
+| Geographic coordinates: | 35 00 N, 38 00 E |
+| Map references: | Middle East |
+| Area: | total: 185,180 sq km |
+| | land: 184,050 sq km |
+| | water: 1,130 sq km |
+| | note: includes 1,295 sq km of Israeli-occupied territory |
+| Area - comparative: | slightly larger than North Dakota |
+| Land boundaries: | total: 2,253 km |
+| | border countries: Iraq 605 km, Israel 76 km, Jordan 375 km, Lebanon 375 km, Turkey 822 km |
+| Coastline: | 193 km |
+| Maritime claims: | territorial sea: 12 nm |
+| | contiguous zone: 24 nm |
+| Climate: | mostly desert; hot, dry, sunny summers (June to August) and mild, rainy winters (December to February) along coast; cold weather with snow or sleet periodically in Damascus |
+| Terrain: | primarily semiarid and desert plateau; narrow coastal plain; mountains in west |
+| Elevation extremes: | lowest point: unnamed location near Lake Tiberias -200 m |
+| | highest point: Mount Hermon 2,814 m |
+| Natural resources: | petroleum, phosphates, chrome and manganese ores, asphalt, iron ore, rock salt, marble, gypsum, hydropower |
+| Land use: | arable land: 24.8% |
+| | permanent crops: 4.47% |
+| | other: 70.73% (2005) |
+| Irrigated land: | 13,330 sq km (2003) |
+| Internal Renewable Water Resources: | 46.1 cu km (1997) |
+| Freshwater Withdrawal (Domestic/Industrial/Agricultural): | Total: 19.95 cu km/yr (3%/2%/95%) |
+| | Per capita: 1,048 cu m/yr (2000) |
+| Natural hazards: | dust storms, sandstorms |
+| Environment - current issues: | deforestation; overgrazing; soil erosion; desertification; water pollution from raw sewage and petroleum refining wastes; inadequate potable water |
+| Environment - international agreements: | party to: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection, Ship Pollution, Wetlands |
+| | signed, but not ratified: Environmental Modification |
+| Geography - note: | there are 42 Israeli settlements and civilian land use sites in the Israeli-occupied Golan Heights (August 2005 est.) |
+
+| People | Syria |
+| --- | --- |
+| Population: | 19,314,747 |
+| | note: in addition, about 40,000 people live in the Israeli-occupied Golan Heights - 20,000 Arabs (18,000 Druze and 2,000 Alawites) and about 20,000 Israeli settlers (July 2007 est.) |
+| Age structure: | 0-14 years: 36.5% (male 3,633,562/female 3,423,435) |
+| | 15-64 years: 60.1% (male 5,952,275/female 5,664,236) |
+| | 65 years and over: 3.3% (male 303,346/female 337,893) (2007 est.) |
+| Median age: | total: 21.1 years |
+| | male: 20.9 years |
+| | female: 21.2 years (2007 est.) |
+| Population growth rate: | 2.244% (2007 est.) |
+| Birth rate: | 27.19 births/1,000 population (2007 est.) |
+| Death rate: | 4.74 deaths/1,000 population (2007 est.) |
+| Net migration rate: | 0 migrant(s)/1,000 population (2007 est.) |
+| Sex ratio: | at birth: 1.06 male(s)/female |
+| | under 15 years: 1.061 male(s)/female |
+| | 15-64 years: 1.051 male(s)/female |
+| | 65 years and over: 0.898 male(s)/female |
+| | total population: 1.049 male(s)/female (2007 est.) |
+| Infant mortality rate: | total: 27.7 deaths/1,000 live births |
+| | male: 27.94 deaths/1,000 live births |
+| | female: 27.44 deaths/1,000 live births (2007 est.) |
+| Life expectancy at birth: | total population: 70.61 years |
+| | male: 69.27 years |
+| | female: 72.02 years (2007 est.) |
+| Total fertility rate: | 3.31 children born/woman (2007 est.) |
+| HIV/AIDS - adult prevalence rate: | less than 0.1% (2001 est.) |
+| HIV/AIDS - people living with HIV/AIDS: | less than 500 (2003 est.) |
+| HIV/AIDS - deaths: | less than 200 (2003 est.) |
+| Nationality: | noun: Syrian(s) |
+| | adjective: Syrian |
+| Ethnic groups: | Arab 90.3%, Kurds, Armenians, and other 9.7% |
+| Religions: | Sunni Muslim 74%, other Muslim (includes Alawite, Druze) 16%, Christian (various denominations) 10%, Jewish (tiny communities in Damascus, Al Qamishli, and Aleppo) |
+| Languages: | Arabic (official); Kurdish, Armenian, Aramaic, Circassian widely understood; French, English somewhat understood |
+| Literacy: | definition: age 15 and over can read and write |
+| | total population: 79.6% |
+| | male: 86% |
+| | female: 73.6% (2004 census) |
+
+| Government | Syria |
+| --- | --- |
+| Country name: | conventional long form: Syrian Arab Republic |
+| | conventional short form: Syria |
+| | local long form: Al Jumhuriyah al Arabiyah as Suriyah |
+| | local short form: Suriyah |
+| | former: United Arab Republic (with Egypt) |
+| Government type: | republic under an authoritarian military-dominated regime |
+| Capital: | name: Damascus |
+| | geographic coordinates: 33 30 N, 36 18 E |
+| | time difference: UTC+2 (7 hours ahead of Washington, DC during Standard Time) |
+| | daylight saving time: +1hr, begins 1 April; ends 30 September |
+| Administrative divisions: | 14 provinces (muhafazat, singular - muhafazah); Al Hasakah, Al Ladhiqiyah, Al Qunaytirah, Ar Raqqah, As Suwayda', Dar'a, Dayr az Zawr, Dimashq, Halab, Hamah, Hims, Idlib, Rif Dimashq, Tartus |
+| Independence: | 17 April 1946 (from League of Nations mandate under French administration) |
+| National holiday: | Independence Day, 17 April (1946) |
+| Constitution: | 13 March 1973 |
+| Legal system: | based on a combination of French and Ottoman civil law; Islamic law is used in the family court system; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Bashar al-ASAD (since 17 July 2000); Vice President Farouk al-SHARA (since 11 February 2006) oversees foreign policy; Vice President Najah al-ATTAR (since 23 March 2006) oversees cultural policy |
+| | head of government: Prime Minister Muhammad Naji al-UTRI (since 10 September 2003); Deputy Prime Minister for Economic Affairs Abdallah al-DARDARI (since 14 June 2005) |
+| | cabinet: Council of Ministers appointed by the president |
+| | elections: president approved by popular referendum for a second seven-year term (no term limits); referendum last held on 27 May 2007 (next to be held in May 2014); the president appoints the vice presidents, prime minister, and deputy prime ministers |
+| | election results: Bashar al-ASAD approved as president; percent of vote - Bashar al-ASAD 97.6% |
+| Legislative branch: | unicameral People's Council or Majlis al-Shaab (250 seats; members elected by popular vote to serve four-year terms) |
+| | elections: last held on 22-23 April 2007 (next to be held in 2011) |
+| | election results: percent of vote by party - NA; seats by party - NPF 172, independents 78 |
+| Judicial branch: | Supreme Judicial Council (appoints and dismisses judges; headed by the President); national level - Supreme Constitutional Court (adjudicates electoral disputes and rules on constitutionality of laws and decrees; justices appointed for four-year terms by the President); Court of Cassation; Appeals Courts (Appeals Courts represent an intermediate level between the Court of Cassation and local level courts); local level - Magistrate Courts; Courts of First Instance; Juvenile Courts; Customs Courts; specialized courts - Economic Security Courts (hear cases related to economic crimes); Supreme State Security Court (hear cases related to national security); Personal Status Courts (religious; hear cases related to marriage and divorce) |
+| Political parties and leaders: | legal parties: National Progressive Front or NPF [President Bashar al-ASAD, Dr. Suleiman QADDAH] (includes Arab Socialist Renaissance (Ba'th) Party [President Bashar al-ASAD]; Arab Socialist Renaissance (Ba'th) Party [President Bashar al-ASAD]; Socialist Unionist Democratic Party [Fadlallah Nasr Al-DIN]; Syrian Arab Socialist Union or ASU [Safwan QUDSI]; Syrian Communist Party (two branches) [Wissal Farha BAKDASH, Yusuf Rashid FAYSAL]; Syrian Social Nationalist Party [Ali QANSU]; Unionist Socialist Party [Fayez ISMAIL]); illegal parties: Kurdish Azadi Party [Khayr al-Din MURAD]; Kurdish Democratic Alliance [Abd al-Hamid DARWISH] (includes four parties); Kurdish Democratic Front (includes three parties but no designated leader); Kurdish Democratic Union Party or PYD [Ali MUHAMMAD]; Kurdish Future Movement; Kurdish Yekiti Party [Hasan SALEH]; National Democratic Front [Hassan Abd al-AZEM] |
+| Political pressure groups and leaders: | Damascus Declaration [Riyad SEIF, secretary general] (a broad alliance of opposition groups including: Committee for Revival of Civil Society [Michel KILO, Riyad SEIF]; Kurdish Democratic Alliance; Kurdish Democratic Front; National Democratic Front; Syrian Human Rights Society or HRAS [Fawed FAWUZ]); National Salvation Front (alliance between former Vice President Abd al-Halim KHADDAM, the SMB, and other small opposition groups); Syrian Muslim Brotherhood or SMB [Sadr al-Din al-BAYANUNI]; (operates in exile in London; endorsed the Damascus Declaration but is not an official member) |
+| International organization participation: | ABEDA, AFESD, AMF, CAEU, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC, ICCt (signatory), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OIC, UN, UNCTAD, UNESCO, UNIDO, UNRWA, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Imad MUSTAFA |
+| | chancery: 2215 Wyoming Avenue NW, Washington, DC 20008 |
+| | telephone: [1] (202) 232-6313 |
+| | FAX: [1] (202) 234-9548 |
+| Diplomatic representation from the US: | chief of mission: Ambassador (vacant); Charge d'Affaires Michael CORBIN |
+| | embassy: Abou Roumaneh, Al-Mansour Street, No. 2, Damascus |
+| | mailing address: P. O. Box 29, Damascus |
+| | telephone: [963] (11) 3391-4444 |
+| | FAX: [963] (11) 3391-3999 |
+| Flag description: | three equal horizontal bands of red (top), white, and black, colors associated with the Arab Liberation flag; two small green five-pointed stars in a horizontal line centered in the white band; former flag of the United Arab Republic where the two stars represented the constituent states of Syria and Egypt; similar to the flag of Yemen, which has a plain white band, Iraq, which has three green stars (plus an Arabic inscription) in a horizontal line centered in the white band, and that of Egypt, which has a gold Eagle of Saladin centered in the white band; the current design dates to 1980 |
+
+| Economy | Syria |
+| --- | --- |
+| Economy - overview: | The Syrian economy grew by an estimated 2.9% in real terms in 2006 led by the petroleum and agricultural sectors, which together account for about one-half of GDP. Higher crude oil prices countered declining oil production and exports and led to higher budgetary and export receipts. Total foreign assets of the Central Bank and domestic banking system rose to about $20 billion in 2006, and the government strengthened the private sector foreign exchange rate by about 7% from the start of the year. The Government of Syria has implemented modest economic reforms in the past few years, including cutting lending interest rates, opening private banks, consolidating some of the multiple exchange rates, and raising prices on some subsidized items, most notably, gasoline and cement. Nevertheless, the economy remains highly controlled by the government. Long-run economic constraints include declining oil production and exports, weak investment, high unemployment, and increasing pressure on water supplies caused by heavy use in agriculture, rapid population growth, industrial expansion, and water pollution. |
+| GDP (purchasing power parity): | $78.04 billion (2006 est.) |
+| GDP (official exchange rate): | $24.26 billion (2006 est.) |
+| GDP - real growth rate: | 4% (2006 est.) |
+| GDP - per capita (PPP): | $4,100 (2006 est.) |
+| GDP - composition by sector: | agriculture: 24.8% |
+| | industry: 25.1% |
+| | services: 50.1% (2005 est.) |
+| Labor force: | 5.276 million (2006 est.) |
+| Labor force - by occupation: | agriculture: 26% |
+| | industry: 14% |
+| | services: 60% (2003 est.) |
+| Unemployment rate: | 12.5% (2005 est.) |
+| Population below poverty line: | 11.9% (2006 est.) |
+| Household income or consumption by percentage share: | lowest 10%: NA% |
+| | highest 10%: NA% |
+| Inflation rate (consumer prices): | 10% (2006 est.) |
+| Investment (gross fixed): | 25.9% of GDP (2006 est.) |
+| Budget: | revenues: $7.635 billion |
+| | expenditures: $9.38 billion (2006 est.) |
+| Public debt: | 37.9% of GDP (2006 est.) |
+| Agriculture - products: | wheat, barley, cotton, lentils, chickpeas, olives, sugar beets; beef, mutton, eggs, poultry, milk |
+| Industries: | petroleum, textiles, food processing, beverages, tobacco, phosphate rock mining, cement, oil seeds crushing |
+| Industrial production growth rate: | 1.5% (2005) |
+| Electricity - production: | 33.01 billion kWh (2005 est.) |
+| Electricity - production by source: | fossil fuel: 57.6% |
+| | hydro: 42.4% |
+| | nuclear: 0% |
+| | other: 0% (2001) |
+| Electricity - consumption: | 24.74 billion kWh (2005 est.) |
+| Electricity - exports: | 0 kWh (2005) |
+| Electricity - imports: | 0 kWh (2005) |
+| Oil - production: | 405,000 bbl/day (2006 est.) |
+| Oil - consumption: | 230,000 bbl/day (2006 est.) |
+| Oil - exports: | 175,000 bbl/day (2006) |
+| Oil - imports: | NA bbl/day |
+| Oil - proved reserves: | 2.5 billion bbl (1 January 2006) |
+| Natural gas - production: | 8.5 billion cu m (2006 est.) |
+| Natural gas - consumption: | 5.1 billion cu m (2006 est.) |
+| Natural gas - exports: | 0 cu m (2006 est.) |
+| Natural gas - imports: | 0 cu m (2006 est.) |
+| Natural gas - proved reserves: | 230.8 billion cu m (1 January 2006 est.) |
+| Current account balance: | $-583 million (2006 est.) |
+| Exports: | $9.713 billion f.o.b. (2006 est.) |
+| Exports - commodities: | crude oil, petroleum products, fruits and vegetables, cotton fiber, clothing, meat and live animals, wheat |
+| Exports - partners: | Iraq 27.3%, Germany 12.2%, Lebanon 9.5%, Italy 6.6%, Egypt 5.3%, Saudi Arabia 4.7% (2006) |
+| Imports: | $10.54 billion f.o.b. (2006 est.) |
+| Imports - commodities: | machinery and transport equipment, electric power machinery, food and livestock, metal and metal products, chemicals and chemical products, plastics, yarn, paper |
+| Imports - partners: | Saudi Arabia 12.3%, China 7.9%, Egypt 6.2%, UAE 6%, Italy 4.9%, Ukraine 4.8%, Germany 4.7%, Iran 4.5% (2006) |
+| Economic aid - recipient: | $77.85 million (2005 est.) |
+| Reserves of foreign exchange and gold: | $5.715 billion (2006 est.) |
+| Debt - external: | $6.601 billion; note - excludes military debt and debt to Russia (2006 est.) |
+| Market value of publicly traded shares: | $NA |
+| Currency (code): | Syrian pound (SYP) |
+| Currency code: | SYP |
+| Exchange rates: | Syrian pounds per US dollar - 51.689 (2006), 50 (2005), 48.5 (2004), 52.8 (2003), 52.4 (2002) |
+| | note: data for 2004-06 are the public sector rate; data for 2002-03 are the parallel market rate in 'Amman and Beirut; the official rate for repaying loans was 11.25 Syrian pounds per US dollars during 2004-06, |
+| Fiscal year: | calendar year |
+
+| Communications | Syria |
+| --- | --- |
+| Telephones - main lines in use: | 3.243 million (2006) |
+| Telephones - mobile cellular: | 4.675 million (2006) |
+| Telephone system: | general assessment: fair system currently undergoing significant improvement and digital upgrades, including fiber-optic technology |
+| | domestic: coaxial cable and microwave radio relay network |
+| | international: country code - 963; satellite earth stations - 1 Intelsat (Indian Ocean) and 1 Intersputnik (Atlantic Ocean region); 1 submarine cable; coaxial cable and microwave radio relay to Iraq, Jordan, Lebanon, and Turkey; participant in Medarabtel |
+| Radio broadcast stations: | AM 14, FM 2, shortwave 1 (1998) |
+| Radios: | 4.15 million (1997) |
+| Television broadcast stations: | 44 (plus 17 repeaters) (1995) |
+| Televisions: | 1.05 million (1997) |
+| Internet country code: | .sy |
+| Internet hosts: | 119 (2007) |
+| Internet Service Providers (ISPs): | 1 (2000) |
+| Internet users: | 1.5 million (2006) |
+
+| Transportation | Syria |
+| --- | --- |
+| Airports: | 90 (2007) |
+| Airports - with paved runways: | total: 26 |
+| | over 3,047 m: 6 |
+| | 2,438 to 3,047 m: 15 |
+| | 914 to 1,523 m: 3 |
+| | under 914 m: 2 (2007) |
+| Airports - with unpaved runways: | total: 64 |
+| | 1,524 to 2,437 m: 1 |
+| | 914 to 1,523 m: 11 |
+| | under 914 m: 52 (2007) |
+| Heliports: | 7 (2007) |
+| Pipelines: | gas 2,764 km; oil 2,000 km (2006) |
+| Railways: | total: 2,711 km |
+| | standard gauge: 2,460 km 1.435-m gauge |
+| | narrow gauge: 251 km 1.050-m gauge (2006) |
+| Roadways: | total: 94,890 km |
+| | paved: 19,073 km |
+| | unpaved: 75,817 km (2004) |
+| Waterways: | 900 km (not economically significant) (2005) |
+| Merchant marine: | total: 96 ships (1000 GRT or over) 353,351 GRT/512,597 DWT |
+| | by type: bulk carrier 7, cargo 82, container 1, livestock carrier 4, petroleum tanker 1, roll on/roll off 1 |
+| | foreign-owned: 10 (Jordan 2, Lebanon 4, Romania 4) |
+| | registered in other countries: 164 (Bolivia 1, Cambodia 32, Comoros 8, Cyprus 2, Dominica 2, Georgia 54, Hong Kong 1, North Korea 7, Lebanon 1, Libya 1, Malta 4, Mongolia 1, Panama 24, Sierra Leone 8, Slovakia 2, St Kitts and Nevis 5, St Vincent and The Grenadines 11, unknown 2) (2007) |
+| Ports and terminals: | Baniyas, Latakia |
+
+| Military | Syria |
+| --- | --- |
+| Military branches: | Syrian Armed Forces: Syrian Arab Army (includes Syrian Arab Navy), Syrian Arab Air and Air Defense Force (includes Air Defense Command) (2005) |
+| Military service age and obligation: | 18 years of age for compulsory military service; conscript service obligation - 30 months (18 months in the Syrian Arab Navy); women are not conscripted but may volunteer to serve (2004) |
+| Manpower available for military service: | males age 18-49: 4,356,413 |
+| | females age 18-49: 4,123,339 (2005 est.) |
+| Manpower fit for military service: | males age 18-49: 3,453,888 |
+| | females age 18-49: 3,421,558 (2005 est.) |
+| Manpower reaching military service age annually: | males age 18-49: 225,113 |
+| | females age 18-49: 211,829 (2005 est.) |
+| Military expenditures - percent of GDP: | 5.9% (2005 est.) |
+
+| Transnational Issues | Syria |
+| --- | --- |
+| Disputes - international: | Golan Heights is Israeli-occupied with the almost 1,000-strong UN Disengagement Observer Force (UNDOF) patrolling a buffer zone since 1964; lacking a treaty or other documentation describing the boundary, portions of the Lebanon-Syria boundary are unclear with several sections in dispute; since 2000, Lebanon has claimed Shaba'a farms in the Golan Heights; 2004 Agreement and pending demarcation settles border dispute with Jordan; approximately two million Iraqis have fled the conflict in Iraq with the majority taking refuge in Syria and Jordan |
+| Refugees and internally displaced persons: | refugees (country of origin): 700,000 - 1.2 million (Iraq), 434,896 (Palestinian Refugees (UNRWA)) |
+| | IDPs: 305,000 (most displaced from Golan Heights during 1967 Arab-Israeli War) (2006) |
+| Trafficking in persons: | current situation: Syria is a destination country for women from South and Southeast Asia and Africa for domestic servitude and from Eastern Europe and Iraq for sexual exploitation; women are recruited for work in Syria as domestic servants, but some face conditions of exploitation and involuntary servitude including long hours, non-payment of wages, withholding of passports and other restrictions on movement, and physical and sexual abuse; Eastern European women recruited for work in Syria as cabaret dancers are not permitted to leave their work premises without permission and have their passports withheld; some displaced Iraqi women and children are reportedly forced into sexual exploitation |
+| | tier rating: Tier 3 - Syria does not fully comply with the minimum standards for the elimination of trafficking and is not making significant efforts to do so |
+| Illicit drugs: | a transit point for opiates, hashish, and cocaine bound for regional and Western markets; weak anti-money-laundering controls and bank privatization may leave it vulnerable to money laundering |
+
+---
+This page was last updated on 13 December, 2007                      

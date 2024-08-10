@@ -1,0 +1,14 @@
+| Precautions | Reconsider Travel and exercise increased caution due to crime, civil unrest, and the possibility of kidnapping. Some areas have increased risk.  |
+| | Consult the link below for updates to travel advisories and statements on safety, security, local laws, and special circumstances in this country. |
+| | <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html> |
+| Passport/Visa Requirements | US citizens should make sure their passport will not expire for at least 6 months after they enter the country even if they do not intend to stay that long. They should also make sure they have at least 1 blank page in their passport for any entry stamp that will be required. A visa is required, but US citizens may obtain the visa upon entering the country. |
+| Vaccinations | An International Certificate of Vaccination for yellow fever is required for travelers arriving from countries with a risk of yellow fever transmission and for travelers having transited through the airport of a country with risk of yellow fever transmission. See WHO recommendations.  <http://www.who.int/> |
+| US Embassy/Consulate | [51] (1) 618-2000; US Embassy in Lima, Avenida La Encalada cdra. 17 s/n, Surco, Lima 33, Peru; LimaACS@state.gov; https://pe.usembassy.gov/ |
+
+---
+country: Peru
+date: June 06, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Peru/travel-facts>
+license: public domain (U.S.)
+...

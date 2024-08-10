@@ -1,0 +1,29 @@
+Telephone Code: 238
+Local Emergency Phone - Ambulance: 130
+Local Emergency Phone - Fire: 131
+Local Emergency Phone - Police: 132
+Climate: Temperate; warm, dry summer; precipitation meager and erratic
+Currency (Code): Cabo Verdean escudos (CVE)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, F
+Major Languages: Portuguese, Krioulo
+Major Religions: Roman Catholic 77.3%, Protestant 4.6%, other Christian 3.4%, Muslim 1.8%
+Time Difference: UTC-1 (4 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Praia de Santa Maria; Praia de Chaves; Pedra do Lume Salt Crater; Buracona (Blue Eye); Cidade Velha
+Major Sports: Soccer, surfing, sailing
+Cultural Practices: It is common for people to make a "sssss" sound with their mouth to get your attention. This is not meant to be rude.
+Tipping Guidelines: Tip a couple of euros or round up when possible in all situations.
+Souvenirs: Carved wooden statues and toys, crocheted items, batik items, native handicrafts including masks, weapons, baskets, and clay items
+Traditional Cuisine: Cachupa --- a stew made of mashed maize, onions, green bananas, manioc, sweet potatoes, squash, and yams
+
+---
+country: Cabo Verde
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Cabo Verde/travel-facts>
+license: public domain (U.S.)
+...

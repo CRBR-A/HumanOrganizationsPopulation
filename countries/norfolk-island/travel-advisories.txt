@@ -1,0 +1,12 @@
+| Precautions | consult its website daily via the link below for updates to travel advisories and statements on safety, security, local laws, and special circumstances about visiting Australia or Norfolk Island.  <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html> |
+| Passport/Visa Requirements | US citizens should make sure their passport is valid at the date of their entering the country. They should also make sure they have at least 1 blank page in their passport for any entry stamp that will be required. A visa is required. US citizens will need to get in touch with the country's embassy or nearest consulate to obtain a visa or Electronic Travel Authority (ETA) prior to visiting the country. |
+| Vaccinations | See WHO recommendations  <http://www.who.int/> |
+| US Embassy/Consulate | None (territory of Australia); US citizens may call US Dept of State (202)-501-4444 for emergencies; +(61) (2) 9373-9200; EMER: +(61) (2) 4422-2201; US Consulate General Sydney, MLC Centre, Level 10, 19-29 Martin Place, Sydney, NSW 2000, Australia |
+
+---
+country: Norfolk Island
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Norfolk Island/travel-facts>
+license: public domain (U.S.)
+...

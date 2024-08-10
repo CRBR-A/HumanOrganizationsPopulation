@@ -1,0 +1,29 @@
+Telephone Code: 960
+Local Emergency Phone - Ambulance: 102
+Local Emergency Phone - Fire: 999
+Local Emergency Phone - Police: 119
+Climate: Tropical; hot, humid; dry, northeast monsoon (November to March); rainy, southwest monsoon (June to August)
+Currency (Code): Rufiyaa (MVR)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, D, G, J, K, L
+Major Languages: Dhivehi, English
+Major Religions: Sunni Muslim
+Time Difference: UTC+5 (10 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Left
+Tourist Destinations: National Museum; Sultan Park; Tsunami Monument; Republic Square; Rasfannu; Male Waterfront; Friday Mosque; Muleeaage Palace
+Major Sports: Soccer, tennis, baseball, badminton, basketball, table tennis
+Cultural Practices: While beachwear is acceptable in resorts, it is typically frowned upon in other locations.
+Tipping Guidelines: If staying in a hotel for a few days or more and the staff has demonstrated good service, a gratuity of $2 (USD) per day is suggested. Tipping guides $10 (USD) per day is appropriate.
+Souvenirs: Hand-woven wicker and reed mats, woven baskets, shell and stone jewelry, tree-sap-carved lacquered boxes and other carved wooden items
+Traditional Cuisine: Garudiya --- a clear fish (typically tuna) broth
+
+---
+country: Maldives
+date: June 23, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Maldives/travel-facts>
+license: public domain (U.S.)
+...

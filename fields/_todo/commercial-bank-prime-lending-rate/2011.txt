@@ -1,0 +1,193 @@
+CIA - The World Factbook --  Commercial bank prime lending rate   
+
+This entry provides a simple average of annualized interest rates commercial banks charge on new loans, denominated in the national currency, to their most credit-worthy customers.
+
+| Rank | country | (%) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Zimbabwe | 352.00 | 31 December 2009 est. |
+| 2 | Congo, Democratic Republic of the | 65.39 | 31 December 2009 est. |
+| 3 | Brazil | 44.65 | 31 December 2009 est. |
+| 4 | Madagascar | 44.62 | 31 December 2009 est. |
+| 5 | Sao Tome and Principe | 32.00 | 31 December 2009 est. |
+| 6 | Ghana | 28.80 | 31 December 2009 est. |
+| 7 | Paraguay | 28.26 | 31 December 2009 est. |
+| 8 | Gambia, The | 27.00 | 31 December 2009 est. |
+| 9 | Tajikistan | 25.88 | 31 December 2009 est. |
+| 10 | Georgia | 25.52 | 31 December 2009 est. |
+| 11 | Malawi | 25.30 | 31 December 2009 est. |
+| 12 | Laos | 24.78 | 31 December 2009 est. |
+| 13 | Guinea | 23.80 | 31 December 2009 est. |
+| 14 | Sierra Leone | 22.17 | 31 December 2009 est. |
+| 15 | Zambia | 22.06 | 31 December 2009 est. |
+| 16 | Kyrgyzstan | 21.68 | 31 December 2009 est. |
+| 17 | Peru | 21.03 | 31 December 2009 est. |
+| 18 | Turkey | 21.00 | 31 December 2009 est. |
+| 19 | Uganda | 20.96 | 31 December 2009 est. |
+| 20 | Ukraine | 20.86 | 31 December 2009 est. |
+| 21 | Mongolia | 20.80 | 31 December 2009 est. |
+| 22 | Moldova | 20.54 | 31 December 2009 est. |
+| 23 | Azerbaijan | 20.03 | 31 December 2009 est. |
+| 24 | Venezuela | 19.89 | 31 December 2009 est. |
+| 25 | Costa Rica | 19.72 | 31 December 2009 est. |
+| 26 | Mauritania | 19.50 | 31 December 2009 est. |
+| 27 | Honduras | 19.45 | 31 December 2009 est. |
+| 28 | Mauritius | 19.25 | 31 December 2009 est. |
+| 29 | Iceland | 19.00 | 31 December 2009 est. |
+| 30 | Armenia | 18.76 | 31 December 2009 est. |
+| 31 | Nigeria | 18.36 | 31 December 2009 est. |
+| 32 | Dominican Republic | 18.14 | 31 December 2009 est. |
+| 33 | Yemen | 18.00 | 31 December 2009 est. |
+| 34 | Romania | 17.30 | 31 December 2009 est. |
+| 35 | Haiti | 17.30 | 31 December 2009 est. |
+| 36 | Burma | 17.00 | 31 December 2009 est. |
+| 37 | Jamaica | 16.43 | 31 December 2009 est. |
+| 38 | Latvia | 16.23 | 31 December 2009 est. |
+| 39 | Rwanda | 16.00 | 31 December 2009 est. |
+| 40 | Cambodia | 15.81 | 31 December 2009 est. |
+| 41 | Angola | 15.68 | 31 December 2009 est. |
+| 42 | Mozambique | 15.68 | 31 December 2009 est. |
+| 43 | Sri Lanka | 15.67 | 31 December 2009 est. |
+| 44 | Argentina | 15.66 | 31 December 2009 est. |
+| 45 | Micronesia, Federated States of | 15.38 | 31 December 2009 est. |
+| 46 | Seychelles | 15.35 | 31 December 2009 est. |
+| 47 | Russia | 15.31 | 31 December 2009 est. |
+| 48 | Solomon Islands | 15.30 | 31 December 2009 est. |
+| 49 | Uruguay | 15.28 | 31 December 2009 est. |
+| 50 | Afghanistan | 15.22 | 31 December 2009 est. |
+| 51 | Tanzania | 15.03 | 31 December 2009 est. |
+| 52 | Gabon | 15.00 | 31 December 2009 est. |
+| 53 | Equatorial Guinea | 15.00 | 31 December 2009 est. |
+| 54 | Central African Republic | 15.00 | 31 December 2009 est. |
+| 55 | Congo, Republic of the | 15.00 | 31 December 2009 est. |
+| 56 | Guinea-Bissau | 15.00 | 31 December 2009 est. |
+| 57 | Turkmenistan | 15.00 | 31 December 2009 est. |
+| 58 | Chad | 15.00 | 31 December 2009 est. |
+| 59 | Kenya | 14.80 | 31 December 2009 est. |
+| 60 | Bangladesh | 14.60 | 31 December 2009 est. |
+| 61 | Guyana | 14.54 | 31 December 2009 est. |
+| 62 | Senegal | 14.50 | 31 December 2009 est. |
+| 63 | Bhutan | 14.50 | 31 December 2009 est. |
+| 64 | Cayman Islands | 14.50 | 31 December 2009 est. |
+| 65 | Indonesia | 14.50 | 31 December 2009 est. |
+| 66 | Pakistan | 14.19 | 31 December 2009 est. |
+| 67 | Liberia | 14.18 | 31 December 2009 est. |
+| 68 | Ethiopia | 14.18 | 31 December 2009 est. |
+| 69 | Belize | 14.10 | 31 December 2009 est. |
+| 70 | Kosovo | 14.09 | 31 December 2009 est. |
+| 71 | Burundi | 14.08 | 31 December 2009 est. |
+| 72 | Nicaragua | 14.04 | 31 December 2009 est. |
+| 73 | Guatemala | 13.85 | 31 December 2009 est. |
+| 74 | Botswana | 13.76 | 31 December 2009 est. |
+| 75 | Colombia | 13.01 | 31 December 2009 est. |
+| 76 | Lesotho | 13.00 | 31 December 2009 est. |
+| 77 | Maldives | 13.00 | 31 December 2009 est. |
+| 78 | Albania | 12.67 | 31 December 2009 est. |
+| 79 | Bolivia | 12.36 | 31 December 2009 est. |
+| 80 | India | 12.20 | 31 December 2009 est. |
+| 81 | Tonga | 12.13 | 31 December 2009 est. |
+| 82 | Samoa | 12.11 | 31 December 2009 est. |
+| 83 | Iran | 12.00 | 31 December 2009 est. |
+| 84 | Egypt | 11.98 | 31 December 2009 est. |
+| 85 | Trinidad and Tobago | 11.90 | 31 December 2009 est. |
+| 86 | Serbia | 11.80 | 31 December 2009 est. |
+| 87 | South Africa | 11.71 | 31 December 2009 est. |
+| 88 | Belarus | 11.68 | 31 December 2009 est. |
+| 89 | Suriname | 11.65 | 31 December 2009 est. |
+| 90 | Croatia | 11.55 | 31 December 2009 est. |
+| 91 | Swaziland | 11.38 | 31 December 2009 est. |
+| 92 | Bulgaria | 11.34 | 31 December 2009 est. |
+| 93 | Timor-Leste | 11.20 | 31 December 2009 est. |
+| 94 | Namibia | 11.12 | 31 December 2009 est. |
+| 95 | Djibouti | 11.10 | 31 December 2009 est. |
+| 96 | Hungary | 11.06 | 31 December 2009 est. |
+| 97 | Cape Verde | 11.00 | 31 December 2009 est. |
+| 98 | Sudan | 11.00 | 31 December 2009 est. |
+| 99 | Grenada | 10.98 | 31 December 2009 est. |
+| 100 | Aruba | 10.70 | 31 December 2009 est. |
+| 101 | Saint Lucia | 10.60 | 31 December 2009 est. |
+| 102 | Comoros | 10.50 | 31 December 2009 est. |
+| 103 | New Zealand | 10.39 | 31 December 2009 est. |
+| 104 | Papua New Guinea | 10.09 | 31 December 2009 est. |
+| 105 | Vietnam | 10.07 | 31 December 2009 est. |
+| 106 | Macedonia | 10.06 | 31 December 2009 est. |
+| 107 | Antigua and Barbuda | 10.05 | 31 December 2009 est. |
+| 108 | Dominica | 10.03 | 31 December 2009 est. |
+| 109 | Syria | 10.00 | 31 December 2009 est. |
+| 110 | Lebanon | 9.57 | 31 December 2009 est. |
+| 111 | Mali | 9.50 | 31 December 2009 est. |
+| 112 | Estonia | 9.39 | 31 December 2009 est. |
+| 113 | Montenegro | 9.36 | 31 December 2009 est. |
+| 114 | El Salvador | 9.32 | 31 December 2009 |
+| 115 | Anguilla | 9.27 | 31 December 2009 est. |
+| 116 | Jordan | 9.25 | 31 December 2009 est. |
+| 117 | Barbados | 9.20 | 31 December 2009 est. |
+| 118 | Ecuador | 9.20 | 31 December 2009 est. |
+| 119 | Saint Vincent and the Grenadines | 9.20 | 31 December 2009 est. |
+| 120 | Montserrat | 9.05 | 31 December 2009 est. |
+| 121 | Saint Kitts and Nevis | 8.78 | 31 December 2009 est. |
+| 122 | Philippines | 8.57 | 31 December 2009 est. |
+| 123 | Poland | 8.51 | 31 December 2009 est. |
+| 124 | Lithuania | 8.39 | 31 December 2009 est. |
+| 125 | Panama | 8.25 | 31 December 2009 est. |
+| 126 | Algeria | 8.00 | 31 December 2009 est. |
+| 127 | Nepal | 8.00 | 31 December 2009 est. |
+| 128 | Bosnia and Herzegovina | 7.93 | 31 December 2009 est. |
+| 129 | Bahrain | 7.90 | 31 December 2009 est. |
+| 130 | Fiji | 7.90 | 31 December 2009 est. |
+| 131 | European Union | 7.52 | 31 December 2009 est. |
+| 132 | Curacao | 7.51 | 31 December 2009 est. |
+| 133 | Cyprus | 7.49 | 31 December 2009 est. |
+| 134 | Oman | 7.44 | 31 December 2009 est. |
+| 135 | Tunisia | 7.31 | 31 December 2009 est. |
+| 136 | West Bank | 7.30 | 31 December 2009 est. |
+| 137 | Qatar | 7.27 | 31 December 2009 est. |
+| 138 | Chile | 7.25 | 31 December 2009 est. |
+| 139 | Saudi Arabia | 7.20 | 31 December 2009 est. |
+| 140 | Mexico | 7.07 | 31 December 2009 est. |
+| 141 | Iraq | 7.00 | 31 December 2009 est. |
+| 142 | Spain | 6.96 | 31 December 2009 est. |
+| 143 | Kazakhstan | 6.76 | 31 December 2009 est. |
+| 144 | Kuwait | 6.20 | 31 December 2009 est. |
+| 145 | Morocco | 6.20 | 31 December 2009 est. |
+| 146 | Greece | 6.06 | 31 December 2009 est. |
+| 147 | Australia | 6.02 | 31 December 2009 est. |
+| 148 | Libya | 6.00 | 31 December 2009 est. |
+| 149 | Czech Republic | 5.99 | 31 December 2009 est. |
+| 150 | Thailand | 5.96 | 31 December 2009 est. |
+| 151 | Slovenia | 5.91 | 31 December 2009 est. |
+| 152 | United Arab Emirates | 5.90 | 31 December 2009 est. |
+| 153 | San Marino | 5.74 | 31 December 2009 est. |
+| 154 | Korea, South | 5.65 | 31 December 2009 est. |
+| 155 | Bahamas, The | 5.50 | 31 December 2009 est. |
+| 156 | Vanuatu | 5.50 | 31 December 2009 est. |
+| 157 | Brunei | 5.50 | 31 December 2009 est. |
+| 158 | Singapore | 5.38 | 31 December 2009 est. |
+| 159 | China | 5.31 | 31 December 2009 est. |
+| 160 | Denmark | 5.30 | 31 December 2009 est. |
+| 161 | Macau | 5.25 | 31 December 2009 est. |
+| 162 | Hong Kong | 5.00 | 31 December 2009 est. |
+| 163 | Germany | 4.96 | 31 December 2009 est. |
+| 164 | Malaysia | 4.83 | 31 December 2009 est. |
+| 165 | Italy | 4.76 | 31 December 2009 est. |
+| 166 | Portugal | 4.69 | 31 December 2009 est. |
+| 167 | Belgium | 4.58 | 31 December 2009 est. |
+| 168 | Norway | 4.53 | 31 December 2009 est. |
+| 169 | Malta | 4.49 | 31 December 2009 est. |
+| 170 | Ireland | 4.32 | 31 December 2009 est. |
+| 171 | Niger | 4.30 | 31 December 2009 est. |
+| 172 | Cote d'Ivoire | 4.30 | 31 December 2009 est. |
+| 173 | France | 4.25 | 31 December 2009 est. |
+| 174 | United Kingdom | 4.05 | 31 December 2009 est. |
+| 175 | Israel | 3.70 | 31 December 2009 est. |
+| 176 | Netherlands | 3.37 | 31 December 2009 est. |
+| 177 | United States | 3.25 | 31 December 2009 est. |
+| 178 | Puerto Rico | 3.25 | 31 December 2009 est. |
+| 179 | Austria | 3.10 | 31 December 2009 est. |
+| 180 | Slovakia | 2.91 | 31 December 2009 est. |
+| 181 | Switzerland | 2.75 | 31 December 2009 est. |
+| 182 | Luxembourg | 2.69 | 31 December 2009 est. |
+| 183 | Taiwan | 2.56 | 31 December 2009 est. |
+| 184 | Finland | 2.55 | 31 December 2009 est. |
+| 185 | Canada | 2.40 | 31 December 2009 est. |
+| 186 | Sweden | 2.38 | 31 December 2009 est. |
+| 187 | Japan | 1.48 | 31 December 2009 est. |

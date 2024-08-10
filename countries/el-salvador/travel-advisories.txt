@@ -1,0 +1,14 @@
+| Precautions | Reconsider Travel to El Salvador due to crime. |
+| | Consult the link below for updates to travel advisories and statements on safety, security, local laws, and special circumstances in this country. |
+| | <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html> |
+| Passport/Visa Requirements | US citizens should make sure their passport will not expire for at least 6 months after they enter the country even if they do not intend to stay that long. They should also make sure they have at least 1 blank page in their passport for any entry stamp that will be required. A visa is not needed for tourists, but US citizens must purchase a tourist card (10 USD) upon arrival, which is valid for 90 days. If a US citizen's passport shows they were born in El Salvador then they do not need to purchase tourist card. |
+| Vaccinations | An International Certificate of Vaccination for yellow fever is required for travelers arriving from countries with a risk of yellow fever transmission and for travelers having transited through the airport of a country with risk of yellow fever transmission. See WHO recommendations.  <http://www.who.int/> |
+| US Embassy/Consulate | [503] 2501-2999; US Embassy in San Salvador, Final Boulevard Santa Elena, Antiguo Cuscatlán, La Libertad, El Salvador; https://sv.usembassy.gov/; ACSSanSal@state.gov |
+
+---
+country: El Salvador
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/El Salvador/travel-facts>
+license: public domain (U.S.)
+...

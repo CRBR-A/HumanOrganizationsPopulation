@@ -1,0 +1,29 @@
+Telephone Code: 375
+Local Emergency Phone - Ambulance: 03
+Local Emergency Phone - Fire: 01
+Local Emergency Phone - Police: 02
+Climate: Cold winters, cool and moist summers; transitional between continental and maritime
+Currency (Code): Rubles (BYB/BYR)
+Electricity: 220 V
+Voltage: 50 Hz
+Plug types(s): C, F (all plugs are symmetrical 2 pins)
+Major Languages: Russian, Belarusian
+Major Religions: Orthodox 48.3%, Roman Catholic 7.1%, other 3.5%, non-believers 41.1%
+Time Difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Nyasvizh Castle; Mir Castle; Minsk (includes Belarusian Great Patriotic War Museum and Vul Kastrychnitskaya); Homel Palace; Brest Fortress
+Major Sports: Ice hockey, athletics (track and field), wrestling, soccer, tennis, swimming
+Cultural Practices: Avoid using the "thumbs up" gesture in Belarus; it is considered rude.
+Tipping Guidelines: Tipping is entirely discretionary and service charges are not automatically added to the bill. If you want to tip in a restaurant or café, give about 5% of the total amount. A few rubles are a common and appropriate tip for metered taxi drivers.
+Souvenirs: Flax/linen items, woodcarvings, leather goods, vodka, chocolate
+Traditional Cuisine: Draniki --- shallow-fried potato pancakes
+
+---
+country: Belarus
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Belarus/travel-facts>
+license: public domain (U.S.)
+...

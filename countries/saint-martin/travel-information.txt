@@ -1,0 +1,29 @@
+Telephone Code: 590
+Local Emergency Phone - Ambulance: 911, 542-2111
+Local Emergency Phone - Fire: 911,120
+Local Emergency Phone - Police: 911, 542-2111
+Climate: Temperature averages 27-29°C (80.6 - 84.2°F) all year long; low humidity, gentle trade winds, brief, intense rain showers; hurricane season stretches from July to November
+Currency (Code): Euros (EUR)
+Electricity: 220 V
+Voltage: 60 Hz
+Plug types(s): C, E
+Major Languages: French, English, Dutch, French Patois, Spanish, Papiamento (dialect of Netherlands Antilles)
+Major Religions: Roman Catholic, Jehovah's Witness, Protestant, Hindu
+Time Difference: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)
+Potable Water: Yes
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Marigot; Pinel Island; Little Bay Beach; Orient Bay Beach; Mullet Bay; Kim Sha Beach
+Major Sports: Soccer, sailing, tack and field, rugby
+Cultural Practices: Making a circle with the thumb and index finger can be taken as an insult.
+Tipping Guidelines: On the French side of the island a service charge is included in the price of a meal. Most guests tip by rounding up and leave a few euros.
+Souvenirs: Flavored liqueurs, rum, and wine; guavaberry products; spices; perfumes and cosmetics
+Traditional Cuisine: Conch & Dumplings --- conch (sea snail) tenderized and pressure-cooked with dumplings, herbs, and spices; the sauce from the conch and dumplings is used as gravy to eat with rice, vegetables, or johnnycakes (pancakes made with cornmeal)
+
+---
+country: Saint Martin
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Saint Martin/travel-facts>
+license: public domain (U.S.)
+...

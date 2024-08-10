@@ -1,0 +1,14 @@
+| Precautions | Exercise normal precautions in Grenada. |
+| | Consult the link below for updates to travel advisories and statements on safety, security, local laws, and special circumstances in this country. |
+| | <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html> |
+| Passport/Visa Requirements | US citizens should make sure their passport will not expire for at least 6 months after they enter the country even if they do not intend to stay that long. They should also make sure they have at least 1 blank page in their passport for any entry stamp that will be required. A visa is not required, although Grenada requires travelers to have evidence of return/onward travel arrangements. |
+| Vaccinations | An International Certificate of Vaccination for yellow fever is required for travelers arriving from countries with a risk of yellow fever transmission and for travelers having transited through the airport of a country with risk of yellow fever transmission. See WHO recommendations.  <http://www.who.int/> |
+| US Embassy/Consulate | +(1)(473) 444-1174, +(1)(473) 444-1175; EMER: +(1)(473) 407-2495; US Embassy Grenada, L'Anse aux Epines Main Road, St. George, Grenada; https://bb.usembassy.gov/embassy/grenada/; StgeorgesACS@state.gov |
+
+---
+country: Grenada
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Grenada/travel-facts>
+license: public domain (U.S.)
+...

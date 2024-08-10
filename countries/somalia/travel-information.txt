@@ -1,0 +1,27 @@
+Telephone Code: 252
+Local Emergency Phone: Local numbers only
+Climate: Principally desert; northeast monsoon (December to February), moderate temperatures in north and hot in south; southwest monsoon (May to October), torrid in the north and hot in the south, irregular rainfall, hot and humid periods (tangambili) between monsoons
+Currency (Code): Somali shillings (SOS)
+Electricity: 220 V
+Voltage: 50 Hz
+Plug types(s): C
+Major Languages: Somali, Arabic, Italian, English
+Major Religions: Sunni Muslim
+Time Difference: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Mogadishu; cave art of Laas Geel; Hargeisa; sea beaches of Berbera; Kismayo National Park
+Major Sports: Soccer, track and field
+Cultural Practices: The left hand is considered unclean and should not be used for shaking hands.
+Tipping Guidelines: Tipping is not obligatory. For exceptional service, an additional tip is always welcome. Hotels and restaurants tend to include a tip of 5-10%, but luxury hotels and high-end restaurants may charge 10-15% of the total bill in the form of a service charge.
+Souvenirs: Woven cloth, woven baskets, woodcarvings, meerschaum carvings, gold and silver jewelry
+Traditional Cuisine: Bariis Iskukaris --- rice cooked in stock and spices (including cumin, cinnamon, black pepper, cardamom, cloves, coriander, and nutmeg) topped with fried onions and raisins; sometimes peppers or potatoes are added; typically served with roasted lamb or goat and bananas
+
+---
+country: Somalia
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Somalia/travel-facts>
+license: public domain (U.S.)
+...

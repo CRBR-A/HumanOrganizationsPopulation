@@ -1,0 +1,229 @@
+CIA - The World Factbook --  Death rate   
+
+This entry gives the average annual number of deaths during a year per 1,000 population at midyear; also known as crude death rate. The death rate, while only a rough indicator of the mortality situation in a country, accurately indicates the current mortality impact on population growth. This indicator is significantly affected by age distribution, and most countries will eventually show a rise in the overall death rate, in spite of continued decline in mortality at all ages, as declining fertility results in an aging population.
+
+| Rank | country | (deaths/1,000 population) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Angola | 23.40 | July 2011 est. |
+| 2 | Afghanistan | 17.39 | July 2011 est. |
+| 3 | South Africa | 17.09 | July 2011 est. |
+| 4 | Nigeria | 16.06 | July 2011 est. |
+| 5 | Russia | 16.04 | July 2011 est. |
+| 6 | Ukraine | 15.74 | July 2011 est. |
+| 7 | Chad | 15.47 | July 2011 est. |
+| 8 | Guinea-Bissau | 15.27 | July 2011 est. |
+| 9 | Lesotho | 15.19 | July 2011 est. |
+| 10 | Central African Republic | 15.01 | July 2011 est. |
+| 11 | Somalia | 14.87 | July 2011 est. |
+| 12 | Swaziland | 14.60 | July 2011 est. |
+| 13 | Bulgaria | 14.32 | July 2011 est. |
+| 14 | Mali | 14.29 | July 2011 est. |
+| 15 | Niger | 14.11 | July 2011 est. |
+| 16 | Serbia | 13.85 | July 2011 est. |
+| 17 | Belarus | 13.77 | July 2011 est. |
+| 18 | Latvia | 13.60 | July 2011 est. |
+| 19 | Zimbabwe | 13.58 | July 2011 est. |
+| 20 | Estonia | 13.55 | July 2011 est. |
+| 21 | Malawi | 13.22 | July 2011 est. |
+| 22 | Mozambique | 13.00 | July 2011 est. |
+| 23 | Gabon | 13.00 | July 2011 est. |
+| 24 | Namibia | 12.95 | July 2011 est. |
+| 25 | Burkina Faso | 12.74 | July 2011 est. |
+| 26 | Hungary | 12.68 | July 2011 est. |
+| 27 | Zambia | 12.61 | July 2011 est. |
+| 28 | Tanzania | 12.09 | July 2011 est. |
+| 29 | Croatia | 11.91 | July 2011 est. |
+| 30 | Cameroon | 11.83 | July 2011 est. |
+| 31 | Romania | 11.81 | July 2011 est. |
+| 32 | Sierra Leone | 11.73 | July 2011 est. |
+| 33 | Uganda | 11.71 | July 2011 est. |
+| 34 | Congo, Republic of the | 11.49 | July 2011 est. |
+| 35 | Lithuania | 11.33 | July 2011 est. |
+| 36 | Congo, Democratic Republic of the | 11.06 | July 2011 est. |
+| 37 | Ethiopia | 11.04 | July 2011 est. |
+| 38 | Sudan | 11.00 | July 2011 est. |
+| 39 | Germany | 10.92 | July 2011 est. |
+| 40 | Slovenia | 10.87 | July 2011 est. |
+| 41 | Czech Republic | 10.86 | July 2011 est. |
+| 42 | Portugal | 10.80 | July 2011 est. |
+| 43 | Moldova | 10.74 | July 2011 est. |
+| 44 | Greece | 10.70 | July 2011 est. |
+| 45 | Liberia | 10.62 | July 2011 est. |
+| 46 | Belgium | 10.57 | July 2011 est. |
+| 47 | Botswana | 10.57 | July 2011 est. |
+| 48 | Guinea | 10.45 | July 2011 est. |
+| 49 | Finland | 10.24 | July 2011 est. |
+| 50 | Sweden | 10.20 | July 2011 est. |
+| 51 | Denmark | 10.19 | July 2011 est. |
+| 52 | Poland | 10.17 | July 2011 est. |
+| 53 | Cote d'Ivoire | 10.16 | July 2011 est. |
+| 54 | Austria | 10.14 | July 2011 est. |
+| 55 | Japan | 10.09 | July 2011 est. |
+| 56 | Georgia | 9.92 | July 2011 est. |
+| 57 | Isle of Man | 9.92 | July 2011 est. |
+| 58 | Rwanda | 9.88 | July 2011 est. |
+| 59 | Italy | 9.84 | July 2011 est. |
+| 60 | Burundi | 9.61 | July 2011 est. |
+| 61 | Slovakia | 9.60 | July 2011 est. |
+| 62 | Uruguay | 9.58 | July 2011 est. |
+| 63 | Kazakhstan | 9.38 | July 2011 est. |
+| 64 | United Kingdom | 9.33 | July 2011 est. |
+| 65 | Senegal | 9.26 | July 2011 est. |
+| 66 | Norway | 9.24 | July 2011 est. |
+| 67 | Tuvalu | 9.20 | July 2011 est. |
+| 68 | Korea, North | 9.08 | July 2011 est. |
+| 69 | Equatorial Guinea | 9.03 | July 2011 est. |
+| 70 | Benin | 9.00 | July 2011 est. |
+| 71 | Western Sahara | 8.96 | July 2011 est. |
+| 72 | Kenya | 8.93 | July 2011 est. |
+| 73 | Macedonia | 8.91 | July 2011 est. |
+| 74 | Montenegro | 8.89 | July 2011 est. |
+| 75 | Netherlands | 8.85 | July 2011 est. |
+| 76 | Saint Pierre and Miquelon | 8.83 | July 2011 est. |
+| 77 | Mauritania | 8.83 | July 2011 est. |
+| 78 | Bosnia and Herzegovina | 8.80 | July 2011 est. |
+| 79 | Spain | 8.80 | July 2011 est. |
+| 80 | France | 8.76 | July 2011 est. |
+| 81 | Ghana | 8.75 | July 2011 est. |
+| 82 | Switzerland | 8.72 | July 2011 est. |
+| 83 | Faroe Islands | 8.67 | July 2011 est. |
+| 84 | Malta | 8.60 | July 2011 est. |
+| 85 | Luxembourg | 8.48 | July 2011 est. |
+| 86 | Armenia | 8.46 | July 2011 est. |
+| 87 | Guernsey | 8.44 | July 2011 est. |
+| 88 | Barbados | 8.39 | July 2011 est. |
+| 89 | United States | 8.38 | July 2011 est. |
+| 90 | Trinidad and Tobago | 8.29 | July 2011 est. |
+| 91 | Monaco | 8.28 | July 2011 est. |
+| 92 | Azerbaijan | 8.25 | July 2011 est. |
+| 93 | Djibouti | 8.23 | July 2011 est. |
+| 94 | Haiti | 8.21 | July 2011 est. |
+| 95 | Gibraltar | 8.18 | July 2011 est. |
+| 96 | Sao Tome and Principe | 8.18 | July 2011 est. |
+| 97 | Burma | 8.16 | July 2011 est. |
+| 98 | Laos | 8.13 | July 2011 est. |
+| 99 | Greenland | 8.12 | July 2011 est. |
+| 100 | Eritrea | 8.08 | July 2011 est. |
+| 101 | Cambodia | 8.07 | July 2011 est. |
+| 102 | Dominica | 8.06 | July 2011 est. |
+| 103 | Curacao | 8.00 | 2009 |
+| 104 | Canada | 7.98 | July 2011 est. |
+| 105 | Togo | 7.96 | July 2011 est. |
+| 106 | Puerto Rico | 7.95 | July 2011 est. |
+| 107 | Grenada | 7.94 | July 2011 est. |
+| 108 | San Marino | 7.89 | July 2011 est. |
+| 109 | Palau | 7.87 | July 2011 est. |
+| 110 | Aruba | 7.84 | July 2011 est. |
+| 111 | Madagascar | 7.79 | July 2011 est. |
+| 112 | Gambia, The | 7.65 | July 2011 est. |
+| 113 | Liechtenstein | 7.61 | July 2011 est. |
+| 114 | Bermuda | 7.57 | July 2011 est. |
+| 115 | Jersey | 7.52 | July 2011 est. |
+| 116 | India | 7.48 | July 2011 est. |
+| 117 | Cuba | 7.47 | July 2011 est. |
+| 118 | Vanuatu | 7.43 | July 2011 est. |
+| 119 | Kiribati | 7.40 | July 2011 est. |
+| 120 | Argentina | 7.38 | July 2011 est. |
+| 121 | Cook Islands | 7.37 | July 2011 est. |
+| 122 | Thailand | 7.29 | July 2011 est. |
+| 123 | Comoros | 7.23 | July 2011 est. |
+| 124 | Montserrat | 7.20 | July 2011 est. |
+| 125 | Guyana | 7.20 | July 2011 est. |
+| 126 | Virgin Islands | 7.17 | July 2011 est. |
+| 127 | New Zealand | 7.15 | July 2011 est. |
+| 128 | Bhutan | 7.12 | July 2011 est. |
+| 129 | Saint Kitts and Nevis | 7.10 | July 2011 est. |
+| 130 | Hong Kong | 7.07 | July 2011 est. |
+| 131 | China | 7.03 | July 2011 est. |
+| 132 | Yemen | 7.02 | July 2011 est. |
+| 133 | Taiwan | 7.00 | July 2011 est. |
+| 134 | Saint Lucia | 7.00 | July 2011 est. |
+| 135 | Saint Vincent and the Grenadines | 6.98 | July 2011 est. |
+| 136 | Iceland | 6.96 | July 2011 est. |
+| 137 | Pakistan | 6.92 | July 2011 est. |
+| 138 | Seychelles | 6.91 | July 2011 est. |
+| 139 | Australia | 6.88 | July 2011 est. |
+| 140 | Saint Helena, Ascension, and Tristan da Cunha | 6.88 | July 2011 est. |
+| 141 | Bahamas, The | 6.88 | July 2011 est. |
+| 142 | Bolivia | 6.85 | July 2011 est. |
+| 143 | Nepal | 6.81 | July 2011 est. |
+| 144 | Kyrgyzstan | 6.79 | July 2011 est. |
+| 145 | Mauritius | 6.68 | July 2011 est. |
+| 146 | Tajikistan | 6.60 | July 2011 est. |
+| 147 | Papua New Guinea | 6.58 | July 2011 est. |
+| 148 | Lebanon | 6.54 | July 2011 est. |
+| 149 | Jamaica | 6.54 | July 2011 est. |
+| 150 | Cyprus | 6.45 | July 2011 est. |
+| 151 | Brazil | 6.36 | July 2011 est. |
+| 152 | Andorra | 6.35 | July 2011 est. |
+| 153 | Cape Verde | 6.34 | July 2011 est. |
+| 154 | Ireland | 6.34 | July 2011 est. |
+| 155 | Indonesia | 6.26 | July 2011 est. |
+| 156 | Korea, South | 6.26 | July 2011 est. |
+| 157 | Turkmenistan | 6.24 | July 2011 est. |
+| 158 | Albania | 6.15 | July 2011 est. |
+| 159 | Nauru | 6.11 | July 2011 est. |
+| 160 | Turkey | 6.10 | July 2011 est. |
+| 161 | Mongolia | 6.04 | July 2011 est. |
+| 162 | Chile | 5.97 | July 2011 est. |
+| 163 | Vietnam | 5.96 | July 2011 est. |
+| 164 | Iran | 5.94 | July 2011 est. |
+| 165 | Peru | 5.93 | July 2011 est. |
+| 166 | Sri Lanka | 5.92 | July 2011 est. |
+| 167 | Fiji | 5.90 | July 2011 est. |
+| 168 | Timor-Leste | 5.89 | July 2011 est. |
+| 169 | Belize | 5.87 | July 2011 est. |
+| 170 | Tunisia | 5.83 | July 2011 est. |
+| 171 | Bangladesh | 5.75 | July 2011 est. |
+| 172 | Antigua and Barbuda | 5.73 | July 2011 est. |
+| 173 | El Salvador | 5.62 | July 2011 est. |
+| 174 | Suriname | 5.54 | July 2011 est. |
+| 175 | Israel | 5.47 | July 2011 est. |
+| 176 | Samoa | 5.34 | July 2011 est. |
+| 177 | Uzbekistan | 5.29 | July 2011 est. |
+| 178 | New Caledonia | 5.28 | July 2011 est. |
+| 179 | Colombia | 5.26 | July 2011 est. |
+| 180 | Venezuela | 5.17 | July 2011 est. |
+| 181 | Cayman Islands | 5.10 | July 2011 est. |
+| 182 | Nicaragua | 5.03 | July 2011 est. |
+| 183 | Philippines | 5.02 | July 2011 est. |
+| 184 | Honduras | 5.02 | July 2011 est. |
+| 185 | Ecuador | 5.00 | July 2011 est. |
+| 186 | Guatemala | 4.98 | July 2011 est. |
+| 187 | Singapore | 4.95 | July 2011 est. |
+| 188 | Malaysia | 4.93 | July 2011 est. |
+| 189 | Tonga | 4.90 | July 2011 est. |
+| 190 | French Polynesia | 4.87 | July 2011 est. |
+| 191 | Mexico | 4.86 | July 2011 est. |
+| 192 | Egypt | 4.82 | July 2011 est. |
+| 193 | Iraq | 4.82 | July 2011 est. |
+| 194 | Morocco | 4.75 | July 2011 est. |
+| 195 | Algeria | 4.69 | July 2011 est. |
+| 196 | Wallis and Futuna | 4.68 | July 2011 est. |
+| 197 | Panama | 4.65 | July 2011 est. |
+| 198 | Paraguay | 4.57 | July 2011 est. |
+| 199 | British Virgin Islands | 4.49 | July 2011 est. |
+| 200 | Anguilla | 4.44 | July 2011 est. |
+| 201 | Marshall Islands | 4.38 | July 2011 est. |
+| 202 | Dominican Republic | 4.35 | July 2011 est. |
+| 203 | Micronesia, Federated States of | 4.35 | July 2011 est. |
+| 204 | Costa Rica | 4.33 | July 2011 est. |
+| 205 | American Samoa | 4.10 | July 2011 est. |
+| 206 | Solomon Islands | 3.93 | July 2011 est. |
+| 207 | Macau | 3.72 | July 2011 est. |
+| 208 | Maldives | 3.71 | July 2011 est. |
+| 209 | Syria | 3.68 | July 2011 est. |
+| 210 | West Bank | 3.58 | July 2011 est. |
+| 211 | Oman | 3.45 | July 2011 est. |
+| 212 | Libya | 3.40 | July 2011 est. |
+| 213 | Brunei | 3.35 | July 2011 est. |
+| 214 | Saudi Arabia | 3.33 | July 2011 est. |
+| 215 | Gaza Strip | 3.29 | July 2011 est. |
+| 216 | Northern Mariana Islands | 3.28 | July 2011 est. |
+| 217 | Sint Maarten | 3.00 | 2009 |
+| 218 | Turks and Caicos Islands | 2.99 | July 2011 est. |
+| 219 | Jordan | 2.69 | July 2011 est. |
+| 220 | Bahrain | 2.61 | July 2011 est. |
+| 221 | Qatar | 2.43 | July 2011 est. |
+| 222 | Kuwait | 2.11 | July 2011 est. |
+| 223 | United Arab Emirates | 2.06 | July 2011 est. |

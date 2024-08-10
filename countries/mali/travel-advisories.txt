@@ -1,0 +1,14 @@
+| Precautions | DO NOT TRAVEL to Mali due to crime, terrorism, and kidnapping. |
+| | Consult the link below for updates to travel advisories and statements on safety, security, local laws, and special circumstances in this country. |
+| | <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html> |
+| Passport/Visa Requirements | US citizens should make sure their passport is valid at the date of their entering the country. They should also make sure they have at least 1 blank page in their passport for any entry stamp that will be required. A visa is required. US citizens will need to get in touch with the country's embassy or nearest consulate to obtain a visa or Electronic Travel Authority (ETA) prior to visiting the country. |
+| Vaccinations | An International Certificate of Vaccination for yellow fever is required for all travelers. See WHO recommendations.  <http://www.who.int/> |
+| US Embassy/Consulate | [223] 2070-2300 or [223]-6675-2860; US Embassy in Bamako, ACI 2000, Rue 243, (located off the Roi Bin Fahad Aziz Bridge west of the Bamako central district), Porte 297, Bamako, Mali; ACSBamako@state.gov; https://ml.usembassy.gov/ |
+
+---
+country: Mali
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Mali/travel-facts>
+license: public domain (U.S.)
+...

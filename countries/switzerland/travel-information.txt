@@ -1,0 +1,29 @@
+Telephone Code: 41
+Local Emergency Phone - Ambulance: 144
+Local Emergency Phone - Fire: 118
+Local Emergency Phone - Police: 117
+Climate: Temperate, but varies with altitude; cold, cloudy, rainy/snowy winters; cool to warm, cloudy, humid summers with occasional showers
+Currency (Code): Swiss francs (CHF)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, J
+Major Languages: German (or Swiss German), French, Italian, English, Portuguese, Albanian, Serbo-Croatian, Spanish
+Major Religions: Roman Catholic 34.4%, Protestant 22.5%, other Christian 5.7%, Muslim 5.5%
+Time Difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time); daylight saving time: +1hr, begins last Sunday in March, ends last Sunday in October
+Potable Water: Yes
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Matterhorn; Jungfraujoch; Interlaken; Lucerne; Lake Geneva; Chateau de Chillon; Zurich; Lake Lugano; Bern
+Major Sports: Soccer, ice hockey, tennis, skiing, schwingen (wrestling)
+Cultural Practices: Speaking too loudly in public, especially on cell phones, is frowned upon.
+Tipping Guidelines: A service charge is typically added at restaurants so no tipping is needed, but you can round up the bill for the wait staff. Round up a taxi fare or add 5%. Tipping is usually expected for hotel staff. A bellhop should receive 1-2 francs for each bag carried.
+Souvenirs: Chocolate; cuckoo clocks, music boxes, and other wood carved items; cheese; Swiss army knives; watches/clocks; paper cut pictures; embroidered fabric; schnapps spirits
+Traditional Cuisine: Rösti --- grated potato patties sometimes including herbs and spices, onions, ham, or cheese and pan-fried in butter or oil; the dish is cut into wedges for serving
+
+---
+country: Switzerland
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Switzerland/travel-facts>
+license: public domain (U.S.)
+...

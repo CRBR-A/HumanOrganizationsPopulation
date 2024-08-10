@@ -1,0 +1,29 @@
+Telephone Code: 235
+Local Emergency Phone - Ambulance: 997
+Local Emergency Phone - Fire: 998
+Local Emergency Phone - Police: 999
+Climate: Tropical in south, desert in north
+Currency (Code): Cooperation Financiere en Afrique Central francs (Central African CFA franc, XAF)
+Electricity: 220 V
+Voltage: 50 Hz
+Plug types(s): C, D, E, F
+Major Languages: French , Arabic, Sara (in south), more than 120 different languages and dialects
+Major Religions: Muslim 52.1%, Protestant 23.9%, Roman Catholic 20%, animist 0.3%, other Christian 0.2%
+Time Difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Chad National Museum; Zakouma National Park; Lakes of Ounianga; Ennedi Massif
+Major Sports: Soccer, boxing, wrestling
+Cultural Practices: All photography requires a government permit. Taking photos of military sites, official buildings, and airports is strictly prohibited, even with a permit.
+Tipping Guidelines: Service charges are not usually included in restaurants and tips of 10% for waiters are acceptable. Taxi fares should be rounded up if the service is good.
+Souvenirs: Camel-hair carpets, leather goods, native beaded and silver jewelry, tribal masks and knives, decorated calabash gourds, pottery, embroidered cotton cloth
+Traditional Cuisine: Daraba --- a stew made with chopped okra, mixed vegetables, tomatoes, stock cubes, and smooth peanut butter; usually served with rice, boiled cassava, or boiled plantains
+
+---
+country: Chad
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Chad/travel-facts>
+license: public domain (U.S.)
+...

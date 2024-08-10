@@ -1,0 +1,14 @@
+| Precautions | Exercise increased caution in Tajikistan due to terrorism. |
+| | Consult the link below for updates to travel advisories and statements on safety, security, local laws, and special circumstances in this country. |
+| | <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html> |
+| Passport/Visa Requirements | US citizens should make sure their passport will not expire for at least 6 months after they enter the country even if they do not intend to stay that long. They should also make sure they have at least 1 blank page in their passport for each entry stamp/visa that will be required. A visa is required. US citizens will need to get in touch with the country's embassy or nearest consulate to obtain a visa prior to visiting the country. If travel originates from a country without an Embassy of Tajikistan, it is possible for a traveler to purchase a visa upon arrival at the airport; however, the traveler will need to first apply for a visa online with the Tajikistani Ministry of Foreign Affairs (MFA), receive a pre-approval confirmation, and a Letter of Invitation from the US Embassy Dushanbe prior to arrival. |
+| Vaccinations | See WHO recommendations. On 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; Tajikistan is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine.  <http://www.who.int/> |
+| US Embassy/Consulate | 992-37-229-2000, 992-37-229-2300, (consular direct line); EMER: 992-98-580-1032; US Embassy Dushanbe, 109A, Ismoili Somoni Avenue, Dushanbe, Tajikistan 734019; DushanbeConsular@state.gov; https://tj.usembassy.gov/ |
+
+---
+country: Tajikistan
+date: June 23, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Tajikistan/travel-facts>
+license: public domain (U.S.)
+...

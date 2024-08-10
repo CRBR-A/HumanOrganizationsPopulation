@@ -1,0 +1,166 @@
+CIA - The World Factbook --  HIV/AIDS - deaths   
+
+HIV/AIDS - deaths compares the number of adults and children who died of AIDS during a given calendar year.
+
+| Rank | country | HIV/AIDS - deaths | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Nigeria | 239,700 | 2012 est. |
+| 2 | South Africa | 235,100 | 2012 est. |
+| 3 | India | 135,500 | 2012 est. |
+| 4 | Tanzania | 80,000 | 2012 est. |
+| 5 | Mozambique | 76,800 | 2012 est. |
+| 6 | Uganda | 63,300 | 2012 est. |
+| 7 | Kenya | 57,500 | 2012 est. |
+| 8 | Ethiopia | 47,200 | 2012 est. |
+| 9 | Malawi | 45,600 | 2012 est. |
+| 10 | Zimbabwe | 39,500 | 2012 est. |
+| 11 | Cameroon | 34,600 | 2012 est. |
+| 12 | Congo, Democratic Republic of the | 31,700 | 2012 est. |
+| 13 | Cote d'Ivoire | 31,200 | 2012 est. |
+| 14 | Zambia | 30,300 | 2012 est. |
+| 15 | Indonesia | 26,800 | 2012 est. |
+| 16 | China | 26,000 | 2009 est. |
+| 17 | Thailand | 20,800 | 2012 est. |
+| 18 | Ukraine | 18,100 | 2012 est. |
+| 19 | United States | 17,000 | 2012 est. |
+| 20 | Lesotho | 15,500 | 2012 est. |
+| 21 | Chad | 14,400 | 2012 est. |
+| 22 | South Sudan | 12,900 | 2012 est. |
+| 23 | Angola | 12,600 | 2012 est. |
+| 24 | Sudan | 12,000 | 2009 est. |
+| 25 | Vietnam | 11,700 | 2012 est. |
+| 26 | Burma | 11,600 | 2012 est. |
+| 27 | Ghana | 11,600 | 2012 est. |
+| 28 | Central African Republic | 11,000 | 2009 est. |
+| 29 | Haiti | 7,500 | 2012 est. |
+| 30 | Togo | 7,200 | 2012 est. |
+| 31 | Colombia | 6,500 | 2012 est. |
+| 32 | Madagascar | 6,200 | 2012 est. |
+| 33 | Botswana | 5,700 | 2012 est. |
+| 34 | Rwanda | 5,600 | 2012 est. |
+| 35 | Swaziland | 5,500 | 2012 est. |
+| 36 | Burkina Faso | 5,500 | 2012 est. |
+| 37 | Congo, Republic of the | 5,200 | 2012 est. |
+| 38 | Malaysia | 5,200 | 2009 est. |
+| 39 | Guinea | 5,100 | 2012 est. |
+| 40 | Namibia | 5,000 | 2012 est. |
+| 41 | Mali | 4,900 | 2012 est. |
+| 42 | Burundi | 4,800 | 2012 est. |
+| 43 | Iran | 4,600 | 2012 est. |
+| 44 | Nepal | 4,100 | 2012 est. |
+| 45 | Peru | 4,100 | 2012 est. |
+| 46 | Venezuela | 3,800 | 2012 est. |
+| 47 | Argentina | 3,700 | 2012 est. |
+| 48 | Pakistan | 3,500 | 2012 est. |
+| 49 | Niger | 3,400 | 2012 est. |
+| 50 | Guatemala | 3,400 | 2012 est. |
+| 51 | Sierra Leone | 3,300 | 2012 est. |
+| 52 | Benin | 3,100 | 2012 est. |
+| 53 | Ecuador | 2,700 | 2012 est. |
+| 54 | Cambodia | 2,700 | 2012 est. |
+| 55 | Somalia | 2,500 | 2012 est. |
+| 56 | Uzbekistan | 2,400 | 2012 est. |
+| 57 | Guinea-Bissau | 2,300 | 2012 est. |
+| 58 | Gabon | 2,300 | 2012 est. |
+| 59 | Dominican Republic | 1,900 | 2012 est. |
+| 60 | Senegal | 1,900 | 2012 est. |
+| 61 | Liberia | 1,700 | 2012 est. |
+| 62 | France | 1,700 | 2009 est. |
+| 63 | Honduras | 1,700 | 2012 est. |
+| 64 | Spain | 1,600 | 2009 est. |
+| 65 | Equatorial Guinea | 1,400 | 2012 est. |
+| 66 | Jamaica | 1,300 | 2012 est. |
+| 67 | Bolivia | 1,300 | 2012 est. |
+| 68 | Moldova | 1,300 | 2012 est. |
+| 69 | Belarus | 1,200 | 2012 est. |
+| 70 | Morocco | 1,200 | 2012 est. |
+| 71 | Eritrea | 1,200 | 2012 est. |
+| 72 | Canada | 1,000 | 2009 est. |
+| 73 | United Kingdom | 1,000 | 2009 est. |
+| 74 | Latvia | 1,000 | 2009 est. |
+| 75 | Algeria | 1,000 | 2009 est. |
+| 76 | Romania | 1,000 | 2009 est. |
+| 77 | Italy | 1,000 | 2009 est. |
+| 78 | Papua New Guinea | 1,000 | 2012 est. |
+| 79 | Germany | 1,000 | 2009 est. |
+| 80 | El Salvador | 1,000 | 2012 est. |
+| 81 | Mauritania | 800 | 2012 est. |
+| 82 | Yemen | 800 | 2012 est. |
+| 83 | Djibouti | 800 | 2012 est. |
+| 84 | Mauritius | 700 | 2012 est. |
+| 85 | Azerbaijan | 600 | 2012 est. |
+| 86 | Panama | 600 | 2012 est. |
+| 87 | Tajikistan | 500 | 2012 est. |
+| 88 | Trinidad and Tobago | 500 | 2012 est. |
+| 89 | Jordan | 500 | 2003 est. |
+| 90 | Kazakhstan | 500 | 2009 est. |
+| 91 | Korea, South | 500 | 2009 est. |
+| 92 | Lebanon | 500 | 2009 est. |
+| 93 | Portugal | 500 | 2009 est. |
+| 94 | Estonia | 500 | 2009 est. |
+| 95 | Gambia, The | 500 | 2012 est. |
+| 96 | Greece | 500 | 2009 est. |
+| 97 | Bangladesh | 400 | 2012 est. |
+| 98 | Laos | 400 | 2012 est. |
+| 99 | Bermuda | 392 | 2005 est. |
+| 100 | Costa Rica | 300 | 2012 est. |
+| 101 | Kyrgyzstan | 300 | 2012 est. |
+| 102 | Afghanistan | 300 | 2012 est. |
+| 103 | Egypt | 300 | 2012 est. |
+| 104 | Paraguay | 300 | 2012 est. |
+| 105 | Bahamas, The | 300 | 2012 est. |
+| 106 | Philippines | 300 | 2012 est. |
+| 107 | Georgia | 200 | 2012 est. |
+| 108 | Poland | 200 | 2009 est. |
+| 109 | Armenia | 200 | 2012 est. |
+| 110 | Syria | 200 | 2003 est. |
+| 111 | Bahrain | 200 | 2003 est. |
+| 112 | Hungary | 200 | 2009 est. |
+| 113 | Sri Lanka | 200 | 2012 est. |
+| 114 | Hong Kong | 200 | 2003 est. |
+| 115 | Brunei | 200 | 2003 est. |
+| 116 | Bulgaria | 200 | 2009 est. |
+| 117 | Turkey | 200 | 2009 est. |
+| 118 | Iceland | 100 | 2009 est. |
+| 119 | Ireland | 100 | 2009 est. |
+| 120 | Israel | 100 | 2009 est. |
+| 121 | Japan | 100 | 2009 est. |
+| 122 | Qatar | 100 | 2009 est. |
+| 123 | Australia | 100 | 2009 est. |
+| 124 | Austria | 100 | 2009 est. |
+| 125 | Belgium | 100 | 2009 est. |
+| 126 | Belize | 100 | 2012 est. |
+| 127 | Bhutan | 100 | 2012 est. |
+| 128 | Bosnia and Herzegovina | 100 | 2001 est. |
+| 129 | Comoros | 100 | 2009 est. |
+| 130 | Croatia | 100 | 2009 est. |
+| 131 | Cuba | 100 | 2009 est. |
+| 132 | Czech Republic | 100 | 2009 est. |
+| 133 | Denmark | 100 | 2009 est. |
+| 134 | Guyana | 100 | 2012 est. |
+| 135 | Oman | 100 | 2009 est. |
+| 136 | Norway | 100 | 2009 est. |
+| 137 | Nicaragua | 100 | 2012 est. |
+| 138 | New Zealand | 100 | 2009 est. |
+| 139 | Netherlands | 100 | 2009 est. |
+| 140 | Mongolia | 100 | 2009 est. |
+| 141 | Malta | 100 | 2009 est. |
+| 142 | Maldives | 100 | 2009 est. |
+| 143 | Macedonia | 100 | 2003 est. |
+| 144 | Luxembourg | 100 | 2009 est. |
+| 145 | Lithuania | 100 | 2009 est. |
+| 146 | Turkmenistan | 100 | 2004 est. |
+| 147 | Tunisia | 100 | 2012 est. |
+| 148 | Switzerland | 100 | 2009 est. |
+| 149 | Sweden | 100 | 2009 est. |
+| 150 | Suriname | 100 | 2012 est. |
+| 151 | Slovenia | 100 | 2009 est. |
+| 152 | Slovakia | 100 | 2009 est. |
+| 153 | Singapore | 100 | 2009 est. |
+| 154 | Sao Tome and Principe | 100 | 2012 est. |
+| 155 | Serbia | 100 | 2009 est. |
+| 156 | Fiji | 100 | 2009 est. |
+| 157 | Finland | 100 | 2009 est. |
+| 158 | Svalbard | 0 | 2001 est. |
+
+

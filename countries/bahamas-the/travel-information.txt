@@ -1,0 +1,27 @@
+Telephone Code: 242
+Local Emergency Phone: 911
+Climate: Tropical marine; moderated by warm waters of Gulf Stream
+Currency (Code): Bahamian dollars (BSD)
+Electricity: 120 V
+Voltage: 60 Hz
+Plug types(s): A, B
+Major Languages: English, Creole
+Major Religions: Protestant 69.9%, Roman Catholic 12%, other Christian 13%
+Time Difference: UTC-5 (same time as Washington, DC, during Standard Time); daylight saving time: +1hr, begins second Sunday in March, ends first Sunday in November
+Potable Water: Yes, but some opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Left
+Tourist Destinations: Atlantis Paradise Island; Nassau (includes National Art Gallery, Fort Charlotte); Exuma Cays Land & Sea Park; Harbour Island; Castaway Cay; Grand Bahama; Andros Island; Treasure Cay; Elbow Cay
+Major Sports: Cricket, American football, soccer, rugby
+Cultural Practices: It is common for strangers to wish each other "good morning/ afternoon."
+Tipping Guidelines: Service staff and hotel workers expect to be tipped. The usual tip for service from a taxi driver or waiter is 15% and $1-$2 a bag for porters. Most travelers leave $1-$3 per day for their hotel maid, usually every morning since the maid may have a day off.
+Souvenirs: Conch/seashell jewelry, straw goods, precious-gem jewelry, crystal, leather goods, alcohol, imported luxury items
+Traditional Cuisine: Crack Conch (sea snail) with rice and peas
+
+---
+country: Bahamas, The
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Bahamas, The/travel-facts>
+license: public domain (U.S.)
+...

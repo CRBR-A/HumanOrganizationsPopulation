@@ -1,0 +1,245 @@
+CIA - The World Factbook --  Population   
+
+This entry gives an estimate from the US Bureau of the Census based on statistics from population censuses, vital statistics registration systems, or sample surveys pertaining to the recent past and on assumptions about future trends. The total population presents one overall measure of the potential impact of the country on the world and within its region. Note: Starting with the 1993 Factbook, demographic estimates for some countries (mostly African) have explicitly taken into account the effects of the growing impact of the HIV/AIDS epidemic. These countries are currently: The Bahamas, Benin, Botswana, Brazil, Burkina Faso, Burma, Burundi, Cambodia, Cameroon, Central African Republic, Democratic Republic of the Congo, Republic of the Congo, Cote d'Ivoire, Ethiopia, Gabon, Ghana, Guyana, Haiti, Honduras, Kenya, Lesotho, Malawi, Mozambique, Namibia, Nigeria, Rwanda, South Africa, Swaziland, Tanzania, Thailand, Togo, Uganda, Zambia, and Zimbabwe.
+
+| Rank | country | Population | Date of Information |
+| --- | --- | --- | --- |
+| 1 | China | 1,343,239,923 | July 2012 est. |
+| 2 | India | 1,205,073,612 | July 2012 est. |
+| 3 | United States | 313,847,465 | July 2012 est. |
+| 4 | Indonesia | 248,645,008 | July 2012 est. |
+| 5 | Brazil | 199,321,413 | NA |
+| 6 | Pakistan | 190,291,129 | July 2012 est. |
+| 7 | Nigeria | 170,123,740 | NA |
+| 8 | Bangladesh | 161,083,804 | July 2012 est. |
+| 9 | Russia | 142,517,670 | July 2012 est. |
+| 10 | Japan | 127,368,088 | July 2012 est. |
+| 11 | Mexico | 114,975,406 | July 2012 est. |
+| 12 | Philippines | 103,775,002 | July 2012 est. |
+| 13 | Vietnam | 91,519,289 | July 2012 est. |
+| 14 | Ethiopia | 91,195,675 | NA |
+| 15 | Egypt | 83,688,164 | July 2012 est. |
+| 16 | Germany | 81,305,856 | July 2012 est. |
+| 17 | Turkey | 79,749,461 | July 2012 est. |
+| 18 | Iran | 78,868,711 | July 2012 est. |
+| 19 | Congo, Democratic Republic of the | 73,599,190 | NA |
+| 20 | Thailand | 67,091,089 | NA |
+| 21 | France | 65,630,692 | NA |
+| 22 | United Kingdom | 63,047,162 | July 2012 est. |
+| 23 | Italy | 61,261,254 | July 2012 est. |
+| 24 | Burma | 54,584,650 | NA |
+| 25 | Korea, South | 48,860,500 | July 2012 est. |
+| 26 | South Africa | 48,810,427 | NA |
+| 27 | Spain | 47,042,984 | July 2012 est. |
+| 28 | Tanzania | 46,912,768 | NA |
+| 29 | Colombia | 45,239,079 | July 2012 est. |
+| 30 | Ukraine | 44,854,065 | July 2012 est. |
+| 31 | Kenya | 43,013,341 | NA |
+| 32 | Argentina | 42,192,494 | July 2012 est. |
+| 33 | Poland | 38,415,284 | July 2012 est. |
+| 34 | Algeria | 37,367,226 | July 2012 est. |
+| 35 | Canada | 34,300,083 | July 2012 est. |
+| 36 | Sudan | 34,206,710 | July 2012 est. |
+| 37 | Uganda | 33,640,833 | NA |
+| 38 | Morocco | 32,309,239 | July 2012 est. |
+| 39 | Iraq | 31,129,225 | July 2012 est. |
+| 40 | Afghanistan | 30,419,928 | NA |
+| 41 | Nepal | 29,890,686 | July 2012 est. |
+| 42 | Peru | 29,549,517 | July 2012 est. |
+| 43 | Malaysia | 29,179,952 | July 2012 est. |
+| 44 | Uzbekistan | 28,394,180 | July 2012 est. |
+| 45 | Venezuela | 28,047,938 | July 2012 est. |
+| 46 | Saudi Arabia | 26,534,504 | NA |
+| 47 | Yemen | 24,771,809 | July 2012 est. |
+| 48 | Ghana | 24,652,402 | NA |
+| 49 | Korea, North | 24,589,122 | July 2012 est. |
+| 50 | Mozambique | 23,515,934 | NA |
+| 51 | Taiwan | 23,234,936 | July 2012 est. |
+| 52 | Syria | 22,530,746 | NA |
+| 53 | Australia | 22,015,576 | July 2012 est. |
+| 54 | Madagascar | 22,005,222 | July 2012 est. |
+| 55 | Cote d'Ivoire | 21,952,093 | NA |
+| 56 | Romania | 21,848,504 | July 2012 est. |
+| 57 | Sri Lanka | 21,481,334 | July 2012 est. |
+| 58 | Cameroon | 20,129,878 | NA |
+| 59 | Angola | 18,056,072 | July 2012 est. |
+| 60 | Kazakhstan | 17,522,010 | July 2012 est. |
+| 61 | Burkina Faso | 17,275,115 | NA |
+| 62 | Chile | 17,067,369 | July 2012 est. |
+| 63 | Netherlands | 16,730,632 | July 2012 est. |
+| 64 | Niger | 16,344,687 | July 2012 est. |
+| 65 | Malawi | 16,323,044 | NA |
+| 66 | Mali | 15,494,466 | July 2012 est. |
+| 67 | Ecuador | 15,223,680 | July 2012 est. |
+| 68 | Cambodia | 14,952,665 | NA |
+| 69 | Guatemala | 14,099,032 | July 2012 est. |
+| 70 | Zambia | 13,817,479 | NA |
+| 71 | Senegal | 12,969,606 | July 2012 est. |
+| 72 | Zimbabwe | 12,619,600 | NA |
+| 73 | Rwanda | 11,689,696 | NA |
+| 74 | Cuba | 11,075,244 | July 2012 est. |
+| 75 | Chad | 10,975,648 | July 2012 est. |
+| 76 | Guinea | 10,884,958 | July 2012 est. |
+| 77 | Portugal | 10,781,459 | July 2012 est. |
+| 78 | Greece | 10,767,827 | July 2012 est. |
+| 79 | Tunisia | 10,732,900 | July 2012 est. |
+| 80 | South Sudan | 10,625,176 | July 2012 est. |
+| 81 | Burundi | 10,557,259 | NA |
+| 82 | Belgium | 10,438,353 | July 2012 est. |
+| 83 | Bolivia | 10,290,003 | July 2012 est. |
+| 84 | Czech Republic | 10,177,300 | July 2012 est. |
+| 85 | Dominican Republic | 10,088,598 | July 2012 est. |
+| 86 | Somalia | 10,085,638 | NA |
+| 87 | Hungary | 9,958,453 | July 2012 est. |
+| 88 | Haiti | 9,801,664 | NA |
+| 89 | Belarus | 9,643,566 | July 2012 est. |
+| 90 | Benin | 9,598,787 | NA |
+| 91 | Azerbaijan | 9,493,600 | July 2012 est. |
+| 92 | Sweden | 9,103,788 | July 2012 est. |
+| 93 | Honduras | 8,296,693 | NA |
+| 94 | Austria | 8,219,743 | July 2012 est. |
+| 95 | Switzerland | 7,925,517 | July 2012 est. |
+| 96 | Tajikistan | 7,768,385 | July 2012 est. |
+| 97 | Israel | 7,590,758 | NA |
+| 98 | Serbia | 7,276,604 | NA |
+| 99 | Hong Kong | 7,153,519 | July 2012 est. |
+| 100 | Bulgaria | 7,037,935 | July 2012 est. |
+| 101 | Togo | 6,961,049 | NA |
+| 102 | Laos | 6,586,266 | July 2012 est. |
+| 103 | Paraguay | 6,541,591 | July 2012 est. |
+| 104 | Jordan | 6,508,887 | July 2012 est. |
+| 105 | Papua New Guinea | 6,310,129 | July 2012 est. |
+| 106 | El Salvador | 6,090,646 | July 2012 est. |
+| 107 | Eritrea | 6,086,495 | July 2012 est. |
+| 108 | Nicaragua | 5,727,707 | July 2012 est. |
+| 109 | Libya | 5,613,380 | NA |
+| 110 | Denmark | 5,543,453 | July 2012 est. |
+| 111 | Kyrgyzstan | 5,496,737 | July 2012 est. |
+| 112 | Sierra Leone | 5,485,998 | July 2012 est. |
+| 113 | Slovakia | 5,483,088 | July 2012 est. |
+| 114 | Singapore | 5,353,494 | July 2012 est. |
+| 115 | United Arab Emirates | 5,314,317 | NA |
+| 116 | Finland | 5,262,930 | July 2012 est. |
+| 117 | Central African Republic | 5,057,208 | NA |
+| 118 | Turkmenistan | 5,054,828 | July 2012 est. |
+| 119 | Ireland | 4,722,028 | July 2012 est. |
+| 120 | Norway | 4,707,270 | July 2012 est. |
+| 121 | Costa Rica | 4,636,348 | July 2012 est. |
+| 122 | Georgia | 4,570,934 | July 2012 est. |
+| 123 | Croatia | 4,480,043 | July 2012 est. |
+| 124 | Congo, Republic of the | 4,366,266 | NA |
+| 125 | New Zealand | 4,327,944 | July 2012 est. |
+| 126 | Lebanon | 4,140,289 | July 2012 est. |
+| 127 | Liberia | 3,887,886 | July 2012 est. |
+| 128 | Bosnia and Herzegovina | 3,879,296 | July 2012 est. |
+| 129 | Puerto Rico | 3,690,923 | July 2012 est. |
+| 130 | Moldova | 3,656,843 | July 2012 est. |
+| 131 | Lithuania | 3,525,761 | July 2012 est. |
+| 132 | Panama | 3,510,045 | July 2012 est. |
+| 133 | Mauritania | 3,359,185 | July 2012 est. |
+| 134 | Uruguay | 3,316,328 | July 2012 est. |
+| 135 | Mongolia | 3,179,997 | July 2012 est. |
+| 136 | Oman | 3,090,150 | NA |
+| 137 | Albania | 3,002,859 | July 2012 est. |
+| 138 | Armenia | 2,970,495 | July 2012 est. |
+| 139 | Jamaica | 2,889,187 | July 2012 est. |
+| 140 | Kuwait | 2,646,314 | NA |
+| 141 | West Bank | 2,622,544 | NA |
+| 142 | Latvia | 2,191,580 | July 2012 est. |
+| 143 | Namibia | 2,165,828 | NA |
+| 144 | Botswana | 2,098,018 | NA |
+| 145 | Macedonia | 2,082,370 | July 2012 est. |
+| 146 | Slovenia | 1,996,617 | July 2012 est. |
+| 147 | Qatar | 1,951,591 | July 2012 est. |
+| 148 | Lesotho | 1,930,493 | NA |
+| 149 | Gambia, The | 1,840,454 | July 2012 est. |
+| 150 | Kosovo | 1,836,529 | July 2012 est. |
+| 151 | Gaza Strip | 1,710,257 | July 2012 est. |
+| 152 | Guinea-Bissau | 1,628,603 | July 2012 est. |
+| 153 | Gabon | 1,608,321 | NA |
+| 154 | Swaziland | 1,386,914 | NA |
+| 155 | Mauritius | 1,313,095 | July 2012 est. |
+| 156 | Estonia | 1,274,709 | July 2012 est. |
+| 157 | Bahrain | 1,248,348 | July 2012 est. |
+| 158 | Trinidad and Tobago | 1,226,383 | July 2012 est. |
+| 159 | Timor-Leste | 1,143,667 | July 2012 est. |
+| 160 | Cyprus | 1,138,071 | July 2012 est. |
+| 161 | Fiji | 890,057 | July 2012 est. |
+| 162 | Djibouti | 774,389 | July 2012 est. |
+| 163 | Guyana | 741,908 | NA |
+| 164 | Comoros | 737,284 | July 2012 est. |
+| 165 | Bhutan | 716,896 | NA |
+| 166 | Equatorial Guinea | 685,991 | July 2012 est. |
+| 167 | Montenegro | 657,394 | July 2012 est. |
+| 168 | Solomon Islands | 584,578 | July 2012 est. |
+| 169 | Macau | 578,025 | July 2012 est. |
+| 170 | Suriname | 560,157 | July 2012 est. |
+| 171 | Cape Verde | 523,568 | July 2012 est. |
+| 172 | Western Sahara | 522,928 | NA |
+| 173 | Luxembourg | 509,074 | July 2012 est. |
+| 174 | Malta | 409,836 | July 2012 est. |
+| 175 | Brunei | 408,786 | July 2012 est. |
+| 176 | Maldives | 394,451 | July 2012 est. |
+| 177 | Belize | 327,719 | July 2012 est. |
+| 178 | Bahamas, The | 316,182 | NA |
+| 179 | Iceland | 313,183 | July 2012 est. |
+| 180 | Barbados | 287,733 | July 2012 est. |
+| 181 | French Polynesia | 274,512 | July 2012 est. |
+| 182 | New Caledonia | 260,166 | July 2012 est. |
+| 183 | Vanuatu | 256,155 | July 2012 est. |
+| 184 | Samoa | 194,320 | NA |
+| 185 | Sao Tome and Principe | 183,176 | July 2012 est. |
+| 186 | Saint Lucia | 162,178 | July 2012 est. |
+| 187 | Guam | 159,914 | July 2012 est. |
+| 188 | Curacao | 145,834 | January 2010 est. |
+| 189 | Grenada | 109,011 | July 2012 est. |
+| 190 | Aruba | 107,635 | NA |
+| 191 | Micronesia, Federated States of | 106,487 | July 2012 est. |
+| 192 | Tonga | 106,146 | July 2012 est. |
+| 193 | Virgin Islands | 105,275 | July 2012 est. |
+| 194 | Saint Vincent and the Grenadines | 103,537 | July 2012 est. |
+| 195 | Kiribati | 101,998 | July 2012 est. |
+| 196 | Jersey | 94,949 | July 2012 est. |
+| 197 | Seychelles | 90,024 | July 2012 est. |
+| 198 | Antigua and Barbuda | 89,018 | July 2012 est. |
+| 199 | Isle of Man | 85,421 | July 2012 est. |
+| 200 | Andorra | 85,082 | July 2012 est. |
+| 201 | Dominica | 73,126 | July 2012 est. |
+| 202 | Bermuda | 69,080 | July 2012 est. |
+| 203 | Marshall Islands | 68,480 | July 2012 est. |
+| 204 | Guernsey | 65,345 | July 2012 est. |
+| 205 | Greenland | 57,695 | July 2012 est. |
+| 206 | American Samoa | 54,947 | July 2012 est. |
+| 207 | Cayman Islands | 52,560 | NA |
+| 208 | Northern Mariana Islands | 51,395 | July 2012 est. |
+| 209 | Saint Kitts and Nevis | 50,726 | July 2012 est. |
+| 210 | Faroe Islands | 49,483 | July 2012 est. |
+| 211 | Turks and Caicos Islands | 46,335 | July 2012 est. |
+| 212 | Sint Maarten | 39,088 | January 2010 est. |
+| 213 | Liechtenstein | 36,713 | July 2012 est. |
+| 214 | San Marino | 32,140 | July 2012 est. |
+| 215 | British Virgin Islands | 31,148 | July 2012 est. |
+| 216 | Saint Martin | 30,959 | July 2012 est. |
+| 217 | Monaco | 30,510 | July 2012 est. |
+| 218 | Gibraltar | 29,034 | July 2012 est. |
+| 219 | Palau | 21,032 | July 2012 est. |
+| 220 | Dhekelia | 15,700 | NA |
+| 221 | Akrotiri | 15,700 | NA |
+| 222 | Wallis and Futuna | 15,453 | July 2012 est. |
+| 223 | Anguilla | 15,423 | July 2012 est. |
+| 224 | Cook Islands | 10,777 | July 2012 est. |
+| 225 | Tuvalu | 10,619 | July 2012 est. |
+| 226 | Nauru | 9,378 | July 2012 est. |
+| 227 | Saint Helena, Ascension, and Tristan da Cunha | 7,728 | NA |
+| 228 | Saint Barthelemy | 7,332 | July 2012 est. |
+| 229 | Saint Pierre and Miquelon | 5,831 | July 2012 est. |
+| 230 | Montserrat | 5,164 | NA |
+| 231 | Falkland Islands (Islas Malvinas) | 3,140 | July 2008 est. |
+| 232 | Norfolk Island | 2,182 | July 2012 est. |
+| 233 | Svalbard | 1,970 | July 2012 est. |
+| 234 | Christmas Island | 1,496 | July 2010 est. |
+| 235 | Tokelau | 1,368 | July 2012 est. |
+| 236 | Niue | 1,269 | July 2012 est. |
+| 237 | Holy See (Vatican City) | 836 | July 2012 est. |
+| 238 | Cocos (Keeling) Islands | 596 | July 2010 est. |
+| 239 | Pitcairn Islands | 48 | July 2012 est. |

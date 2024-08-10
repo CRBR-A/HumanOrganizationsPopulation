@@ -1,0 +1,14 @@
+| Precautions | Exercise increased caution traveling to Solomon Islands due to low COVID-19 vaccination rates. |
+| | Consult the link below for updates to travel advisories and statements on safety, security, local laws, and special circumstances in this country. |
+| | <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html> |
+| Passport/Visa Requirements | US citizens should make sure their passport is valid at the date of their entering the country. They should also make sure they have at least 1 blank page in their passport for any entry stamp that will be required. A visa is not required. |
+| Vaccinations | An International Certificate of Vaccination for yellow fever is required for travelers arriving from countries with a risk of yellow fever transmission and for travelers having transited through the airport of a country with risk of yellow fever transmission. See WHO recommendations.  <http://www.who.int/> |
+| US Embassy/Consulate | US does not have an embassy in the Solomon Islands; the US Ambassador to Papua New Guinea is accredited to the Solomon Islands; +(675) 321-1455; EMER: +(675) 7200-9439; US Embassy Port Moresby, Courier Service Address: Douglas Street, adjacent to the Bank of Papua New Guinea, Port Moresby, Papua New Guinea; ConsularPortMoresby@state.gov; https://pg.usembassy.gov/ |
+
+---
+country: Solomon Islands
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Solomon Islands/travel-facts>
+license: public domain (U.S.)
+...

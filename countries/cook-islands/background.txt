@@ -1,0 +1,8 @@
+The Cook Islands, named after Captain James Cook who landed in 1773, became a British protectorate in 1888 and was later annexed by proclamation in 1900. The Cook Islands was first included within the boundaries of New Zealand in 1901, and in 1965, residents chose self-government in free association with New Zealand. The Cook Islandsâ€™ economy relies on tourism, fisheries, and foreign aid. More recently a growing offshore financial sector exposed the country to vulnerabilities which the government has addressed with legislation and regulations for the oversight of all banks and financial institutions, and with enforcement measures. The Cook Islands continues to face challenges with the emigration of skilled workers, government deficits, inadequate infrastructure, and natural resource depletion. The Cook Islands is expected to graduate to the high-income threshold set by the World Bank, which will limit the countryâ€™s access to Official Development Assistance under OECD guidelines.  
+
+---
+country: Cook Islands
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Cook Islands/>
+license: public domain (U.S.)
+...

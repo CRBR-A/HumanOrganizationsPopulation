@@ -1,0 +1,232 @@
+CIA - The World Factbook --  Total fertility rate   
+
+Total fertility rate (TFR) compares figures for the average number of children that would be born per woman if all women lived to the end of their childbearing years and bore children according to a given fertility rate at each age. TFR is a more direct measure of the level of fertility than the crude birth rate, since it refers to births per woman.
+
+| Rank | country | (children born/woman) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Niger | 6.89 | 2014 est. |
+| 2 | Mali | 6.16 | 2014 est. |
+| 3 | Burundi | 6.14 | 2014 est. |
+| 4 | Somalia | 6.08 | 2014 est. |
+| 5 | Uganda | 5.97 | 2014 est. |
+| 6 | Burkina Faso | 5.93 | 2014 est. |
+| 7 | Zambia | 5.76 | 2014 est. |
+| 8 | Malawi | 5.66 | 2014 est. |
+| 9 | Afghanistan | 5.43 | 2014 est. |
+| 10 | Angola | 5.43 | 2014 est. |
+| 11 | South Sudan | 5.43 | 2014 est. |
+| 12 | Mozambique | 5.27 | 2014 est. |
+| 13 | Nigeria | 5.25 | 2014 est. |
+| 14 | Ethiopia | 5.23 | 2014 est. |
+| 15 | Timor-Leste | 5.11 | 2014 est. |
+| 16 | Benin | 5.04 | 2014 est. |
+| 17 | Tanzania | 4.95 | 2014 est. |
+| 18 | Guinea | 4.93 | 2014 est. |
+| 19 | Sierra Leone | 4.83 | 2014 est. |
+| 20 | Cameroon | 4.82 | 2014 est. |
+| 21 | Liberia | 4.81 | 2014 est. |
+| 22 | Congo, Democratic Republic of the | 4.80 | 2014 est. |
+| 23 | Congo, Republic of the | 4.73 | 2014 est. |
+| 24 | Chad | 4.68 | 2014 est. |
+| 25 | Sao Tome and Principe | 4.67 | 2014 est. |
+| 26 | Equatorial Guinea | 4.66 | 2014 est. |
+| 27 | Rwanda | 4.62 | 2014 est. |
+| 28 | Togo | 4.53 | 2014 est. |
+| 29 | Senegal | 4.52 | 2014 est. |
+| 30 | Gabon | 4.49 | 2014 est. |
+| 31 | Central African Republic | 4.46 | 2014 est. |
+| 32 | Guinea-Bissau | 4.30 | 2014 est. |
+| 33 | Madagascar | 4.28 | 2014 est. |
+| 34 | Gaza Strip | 4.24 | 2014 est. |
+| 35 | Eritrea | 4.14 | 2014 est. |
+| 36 | Yemen | 4.09 | 2014 est. |
+| 37 | Ghana | 4.09 | 2014 est. |
+| 38 | Western Sahara | 4.07 | 2014 est. |
+| 39 | Mauritania | 4.07 | 2014 est. |
+| 40 | Sudan | 3.92 | 2014 est. |
+| 41 | Gambia, The | 3.85 | 2014 est. |
+| 42 | Comoros | 3.76 | 2014 est. |
+| 43 | Cote d'Ivoire | 3.63 | 2014 est. |
+| 44 | Zimbabwe | 3.56 | 2014 est. |
+| 45 | Kenya | 3.54 | 2014 est. |
+| 46 | Iraq | 3.41 | 2014 est. |
+| 47 | Solomon Islands | 3.36 | 2014 est. |
+| 48 | Tonga | 3.36 | 2014 est. |
+| 49 | Vanuatu | 3.36 | 2014 est. |
+| 50 | Papua New Guinea | 3.24 | 2014 est. |
+| 51 | Marshall Islands | 3.22 | 2014 est. |
+| 52 | Jordan | 3.16 | 2014 est. |
+| 53 | Philippines | 3.06 | 2014 est. |
+| 54 | Tuvalu | 3.03 | 2014 est. |
+| 55 | Belize | 3.02 | 2014 est. |
+| 56 | Guatemala | 2.99 | 2014 est. |
+| 57 | American Samoa | 2.98 | 2014 est. |
+| 58 | Samoa | 2.94 | 2014 est. |
+| 59 | Nauru | 2.93 | 2014 est. |
+| 60 | Laos | 2.90 | 2014 est. |
+| 61 | Swaziland | 2.88 | 2014 est. |
+| 62 | Egypt | 2.87 | 2014 est. |
+| 63 | Pakistan | 2.86 | 2014 est. |
+| 64 | Oman | 2.86 | 2014 est. |
+| 65 | Honduras | 2.86 | 2014 est. |
+| 66 | West Bank | 2.83 | 2014 est. |
+| 67 | Bolivia | 2.80 | 2014 est. |
+| 68 | Haiti | 2.79 | 2014 est. |
+| 69 | Algeria | 2.78 | 2014 est. |
+| 70 | Lesotho | 2.78 | 2014 est. |
+| 71 | Tajikistan | 2.76 | 2014 est. |
+| 72 | Kyrgyzstan | 2.68 | 2014 est. |
+| 73 | Syria | 2.68 | 2014 est. |
+| 74 | Cambodia | 2.66 | 2014 est. |
+| 75 | Israel | 2.62 | 2014 est. |
+| 76 | Malaysia | 2.58 | 2014 est. |
+| 77 | Kiribati | 2.56 | 2014 est. |
+| 78 | Micronesia, Federated States of | 2.55 | 2014 est. |
+| 79 | Kuwait | 2.53 | 2014 est. |
+| 80 | Fiji | 2.51 | 2014 est. |
+| 81 | India | 2.51 | 2014 est. |
+| 82 | Djibouti | 2.47 | 2014 est. |
+| 83 | Bangladesh | 2.45 | 2014 est. |
+| 84 | Guam | 2.38 | 2014 est. |
+| 85 | Panama | 2.38 | 2014 est. |
+| 86 | Faroe Islands | 2.38 | 2014 est. |
+| 87 | Botswana | 2.37 | 2014 est. |
+| 88 | Dominican Republic | 2.36 | 2014 est. |
+| 89 | United Arab Emirates | 2.36 | 2014 est. |
+| 90 | Venezuela | 2.35 | 2014 est. |
+| 91 | Kazakhstan | 2.34 | 2014 est. |
+| 92 | Cabo Verde | 2.34 | 2014 est. |
+| 93 | Nepal | 2.30 | 2014 est. |
+| 94 | Ecuador | 2.29 | 2014 est. |
+| 95 | Mexico | 2.29 | 2014 est. |
+| 96 | Cook Islands | 2.27 | 2014 est. |
+| 97 | Argentina | 2.25 | 2014 est. |
+| 98 | Namibia | 2.25 | 2014 est. |
+| 99 | South Africa | 2.23 | 2014 est. |
+| 100 | Mongolia | 2.22 | 2014 est. |
+| 101 | Peru | 2.22 | 2014 est. |
+| 102 | Indonesia | 2.18 | 2014 est. |
+| 103 | Burma | 2.18 | 2014 est. |
+| 104 | Saudi Arabia | 2.17 | 2014 est. |
+| 105 | Morocco | 2.15 | 2014 est. |
+| 106 | Guyana | 2.14 | 2014 est. |
+| 107 | Sri Lanka | 2.13 | 2014 est. |
+| 108 | Turkmenistan | 2.10 | 2014 est. |
+| 109 | Grenada | 2.09 | 2014 est. |
+| 110 | Sint Maarten | 2.09 | 2013 est. |
+| 111 | Curacao | 2.09 | 2013 est. |
+| 112 | France | 2.08 | 2014 est. |
+| 113 | Turkey | 2.08 | 2014 est. |
+| 114 | Libya | 2.07 | 2014 est. |
+| 115 | Colombia | 2.07 | 2014 est. |
+| 116 | Greenland | 2.06 | 2014 est. |
+| 117 | Dominica | 2.05 | 2014 est. |
+| 118 | Jamaica | 2.05 | 2014 est. |
+| 119 | New Zealand | 2.05 | 2014 est. |
+| 120 | Antigua and Barbuda | 2.03 | 2014 est. |
+| 121 | Bhutan | 2.02 | 2014 est. |
+| 122 | Northern Mariana Islands | 2.01 | 2014 est. |
+| 123 | United States | 2.01 | 2014 est. |
+| 124 | Suriname | 2.01 | 2014 est. |
+| 125 | Ireland | 2.00 | 2014 est. |
+| 126 | Tunisia | 2.00 | 2014 est. |
+| 127 | New Caledonia | 1.99 | 2014 est. |
+| 128 | Nicaragua | 1.99 | 2014 est. |
+| 129 | Korea, North | 1.98 | 2014 est. |
+| 130 | Bahamas, The | 1.97 | 2014 est. |
+| 131 | Paraguay | 1.96 | 2014 est. |
+| 132 | French Polynesia | 1.95 | 2014 est. |
+| 133 | Bermuda | 1.95 | 2014 est. |
+| 134 | El Salvador | 1.95 | 2014 est. |
+| 135 | Isle of Man | 1.94 | 2014 est. |
+| 136 | Qatar | 1.92 | 2014 est. |
+| 137 | Gibraltar | 1.92 | 2014 est. |
+| 138 | Azerbaijan | 1.91 | 2014 est. |
+| 139 | Costa Rica | 1.91 | 2014 est. |
+| 140 | United Kingdom | 1.90 | 2014 est. |
+| 141 | Seychelles | 1.88 | 2014 est. |
+| 142 | Sweden | 1.88 | 2014 est. |
+| 143 | Iceland | 1.88 | 2014 est. |
+| 144 | Cayman Islands | 1.86 | 2014 est. |
+| 145 | Norway | 1.86 | 2014 est. |
+| 146 | Iran | 1.85 | 2014 est. |
+| 147 | Vietnam | 1.85 | 2014 est. |
+| 148 | Chile | 1.84 | 2014 est. |
+| 149 | Uruguay | 1.84 | 2014 est. |
+| 150 | Aruba | 1.84 | 2014 est. |
+| 151 | Saint Vincent and the Grenadines | 1.84 | 2014 est. |
+| 152 | Brunei | 1.82 | 2014 est. |
+| 153 | Bahrain | 1.81 | 2014 est. |
+| 154 | Uzbekistan | 1.80 | 2014 est. |
+| 155 | Brazil | 1.79 | 2014 est. |
+| 156 | Saint Kitts and Nevis | 1.78 | 2014 est. |
+| 157 | Netherlands | 1.78 | 2014 est. |
+| 158 | Luxembourg | 1.77 | 2014 est. |
+| 159 | Georgia | 1.77 | 2014 est. |
+| 160 | Mauritius | 1.77 | 2014 est. |
+| 161 | Saint Lucia | 1.77 | 2014 est. |
+| 162 | Australia | 1.77 | 2014 est. |
+| 163 | Wallis and Futuna | 1.76 | 2014 est. |
+| 164 | Maldives | 1.76 | 2014 est. |
+| 165 | Virgin Islands | 1.75 | 2014 est. |
+| 166 | Anguilla | 1.75 | 2014 est. |
+| 167 | Lebanon | 1.74 | 2014 est. |
+| 168 | Denmark | 1.73 | 2014 est. |
+| 169 | Finland | 1.73 | 2014 est. |
+| 170 | Palau | 1.71 | 2014 est. |
+| 171 | Trinidad and Tobago | 1.71 | 2014 est. |
+| 172 | Turks and Caicos Islands | 1.70 | 2014 est. |
+| 173 | Liechtenstein | 1.69 | 2014 est. |
+| 174 | Barbados | 1.68 | 2014 est. |
+| 175 | Jersey | 1.66 | 2014 est. |
+| 176 | Belgium | 1.65 | 2014 est. |
+| 177 | Armenia | 1.64 | 2014 est. |
+| 178 | Puerto Rico | 1.64 | 2014 est. |
+| 179 | Russia | 1.61 | 2014 est. |
+| 180 | Macedonia | 1.59 | 2014 est. |
+| 181 | Canada | 1.59 | 2014 est. |
+| 182 | Saint Helena, Ascension, and Tristan da Cunha | 1.58 | 2014 est. |
+| 183 | Moldova | 1.56 | 2014 est. |
+| 184 | Saint Pierre and Miquelon | 1.56 | 2014 est. |
+| 185 | China | 1.55 | 2014 est. |
+| 186 | Guernsey | 1.55 | 2014 est. |
+| 187 | Malta | 1.54 | 2014 est. |
+| 188 | Switzerland | 1.54 | 2014 est. |
+| 189 | Portugal | 1.52 | 2014 est. |
+| 190 | Monaco | 1.52 | 2014 est. |
+| 191 | Albania | 1.50 | 2014 est. |
+| 192 | Thailand | 1.50 | 2014 est. |
+| 193 | San Marino | 1.49 | 2014 est. |
+| 194 | Spain | 1.48 | 2014 est. |
+| 195 | Belarus | 1.47 | 2014 est. |
+| 196 | Estonia | 1.46 | 2014 est. |
+| 197 | Cuba | 1.46 | 2014 est. |
+| 198 | Cyprus | 1.46 | 2014 est. |
+| 199 | Croatia | 1.45 | 2014 est. |
+| 200 | Bulgaria | 1.44 | 2014 est. |
+| 201 | Czech Republic | 1.43 | 2014 est. |
+| 202 | Austria | 1.43 | 2014 est. |
+| 203 | Germany | 1.43 | 2014 est. |
+| 204 | Serbia | 1.42 | 2014 est. |
+| 205 | Italy | 1.42 | 2014 est. |
+| 206 | Hungary | 1.42 | 2014 est. |
+| 207 | Greece | 1.41 | 2014 est. |
+| 208 | Japan | 1.40 | 2014 est. |
+| 209 | Slovakia | 1.39 | 2014 est. |
+| 210 | Andorra | 1.38 | 2014 est. |
+| 211 | Latvia | 1.35 | 2014 est. |
+| 212 | Poland | 1.33 | 2014 est. |
+| 213 | Slovenia | 1.33 | 2014 est. |
+| 214 | Romania | 1.32 | 2014 est. |
+| 215 | Ukraine | 1.30 | 2014 est. |
+| 216 | Montserrat | 1.29 | 2014 est. |
+| 217 | Lithuania | 1.29 | 2014 est. |
+| 218 | Bosnia and Herzegovina | 1.26 | 2014 est. |
+| 219 | British Virgin Islands | 1.25 | 2014 est. |
+| 220 | Korea, South | 1.25 | 2014 est. |
+| 221 | Hong Kong | 1.17 | 2014 est. |
+| 222 | Taiwan | 1.11 | 2014 est. |
+| 223 | Macau | 0.93 | 2014 est. |
+| 224 | Singapore | 0.80 | 2014 est. |
+
+

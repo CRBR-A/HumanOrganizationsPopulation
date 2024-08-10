@@ -1,0 +1,234 @@
+CIA - The World Factbook --  BIRTH RATE
+
+Birth rate compares the average annual number of births during a year per 1,000 persons in the population at midyear; also known as crude birth rate.
+
+| Rank | Country | (BIRTHS/1,000 POPULATION) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Niger | 44.80 | 2016 est. |
+| 2 | Mali | 44.40 | 2016 est. |
+| 3 | Uganda | 43.40 | 2016 est. |
+| 4 | Zambia | 41.80 | 2016 est. |
+| 5 | Burundi | 41.70 | 2016 est. |
+| 6 | Burkina Faso | 41.60 | 2016 est. |
+| 7 | Malawi | 41.30 | 2016 est. |
+| 8 | Somalia | 40.00 | 2016 est. |
+| 9 | Angola | 38.60 | 2016 est. |
+| 10 | Mozambique | 38.30 | 2016 est. |
+| 11 | Afghanistan | 38.30 | 2016 est. |
+| 12 | Nigeria | 37.30 | 2016 est. |
+| 13 | Ethiopia | 36.90 | 2016 est. |
+| 14 | Sierra Leone | 36.70 | 2016 est. |
+| 15 | South Sudan | 36.20 | 2016 est. |
+| 16 | Chad | 36.10 | 2016 est. |
+| 17 | Tanzania | 36.00 | 2016 est. |
+| 18 | Cameroon | 35.80 | 2016 est. |
+| 19 | Benin | 35.50 | 2016 est. |
+| 20 | Guinea | 35.40 | 2016 est. |
+| 21 | Congo, Republic of the | 35.10 | 2016 est. |
+| 22 | Central African Republic | 34.70 | 2016 est. |
+| 23 | Gabon | 34.30 | 2016 est. |
+| 24 | Congo, Democratic Republic of the | 34.20 | 2016 est. |
+| 25 | Senegal | 34.00 | 2016 est. |
+| 26 | Liberia | 33.90 | 2016 est. |
+| 27 | Timor-Leste | 33.80 | 2016 est. |
+| 28 | Togo | 33.70 | 2016 est. |
+| 29 | Sao Tome and Principe | 33.30 | 2016 est. |
+| 30 | Rwanda | 33.30 | 2016 est. |
+| 31 | Guinea-Bissau | 32.90 | 2016 est. |
+| 32 | Equatorial Guinea | 32.80 | 2016 est. |
+| 33 | Gaza Strip | 32.30 | 2016 est. |
+| 34 | Madagascar | 32.10 | 2016 est. |
+| 35 | Zimbabwe | 31.90 | 2016 est. |
+| 36 | Iraq | 30.90 | 2016 est. |
+| 37 | Mauritania | 30.90 | 2016 est. |
+| 38 | Ghana | 30.80 | 2016 est. |
+| 39 | Egypt | 30.30 | 2016 est. |
+| 40 | Eritrea | 30.10 | 2016 est. |
+| 41 | Gambia, The | 30.10 | 2016 est. |
+| 42 | Western Sahara | 29.80 | 2016 est. |
+| 43 | Yemen | 29.20 | 2016 est. |
+| 44 | Sudan | 28.50 | 2016 est. |
+| 45 | Cote d'Ivoire | 28.20 | 2016 est. |
+| 46 | Namibia | 27.90 | 2016 est. |
+| 47 | Comoros | 26.90 | 2016 est. |
+| 48 | West Bank | 26.70 | 2016 est. |
+| 49 | Jordan | 25.50 | 2016 est. |
+| 50 | Solomon Islands | 25.30 | 2016 est. |
+| 51 | Kenya | 25.10 | 2016 est. |
+| 52 | Lesotho | 25.10 | 2016 est. |
+| 53 | Marshall Islands | 25.00 | 2016 est. |
+| 54 | Vanuatu | 24.50 | 2016 est. |
+| 55 | Guatemala | 24.50 | 2016 est. |
+| 56 | Nauru | 24.40 | 2016 est. |
+| 57 | Oman | 24.30 | 2016 est. |
+| 58 | Swaziland | 24.30 | 2016 est. |
+| 59 | Belize | 24.30 | 2016 est. |
+| 60 | Papua New Guinea | 24.00 | 2016 est. |
+| 61 | Philippines | 24.00 | 2016 est. |
+| 62 | Laos | 23.90 | 2016 est. |
+| 63 | Tajikistan | 23.80 | 2016 est. |
+| 64 | Tuvalu | 23.80 | 2016 est. |
+| 65 | Djibouti | 23.60 | 2016 est. |
+| 66 | Cambodia | 23.40 | 2016 est. |
+| 67 | Haiti | 23.30 | 2016 est. |
+| 68 | Algeria | 23.00 | 2016 est. |
+| 69 | American Samoa | 22.90 | 2016 est. |
+| 70 | Honduras | 22.80 | 2016 est. |
+| 71 | Tonga | 22.60 | 2016 est. |
+| 72 | Kyrgyzstan | 22.60 | 2016 est. |
+| 73 | Bolivia | 22.40 | 2016 est. |
+| 74 | Pakistan | 22.30 | 2016 est. |
+| 75 | Syria | 21.70 | 2016 est. |
+| 76 | Kiribati | 21.30 | 2016 est. |
+| 77 | Botswana | 20.70 | 2016 est. |
+| 78 | Samoa | 20.60 | 2016 est. |
+| 79 | South Africa | 20.50 | 2016 est. |
+| 80 | Micronesia, Federated States of | 20.30 | 2016 est. |
+| 81 | Cabo Verde | 20.20 | 2016 est. |
+| 82 | Nepal | 19.90 | 2016 est. |
+| 83 | Kuwait | 19.60 | 2016 est. |
+| 84 | Mongolia | 19.60 | 2016 est. |
+| 85 | Malaysia | 19.40 | 2016 est. |
+| 86 | India | 19.30 | 2016 est. |
+| 87 | Turkmenistan | 19.30 | 2016 est. |
+| 88 | Venezuela | 19.20 | 2016 est. |
+| 89 | Bangladesh | 19.00 | 2016 est. |
+| 90 | Fiji | 19.00 | 2016 est. |
+| 91 | Kazakhstan | 18.70 | 2016 est. |
+| 92 | Dominican Republic | 18.60 | 2016 est. |
+| 93 | Mexico | 18.50 | 2016 est. |
+| 94 | Saudi Arabia | 18.40 | 2016 est. |
+| 95 | Israel | 18.30 | 2016 est. |
+| 96 | Burma | 18.20 | 2016 est. |
+| 97 | Ecuador | 18.20 | 2016 est. |
+| 98 | Panama | 18.10 | 2016 est. |
+| 99 | Jamaica | 18.00 | 2016 est. |
+| 100 | Morocco | 18.00 | 2016 est. |
+| 101 | Peru | 18.00 | 2016 est. |
+| 102 | Nicaragua | 17.90 | 2016 est. |
+| 103 | Iran | 17.80 | 2016 est. |
+| 104 | Libya | 17.80 | 2016 est. |
+| 105 | Bhutan | 17.50 | 2016 est. |
+| 106 | Brunei | 17.20 | 2016 est. |
+| 107 | Northern Mariana Islands | 17.20 | 2016 est. |
+| 108 | Argentina | 17.00 | 2016 est. |
+| 109 | Uzbekistan | 16.90 | 2016 est. |
+| 110 | Guam | 16.70 | 2016 est. |
+| 111 | Paraguay | 16.50 | 2016 est. |
+| 112 | Tunisia | 16.40 | 2016 est. |
+| 113 | Indonesia | 16.40 | 2016 est. |
+| 114 | Colombia | 16.30 | 2016 est. |
+| 115 | El Salvador | 16.30 | 2016 est. |
+| 116 | Azerbaijan | 16.20 | 2016 est. |
+| 117 | Turkey | 16.00 | 2016 est. |
+| 118 | Suriname | 16.00 | 2016 est. |
+| 119 | Maldives | 16.00 | 2016 est. |
+| 120 | Antigua and Barbuda | 15.80 | 2016 est. |
+| 121 | Grenada | 15.80 | 2016 est. |
+| 122 | Costa Rica | 15.70 | 2016 est. |
+| 123 | Turks and Caicos Islands | 15.70 | 2016 est. |
+| 124 | Vietnam | 15.70 | 2016 est. |
+| 125 | Guyana | 15.50 | 2016 est. |
+| 126 | Sri Lanka | 15.50 | 2016 est. |
+| 127 | Bahamas, The | 15.40 | 2016 est. |
+| 128 | United Arab Emirates | 15.30 | 2016 est. |
+| 129 | New Caledonia | 15.20 | 2016 est. |
+| 130 | Dominica | 15.20 | 2016 est. |
+| 131 | French Polynesia | 15.00 | 2016 est. |
+| 132 | Korea, North | 14.60 | 2016 est. |
+| 133 | Ireland | 14.50 | 2016 est. |
+| 134 | Lebanon | 14.40 | 2016 est. |
+| 135 | Greenland | 14.40 | 2016 est. |
+| 136 | Brazil | 14.30 | 2016 est. |
+| 137 | Cook Islands | 14.10 | 2016 est. |
+| 138 | Gibraltar | 14.10 | 2016 est. |
+| 139 | Faroe Islands | 14.00 | 2016 est. |
+| 140 | Seychelles | 13.90 | 2016 est. |
+| 141 | Curacao | 13.80 | 2016 est. |
+| 142 | Iceland | 13.80 | 2016 est. |
+| 143 | Chile | 13.70 | 2016 est. |
+| 144 | Bahrain | 13.50 | 2016 est. |
+| 145 | Saint Lucia | 13.50 | 2016 est. |
+| 146 | Saint Vincent and the Grenadines | 13.40 | 2016 est. |
+| 147 | Saint Kitts and Nevis | 13.30 | 2016 est. |
+| 148 | New Zealand | 13.30 | 2016 est. |
+| 149 | Wallis and Futuna | 13.30 | 2016 est. |
+| 150 | Armenia | 13.30 | 2016 est. |
+| 151 | Mauritius | 13.10 | 2016 est. |
+| 152 | Trinidad and Tobago | 13.10 | 2016 est. |
+| 153 | Albania | 13.10 | 2016 est. |
+| 154 | Sint Maarten | 13.10 | 2013 est. |
+| 155 | Uruguay | 13.00 | 2016 est. |
+| 156 | Anguilla | 12.70 | 2016 est. |
+| 157 | Aruba | 12.50 | 2016 est. |
+| 158 | Georgia | 12.50 | 2016 est. |
+| 159 | United States | 12.50 | 2016 est. |
+| 160 | China | 12.40 | 2016 est. |
+| 161 | France | 12.30 | 2016 est. |
+| 162 | Norway | 12.20 | 2016 est. |
+| 163 | Australia | 12.10 | 2016 est. |
+| 164 | Jersey | 12.10 | 2016 est. |
+| 165 | United Kingdom | 12.10 | 2016 est. |
+| 166 | Cayman Islands | 12.10 | 2016 est. |
+| 167 | Sweden | 12.00 | 2016 est. |
+| 168 | Barbados | 11.80 | 2016 est. |
+| 169 | Moldova | 11.80 | 2016 est. |
+| 170 | Macedonia | 11.50 | 2016 est. |
+| 171 | Belgium | 11.40 | 2016 est. |
+| 172 | Luxembourg | 11.40 | 2016 est. |
+| 173 | Cyprus | 11.40 | 2016 est. |
+| 174 | Russia | 11.30 | 2016 est. |
+| 175 | Bermuda | 11.30 | 2016 est. |
+| 176 | Palau | 11.20 | 2016 est. |
+| 177 | Thailand | 11.10 | 2016 est. |
+| 178 | British Virgin Islands | 11.00 | 2016 est. |
+| 179 | Isle of Man | 11.00 | 2016 est. |
+| 180 | Montserrat | 11.00 | 2016 est. |
+| 181 | Netherlands | 10.90 | 2016 est. |
+| 182 | Falkland Islands (Islas Malvinas) | 10.90 | 2012 est. |
+| 183 | Cuba | 10.80 | 2016 est. |
+| 184 | Puerto Rico | 10.80 | 2016 est. |
+| 185 | Finland | 10.70 | 2016 est. |
+| 186 | Ukraine | 10.50 | 2016 est. |
+| 187 | Belarus | 10.50 | 2016 est. |
+| 188 | Switzerland | 10.50 | 2016 est. |
+| 189 | Liechtenstein | 10.40 | 2016 est. |
+| 190 | Denmark | 10.40 | 2016 est. |
+| 191 | Estonia | 10.30 | 2016 est. |
+| 192 | Canada | 10.30 | 2016 est. |
+| 193 | Montenegro | 10.20 | 2016 est. |
+| 194 | Virgin Islands | 10.20 | 2016 est. |
+| 195 | Malta | 10.10 | 2016 est. |
+| 196 | Lithuania | 10.00 | 2016 est. |
+| 197 | Latvia | 9.90 | 2016 est. |
+| 198 | Slovakia | 9.80 | 2016 est. |
+| 199 | Guernsey | 9.80 | 2016 est. |
+| 200 | Saint Helena, Ascension, and Tristan da Cunha | 9.70 | 2016 est. |
+| 201 | Qatar | 9.70 | 2016 est. |
+| 202 | Poland | 9.60 | 2016 est. |
+| 203 | Czechia | 9.50 | 2016 est. |
+| 204 | Austria | 9.50 | 2016 est. |
+| 205 | Spain | 9.40 | 2016 est. |
+| 206 | Hong Kong | 9.10 | 2016 est. |
+| 207 | Hungary | 9.10 | 2016 est. |
+| 208 | Portugal | 9.10 | 2016 est. |
+| 209 | Romania | 9.00 | 2016 est. |
+| 210 | Croatia | 9.00 | 2016 est. |
+| 211 | Serbia | 9.00 | 2016 est. |
+| 212 | Bulgaria | 8.80 | 2016 est. |
+| 213 | Bosnia and Herzegovina | 8.80 | 2016 est. |
+| 214 | Macau | 8.80 | 2016 est. |
+| 215 | Italy | 8.70 | 2016 est. |
+| 216 | San Marino | 8.60 | 2016 est. |
+| 217 | Germany | 8.50 | 2016 est. |
+| 218 | Greece | 8.50 | 2016 est. |
+| 219 | Taiwan | 8.40 | 2016 est. |
+| 220 | Korea, South | 8.40 | 2016 est. |
+| 221 | Singapore | 8.40 | 2016 est. |
+| 222 | Slovenia | 8.30 | 2016 est. |
+| 223 | Andorra | 7.80 | 2016 est. |
+| 224 | Japan | 7.80 | 2016 est. |
+| 225 | Saint Pierre and Miquelon | 7.20 | 2016 est. |
+| 226 | Monaco | 6.60 | 2016 est. |
+
+

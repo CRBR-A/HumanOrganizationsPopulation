@@ -1,0 +1,979 @@
+CIA - The World Factbook --  Exports - partners   
+
+This entry provides a rank ordering of trading partners starting with the most important; it sometimes includes the percent of total dollar value.
+
+| Rank | country | (%) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Mongolia | 85.70 | 2011 |
+| 2 | Haiti | 83.90 | 2011 |
+| 3 | Chad | 83.20 | 2011 |
+| 4 | Mexico | 78.60 | 2011 |
+| 5 | Guinea-Bissau | 75.90 | 2011 |
+| 6 | Djibouti | 74.50 | 2011 |
+| 7 | Canada | 73.70 | 2011 |
+| 8 | Korea, North | 67.20 | 2011 est. |
+| 9 | Sudan | 65.20 | 2011 |
+| 10 | Cape Verde | 64.40 | 2011 |
+| 11 | Greenland | 63.30 | 2011 |
+| 12 | Nicaragua | 60.10 | 2011 |
+| 13 | Turkmenistan | 59.20 | 2011 |
+| 14 | Saint Kitts and Nevis | 57.70 | 2011 |
+| 15 | Nepal | 57.40 | 2011 |
+| 16 | Vanuatu | 57.30 | 2011 |
+| 17 | Solomon Islands | 52.40 | 2011 |
+| 18 | Hong Kong | 52.40 | 2011 est. |
+| 19 | Somalia | 51.00 | 2011 |
+| 20 | Samoa | 50.00 | 2011 |
+| 21 | Niger | 49.20 | 2011 |
+| 22 | Dominican Republic | 48.80 | 2011 |
+| 23 | Congo, Democratic Republic of the | 48.10 | 2011 |
+| 24 | Afghanistan | 48.00 | FY11/12 est. |
+| 25 | Mauritania | 46.60 | 2011 |
+| 26 | Dominica | 46.20 | 2011 |
+| 27 | Albania | 45.30 | 2011 |
+| 28 | Brunei | 45.20 | 2011 |
+| 29 | El Salvador | 45.10 | 2011 |
+| 30 | Macau | 44.60 | 2011 |
+| 31 | Trinidad and Tobago | 43.60 | 2011 |
+| 32 | Colombia | 42.00 | 2011 |
+| 33 | Bolivia | 41.80 | 2011 |
+| 34 | Gabon | 41.70 | 2011 |
+| 35 | Aruba | 40.80 | 2011 |
+| 36 | Venezuela | 40.20 | 2011 |
+| 37 | Cambodia | 39.50 | 2011 |
+| 38 | Syria | 38.80 | 2011 |
+| 39 | Congo, Republic of the | 38.50 | 2011 |
+| 40 | Angola | 38.10 | 2011 |
+| 41 | Belize | 38.10 | 2011 |
+| 42 | Guatemala | 37.90 | 2011 |
+| 43 | Ecuador | 37.80 | 2011 |
+| 44 | Gambia, The | 37.50 | 2011 |
+| 45 | Jamaica | 36.80 | 2011 |
+| 46 | Burma | 36.70 | 2011 |
+| 47 | Comoros | 34.90 | 2011 |
+| 48 | Zambia | 34.80 | 2011 |
+| 49 | Belarus | 33.50 | 2011 |
+| 50 | Honduras | 33.10 | 2011 |
+| 51 | Laos | 33.00 | 2011 |
+| 52 | Azerbaijan | 32.60 | 2011 |
+| 53 | Benin | 32.40 | 2011 |
+| 54 | Iceland | 32.40 | 2011 |
+| 55 | Czech Republic | 32.40 | 2011 |
+| 56 | Austria | 32.30 | 2011 |
+| 57 | Papua New Guinea | 31.50 | 2011 |
+| 58 | Mali | 31.00 | 2011 |
+| 59 | Central African Republic | 30.40 | 2011 |
+| 60 | Costa Rica | 30.40 | 2011 |
+| 61 | Oman | 30.20 | 2011 |
+| 62 | Tajikistan | 30.20 | 2011 |
+| 63 | Tunisia | 29.50 | 2011 |
+| 64 | Yemen | 29.50 | 2011 |
+| 65 | Niger | 29.40 | 2011 |
+| 66 | Sao Tome and Principe | 29.40 | 2011 |
+| 67 | Nigeria | 29.10 | 2011 |
+| 68 | Guyana | 29.00 | 2011 |
+| 69 | Mozambique | 28.90 | 2011 |
+| 70 | Sierra Leone | 28.80 | 2011 |
+| 71 | Israel | 28.80 | 2011 |
+| 72 | Guyana | 28.60 | 2011 |
+| 73 | Bahamas, The | 28.20 | 2011 |
+| 74 | Taiwan | 28.10 | 2010 est. |
+| 75 | Macedonia | 28.10 | 2011 |
+| 76 | Rwanda | 28.00 | 2011 |
+| 77 | Sao Tome and Principe | 27.50 | 2011 |
+| 78 | Australia | 27.40 | 2011 |
+| 79 | Cyprus | 27.40 | 2011 |
+| 80 | Gambia, The | 27.30 | 2011 |
+| 81 | Norway | 27.20 | 2011 |
+| 82 | Faroe Islands | 27.20 | 2011 |
+| 83 | Ukraine | 27.00 | 2011 |
+| 84 | Bahamas, The | 26.90 | 2011 |
+| 85 | Poland | 26.80 | 2011 |
+| 86 | Seychelles | 26.50 | 2011 |
+| 87 | Netherlands | 26.20 | 2011 |
+| 88 | Qatar | 25.70 | 2011 |
+| 89 | Kyrgyzstan | 25.30 | 2011 |
+| 90 | Portugal | 25.10 | 2011 |
+| 91 | Hungary | 25.00 | 2011 |
+| 92 | Cuba | 24.80 | 2011 |
+| 93 | Guinea | 24.60 | 2011 |
+| 94 | Korea, South | 24.40 | 2011 est. |
+| 95 | Suriname | 23.90 | 2011 |
+| 96 | Samoa | 23.60 | 2011 |
+| 97 | Laos | 23.40 | 2011 |
+| 98 | Comoros | 23.00 | 2011 |
+| 99 | Madagascar | 22.90 | 2011 |
+| 100 | Libya | 22.80 | 2011 |
+| 101 | Chile | 22.80 | 2011 |
+| 102 | Faroe Islands | 22.70 | 2011 |
+| 103 | Iraq | 22.50 | 2011 |
+| 104 | Iraq | 22.30 | 2011 |
+| 105 | Ireland | 22.30 | 2011 |
+| 106 | Luxembourg | 22.20 | 2011 |
+| 107 | New Zealand | 22.20 | 2011 |
+| 108 | Kyrgyzstan | 22.10 | 2011 |
+| 109 | Senegal | 21.90 | 2011 |
+| 110 | Vanuatu | 21.80 | 2011 |
+| 111 | Kazakhstan | 21.70 | 2011 |
+| 112 | Argentina | 21.60 | 2011 |
+| 113 | Cuba | 21.50 | 2011 |
+| 114 | Slovakia | 21.40 | 2011 |
+| 115 | Iran | 21.40 | 2011 |
+| 116 | Congo, Democratic Republic of the | 21.30 | 2011 |
+| 117 | Mauritius | 21.30 | 2011 |
+| 118 | Angola | 21.20 | 2011 |
+| 119 | Liberia | 21.20 | 2011 |
+| 120 | Saint Lucia | 21.00 | 2011 |
+| 121 | Seychelles | 21.00 | 2011 |
+| 122 | Burkina Faso | 21.00 | 2011 |
+| 123 | Uzbekistan | 20.90 | 2011 |
+| 124 | Algeria | 20.60 | 2011 |
+| 125 | Aruba | 20.50 | 2011 |
+| 126 | Moldova | 20.50 | 2011 |
+| 127 | Congo, Republic of the | 20.30 | 2011 |
+| 128 | Switzerland | 20.20 | 2011 |
+| 129 | Kyrgyzstan | 20.10 | 2011 |
+| 130 | Benin | 20.00 | 2011 |
+| 131 | Slovenia | 19.90 | 2011 |
+| 132 | Tonga | 19.90 | 2011 |
+| 133 | Sri Lanka | 19.80 | 2011 |
+| 134 | Grenada | 19.80 | 2011 |
+| 135 | Japan | 19.70 | 2011 |
+| 136 | Morocco | 19.70 | 2011 |
+| 137 | New Caledonia | 19.50 | 2011 |
+| 138 | Suriname | 19.50 | 2011 |
+| 139 | Korea, North | 19.40 | 2011 est. |
+| 140 | Bangladesh | 19.40 | 2011 |
+| 141 | Tunisia | 19.30 | 2011 |
+| 142 | Uruguay | 19.30 | 2011 |
+| 143 | Maldives | 19.20 | 2011 |
+| 144 | Australia | 19.20 | 2011 |
+| 145 | Ghana | 19.10 | 2011 |
+| 146 | Somalia | 19.10 | 2011 |
+| 147 | Afghanistan | 19.00 | FY11/12 est. |
+| 148 | United States | 19.00 | 2011 |
+| 149 | Barbados | 18.90 | 2011 |
+| 150 | Romania | 18.90 | 2011 |
+| 151 | Burma | 18.80 | 2011 |
+| 152 | Belgium | 18.70 | 2011 |
+| 153 | Maldives | 18.70 | 2011 |
+| 154 | Philippines | 18.50 | 2011 |
+| 155 | Cape Verde | 18.50 | 2011 |
+| 156 | New Caledonia | 18.40 | 2011 |
+| 157 | Peru | 18.30 | 2011 |
+| 158 | Zambia | 18.20 | 2011 |
+| 159 | Morocco | 18.20 | 2011 |
+| 160 | Jamaica | 18.10 | 2011 |
+| 161 | Bosnia and Herzegovina | 18.10 | 2011 |
+| 162 | Vietnam | 18.00 | 2011 est. |
+| 163 | Mauritius | 17.80 | 2011 |
+| 164 | Spain | 17.80 | 2011 |
+| 165 | Qatar | 17.70 | 2011 |
+| 166 | Kuwait | 17.70 | 2011 |
+| 167 | Montenegro | 17.50 | 2011 est. |
+| 168 | Zimbabwe | 17.30 | 2011 |
+| 169 | Brazil | 17.30 | 2011 |
+| 170 | Georgia | 17.30 | 2011 |
+| 171 | Suriname | 17.20 | 2011 |
+| 172 | China | 17.10 | 2011 |
+| 173 | Uzbekistan | 17.10 | 2011 |
+| 174 | Central African Republic | 17.10 | 2011 |
+| 175 | Estonia | 17.00 | 2011 |
+| 176 | Montenegro | 16.90 | 2011 est. |
+| 177 | Denmark | 16.90 | 2011 |
+| 178 | Burkina Faso | 16.90 | 2011 |
+| 179 | Belgium | 16.90 | 2011 |
+| 180 | Zimbabwe | 16.90 | 2011 |
+| 181 | Armenia | 16.70 | 2011 |
+| 182 | Dominican Republic | 16.70 | 2011 |
+| 183 | France | 16.70 | 2011 |
+| 184 | Indonesia | 16.60 | 2011 |
+| 185 | Belize | 16.50 | 2011 |
+| 186 | Bangladesh | 16.50 | 2011 |
+| 187 | Bosnia and Herzegovina | 16.40 | 2011 |
+| 188 | Estonia | 16.30 | 2011 |
+| 189 | United Arab Emirates | 16.20 | 2011 |
+| 190 | Ireland | 16.10 | 2011 |
+| 191 | Macau | 15.90 | 2011 |
+| 192 | Brunei | 15.90 | 2011 |
+| 193 | Croatia | 15.80 | 2011 |
+| 194 | Latvia | 15.70 | 2011 |
+| 195 | Lithuania | 15.60 | 2011 |
+| 196 | Luxembourg | 15.60 | 2011 |
+| 197 | Aruba | 15.60 | 2011 |
+| 198 | Burundi | 15.60 | 2011 |
+| 199 | Japan | 15.50 | 2011 |
+| 200 | Ireland | 15.50 | 2011 |
+| 201 | Rwanda | 15.50 | 2011 |
+| 202 | Madagascar | 15.50 | 2011 |
+| 203 | Sudan | 15.50 | 2011 |
+| 204 | Jordan | 15.40 | 2011 |
+| 205 | Kuwait | 15.30 | 2011 |
+| 206 | Peru | 15.20 | 2011 |
+| 207 | Mozambique | 15.10 | 2011 |
+| 208 | Belarus | 15.10 | 2011 |
+| 209 | Slovakia | 15.10 | 2011 |
+| 210 | Jordan | 15.00 | 2011 |
+| 211 | Iceland | 15.00 | 2011 |
+| 212 | Paraguay | 15.00 | 2011 |
+| 213 | Pakistan | 15.00 | 2012 est. |
+| 214 | Moldova | 14.90 | 2011 |
+| 215 | Latvia | 14.90 | 2011 |
+| 216 | Saint Lucia | 14.90 | 2011 |
+| 217 | Equatorial Guinea | 14.80 | 2011 |
+| 218 | Philippines | 14.80 | 2011 |
+| 219 | Uzbekistan | 14.70 | 2011 |
+| 220 | Bosnia and Herzegovina | 14.70 | 2011 |
+| 221 | Mali | 14.50 | 2011 |
+| 222 | Libya | 14.30 | 2011 |
+| 223 | Tonga | 14.30 | 2011 |
+| 224 | Fiji | 14.30 | 2011 |
+| 225 | Tanzania | 14.30 | 2011 |
+| 226 | Ethiopia | 14.20 | 2011 |
+| 227 | Algeria | 14.20 | 2011 |
+| 228 | Libya | 14.20 | 2011 |
+| 229 | Uruguay | 14.20 | 2011 |
+| 230 | China | 14.10 | 2011 |
+| 231 | Burma | 14.10 | 2011 |
+| 232 | Netherlands | 14.10 | 2011 |
+| 233 | Guinea-Bissau | 14.00 | 2011 |
+| 234 | Bermuda | 14.00 | 2011 |
+| 235 | Malta | 14.00 | 2011 |
+| 236 | Saudi Arabia | 13.90 | 2011 |
+| 237 | Moldova | 13.90 | 2011 |
+| 238 | Taiwan | 13.80 | 2010 est. |
+| 239 | Bosnia and Herzegovina | 13.80 | 2011 |
+| 240 | Kuwait | 13.70 | 2011 |
+| 241 | Portugal | 13.60 | 2011 |
+| 242 | Saudi Arabia | 13.60 | 2011 |
+| 243 | United Arab Emirates | 13.50 | 2011 |
+| 244 | Grenada | 13.50 | 2011 |
+| 245 | Iraq | 13.40 | 2011 |
+| 246 | Laos | 13.40 | 2011 |
+| 247 | Yemen | 13.40 | 2011 |
+| 248 | Saudi Arabia | 13.40 | 2011 |
+| 249 | Cameroon | 13.40 | 2011 |
+| 250 | Italy | 13.30 | 2011 |
+| 251 | El Salvador | 13.30 | 2011 |
+| 252 | Azerbaijan | 13.30 | 2011 |
+| 253 | United States | 13.30 | 2011 |
+| 254 | Luxembourg | 13.20 | 2011 |
+| 255 | Denmark | 13.20 | 2011 |
+| 256 | Panama | 13.10 | 2011 |
+| 257 | Malaysia | 13.10 | 2011 |
+| 258 | Lebanon | 13.10 | 2011 |
+| 259 | Equatorial Guinea | 13.10 | 2011 |
+| 260 | Romania | 13.00 | 2011 |
+| 261 | Jordan | 12.90 | 2011 |
+| 262 | Somalia | 12.90 | 2011 |
+| 263 | New Caledonia | 12.90 | 2011 |
+| 264 | South Africa | 12.70 | 2011 |
+| 265 | Philippines | 12.70 | 2011 |
+| 266 | Malaysia | 12.70 | 2011 |
+| 267 | India | 12.70 | 2011 |
+| 268 | Rwanda | 12.60 | 2011 |
+| 269 | Panama | 12.50 | 2011 |
+| 270 | Sierra Leone | 12.50 | 2011 |
+| 271 | Belgium | 12.50 | 2011 |
+| 272 | New Zealand | 12.50 | 2011 |
+| 273 | Senegal | 12.40 | 2011 |
+| 274 | Malawi | 12.40 | 2011 |
+| 275 | Faroe Islands | 12.30 | 2011 |
+| 276 | Mali | 12.20 | 2011 |
+| 277 | Ethiopia | 12.20 | 2011 |
+| 278 | Croatia | 12.20 | 2011 |
+| 279 | Bulgaria | 12.20 | 2011 |
+| 280 | Bosnia and Herzegovina | 12.20 | 2011 |
+| 281 | Bolivia | 12.20 | 2011 |
+| 282 | Singapore | 12.20 | 2011 |
+| 283 | Russia | 12.20 | 2011 |
+| 284 | Faroe Islands | 12.10 | 2011 |
+| 285 | Grenada | 12.10 | 2011 |
+| 286 | Solomon Islands | 12.10 | 2011 |
+| 287 | Grenada | 12.10 | 2011 |
+| 288 | Portugal | 12.10 | 2011 |
+| 289 | Greenland | 12.00 | 2011 |
+| 290 | Saint Vincent and the Grenadines | 12.00 | 2011 |
+| 291 | Saint Vincent and the Grenadines | 12.00 | 2011 |
+| 292 | Thailand | 12.00 | 2011 |
+| 293 | Slovenia | 11.90 | 2011 |
+| 294 | Estonia | 11.90 | 2011 |
+| 295 | Armenia | 11.80 | 2011 |
+| 296 | Mozambique | 11.80 | 2011 |
+| 297 | Italy | 11.80 | 2011 |
+| 298 | Finland | 11.80 | 2011 |
+| 299 | Bahamas, The | 11.70 | 2011 |
+| 300 | Iraq | 11.70 | 2011 |
+| 301 | Bermuda | 11.70 | 2011 |
+| 302 | Zimbabwe | 11.70 | 2011 |
+| 303 | Nigeria | 11.60 | 2011 |
+| 304 | Uganda | 11.60 | 2011 |
+| 305 | Taiwan | 11.50 | 2010 est. |
+| 306 | Norway | 11.50 | 2011 |
+| 307 | Malaysia | 11.50 | 2011 |
+| 308 | Brunei | 11.40 | 2011 |
+| 309 | Paraguay | 11.40 | 2011 |
+| 310 | Cameroon | 11.40 | 2011 |
+| 311 | Armenia | 11.40 | 2011 |
+| 312 | Peru | 11.40 | 2011 |
+| 313 | Indonesia | 11.30 | 2011 |
+| 314 | Costa Rica | 11.30 | 2011 |
+| 315 | Cote d'Ivoire | 11.30 | 2011 |
+| 316 | Cote d'Ivoire | 11.20 | 2011 |
+| 317 | Latvia | 11.20 | 2011 |
+| 318 | Rwanda | 11.20 | 2011 |
+| 319 | Norway | 11.10 | 2011 |
+| 320 | Chile | 11.10 | 2011 |
+| 321 | Chile | 11.10 | 2011 |
+| 322 | Seychelles | 11.00 | 2011 |
+| 323 | Vietnam | 11.00 | 2011 est. |
+| 324 | Vietnam | 11.00 | 2011 est. |
+| 325 | Fiji | 11.00 | 2011 |
+| 326 | Singapore | 11.00 | 2011 |
+| 327 | United Kingdom | 10.90 | 2011 |
+| 328 | Oman | 10.90 | 2011 |
+| 329 | Honduras | 10.90 | 2011 |
+| 330 | Costa Rica | 10.90 | 2011 |
+| 331 | Equatorial Guinea | 10.90 | 2011 |
+| 332 | United Arab Emirates | 10.90 | 2011 |
+| 333 | Moldova | 10.80 | 2011 |
+| 334 | India | 10.80 | 2011 |
+| 335 | Libya | 10.70 | 2011 |
+| 336 | Saint Vincent and the Grenadines | 10.70 | 2011 |
+| 337 | Togo | 10.70 | 2011 |
+| 338 | Barbados | 10.70 | 2011 |
+| 339 | Yemen | 10.60 | 2011 |
+| 340 | Tonga | 10.60 | 2011 |
+| 341 | Spain | 10.60 | 2011 |
+| 342 | Oman | 10.60 | 2011 |
+| 343 | Mauritius | 10.50 | 2011 |
+| 344 | Equatorial Guinea | 10.50 | 2011 |
+| 345 | Zimbabwe | 10.50 | 2011 |
+| 346 | Thailand | 10.50 | 2011 |
+| 347 | Malta | 10.50 | 2011 |
+| 348 | Burundi | 10.50 | 2011 |
+| 349 | New Caledonia | 10.50 | 2011 |
+| 350 | Guatemala | 10.50 | 2011 |
+| 351 | Venezuela | 10.50 | 2011 |
+| 352 | Maldives | 10.40 | 2011 |
+| 353 | Georgia | 10.40 | 2011 |
+| 354 | Sweden | 10.40 | 2011 |
+| 355 | Singapore | 10.40 | 2011 |
+| 356 | Singapore | 10.40 | 2011 |
+| 357 | Oman | 10.40 | 2011 |
+| 358 | Tunisia | 10.30 | 2011 |
+| 359 | Niger | 10.30 | 2011 |
+| 360 | Switzerland | 10.30 | 2011 |
+| 361 | Liberia | 10.30 | 2011 |
+| 362 | Turkey | 10.30 | 2011 |
+| 363 | Uzbekistan | 10.30 | 2011 |
+| 364 | Belarus | 10.20 | 2011 |
+| 365 | Grenada | 10.20 | 2011 |
+| 366 | Ghana | 10.20 | 2011 |
+| 367 | Saudi Arabia | 10.20 | 2011 |
+| 368 | Comoros | 10.20 | 2011 |
+| 369 | Paraguay | 10.20 | 2011 |
+| 370 | Panama | 10.20 | 2011 |
+| 371 | Cyprus | 10.20 | 2011 |
+| 372 | Tonga | 10.10 | 2011 |
+| 373 | Korea, South | 10.10 | 2011 est. |
+| 374 | Brazil | 10.10 | 2011 |
+| 375 | Croatia | 10.10 | 2011 |
+| 376 | Montenegro | 10.10 | 2011 est. |
+| 377 | Maldives | 10.10 | 2011 |
+| 378 | Seychelles | 10.00 | 2011 |
+| 379 | Bangladesh | 10.00 | 2011 |
+| 380 | Finland | 10.00 | 2011 |
+| 381 | Belize | 10.00 | 2011 |
+| 382 | Ecuador | 9.90 | 2011 |
+| 383 | Hong Kong | 9.90 | 2011 est. |
+| 384 | Denmark | 9.90 | 2011 |
+| 385 | United Kingdom | 9.90 | 2011 |
+| 386 | Georgia | 9.90 | 2011 |
+| 387 | Kenya | 9.90 | 2011 |
+| 388 | Cameroon | 9.80 | 2011 |
+| 389 | Saint Kitts and Nevis | 9.80 | 2011 |
+| 390 | Algeria | 9.80 | 2011 |
+| 391 | Bulgaria | 9.70 | 2011 |
+| 392 | Barbados | 9.70 | 2011 |
+| 393 | Uganda | 9.70 | 2011 |
+| 394 | Pakistan | 9.70 | 2012 est. |
+| 395 | Lithuania | 9.70 | 2011 |
+| 396 | Nepal | 9.60 | 2011 |
+| 397 | Costa Rica | 9.60 | 2011 |
+| 398 | Thailand | 9.60 | 2011 |
+| 399 | Qatar | 9.60 | 2011 |
+| 400 | Kuwait | 9.60 | 2011 |
+| 401 | Kenya | 9.60 | 2011 |
+| 402 | Burundi | 9.50 | 2011 |
+| 403 | Equatorial Guinea | 9.50 | 2011 |
+| 404 | Saint Vincent and the Grenadines | 9.50 | 2011 |
+| 405 | Greece | 9.50 | 2011 |
+| 406 | Congo, Democratic Republic of the | 9.50 | 2011 |
+| 407 | Pakistan | 9.50 | 2012 est. |
+| 408 | Kazakhstan | 9.40 | 2011 |
+| 409 | Jordan | 9.40 | 2011 |
+| 410 | Gabon | 9.30 | 2011 |
+| 411 | Sweden | 9.30 | 2011 |
+| 412 | Gambia, The | 9.30 | 2011 |
+| 413 | Netherlands | 9.30 | 2011 |
+| 414 | Panama | 9.30 | 2011 |
+| 415 | Finland | 9.20 | 2011 |
+| 416 | Oman | 9.20 | 2011 |
+| 417 | Sri Lanka | 9.20 | 2011 |
+| 418 | Pakistan | 9.20 | 2012 est. |
+| 419 | Guinea | 9.20 | 2011 |
+| 420 | Sierra Leone | 9.20 | 2011 |
+| 421 | Angola | 9.20 | 2011 |
+| 422 | Indonesia | 9.10 | 2011 |
+| 423 | Iran | 9.10 | 2011 |
+| 424 | Iceland | 9.00 | 2011 |
+| 425 | Burundi | 9.00 | 2011 |
+| 426 | Uganda | 9.00 | 2011 |
+| 427 | Czech Republic | 9.00 | 2011 |
+| 428 | Afghanistan | 9.00 | FY11/12 est. |
+| 429 | Tonga | 8.90 | 2011 |
+| 430 | Malawi | 8.90 | 2011 |
+| 431 | Algeria | 8.90 | 2011 |
+| 432 | Lithuania | 8.90 | 2011 |
+| 433 | Saint Vincent and the Grenadines | 8.90 | 2011 |
+| 434 | Philippines | 8.90 | 2011 |
+| 435 | Australia | 8.90 | 2011 |
+| 436 | Suriname | 8.90 | 2011 |
+| 437 | Brazil | 8.90 | 2011 |
+| 438 | Saint Vincent and the Grenadines | 8.90 | 2011 |
+| 439 | Cameroon | 8.90 | 2011 |
+| 440 | Aruba | 8.90 | 2011 |
+| 441 | Mauritania | 8.80 | 2011 |
+| 442 | Malawi | 8.80 | 2011 |
+| 443 | Iran | 8.80 | 2011 |
+| 444 | Barbados | 8.80 | 2011 |
+| 445 | Armenia | 8.80 | 2011 |
+| 446 | Uganda | 8.80 | 2011 |
+| 447 | Bulgaria | 8.70 | 2011 |
+| 448 | Uzbekistan | 8.70 | 2011 |
+| 449 | Sao Tome and Principe | 8.70 | 2011 |
+| 450 | Egypt | 8.70 | 2011 |
+| 451 | Bahamas, The | 8.60 | 2011 |
+| 452 | El Salvador | 8.60 | 2011 |
+| 453 | Estonia | 8.60 | 2011 |
+| 454 | Ghana | 8.60 | 2011 |
+| 455 | South Africa | 8.60 | 2011 |
+| 456 | Tonga | 8.60 | 2011 |
+| 457 | New Zealand | 8.50 | 2011 |
+| 458 | Saint Lucia | 8.50 | 2011 |
+| 459 | Costa Rica | 8.50 | 2011 |
+| 460 | Maldives | 8.50 | 2011 |
+| 461 | Mozambique | 8.50 | 2011 |
+| 462 | Gabon | 8.50 | 2011 |
+| 463 | Lebanon | 8.40 | 2011 |
+| 464 | Kuwait | 8.40 | 2011 |
+| 465 | Kenya | 8.40 | 2011 |
+| 466 | Burkina Faso | 8.40 | 2011 |
+| 467 | France | 8.30 | 2011 |
+| 468 | Dominica | 8.30 | 2011 |
+| 469 | Croatia | 8.30 | 2011 |
+| 470 | Togo | 8.30 | 2011 |
+| 471 | Togo | 8.30 | 2011 |
+| 472 | Tajikistan | 8.30 | 2011 |
+| 473 | Spain | 8.30 | 2011 |
+| 474 | Spain | 8.30 | 2011 |
+| 475 | Paraguay | 8.30 | 2011 |
+| 476 | Nicaragua | 8.30 | 2011 |
+| 477 | Malaysia | 8.30 | 2011 |
+| 478 | Kazakhstan | 8.30 | 2011 |
+| 479 | Maldives | 8.20 | 2011 |
+| 480 | Togo | 8.20 | 2011 |
+| 481 | Cambodia | 8.20 | 2011 |
+| 482 | Mauritania | 8.10 | 2011 |
+| 483 | Mauritius | 8.10 | 2011 |
+| 484 | Brunei | 8.10 | 2011 |
+| 485 | Ghana | 8.10 | 2011 |
+| 486 | Indonesia | 8.10 | 2011 |
+| 487 | Bulgaria | 8.10 | 2011 |
+| 488 | Kenya | 8.10 | 2011 |
+| 489 | Iran | 8.10 | 2011 |
+| 490 | Saint Lucia | 8.10 | 2011 |
+| 491 | Indonesia | 8.10 | 2011 |
+| 492 | Japan | 8.00 | 2011 |
+| 493 | Iran | 8.00 | 2011 |
+| 494 | Armenia | 8.00 | 2011 |
+| 495 | Bermuda | 8.00 | 2011 |
+| 496 | Central African Republic | 7.90 | 2011 |
+| 497 | Greece | 7.90 | 2011 |
+| 498 | Greece | 7.90 | 2011 |
+| 499 | Israel | 7.90 | 2011 |
+| 500 | United Kingdom | 7.90 | 2011 |
+| 501 | Saint Lucia | 7.90 | 2011 |
+| 502 | Slovakia | 7.90 | 2011 |
+| 503 | South Africa | 7.90 | 2011 |
+| 504 | Syria | 7.90 | 2011 |
+| 505 | Macau | 7.90 | 2011 |
+| 506 | Albania | 7.80 | 2011 |
+| 507 | Austria | 7.80 | 2011 |
+| 508 | Cambodia | 7.80 | 2011 |
+| 509 | China | 7.80 | 2011 |
+| 510 | Ethiopia | 7.80 | 2011 |
+| 511 | Faroe Islands | 7.80 | 2011 |
+| 512 | Kyrgyzstan | 7.80 | 2011 |
+| 513 | Nigeria | 7.80 | 2011 |
+| 514 | Saudi Arabia | 7.80 | 2011 |
+| 515 | Slovakia | 7.80 | 2011 |
+| 516 | Switzerland | 7.80 | 2011 |
+| 517 | Tanzania | 7.80 | 2011 |
+| 518 | Tanzania | 7.80 | 2011 |
+| 519 | Zambia | 7.80 | 2011 |
+| 520 | Lebanon | 7.70 | 2011 |
+| 521 | Slovenia | 7.70 | 2011 |
+| 522 | Belarus | 7.70 | 2011 |
+| 523 | Philippines | 7.70 | 2011 |
+| 524 | Netherlands | 7.70 | 2011 |
+| 525 | Mauritius | 7.70 | 2011 |
+| 526 | Malta | 7.70 | 2011 |
+| 527 | Romania | 7.60 | 2011 |
+| 528 | Azerbaijan | 7.60 | 2011 |
+| 529 | Equatorial Guinea | 7.60 | 2011 |
+| 530 | Comoros | 7.60 | 2011 |
+| 531 | Slovakia | 7.50 | 2011 |
+| 532 | Cambodia | 7.50 | 2011 |
+| 533 | Tonga | 7.50 | 2011 |
+| 534 | Yemen | 7.50 | 2011 |
+| 535 | Guinea | 7.50 | 2011 |
+| 536 | Armenia | 7.50 | 2011 |
+| 537 | Malta | 7.40 | 2011 |
+| 538 | United Kingdom | 7.40 | 2011 |
+| 539 | France | 7.40 | 2011 |
+| 540 | France | 7.40 | 2011 |
+| 541 | Burundi | 7.40 | 2011 |
+| 542 | Burundi | 7.40 | 2011 |
+| 543 | Sweden | 7.40 | 2011 |
+| 544 | Jamaica | 7.30 | 2011 |
+| 545 | Honduras | 7.30 | 2011 |
+| 546 | Georgia | 7.30 | 2011 |
+| 547 | Egypt | 7.30 | 2011 |
+| 548 | Dominica | 7.30 | 2011 |
+| 549 | Bangladesh | 7.30 | 2011 |
+| 550 | Argentina | 7.30 | 2011 |
+| 551 | Luxembourg | 7.30 | 2011 |
+| 552 | Sierra Leone | 7.30 | 2011 |
+| 553 | Bulgaria | 7.20 | 2011 |
+| 554 | Cote d'Ivoire | 7.20 | 2011 |
+| 555 | Belgium | 7.20 | 2011 |
+| 556 | Macedonia | 7.20 | 2011 |
+| 557 | Thailand | 7.20 | 2011 |
+| 558 | Switzerland | 7.10 | 2011 |
+| 559 | Cuba | 7.10 | 2011 |
+| 560 | Saint Lucia | 7.10 | 2011 |
+| 561 | Nigeria | 7.10 | 2011 |
+| 562 | Cuba | 7.10 | 2011 |
+| 563 | Central African Republic | 7.10 | 2011 |
+| 564 | Syria | 7.10 | 2011 |
+| 565 | Norway | 7.10 | 2011 |
+| 566 | Korea, South | 7.10 | 2011 est. |
+| 567 | United Kingdom | 7.10 | 2011 |
+| 568 | Mauritius | 7.10 | 2011 |
+| 569 | New Zealand | 7.10 | 2011 |
+| 570 | Lebanon | 7.00 | 2011 |
+| 571 | Uganda | 7.00 | 2011 |
+| 572 | Tajikistan | 7.00 | 2011 |
+| 573 | Saint Vincent and the Grenadines | 7.00 | 2011 |
+| 574 | Dominica | 7.00 | 2011 |
+| 575 | Papua New Guinea | 7.00 | 2011 |
+| 576 | Panama | 7.00 | 2011 |
+| 577 | Ireland | 7.00 | 2011 |
+| 578 | United States | 7.00 | 2011 |
+| 579 | Latvia | 6.90 | 2011 |
+| 580 | Sierra Leone | 6.90 | 2011 |
+| 581 | Uruguay | 6.80 | 2011 |
+| 582 | Benin | 6.80 | 2011 |
+| 583 | Guatemala | 6.80 | 2011 |
+| 584 | Ethiopia | 6.80 | 2011 |
+| 585 | Finland | 6.80 | 2011 |
+| 586 | Chad | 6.80 | 2011 |
+| 587 | Slovakia | 6.70 | 2011 |
+| 588 | Spain | 6.70 | 2011 |
+| 589 | Tajikistan | 6.70 | 2011 |
+| 590 | Tajikistan | 6.70 | 2011 |
+| 591 | Tanzania | 6.70 | 2011 |
+| 592 | Uganda | 6.70 | 2011 |
+| 593 | Saint Vincent and the Grenadines | 6.70 | 2011 |
+| 594 | Djibouti | 6.70 | 2011 |
+| 595 | France | 6.70 | 2011 |
+| 596 | Lebanon | 6.70 | 2011 |
+| 597 | Lithuania | 6.70 | 2011 |
+| 598 | Madagascar | 6.70 | 2011 |
+| 599 | Algeria | 6.70 | 2011 |
+| 600 | Taiwan | 6.60 | 2010 est. |
+| 601 | Tunisia | 6.60 | 2011 |
+| 602 | Burkina Faso | 6.60 | 2011 |
+| 603 | Burma | 6.60 | 2011 |
+| 604 | Saint Lucia | 6.60 | 2011 |
+| 605 | Mozambique | 6.60 | 2011 |
+| 606 | Paraguay | 6.60 | 2011 |
+| 607 | Poland | 6.60 | 2011 |
+| 608 | Indonesia | 6.60 | 2011 |
+| 609 | Sri Lanka | 6.50 | 2011 |
+| 610 | Sweden | 6.50 | 2011 |
+| 611 | Norway | 6.50 | 2011 |
+| 612 | Cuba | 6.50 | 2011 |
+| 613 | Honduras | 6.50 | 2011 |
+| 614 | Syria | 6.50 | 2011 |
+| 615 | Slovenia | 6.40 | 2011 |
+| 616 | Sweden | 6.40 | 2011 |
+| 617 | Bolivia | 6.40 | 2011 |
+| 618 | Cameroon | 6.40 | 2011 |
+| 619 | Congo, Republic of the | 6.40 | 2011 |
+| 620 | Russia | 6.40 | 2011 |
+| 621 | Greenland | 6.40 | 2011 |
+| 622 | Malawi | 6.40 | 2011 |
+| 623 | Malta | 6.40 | 2011 |
+| 624 | Poland | 6.40 | 2011 |
+| 625 | Fiji | 6.40 | 2011 |
+| 626 | Togo | 6.30 | 2011 |
+| 627 | Albania | 6.30 | 2011 |
+| 628 | Azerbaijan | 6.30 | 2011 |
+| 629 | Central African Republic | 6.30 | 2011 |
+| 630 | Czech Republic | 6.30 | 2011 |
+| 631 | Qatar | 6.30 | 2011 |
+| 632 | Lithuania | 6.30 | 2011 |
+| 633 | Mali | 6.30 | 2011 |
+| 634 | Mongolia | 6.30 | 2011 |
+| 635 | Poland | 6.30 | 2011 |
+| 636 | Ethiopia | 6.30 | 2011 |
+| 637 | Suriname | 6.20 | 2011 |
+| 638 | Turkey | 6.20 | 2011 |
+| 639 | Armenia | 6.20 | 2011 |
+| 640 | Ecuador | 6.20 | 2011 |
+| 641 | Georgia | 6.20 | 2011 |
+| 642 | Honduras | 6.20 | 2011 |
+| 643 | Romania | 6.20 | 2011 |
+| 644 | Kenya | 6.20 | 2011 |
+| 645 | Mauritius | 6.20 | 2011 |
+| 646 | Morocco | 6.20 | 2011 |
+| 647 | Papua New Guinea | 6.20 | 2011 |
+| 648 | Qatar | 6.20 | 2011 |
+| 649 | India | 6.20 | 2011 |
+| 650 | Zimbabwe | 6.10 | 2011 |
+| 651 | Algeria | 6.10 | 2011 |
+| 652 | Congo, Republic of the | 6.10 | 2011 |
+| 653 | Egypt | 6.10 | 2011 |
+| 654 | Greece | 6.10 | 2011 |
+| 655 | Liberia | 6.10 | 2011 |
+| 656 | Malawi | 6.10 | 2011 |
+| 657 | Moldova | 6.10 | 2011 |
+| 658 | Saint Vincent and the Grenadines | 6.10 | 2011 |
+| 659 | Sierra Leone | 6.00 | 2011 |
+| 660 | South Africa | 6.00 | 2011 |
+| 661 | Tajikistan | 6.00 | 2011 |
+| 662 | Turkey | 6.00 | 2011 |
+| 663 | Malawi | 6.00 | 2011 |
+| 664 | Uruguay | 6.00 | 2011 |
+| 665 | Yemen | 6.00 | 2011 |
+| 666 | Cambodia | 6.00 | 2011 |
+| 667 | Gabon | 6.00 | 2011 |
+| 668 | United Kingdom | 6.00 | 2011 |
+| 669 | Cameroon | 5.90 | 2011 |
+| 670 | Cote d'Ivoire | 5.90 | 2011 |
+| 671 | Fiji | 5.90 | 2011 |
+| 672 | Italy | 5.90 | 2011 |
+| 673 | Turkey | 5.80 | 2011 |
+| 674 | Cote d'Ivoire | 5.80 | 2011 |
+| 675 | Cote d'Ivoire | 5.80 | 2011 |
+| 676 | Fiji | 5.80 | 2011 |
+| 677 | Sierra Leone | 5.80 | 2011 |
+| 678 | Lithuania | 5.80 | 2011 |
+| 679 | Yemen | 5.80 | 2011 |
+| 680 | Ukraine | 5.80 | 2011 |
+| 681 | Australia | 5.80 | 2011 |
+| 682 | Liberia | 5.70 | 2011 |
+| 683 | Madagascar | 5.70 | 2011 |
+| 684 | Romania | 5.70 | 2011 |
+| 685 | Slovenia | 5.70 | 2011 |
+| 686 | Togo | 5.70 | 2011 |
+| 687 | Bolivia | 5.70 | 2011 |
+| 688 | Brunei | 5.70 | 2011 |
+| 689 | Cameroon | 5.70 | 2011 |
+| 690 | Croatia | 5.70 | 2011 |
+| 691 | Denmark | 5.70 | 2011 |
+| 692 | Hungary | 5.70 | 2011 |
+| 693 | Ireland | 5.70 | 2011 |
+| 694 | United Arab Emirates | 5.60 | 2011 |
+| 695 | Israel | 5.60 | 2011 |
+| 696 | Liberia | 5.60 | 2011 |
+| 697 | Gambia, The | 5.60 | 2011 |
+| 698 | Russia | 5.60 | 2011 |
+| 699 | Saint Lucia | 5.60 | 2011 |
+| 700 | Chad | 5.60 | 2011 |
+| 701 | Norway | 5.60 | 2011 |
+| 702 | United Arab Emirates | 5.50 | 2011 |
+| 703 | Greece | 5.50 | 2011 |
+| 704 | Kyrgyzstan | 5.50 | 2011 |
+| 705 | Lebanon | 5.50 | 2011 |
+| 706 | Madagascar | 5.50 | 2011 |
+| 707 | Poland | 5.50 | 2011 |
+| 708 | Portugal | 5.50 | 2011 |
+| 709 | Singapore | 5.50 | 2011 |
+| 710 | Sweden | 5.50 | 2011 |
+| 711 | Argentina | 5.50 | 2011 |
+| 712 | Argentina | 5.50 | 2011 |
+| 713 | Chile | 5.50 | 2011 |
+| 714 | Chile | 5.50 | 2011 |
+| 715 | Cyprus | 5.50 | 2011 |
+| 716 | Czech Republic | 5.50 | 2011 |
+| 717 | Denmark | 5.50 | 2011 |
+| 718 | Equatorial Guinea | 5.50 | 2011 |
+| 719 | Georgia | 5.50 | 2011 |
+| 720 | Venezuela | 5.50 | 2011 |
+| 721 | Zambia | 5.40 | 2011 |
+| 722 | Indonesia | 5.40 | 2011 |
+| 723 | Italy | 5.40 | 2011 |
+| 724 | Jamaica | 5.40 | 2011 |
+| 725 | Liberia | 5.40 | 2011 |
+| 726 | Luxembourg | 5.40 | 2011 |
+| 727 | Macedonia | 5.40 | 2011 |
+| 728 | Mali | 5.40 | 2011 |
+| 729 | Nepal | 5.40 | 2011 |
+| 730 | Paraguay | 5.40 | 2011 |
+| 731 | Peru | 5.40 | 2011 |
+| 732 | Saint Lucia | 5.40 | 2011 |
+| 733 | Thailand | 5.40 | 2011 |
+| 734 | Azerbaijan | 5.40 | 2011 |
+| 735 | Barbados | 5.40 | 2011 |
+| 736 | Congo, Democratic Republic of the | 5.40 | 2011 |
+| 737 | Hungary | 5.40 | 2011 |
+| 738 | Hungary | 5.40 | 2011 |
+| 739 | Italy | 5.40 | 2011 |
+| 740 | United Kingdom | 5.30 | 2011 |
+| 741 | Kazakhstan | 5.30 | 2011 |
+| 742 | Oman | 5.30 | 2011 |
+| 743 | Peru | 5.30 | 2011 |
+| 744 | Tonga | 5.30 | 2011 |
+| 745 | Armenia | 5.30 | 2011 |
+| 746 | Iran | 5.30 | 2011 |
+| 747 | Azerbaijan | 5.30 | 2011 |
+| 748 | Brazil | 5.30 | 2011 |
+| 749 | Central African Republic | 5.30 | 2011 |
+| 750 | Cote d'Ivoire | 5.30 | 2011 |
+| 751 | India | 5.30 | 2011 |
+| 752 | Armenia | 5.30 | 2011 |
+| 753 | Japan | 5.20 | 2011 |
+| 754 | Guinea | 5.20 | 2011 |
+| 755 | Latvia | 5.20 | 2011 |
+| 756 | Libya | 5.20 | 2011 |
+| 757 | Rwanda | 5.20 | 2011 |
+| 758 | Saint Kitts and Nevis | 5.20 | 2011 |
+| 759 | Slovakia | 5.20 | 2011 |
+| 760 | Sweden | 5.20 | 2011 |
+| 761 | Albania | 5.20 | 2011 |
+| 762 | Bolivia | 5.20 | 2011 |
+| 763 | Bulgaria | 5.20 | 2011 |
+| 764 | Ecuador | 5.20 | 2011 |
+| 765 | Egypt | 5.20 | 2011 |
+| 766 | El Salvador | 5.20 | 2011 |
+| 767 | Finland | 5.20 | 2011 |
+| 768 | Greece | 5.20 | 2011 |
+| 769 | Guinea | 5.20 | 2011 |
+| 770 | Kazakhstan | 5.20 | 2011 |
+| 771 | Malaysia | 5.10 | 2011 |
+| 772 | Guinea | 5.10 | 2011 |
+| 773 | New Caledonia | 5.10 | 2011 |
+| 774 | Portugal | 5.10 | 2011 |
+| 775 | Tajikistan | 5.10 | 2011 |
+| 776 | Trinidad and Tobago | 5.10 | 2011 |
+| 777 | Albania | 5.10 | 2011 |
+| 778 | Bahamas, The | 5.10 | 2011 |
+| 779 | Djibouti | 5.10 | 2011 |
+| 780 | Ethiopia | 5.10 | 2011 |
+| 781 | Fiji | 5.10 | 2011 |
+| 782 | Gabon | 5.10 | 2011 |
+| 783 | Georgia | 5.10 | 2011 |
+| 784 | Guatemala | 5.10 | 2011 |
+| 785 | Mauritania | 5.10 | 2011 |
+| 786 | Israel | 5.00 | 2011 |
+| 787 | Hungary | 5.00 | 2011 |
+| 788 | Madagascar | 5.00 | 2011 |
+| 789 | Malawi | 5.00 | 2011 |
+| 790 | Mali | 5.00 | 2011 |
+| 791 | Morocco | 5.00 | 2011 |
+| 792 | Nigeria | 5.00 | 2011 |
+| 793 | Pakistan | 5.00 | 2012 est. |
+| 794 | Sri Lanka | 5.00 | 2011 |
+| 795 | Sri Lanka | 5.00 | 2011 |
+| 796 | Thailand | 5.00 | 2011 |
+| 797 | Turkey | 5.00 | 2011 |
+| 798 | Turkmenistan | 5.00 | 2011 |
+| 799 | Afghanistan | 5.00 | FY11/12 est. |
+| 800 | Equatorial Guinea | 5.00 | 2011 |
+| 801 | France | 5.00 | 2011 |
+| 802 | Guinea | 5.00 | 2011 |
+| 803 | Kyrgyzstan | 5.00 | 2011 |
+| 804 | Sao Tome and Principe | 4.90 | 2011 |
+| 805 | Finland | 4.90 | 2011 |
+| 806 | Kenya | 4.90 | 2011 |
+| 807 | Latvia | 4.90 | 2011 |
+| 808 | Liberia | 4.90 | 2011 |
+| 809 | Macedonia | 4.90 | 2011 |
+| 810 | Barbados | 4.90 | 2011 |
+| 811 | Burkina Faso | 4.90 | 2011 |
+| 812 | Congo, Republic of the | 4.90 | 2011 |
+| 813 | Denmark | 4.90 | 2011 |
+| 814 | Ecuador | 4.90 | 2011 |
+| 815 | Egypt | 4.90 | 2011 |
+| 816 | Estonia | 4.90 | 2011 |
+| 817 | Estonia | 4.90 | 2011 |
+| 818 | Guyana | 4.90 | 2011 |
+| 819 | Saudi Arabia | 4.80 | 2011 |
+| 820 | Cameroon | 4.80 | 2011 |
+| 821 | Sweden | 4.80 | 2011 |
+| 822 | Switzerland | 4.80 | 2011 |
+| 823 | Togo | 4.80 | 2011 |
+| 824 | Trinidad and Tobago | 4.80 | 2011 |
+| 825 | Hungary | 4.80 | 2011 |
+| 826 | Iraq | 4.80 | 2011 |
+| 827 | Libya | 4.80 | 2011 |
+| 828 | Lithuania | 4.80 | 2011 |
+| 829 | Moldova | 4.80 | 2011 |
+| 830 | Netherlands | 4.80 | 2011 |
+| 831 | New Caledonia | 4.80 | 2011 |
+| 832 | Peru | 4.80 | 2011 |
+| 833 | Sao Tome and Principe | 4.80 | 2011 |
+| 834 | Benin | 4.80 | 2011 |
+| 835 | Suriname | 4.80 | 2011 |
+| 836 | Sweden | 4.70 | 2011 |
+| 837 | Togo | 4.70 | 2011 |
+| 838 | Tonga | 4.70 | 2011 |
+| 839 | Turkmenistan | 4.70 | 2011 |
+| 840 | Yemen | 4.70 | 2011 |
+| 841 | Italy | 4.70 | 2011 |
+| 842 | Ghana | 4.70 | 2011 |
+| 843 | Bolivia | 4.70 | 2011 |
+| 844 | Chile | 4.70 | 2011 |
+| 845 | Colombia | 4.70 | 2011 |
+| 846 | Equatorial Guinea | 4.70 | 2011 |
+| 847 | Finland | 4.70 | 2011 |
+| 848 | Georgia | 4.70 | 2011 |
+| 849 | Maldives | 4.70 | 2011 |
+| 850 | Senegal | 4.60 | 2011 |
+| 851 | Gabon | 4.60 | 2011 |
+| 852 | Uganda | 4.60 | 2011 |
+| 853 | Ukraine | 4.60 | 2011 |
+| 854 | Hungary | 4.60 | 2011 |
+| 855 | Japan | 4.60 | 2011 |
+| 856 | Mauritania | 4.60 | 2011 |
+| 857 | Morocco | 4.60 | 2011 |
+| 858 | Nicaragua | 4.60 | 2011 |
+| 859 | Oman | 4.60 | 2011 |
+| 860 | Peru | 4.60 | 2011 |
+| 861 | Philippines | 4.60 | 2011 |
+| 862 | Russia | 4.60 | 2011 |
+| 863 | Albania | 4.60 | 2011 |
+| 864 | Armenia | 4.60 | 2011 |
+| 865 | Belgium | 4.60 | 2011 |
+| 866 | Czech Republic | 4.60 | 2011 |
+| 867 | Czech Republic | 4.60 | 2011 |
+| 868 | Ecuador | 4.60 | 2011 |
+| 869 | Trinidad and Tobago | 4.60 | 2011 |
+| 870 | Singapore | 4.50 | 2011 |
+| 871 | Faroe Islands | 4.50 | 2011 |
+| 872 | Tanzania | 4.50 | 2011 |
+| 873 | United States | 4.50 | 2011 |
+| 874 | Israel | 4.50 | 2011 |
+| 875 | Kazakhstan | 4.50 | 2011 |
+| 876 | Kazakhstan | 4.50 | 2011 |
+| 877 | Malaysia | 4.50 | 2011 |
+| 878 | Mauritania | 4.50 | 2011 |
+| 879 | Pakistan | 4.50 | 2012 est. |
+| 880 | Poland | 4.50 | 2011 |
+| 881 | Rwanda | 4.50 | 2011 |
+| 882 | Aruba | 4.50 | 2011 |
+| 883 | Barbados | 4.50 | 2011 |
+| 884 | Belarus | 4.50 | 2011 |
+| 885 | Belgium | 4.50 | 2011 |
+| 886 | Dominica | 4.50 | 2011 |
+| 887 | Solomon Islands | 4.50 | 2011 |
+| 888 | Sri Lanka | 4.40 | 2011 |
+| 889 | Taiwan | 4.40 | 2010 est. |
+| 890 | Thailand | 4.40 | 2011 |
+| 891 | Turkey | 4.40 | 2011 |
+| 892 | United Arab Emirates | 4.40 | 2011 |
+| 893 | Zambia | 4.40 | 2011 |
+| 894 | Iceland | 4.40 | 2011 |
+| 895 | Jordan | 4.40 | 2011 |
+| 896 | Panama | 4.40 | 2011 |
+| 897 | Algeria | 4.40 | 2011 |
+| 898 | Austria | 4.40 | 2011 |
+| 899 | Bangladesh | 4.40 | 2011 |
+| 900 | Belize | 4.40 | 2011 |
+| 901 | Benin | 4.40 | 2011 |
+| 902 | Brunei | 4.40 | 2011 |
+| 903 | China | 4.40 | 2011 |
+| 904 | Congo, Republic of the | 4.40 | 2011 |
+| 905 | Congo, Republic of the | 4.40 | 2011 |
+| 906 | Guinea | 4.40 | 2011 |
+| 907 | Burkina Faso | 4.30 | 2011 |
+| 908 | France | 4.30 | 2011 |
+| 909 | Jamaica | 4.30 | 2011 |
+| 910 | Cambodia | 4.30 | 2011 |
+| 911 | Uruguay | 4.30 | 2011 |
+| 912 | Iraq | 4.30 | 2011 |
+| 913 | Uganda | 4.30 | 2011 |
+| 914 | Paraguay | 4.30 | 2011 |
+| 915 | Bulgaria | 4.30 | 2011 |
+| 916 | Nigeria | 4.30 | 2011 |
+| 917 | Denmark | 4.30 | 2011 |
+| 918 | New Caledonia | 4.30 | 2011 |
+| 919 | Turkmenistan | 4.30 | 2011 |
+| 920 | Mauritania | 4.30 | 2011 |
+| 921 | Comoros | 4.30 | 2011 |
+| 922 | Guyana | 4.30 | 2011 |
+| 923 | Guyana | 4.30 | 2011 |
+| 924 | Switzerland | 4.30 | 2011 |
+| 925 | Luxembourg | 4.30 | 2011 |
+| 926 | Burundi | 4.30 | 2011 |
+| 927 | Bangladesh | 4.20 | 2011 |
+| 928 | Austria | 4.20 | 2011 |
+| 929 | Angola | 4.20 | 2011 |
+| 930 | Saint Kitts and Nevis | 4.20 | 2011 |
+| 931 | Russia | 4.20 | 2011 |
+| 932 | Poland | 4.20 | 2011 |
+| 933 | Panama | 4.20 | 2011 |
+| 934 | Ghana | 4.20 | 2011 |
+| 935 | Syria | 4.20 | 2011 |
+| 936 | Malawi | 4.20 | 2011 |
+| 937 | Kyrgyzstan | 4.20 | 2011 |
+| 938 | Kenya | 4.20 | 2011 |
+| 939 | Czech Republic | 4.20 | 2011 |
+| 940 | Ireland | 4.20 | 2011 |
+| 941 | Senegal | 4.20 | 2011 |
+| 942 | Egypt | 4.20 | 2011 |
+| 943 | Egypt | 4.20 | 2011 |
+| 944 | Barbados | 4.20 | 2011 |
+| 945 | Benin | 4.20 | 2011 |
+| 946 | Bangladesh | 4.20 | 2011 |
+| 947 | Colombia | 4.20 | 2011 |
+| 948 | Canada | 4.20 | 2011 |
+| 949 | Cameroon | 4.10 | 2011 |
+| 950 | Peru | 4.10 | 2011 |
+| 951 | New Caledonia | 4.10 | 2011 |
+| 952 | Malaysia | 4.10 | 2011 |
+| 953 | Malawi | 4.10 | 2011 |
+| 954 | Luxembourg | 4.10 | 2011 |
+| 955 | India | 4.10 | 2011 |
+| 956 | Suriname | 4.10 | 2011 |
+| 957 | South Africa | 4.10 | 2011 |
+| 958 | Niger | 4.10 | 2011 |
+| 959 | Equatorial Guinea | 4.10 | 2011 |
+| 960 | El Salvador | 4.10 | 2011 |
+| 961 | Hong Kong | 4.00 | 2011 est. |
+| 962 | Guyana | 4.00 | 2011 |
+| 963 | Venezuela | 4.00 | 2011 |
+| 964 | Slovenia | 4.00 | 2011 |
+| 965 | Israel | 4.00 | 2011 |
+| 966 | Mauritania | 4.00 | 2011 |
+| 967 | China | 4.00 | 2011 |
+| 968 | Vietnam | 3.70 | 2011 est. |
+| 969 | Korea, North | 3.60 | 2011 est. |
+| 970 | Bahrain | 3.30 | 2011 |
+| 971 | Bahrain | 2.20 | 2011 |
+| 972 | Bahrain | 2.00 | 2011 |
+| 973 | Bahrain | 1.90 | 2011 |

@@ -1,0 +1,9 @@
+New Zealand occupied the German protectorate of Western Samoa at the outbreak of World War I in 1914. It continued to administer the islands as a mandate and then as a trust territory until 1962, when the islands became the first Polynesian nation to reestablish independence in the 20th century. The country dropped the "Western" from its name in 1997.  
+In the late 2000s, Samoa began making efforts to more closely align with Australia and New Zealand. In 2009, Samoa changed its driving orientation to the left side of the road, in line with other Commonwealth countries. In 2011, Samoa jumped forward one day - skipping December 30 - by moving to the west of the International Date Line so that it was one hour ahead of New Zealand and three hours ahead of the east coast of Australia, rather than 23 and 21 hours behind, respectively.  
+
+---
+country: Samoa
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Samoa/>
+license: public domain (U.S.)
+...

@@ -1,0 +1,239 @@
+CIA - The World Factbook -- Ireland
+
+| Geography | Ireland |
+| --- | --- |
+| Location: | Western Europe, occupying five-sixths of the island of Ireland in the North Atlantic Ocean, west of Great Britain |
+| Geographic coordinates: | 53 00 N, 8 00 W |
+| Map references: | Europe |
+| Area: | total: 70,280 sq km |
+| | land: 68,890 sq km |
+| | water: 1,390 sq km |
+| Area - comparative: | slightly larger than West Virginia |
+| Land boundaries: | total: 360 km |
+| | border countries: UK 360 km |
+| Coastline: | 1,448 km |
+| Maritime claims: | territorial sea: 12 nm |
+| | exclusive fishing zone: 200 nm |
+| Climate: | temperate maritime; modified by North Atlantic Current; mild winters, cool summers; consistently humid; overcast about half the time |
+| Terrain: | mostly level to rolling interior plain surrounded by rugged hills and low mountains; sea cliffs on west coast |
+| Elevation extremes: | lowest point: Atlantic Ocean 0 m |
+| | highest point: Carrauntoohil 1,041 m |
+| Natural resources: | natural gas, peat, copper, lead, zinc, silver, barite, gypsum, limestone, dolomite |
+| Land use: | arable land: 16.82% |
+| | permanent crops: 0.03% |
+| | other: 83.15% (2005) |
+| Irrigated land: | NA |
+| Internal Renewable Water Resources: | 46.8 cu km (2003) |
+| Freshwater Withdrawal (Domestic/Industrial/Agricultural): | Total: 1.18 cu km/yr (23%/77%/0%) |
+| | Per capita: 284 cu m/yr (1994) |
+| Natural hazards: | NA |
+| Environment - current issues: | water pollution, especially of lakes, from agricultural runoff |
+| Environment - international agreements: | party to: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Sulfur 94, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling |
+| | signed, but not ratified: Air Pollution-Persistent Organic Pollutants, Marine Life Conservation |
+| Geography - note: | strategic location on major air and sea routes between North America and northern Europe; over 40% of the population resides within 100 km of Dublin |
+
+| People | Ireland |
+| --- | --- |
+| Population: | 4,109,086 (July 2007 est.) |
+| Age structure: | 0-14 years: 20.8% (male 442,664/female 413,556) |
+| | 15-64 years: 67.5% (male 1,387,803/female 1,385,355) |
+| | 65 years and over: 11.7% (male 212,782/female 266,926) (2007 est.) |
+| Median age: | total: 34.3 years |
+| | male: 33.5 years |
+| | female: 35.1 years (2007 est.) |
+| Population growth rate: | 1.143% (2007 est.) |
+| Birth rate: | 14.4 births/1,000 population (2007 est.) |
+| Death rate: | 7.79 deaths/1,000 population (2007 est.) |
+| Net migration rate: | 4.82 migrant(s)/1,000 population (2007 est.) |
+| Sex ratio: | at birth: 1.07 male(s)/female |
+| | under 15 years: 1.07 male(s)/female |
+| | 15-64 years: 1.002 male(s)/female |
+| | 65 years and over: 0.797 male(s)/female |
+| | total population: 0.989 male(s)/female (2007 est.) |
+| Infant mortality rate: | total: 5.22 deaths/1,000 live births |
+| | male: 5.72 deaths/1,000 live births |
+| | female: 4.69 deaths/1,000 live births (2007 est.) |
+| Life expectancy at birth: | total population: 77.9 years |
+| | male: 75.27 years |
+| | female: 80.7 years (2007 est.) |
+| Total fertility rate: | 1.86 children born/woman (2007 est.) |
+| HIV/AIDS - adult prevalence rate: | 0.1% (2001 est.) |
+| HIV/AIDS - people living with HIV/AIDS: | 2,800 (2001 est.) |
+| HIV/AIDS - deaths: | less than 100 (2003 est.) |
+| Nationality: | noun: Irishman(men), Irishwoman(women), Irish (collective plural) |
+| | adjective: Irish |
+| Ethnic groups: | Celtic, English |
+| Religions: | Roman Catholic 88.4%, Church of Ireland 3%, other Christian 1.6%, other 1.5%, unspecified 2%, none 3.5% (2002 census) |
+| Languages: | English (official) is the language generally used, Irish (Gaelic or Gaeilge) (official) spoken mainly in areas located along the western seaboard |
+| Literacy: | definition: age 15 and over can read and write |
+| | total population: 99% |
+| | male: 99% |
+| | female: 99% (2003 est.) |
+
+| Government | Ireland |
+| --- | --- |
+| Country name: | conventional long form: none |
+| | conventional short form: Ireland |
+| | local long form: none |
+| | local short form: Eire |
+| Government type: | republic, parliamentary democracy |
+| Capital: | name: Dublin |
+| | geographic coordinates: 53 19 N, 6 14 W |
+| | time difference: UTC 0 (5 hours ahead of Washington, DC during Standard Time) |
+| | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 26 counties; Carlow, Cavan, Clare, Cork, Donegal, Dublin, Galway, Kerry, Kildare, Kilkenny, Laois, Leitrim, Limerick, Longford, Louth, Mayo, Meath, Monaghan, Offaly, Roscommon, Sligo, Tipperary, Waterford, Westmeath, Wexford, Wicklow |
+| | note: Cavan, Donegal, and Monaghan are part of Ulster Province |
+| Independence: | 6 December 1921 (from UK by treaty) |
+| National holiday: | Saint Patrick's Day, 17 March |
+| Constitution: | adopted 1 July 1937 by plebiscite; effective 29 December 1937 |
+| Legal system: | based on English common law, substantially modified by indigenous concepts; judicial review of legislative acts in Supreme Court; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Mary MCALEESE (since 11 November 1997) |
+| | head of government: Prime Minister Bertie AHERN (since 26 June 1997) |
+| | cabinet: Cabinet appointed by the president with previous nomination by the prime minister and approval of the House of Representatives |
+| | elections: president elected by popular vote for a seven-year term (eligible for a second term); election last held 31 October 1997 (next scheduled for October 2011); note - Mary MCALEESE appointed to a second term when no other candidate qualified for the 2004 presidential election; prime minister (taoiseach) nominated by the House of Representatives and appointed by the president |
+| | election results: Mary MCALEESE elected president; percent of vote - Mary MCALEESE 44.8%, Mary BANOTTI 29.6% |
+| | note: government coalition - Fianna Fail, the Green Party and the Progressive Democrats |
+| Legislative branch: | bicameral Parliament or Oireachtas consists of the Senate or Seanad Eireann (60 seats; 49 members elected by the universities and from candidates put forward by five vocational panels, 11 are nominated by the prime minister; to serve five-year terms) and the House of Representatives or Dail Eireann (166 seats; members are elected by popular vote on the basis of proportional representation to serve five-year terms) |
+| | elections: Senate - last held 16 and 17 July 2002 (next to be held by July 2007); House of Representatives - last held 24 May 2007 (next to be held by May 2012) |
+| | election results: Senate - percent of vote by party - NA; seats by party - Fianna Fail 30, Fine Gael 15, Labor Party 5, Progressive Democrats 4, independents and other 6; House of Representatives - percent of vote by party - Fianna Fail 41.6%, Fine Gael 27.3%, Labor Party 10.1%, Sinn Fein 6.9%, Green Party 4.7%, Progressive Democrats 2.7%, other 6.7%; seats by party - Fianna Fail 78, Fine Gael 51, Labor Party 20, Sinn Fein 4, Green Party 6, Progressive Democrats 2, other 5 |
+| Judicial branch: | Supreme Court (judges appointed by the president on the advice of the prime minister and cabinet) |
+| Political parties and leaders: | Fianna Fail [Bertie AHERN]; Fine Gael [Enda KENNY]; Green Party [Trevor SARGENT, acting leader]; Labor Party [Pat RABBITTE]; Progressive Democrats [Michael McDOWELL]; Sinn Fein [Gerry ADAMS]; Socialist Party [Joe HIGGINS]; The Workers' Party [Sean GARLAND] |
+| Political pressure groups and leaders: | NA |
+| International organization participation: | AsDB, Australia Group, BIS, CE, EAPC, EBRD, EIB, EMU, ESA, EU, FAO, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, MINURSO, MONUC, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, PFP, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNMIL, UNOCI, UNTSO, UPU, WCO, WEU (observer), WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Noel FAHEY |
+| | chancery: 2234 Massachusetts Avenue NW, Washington, DC 20008 |
+| | telephone: [1] (202) 462-3939 |
+| | FAX: [1] (202) 232-5993 |
+| | consulate(s) general: Boston, Chicago, New York, San Francisco |
+| Diplomatic representation from the US: | chief of mission: Ambassador Thomas C. FOLEY |
+| | embassy: 42 Elgin Road, Ballsbridge, Dublin 4 |
+| | mailing address: use embassy street address |
+| | telephone: [353] (1) 668-8777 |
+| | FAX: [353] (1) 668-9946 |
+| Flag description: | three equal vertical bands of green (hoist side), white, and orange; similar to the flag of Cote d'Ivoire, which is shorter and has the colors reversed - orange (hoist side), white, and green; also similar to the flag of Italy, which is shorter and has colors of green (hoist side), white, and red |
+
+| Economy | Ireland |
+| --- | --- |
+| Economy - overview: | Ireland is a small, modern, trade-dependent economy with growth averaging 6% in 1995-2006. Agriculture, once the most important sector, is now dwarfed by industry and services. Industry accounts for 46% of GDP, about 80% of exports, and 29% of the labor force. Although exports remain the primary engine for Ireland's growth, the economy has also benefited from a rise in consumer spending, construction, and business investment. Per capita GDP is 40% above that of the four big European economies and the second highest in the EU behind Luxembourg. Over the past decade, the Irish Government has implemented a series of national economic programs designed to curb price and wage inflation, reduce government spending, increase labor force skills, and promote foreign investment. Ireland joined in circulating the euro on 1 January 2002 along with 11 other EU nations. |
+| GDP (purchasing power parity): | $180.9 billion (2006 est.) |
+| GDP (official exchange rate): | $203.8 billion (2006 est.) |
+| GDP - real growth rate: | 5.7% (2006 est.) |
+| GDP - per capita (PPP): | $44,500 (2006 est.) |
+| GDP - composition by sector: | agriculture: 5% |
+| | industry: 46% |
+| | services: 49% (2002 est.) |
+| Labor force: | 2.132 million (2006 est.) |
+| Labor force - by occupation: | agriculture: 8% |
+| | industry: 29% |
+| | services: 64% (2002 est.) |
+| Unemployment rate: | 4.3% (2006 est.) |
+| Population below poverty line: | 10% (1997 est.) |
+| Household income or consumption by percentage share: | lowest 10%: 2.9% |
+| | highest 10%: 27.2% (2000) |
+| Distribution of family income - Gini index: | 34.3 (2000) |
+| Inflation rate (consumer prices): | 3.9% (2006 est.) |
+| Investment (gross fixed): | 26.3% of GDP (2006 est.) |
+| Budget: | revenues: $80.78 billion |
+| | expenditures: $74.51 billion (2006 est.) |
+| Public debt: | 24.9% of GDP (2006 est.) |
+| Agriculture - products: | turnips, barley, potatoes, sugar beets, wheat; beef, dairy products |
+| Industries: | steel, lead, zinc, silver, aluminum, barite, and gypsum mining processing; food products, brewing, textiles, clothing; chemicals, pharmaceuticals; machinery, rail transportation equipment, passenger and commercial vehicles, ship construction and refurbishment; glass and crystal; software, tourism |
+| Industrial production growth rate: | 5% (2006 est.) |
+| Electricity - production: | 24.13 billion kWh (2005) |
+| Electricity - production by source: | fossil fuel: 95.9% |
+| | hydro: 2.3% |
+| | nuclear: 0% |
+| | other: 1.7% (2001) |
+| Electricity - consumption: | 24.09 billion kWh (2005) |
+| Electricity - exports: | 1 million kWh (2005) |
+| Electricity - imports: | 2.045 billion kWh (2005) |
+| Oil - production: | 0 bbl/day (2004 est.) |
+| Oil - consumption: | 182,400 bbl/day (2004 est.) |
+| Oil - exports: | 23,360 bbl/day (2004) |
+| Oil - imports: | 204,400 bbl/day (2004) |
+| Oil - proved reserves: | 0 bbl (1 January 2006) |
+| Natural gas - production: | 546.7 million cu m (2005 est.) |
+| Natural gas - consumption: | 3.895 billion cu m (2005 est.) |
+| Natural gas - exports: | 0 cu m (2005 est.) |
+| Natural gas - imports: | 3.348 billion cu m (2005) |
+| Natural gas - proved reserves: | 9.505 billion cu m (1 January 2006 est.) |
+| Current account balance: | $-9.136 billion (2006 est.) |
+| Exports: | $104.7 billion f.o.b. (2006 est.) |
+| Exports - commodities: | machinery and equipment, computers, chemicals, pharmaceuticals; live animals, animal products |
+| Exports - partners: | US 18.6%, UK 17.7%, Belgium 14.9%, Germany 7.7%, France 5.8%, Italy 4.2% (2006) |
+| Imports: | $72.79 billion f.o.b. (2006 est.) |
+| Imports - commodities: | data processing equipment, other machinery and equipment, chemicals, petroleum and petroleum products, textiles, clothing |
+| Imports - partners: | UK 37.5%, US 11.5%, Germany 9.6%, Netherlands 4.6% (2006) |
+| Economic aid - donor: | ODA, $607 million (2004) |
+| Reserves of foreign exchange and gold: | $831.9 million (2006 est.) |
+| Debt - external: | $1.392 trillion (30 June 2006) |
+| Stock of direct foreign investment - at home: | $179 billion (2006 est.) |
+| Stock of direct foreign investment - abroad: | $125.2 billion (2006 est.) |
+| Market value of publicly traded shares: | $114.1 billion (2005) |
+| Currency (code): | euro (EUR) |
+| | note: on 1 January 1999, the European Monetary Union introduced the euro as a common currency to be used by financial institutions of member countries; on 1 January 2002, the euro became the sole currency for everyday transactions within the member countries |
+| Currency code: | EUR |
+| Exchange rates: | euros per US dollar - 0.7964 (2006), 0.8041 (2005), 0.8054 (2004), 0.886 (2003), 1.0626 (2002) |
+| Fiscal year: | calendar year |
+
+| Communications | Ireland |
+| --- | --- |
+| Telephones - main lines in use: | 2.097 million (2006) |
+| Telephones - mobile cellular: | 4.69 million (2006) |
+| Telephone system: | general assessment: modern digital system using cable and microwave radio relay |
+| | domestic: microwave radio relay |
+| | international: country code - 353; landing point for the Hibernia-Atlantic submarine cable with links to the US, Canada, and UK; satellite earth station - 1 Intelsat (Atlantic Ocean) |
+| Radio broadcast stations: | AM 9, FM 106, shortwave 0 (1998) |
+| Radios: | 2.55 million (1997) |
+| Television broadcast stations: | 4 (many repeaters) (2001) |
+| Televisions: | 1.82 million (2001) |
+| Internet country code: | .ie |
+| Internet hosts: | 429,487 (2007) |
+| Internet Service Providers (ISPs): | 22 (2000) |
+| Internet users: | 1.437 million (2006) |
+
+| Transportation | Ireland |
+| --- | --- |
+| Airports: | 34 (2007) |
+| Airports - with paved runways: | total: 15 |
+| | over 3,047 m: 1 |
+| | 2,438 to 3,047 m: 1 |
+| | 1,524 to 2,437 m: 4 |
+| | 914 to 1,523 m: 4 |
+| | under 914 m: 5 (2007) |
+| Airports - with unpaved runways: | total: 19 |
+| | 914 to 1,523 m: 3 |
+| | under 914 m: 16 (2007) |
+| Pipelines: | gas 1,728 km (2006) |
+| Railways: | total: 3,237 km |
+| | broad gauge: 1,872 km 1.600-m gauge (37 km electrified) |
+| | narrow gauge: 1,365 km 0.914-m gauge (operated by the Irish Peat Board to transport peat to power stations and briquetting plants) (2006) |
+| Roadways: | total: 96,602 km |
+| | paved: 96,602 km (includes 200 km of expressways) (2003) |
+| Waterways: | 956 km (pleasure craft only) (2007) |
+| Merchant marine: | total: 27 ships (1000 GRT or over) 116,091 GRT/161,808 DWT |
+| | by type: cargo 23, chemical tanker 2, container 1, roll on/roll off 1 |
+| | foreign-owned: 3 (Spain 1, US 2) |
+| | registered in other countries: 18 (Bahamas 2, Bermuda 1, Bulgaria 1, Cyprus 1, Germany 1, Isle of Man 1, Netherlands 9, Panama 1, UK 1, unknown 1) (2007) |
+| Ports and terminals: | Cork, Dublin, New Ross, Shannon Foynes, Waterford |
+
+| Military | Ireland |
+| --- | --- |
+| Military branches: | Irish Defense Forces (Oglaigh na h-Eireann): Army (includes Naval Service and Air Corps) (2006) |
+| Military service age and obligation: | 17 years of age for voluntary military service; enlistees under the age of 17 can be recruited for specialist positions (2001) |
+| Manpower available for military service: | males age 17-49: 977,092 |
+| | females age 17-49: 978,465 (2005 est.) |
+| Manpower fit for military service: | males age 17-49: 814,768 |
+| | females age 17-49: 813,981 (2005 est.) |
+| Manpower reaching military service age annually: | males age 18-49: 29,327 |
+| | females age 17-49: 28,139 (2005 est.) |
+| Military expenditures - percent of GDP: | 0.9% (2005 est.) |
+
+| Transnational Issues | Ireland |
+| --- | --- |
+| Disputes - international: | Ireland, Iceland, and the UK dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm |
+| Illicit drugs: | transshipment point for and consumer of hashish from North Africa to the UK and Netherlands and of European-produced synthetic drugs; increasing consumption of South American cocaine; minor transshipment point for heroin and cocaine destined for Western Europe; despite recent legislation, narcotics-related money laundering - using bureaux de change, trusts, and shell companies involving the offshore financial community - remains a concern |
+
+---
+This page was last updated on 13 December, 2007                      

@@ -1,0 +1,146 @@
+CIA - The World Factbook --  Central bank discount rate   
+
+This entry provides the annualized interest rate a country's central bank charges commercial, depository banks for loans to meet temporary shortages of funds.
+
+| Rank | country | (%) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Zimbabwe | 975.00 | 31 December 2007 |
+| 2 | Congo, Democratic Republic of the | 40.00 | 31 December 2008 |
+| 3 | Venezuela | 33.50 | 31 December 2008 |
+| 4 | Sao Tome and Principe | 28.00 | 31 December 2008 |
+| 5 | Costa Rica | 25.00 | 31 December 2008 |
+| 6 | Turkey | 25.00 | 31 December 2008 |
+| 7 | Guinea | 22.25 | 31 December 2005 |
+| 8 | Iceland | 22.00 | 31 December 2008 |
+| 9 | Brazil | 20.48 | 31 December 2008 |
+| 10 | Paraguay | 20.00 | 31 December 2007 |
+| 11 | Uruguay | 20.00 | 31 December 2008 |
+| 12 | Angola | 19.57 | 31 December 2008 |
+| 13 | Uganda | 19.42 | 31 December 2008 |
+| 14 | Serbia | 17.75 | 31 December 2008 |
+| 15 | Ghana | 17.00 | 31 December 2008 |
+| 16 | Iraq | 16.75 | 31 December 2008 |
+| 17 | Tanzania | 15.99 | 31 December 2008 |
+| 18 | Kyrgyzstan | 15.11 | 31 December 2008 |
+| 19 | Botswana | 15.00 | 31 December 2008 |
+| 20 | Pakistan | 15.00 | 31 December 2008 |
+| 21 | Malawi | 15.00 | 31 December 2008 |
+| 22 | Mongolia | 14.78 | 31 December 2008 |
+| 23 | Zambia | 14.49 | 31 December 2008 |
+| 24 | Lesotho | 14.05 | 31 December 2008 |
+| 25 | Tajikistan | 13.50 | 31 December 2008 |
+| 26 | Bolivia | 13.00 | 31 December 2008 |
+| 27 | Maldives | 13.00 | 31 December 2008 |
+| 28 | Russia | 13.00 | 31 December 2008 |
+| 29 | Rwanda | 12.50 | 31 December 2007 |
+| 30 | Belarus | 12.00 | 31 December 2008 |
+| 31 | Belize | 12.00 | 31 December 2008 |
+| 32 | Ukraine | 12.00 | 31 December 2008 |
+| 33 | Mauritania | 12.00 | 31 December 2007 |
+| 34 | Burma | 12.00 | 31 December 2008 |
+| 35 | Lebanon | 12.00 | 31 December 2008 |
+| 36 | Egypt | 11.50 | 31 December 2008 |
+| 37 | South Africa | 11.50 | 31 December 2008 |
+| 38 | Gambia, The | 11.00 | 31 December 2008 |
+| 39 | Swaziland | 11.00 | 31 December 2008 |
+| 40 | Indonesia | 10.83 | 31 December 2008 |
+| 41 | Trinidad and Tobago | 10.75 | 31 December 2008 |
+| 42 | Kazakhstan | 10.50 | 31 December 2008 |
+| 43 | Vietnam | 10.25 | 31 December 2008 |
+| 44 | Burundi | 10.08 | 31 December 2008 |
+| 45 | Barbados | 10.00 | 31 December 2008 |
+| 46 | Hungary | 10.00 | 31 December 2008 |
+| 47 | Namibia | 10.00 | 31 December 2008 |
+| 48 | Mozambique | 9.95 | 31 December 2008 |
+| 49 | Nigeria | 9.75 | 31 December 2008 |
+| 50 | Ecuador | 9.14 | 31 December 2008 |
+| 51 | Croatia | 9.00 | 31 December 2008 |
+| 52 | Chile | 8.25 | 31 December 2008 |
+| 53 | Azerbaijan | 8.00 | 31 December 2008 |
+| 54 | Cape Verde | 7.50 | 31 December 2008 |
+| 55 | Sri Lanka | 7.50 | 31 December 2009 |
+| 56 | Armenia | 7.25 | 2 December 2008 |
+| 57 | Peru | 7.25 | 31 December 2008 |
+| 58 | Papua New Guinea | 7.00 | 31 December 2008 |
+| 59 | Guyana | 6.75 | 31 December 2008 |
+| 60 | Anguilla | 6.50 | 31 December 2008 |
+| 61 | Dominica | 6.50 | 31 December 2008 |
+| 62 | Macedonia | 6.50 | 31 December 2008 |
+| 63 | Saint Lucia | 6.50 | 31 December 2008 |
+| 64 | Saint Vincent and the Grenadines | 6.50 | 31 December 2008 |
+| 65 | Saint Kitts and Nevis | 6.50 | 31 December 2008 |
+| 66 | Nepal | 6.50 | 31 December 2009 |
+| 67 | Montserrat | 6.50 | 31 December 2008 |
+| 68 | Grenada | 6.50 | 31 December 2008 |
+| 69 | Antigua and Barbuda | 6.50 | 31 December 2008 |
+| 70 | Fiji | 6.32 | 31 December 2008 |
+| 71 | Albania | 6.25 | 31 December 2008 |
+| 72 | Norway | 6.25 | 31 December 2007 |
+| 73 | Jordan | 6.25 | 31 December 2008 |
+| 74 | India | 6.00 | 31 December 2008 |
+| 75 | Latvia | 6.00 | 31 December 2008 |
+| 76 | Philippines | 6.00 | 31 December 2008 |
+| 77 | Vanuatu | 6.00 | 31 December 2008 |
+| 78 | Bulgaria | 5.77 | 31 December 2008 |
+| 79 | Colombia | 5.50 | 31 December 2009 |
+| 80 | Qatar | 5.50 | 31 December 2008 |
+| 81 | Comoros | 5.36 | 31 December 2008 |
+| 82 | Bahamas, The | 5.25 | 31 December 2008 |
+| 83 | Cambodia | 5.25 | 31 December 2007 |
+| 84 | Seychelles | 5.13 | 31 December 2007 |
+| 85 | Aruba | 5.00 | 31 December 2008 |
+| 86 | Bangladesh | 5.00 | 31 December 2008 |
+| 87 | Libya | 5.00 | 31 December 2008 |
+| 88 | Syria | 5.00 | 31 December 2008 |
+| 89 | Poland | 5.00 | 31 December 2008 |
+| 90 | New Zealand | 5.00 | 31 December 2008 |
+| 91 | Benin | 4.75 | 31 December 2008 |
+| 92 | Central African Republic | 4.75 | 31 December 2008 |
+| 93 | Chad | 4.75 | 31 December 2008 |
+| 94 | Togo | 4.75 | 31 December 2008 |
+| 95 | Senegal | 4.75 | 31 December 2008 |
+| 96 | Niger | 4.75 | 31 December 2008 |
+| 97 | Mali | 4.75 | 31 December 2008 |
+| 98 | Guinea-Bissau | 4.75 | 31 December 2008 |
+| 99 | Gabon | 4.75 | 31 December 2008 |
+| 100 | Equatorial Guinea | 4.75 | 31 December 2008 |
+| 101 | Cote d'Ivoire | 4.75 | 31 December 2008 |
+| 102 | Congo, Republic of the | 4.75 | 31 December 2008 |
+| 103 | Burkina Faso | 4.75 | 31 December 2008 |
+| 104 | Cameroon | 4.75 | 31 December 2008 |
+| 105 | Lithuania | 4.73 | 31 December 2008 |
+| 106 | Australia | 4.25 | 3 December 2008 |
+| 107 | Algeria | 4.00 | 31 December 2008 |
+| 108 | Laos | 4.00 | 31 December 2009 |
+| 109 | Kuwait | 3.75 | 31 December 2008 |
+| 110 | Denmark | 3.50 | 31 December 2008 |
+| 111 | Sweden | 3.50 | 31 December 2007 |
+| 112 | Morocco | 3.32 | 31 December 2008 |
+| 113 | Belgium | 3.00 | 31 December 2008 |
+| 114 | Finland | 3.00 | 31 December 2008 |
+| 115 | Cyprus | 3.00 | 31 December 2008 |
+| 116 | France | 3.00 | 31 December 2008 |
+| 117 | Greece | 3.00 | 31 December 2008 |
+| 118 | Ireland | 3.00 | 31 December 2008 |
+| 119 | Italy | 3.00 | 31 December 2008 |
+| 120 | Germany | 3.00 | 31 December 2008 |
+| 121 | European Union | 3.00 | 31 December 2008 |
+| 122 | Spain | 3.00 | 31 December 2008 |
+| 123 | Slovenia | 3.00 | 31 December 2008 |
+| 124 | Slovakia | 3.00 | 31 December 2008 |
+| 125 | Portugal | 3.00 | 31 December 2008 |
+| 126 | Netherlands | 3.00 | 31 December 2008 |
+| 127 | Malta | 3.00 | 31 December 2008 |
+| 128 | Luxembourg | 3.00 | 31 December 2008 |
+| 129 | China | 2.79 | 31 December 2008 |
+| 130 | Israel | 2.50 | 31 December 2008 |
+| 131 | Czech Republic | 2.25 | 31 December 2008 |
+| 132 | Canada | 1.75 | 31 December 2008 |
+| 133 | Korea, South | 1.75 | 31 December 2008 |
+| 134 | Thailand | 1.25 | 31 December 2009 |
+| 135 | Oman | 0.91 | 31 December 2008 |
+| 136 | United Kingdom | 0.86 | 31 December 2008 |
+| 137 | United States | 0.86 | 31 December 2008 |
+| 138 | Hong Kong | 0.50 | 31 December 2008 |
+| 139 | Japan | 0.30 | 31 December 2008 |
+| 140 | Switzerland | 0.05 | 31 December 2008 |

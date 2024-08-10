@@ -1,0 +1,190 @@
+CIA - The World Factbook --  Irrigated land   
+
+This entry gives the number of square kilometers of land area that is artificially supplied with water.
+
+| Rank | country | (sq km) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | India | 558,080.00 | 2003 |
+| 2 | China | 545,960.00 | 2003 |
+| 3 | United States | 223,850.00 | 2003 |
+| 4 | Pakistan | 182,300.00 | 2003 |
+| 5 | European Union | 168,050.00 | 2003 est. |
+| 6 | Iran | 76,500.00 | 2003 |
+| 7 | Mexico | 63,200.00 | 2003 |
+| 8 | Turkey | 52,150.00 | 2003 |
+| 9 | Thailand | 49,860.00 | 2003 |
+| 10 | Bangladesh | 47,250.00 | 2003 |
+| 11 | Russia | 46,000.00 | 2003 |
+| 12 | Indonesia | 45,000.00 | 2003 |
+| 13 | Uzbekistan | 42,810.00 | 2003 |
+| 14 | Spain | 37,800.00 | 2003 |
+| 15 | Kazakhstan | 35,560.00 | 2003 |
+| 16 | Iraq | 35,250.00 | 2003 |
+| 17 | Egypt | 34,220.00 | 2003 |
+| 18 | Romania | 30,770.00 | 2003 |
+| 19 | Vietnam | 30,000.00 | 2003 |
+| 20 | Brazil | 29,200.00 | 2003 |
+| 21 | Italy | 27,500.00 | 2003 |
+| 22 | Afghanistan | 27,200.00 | 2003 |
+| 23 | Japan | 25,920.00 | 2003 |
+| 24 | Australia | 25,450.00 | 2003 |
+| 25 | Ukraine | 22,080.00 | 2003 |
+| 26 | Chile | 19,000.00 | 2003 |
+| 27 | Burma | 18,700.00 | 2003 |
+| 28 | Sudan | 18,630.00 | 2003 |
+| 29 | Turkmenistan | 18,000.00 | 2003 |
+| 30 | Saudi Arabia | 16,200.00 | 2003 |
+| 31 | Argentina | 15,500.00 | 2003 |
+| 32 | Philippines | 15,500.00 | 2003 |
+| 33 | South Africa | 14,980.00 | 2003 |
+| 34 | Korea, North | 14,600.00 | 2003 |
+| 35 | Azerbaijan | 14,550.00 | 2003 |
+| 36 | Greece | 14,530.00 | 2003 |
+| 37 | Morocco | 14,450.00 | 2003 |
+| 38 | Syria | 13,330.00 | 2003 |
+| 39 | Peru | 12,000.00 | 2003 |
+| 40 | Nepal | 11,700.00 | 2003 |
+| 41 | Madagascar | 10,860.00 | 2003 |
+| 42 | Kyrgyzstan | 10,720.00 | 2003 |
+| 43 | Colombia | 9,000.00 | 2003 |
+| 44 | Korea, South | 8,780.00 | 2003 |
+| 45 | Cuba | 8,700.00 | 2003 |
+| 46 | Ecuador | 8,650.00 | 2003 |
+| 47 | Canada | 7,850.00 | 2003 |
+| 48 | Sri Lanka | 7,430.00 | 2003 |
+| 49 | Tajikistan | 7,220.00 | 2003 |
+| 50 | Portugal | 6,500.00 | 2003 |
+| 51 | Bulgaria | 5,880.00 | 2003 |
+| 52 | Venezuela | 5,750.00 | 2003 |
+| 53 | Algeria | 5,690.00 | 2003 |
+| 54 | Netherlands | 5,650.00 | 2003 |
+| 55 | Yemen | 5,500.00 | 2003 |
+| 56 | Germany | 4,850.00 | 2003 |
+| 57 | Libya | 4,700.00 | 2003 |
+| 58 | Georgia | 4,690.00 | 2003 |
+| 59 | Denmark | 4,490.00 | 2003 |
+| 60 | Tunisia | 3,940.00 | 2003 |
+| 61 | Malaysia | 3,650.00 | 2003 |
+| 62 | Albania | 3,530.00 | 2003 |
+| 63 | Moldova | 3,000.00 | 2003 |
+| 64 | Ethiopia | 2,900.00 | 2003 |
+| 65 | Armenia | 2,860.00 | 2003 |
+| 66 | New Zealand | 2,850.00 | 2003 |
+| 67 | Nigeria | 2,820.00 | 2003 |
+| 68 | Dominican Republic | 2,750.00 | 2003 |
+| 69 | Cambodia | 2,700.00 | 2003 |
+| 70 | Mali | 2,360.00 | 2003 |
+| 71 | Hungary | 2,300.00 | 2003 |
+| 72 | Uruguay | 2,100.00 | 2003 |
+| 73 | Somalia | 2,000.00 | 2003 |
+| 74 | Israel | 1,940.00 | 2003 |
+| 75 | Tanzania | 1,840.00 | 2003 |
+| 76 | Slovakia | 1,830.00 | 2003 |
+| 77 | Laos | 1,750.00 | 2003 |
+| 78 | Zimbabwe | 1,740.00 | 2003 |
+| 79 | United Kingdom | 1,700.00 | 2003 |
+| 80 | Zambia | 1,560.00 | 2003 |
+| 81 | Guyana | 1,500.00 | 2003 |
+| 82 | Bolivia | 1,320.00 | 2003 |
+| 83 | Belarus | 1,310.00 | 2003 |
+| 84 | Guatemala | 1,300.00 | 2003 |
+| 85 | Norway | 1,270.00 | 2003 |
+| 86 | Senegal | 1,200.00 | 2003 |
+| 87 | Mozambique | 1,180.00 | 2003 |
+| 88 | Sweden | 1,150.00 | 2003 |
+| 89 | Costa Rica | 1,080.00 | 2003 |
+| 90 | Timor-Leste | 1,065.00 | NA |
+| 91 | Lebanon | 1,040.00 | 2003 |
+| 92 | Kenya | 1,030.00 | 2003 |
+| 93 | Poland | 1,000.00 | 2003 |
+| 94 | Guinea | 950.00 | 2003 |
+| 95 | Haiti | 920.00 | 2003 |
+| 96 | Mongolia | 840.00 | 2003 |
+| 97 | Angola | 800.00 | 2003 |
+| 98 | Honduras | 800.00 | 2003 |
+| 99 | United Arab Emirates | 760.00 | 2003 |
+| 100 | Jordan | 750.00 | 2003 |
+| 101 | Cote d'Ivoire | 730.00 | 2003 |
+| 102 | Niger | 730.00 | 2003 |
+| 103 | Oman | 720.00 | 2003 |
+| 104 | Paraguay | 670.00 | 2003 |
+| 105 | Finland | 640.00 | 2003 |
+| 106 | Nicaragua | 610.00 | 2003 |
+| 107 | Malawi | 560.00 | 2003 |
+| 108 | Macedonia | 550.00 | 2003 |
+| 109 | Suriname | 510.00 | 2003 |
+| 110 | Swaziland | 500.00 | 2003 |
+| 111 | Mauritania | 490.00 | 2002 |
+| 112 | El Salvador | 450.00 | 2003 |
+| 113 | Panama | 430.00 | 2003 |
+| 114 | Belgium | 400.00 | 2003 |
+| 115 | Bhutan | 400.00 | 2003 |
+| 116 | Puerto Rico | 400.00 | 2003 |
+| 117 | Cyprus | 400.00 | 2003 |
+| 118 | Ghana | 310.00 | 2003 |
+| 119 | Chad | 300.00 | 2003 |
+| 120 | Sierra Leone | 300.00 | 2003 |
+| 121 | Cameroon | 260.00 | 2003 |
+| 122 | Jamaica | 250.00 | 2002 |
+| 123 | Guinea-Bissau | 250.00 | 2003 |
+| 124 | Switzerland | 250.00 | 2003 |
+| 125 | Burkina Faso | 250.00 | 2003 |
+| 126 | Czech Republic | 240.00 | 2003 |
+| 127 | Mauritius | 220.00 | 2003 |
+| 128 | Burundi | 210.00 | 2003 |
+| 129 | Eritrea | 210.00 | 2003 |
+| 130 | Latvia | 200.00 | 2003 |
+| 131 | Kuwait | 130.00 | 2003 |
+| 132 | Qatar | 130.00 | 2002 |
+| 133 | Benin | 120.00 | 2003 |
+| 134 | Congo, Democratic Republic of the | 110.00 | 2003 |
+| 135 | Croatia | 110.00 | 2003 |
+| 136 | New Caledonia | 100.00 | 2003 |
+| 137 | Sao Tome and Principe | 100.00 | 2003 |
+| 138 | Rwanda | 90.00 | 2003 |
+| 139 | Uganda | 90.00 | 2003 |
+| 140 | Namibia | 80.00 | 2003 |
+| 141 | Gabon | 70.00 | 2003 |
+| 142 | Togo | 70.00 | 2003 |
+| 143 | Lithuania | 70.00 | 2003 |
+| 144 | Barbados | 50.00 | 2003 |
+| 145 | Austria | 40.00 | 2003 |
+| 146 | Bahrain | 40.00 | 2003 |
+| 147 | Trinidad and Tobago | 40.00 | 2003 |
+| 148 | Estonia | 40.00 | 2003 |
+| 149 | Belize | 30.00 | 2003 |
+| 150 | Saint Lucia | 30.00 | 2003 |
+| 151 | Slovenia | 30.00 | 2003 |
+| 152 | Lesotho | 30.00 | 2003 |
+| 153 | Liberia | 30.00 | 2003 |
+| 154 | Fiji | 30.00 | 2003 |
+| 155 | Cape Verde | 30.00 | 2003 |
+| 156 | Bosnia and Herzegovina | 30.00 | 2003 |
+| 157 | Congo, Republic of the | 20.00 | 2003 |
+| 158 | Malta | 20.00 | 2003 |
+| 159 | Hong Kong | 20.00 | 1998 est. |
+| 160 | Gambia, The | 20.00 | 2003 |
+| 161 | Central African Republic | 20.00 | 2003 |
+| 162 | Botswana | 10.00 | 2003 |
+| 163 | Brunei | 10.00 | 2003 |
+| 164 | French Polynesia | 10.00 | 2003 |
+| 165 | Saint Vincent and the Grenadines | 10.00 | 2003 |
+| 166 | Djibouti | 10.00 | 2003 |
+| 167 | Bahamas, The | 10.00 | 2003 |
+| 168 | Aruba | 0.01 | 1998 est. |
+| 169 | Ashmore and Cartier Islands | 0.00 | NA |
+| 170 | Heard Island and McDonald Islands | 0.00 | NA |
+| 171 | British Indian Ocean Territory | 0.00 | NA |
+| 172 | Jan Mayen | 0.00 | NA |
+| 173 | Spratly Islands | 0.00 | NA |
+| 174 | Wake Island | 0.00 | NA |
+| 175 | Holy See (Vatican City) | 0.00 | NA |
+| 176 | South Georgia and South Sandwich Islands | 0.00 | NA |
+| 177 | Marshall Islands | 0.00 | NA |
+| 178 | Paracel Islands | 0.00 | NA |
+| 179 | Clipperton Island | 0.00 | NA |
+| 180 | Isle of Man | 0.00 | NA |
+| 181 | French Southern and Antarctic Lands | 0.00 | NA |
+| 182 | Faroe Islands | 0.00 | NA |
+| 183 | Coral Sea Islands | 0.00 | NA |
+| 184 | Bouvet Island | 0.00 | NA |

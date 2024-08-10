@@ -1,0 +1,27 @@
+Telephone Code: 685
+Local Emergency Phone: 999
+Climate: Tropical; rainy season (November to April), dry season (May to October)
+Currency (Code): Tala (SAT)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): I
+Major Languages: Samoan (Polynesian), Somoan/English, English
+Major Religions: Protestant 54.9%, Roman Catholic 18.8%, Mormon 16.9%, Worship Centre 2.8%, other Christian 3.6%, other 2.9% (includes Baha'i, Muslim)
+Time Difference: UTC+13 (18 hours ahead of Washington, DC, during Standard Time); daylight saving time: +1hr, begins last Sunday in September; ends first Sunday in April
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested; in addition, you will need to get a local permit.
+Road Driving Side: Left
+Tourist Destinations: Palolo Deep National Marine Reserve; Robert Louis Stevenson Museum & Mt Vaea Scenic Walk; Papaseea Sliding Rocks; Piula Cave Pool; Le Pupu-Pue National Park; Lalomanu Beach; To Sua Ocean Trench; Mulivai Cathedral
+Major Sports: Rugby, soccer, netball, boxing, kick boxing, wrestling, Kilikiti (similar to cricket)
+Cultural Practices: Shoes should be removed when entering a household.
+Tipping Guidelines: Tipping is not part of Samoan culture. Locals do not tip. Most tourists leave a little tip to wait staff to show their appreciation. Tipping tour guides and drivers is common. Conventionally, 5-10% of the tour price is a good gratuity.
+Souvenirs: Shell, coconut, and mother-of-pearl jewelry and decorative items; bone-, turtle-shell-, and kava-wood-carved items; tapa and embroidered cloth goods; spices and tea; woven baskets
+Traditional Cuisine: Panipopo --- a dessert consisting of buns baked in a sweet and sticky coconut cream sauce
+
+---
+country: Samoa
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Samoa/travel-facts>
+license: public domain (U.S.)
+...

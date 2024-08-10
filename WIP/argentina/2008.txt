@@ -1,0 +1,264 @@
+CIA - The World Factbook -- Argentina
+
+| Geography | Argentina |
+| --- | --- |
+| Location: | Southern South America, bordering the South Atlantic Ocean, between Chile and Uruguay |
+| Geographic coordinates: | 34 00 S, 64 00 W |
+| Map references: | South America |
+| Area: | total: 2,766,890 sq km |
+| | land: 2,736,690 sq km |
+| | water: 30,200 sq km |
+| Area - comparative: | slightly less than three-tenths the size of the US |
+| Land boundaries: | total: 9,861 km |
+| | border countries: Bolivia 832 km, Brazil 1,261 km, Chile 5,308 km, Paraguay 1,880 km, Uruguay 580 km |
+| Coastline: | 4,989 km |
+| Maritime claims: | territorial sea: 12 nm |
+| | contiguous zone: 24 nm |
+| | exclusive economic zone: 200 nm |
+| | continental shelf: 200 nm or to the edge of the continental margin |
+| Climate: | mostly temperate; arid in southeast; subantarctic in southwest |
+| Terrain: | rich plains of the Pampas in northern half, flat to rolling plateau of Patagonia in south, rugged Andes along western border |
+| Elevation extremes: | lowest point: Laguna del Carbon -105 m (located between Puerto San Julian and Comandante Luis Piedra Buena in the province of Santa Cruz) |
+| | highest point: Cerro Aconcagua 6,960 m (located in the northwestern corner of the province of Mendoza) |
+| Natural resources: | fertile plains of the pampas, lead, zinc, tin, copper, iron ore, manganese, petroleum, uranium |
+| Land use: | arable land: 10.03% |
+| | permanent crops: 0.36% |
+| | other: 89.61% (2005) |
+| Irrigated land: | 15,500 sq km (2003) |
+| Total renewable water resources: | 814 cu km (2000) |
+| Freshwater withdrawal (domestic/industrial/agricultural): | total: 29.19 cu km/yr (17%/9%/74%) |
+| | per capita: 753 cu m/yr (2000) |
+| Natural hazards: | San Miguel de Tucuman and Mendoza areas in the Andes subject to earthquakes; pamperos are violent windstorms that can strike the pampas and northeast; heavy flooding |
+| Environment - current issues: | environmental problems (urban and rural) typical of an industrializing economy such as deforestation, soil degradation, desertification, air pollution, and water pollution |
+| | note: Argentina is a world leader in setting voluntary greenhouse gas targets |
+| Environment - international agreements: | party to: Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling |
+| | signed, but not ratified: Marine Life Conservation |
+| Geography - note: | second-largest country in South America (after Brazil); strategic location relative to sea lanes between the South Atlantic and the South Pacific Oceans (Strait of Magellan, Beagle Channel, Drake Passage); diverse geophysical landscapes range from tropical climates in the north to tundra in the far south; Cerro Aconcagua is the Western Hemisphere's tallest mountain, while Laguna del Carbon is the lowest point in the Western Hemisphere |
+
+| People | Argentina |
+| --- | --- |
+| Population: | 40.482 million (July 2008 est.) |
+| Age structure: | 0-14 years: 25.8% (male 5,341,642/female 5,095,325) |
+| | 15-64 years: 63.5% (male 12,807,458/female 12,884,745) |
+| | 65 years and over: 10.8% (male 1,784,652/female 2,568,176) (2008 est.) |
+| Median age: | total: 29.7 years |
+| | male: 28.8 years |
+| | female: 30.8 years (2008 est.) |
+| Population growth rate: | 1.068% (2008 est.) |
+| Birth rate: | 18.11 births/1,000 population (2008 est.) |
+| Death rate: | 7.43 deaths/1,000 population (2008 est.) |
+| Net migration rate: | 0 migrant(s)/1,000 population (2008 est.) |
+| Sex ratio: | at birth: 1.05 male(s)/female |
+| | under 15 years: 1.05 male(s)/female |
+| | 15-64 years: 0.99 male(s)/female |
+| | 65 years and over: 0.7 male(s)/female |
+| | total population: 0.97 male(s)/female (2008 est.) |
+| Infant mortality rate: | total: 11.78 deaths/1,000 live births |
+| | male: 13.12 deaths/1,000 live births |
+| | female: 10.37 deaths/1,000 live births (2008 est.) |
+| Life expectancy at birth: | total population: 76.36 years |
+| | male: 73.11 years |
+| | female: 79.77 years (2008 est.) |
+| Total fertility rate: | 2.37 children born/woman (2008 est.) |
+| HIV/AIDS - adult prevalence rate: | 0.7% (2001 est.) |
+| HIV/AIDS - people living with HIV/AIDS: | 130,000 (2001 est.) |
+| HIV/AIDS - deaths: | 1,500 (2003 est.) |
+| Major infectious diseases: | degree of risk: intermediate |
+| | food or waterborne diseases: bacterial diarrhea, hepatitis A |
+| | water contact disease: leptospirosis (2008) |
+| Nationality: | noun: Argentine(s) |
+| | adjective: Argentine |
+| Ethnic groups: | white (mostly Spanish and Italian) 97%, mestizo (mixed white and Amerindian ancestry), Amerindian, or other non-white groups 3% |
+| Religions: | nominally Roman Catholic 92% (less than 20% practicing), Protestant 2%, Jewish 2%, other 4% |
+| Languages: | Spanish (official), Italian, English, German, French |
+| Literacy: | definition: age 15 and over can read and write |
+| | total population: 97.2% |
+| | male: 97.2% |
+| | female: 97.2% (2001 census) |
+| School life expectancy (primary to tertiary education): | total: 15 years |
+| | male: 14 years |
+| | female: 16 years (2005) |
+| Education expenditures: | 3.8% of GDP (2004) |
+
+| Government | Argentina |
+| --- | --- |
+| Country name: | conventional long form: Argentine Republic |
+| | conventional short form: Argentina |
+| | local long form: Republica Argentina |
+| | local short form: Argentina |
+| Government type: | republic |
+| Capital: | name: Buenos Aires |
+| | geographic coordinates: 34 36 S, 58 40 W |
+| | time difference: UTC-3 (2 hours ahead of Washington, DC during Standard Time) |
+| | daylight saving time: +1hr, begins first Sunday in October; ends third Saturday in March; note - a new policy of daylight saving time was initiated by the government on 30 December 2007 |
+| Administrative divisions: | 23 provinces (provincias, singular - provincia) and 1 autonomous city* (distrito federal); Buenos Aires, Buenos Aires Capital Federal*, Catamarca, Chaco, Chubut, Cordoba, Corrientes, Entre Rios, Formosa, Jujuy, La Pampa, La Rioja, Mendoza, Misiones, Neuquen, Rio Negro, Salta, San Juan, San Luis, Santa Cruz, Santa Fe, Santiago del Estero, Tierra del Fuego - Antartida e Islas del Atlantico Sur, Tucuman |
+| | note: the US does not recognize any claims to Antarctica |
+| Independence: | 9 July 1816 (from Spain) |
+| National holiday: | Revolution Day, 25 May (1810) |
+| Constitution: | 1 May 1853; amended many times starting in 1860 |
+| Legal system: | mixture of US and West European legal systems; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal and compulsory |
+| Executive branch: | chief of state: President Cristina FERNANDEZ DE KIRCHNER (since 10 December 2007); Vice President Julio COBOS (since 10 December 2007); note - the president is both the chief of state and head of government |
+| | head of government: President Cristina FERNANDEZ DE KIRCHNER (since 10 December 2007); Vice President Julio COBOS (since 10 December 2007) |
+| | cabinet: Cabinet appointed by the president |
+| | elections: president and vice president elected on the same ticket by popular vote for four-year terms (eligible for a second term); election last held 28 October 2007 (next election to be held in 2011) |
+| | election results: Cristina FERNANDEZ DE KIRCHNER elected president; percent of vote - Cristina FERNANDEZ DE KIRCHNER 45%, Elisa CARRIO 23%, Roberto LAVAGNA 17%, Alberto Rodriguez SAA 8% |
+| Legislative branch: | bicameral National Congress or Congreso Nacional consists of the Senate (72 seats; members are elected by direct vote; presently one-third of the members elected every two years to serve six-year terms) and the Chamber of Deputies (257 seats; members are elected by direct vote; one-half of the members elected every two years to serve four-year terms) |
+| | elections: Senate - last held 28 October 2007 (next to be held in 2009); Chamber of Deputies - last held last held 28 October 2007 (next to be held in 2009) |
+| | election results: Senate - percent of vote by bloc or party - NA; seats by bloc or party - FV 12, UCR 4, CC 4, other 4; Chamber of Deputies - percent of vote by bloc or party - NA; seats by bloc or party - FV 5, UCR 10, PJ 10, PRO 6, CC 16, FJ 2, other 31; note - Senate and Chamber of Deputies seating reflect the number of replaced senators and deputies, rather than the whole Senate and Chamber of Deputies |
+| Judicial branch: | Supreme Court or Corte Suprema (the nine Supreme Court judges are appointed by the president with approval of the Senate) |
+| | note: the Supreme Court currently has two unfilled vacancies, and the Argentine Congress is considering a bill to reduce the number of Supreme Court judges to five |
+| Political parties and leaders: | Coalicion Civica (a broad coalition loosely affiliated with Elisa CARRIO); Front for Victory or FV (a broad coalition, including elements of the UCR and numerous provincial parties) [Cristina FERNANDEZ DE KIRCHNER]; Interbloque Federal or IF (a broad coalition of approximately 12 parties including PRO); Justicialist Front or FJ; Justicialist Party or PJ (Peronist umbrella political organization); Radical Civic Union or UCR [Gerardo MORALES]; Republican Proposal or PRO (including Federal Recreate Movement or RECREAR [Ricardo LOPEZ MURPHY] and Commitment for Change or CPC [Mauricio MACRI]); Socialist Party or PS [Ruben GIUSTINIANI]; Union For All [Patricia BULLRICH]; several provincial parties |
+| Political pressure groups and leaders: | Argentine Association of Pharmaceutical Labs (CILFA); Argentine Industrial Union (manufacturers' association); Argentine Rural Confederation or CRA (small to medium landowners' association); Argentine Rural Society (large landowners' association); Central of Argentine Workers or CTA (a radical union for employed and unemployed workers); General Confederation of Labor or CGT (Peronist-leaning umbrella labor organization); Roman Catholic Church |
+| | other: business organizations; Peronist-dominated labor movement; Piquetero groups (popular protest organizations that can be either pro or anti-government); students |
+| International organization participation: | AfDB (nonregional members), Australia Group, BCIE, BIS, CAN (associate), FAO, G-15, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, LAES, LAIA, Mercosur, MIGA, MINURSO, MINUSTAH, NSG, OAS, OPANAL, OPCW, PCA, RG, UN, UNASUR, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, Union Latina (observer), UNTSO, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Hector Marcos TIMERMAN |
+| | chancery: 1600 New Hampshire Avenue NW, Washington, DC 20009 |
+| | telephone: [1] (202) 238-6400 |
+| | FAX: [1] (202) 332-3171 |
+| | consulate(s) general: Atlanta, Chicago, Houston, Los Angeles, Miami, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Earl Anthony WAYNE |
+| | embassy: Avenida Colombia 4300, C1425GMN Buenos Aires |
+| | mailing address: international mail: use embassy street address; APO address: US Embassy Buenos Aires, Unit 4334, APO AA 34034 |
+| | telephone: [54] (11) 5777-4533 |
+| | FAX: [54] (11) 5777-4240 |
+| Flag description: | three equal horizontal bands of light blue (top), white, and light blue; centered in the white band is a radiant yellow sun with a human face known as the Sun of May |
+
+| Economy | Argentina |
+| --- | --- |
+| Economy - overview: | Argentina benefits from rich natural resources, a highly literate population, an export-oriented agricultural sector, and a diversified industrial base. Although one of the world's wealthiest countries 100 years ago, Argentina suffered during most of the 20th century from recurring economic crises, persistent fiscal and current account deficits, high inflation, mounting external debt, and capital flight. A severe depression, growing public and external indebtedness, and a bank run culminated in 2001 in the most serious economic, social, and political crisis in the country's turbulent history. Interim President Adolfo RODRIGUEZ SAA declared a default - the largest in history - on the government's foreign debt in December of that year, and abruptly resigned only a few days after taking office. His successor, Eduardo DUHALDE, announced an end to the peso's decade-long 1-to-1 peg to the US dollar in early 2002. The economy bottomed out that year, with real GDP 18% smaller than in 1998 and almost 60% of Argentines under the poverty line. Real GDP rebounded to grow by an average 9% annually over the subsequent five years, taking advantage of previously idled industrial capacity and labor, an audacious debt restructuring and reduced debt burden, excellent international financial conditions, and expansionary monetary and fiscal policies. Inflation, however, reached double-digit levels in 2006 and the government of President Nestor KIRCHNER responded with "voluntary" price agreements with businesses, as well as export taxes and restraints. Multi-year price freezes on electricity and natural gas rates for residential users stoked consumption and kept private investment away, leading to restrictions on industrial use and blackouts in 2007. |
+| GDP (purchasing power parity): | $526.4 billion (2007 est.) |
+| GDP (official exchange rate): | $260 billion (2007 est.) |
+| GDP - real growth rate: | 8.7% (2007 est.) |
+| GDP - per capita (PPP): | $13,100 (2007 est.) |
+| GDP - composition by sector: | agriculture: 9.5% |
+| | industry: 34% |
+| | services: 56.5% (2007 est.) |
+| Labor force: | 16.03 million |
+| | note: urban areas only (2007 est.) |
+| Labor force - by occupation: | agriculture: 1% |
+| | industry: 23% |
+| | services: 76% (2007 est.) |
+| Unemployment rate: | 8.5% (2007 est.) |
+| Population below poverty line: | 23.4% (January-June 2007) |
+| Household income or consumption by percentage share: | lowest 10%: 1% |
+| | highest 10%: 35% (January-March 2007) |
+| Distribution of family income - Gini index: | 49 (2006) |
+| Investment (gross fixed): | 24.2% of GDP (2007 est.) |
+| Budget: | revenues: $48.99 billion |
+| | expenditures: $61.23 billion (2007 est.) |
+| Fiscal year: | calendar year |
+| Public debt: | 56.1% of GDP (2007 est.) |
+| Inflation rate (consumer prices): | 8.8% official rate; actual rate may be double the official rate (2007 est.) |
+| Central bank discount rate: | NA |
+| Commercial bank prime lending rate: | 11.05% (31 December 2007) |
+| Stock of money: | $33.93 billion (31 December 2007) |
+| Stock of quasi money: | $45.92 billion (31 December 2007) |
+| Stock of domestic credit: | $72.55 billion (31 December 2007) |
+| Agriculture - products: | sunflower seeds, lemons, soybeans, grapes, corn, tobacco, peanuts, tea, wheat; livestock |
+| Industries: | food processing, motor vehicles, consumer durables, textiles, chemicals and petrochemicals, printing, metallurgy, steel |
+| Industrial production growth rate: | 7.5% (2007 est.) |
+| Electricity - production: | 109.4 billion kWh (2006 est.) |
+| Electricity - consumption: | 97.72 billion kWh (2006 est.) |
+| Electricity - exports: | 2.628 billion kWh (2007 est.) |
+| Electricity - imports: | 10.27 billion kWh (2007 est.) |
+| Electricity - production by source: | fossil fuel: 52.2% |
+| | hydro: 40.8% |
+| | nuclear: 6.7% |
+| | other: 0.2% (2001) |
+| Oil - production: | 790,800 bbl/day (2007 est.) |
+| Oil - consumption: | 525,100 bbl/day (2006 est.) |
+| Oil - exports: | 339,900 bbl/day (2005) |
+| Oil - imports: | 23,380 bbl/day (2005) |
+| Oil - proved reserves: | 2.587 billion bbl (1 January 2008 est.) |
+| Natural gas - production: | 44.8 billion cu m (2007 est.) |
+| Natural gas - consumption: | 44.1 billion cu m (2007 est.) |
+| Natural gas - exports: | 2.6 billion cu m (2007 est.) |
+| Natural gas - imports: | 1.9 billion cu m (2007 est.) |
+| Natural gas - proved reserves: | 446 billion cu m (1 January 2008 est.) |
+| Current account balance: | $7.438 billion (2007 est.) |
+| Exports: | $55.78 billion f.o.b. (2007 est.) |
+| Exports - commodities: | soybeans and derivatives, petroleum and gas, vehicles, corn, wheat |
+| Exports - partners: | Brazil 19.1%, China 9.4%, US 7.9%, Chile 7.6% (2007) |
+| Imports: | $42.53 billion f.o.b. (2007 est.) |
+| Imports - commodities: | machinery, motor vehicles, petroleum and natural gas, organic chemicals, plastics |
+| Imports - partners: | Brazil 34.6%, US 12.6%, China 12%, Germany 5% (2007) |
+| Economic aid - recipient: | $99.66 million (2005) |
+| Reserves of foreign exchange and gold: | $46.12 billion (31 December 2007 est.) |
+| Debt - external: | $135.8 billion (31 December 2007) |
+| Stock of direct foreign investment - at home: | $65.31 billion (2007 est.) |
+| Stock of direct foreign investment - abroad: | $26.26 billion (2007 est.) |
+| Market value of publicly traded shares: | $79.73 billion (2006) |
+| Currency (code): | Argentine peso (ARS) |
+| Currency code: | ARS |
+| Exchange rates: | Argentine pesos (ARS) per US dollar - 3.1105 (2007), 3.0543 (2006), 2.9037 (2005), 2.9233 (2004), 2.9006 (2003) |
+
+| Communications | Argentina |
+| --- | --- |
+| Telephones - main lines in use: | 9.5 million (2007) |
+| Telephones - mobile cellular: | 40.402 million (2007) |
+| Telephone system: | general assessment: by opening the telecommunications market to competition and foreign investment with the "Telecommunications Liberalization Plan of 1998," Argentina encouraged the growth of modern telecommunications technology; fiber-optic cable trunk lines are being installed between all major cities; major networks are entirely digital and the availability of telephone service is improving; fixed-line telephone density is gradually increasing reaching nearly 25 lines per 100 people in 2007; mobile telephone subscribership has been increasing rapidly and has reached a level of 100 telephones per 100 persons |
+| | domestic: microwave radio relay, fiber-optic cable, and a domestic satellite system with 40 earth stations serve the trunk network; more than 110,000 pay telephones are installed and mobile telephone use is rapidly expanding; broadband services are gaining ground |
+| | international: country code - 54; landing point for the Atlantis-2, UNISUR, and South America-1 optical submarine cable systems that provide links to Europe, Africa, South and Central America, and US; satellite earth stations - 112; 2 international gateways near Buenos Aires (2007) |
+| Radio broadcast stations: | AM 260 (includes 10 inactive stations), FM (probably more than 1,000, mostly unlicensed), shortwave 6 (1998) |
+| Radios: | 24.3 million (1997) |
+| Television broadcast stations: | 42 (plus 444 repeaters) (1997) |
+| Televisions: | 7.95 million (1997) |
+| Internet country code: | .ar |
+| Internet hosts: | 3.813 million (2008) |
+| Internet Service Providers (ISPs): | 33 (2000) |
+| Internet users: | 9.309 million (2007) |
+
+| Transportation | Argentina |
+| --- | --- |
+| Airports: | 1,272 (2007) |
+| Airports - with paved runways: | total: 154 |
+| | over 3,047 m: 4 |
+| | 2,438 to 3,047 m: 26 |
+| | 1,524 to 2,437 m: 65 |
+| | 914 to 1,523 m: 50 |
+| | under 914 m: 9 (2007) |
+| Airports - with unpaved runways: | total: 1,118 |
+| | over 3,047 m: 2 |
+| | 2,438 to 3,047 m: 1 |
+| | 1,524 to 2,437 m: 44 |
+| | 914 to 1,523 m: 515 |
+| | under 914 m: 556 (2007) |
+| Heliports: | 1 (2007) |
+| Pipelines: | gas 28,657 km; liquid petroleum gas 41 km; oil 5,607 km; refined products 3,052 km; unknown (oil/water) 13 km (2007) |
+| Railways: | total: 31,902 km |
+| | broad gauge: 20,858 km 1.676-m gauge (141 km electrified) |
+| | standard gauge: 2,885 km 1.435-m gauge (26 km electrified) |
+| | narrow gauge: 7,922 km 1.000-m gauge; 237 km 0.750-m gauge (2006) |
+| Roadways: | total: 231,374 km |
+| | paved: 69,412 km (includes 734 km of expressways) |
+| | unpaved: 161,962 km (2004) |
+| Waterways: | 11,000 km (2006) |
+| Merchant marine: | total: 46 |
+| | by type: bulk carrier 3, cargo 9, chemical tanker 2, container 1, passenger 1, passenger/cargo 3, petroleum tanker 24, refrigerated cargo 2, roll on/roll off 1 |
+| | foreign-owned: 14 (Brazil 1, Chile 7, Spain 2, UK 4) |
+| | registered in other countries: 19 (Liberia 3, Panama 8, Paraguay 5, Uruguay 3) (2008) |
+| Ports and terminals: | Arroyo Seco, Bahia Blanca, Buenos Aires, La Plata, Punta Colorada, Rosario, San Lorenzo-San Martin |
+
+| Military | Argentina |
+| --- | --- |
+| Military branches: | Argentine Army (Ejercito Argentino), Navy of the Argentine Republic (Armada Republica; includes naval aviation and naval infantry), Argentine Air Force (Fuerza Aerea Argentina, FAA) (2008) |
+| Military service age and obligation: | 18-24 years of age for voluntary military service (18-21 requires parental permission); no conscription (2001) |
+| Manpower available for military service: | males age 16-49: 10,029,488 |
+| | females age 16-49: 9,889,002 (2008 est.) |
+| Manpower fit for military service: | males age 16-49: 8,352,147 |
+| | females age 16-49: 8,366,781 (2008 est.) |
+| Manpower reaching militarily significant age annually: | male: 348,310 |
+| | female: 332,944 (2008 est.) |
+| Military expenditures: | 1.3% of GDP (2005 est.) |
+| Military - note: | the Argentine military is a well-organized force constrained by the country's prolonged economic hardship; the country has recently experienced a strong recovery, and the military is implementing a modernization plan aimed at making the ground forces lighter and more responsive (2008) |
+
+| Transnational Issues | Argentina |
+| --- | --- |
+| Disputes - international: | Argentina continues to assert its claims to the UK-administered Falkland Islands (Islas Malvinas), South Georgia, and the South Sandwich Islands in its constitution, forcibly occupying the Falklands in 1982, but in 1995 agreed no longer to seek settlement by force; territorial claim in Antarctica partially overlaps UK and Chilean claims; unruly region at convergence of Argentina-Brazil-Paraguay borders is locus of money laundering, smuggling, arms and illegal narcotics trafficking, and fundraising for extremist organizations; uncontested dispute between Brazil and Uruguay over Braziliera/Brasiliera Island in the Quarai/Cuareim River leaves the tripoint with Argentina in question; in 2006, Argentina went to the ICJ to protest, on environmental grounds, the construction of two pulp mills in Uruguay on the Uruguay River, which forms the boundary; both parties presented their pleadings in 2007 with Argentina's reply in January and Uruguay's rejoinder in July 2008; the joint boundary commission, established by Chile and Argentina in 2001 has yet to map and demarcate the delimited boundary in the inhospitable Andean Southern Ice Field (Campo de Hielo Sur) |
+| Trafficking in persons: | current situation: Argentina is a source, transit, and destination country for men, women, and children trafficked for the purposes of commercial sexual exploitation and forced labor; most victims are trafficked within the country, from rural to urban areas; child sex tourism is a problem; foreign women and children, primarily from Paraguay, Brazil, and the Dominican Republic, are trafficked to Argentina for commercial sexual exploitation; Argentine women and girls are also trafficked to neighboring countries, Mexico, and Western Europe for sexual exploitation; a significant number of Bolivians, Peruvians, and Paraguayans are trafficked into the country for forced labor in sweatshops, agriculture, and as domestic servants |
+| | tier rating: Tier 2 Watch List - despite some progress, Argentina remains on the Tier 2 Watch List for the third consecutive year for its failure to show evidence of increasing efforts to combat human trafficking, particularly in terms of providing adequate assistance to victims and curbing official complicity with trafficking activity, especially on the provincial and local levels; the Argentine Congress has demonstrated progress by enacting much-needed and first-ever federal anti-trafficking legislation (2008) |
+| Illicit drugs: | a transshipment country for cocaine headed for Europe; some money-laundering activity, especially in the Tri-Border Area; law enforcement corruption; a source for precursor chemicals; increasing domestic consumption of drugs in urban centers, especially cocaine base and synthetic drugs |
+
+---
+This page was last updated on 18 December, 2008                      

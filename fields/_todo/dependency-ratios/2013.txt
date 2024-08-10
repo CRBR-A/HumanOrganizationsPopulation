@@ -1,0 +1,799 @@
+CIA - The World Factbook --  Dependency ratios   
+
+Dependency ratios are a measure of the age structure of a population. They relate the number of individuals that are likely to be economically "dependent" on the support of others. Dependency ratios contrast the ratio of youths (ages 0-14) and the elderly (ages 65+) to the number of those in the working-age group (ages 15-64). Changes in the dependency ratio provide an indication of potential social support requirements resulting from changes in population age structures. As fertility levels decline, the dependency ratio initially falls because the proportion of youths decreases while the proportion of the population of working age increases. As fertility levels continue to decline, dependency ratios eventually increase because the proportion of the population of working age starts to decline and the proportion of elderly persons continues to increase.
+| total dependency ratio - The total dependency ratio is the ratio of combined youth population (ages 0-14) and elderly population (ages 65+) per 100 people of working age (ages 15-64). A high total dependency ratio indicates that the working-age population and the overall economy face a greater burden to support and provide social services for youth and elderly persons, who are often economically dependent. |
+| youth dependency ratio - The youth dependency ratio is the ratio of the youth population (ages 0-14) per 100 people of working age (ages 15-64). A high youth dependency ratio indicates that a greater investment needs to be made in schooling and other services for children. |
+| elderly dependency ratio - The elderly dependency ratio is the ratio of the elderly population (ages 65+) per 100 people of working age (ages 15-64). Increases in the elderly dependency ratio put added pressure on governments to fund pensions and healthcare. |
+| potential support ratio - The potential support ratio is the number of working-age people (ages 15-64) per one elderly person (ages 65+). As a population ages, the potential support ratio tends to fall, meaning there are fewer potential workers to support the elderly. |
+| Rank | country | Dependency ratios | Date of Information |
+| --- | --- | --- | --- |
+| 1 | United Arab Emirates | 201.70 | 2013 |
+| 2 | Niger | 111.50 | 2013 |
+| 3 | Niger | 105.90 | 2013 |
+| 4 | Uganda | 103.30 | 2013 |
+| 5 | Chad | 103.30 | 2013 |
+| 6 | Mali | 100.70 | 2013 |
+| 7 | Somalia | 100.10 | 2013 |
+| 8 | Angola | 99.60 | 2013 |
+| 9 | Chad | 98.40 | 2013 |
+| 10 | Uganda | 98.40 | 2013 |
+| 11 | Zambia | 97.00 | 2013 |
+| 12 | Timor-Leste | 96.30 | 2013 |
+| 13 | Afghanistan | 96.00 | 2013 |
+| 14 | Mali | 95.10 | 2013 |
+| 15 | Mozambique | 94.80 | 2013 |
+| 16 | Angola | 94.80 | 2013 |
+| 17 | Somalia | 94.40 | 2013 |
+| 18 | Malawi | 94.10 | 2013 |
+| 19 | Gambia, The | 93.50 | 2013 |
+| 20 | Tanzania | 92.50 | 2013 |
+| 21 | Burkina Faso | 92.30 | 2013 |
+| 22 | Congo, Democratic Republic of the | 91.90 | 2013 |
+| 23 | Zambia | 91.80 | 2013 |
+| 24 | Afghanistan | 91.40 | 2013 |
+| 25 | Timor-Leste | 89.90 | 2013 |
+| 26 | Nigeria | 89.00 | 2013 |
+| 27 | Gambia, The | 88.90 | 2013 |
+| 28 | Burundi | 88.60 | 2013 |
+| 29 | Mozambique | 88.40 | 2013 |
+| 30 | Malawi | 87.90 | 2013 |
+| 31 | Burkina Faso | 87.60 | 2013 |
+| 32 | Senegal | 86.90 | 2013 |
+| 33 | Congo, Democratic Republic of the | 86.40 | 2013 |
+| 34 | Tanzania | 86.30 | 2013 |
+| 35 | Cameroon | 85.80 | 2013 |
+| 36 | Ethiopia | 85.50 | 2013 |
+| 37 | Liberia | 84.90 | 2013 |
+| 38 | Congo, Republic of the | 84.90 | 2013 |
+| 39 | Burundi | 84.00 | 2013 |
+| 40 | Benin | 84.00 | 2013 |
+| 41 | Qatar | 83.90 | 2013 |
+| 42 | South Sudan | 83.80 | 2013 |
+| 43 | Nigeria | 83.80 | 2013 |
+| 44 | Eritrea | 83.20 | 2013 |
+| 45 | Guinea | 83.20 | 2013 |
+| 46 | Rwanda | 82.80 | 2013 |
+| 47 | Madagascar | 82.50 | 2013 |
+| 48 | Sao Tome and Principe | 81.80 | 2013 |
+| 49 | Guatemala | 81.80 | 2013 |
+| 50 | Comoros | 81.60 | 2013 |
+| 51 | Kenya | 81.50 | 2013 |
+| 52 | Senegal | 81.30 | 2013 |
+| 53 | Togo | 80.50 | 2013 |
+| 54 | Cote d'Ivoire | 80.20 | 2013 |
+| 55 | Sudan | 79.90 | 2013 |
+| 56 | Cameroon | 79.80 | 2013 |
+| 57 | Guinea-Bissau | 79.70 | 2013 |
+| 58 | Liberia | 79.30 | 2013 |
+| 59 | Sierra Leone | 79.30 | 2013 |
+| 60 | Ethiopia | 79.20 | 2013 |
+| 61 | Eritrea | 79.10 | 2013 |
+| 62 | Benin | 78.70 | 2013 |
+| 63 | Congo, Republic of the | 78.70 | 2013 |
+| 64 | Rwanda | 78.50 | 2013 |
+| 65 | Guinea | 77.50 | 2013 |
+| 66 | Central African Republic | 77.50 | 2013 |
+| 67 | South Sudan | 77.40 | 2013 |
+| 68 | Madagascar | 77.40 | 2013 |
+| 69 | Gabon | 77.40 | 2013 |
+| 70 | Solomon Islands | 77.10 | 2013 |
+| 71 | Kenya | 76.60 | 2013 |
+| 72 | Zimbabwe | 76.40 | 2013 |
+| 73 | Comoros | 76.40 | 2013 |
+| 74 | Mauritania | 76.30 | 2013 |
+| 75 | Iraq | 76.20 | 2013 |
+| 76 | Tonga | 75.70 | 2013 |
+| 77 | West Bank | 75.60 | 2013 |
+| 78 | Yemen | 75.60 | 2013 |
+| 79 | Sao Tome and Principe | 75.60 | 2013 |
+| 80 | Gaza Strip | 75.60 | 2013 |
+| 81 | Togo | 75.50 | 2013 |
+| 82 | Samoa | 75.10 | 2013 |
+| 83 | Guinea-Bissau | 74.50 | 2013 |
+| 84 | Cote d'Ivoire | 74.50 | 2013 |
+| 85 | Sierra Leone | 74.50 | 2013 |
+| 86 | Sudan | 74.10 | 2013 |
+| 87 | Guatemala | 73.50 | 2013 |
+| 88 | Ghana | 72.20 | 2013 |
+| 89 | Equatorial Guinea | 71.40 | 2013 |
+| 90 | Solomon Islands | 71.20 | 2013 |
+| 91 | Mauritania | 70.70 | 2013 |
+| 92 | Central African Republic | 70.70 | 2013 |
+| 93 | Yemen | 70.60 | 2013 |
+| 94 | Iraq | 70.60 | 2013 |
+| 95 | Gaza Strip | 70.40 | 2013 |
+| 96 | Swaziland | 70.40 | 2013 |
+| 97 | West Bank | 70.40 | 2013 |
+| 98 | Zimbabwe | 69.60 | 2013 |
+| 99 | Vanuatu | 69.50 | 2013 |
+| 100 | Papua New Guinea | 69.30 | 2013 |
+| 101 | Gabon | 68.30 | 2013 |
+| 102 | Lesotho | 68.30 | 2013 |
+| 103 | Equatorial Guinea | 66.60 | 2013 |
+| 104 | Ghana | 66.20 | 2013 |
+| 105 | Samoa | 66.10 | 2013 |
+| 106 | Nepal | 66.10 | 2013 |
+| 107 | Bolivia | 66.00 | 2013 |
+| 108 | Honduras | 65.80 | 2013 |
+| 109 | Namibia | 65.50 | 2013 |
+| 110 | Tonga | 65.40 | 2013 |
+| 111 | Guyana | 65.30 | 2013 |
+| 112 | Haiti | 65.20 | 2013 |
+| 113 | Swaziland | 64.40 | 2013 |
+| 114 | Micronesia, Federated States of | 64.40 | 2013 |
+| 115 | Papua New Guinea | 64.30 | 2013 |
+| 116 | Syria | 64.30 | 2013 |
+| 117 | Tajikistan | 64.10 | 2013 |
+| 118 | Laos | 63.80 | 2013 |
+| 119 | Vanuatu | 62.80 | 2013 |
+| 120 | Israel | 62.50 | 2013 |
+| 121 | Pakistan | 61.80 | 2013 |
+| 122 | Japan | 61.60 | 2013 |
+| 123 | Philippines | 61.40 | 2013 |
+| 124 | Lesotho | 61.20 | 2013 |
+| 125 | Paraguay | 61.00 | 2013 |
+| 126 | Belize | 60.90 | 2013 |
+| 127 | Djibouti | 60.50 | 2013 |
+| 128 | Jordan | 60.20 | 2013 |
+| 129 | Nicaragua | 59.90 | 2013 |
+| 130 | Namibia | 59.60 | 2013 |
+| 131 | Guyana | 59.60 | 2013 |
+| 132 | Botswana | 59.10 | 2013 |
+| 133 | El Salvador | 59.00 | 2013 |
+| 134 | Tajikistan | 58.90 | 2013 |
+| 135 | Egypt | 58.50 | 2013 |
+| 136 | Honduras | 58.40 | 2013 |
+| 137 | Virgin Islands | 58.10 | 2013 |
+| 138 | Bolivia | 57.90 | 2013 |
+| 139 | Haiti | 57.80 | 2013 |
+| 140 | Syria | 57.70 | 2013 |
+| 141 | Micronesia, Federated States of | 57.70 | 2013 |
+| 142 | Nepal | 57.60 | 2013 |
+| 143 | Laos | 57.60 | 2013 |
+| 144 | Dominican Republic | 57.50 | 2013 |
+| 145 | Ecuador | 57.40 | 2013 |
+| 146 | Cambodia | 57.30 | 2013 |
+| 147 | Sweden | 56.80 | 2013 |
+| 148 | France | 56.50 | 2013 |
+| 149 | Kiribati | 56.20 | 2013 |
+| 150 | Uruguay | 56.20 | 2013 |
+| 151 | Panama | 55.10 | 2013 |
+| 152 | Philippines | 55.10 | 2013 |
+| 153 | Finland | 55.00 | 2013 |
+| 154 | Denmark | 55.00 | 2013 |
+| 155 | Pakistan | 54.70 | 2013 |
+| 156 | Belize | 54.50 | 2013 |
+| 157 | Jordan | 54.50 | 2013 |
+| 158 | Italy | 54.30 | 2013 |
+| 159 | Argentina | 54.30 | 2013 |
+| 160 | Peru | 54.20 | 2013 |
+| 161 | Djibouti | 54.10 | 2013 |
+| 162 | United Kingdom | 54.00 | 2013 |
+| 163 | Jamaica | 54.00 | 2013 |
+| 164 | South Africa | 53.90 | 2013 |
+| 165 | Belgium | 53.80 | 2013 |
+| 166 | Mexico | 53.60 | 2013 |
+| 167 | Cabo Verde | 53.50 | 2013 |
+| 168 | Botswana | 53.30 | 2013 |
+| 169 | Bangladesh | 53.30 | 2013 |
+| 170 | Venezuela | 53.20 | 2013 |
+| 171 | Kyrgyzstan | 52.70 | 2013 |
+| 172 | Norway | 52.60 | 2013 |
+| 173 | Nicaragua | 52.50 | 2013 |
+| 174 | India | 52.40 | 2013 |
+| 175 | Guam | 52.30 | 2013 |
+| 176 | Greece | 52.30 | 2013 |
+| 177 | Paraguay | 52.20 | 2013 |
+| 178 | Fiji | 52.20 | 2013 |
+| 179 | Libya | 52.10 | 2013 |
+| 180 | Germany | 52.00 | 2013 |
+| 181 | New Zealand | 51.90 | 2013 |
+| 182 | Indonesia | 51.80 | 2013 |
+| 183 | Netherlands | 51.70 | 2013 |
+| 184 | Suriname | 51.60 | 2013 |
+| 185 | Grenada | 51.30 | 2013 |
+| 186 | Colombia | 51.20 | 2013 |
+| 187 | Estonia | 51.20 | 2013 |
+| 188 | Ireland | 50.80 | 2013 |
+| 189 | Maldives | 50.80 | 2013 |
+| 190 | Sri Lanka | 50.70 | 2013 |
+| 191 | Portugal | 50.50 | 2013 |
+| 192 | United States | 50.40 | 2013 |
+| 193 | Iceland | 50.40 | 2013 |
+| 194 | Australia | 50.20 | 2013 |
+| 195 | Latvia | 50.20 | 2013 |
+| 196 | Curacao | 50.10 | 2013 |
+| 197 | Puerto Rico | 50.10 | 2013 |
+| 198 | Kiribati | 49.80 | 2013 |
+| 199 | Croatia | 49.60 | 2013 |
+| 200 | Spain | 49.50 | 2013 |
+| 201 | Egypt | 49.40 | 2013 |
+| 202 | Turkey | 49.30 | 2013 |
+| 203 | Bulgaria | 49.20 | 2013 |
+| 204 | Uzbekistan | 49.00 | 2013 |
+| 205 | Austria | 48.90 | 2013 |
+| 206 | Cambodia | 48.90 | 2013 |
+| 207 | Bhutan | 48.90 | 2013 |
+| 208 | Morocco | 48.90 | 2013 |
+| 209 | Saint Lucia | 48.60 | 2013 |
+| 210 | New Caledonia | 48.30 | 2013 |
+| 211 | Turkmenistan | 48.30 | 2013 |
+| 212 | Switzerland | 48.10 | 2013 |
+| 213 | Kazakhstan | 48.00 | 2013 |
+| 214 | Algeria | 47.90 | 2013 |
+| 215 | Georgia | 47.70 | 2013 |
+| 216 | Saint Vincent and the Grenadines | 47.60 | 2013 |
+| 217 | El Salvador | 47.60 | 2013 |
+| 218 | Dominican Republic | 47.60 | 2013 |
+| 219 | Ecuador | 47.20 | 2013 |
+| 220 | Antigua and Barbuda | 47.20 | 2013 |
+| 221 | Saudi Arabia | 46.90 | 2013 |
+| 222 | Hungary | 46.80 | 2013 |
+| 223 | Montenegro | 46.70 | 2013 |
+| 224 | Luxembourg | 46.50 | 2013 |
+| 225 | Kyrgyzstan | 46.40 | 2013 |
+| 226 | Canada | 46.30 | 2013 |
+| 227 | Brazil | 46.20 | 2013 |
+| 228 | Czech Republic | 46.10 | 2013 |
+| 229 | Jersey | 46.00 | 2013 |
+| 230 | Slovenia | 46.00 | 2013 |
+| 231 | Guernsey | 46.00 | 2013 |
+| 232 | Bangladesh | 46.00 | 2013 |
+| 233 | Malaysia | 45.90 | 2013 |
+| 234 | Albania | 45.70 | 2013 |
+| 235 | Bosnia and Herzegovina | 45.50 | 2013 |
+| 236 | South Africa | 45.40 | 2013 |
+| 237 | Cabo Verde | 45.30 | 2013 |
+| 238 | Korea, North | 45.20 | 2013 |
+| 239 | Israel | 45.10 | 2013 |
+| 240 | Mongolia | 45.10 | 2013 |
+| 241 | Chile | 45.00 | 2013 |
+| 242 | Malta | 44.90 | 2013 |
+| 243 | Libya | 44.80 | 2013 |
+| 244 | Lithuania | 44.60 | 2013 |
+| 245 | Peru | 44.40 | 2013 |
+| 246 | Aruba | 44.30 | 2013 |
+| 247 | India | 44.30 | 2013 |
+| 248 | Armenia | 44.10 | 2013 |
+| 249 | Serbia | 44.00 | 2013 |
+| 250 | Costa Rica | 44.00 | 2013 |
+| 251 | Panama | 43.90 | 2013 |
+| 252 | Fiji | 43.90 | 2013 |
+| 253 | Indonesia | 43.80 | 2013 |
+| 254 | Venezuela | 43.70 | 2013 |
+| 255 | Mexico | 43.70 | 2013 |
+| 256 | Tunisia | 43.60 | 2013 |
+| 257 | Romania | 43.30 | 2013 |
+| 258 | Maldives | 43.30 | 2013 |
+| 259 | Burma | 43.10 | 2013 |
+| 260 | Saudi Arabia | 42.60 | 2013 |
+| 261 | Seychelles | 42.60 | 2013 |
+| 262 | Uzbekistan | 42.60 | 2013 |
+| 263 | Trinidad and Tobago | 42.50 | 2013 |
+| 264 | French Polynesia | 42.40 | 2013 |
+| 265 | Barbados | 42.30 | 2013 |
+| 266 | Turkmenistan | 42.20 | 2013 |
+| 267 | Brunei | 42.00 | 2013 |
+| 268 | Colombia | 41.90 | 2013 |
+| 269 | Cuba | 41.90 | 2013 |
+| 270 | Ukraine | 41.90 | 2013 |
+| 271 | Jamaica | 41.80 | 2013 |
+| 272 | Bhutan | 41.80 | 2013 |
+| 273 | Lebanon | 41.80 | 2013 |
+| 274 | Poland | 41.60 | 2013 |
+| 275 | Morocco | 41.50 | 2013 |
+| 276 | Suriname | 41.50 | 2013 |
+| 277 | Vietnam | 41.40 | 2013 |
+| 278 | Cyprus | 41.30 | 2013 |
+| 279 | Western Sahara | 41.20 | 2013 |
+| 280 | Algeria | 41.10 | 2013 |
+| 281 | Belarus | 41.10 | 2013 |
+| 282 | Iran | 41.00 | 2013 |
+| 283 | Macedonia | 40.90 | 2013 |
+| 284 | Bahamas, The | 40.90 | 2013 |
+| 285 | Grenada | 40.50 | 2013 |
+| 286 | Russia | 40.50 | 2013 |
+| 287 | Japan | 40.50 | 2013 |
+| 288 | Guam | 39.90 | 2013 |
+| 289 | Mauritius | 39.80 | 2013 |
+| 290 | Mongolia | 39.60 | 2013 |
+| 291 | Slovakia | 38.90 | 2013 |
+| 292 | Moldova | 38.80 | 2013 |
+| 293 | Thailand | 38.60 | 2013 |
+| 294 | Azerbaijan | 38.50 | 2013 |
+| 295 | Turkey | 38.30 | 2013 |
+| 296 | Malaysia | 38.10 | 2013 |
+| 297 | Kazakhstan | 38.10 | 2013 |
+| 298 | Sri Lanka | 37.90 | 2013 |
+| 299 | Western Sahara | 37.50 | 2013 |
+| 300 | Argentina | 37.40 | 2013 |
+| 301 | Saint Vincent and the Grenadines | 37.30 | 2013 |
+| 302 | Kuwait | 37.20 | 2013 |
+| 303 | Korea, South | 37.10 | 2013 |
+| 304 | China | 36.80 | 2013 |
+| 305 | Antigua and Barbuda | 36.70 | 2013 |
+| 306 | Brunei | 36.00 | 2013 |
+| 307 | Oman | 35.70 | 2013 |
+| 308 | Burma | 35.70 | 2013 |
+| 309 | Saint Lucia | 35.60 | 2013 |
+| 310 | Singapore | 35.60 | 2013 |
+| 311 | Brazil | 35.20 | 2013 |
+| 312 | Hong Kong | 34.60 | 2013 |
+| 313 | Bahrain | 34.30 | 2013 |
+| 314 | Uruguay | 34.10 | 2013 |
+| 315 | Kuwait | 34.00 | 2013 |
+| 316 | Costa Rica | 33.90 | 2013 |
+| 317 | New Caledonia | 33.60 | 2013 |
+| 318 | Iran | 33.60 | 2013 |
+| 319 | Tunisia | 33.30 | 2013 |
+| 320 | Virgin Islands | 32.70 | 2013 |
+| 321 | Ireland | 32.60 | 2013 |
+| 322 | Italy | 32.60 | 2013 |
+| 323 | French Polynesia | 32.20 | 2013 |
+| 324 | Vietnam | 32.10 | 2013 |
+| 325 | Germany | 32.10 | 2013 |
+| 326 | Oman | 31.90 | 2013 |
+| 327 | Seychelles | 31.60 | 2013 |
+| 328 | Korea, North | 31.50 | 2013 |
+| 329 | Kuwait | 31.30 | 2013 |
+| 330 | Iceland | 31.10 | 2013 |
+| 331 | Azerbaijan | 30.80 | 2013 |
+| 332 | New Zealand | 30.70 | 2013 |
+| 333 | Chile | 30.60 | 2013 |
+| 334 | Bahrain | 30.30 | 2013 |
+| 335 | Sweden | 30.30 | 2013 |
+| 336 | Albania | 30.10 | 2013 |
+| 337 | Bahamas, The | 30.00 | 2013 |
+| 338 | Greece | 29.90 | 2013 |
+| 339 | Trinidad and Tobago | 29.60 | 2013 |
+| 340 | Lebanon | 29.50 | 2013 |
+| 341 | Finland | 29.50 | 2013 |
+| 342 | United States | 29.40 | 2013 |
+| 343 | Puerto Rico | 29.30 | 2013 |
+| 344 | Armenia | 29.20 | 2013 |
+| 345 | Curacao | 29.00 | 2013 |
+| 346 | Bulgaria | 28.80 | 2013 |
+| 347 | Australia | 28.60 | 2013 |
+| 348 | Norway | 28.50 | 2013 |
+| 349 | France | 28.50 | 2013 |
+| 350 | Portugal | 28.20 | 2013 |
+| 351 | Aruba | 28.00 | 2013 |
+| 352 | Latvia | 27.90 | 2013 |
+| 353 | France | 27.90 | 2013 |
+| 354 | Denmark | 27.70 | 2013 |
+| 355 | Belgium | 27.70 | 2013 |
+| 356 | Mauritius | 27.60 | 2013 |
+| 357 | Montenegro | 27.50 | 2013 |
+| 358 | Croatia | 27.40 | 2013 |
+| 359 | Austria | 27.30 | 2013 |
+| 360 | Bahrain | 27.30 | 2013 |
+| 361 | Estonia | 27.30 | 2013 |
+| 362 | Denmark | 27.20 | 2013 |
+| 363 | United Kingdom | 27.10 | 2013 |
+| 364 | Western Sahara | 27.00 | 2013 |
+| 365 | Barbados | 26.90 | 2013 |
+| 366 | United Kingdom | 26.90 | 2013 |
+| 367 | Spain | 26.60 | 2013 |
+| 368 | Sweden | 26.50 | 2013 |
+| 369 | Georgia | 26.40 | 2013 |
+| 370 | Oman | 26.20 | 2013 |
+| 371 | Switzerland | 26.20 | 2013 |
+| 372 | Belgium | 26.10 | 2013 |
+| 373 | Netherlands | 25.90 | 2013 |
+| 374 | Netherlands | 25.80 | 2013 |
+| 375 | Macau | 25.80 | 2013 |
+| 376 | Luxembourg | 25.70 | 2013 |
+| 377 | Finland | 25.50 | 2013 |
+| 378 | Virgin Islands | 25.30 | 2013 |
+| 379 | Hungary | 25.30 | 2013 |
+| 380 | Slovenia | 25.20 | 2013 |
+| 381 | Thailand | 25.20 | 2013 |
+| 382 | China | 24.70 | 2013 |
+| 383 | Czech Republic | 24.40 | 2013 |
+| 384 | Jersey | 24.20 | 2013 |
+| 385 | Guernsey | 24.20 | 2013 |
+| 386 | Norway | 24.10 | 2013 |
+| 387 | Eritrea | 24.10 | 2013 |
+| 388 | Canada | 24.00 | 2013 |
+| 389 | Cyprus | 24.00 | 2013 |
+| 390 | Estonia | 23.90 | 2013 |
+| 391 | Malta | 23.60 | 2013 |
+| 392 | Saudi Arabia | 23.60 | 2013 |
+| 393 | Macedonia | 23.50 | 2013 |
+| 394 | Serbia | 23.40 | 2013 |
+| 395 | Cuba | 23.00 | 2013 |
+| 396 | Rwanda | 23.00 | 2013 |
+| 397 | Moldova | 23.00 | 2013 |
+| 398 | Spain | 23.00 | 2013 |
+| 399 | Bosnia and Herzegovina | 22.90 | 2013 |
+| 400 | Lithuania | 22.70 | 2013 |
+| 401 | Bosnia and Herzegovina | 22.70 | 2013 |
+| 402 | Latvia | 22.30 | 2013 |
+| 403 | Croatia | 22.30 | 2013 |
+| 404 | Greece | 22.30 | 2013 |
+| 405 | Russia | 22.20 | 2013 |
+| 406 | Portugal | 22.20 | 2013 |
+| 407 | Canada | 22.20 | 2013 |
+| 408 | Burundi | 22.00 | 2013 |
+| 409 | Uruguay | 22.00 | 2013 |
+| 410 | Lithuania | 22.00 | 2013 |
+| 411 | Switzerland | 21.90 | 2013 |
+| 412 | Jersey | 21.80 | 2013 |
+| 413 | Guernsey | 21.80 | 2013 |
+| 414 | Singapore | 21.80 | 2013 |
+| 415 | Czech Republic | 21.70 | 2013 |
+| 416 | Afghanistan | 21.70 | 2013 |
+| 417 | Italy | 21.70 | 2013 |
+| 418 | Romania | 21.70 | 2013 |
+| 419 | Gambia, The | 21.60 | 2013 |
+| 420 | Belarus | 21.60 | 2013 |
+| 421 | Austria | 21.60 | 2013 |
+| 422 | Romania | 21.60 | 2013 |
+| 423 | Hungary | 21.50 | 2013 |
+| 424 | Australia | 21.50 | 2013 |
+| 425 | Ukraine | 21.40 | 2013 |
+| 426 | Burkina Faso | 21.30 | 2013 |
+| 427 | Malta | 21.30 | 2013 |
+| 428 | Georgia | 21.30 | 2013 |
+| 429 | New Zealand | 21.20 | 2013 |
+| 430 | Poland | 21.20 | 2013 |
+| 431 | Japan | 21.10 | 2013 |
+| 432 | Curacao | 21.00 | 2013 |
+| 433 | United States | 21.00 | 2013 |
+| 434 | Equatorial Guinea | 21.00 | 2013 |
+| 435 | Slovakia | 20.90 | 2013 |
+| 436 | Slovenia | 20.90 | 2013 |
+| 437 | Puerto Rico | 20.90 | 2013 |
+| 438 | Sierra Leone | 20.90 | 2013 |
+| 439 | Angola | 20.90 | 2013 |
+| 440 | Luxembourg | 20.80 | 2013 |
+| 441 | Serbia | 20.70 | 2013 |
+| 442 | Kenya | 20.60 | 2013 |
+| 443 | Ukraine | 20.50 | 2013 |
+| 444 | Korea, South | 20.40 | 2013 |
+| 445 | Poland | 20.40 | 2013 |
+| 446 | Chad | 20.40 | 2013 |
+| 447 | Bulgaria | 20.40 | 2013 |
+| 448 | Uganda | 20.30 | 2013 |
+| 449 | Papua New Guinea | 20.30 | 2013 |
+| 450 | Togo | 20.10 | 2013 |
+| 451 | Germany | 19.90 | 2013 |
+| 452 | Yemen | 19.80 | 2013 |
+| 453 | Madagascar | 19.50 | 2013 |
+| 454 | Belarus | 19.50 | 2013 |
+| 455 | Zambia | 19.40 | 2013 |
+| 456 | Iceland | 19.30 | 2013 |
+| 457 | Nigeria | 19.30 | 2013 |
+| 458 | Comoros | 19.30 | 2013 |
+| 459 | Guinea-Bissau | 19.30 | 2013 |
+| 460 | Gaza Strip | 19.20 | 2013 |
+| 461 | Montenegro | 19.20 | 2013 |
+| 462 | West Bank | 19.20 | 2013 |
+| 463 | Tajikistan | 19.10 | 2013 |
+| 464 | Cuba | 18.90 | 2013 |
+| 465 | Hong Kong | 18.90 | 2013 |
+| 466 | Benin | 18.80 | 2013 |
+| 467 | United Arab Emirates | 18.60 | 2013 |
+| 468 | Russia | 18.30 | 2013 |
+| 469 | Ireland | 18.20 | 2013 |
+| 470 | Congo, Democratic Republic of the | 18.20 | 2013 |
+| 471 | Niger | 18.10 | 2013 |
+| 472 | Mongolia | 18.10 | 2013 |
+| 473 | United Arab Emirates | 18.10 | 2013 |
+| 474 | Slovakia | 18.00 | 2013 |
+| 475 | Mali | 17.90 | 2013 |
+| 476 | Senegal | 17.90 | 2013 |
+| 477 | Mauritania | 17.90 | 2013 |
+| 478 | Iraq | 17.80 | 2013 |
+| 479 | Liberia | 17.80 | 2013 |
+| 480 | Guyana | 17.70 | 2013 |
+| 481 | Somalia | 17.70 | 2013 |
+| 482 | Jordan | 17.60 | 2013 |
+| 483 | Guinea | 17.50 | 2013 |
+| 484 | Cote d'Ivoire | 17.50 | 2013 |
+| 485 | Israel | 17.40 | 2013 |
+| 486 | Macedonia | 17.40 | 2013 |
+| 487 | Cyprus | 17.30 | 2013 |
+| 488 | Botswana | 17.30 | 2013 |
+| 489 | Qatar | 17.20 | 2013 |
+| 490 | Sudan | 17.10 | 2013 |
+| 491 | Namibia | 17.00 | 2013 |
+| 492 | Argentina | 16.90 | 2013 |
+| 493 | Solomon Islands | 16.80 | 2013 |
+| 494 | Swaziland | 16.80 | 2013 |
+| 495 | Cameroon | 16.70 | 2013 |
+| 496 | Korea, South | 16.70 | 2013 |
+| 497 | Ghana | 16.70 | 2013 |
+| 498 | Turkmenistan | 16.50 | 2013 |
+| 499 | Brunei | 16.40 | 2013 |
+| 500 | Aruba | 16.40 | 2013 |
+| 501 | Sao Tome and Principe | 16.30 | 2013 |
+| 502 | Tanzania | 16.20 | 2013 |
+| 503 | Malawi | 16.10 | 2013 |
+| 504 | Laos | 16.10 | 2013 |
+| 505 | Qatar | 16.00 | 2013 |
+| 506 | Philippines | 15.90 | 2013 |
+| 507 | Congo, Republic of the | 15.90 | 2013 |
+| 508 | Hong Kong | 15.80 | 2013 |
+| 509 | Moldova | 15.80 | 2013 |
+| 510 | Ethiopia | 15.80 | 2013 |
+| 511 | Uzbekistan | 15.70 | 2013 |
+| 512 | Djibouti | 15.70 | 2013 |
+| 513 | Kyrgyzstan | 15.70 | 2013 |
+| 514 | Macau | 15.60 | 2013 |
+| 515 | Albania | 15.60 | 2013 |
+| 516 | Mozambique | 15.60 | 2013 |
+| 517 | Belize | 15.60 | 2013 |
+| 518 | South Sudan | 15.60 | 2013 |
+| 519 | Kiribati | 15.50 | 2013 |
+| 520 | Timor-Leste | 15.50 | 2013 |
+| 521 | Barbados | 15.50 | 2013 |
+| 522 | Syria | 15.00 | 2013 |
+| 523 | Vanuatu | 15.00 | 2013 |
+| 524 | Micronesia, Federated States of | 14.90 | 2013 |
+| 525 | Armenia | 14.90 | 2013 |
+| 526 | New Caledonia | 14.70 | 2013 |
+| 527 | Algeria | 14.70 | 2013 |
+| 528 | Central African Republic | 14.70 | 2013 |
+| 529 | Zimbabwe | 14.70 | 2013 |
+| 530 | Chile | 14.50 | 2013 |
+| 531 | Lesotho | 14.10 | 2013 |
+| 532 | Pakistan | 14.10 | 2013 |
+| 533 | Bhutan | 14.00 | 2013 |
+| 534 | Singapore | 13.80 | 2013 |
+| 535 | Korea, North | 13.70 | 2013 |
+| 536 | Libya | 13.70 | 2013 |
+| 537 | Honduras | 13.60 | 2013 |
+| 538 | Bangladesh | 13.60 | 2013 |
+| 539 | Nicaragua | 13.50 | 2013 |
+| 540 | Morocco | 13.50 | 2013 |
+| 541 | Thailand | 13.50 | 2013 |
+| 542 | Iran | 13.40 | 2013 |
+| 543 | Haiti | 13.40 | 2013 |
+| 544 | Maldives | 13.40 | 2013 |
+| 545 | Burma | 13.40 | 2013 |
+| 546 | Saint Lucia | 13.00 | 2013 |
+| 547 | Trinidad and Tobago | 12.90 | 2013 |
+| 548 | Azerbaijan | 12.90 | 2013 |
+| 549 | Malaysia | 12.80 | 2013 |
+| 550 | Sri Lanka | 12.80 | 2013 |
+| 551 | Indonesia | 12.60 | 2013 |
+| 552 | India | 12.40 | 2013 |
+| 553 | Bolivia | 12.30 | 2013 |
+| 554 | Guam | 12.30 | 2013 |
+| 555 | Lebanon | 12.30 | 2013 |
+| 556 | Mauritius | 12.20 | 2013 |
+| 557 | Jamaica | 12.20 | 2013 |
+| 558 | Cabo Verde | 12.20 | 2013 |
+| 559 | China | 12.10 | 2013 |
+| 560 | Guatemala | 12.10 | 2013 |
+| 561 | Fiji | 12.10 | 2013 |
+| 562 | Cambodia | 11.90 | 2013 |
+| 563 | South Africa | 11.70 | 2013 |
+| 564 | Nepal | 11.70 | 2013 |
+| 565 | Paraguay | 11.40 | 2013 |
+| 566 | El Salvador | 11.30 | 2013 |
+| 567 | Panama | 11.20 | 2013 |
+| 568 | Samoa | 11.10 | 2013 |
+| 569 | Brazil | 11.00 | 2013 |
+| 570 | Seychelles | 11.00 | 2013 |
+| 571 | Turkey | 11.00 | 2013 |
+| 572 | Gabon | 10.90 | 2013 |
+| 573 | Egypt | 10.90 | 2013 |
+| 574 | Bahamas, The | 10.80 | 2013 |
+| 575 | Grenada | 10.80 | 2013 |
+| 576 | Vietnam | 10.70 | 2013 |
+| 577 | Colombia | 10.70 | 2013 |
+| 578 | Venezuela | 10.60 | 2013 |
+| 579 | Antigua and Barbuda | 10.50 | 2013 |
+| 580 | Saint Vincent and the Grenadines | 10.30 | 2013 |
+| 581 | Tonga | 10.30 | 2013 |
+| 582 | Tunisia | 10.30 | 2013 |
+| 583 | Ecuador | 10.30 | 2013 |
+| 584 | Macau | 10.20 | 2013 |
+| 585 | French Polynesia | 10.20 | 2013 |
+| 586 | Mexico | 10.20 | 2013 |
+| 587 | Suriname | 10.10 | 2013 |
+| 588 | Dominican Republic | 10.10 | 2013 |
+| 589 | Costa Rica | 10.10 | 2013 |
+| 590 | Kazakhstan | 10.10 | 2013 |
+| 591 | Peru | 10.10 | 2013 |
+| 592 | Dominican Republic | 9.90 | 2013 |
+| 593 | Kazakhstan | 9.90 | 2013 |
+| 594 | Costa Rica | 9.90 | 2013 |
+| 595 | Peru | 9.90 | 2013 |
+| 596 | Suriname | 9.90 | 2013 |
+| 597 | French Polynesia | 9.80 | 2013 |
+| 598 | Macau | 9.80 | 2013 |
+| 599 | Ecuador | 9.80 | 2013 |
+| 600 | Mexico | 9.80 | 2013 |
+| 601 | Tunisia | 9.70 | 2013 |
+| 602 | Tonga | 9.70 | 2013 |
+| 603 | Saint Vincent and the Grenadines | 9.70 | 2013 |
+| 604 | Venezuela | 9.50 | 2013 |
+| 605 | Antigua and Barbuda | 9.50 | 2013 |
+| 606 | Grenada | 9.30 | 2013 |
+| 607 | Vietnam | 9.30 | 2013 |
+| 608 | Colombia | 9.30 | 2013 |
+| 609 | Gabon | 9.20 | 2013 |
+| 610 | Bahamas, The | 9.20 | 2013 |
+| 611 | Seychelles | 9.10 | 2013 |
+| 612 | Brazil | 9.10 | 2013 |
+| 613 | Egypt | 9.10 | 2013 |
+| 614 | Turkey | 9.10 | 2013 |
+| 615 | Samoa | 9.00 | 2013 |
+| 616 | Panama | 8.90 | 2013 |
+| 617 | Paraguay | 8.80 | 2013 |
+| 618 | El Salvador | 8.80 | 2013 |
+| 619 | South Africa | 8.50 | 2013 |
+| 620 | Nepal | 8.50 | 2013 |
+| 621 | Cambodia | 8.40 | 2013 |
+| 622 | Guatemala | 8.30 | 2013 |
+| 623 | Fiji | 8.30 | 2013 |
+| 624 | Jamaica | 8.20 | 2013 |
+| 625 | Cabo Verde | 8.20 | 2013 |
+| 626 | China | 8.20 | 2013 |
+| 627 | Mauritius | 8.20 | 2013 |
+| 628 | Lebanon | 8.10 | 2013 |
+| 629 | Bolivia | 8.10 | 2013 |
+| 630 | Guam | 8.10 | 2013 |
+| 631 | India | 8.00 | 2013 |
+| 632 | Indonesia | 7.90 | 2013 |
+| 633 | Malaysia | 7.80 | 2013 |
+| 634 | Trinidad and Tobago | 7.80 | 2013 |
+| 635 | Sri Lanka | 7.80 | 2013 |
+| 636 | Azerbaijan | 7.80 | 2013 |
+| 637 | Saint Lucia | 7.70 | 2013 |
+| 638 | Haiti | 7.50 | 2013 |
+| 639 | Iran | 7.50 | 2013 |
+| 640 | Burma | 7.50 | 2013 |
+| 641 | Honduras | 7.40 | 2013 |
+| 642 | Nicaragua | 7.40 | 2013 |
+| 643 | Morocco | 7.40 | 2013 |
+| 644 | Thailand | 7.40 | 2013 |
+| 645 | Maldives | 7.40 | 2013 |
+| 646 | Libya | 7.30 | 2013 |
+| 647 | Korea, North | 7.30 | 2013 |
+| 648 | Bangladesh | 7.30 | 2013 |
+| 649 | Singapore | 7.20 | 2013 |
+| 650 | Lesotho | 7.10 | 2013 |
+| 651 | Pakistan | 7.10 | 2013 |
+| 652 | Bhutan | 7.10 | 2013 |
+| 653 | Chile | 6.90 | 2013 |
+| 654 | Zimbabwe | 6.80 | 2013 |
+| 655 | Central African Republic | 6.80 | 2013 |
+| 656 | New Caledonia | 6.80 | 2013 |
+| 657 | Algeria | 6.80 | 2013 |
+| 658 | Syria | 6.70 | 2013 |
+| 659 | Vanuatu | 6.70 | 2013 |
+| 660 | Micronesia, Federated States of | 6.70 | 2013 |
+| 661 | Armenia | 6.70 | 2013 |
+| 662 | Barbados | 6.50 | 2013 |
+| 663 | Kiribati | 6.50 | 2013 |
+| 664 | Uzbekistan | 6.40 | 2013 |
+| 665 | Kyrgyzstan | 6.40 | 2013 |
+| 666 | Belize | 6.40 | 2013 |
+| 667 | Mozambique | 6.40 | 2013 |
+| 668 | Albania | 6.40 | 2013 |
+| 669 | South Sudan | 6.40 | 2013 |
+| 670 | Timor-Leste | 6.40 | 2013 |
+| 671 | Djibouti | 6.40 | 2013 |
+| 672 | Ethiopia | 6.30 | 2013 |
+| 673 | Moldova | 6.30 | 2013 |
+| 674 | Philippines | 6.30 | 2013 |
+| 675 | Congo, Republic of the | 6.30 | 2013 |
+| 676 | Laos | 6.20 | 2013 |
+| 677 | Malawi | 6.20 | 2013 |
+| 678 | Tanzania | 6.20 | 2013 |
+| 679 | Turkmenistan | 6.10 | 2013 |
+| 680 | Brunei | 6.10 | 2013 |
+| 681 | Aruba | 6.10 | 2013 |
+| 682 | Sao Tome and Principe | 6.10 | 2013 |
+| 683 | Korea, South | 6.00 | 2013 |
+| 684 | Solomon Islands | 6.00 | 2013 |
+| 685 | Cameroon | 6.00 | 2013 |
+| 686 | Ghana | 6.00 | 2013 |
+| 687 | Namibia | 5.90 | 2013 |
+| 688 | Swaziland | 5.90 | 2013 |
+| 689 | Argentina | 5.90 | 2013 |
+| 690 | Botswana | 5.80 | 2013 |
+| 691 | Cyprus | 5.80 | 2013 |
+| 692 | Sudan | 5.80 | 2013 |
+| 693 | Somalia | 5.70 | 2013 |
+| 694 | Guinea | 5.70 | 2013 |
+| 695 | Macedonia | 5.70 | 2013 |
+| 696 | Cote d'Ivoire | 5.70 | 2013 |
+| 697 | Jordan | 5.70 | 2013 |
+| 698 | Guyana | 5.70 | 2013 |
+| 699 | Israel | 5.70 | 2013 |
+| 700 | Mauritania | 5.60 | 2013 |
+| 701 | Senegal | 5.60 | 2013 |
+| 702 | Iraq | 5.60 | 2013 |
+| 703 | Mali | 5.60 | 2013 |
+| 704 | Slovakia | 5.60 | 2013 |
+| 705 | Liberia | 5.60 | 2013 |
+| 706 | Mongolia | 5.50 | 2013 |
+| 707 | Russia | 5.50 | 2013 |
+| 708 | Congo, Democratic Republic of the | 5.50 | 2013 |
+| 709 | Ireland | 5.50 | 2013 |
+| 710 | Niger | 5.50 | 2013 |
+| 711 | Benin | 5.30 | 2013 |
+| 712 | Cuba | 5.30 | 2013 |
+| 713 | Hong Kong | 5.30 | 2013 |
+| 714 | Iceland | 5.20 | 2013 |
+| 715 | Gaza Strip | 5.20 | 2013 |
+| 716 | Montenegro | 5.20 | 2013 |
+| 717 | Nigeria | 5.20 | 2013 |
+| 718 | Guinea-Bissau | 5.20 | 2013 |
+| 719 | Tajikistan | 5.20 | 2013 |
+| 720 | Zambia | 5.20 | 2013 |
+| 721 | West Bank | 5.20 | 2013 |
+| 722 | Comoros | 5.20 | 2013 |
+| 723 | Yemen | 5.10 | 2013 |
+| 724 | Belarus | 5.10 | 2013 |
+| 725 | Madagascar | 5.10 | 2013 |
+| 726 | Togo | 5.00 | 2013 |
+| 727 | Papua New Guinea | 4.90 | 2013 |
+| 728 | Kenya | 4.90 | 2013 |
+| 729 | Poland | 4.90 | 2013 |
+| 730 | Chad | 4.90 | 2013 |
+| 731 | Uganda | 4.90 | 2013 |
+| 732 | Equatorial Guinea | 4.80 | 2013 |
+| 733 | Luxembourg | 4.80 | 2013 |
+| 734 | Serbia | 4.80 | 2013 |
+| 735 | Puerto Rico | 4.80 | 2013 |
+| 736 | Curacao | 4.80 | 2013 |
+| 737 | United States | 4.80 | 2013 |
+| 738 | Angola | 4.80 | 2013 |
+| 739 | Sierra Leone | 4.80 | 2013 |
+| 740 | Burkina Faso | 4.70 | 2013 |
+| 741 | Ukraine | 4.70 | 2013 |
+| 742 | Georgia | 4.70 | 2013 |
+| 743 | New Zealand | 4.70 | 2013 |
+| 744 | Afghanistan | 4.60 | 2013 |
+| 745 | Romania | 4.60 | 2013 |
+| 746 | Australia | 4.60 | 2013 |
+| 747 | Gambia, The | 4.60 | 2013 |
+| 748 | Uruguay | 4.50 | 2013 |
+| 749 | Canada | 4.50 | 2013 |
+| 750 | Burundi | 4.50 | 2013 |
+| 751 | Lithuania | 4.40 | 2013 |
+| 752 | Bosnia and Herzegovina | 4.40 | 2013 |
+| 753 | Rwanda | 4.30 | 2013 |
+| 754 | Saudi Arabia | 4.20 | 2013 |
+| 755 | Malta | 4.20 | 2013 |
+| 756 | Guernsey | 4.10 | 2013 |
+| 757 | Eritrea | 4.10 | 2013 |
+| 758 | Czech Republic | 4.10 | 2013 |
+| 759 | Norway | 4.10 | 2013 |
+| 760 | Jersey | 4.10 | 2013 |
+| 761 | Slovenia | 4.00 | 2013 |
+| 762 | Hungary | 4.00 | 2013 |
+| 763 | Netherlands | 3.90 | 2013 |
+| 764 | Virgin Islands | 3.90 | 2013 |
+| 765 | Spain | 3.80 | 2013 |
+| 766 | Oman | 3.80 | 2013 |
+| 767 | Switzerland | 3.80 | 2013 |
+| 768 | United Kingdom | 3.70 | 2013 |
+| 769 | Western Sahara | 3.70 | 2013 |
+| 770 | Austria | 3.70 | 2013 |
+| 771 | Estonia | 3.70 | 2013 |
+| 772 | Croatia | 3.70 | 2013 |
+| 773 | Latvia | 3.60 | 2013 |
+| 774 | Denmark | 3.60 | 2013 |
+| 775 | Belgium | 3.60 | 2013 |
+| 776 | France | 3.60 | 2013 |
+| 777 | Portugal | 3.50 | 2013 |
+| 778 | Bulgaria | 3.50 | 2013 |
+| 779 | Finland | 3.40 | 2013 |
+| 780 | Sweden | 3.30 | 2013 |
+| 781 | Greece | 3.30 | 2013 |
+| 782 | Kuwait | 3.20 | 2013 |
+| 783 | Italy | 3.10 | 2013 |
+| 784 | Germany | 3.10 | 2013 |
+| 785 | Bahrain | 2.90 | 2013 |
+| 786 | Japan | 2.50 | 2013 |
+| 787 | Qatar | 1.20 | 2013 |
+| 788 | United Arab Emirates | 0.50 | 2013 |
+
+

@@ -1,0 +1,29 @@
+Telephone Code: 876
+Local Emergency Phone - Ambulance: 110
+Local Emergency Phone - Fire: 110
+Local Emergency Phone - Police: 119
+Climate: Tropical; hot, humid; temperate interior
+Currency (Code): Jamaican dollars (JMD)
+Electricity: 110 V
+Voltage: 50 Hz
+Plug types(s): A, B
+Major Languages: English, English patois
+Major Religions: Protestant 64.8%, Roman Catholic 2.2%, Jehovah's Witness 1.9%, Rastafarian 1.1%
+Time Difference: UTC-5 (same time as Washington, DC, during Standard Time)
+Potable Water: Yes, but some opt for bottled water
+International Driving Permit: If your driver's license doesn't have a stamped photograph, an IDP is required.
+Road Driving Side: Left
+Tourist Destinations: Negril Beach & Negril Cliffs; rafting the Martha Brae River; Dunn's River Falls; Blue & John Crow Mountains National Park; Port Antonio; Doctor's Cave Beach
+Major Sports: Soccer, cricket, track and field, netball, rugby
+Cultural Practices: Men often pat each other's shoulder or arm during greetings or conversation.
+Tipping Guidelines: Tipping 10-20% is appropriate in nicer restaurants. Before tipping at a hotel, be sure to check if tips are even allowed. In some cases, employees can be fired if caught taking gifts or money.
+Souvenirs: Hand-loomed, embroidered, and batik fabric; silkscreens and oil paintings, wood carvings; raffia, straw, and wicker items; rum, coffee, pottery and ceramics, bead and shell jewelry
+Traditional Cuisine: Ackee and saltfish --- boiled ackee (a pear-shaped fruit) and salted codfish sautéd with onions and tomatoes; sometimes served over bammy (deep-fried cassava cakes) with fried plantains
+
+---
+country: Jamaica
+date: May 11, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Jamaica/travel-facts>
+license: public domain (U.S.)
+...

@@ -1,0 +1,27 @@
+Telephone Code: 239
+Local Emergency Phone: 2-22-22-22; Fire: 112
+Climate: tropical; hot, humid; rainy season October to May
+Currency (Code): Sao Tome and Príncipe dobra (STN)
+Electricity: 220 V
+Voltage: 50 Hz
+Plug types(s): C,F
+Major Languages: Portuguese 98.4% (official), Forro 36.2%, Cabo Verdian 8.5%, French 6.8%, Angolar 6.6%, English 4.9%, other Portuguese-based Creoles are also spoken
+Major Religions: Catholic 55.7%, Adventist 4.1%, Assembly of God 3.4%, other 6.2%, none 21.2%
+Time Difference: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Required
+Road Driving Side: Right
+Tourist Destinations: Obo National Park; Pico de Sao Tome; Rolas Island; Boca de Inferno; Jale Beach; Principe Ecological Zone
+Major Sports: Soccer
+Cultural Practices: Manners and etiquette are considered important; greeting a person and inquiring about his or her health and family is essential in social encounters. Older people tend to be treated with great respect, particularly if they have many children and grandchildren. Entry into a person's home or garden is a privilege; acquaintances often converse in the road or across a garden hedge rather than enter a house or yard.
+Tipping Guidelines: Tipping in Sao Tome and Principe is part of the culture. While it is normal to tip the different service providers, if the service you are receiving is not good, you may decide to give a tip lower than what is stated as the normal tipping amount or decide not to give any tip at all; average tipping percentage in restaurants is between 7% to 13%, between 8% to 20% for taxi drivers, and between 2.00 to 5.00 USD/EURO/GBP in hotels.
+Souvenirs: Carved wooden masks and other tribal items, stamps, tortoise-shell jewelry and decorative items
+Traditional Cuisine: Calulu de peixe (Fish calulu) --- a smoked fish stew which combines various vegetables cooked in red palm oil with okra and sweet potato leaves; traditionally accompanied by rice or funje (a creamy cassava porridge)
+
+---
+country: Sao Tome and Principe
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Sao Tome and Principe/travel-facts>
+license: public domain (U.S.)
+...

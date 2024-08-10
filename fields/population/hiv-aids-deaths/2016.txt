@@ -1,0 +1,137 @@
+CIA - The World Factbook --  HIV/AIDS - DEATHS
+
+HIV/AIDS - deaths compares the number of adults and children who died of AIDS during a given calendar year.
+
+| Rank | Country | HIV/AIDS - DEATHS | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Nigeria | 174,300 | 2014 est. |
+| 2 | South Africa | 138,400 | 2014 est. |
+| 3 | India | 127,200 | 2013 est. |
+| 4 | Tanzania | 46,100 | 2014 est. |
+| 5 | Mozambique | 44,900 | 2014 est. |
+| 6 | Zimbabwe | 38,600 | 2014 est. |
+| 7 | Cameroon | 34,200 | 2014 est. |
+| 8 | Indonesia | 33,700 | 2014 est. |
+| 9 | Kenya | 33,000 | 2014 est. |
+| 10 | Uganda | 32,900 | 2014 est. |
+| 11 | Malawi | 32,600 | 2014 est. |
+| 12 | Congo, Democratic Republic of the | 24,100 | 2014 est. |
+| 13 | Ethiopia | 23,400 | 2014 est. |
+| 14 | Cote d'Ivoire | 21,800 | 2014 est. |
+| 15 | Thailand | 19,400 | 2014 est. |
+| 16 | Zambia | 18,900 | 2014 est. |
+| 17 | Brazil | 15,800 | 2013 est. |
+| 18 | Ukraine | 13,400 | 2013 est. |
+| 19 | South Sudan | 12,700 | 2014 est. |
+| 20 | Angola | 11,770 | 2014 est. |
+| 21 | Chad | 11,700 | 2014 est. |
+| 22 | Vietnam | 10,600 | 2014 est. |
+| 23 | Burma | 10,100 | 2014 est. |
+| 24 | Central African Republic | 9,900 | 2014 est. |
+| 25 | Lesotho | 9,300 | 2014 est. |
+| 26 | Ghana | 9,200 | 2014 est. |
+| 27 | Malaysia | 9,000 | 2014 est. |
+| 28 | Mexico | 6,000 | 2014 est. |
+| 29 | Mali | 5,300 | 2014 est. |
+| 30 | Botswana | 5,100 | 2014 est. |
+| 31 | Namibia | 5,100 | 2014 est. |
+| 32 | Colombia | 4,700 | 2014 est. |
+| 33 | Venezuela | 4,400 | 2013 est. |
+| 34 | Congo, Republic of the | 4,400 | 2014 est. |
+| 35 | Togo | 4,300 | 2014 est. |
+| 36 | Iran | 4,100 | 2014 est. |
+| 37 | Burundi | 3,900 | 2014 est. |
+| 38 | Burkina Faso | 3,800 | 2014 est. |
+| 39 | Guinea | 3,800 | 2014 est. |
+| 40 | Haiti | 3,800 | 2014 est. |
+| 41 | Swaziland | 3,500 | 2014 est. |
+| 42 | Niger | 3,400 | 2014 est. |
+| 43 | Madagascar | 3,200 | 2014 est. |
+| 44 | Dominican Republic | 3,100 | 2014 est. |
+| 45 | Rwanda | 3,000 | 2014 est. |
+| 46 | Sudan | 2,900 | 2014 est. |
+| 47 | Pakistan | 2,800 | 2014 est. |
+| 48 | Sierra Leone | 2,700 | 2014 est. |
+| 49 | Cambodia | 2,600 | 2014 est. |
+| 50 | Nepal | 2,600 | 2014 est. |
+| 51 | Peru | 2,500 | 2014 est. |
+| 52 | Senegal | 2,400 | 2014 est. |
+| 53 | Benin | 2,400 | 2014 est. |
+| 54 | Somalia | 2,400 | 2014 est. |
+| 55 | Uzbekistan | 2,200 | 2014 est. |
+| 56 | Liberia | 2,000 | 2014 est. |
+| 57 | Guinea-Bissau | 1,900 | 2014 est. |
+| 58 | Guatemala | 1,700 | 2014 est. |
+| 59 | France | 1,500 | 2013 est. |
+| 60 | Argentina | 1,500 | 2014 est. |
+| 61 | Gabon | 1,500 | 2014 est. |
+| 62 | Jamaica | 1,300 | 2014 est. |
+| 63 | Ecuador | 1,200 | 2014 est. |
+| 64 | Honduras | 1,200 | 2014 est. |
+| 65 | Morocco | 1,100 | 2014 est. |
+| 66 | Mauritania | 1,100 | 2014 est. |
+| 67 | Belarus | 1,000 | 2014 est. |
+| 68 | Gambia, The | 900 | 2014 est. |
+| 69 | Papua New Guinea | 900 | 2014 est. |
+| 70 | Spain | 800 | 2013 est. |
+| 71 | Equatorial Guinea | 800 | 2014 est. |
+| 72 | Moldova | 800 | 2014 est. |
+| 73 | Tajikistan | 700 | 2014 est. |
+| 74 | Trinidad and Tobago | 700 | 2013 est. |
+| 75 | Bangladesh | 700 | 2014 est. |
+| 76 | Chile | 700 | 2014 est. |
+| 77 | Bolivia | 700 | 2014 est. |
+| 78 | Eritrea | 700 | 2014 est. |
+| 79 | Uruguay | 600 | 2014 est. |
+| 80 | Djibouti | 600 | 2014 est. |
+| 81 | Panama | 600 | 2014 est. |
+| 82 | United Kingdom | 600 | 2013 est. |
+| 83 | Philippines | 500 | 2014 est. |
+| 84 | Romania | 500 | 2013 est. |
+| 85 | Bahamas, The | 500 | 2013 est. |
+| 86 | Laos | 500 | 2014 est. |
+| 87 | Kazakhstan | 500 | 2014 est. |
+| 88 | Mauritius | 500 | 2014 est. |
+| 89 | Canada | 400 | 2013 est. |
+| 90 | Paraguay | 400 | 2014 est. |
+| 91 | Nicaragua | 400 | 2014 est. |
+| 92 | Azerbaijan | 400 | 2014 est. |
+| 93 | Germany | 400 | 2013 est. |
+| 94 | El Salvador | 400 | 2014 est. |
+| 95 | Kyrgyzstan | 400 | 2014 est. |
+| 96 | Yemen | 300 | 2014 est. |
+| 97 | Afghanistan | 300 | 2014 est. |
+| 98 | Egypt | 300 | 2014 est. |
+| 99 | Switzerland | 300 | 2013 est. |
+| 100 | Suriname | 200 | 2014 est. |
+| 101 | Algeria | 200 | 2014 est. |
+| 102 | Armenia | 200 | 2014 est. |
+| 103 | Costa Rica | 200 | 2014 est. |
+| 104 | Tunisia | 100 | 2014 est. |
+| 105 | Australia | 100 | 2013 est. |
+| 106 | Macedonia | 100 | 2013 est. |
+| 107 | Hungary | 100 | 2013 est. |
+| 108 | Sweden | 100 | 2014 est. |
+| 109 | Slovenia | 100 | 2014 est. |
+| 110 | Syria | 100 | 2014 est. |
+| 111 | Serbia | 100 | 2013 est. |
+| 112 | Norway | 100 | 2014 est. |
+| 113 | Maldives | 100 | 2013 est. |
+| 114 | Oman | 100 | 2014 est. |
+| 115 | Mongolia | 100 | 2013 est. |
+| 116 | Slovakia | 100 | 2014 est. |
+| 117 | Lebanon | 100 | 2014 est. |
+| 118 | Guyana | 100 | 2014 est. |
+| 119 | Georgia | 100 | 2014 est. |
+| 120 | Fiji | 100 | 2014 est. |
+| 121 | Czechia | 100 | 2013 est. |
+| 122 | Ireland | 100 | 2014 est. |
+| 123 | Denmark | 100 | 2014 est. |
+| 124 | Cyprus | 100 | 2013 est. |
+| 125 | Cabo Verde | 100 | 2014 est. |
+| 126 | Cuba | 100 | 2014 est. |
+| 127 | Sri Lanka | 100 | 2014 est. |
+| 128 | Belize | 100 | 2014 est. |
+| 129 | Sao Tome and Principe | 100 | 2014 est. |
+
+

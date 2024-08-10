@@ -1,0 +1,87 @@
+CIA - The World Factbook --  Stock of direct foreign investment - abroad   
+
+This entry gives the cumulative US dollar value of all investments in foreign countries made directly by residents - primarily companies - of the home country, as of the end of the time period indicated. Direct investment excludes investment through purchase of shares.
+
+| Rank | country | Stock of direct foreign investment - abroad | Date of Information |
+| --- | --- | --- | --- |
+| 1 | United States | $ 3,162,000,000,000 | 31 December 2008 est. |
+| 2 | France | $ 1,624,000,000,000 | 31 December 2008 est. |
+| 3 | United Kingdom | $ 1,567,000,000,000 | 31 December 2008 est. |
+| 4 | Germany | $ 1,407,000,000,000 | 31 December 2008 est. |
+| 5 | Netherlands | $ 843,700,000,000 | 31 December 2008 est. |
+| 6 | Hong Kong | $ 776,000,000,000 | 31 December 2008 est. |
+| 7 | Switzerland | $ 726,300,000,000 | 31 December 2008 est. |
+| 8 | Japan | $ 663,900,000,000 | 31 December 2008 est. |
+| 9 | Belgium | $ 661,900,000,000 | 31 December 2008 est. |
+| 10 | Spain | $ 605,300,000,000 | 31 December 2008 est. |
+| 11 | Italy | $ 565,300,000,000 | 31 December 2008 est. |
+| 12 | Canada | $ 520,400,000,000 | 31 December 2008 est. |
+| 13 | Sweden | $ 333,900,000,000 | 31 December 2008 est. |
+| 14 | Austria | $ 270,000,000,000 | 31 December 2008 est. |
+| 15 | Australia | $ 197,200,000,000 | 31 December 2008 est. |
+| 16 | Denmark | $ 181,900,000,000 | 31 December 2008 est. |
+| 17 | Russia | $ 176,700,000,000 | 31 December 2008 est. |
+| 18 | Singapore | $ 173,600,000,000 | 31 December 2008 est. |
+| 19 | Norway | $ 160,100,000,000 | 31 December 2008 est. |
+| 20 | Hungary | $ 159,700,000,000 | 31 December 2008 est. |
+| 21 | Ireland | $ 152,900,000,000 | 31 December 2008 est. |
+| 22 | China | $ 149,300,000,000 | 31 December 2008 est. |
+| 23 | Brazil | $ 127,500,000,000 | 31 December 2008 est. |
+| 24 | Finland | $ 116,000,000,000 | 31 December 2008 est. |
+| 25 | Taiwan | $ 107,100,000,000 | 31 December 2008 est. |
+| 26 | Korea, South | $ 74,600,000,000 | 30 June 2008 |
+| 27 | Malaysia | $ 71,200,000,000 | 31 December 2008 est. |
+| 28 | Portugal | $ 69,240,000,000 | 31 December 2008 est. |
+| 29 | South Africa | $ 63,570,000,000 | 31 December 2008 est. |
+| 30 | India | $ 61,770,000,000 | 31 December 2008 est. |
+| 31 | Israel | $ 54,550,000,000 | 31 December 2008 est. |
+| 32 | Mexico | $ 45,390,000,000 | 31 December 2008 est. |
+| 33 | Greece | $ 32,440,000,000 | 31 December 2008 est. |
+| 34 | United Arab Emirates | $ 28,950,000,000 | 31 December 2008 est. |
+| 35 | Argentina | $ 28,750,000,000 | 31 December 2008 est. |
+| 36 | Chile | $ 25,700,000,000 | 31 December 2008 est. |
+| 37 | Kuwait | $ 25,680,000,000 | 31 December 2008 est. |
+| 38 | Poland | $ 21,810,000,000 | 31 December 2008 est. |
+| 39 | Saudi Arabia | $ 18,070,000,000 | 31 December 2008 est. |
+| 40 | Venezuela | $ 16,620,000,000 | 31 December 2008 est. |
+| 41 | Turkey | $ 14,800,000,000 | 31 December 2008 est. |
+| 42 | Colombia | $ 13,180,000,000 | 31 December 2008 est. |
+| 43 | Nigeria | $ 13,020,000,000 | 31 December 2008 est. |
+| 44 | Egypt | $ 12,080,000,000 | 31 December 2008 est. |
+| 45 | Tajikistan | $ 10,860,000,000 | 31 December 2008 est. |
+| 46 | Czech Republic | $ 9,913,000,000 | 31 December 2008 est. |
+| 47 | Bahrain | $ 9,340,000,000 | 31 December 2008 est. |
+| 48 | Ecuador | $ 8,487,000,000 | 31 December 2008 est. |
+| 49 | Slovenia | $ 7,592,000,000 | 31 December 2008 est. |
+| 50 | Cyprus | $ 7,097,000,000 | 31 December 2008 est. |
+| 51 | Thailand | $ 7,013,000,000 | 2007 est. |
+| 52 | Estonia | $ 6,686,000,000 | 31 December 2008 est. |
+| 53 | Indonesia | $ 6,656,000,000 | 31 December 2008 est. |
+| 54 | Philippines | $ 5,810,000,000 | 31 December 2008 est. |
+| 55 | Qatar | $ 5,363,000,000 | 31 December 2008 est. |
+| 56 | Azerbaijan | $ 5,232,000,000 | 31 December 2008 est. |
+| 57 | Libya | $ 5,150,000,000 | 31 December 2008 est. |
+| 58 | Kazakhstan | $ 4,617,000,000 | 31 December 2008 est. |
+| 59 | Cuba | $ 4,138,000,000 | 2006 est. |
+| 60 | Trinidad and Tobago | $ 3,829,000,000 | 2007 |
+| 61 | Croatia | $ 3,343,000,000 | 31 December 2008 est. |
+| 62 | Angola | $ 2,477,000,000 | 31 December 2008 est. |
+| 63 | Lithuania | $ 1,985,000,000 | 31 December 2008 est. |
+| 64 | Ukraine | $ 1,905,000,000 | 31 December 2008 est. |
+| 65 | Macau | $ 1,900,000,000 | 2007 |
+| 66 | Slovakia | $ 1,867,000,000 | 31 December 2008 est. |
+| 67 | Peru | $ 1,694,000,000 | 31 December 2008 est. |
+| 68 | Bulgaria | $ 1,292,000,000 | 31 December 2008 est. |
+| 69 | Algeria | $ 1,162,000,000 | 31 December 2008 est. |
+| 70 | Latvia | $ 1,083,000,000 | 31 December 2008 est. |
+| 71 | Pakistan | $ 1,017,000,000 | 31 December 2008 est. |
+| 72 | Iran | $ 993,000,000 | 31 December 2008 est. |
+| 73 | Morocco | $ 966,000,000 | 31 December 2008 est. |
+| 74 | Romania | $ 921,000,000 | 31 December 2008 est. |
+| 75 | Costa Rica | $ 532,000,000 | 31 December 2008 est. |
+| 76 | El Salvador | $ 440,000,000 | 31 December 2008 est. |
+| 77 | Tunisia | $ 162,000,000 | 31 December 2008 est. |
+| 78 | Uruguay | $ 156,000,000 | 2007 |
+| 79 | Bangladesh | $ 97,000,000 | 31 December 2008 est. |
+| 80 | Dominican Republic | $ 59,000,000 | 31 December 2008 est. |
+| 81 | Kenya | $ 12,400,000 | 31 December 2008 est. |

@@ -1,0 +1,142 @@
+CIA - The World Factbook --  Distribution of family income - Gini index   
+
+This index measures the degree of inequality in the distribution of family income in a country. The index is calculated from the Lorenz curve, in which cumulative family income is plotted against the number of families arranged from the poorest to the richest. The index is the ratio of (a) the area between a country's Lorenz curve and the 45 degree helping line to (b) the entire triangular area under the 45 degree line. The more nearly equal a country's income distribution, the closer its Lorenz curve to the 45 degree line and the lower its Gini index, e.g., a Scandinavian country with an index of 25. The more unequal a country's income distribution, the farther its Lorenz curve from the 45 degree line and the higher its Gini index, e.g., a Sub-Saharan country with an index of 50. If income were distributed with perfect equality, the Lorenz curve would coincide with the 45 degree line and the index would be zero; if income were distributed with perfect inequality, the Lorenz curve would coincide with the horizontal axis and the right vertical axis and the index would be 100.
+
+| Rank | country | Distribution of family income - Gini index | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Namibia | 70.7 | 2003 |
+| 2 | South Africa | 65.0 | 2005 |
+| 3 | Lesotho | 63.2 | 1995 |
+| 4 | Botswana | 63.0 | 1993 |
+| 5 | Sierra Leone | 62.9 | 1989 |
+| 6 | Central African Republic | 61.3 | 1993 |
+| 7 | Haiti | 59.2 | 2001 |
+| 8 | Bolivia | 58.2 | 2009 |
+| 9 | Honduras | 57.7 | 2007 |
+| 10 | Colombia | 56.0 | 2010 |
+| 11 | Guatemala | 55.1 | 2007 |
+| 12 | Thailand | 53.6 | 2009 |
+| 13 | Hong Kong | 53.3 | 2007 |
+| 14 | Paraguay | 53.2 | 2009 |
+| 15 | Chile | 52.1 | 2009 |
+| 16 | Brazil | 51.9 | 2012 |
+| 17 | Panama | 51.9 | 2010 est. |
+| 18 | Mexico | 51.7 | 2008 |
+| 19 | Papua New Guinea | 50.9 | 1996 |
+| 20 | Zambia | 50.8 | 2004 |
+| 21 | Swaziland | 50.4 | 2001 |
+| 22 | Costa Rica | 50.3 | 2009 |
+| 23 | Gambia, The | 50.2 | 1998 |
+| 24 | Zimbabwe | 50.1 | 2006 |
+| 25 | Sri Lanka | 49.0 | 2010 |
+| 26 | Dominican Republic | 48.4 | 2007 |
+| 27 | China | 48.0 | 2009 |
+| 28 | Madagascar | 47.5 | 2001 |
+| 29 | Singapore | 47.3 | 2011 |
+| 30 | Ecuador | 47.3 | June 2011 |
+| 31 | El Salvador | 46.9 | 2007 |
+| 32 | Rwanda | 46.8 | 2000 |
+| 33 | Malaysia | 46.2 | 2009 |
+| 34 | Peru | 46.0 | 2010 |
+| 35 | Argentina | 45.8 | 2009 |
+| 36 | Philippines | 45.8 | 2006 |
+| 37 | Mozambique | 45.6 | 2008 |
+| 38 | Jamaica | 45.5 | 2004 |
+| 39 | Uruguay | 45.3 | 2010 |
+| 40 | Bulgaria | 45.3 | 2007 |
+| 41 | United States | 45.0 | 2007 |
+| 42 | Guyana | 44.6 | 2007 |
+| 43 | Cameroon | 44.6 | 2001 |
+| 44 | Iran | 44.5 | 2006 |
+| 45 | Cambodia | 44.4 | 2007 est. |
+| 46 | Uganda | 44.3 | 2009 |
+| 47 | Macedonia | 44.2 | 2008 |
+| 48 | Nigeria | 43.7 | 2003 |
+| 49 | Kenya | 42.5 | 2008 est. |
+| 50 | Burundi | 42.4 | 1998 |
+| 51 | Russia | 42.0 | 2010 |
+| 52 | Cote d'Ivoire | 41.5 | 2008 |
+| 53 | Senegal | 41.3 | 2001 |
+| 54 | Morocco | 40.9 | 2007 est. |
+| 55 | Georgia | 40.8 | 2009 |
+| 56 | Turkmenistan | 40.8 | 1998 |
+| 57 | Nicaragua | 40.5 | 2010 |
+| 58 | Turkey | 40.2 | 2010 |
+| 59 | Mali | 40.1 | 2001 |
+| 60 | Tunisia | 40.0 | 2005 est. |
+| 61 | Jordan | 39.7 | 2007 |
+| 62 | Burkina Faso | 39.5 | 2007 |
+| 63 | Guinea | 39.4 | 2007 |
+| 64 | Ghana | 39.4 | 2005-06 |
+| 65 | Israel | 39.2 | 2008 |
+| 66 | Mauritania | 39.0 | 2000 |
+| 67 | Mauritius | 39.0 | 2006 est. |
+| 68 | Venezuela | 39.0 | 2011 |
+| 69 | Malawi | 39.0 | 2004 |
+| 70 | Portugal | 38.5 | 2007 |
+| 71 | Moldova | 38.0 | 2008 |
+| 72 | Yemen | 37.7 | 2005 |
+| 73 | Vietnam | 37.6 | 2008 |
+| 74 | Japan | 37.6 | 2008 |
+| 75 | Tanzania | 37.6 | 2007 |
+| 76 | India | 36.8 | 2004 |
+| 77 | Uzbekistan | 36.8 | 2003 |
+| 78 | Indonesia | 36.8 | 2009 |
+| 79 | Laos | 36.7 | 2008 |
+| 80 | Mongolia | 36.5 | 2008 |
+| 81 | Benin | 36.5 | 2003 |
+| 82 | New Zealand | 36.2 | 1997 |
+| 83 | Bosnia and Herzegovina | 36.2 | 2007 |
+| 84 | Lithuania | 35.5 | 2009 |
+| 85 | Algeria | 35.3 | 1995 |
+| 86 | Latvia | 35.2 | 2010 |
+| 87 | Albania | 34.5 | 2008 |
+| 88 | Egypt | 34.4 | 2001 |
+| 89 | Poland | 34.2 | 2008 |
+| 90 | United Kingdom | 34.0 | 2005 |
+| 91 | Niger | 34.0 | 2007 |
+| 92 | Ireland | 33.9 | 2010 |
+| 93 | Azerbaijan | 33.7 | 2008 |
+| 94 | Switzerland | 33.7 | 2008 |
+| 95 | Kyrgyzstan | 33.4 | 2007 |
+| 96 | Romania | 33.3 | 2010 |
+| 97 | Bangladesh | 33.2 | 2005 |
+| 98 | Greece | 33.0 | 2005 |
+| 99 | Nepal | 32.8 | 2010 |
+| 100 | France | 32.7 | 2008 |
+| 101 | Taiwan | 32.6 | 2000 |
+| 102 | Tajikistan | 32.6 | 2006 |
+| 103 | Canada | 32.1 | 2005 |
+| 104 | Spain | 32.0 | 2005 |
+| 105 | Croatia | 32.0 | 2010 |
+| 106 | Italy | 31.9 | 2011 |
+| 107 | Timor-Leste | 31.9 | 2007 est. |
+| 108 | Estonia | 31.3 | 2010 |
+| 109 | Korea, South | 31.0 | 2010 |
+| 110 | Czech Republic | 31.0 | 2009 |
+| 111 | Armenia | 30.9 | 2008 |
+| 112 | Netherlands | 30.9 | 2007 |
+| 113 | European Union | 30.7 | 2011 est. |
+| 114 | Pakistan | 30.6 | FY07/08 |
+| 115 | Australia | 30.5 | 2006 |
+| 116 | Kosovo | 30.0 | FY05/06 |
+| 117 | Ethiopia | 30.0 | 2000 |
+| 118 | Cyprus | 29.0 | 2005 |
+| 119 | Slovenia | 28.4 | 2008 |
+| 120 | Serbia | 28.2 | 2008 |
+| 121 | Belgium | 28.0 | 2005 |
+| 122 | Iceland | 28.0 | 2006 |
+| 123 | Ukraine | 27.5 | 2008 |
+| 124 | Malta | 27.4 | 2011 |
+| 125 | Belarus | 27.2 | 2008 |
+| 126 | Germany | 27.0 | 2006 |
+| 127 | Finland | 26.8 | 2008 |
+| 128 | Kazakhstan | 26.7 | 2009 |
+| 129 | Austria | 26.0 | 2007 |
+| 130 | Luxembourg | 26.0 | 2005 |
+| 131 | Slovakia | 26.0 | 2005 |
+| 132 | Norway | 25.0 | 2008 |
+| 133 | Denmark | 24.8 | 2011 est. |
+| 134 | Hungary | 24.7 | 2009 |
+| 135 | Montenegro | 24.3 | 2010 |
+| 136 | Sweden | 23.0 | 2005 |

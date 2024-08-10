@@ -1,0 +1,232 @@
+CIA - The World Factbook --  TOTAL FERTILITY RATE
+
+Total fertility rate (TFR) compares figures for the average number of children that would be born per woman if all women lived to the end of their childbearing years and bore children according to a given fertility rate at each age. TFR is a more direct measure of the level of fertility than the crude birth rate, since it refers to births per woman.
+
+| Rank | Country | (CHILDREN BORN/WOMAN) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Niger | 6.62 | 2016 est. |
+| 2 | Burundi | 6.04 | 2016 est. |
+| 3 | Mali | 5.95 | 2016 est. |
+| 4 | Somalia | 5.89 | 2016 est. |
+| 5 | Uganda | 5.80 | 2016 est. |
+| 6 | Burkina Faso | 5.79 | 2016 est. |
+| 7 | Zambia | 5.67 | 2016 est. |
+| 8 | Malawi | 5.54 | 2016 est. |
+| 9 | Angola | 5.31 | 2016 est. |
+| 10 | Afghanistan | 5.22 | 2016 est. |
+| 11 | South Sudan | 5.19 | 2016 est. |
+| 12 | Mozambique | 5.15 | 2016 est. |
+| 13 | Nigeria | 5.13 | 2016 est. |
+| 14 | Ethiopia | 5.07 | 2016 est. |
+| 15 | Timor-Leste | 4.90 | 2016 est. |
+| 16 | Benin | 4.86 | 2016 est. |
+| 17 | Tanzania | 4.83 | 2016 est. |
+| 18 | Guinea | 4.82 | 2016 est. |
+| 19 | Sierra Leone | 4.76 | 2016 est. |
+| 20 | Cameroon | 4.70 | 2016 est. |
+| 21 | Congo, Republic of the | 4.63 | 2016 est. |
+| 22 | Liberia | 4.60 | 2016 est. |
+| 23 | Congo, Democratic Republic of the | 4.53 | 2016 est. |
+| 24 | Equatorial Guinea | 4.48 | 2016 est. |
+| 25 | Rwanda | 4.46 | 2016 est. |
+| 26 | Chad | 4.45 | 2016 est. |
+| 27 | Togo | 4.43 | 2016 est. |
+| 28 | Gabon | 4.43 | 2016 est. |
+| 29 | Sao Tome and Principe | 4.40 | 2016 est. |
+| 30 | Senegal | 4.36 | 2016 est. |
+| 31 | Central African Republic | 4.36 | 2016 est. |
+| 32 | Gaza Strip | 4.30 | 2016 est. |
+| 33 | Guinea-Bissau | 4.16 | 2016 est. |
+| 34 | Madagascar | 4.12 | 2016 est. |
+| 35 | Eritrea | 4.07 | 2016 est. |
+| 36 | Iraq | 4.06 | 2016 est. |
+| 37 | Ghana | 4.03 | 2016 est. |
+| 38 | Western Sahara | 3.93 | 2016 est. |
+| 39 | Mauritania | 3.93 | 2016 est. |
+| 40 | Yemen | 3.77 | 2016 est. |
+| 41 | Sudan | 3.68 | 2016 est. |
+| 42 | Gambia, The | 3.63 | 2016 est. |
+| 43 | Egypt | 3.53 | 2016 est. |
+| 44 | Zimbabwe | 3.50 | 2016 est. |
+| 45 | Comoros | 3.47 | 2016 est. |
+| 46 | Cote d'Ivoire | 3.46 | 2016 est. |
+| 47 | Namibia | 3.36 | 2016 est. |
+| 48 | West Bank | 3.33 | 2016 est. |
+| 49 | Solomon Islands | 3.22 | 2016 est. |
+| 50 | Jordan | 3.18 | 2016 est. |
+| 51 | Tonga | 3.18 | 2016 est. |
+| 52 | Vanuatu | 3.16 | 2016 est. |
+| 53 | Kenya | 3.14 | 2016 est. |
+| 54 | Papua New Guinea | 3.10 | 2016 est. |
+| 55 | Marshall Islands | 3.09 | 2016 est. |
+| 56 | Philippines | 3.06 | 2016 est. |
+| 57 | Tuvalu | 2.98 | 2016 est. |
+| 58 | Belize | 2.90 | 2016 est. |
+| 59 | American Samoa | 2.87 | 2016 est. |
+| 60 | Nauru | 2.84 | 2016 est. |
+| 61 | Oman | 2.84 | 2016 est. |
+| 62 | Guatemala | 2.83 | 2016 est. |
+| 63 | Haiti | 2.79 | 2016 est. |
+| 64 | Samoa | 2.77 | 2016 est. |
+| 65 | Laos | 2.76 | 2016 est. |
+| 66 | Swaziland | 2.74 | 2016 est. |
+| 67 | Algeria | 2.74 | 2016 est. |
+| 68 | Honduras | 2.72 | 2016 est. |
+| 69 | Bolivia | 2.68 | 2016 est. |
+| 70 | Lesotho | 2.68 | 2016 est. |
+| 71 | Pakistan | 2.68 | 2016 est. |
+| 72 | Tajikistan | 2.67 | 2016 est. |
+| 73 | Israel | 2.66 | 2016 est. |
+| 74 | Kyrgyzstan | 2.64 | 2016 est. |
+| 75 | Cambodia | 2.56 | 2016 est. |
+| 76 | Syria | 2.55 | 2016 est. |
+| 77 | Malaysia | 2.53 | 2016 est. |
+| 78 | India | 2.45 | 2016 est. |
+| 79 | Micronesia, Federated States of | 2.45 | 2016 est. |
+| 80 | Kuwait | 2.44 | 2016 est. |
+| 81 | Fiji | 2.44 | 2016 est. |
+| 82 | Kiribati | 2.43 | 2016 est. |
+| 83 | Faroe Islands | 2.36 | 2016 est. |
+| 84 | Venezuela | 2.35 | 2016 est. |
+| 85 | Djibouti | 2.35 | 2016 est. |
+| 86 | United Arab Emirates | 2.33 | 2016 est. |
+| 87 | Panama | 2.33 | 2016 est. |
+| 88 | Guam | 2.31 | 2016 est. |
+| 89 | South Africa | 2.31 | 2016 est. |
+| 90 | Dominican Republic | 2.31 | 2016 est. |
+| 91 | Botswana | 2.30 | 2016 est. |
+| 92 | Kazakhstan | 2.28 | 2016 est. |
+| 93 | Argentina | 2.28 | 2016 est. |
+| 94 | Cabo Verde | 2.26 | 2016 est. |
+| 95 | Mexico | 2.25 | 2016 est. |
+| 96 | Ecuador | 2.22 | 2016 est. |
+| 97 | Cook Islands | 2.21 | 2016 est. |
+| 98 | Bangladesh | 2.19 | 2016 est. |
+| 99 | Nepal | 2.18 | 2016 est. |
+| 100 | Peru | 2.15 | 2016 est. |
+| 101 | Burma | 2.15 | 2016 est. |
+| 102 | Indonesia | 2.13 | 2016 est. |
+| 103 | Mongolia | 2.13 | 2016 est. |
+| 104 | Morocco | 2.12 | 2016 est. |
+| 105 | Saudi Arabia | 2.11 | 2016 est. |
+| 106 | Sri Lanka | 2.09 | 2016 est. |
+| 107 | Turkmenistan | 2.08 | 2016 est. |
+| 108 | France | 2.07 | 2016 est. |
+| 109 | Curacao | 2.06 | 2016 est. |
+| 110 | Sint Maarten | 2.06 | 2013 est. |
+| 111 | Dominica | 2.04 | 2016 est. |
+| 112 | Grenada | 2.04 | 2016 est. |
+| 113 | Guyana | 2.04 | 2016 est. |
+| 114 | Libya | 2.04 | 2016 est. |
+| 115 | Turkey | 2.03 | 2016 est. |
+| 116 | New Zealand | 2.03 | 2016 est. |
+| 117 | Colombia | 2.02 | 2016 est. |
+| 118 | Antigua and Barbuda | 2.01 | 2016 est. |
+| 119 | Iceland | 2.01 | 2016 est. |
+| 120 | Greenland | 2.01 | 2016 est. |
+| 121 | Jamaica | 1.99 | 2016 est. |
+| 122 | Ireland | 1.98 | 2016 est. |
+| 123 | Tunisia | 1.98 | 2016 est. |
+| 124 | Northern Mariana Islands | 1.96 | 2016 est. |
+| 125 | Korea, North | 1.96 | 2016 est. |
+| 126 | Suriname | 1.95 | 2016 est. |
+| 127 | New Caledonia | 1.95 | 2016 est. |
+| 128 | Bahamas, The | 1.95 | 2016 est. |
+| 129 | Bermuda | 1.94 | 2016 est. |
+| 130 | Bhutan | 1.93 | 2016 est. |
+| 131 | Isle of Man | 1.93 | 2016 est. |
+| 132 | Nicaragua | 1.92 | 2016 est. |
+| 133 | Gibraltar | 1.91 | 2016 est. |
+| 134 | Paraguay | 1.91 | 2016 est. |
+| 135 | Qatar | 1.90 | 2016 est. |
+| 136 | French Polynesia | 1.90 | 2016 est. |
+| 137 | Costa Rica | 1.90 | 2016 est. |
+| 138 | Azerbaijan | 1.90 | 2016 est. |
+| 139 | United Kingdom | 1.89 | 2016 est. |
+| 140 | El Salvador | 1.89 | 2016 est. |
+| 141 | Sweden | 1.88 | 2016 est. |
+| 142 | United States | 1.87 | 2016 est. |
+| 143 | Norway | 1.86 | 2016 est. |
+| 144 | Seychelles | 1.86 | 2016 est. |
+| 145 | Cayman Islands | 1.85 | 2016 est. |
+| 146 | Aruba | 1.84 | 2016 est. |
+| 147 | Iran | 1.83 | 2016 est. |
+| 148 | Vietnam | 1.82 | 2016 est. |
+| 149 | Uruguay | 1.81 | 2016 est. |
+| 150 | Chile | 1.81 | 2016 est. |
+| 151 | Saint Vincent and the Grenadines | 1.81 | 2016 est. |
+| 152 | Brunei | 1.79 | 2016 est. |
+| 153 | Belgium | 1.78 | 2016 est. |
+| 154 | Uzbekistan | 1.78 | 2016 est. |
+| 155 | Netherlands | 1.78 | 2016 est. |
+| 156 | Saint Kitts and Nevis | 1.78 | 2016 est. |
+| 157 | Bahrain | 1.77 | 2016 est. |
+| 158 | Australia | 1.77 | 2016 est. |
+| 159 | Georgia | 1.76 | 2016 est. |
+| 160 | Brazil | 1.76 | 2016 est. |
+| 161 | Saint Lucia | 1.75 | 2016 est. |
+| 162 | Finland | 1.75 | 2016 est. |
+| 163 | Anguilla | 1.75 | 2016 est. |
+| 164 | Mauritius | 1.75 | 2016 est. |
+| 165 | Wallis and Futuna | 1.74 | 2016 est. |
+| 166 | Denmark | 1.73 | 2016 est. |
+| 167 | Virgin Islands | 1.73 | 2016 est. |
+| 168 | Maldives | 1.73 | 2016 est. |
+| 169 | Lebanon | 1.73 | 2016 est. |
+| 170 | Trinidad and Tobago | 1.71 | 2016 est. |
+| 171 | Palau | 1.71 | 2016 est. |
+| 172 | Cuba | 1.71 | 2016 est. |
+| 173 | Turks and Caicos Islands | 1.70 | 2016 est. |
+| 174 | Liechtenstein | 1.69 | 2016 est. |
+| 175 | Barbados | 1.68 | 2016 est. |
+| 176 | Jersey | 1.66 | 2016 est. |
+| 177 | Armenia | 1.64 | 2016 est. |
+| 178 | Puerto Rico | 1.64 | 2016 est. |
+| 179 | Russia | 1.61 | 2016 est. |
+| 180 | Luxembourg | 1.61 | 2016 est. |
+| 181 | Macedonia | 1.60 | 2016 est. |
+| 182 | China | 1.60 | 2016 est. |
+| 183 | Canada | 1.60 | 2016 est. |
+| 184 | Estonia | 1.60 | 2016 est. |
+| 185 | Lithuania | 1.59 | 2016 est. |
+| 186 | Saint Helena, Ascension, and Tristan da Cunha | 1.58 | 2016 est. |
+| 187 | Saint Pierre and Miquelon | 1.57 | 2016 est. |
+| 188 | Moldova | 1.56 | 2016 est. |
+| 189 | Guernsey | 1.56 | 2016 est. |
+| 190 | Switzerland | 1.55 | 2016 est. |
+| 191 | Malta | 1.55 | 2016 est. |
+| 192 | Ukraine | 1.54 | 2016 est. |
+| 193 | Monaco | 1.53 | 2016 est. |
+| 194 | Portugal | 1.53 | 2016 est. |
+| 195 | Latvia | 1.51 | 2016 est. |
+| 196 | Thailand | 1.51 | 2016 est. |
+| 197 | Albania | 1.51 | 2016 est. |
+| 198 | San Marino | 1.50 | 2016 est. |
+| 199 | Spain | 1.49 | 2016 est. |
+| 200 | Belarus | 1.48 | 2016 est. |
+| 201 | Cyprus | 1.47 | 2016 est. |
+| 202 | Austria | 1.47 | 2016 est. |
+| 203 | Bulgaria | 1.46 | 2016 est. |
+| 204 | Czechia | 1.45 | 2016 est. |
+| 205 | Germany | 1.44 | 2016 est. |
+| 206 | Hungary | 1.44 | 2016 est. |
+| 207 | Serbia | 1.43 | 2016 est. |
+| 208 | Italy | 1.43 | 2016 est. |
+| 209 | Greece | 1.42 | 2016 est. |
+| 210 | Japan | 1.41 | 2016 est. |
+| 211 | Slovakia | 1.40 | 2016 est. |
+| 212 | Andorra | 1.39 | 2016 est. |
+| 213 | Croatia | 1.39 | 2016 est. |
+| 214 | Slovenia | 1.35 | 2016 est. |
+| 215 | Poland | 1.34 | 2016 est. |
+| 216 | Romania | 1.34 | 2016 est. |
+| 217 | Montserrat | 1.31 | 2016 est. |
+| 218 | British Virgin Islands | 1.28 | 2016 est. |
+| 219 | Bosnia and Herzegovina | 1.28 | 2016 est. |
+| 220 | Korea, South | 1.25 | 2016 est. |
+| 221 | Hong Kong | 1.19 | 2016 est. |
+| 222 | Taiwan | 1.12 | 2016 est. |
+| 223 | Macau | 0.94 | 2016 est. |
+| 224 | Singapore | 0.82 | 2016 est. |
+
+

@@ -1,0 +1,172 @@
+CIA - The World Factbook --  Industrial production growth rate   
+
+This entry gives the annual percentage increase in industrial production (includes manufacturing, mining, and construction).
+
+| Rank | country | (%) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Qatar | 27.10 | 2010 est. |
+| 2 | Mongolia | 23.00 | 2011 est. |
+| 3 | Estonia | 18.00 | 2011 est. |
+| 4 | Laos | 17.70 | 2010 est. |
+| 5 | Armenia | 14.10 | 2010 est. |
+| 6 | China | 13.90 | 2011 est. |
+| 7 | Congo, Republic of the | 12.00 | 2010 est. |
+| 8 | Georgia | 11.80 | 2010 est. |
+| 9 | Panama | 10.90 | 2011 est. |
+| 10 | Botswana | 10.80 | 2011 est. |
+| 11 | Belarus | 10.50 | 2010 est. |
+| 12 | Ecuador | 10.10 | 2011 est. |
+| 13 | Papua New Guinea | 10.00 | 2010 est. |
+| 14 | Kyrgyzstan | 10.00 | 2011 est. |
+| 15 | Ethiopia | 9.50 | 2010 est. |
+| 16 | Turkey | 9.20 | 2011 est. |
+| 17 | Yemen | 9.00 | 2010 est. |
+| 18 | Latvia | 9.00 | 2011 est. |
+| 19 | Gambia, The | 8.90 | 2010 est. |
+| 20 | Zambia | 8.80 | 2011 est. |
+| 21 | Kuwait | 8.70 | 2011 est. |
+| 22 | Timor-Leste | 8.50 | 2004 est. |
+| 23 | Sri Lanka | 8.40 | 2012 est. |
+| 24 | Saudi Arabia | 8.40 | 2011 est. |
+| 25 | Malawi | 8.20 | 2011 est. |
+| 26 | Germany | 8.00 | 2011 est. |
+| 27 | Eritrea | 8.00 | 2010 est. |
+| 28 | Uzbekistan | 8.00 | 2010 est. |
+| 29 | Mozambique | 8.00 | 2010 est. |
+| 30 | Singapore | 7.80 | 2011 est. |
+| 31 | San Marino | 7.60 | 2010 est. |
+| 32 | Ukraine | 7.60 | 2011 est. |
+| 33 | Lithuania | 7.50 | 2011 est. |
+| 34 | Austria | 7.50 | 2011 est. |
+| 35 | Tajikistan | 7.50 | 2010 est. |
+| 36 | Rwanda | 7.50 | 2010 est. |
+| 37 | Bangladesh | 7.40 | 2011 est. |
+| 38 | Turkmenistan | 7.30 | 2010 est. |
+| 39 | Moldova | 7.10 | 2011 est. |
+| 40 | Burundi | 7.00 | 2010 est. |
+| 41 | Sao Tome and Principe | 7.00 | 2010 est. |
+| 42 | Tanzania | 7.00 | 2010 est. |
+| 43 | Czech Republic | 6.90 | 2011 est. |
+| 44 | Poland | 6.90 | 2011 est. |
+| 45 | Slovakia | 6.90 | 2011 est. |
+| 46 | Sweden | 6.80 | 2011 est. |
+| 47 | Paraguay | 6.50 | 2010 est. |
+| 48 | Namibia | 6.50 | 2010 est. |
+| 49 | Argentina | 6.50 | 2011 est. |
+| 50 | Suriname | 6.50 | 1994 est. |
+| 51 | Chile | 6.30 | 2011 est. |
+| 52 | Luxembourg | 6.20 | 2011 est. |
+| 53 | Syria | 6.00 | 2010 est. |
+| 54 | Vietnam | 6.00 | 2011 est. |
+| 55 | Bulgaria | 5.90 | 2011 est. |
+| 56 | Cambodia | 5.70 | 2010 est. |
+| 57 | Zimbabwe | 5.70 | 2011 est. |
+| 58 | Belgium | 5.60 | 2011 est. |
+| 59 | Romania | 5.60 | 2011 est. |
+| 60 | Burkina Faso | 5.50 | 2010 est. |
+| 61 | Hungary | 5.40 | 2011 est. |
+| 62 | Niger | 5.10 | 2003 est. |
+| 63 | Peru | 5.00 | 2011 est. |
+| 64 | Ghana | 5.00 | 2010 est. |
+| 65 | Taiwan | 5.00 | 2011 est. |
+| 66 | Angola | 5.00 | 2010 est. |
+| 67 | Senegal | 4.90 | 2011 est. |
+| 68 | India | 4.80 | 2011 est. |
+| 69 | Iraq | 4.80 | 2010 est. |
+| 70 | Gabon | 4.80 | 2010 est. |
+| 71 | Colombia | 4.80 | 2011 est. |
+| 72 | Guinea-Bissau | 4.70 | 2003 est. |
+| 73 | Russia | 4.70 | 2011 est. |
+| 74 | Cote d'Ivoire | 4.50 | 2010 est. |
+| 75 | Morocco | 4.40 | 2010 est. |
+| 76 | Burma | 4.30 | 2010 est. |
+| 77 | Indonesia | 4.10 | 2011 est. |
+| 78 | United States | 4.10 | 2011 est. |
+| 79 | Guatemala | 4.10 | 2011 est. |
+| 80 | Cape Verde | 4.00 | 2010 est. |
+| 81 | Cameroon | 4.00 | 2010 est. |
+| 82 | Macedonia | 4.00 | 2011 est. |
+| 83 | Macau | 3.90 | 2011 |
+| 84 | Mexico | 3.90 | 2011 est. |
+| 85 | Korea, South | 3.80 | 2011 est. |
+| 86 | Canada | 3.70 | 2011 est. |
+| 87 | Bolivia | 3.60 | 2010 est. |
+| 88 | Sudan | 3.50 | 2010 est. |
+| 89 | Oman | 3.50 | 2011 est. |
+| 90 | Faroe Islands | 3.40 | 2009 est. |
+| 91 | Kazakhstan | 3.40 | 2011 est. |
+| 92 | Venezuela | 3.40 | 2011 est. |
+| 93 | Mauritius | 3.30 | 2010 est. |
+| 94 | Cuba | 3.20 | 2011 est. |
+| 95 | United Arab Emirates | 3.20 | 2010 est. |
+| 96 | Slovenia | 3.20 | 2011 est. |
+| 97 | Bosnia and Herzegovina | 3.10 | 2011 est. |
+| 98 | Kenya | 3.10 | 2011 est. |
+| 99 | Central African Republic | 3.00 | 2002 |
+| 100 | Chad | 3.00 | 2010 est. |
+| 101 | Benin | 3.00 | 2010 est. |
+| 102 | Pakistan | 3.00 | 2011 est. |
+| 103 | Guinea | 3.00 | 2010 est. |
+| 104 | Iceland | 3.00 | 2011 est. |
+| 105 | Lesotho | 3.00 | 2010 est. |
+| 106 | Albania | 3.00 | 2010 est. |
+| 107 | Ireland | 3.00 | 2011 est. |
+| 108 | Nepal | 2.90 | FY11/12 |
+| 109 | European Union | 2.80 | 2011 est. |
+| 110 | Costa Rica | 2.80 | 2011 est. |
+| 111 | Samoa | 2.80 | 2000 |
+| 112 | Libya | 2.70 | 2010 est. |
+| 113 | Nigeria | 2.50 | 2011 est. |
+| 114 | Togo | 2.50 | 2010 est. |
+| 115 | South Africa | 2.50 | 2011 est. |
+| 116 | Honduras | 2.40 | 2010 est. |
+| 117 | France | 2.40 | 2011 est. |
+| 118 | Serbia | 2.10 | 2011 est. |
+| 119 | Lebanon | 2.10 | 2010 est. |
+| 120 | Trinidad and Tobago | 2.10 | 2011 est. |
+| 121 | Mauritania | 2.00 | 2000 est. |
+| 122 | Madagascar | 2.00 | 2010 est. |
+| 123 | Israel | 2.00 | 2011 est. |
+| 124 | Uganda | 2.00 | 2011 est. |
+| 125 | Seychelles | 2.00 | 2010 est. |
+| 126 | Denmark | 1.90 | 2011 est. |
+| 127 | Equatorial Guinea | 1.80 | 2010 est. |
+| 128 | El Salvador | 1.80 | 2011 est. |
+| 129 | Dominican Republic | 1.50 | 2010 est. |
+| 130 | Bahrain | 1.50 | 2010 est. |
+| 131 | Finland | 1.50 | 2011 est. |
+| 132 | New Zealand | 1.50 | 2011 est. |
+| 133 | Nicaragua | 1.50 | 2010 est. |
+| 134 | Belize | 1.40 | 2010 est. |
+| 135 | Malaysia | 1.40 | 2011 est. |
+| 136 | Philippines | 1.10 | 2011 est. |
+| 137 | Swaziland | 1.00 | 2010 est. |
+| 138 | Tonga | 1.00 | 2003 est. |
+| 139 | Jordan | 1.00 | 2011 est. |
+| 140 | Cook Islands | 1.00 | 2002 |
+| 141 | Hong Kong | 0.80 | 2011 est. |
+| 142 | Switzerland | 0.80 | 2011 est. |
+| 143 | Cyprus | 0.70 | 2011 est. |
+| 144 | Egypt | 0.50 | 2011 est. |
+| 145 | Guyana | 0.30 | 2010 |
+| 146 | Croatia | 0.30 | 2011 est. |
+| 147 | Italy | 0.20 | 2011 est. |
+| 148 | Australia | -0.10 | 2011 est. |
+| 149 | Brazil | -0.30 | 2012 est. |
+| 150 | Netherlands | -0.60 | 2011 est. |
+| 151 | Maldives | -0.90 | 2004 est. |
+| 152 | Uruguay | -1.00 | 2011 est. |
+| 153 | United Kingdom | -1.20 | 2011 est. |
+| 154 | Spain | -1.40 | 2011 est. |
+| 155 | Jamaica | -2.00 | 2010 est. |
+| 156 | Portugal | -2.00 | 2011 est. |
+| 157 | Iran | -2.70 | 2011 est. |
+| 158 | Algeria | -3.10 | 2011 est. |
+| 159 | Japan | -3.50 | 2011 est. |
+| 160 | Norway | -4.30 | 2011 est. |
+| 161 | Haiti | -4.80 | 2010 est. |
+| 162 | Azerbaijan | -5.20 | 2011 est. |
+| 163 | Brunei | -5.40 | 2008 est. |
+| 164 | Tunisia | -6.40 | 2011 est. |
+| 165 | Greece | -8.50 | 2011 est. |
+| 166 | Thailand | -9.30 | 2011 est. |

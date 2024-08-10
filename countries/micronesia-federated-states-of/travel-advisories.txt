@@ -1,0 +1,14 @@
+| Precautions | Exercise normal precautions in travel to Micronesia. |
+| | Consult the link below for updates to travel advisories and statements on safety, security, local laws, and special circumstances in this country. |
+| | <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html> |
+| Passport/Visa Requirements | US citizens should make sure their passport will not expire for at least 6 months after they enter the country even if they do not intend to stay that long. A visa is not required. |
+| Vaccinations | A valid international certificate of vaccination is required for travelers coming from a region infected with small pox, yellow fever, or cholera. See WHO recommendations.  <http://www.who.int/> |
+| US Embassy/Consulate | +(691) 320-2187; EMER: +(691) 920-2369; US Embassy Kolonia, US Embassy in Kolonia, PO Box 1286, Kolonia, Pohnpei, FSM 96941 Federated States of Micronesia; koloniaacs@state.gov; https://fm.usembassy.gov/ |
+
+---
+country: Micronesia, Federated States of
+date: May 09, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Micronesia, Federated States of/travel-facts>
+license: public domain (U.S.)
+...

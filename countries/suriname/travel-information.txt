@@ -1,0 +1,27 @@
+Telephone Code: 597
+Local Emergency Phone: Local numbers only
+Climate: Tropical; moderated by trade winds
+Currency (Code): Surinamese dollars (SRD)
+Electricity: 127 V, 220 V
+Voltage: 60 Hz
+Plug types(s): A, B, C, F
+Major Languages: Dutch, English (widely spoken), Sranang Tongo
+Major Religions: Protestant 23.6% (includes Evangelical, Moravian, Reformed, Lutheran), Hindu 22.3%, Roman Catholic 21.6%, Muslim 13.8%, other Christian 3.2%, Winti 1.8%, Jehovah's Witness 1.2%
+Time Difference: UTC-3 (2 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Left
+Tourist Destinations: Presidential Palace; Galibi Nature Reserve; Central Suriname Nature Reserve; Commewijne River; Brownsberg Nature Park
+Major Sports: Soccer, cricket, basketball, table tennis, volleyball
+Cultural Practices: When invited to a household the guest is usually expected to partake in a meal.
+Tipping Guidelines: Customers are expected to leave a 10% tip at restaurants, if a service charge has not already been added. Rounding up cab fare is appropriate.
+Souvenirs: Woven baskets and wicker items, batik cloth, tribal woodcarvings, pottery, gold and silver jewelry, hand-rolled cigars, cotton hammocks, bamboo items
+Traditional Cuisine: Pom --- a casserole made with chicken pieces, chicken sausages, tomatoes, onions, celery, garlic, hot peppers, salt, pepper, sugar, nutmeg, orange and lemon juice, and pomtajer (a root vegetable)
+
+---
+country: Suriname
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Suriname/travel-facts>
+license: public domain (U.S.)
+...

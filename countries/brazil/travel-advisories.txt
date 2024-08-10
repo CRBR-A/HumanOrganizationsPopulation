@@ -1,0 +1,14 @@
+| Precautions | Exercise increased caution in Brazil due to crime. Some areas have increased risk. |
+| | Consult the link below for updates to travel advisories and statements on safety, security, local laws, and special circumstances in this country. |
+| | <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html> |
+| Passport/Visa Requirements | US citizens should make sure their passport will not expire for at least 6 months after they enter the country even if they do not intend to stay that long. They should also make sure they have at least 1 blank page in their passport for any entry stamp. A visa is not required. |
+| Vaccinations | An International Certificate of Vaccination for yellow fever is required for travelers arriving from countries with a risk of yellow fever transmission and for travelers having transited through the airport of a country with risk of yellow fever transmission. See WHO recommendations.  <http://www.who.int/> |
+| US Embassy/Consulate | [55] (61) 3312-7000; US Embassy in Brasilia, SES -- Av. das Nações, Quadra 801, Lote 03, 70403-900 -- Brasília, DF; https://br.usembassy.gov/; BrasilliaACS@state.gov |
+
+---
+country: Brazil
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Brazil/travel-facts>
+license: public domain (U.S.)
+...

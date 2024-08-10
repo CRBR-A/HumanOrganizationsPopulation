@@ -1,0 +1,8 @@
+A Rwandan kingdom dominated the region from the mid-18th century onward, with the Tutsi rulers conquering others militarily, centralizing power, and increasingly enacting anti-Hutu policies. German colonial rule began in 1898, but Belgian forces captured Rwanda in 1916 during World War I. Both European nations ruled through the kings and pursued a pro-Tutsi policy. In 1959, three years before independence from Belgium, the majority ethnic group, the Hutus, overthrew the ruling Tutsi king. Over the next several years, thousands of Tutsis were killed, and some 150,000 driven into exile in neighboring countries. The children of these exiles later formed a rebel group, the Rwandan Patriotic Front (RPF), and began a civil war in 1990. The war, along with several political and economic upheavals, exacerbated ethnic tensions, culminating in April 1994 in a state-orchestrated genocide, in which Rwandans killed approximately 800,000 of their fellow citizens, including approximately three-quarters of the Tutsi population. The genocide ended later that same year when the predominantly Tutsi RPF, operating out of Uganda and northern Rwanda, defeated the national army and Hutu militias, and established an RPF-led government of national unity. Rwanda held its first local elections in 1999 and its first post-genocide presidential and legislative elections in 2003. Rwanda joined the Commonwealth in late 2009. President Paul KAGAME won the presidential election in August 2017 after changing the constitution in 2016 to allow him to run for a third term.  
+
+---
+country: Rwanda
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Rwanda/>
+license: public domain (U.S.)
+...

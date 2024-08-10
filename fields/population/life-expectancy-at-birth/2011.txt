@@ -1,0 +1,227 @@
+CIA - The World Factbook --  Life expectancy at birth   
+
+This entry contains the average number of years to be lived by a group of people born in the same year, if mortality at each age remains constant in the future. The entry includes total population as well as the male and female components. Life expectancy at birth is also a measure of overall quality of life in a country and summarizes the mortality at all ages. It can also be thought of as indicating the potential return on investment in human capital and is necessary for the calculation of various actuarial measures.
+
+| Rank | country | (years) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Monaco | 89.73 | 2011 est. |
+| 2 | Macau | 84.41 | 2011 est. |
+| 3 | San Marino | 83.01 | 2011 est. |
+| 4 | Andorra | 82.43 | 2011 est. |
+| 5 | Japan | 82.25 | 2011 est. |
+| 6 | Guernsey | 82.16 | 2011 est. |
+| 7 | Singapore | 82.14 | 2011 est. |
+| 8 | Hong Kong | 82.04 | 2011 est. |
+| 9 | Australia | 81.81 | 2011 est. |
+| 10 | Italy | 81.77 | 2011 est. |
+| 11 | Jersey | 81.38 | 2011 est. |
+| 12 | Canada | 81.38 | 2011 est. |
+| 13 | France | 81.19 | 2011 est. |
+| 14 | Spain | 81.17 | 2011 est. |
+| 15 | Switzerland | 81.07 | 2011 est. |
+| 16 | Sweden | 81.07 | 2011 est. |
+| 17 | Israel | 80.96 | 2011 est. |
+| 18 | Iceland | 80.90 | 2011 est. |
+| 19 | Anguilla | 80.87 | 2011 est. |
+| 20 | Bermuda | 80.71 | 2011 est. |
+| 21 | Cayman Islands | 80.68 | 2011 est. |
+| 22 | Isle of Man | 80.64 | 2011 est. |
+| 23 | New Zealand | 80.59 | 2011 est. |
+| 24 | Liechtenstein | 80.31 | 2011 est. |
+| 25 | Norway | 80.20 | 2011 est. |
+| 26 | Ireland | 80.19 | 2011 est. |
+| 27 | Germany | 80.07 | 2011 est. |
+| 28 | United Kingdom | 80.05 | 2011 est. |
+| 29 | Jordan | 80.05 | 2011 est. |
+| 30 | Greece | 79.92 | 2011 est. |
+| 31 | Saint Pierre and Miquelon | 79.87 | 2011 est. |
+| 32 | Austria | 79.78 | 2011 est. |
+| 33 | Faroe Islands | 79.72 | 2011 est. |
+| 34 | Malta | 79.72 | 2011 est. |
+| 35 | Netherlands | 79.68 | 2011 est. |
+| 36 | Luxembourg | 79.61 | 2011 est. |
+| 37 | Belgium | 79.51 | 2011 est. |
+| 38 | Virgin Islands | 79.33 | 2011 est. |
+| 39 | Finland | 79.27 | 2011 est. |
+| 40 | Turks and Caicos Islands | 79.11 | 2011 est. |
+| 41 | Korea, South | 79.05 | 2011 est. |
+| 42 | Wallis and Futuna | 78.98 | 2011 est. |
+| 43 | Puerto Rico | 78.92 | 2011 est. |
+| 44 | European Union | 78.82 | 2010 est. |
+| 45 | Bosnia and Herzegovina | 78.81 | 2011 est. |
+| 46 | Saint Helena, Ascension, and Tristan da Cunha | 78.76 | 2011 est. |
+| 47 | Gibraltar | 78.68 | 2011 est. |
+| 48 | Denmark | 78.63 | 2011 est. |
+| 49 | Portugal | 78.54 | 2011 est. |
+| 50 | United States | 78.37 | 2011 est. |
+| 51 | Taiwan | 78.32 | 2011 est. |
+| 52 | Bahrain | 78.15 | 2011 est. |
+| 53 | Cyprus | 77.82 | 2011 est. |
+| 54 | Panama | 77.79 | 2011 est. |
+| 55 | Costa Rica | 77.72 | 2011 est. |
+| 56 | Chile | 77.70 | 2011 est. |
+| 57 | Cuba | 77.70 | 2011 est. |
+| 58 | Libya | 77.65 | 2011 est. |
+| 59 | British Virgin Islands | 77.63 | 2011 est. |
+| 60 | Albania | 77.41 | 2011 est. |
+| 61 | Dominican Republic | 77.31 | 2011 est. |
+| 62 | Slovenia | 77.30 | 2011 est. |
+| 63 | Czech Republic | 77.19 | 2011 est. |
+| 64 | Georgia | 77.12 | 2011 est. |
+| 65 | French Polynesia | 77.10 | 2011 est. |
+| 66 | Kuwait | 77.09 | 2011 est. |
+| 67 | Northern Mariana Islands | 77.08 | 2011 est. |
+| 68 | Argentina | 76.95 | 2011 est. |
+| 69 | Saint Lucia | 76.84 | 2011 est. |
+| 70 | New Caledonia | 76.75 | 2011 est. |
+| 71 | United Arab Emirates | 76.51 | 2011 est. |
+| 72 | Mexico | 76.47 | 2011 est. |
+| 73 | Uruguay | 76.21 | 2011 est. |
+| 74 | Paraguay | 76.19 | 2011 est. |
+| 75 | Brunei | 76.17 | 2011 est. |
+| 76 | Poland | 76.05 | 2011 est. |
+| 77 | Dominica | 75.98 | 2011 est. |
+| 78 | Morocco | 75.90 | 2011 est. |
+| 79 | Slovakia | 75.83 | 2011 est. |
+| 80 | Croatia | 75.79 | 2011 est. |
+| 81 | Sri Lanka | 75.73 | 2011 est. |
+| 82 | Ecuador | 75.73 | 2011 est. |
+| 83 | Aruba | 75.72 | 2011 est. |
+| 84 | Qatar | 75.70 | 2011 est. |
+| 85 | Antigua and Barbuda | 75.48 | 2011 est. |
+| 86 | Lithuania | 75.34 | 2011 est. |
+| 87 | Tonga | 75.16 | 2011 est. |
+| 88 | Macedonia | 75.14 | 2011 est. |
+| 89 | West Bank | 75.01 | 2011 est. |
+| 90 | Lebanon | 75.01 | 2011 est. |
+| 91 | Tunisia | 75.01 | 2011 est. |
+| 92 | Hungary | 74.79 | 2011 est. |
+| 93 | Cook Islands | 74.70 | 2011 est. |
+| 94 | Syria | 74.69 | 2011 est. |
+| 95 | China | 74.68 | 2011 est. |
+| 96 | Saint Kitts and Nevis | 74.60 | 2011 est. |
+| 97 | Colombia | 74.55 | 2011 est. |
+| 98 | Algeria | 74.50 | 2011 est. |
+| 99 | Mauritius | 74.48 | 2011 est. |
+| 100 | Maldives | 74.45 | 2011 est. |
+| 101 | Barbados | 74.34 | 2011 est. |
+| 102 | Serbia | 74.32 | 2011 est. |
+| 103 | Suriname | 74.22 | 2011 est. |
+| 104 | Oman | 74.22 | 2011 est. |
+| 105 | American Samoa | 74.21 | 2011 est. |
+| 106 | Solomon Islands | 74.18 | 2011 est. |
+| 107 | Saint Vincent and the Grenadines | 74.15 | 2011 est. |
+| 108 | Saudi Arabia | 74.11 | 2011 est. |
+| 109 | Romania | 73.98 | 2011 est. |
+| 110 | Venezuela | 73.93 | 2011 est. |
+| 111 | Gaza Strip | 73.92 | 2011 est. |
+| 112 | Malaysia | 73.79 | 2011 est. |
+| 113 | Thailand | 73.60 | 2011 est. |
+| 114 | Bulgaria | 73.59 | 2011 est. |
+| 115 | Seychelles | 73.52 | 2011 est. |
+| 116 | Jamaica | 73.45 | 2011 est. |
+| 117 | El Salvador | 73.44 | 2011 est. |
+| 118 | Estonia | 73.33 | 2011 est. |
+| 119 | Armenia | 73.23 | 2011 est. |
+| 120 | Montserrat | 73.16 | 2011 est. |
+| 121 | Grenada | 73.04 | 2011 est. |
+| 122 | Latvia | 72.68 | 2011 est. |
+| 123 | Egypt | 72.66 | 2011 est. |
+| 124 | Brazil | 72.53 | 2011 est. |
+| 125 | Uzbekistan | 72.51 | 2011 est. |
+| 126 | Turkey | 72.50 | 2011 est. |
+| 127 | Peru | 72.47 | 2011 est. |
+| 128 | Samoa | 72.40 | 2011 est. |
+| 129 | Vietnam | 72.18 | 2011 est. |
+| 130 | Nicaragua | 71.90 | 2011 est. |
+| 131 | Palau | 71.78 | 2011 est. |
+| 132 | Marshall Islands | 71.76 | 2011 est. |
+| 133 | Philippines | 71.66 | 2011 est. |
+| 134 | Micronesia, Federated States of | 71.52 | 2011 est. |
+| 135 | Trinidad and Tobago | 71.37 | 2011 est. |
+| 136 | Moldova | 71.37 | 2011 est. |
+| 137 | Indonesia | 71.33 | 2011 est. |
+| 138 | Fiji | 71.31 | 2011 est. |
+| 139 | Belarus | 71.20 | 2011 est. |
+| 140 | Bahamas, The | 71.18 | 2011 est. |
+| 141 | Greenland | 70.96 | 2011 est. |
+| 142 | Guatemala | 70.88 | 2011 est. |
+| 143 | Cape Verde | 70.70 | 2011 est. |
+| 144 | Honduras | 70.61 | 2011 est. |
+| 145 | Iraq | 70.55 | 2011 est. |
+| 146 | Iran | 70.06 | 2011 est. |
+| 147 | Kyrgyzstan | 70.04 | 2011 est. |
+| 148 | Bangladesh | 69.75 | 2011 est. |
+| 149 | Korea, North | 68.89 | 2011 est. |
+| 150 | Ukraine | 68.58 | 2011 est. |
+| 151 | Turkmenistan | 68.52 | 2011 est. |
+| 152 | Kazakhstan | 68.51 | 2011 est. |
+| 153 | Mongolia | 68.31 | 2011 est. |
+| 154 | Belize | 68.23 | 2011 est. |
+| 155 | Timor-Leste | 67.95 | 2011 est. |
+| 156 | Bolivia | 67.57 | 2011 est. |
+| 157 | Azerbaijan | 67.36 | 2011 est. |
+| 158 | Bhutan | 67.30 | 2011 est. |
+| 159 | Guyana | 67.08 | 2011 est. |
+| 160 | India | 66.80 | 2011 est. |
+| 161 | Russia | 66.29 | 2011 est. |
+| 162 | Papua New Guinea | 66.24 | 2011 est. |
+| 163 | Nepal | 66.16 | 2011 est. |
+| 164 | Tajikistan | 66.03 | 2011 est. |
+| 165 | Pakistan | 65.99 | 2011 est. |
+| 166 | Nauru | 65.35 | 2011 est. |
+| 167 | Burma | 64.88 | 2011 est. |
+| 168 | Tuvalu | 64.75 | 2011 est. |
+| 169 | Vanuatu | 64.70 | 2011 est. |
+| 170 | Kiribati | 64.39 | 2011 est. |
+| 171 | Comoros | 64.20 | 2011 est. |
+| 172 | Yemen | 63.74 | 2011 est. |
+| 173 | Madagascar | 63.63 | 2011 est. |
+| 174 | Gambia, The | 63.51 | 2011 est. |
+| 175 | Sao Tome and Principe | 63.11 | 2011 est. |
+| 176 | Togo | 62.71 | 2011 est. |
+| 177 | Cambodia | 62.67 | 2011 est. |
+| 178 | Eritrea | 62.52 | 2011 est. |
+| 179 | Laos | 62.39 | 2011 est. |
+| 180 | Equatorial Guinea | 62.37 | 2011 est. |
+| 181 | Haiti | 62.17 | 2011 est. |
+| 182 | Djibouti | 61.14 | 2011 est. |
+| 183 | Mauritania | 61.14 | 2011 est. |
+| 184 | Western Sahara | 61.13 | 2011 est. |
+| 185 | Ghana | 61.00 | 2011 est. |
+| 186 | Benin | 59.84 | 2011 est. |
+| 187 | Senegal | 59.78 | 2011 est. |
+| 188 | Kenya | 59.48 | 2011 est. |
+| 189 | Burundi | 58.78 | 2011 est. |
+| 190 | Guinea | 58.11 | 2011 est. |
+| 191 | Botswana | 58.05 | 2011 est. |
+| 192 | Rwanda | 58.02 | 2011 est. |
+| 193 | Liberia | 57.00 | 2011 est. |
+| 194 | Cote d'Ivoire | 56.78 | 2011 est. |
+| 195 | Ethiopia | 56.19 | 2011 est. |
+| 196 | Sierra Leone | 56.13 | 2011 est. |
+| 197 | Sudan | 55.42 | 2011 est. |
+| 198 | Congo, Democratic Republic of the | 55.33 | 2011 est. |
+| 199 | Congo, Republic of the | 54.91 | 2011 est. |
+| 200 | Cameroon | 54.39 | 2011 est. |
+| 201 | Burkina Faso | 53.70 | 2011 est. |
+| 202 | Niger | 53.40 | 2011 est. |
+| 203 | Uganda | 53.24 | 2011 est. |
+| 204 | Tanzania | 52.85 | 2011 est. |
+| 205 | Mali | 52.61 | 2011 est. |
+| 206 | Gabon | 52.49 | 2011 est. |
+| 207 | Zambia | 52.36 | 2011 est. |
+| 208 | Namibia | 52.19 | 2011 est. |
+| 209 | Mozambique | 51.78 | 2011 est. |
+| 210 | Malawi | 51.70 | 2011 est. |
+| 211 | Lesotho | 51.63 | 2011 est. |
+| 212 | Somalia | 50.40 | 2011 est. |
+| 213 | Central African Republic | 50.07 | 2011 est. |
+| 214 | Zimbabwe | 49.64 | 2011 est. |
+| 215 | South Africa | 49.33 | 2011 est. |
+| 216 | Guinea-Bissau | 48.70 | 2011 est. |
+| 217 | Swaziland | 48.66 | 2011 est. |
+| 218 | Chad | 48.33 | 2011 est. |
+| 219 | Nigeria | 47.56 | 2011 est. |
+| 220 | Afghanistan | 45.02 | 2011 est. |
+| 221 | Angola | 38.76 | 2011 est. |

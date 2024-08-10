@@ -1,0 +1,27 @@
+Telephone Code: 787, 939
+Local Emergency Phone: 911
+Climate: Tropical marine, mild; little seasonal temperature variation
+Currency (Code): US $ (USD)
+Electricity: 120 V
+Voltage: 60 Hz
+Plug types(s): A, B
+Major Languages: Spanish, English
+Major Religions: Roman Catholic 85%, Protestant and other 15%
+Time Difference: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)
+Potable Water: Yes
+International Driving Permit: Suggested for non-US citizens.
+Road Driving Side: Right
+Tourist Destinations: El Yunque National Rainforest; Old San Juan & El Morro Castle; Cabo Roho Lighthouse; Coamo Thermal Hot Springs; Bioluminescent Mosquito Bay; Fort San Cristobal
+Major Sports: Baseball, boxing, basketball, volleyball
+Cultural Practices: Puerto Ricans believe that directness is rude and will attempt to use euphemisms to avoid it.
+Tipping Guidelines: Tipping 15-20% of the total bill for restaurant staff is appropriate.
+Souvenirs: Vejigante festival masks, cigars, coffee, rum, woven straw items, carved santos figures, stringed instruments, mundillo lace
+Traditional Cuisine: Arroz con gandules --- a one-pot dish consisting of yellow rice, pigeon peas, and sofrito (a sauce made with green peppers, onions, tomatoes, garlic, red pepper, cilantro, and coriander); may also be garnished with pork, bacon, chorizo, or olives
+
+---
+country: Puerto Rico
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Puerto Rico/travel-facts>
+license: public domain (U.S.)
+...

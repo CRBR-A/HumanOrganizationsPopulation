@@ -1,0 +1,29 @@
+Telephone Code: 380
+Local Emergency Phone - Ambulance: 03, 118
+Local Emergency Phone - Fire: 01
+Local Emergency Phone - Police: 02
+Climate: Temperate continental; Mediterranean only on the southern Crimean coast; precipitation disproportionately distributed, highest in west and north, lesser in east and southeast; winters vary from cool along the Black Sea to cold farther inland; warm summers across the greater part of the country, hot in the south
+Currency (Code): Hryvnia (UAH)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, F
+Major Languages: Ukrainian, Russian, other minority languages
+Major Religions: Ukrainian Orthodox -Kyiv Patriarchate, Ukrainian Orthodox -Moscow Patriarchate, Ukrainian Greek Catholic, Roman Catholic, Protestant, Muslim, Jewish
+Time Difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time); daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Kyiv (includes Saint Sophia Cathedral, Monastery of the Caves, Museum of Folk Architecture, Saint Michael's Golden Domed Monastery, Mariinsky Palace, National Opera House, Chernobyl Museum, Saint Andrew's Church); Mount Hoverla; Tunnel of Love; Old Town Lviv; Odessa; Chernivtsi; Tauric Chersonese & Its Chora
+Major Sports: Soccer, basketball, boxing, ice hockey
+Cultural Practices: When invited to a household for dinner, it is considered rude to refuse any of the dishes offered.
+Tipping Guidelines: Tipping is not required in Ukraine. However, 10% of the total bill is appreciated for good service. Tip the bellhop/porter the equivalent of $1 (USD) per bag and tip housekeeping your change.
+Souvenirs: Pysanka hand-decorated eggs, handmade embroidered traditional shirts, blouses, and table linens
+Traditional Cuisine: Borshch --- a soup made with beetroot, meat, or bone stock, and sautéed vegetables; Varenyky -- dumplings stuffed with potato, cheese (sometimes both), sauerkraut, mushrooms, or fruit filling
+
+---
+country: Ukraine
+date: May 23, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Ukraine/travel-facts>
+license: public domain (U.S.)
+...

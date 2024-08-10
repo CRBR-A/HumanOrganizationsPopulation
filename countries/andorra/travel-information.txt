@@ -1,0 +1,27 @@
+Telephone Code: 376
+Local Emergency Phone: Europe-wide emergency response number 112; Ambulance: 118; Fire: 118; Police: 110
+Climate: Temperate; snowy, cold winters and warm, dry summers
+Currency (Code): Euros (EUR)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, F
+Major Languages: Catalan (official), French, Castilian, Portuguese
+Major Religions: Christian (predominantly Roman Catholic) 89.5, other 8.8%
+Time Difference: UTC+1 (6 hours ahead of Washington, DC during Standard Time); daylight saving time: +1hr, begins last Sunday in March, ends last Sunday in October
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Andorra la Vella; Vallnord; Sant Joan de Caselles Church; Centre Termolúdic Caldea; Ordino (includes Casa d'Areny-Plandolit); Sant Martí de la Cortinada Church; Madriu-Perafita-Claror Valley; Pyrenees Mountains
+Major Sports: Soccer, rugby, basketball
+Cultural Practices: Andorrans shake hands upon greeting. Men will shake with two hands, placing their left hand on the right forearm of the other person.
+Tipping Guidelines: Tipping is optional, but welcome. Leave a 10% tip at restaurants and for taxi drivers. Round up the bill at pubs and for hotel staff.
+Souvenirs: Wood, leather, and metal carved "musicature"; ironwork; pinewood furniture; glazed pottery
+Traditional Cuisine: Escudella i carn d'olla --- a traditional Catalan meat and vegetable stew and soup
+
+---
+country: Andorra
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Andorra/travel-facts>
+license: public domain (U.S.)
+...

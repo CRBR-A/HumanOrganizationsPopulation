@@ -1,0 +1,486 @@
+CIA - The World Factbook --  Maritime claims   
+
+This entry includes the following claims, the definitions of which are excerpted from the United Nations Convention on the Law of the Sea (UNCLOS), which alone contains the full and definitive descriptions:
+| territorial sea - the sovereignty of a coastal state extends beyond its land territory and internal waters to an adjacent belt of sea, described as the territorial sea in the UNCLOS (Part II); this sovereignty extends to the air space over the territorial sea as well as its underlying seabed and subsoil; every state has the right to establish the breadth of its territorial sea up to a limit not exceeding 12 nautical miles; the normal baseline for measuring the breadth of the territorial sea is the mean low-water line along the coast as marked on large-scale charts officially recognized by the coastal state; the UNCLOS describes specific rules for archipelagic states. |
+| contiguous zone - according to the UNCLOS (Article 33), this is a zone contiguous to a coastal state's territorial sea, over which it may exercise the control necessary to: prevent infringement of its customs, fiscal, immigration, or sanitary laws and regulations within its territory or territorial sea; punish infringement of the above laws and regulations committed within its territory or territorial sea; the contiguous zone may not extend beyond 24 nautical miles from the baselines from which the breadth of the territorial sea is measured (e.g. the US has claimed a 12-nautical mile contiguous zone in addition to its 12-nautical mile territorial sea). |
+| exclusive economic zone (EEZ) - the UNCLOS (Part V) defines the EEZ as a zone beyond and adjacent to the territorial sea in which a coastal state has: sovereign rights for the purpose of exploring and exploiting, conserving and managing the natural resources, whether living or non-living, of the waters superjacent to the seabed and of the seabed and its subsoil, and with regard to other activities for the economic exploitation and exploration of the zone, such as the production of energy from the water, currents, and winds; jurisdiction with regard to the establishment and use of artificial islands, installations, and structures; marine scientific research; the protection and preservation of the marine environment; the outer limit of the exclusive economic zone shall not exceed 200 nautical miles from the baselines from which the breadth of the territorial sea is measured. |
+| continental shelf - the UNCLOS (Article 76) defines the continental shelf of a coastal state as comprising the seabed and subsoil of the submarine areas that extend beyond its territorial sea throughout the natural prolongation of its land territory to the outer edge of the continental margin, or to a distance of 200 nautical miles from the baselines from which the breadth of the territorial sea is measured where the outer edge of the continental margin does not extend up to that distance; the continental margin comprises the submerged prolongation of the landmass of the coastal state, and consists of the seabed and subsoil of the shelf, the slope and the rise; wherever the continental margin extends beyond 200 nautical miles from the baseline, coastal states may extend their claim to a distance not to exceed 350 nautical miles from the baseline or 100 nautical miles from the 2500 meter isobath; it does not include the deep ocean floor with its oceanic ridges or the subsoil thereof. |
+| exclusive fishing zone - while this term is not used in the UNCLOS, some states (e.g., the United Kingdom) have chosen not to claim an EEZ, but rather to claim jurisdiction over the living resources off their coast; in such cases, the term exclusive fishing zone is often used; the breadth of this zone is normally the same as the EEZ or 200 nautical miles. |
+| Rank | country | Maritime claims | Date of Information |
+| --- | --- | --- | --- |
+| 1 | American Samoa | 200.00 | NA |
+| 2 | Angola | 200.00 | NA |
+| 3 | Anguilla | 200.00 | NA |
+| 4 | Antigua and Barbuda | 200.00 | NA |
+| 5 | Argentina | 200.00 | NA |
+| 6 | Ashmore and Cartier Islands | 200.00 | NA |
+| 7 | Australia | 200.00 | NA |
+| 8 | Bangladesh | 200.00 | NA |
+| 9 | Belize | 200.00 | NA |
+| 10 | Burma | 200.00 | NA |
+| 11 | Bulgaria | 200.00 | NA |
+| 12 | Brunei | 200.00 | NA |
+| 13 | British Virgin Islands | 200.00 | NA |
+| 14 | British Indian Ocean Territory | 200.00 | NA |
+| 15 | Brazil | 200.00 | NA |
+| 16 | Brazil | 200.00 | NA |
+| 17 | Bermuda | 200.00 | NA |
+| 18 | Benin | 200.00 | NA |
+| 19 | Colombia | 200.00 | NA |
+| 20 | Cocos (Keeling) Islands | 200.00 | NA |
+| 21 | Clipperton Island | 200.00 | NA |
+| 22 | Christmas Island | 200.00 | NA |
+| 23 | China | 200.00 | NA |
+| 24 | China | 200.00 | NA |
+| 25 | Chile | 200.00 | NA |
+| 26 | Cayman Islands | 200.00 | NA |
+| 27 | Cape Verde | 200.00 | NA |
+| 28 | Canada | 200.00 | NA |
+| 29 | Canada | 200.00 | NA |
+| 30 | Cambodia | 200.00 | NA |
+| 31 | Cambodia | 200.00 | NA |
+| 32 | Burma | 200.00 | NA |
+| 33 | Ecuador | 200.00 | NA |
+| 34 | Dominican Republic | 200.00 | NA |
+| 35 | Dominican Republic | 200.00 | NA |
+| 36 | Dominica | 200.00 | NA |
+| 37 | Djibouti | 200.00 | NA |
+| 38 | Denmark | 200.00 | NA |
+| 39 | Cuba | 200.00 | NA |
+| 40 | Cote d'Ivoire | 200.00 | NA |
+| 41 | Cote d'Ivoire | 200.00 | NA |
+| 42 | Costa Rica | 200.00 | NA |
+| 43 | Costa Rica | 200.00 | NA |
+| 44 | Coral Sea Islands | 200.00 | NA |
+| 45 | Cook Islands | 200.00 | NA |
+| 46 | Cook Islands | 200.00 | NA |
+| 47 | Congo, Republic of the | 200.00 | NA |
+| 48 | Comoros | 200.00 | NA |
+| 49 | Guyana | 200.00 | NA |
+| 50 | Guyana | 200.00 | NA |
+| 51 | Guinea-Bissau | 200.00 | NA |
+| 52 | Guinea | 200.00 | NA |
+| 53 | Guatemala | 200.00 | NA |
+| 54 | Grenada | 200.00 | NA |
+| 55 | Greenland | 200.00 | NA |
+| 56 | Greenland | 200.00 | NA |
+| 57 | Ghana | 200.00 | NA |
+| 58 | Korea, North | 200.00 | NA |
+| 59 | Kiribati | 200.00 | NA |
+| 60 | Kenya | 200.00 | NA |
+| 61 | Kenya | 200.00 | NA |
+| 62 | Japan | 200.00 | NA |
+| 63 | Jan Mayen | 200.00 | NA |
+| 64 | Jamaica | 200.00 | NA |
+| 65 | Jamaica | 200.00 | NA |
+| 66 | Ireland | 200.00 | NA |
+| 67 | Montserrat | 200.00 | NA |
+| 68 | Micronesia, Federated States of | 200.00 | NA |
+| 69 | Mexico | 200.00 | NA |
+| 70 | Mexico | 200.00 | NA |
+| 71 | Mayotte | 200.00 | NA |
+| 72 | Mauritius | 200.00 | NA |
+| 73 | Mauritius | 200.00 | NA |
+| 74 | Mauritania | 200.00 | NA |
+| 75 | Mauritania | 200.00 | NA |
+| 76 | Pakistan | 200.00 | NA |
+| 77 | Oman | 200.00 | NA |
+| 78 | Norway | 200.00 | NA |
+| 79 | Norway | 200.00 | NA |
+| 80 | Northern Mariana Islands | 200.00 | NA |
+| 81 | Norfolk Island | 200.00 | NA |
+| 82 | Niue | 200.00 | NA |
+| 83 | Nigeria | 200.00 | NA |
+| 84 | New Zealand | 200.00 | NA |
+| 85 | Taiwan | 200.00 | NA |
+| 86 | Yemen | 200.00 | NA |
+| 87 | Yemen | 200.00 | NA |
+| 88 | Wallis and Futuna | 200.00 | NA |
+| 89 | Wake Island | 200.00 | NA |
+| 90 | Virgin Islands | 200.00 | NA |
+| 91 | Vietnam | 200.00 | NA |
+| 92 | Vietnam | 200.00 | NA |
+| 93 | Venezuela | 200.00 | NA |
+| 94 | Vanuatu | 200.00 | NA |
+| 95 | Vanuatu | 200.00 | NA |
+| 96 | Uruguay | 200.00 | NA |
+| 97 | United States Pacific Island Wildlife Refuges | 200.00 | NA |
+| 98 | United States | 200.00 | NA |
+| 99 | United Kingdom | 200.00 | NA |
+| 100 | United Arab Emirates | 200.00 | NA |
+| 101 | United Arab Emirates | 200.00 | NA |
+| 102 | Ukraine | 200.00 | NA |
+| 103 | Tuvalu | 200.00 | NA |
+| 104 | Turks and Caicos Islands | 200.00 | NA |
+| 105 | Trinidad and Tobago | 200.00 | NA |
+| 106 | Trinidad and Tobago | 200.00 | NA |
+| 107 | Tonga | 200.00 | NA |
+| 108 | Tokelau | 200.00 | NA |
+| 109 | Togo | 200.00 | NA |
+| 110 | Timor-Leste | 200.00 | NA |
+| 111 | Thailand | 200.00 | NA |
+| 112 | Tanzania | 200.00 | NA |
+| 113 | Svalbard | 200.00 | NA |
+| 114 | Suriname | 200.00 | NA |
+| 115 | Sri Lanka | 200.00 | NA |
+| 116 | Sri Lanka | 200.00 | NA |
+| 117 | Spain | 200.00 | NA |
+| 118 | South Georgia and South Sandwich Islands | 200.00 | NA |
+| 119 | South Africa | 200.00 | NA |
+| 120 | South Africa | 200.00 | NA |
+| 121 | Somalia | 200.00 | NA |
+| 122 | Solomon Islands | 200.00 | NA |
+| 123 | Solomon Islands | 200.00 | NA |
+| 124 | Sierra Leone | 200.00 | NA |
+| 125 | Sierra Leone | 200.00 | NA |
+| 126 | Seychelles | 200.00 | NA |
+| 127 | Seychelles | 200.00 | NA |
+| 128 | Senegal | 200.00 | NA |
+| 129 | Senegal | 200.00 | NA |
+| 130 | Sao Tome and Principe | 200.00 | NA |
+| 131 | Samoa | 200.00 | NA |
+| 132 | Saint Vincent and the Grenadines | 200.00 | NA |
+| 133 | Saint Vincent and the Grenadines | 200.00 | NA |
+| 134 | Saint Pierre and Miquelon | 200.00 | NA |
+| 135 | Saint Lucia | 200.00 | NA |
+| 136 | Saint Lucia | 200.00 | NA |
+| 137 | Saint Kitts and Nevis | 200.00 | NA |
+| 138 | Saint Kitts and Nevis | 200.00 | NA |
+| 139 | Saint Helena, Ascension, and Tristan da Cunha | 200.00 | NA |
+| 140 | Russia | 200.00 | NA |
+| 141 | Romania | 200.00 | NA |
+| 142 | Puerto Rico | 200.00 | NA |
+| 143 | Portugal | 200.00 | NA |
+| 144 | Pitcairn Islands | 200.00 | NA |
+| 145 | Philippines | 200.00 | NA |
+| 146 | Peru | 200.00 | NA |
+| 147 | Peru | 200.00 | NA |
+| 148 | Papua New Guinea | 200.00 | NA |
+| 149 | Panama | 200.00 | NA |
+| 150 | Palau | 200.00 | NA |
+| 151 | Pakistan | 200.00 | NA |
+| 152 | New Zealand | 200.00 | NA |
+| 153 | New Caledonia | 200.00 | NA |
+| 154 | Netherlands | 200.00 | NA |
+| 155 | Navassa Island | 200.00 | NA |
+| 156 | Nauru | 200.00 | NA |
+| 157 | Namibia | 200.00 | NA |
+| 158 | Mozambique | 200.00 | NA |
+| 159 | Morocco | 200.00 | NA |
+| 160 | Marshall Islands | 200.00 | NA |
+| 161 | Maldives | 200.00 | NA |
+| 162 | Malaysia | 200.00 | NA |
+| 163 | Madagascar | 200.00 | NA |
+| 164 | Madagascar | 200.00 | NA |
+| 165 | Liberia | 200.00 | NA |
+| 166 | Latvia | 200.00 | NA |
+| 167 | Korea, South | 200.00 | NA |
+| 168 | Indonesia | 200.00 | NA |
+| 169 | India | 200.00 | NA |
+| 170 | India | 200.00 | NA |
+| 171 | Iceland | 200.00 | NA |
+| 172 | Iceland | 200.00 | NA |
+| 173 | Honduras | 200.00 | NA |
+| 174 | Heard Island and McDonald Islands | 200.00 | NA |
+| 175 | Haiti | 200.00 | NA |
+| 176 | Ghana | 200.00 | NA |
+| 177 | Germany | 200.00 | NA |
+| 178 | Georgia | 200.00 | NA |
+| 179 | Gambia, The | 200.00 | NA |
+| 180 | Gabon | 200.00 | NA |
+| 181 | French Southern and Antarctic Lands | 200.00 | NA |
+| 182 | French Polynesia | 200.00 | NA |
+| 183 | France | 200.00 | NA |
+| 184 | Fiji | 200.00 | NA |
+| 185 | Faroe Islands | 200.00 | NA |
+| 186 | Faroe Islands | 200.00 | NA |
+| 187 | Falkland Islands (Islas Malvinas) | 200.00 | NA |
+| 188 | Falkland Islands (Islas Malvinas) | 200.00 | NA |
+| 189 | Equatorial Guinea | 200.00 | NA |
+| 190 | El Salvador | 200.00 | NA |
+| 191 | Egypt | 200.00 | NA |
+| 192 | Barbados | 200.00 | NA |
+| 193 | Bahamas, The | 200.00 | NA |
+| 194 | Australia | 200.00 | NA |
+| 195 | Argentina | 200.00 | NA |
+| 196 | Antigua and Barbuda | 200.00 | NA |
+| 197 | Libya | 62.00 | NA |
+| 198 | Togo | 30.00 | NA |
+| 199 | Malta | 25.00 | NA |
+| 200 | Angola | 24.00 | NA |
+| 201 | Argentina | 24.00 | NA |
+| 202 | Antigua and Barbuda | 24.00 | NA |
+| 203 | Cape Verde | 24.00 | NA |
+| 204 | Canada | 24.00 | NA |
+| 205 | Cameroon | 24.00 | NA |
+| 206 | Cambodia | 24.00 | NA |
+| 207 | Burma | 24.00 | NA |
+| 208 | Bulgaria | 24.00 | NA |
+| 209 | Brazil | 24.00 | NA |
+| 210 | Belgium | 24.00 | NA |
+| 211 | Bahrain | 24.00 | NA |
+| 212 | Yemen | 24.00 | NA |
+| 213 | Vietnam | 24.00 | NA |
+| 214 | Vanuatu | 24.00 | NA |
+| 215 | Uruguay | 24.00 | NA |
+| 216 | United States | 24.00 | NA |
+| 217 | United Arab Emirates | 24.00 | NA |
+| 218 | Tuvalu | 24.00 | NA |
+| 219 | Tunisia | 24.00 | NA |
+| 220 | Trinidad and Tobago | 24.00 | NA |
+| 221 | Timor-Leste | 24.00 | NA |
+| 222 | Syria | 24.00 | NA |
+| 223 | Sri Lanka | 24.00 | NA |
+| 224 | Spain | 24.00 | NA |
+| 225 | South Africa | 24.00 | NA |
+| 226 | Sierra Leone | 24.00 | NA |
+| 227 | Seychelles | 24.00 | NA |
+| 228 | Senegal | 24.00 | NA |
+| 229 | Samoa | 24.00 | NA |
+| 230 | Saint Vincent and the Grenadines | 24.00 | NA |
+| 231 | Saint Lucia | 24.00 | NA |
+| 232 | Saint Kitts and Nevis | 24.00 | NA |
+| 233 | Russia | 24.00 | NA |
+| 234 | Romania | 24.00 | NA |
+| 235 | Qatar | 24.00 | NA |
+| 236 | Portugal | 24.00 | NA |
+| 237 | Panama | 24.00 | NA |
+| 238 | Pakistan | 24.00 | NA |
+| 239 | Oman | 24.00 | NA |
+| 240 | Nicaragua | 24.00 | NA |
+| 241 | New Zealand | 24.00 | NA |
+| 242 | Netherlands | 24.00 | NA |
+| 243 | Nauru | 24.00 | NA |
+| 244 | Namibia | 24.00 | NA |
+| 245 | Morocco | 24.00 | NA |
+| 246 | Mexico | 24.00 | NA |
+| 247 | Mauritania | 24.00 | NA |
+| 248 | Marshall Islands | 24.00 | NA |
+| 249 | Malta | 24.00 | NA |
+| 250 | Maldives | 24.00 | NA |
+| 251 | Madagascar | 24.00 | NA |
+| 252 | Korea, South | 24.00 | NA |
+| 253 | Japan | 24.00 | NA |
+| 254 | Jamaica | 24.00 | NA |
+| 255 | Iran | 24.00 | NA |
+| 256 | India | 24.00 | NA |
+| 257 | Honduras | 24.00 | NA |
+| 258 | Haiti | 24.00 | NA |
+| 259 | Egypt | 24.00 | NA |
+| 260 | Dominican Republic | 24.00 | NA |
+| 261 | Dominica | 24.00 | NA |
+| 262 | Djibouti | 24.00 | NA |
+| 263 | Denmark | 24.00 | NA |
+| 264 | Cyprus | 24.00 | NA |
+| 265 | Cuba | 24.00 | NA |
+| 266 | China | 24.00 | NA |
+| 267 | Chile | 24.00 | NA |
+| 268 | Ghana | 24.00 | NA |
+| 269 | Gabon | 24.00 | NA |
+| 270 | France | 24.00 | NA |
+| 271 | Finland | 24.00 | NA |
+| 272 | El Salvador | 24.00 | NA |
+| 273 | Australia | 24.00 | NA |
+| 274 | Bangladesh | 18.00 | NA |
+| 275 | Sudan | 18.00 | NA |
+| 276 | Saudi Arabia | 18.00 | NA |
+| 277 | Gambia, The | 18.00 | NA |
+| 278 | Venezuela | 15.00 | NA |
+| 279 | Albania | 12.00 | NA |
+| 280 | Antigua and Barbuda | 12.00 | NA |
+| 281 | Algeria | 12.00 | NA |
+| 282 | Angola | 12.00 | NA |
+| 283 | Ashmore and Cartier Islands | 12.00 | NA |
+| 284 | Bahamas, The | 12.00 | NA |
+| 285 | Comoros | 12.00 | NA |
+| 286 | Colombia | 12.00 | NA |
+| 287 | Cocos (Keeling) Islands | 12.00 | NA |
+| 288 | Clipperton Island | 12.00 | NA |
+| 289 | Christmas Island | 12.00 | NA |
+| 290 | Christmas Island | 12.00 | NA |
+| 291 | Burma | 12.00 | NA |
+| 292 | Bulgaria | 12.00 | NA |
+| 293 | Brunei | 12.00 | NA |
+| 294 | Cook Islands | 12.00 | NA |
+| 295 | Congo, Democratic Republic of the | 12.00 | NA |
+| 296 | Brazil | 12.00 | NA |
+| 297 | Bermuda | 12.00 | NA |
+| 298 | Belize | 12.00 | NA |
+| 299 | Belgium | 12.00 | NA |
+| 300 | Barbados | 12.00 | NA |
+| 301 | Bangladesh | 12.00 | NA |
+| 302 | Bahrain | 12.00 | NA |
+| 303 | Australia | 12.00 | NA |
+| 304 | Haiti | 12.00 | NA |
+| 305 | Guyana | 12.00 | NA |
+| 306 | Guinea-Bissau | 12.00 | NA |
+| 307 | Guinea | 12.00 | NA |
+| 308 | Guernsey | 12.00 | NA |
+| 309 | Guatemala | 12.00 | NA |
+| 310 | Grenada | 12.00 | NA |
+| 311 | Greece | 12.00 | NA |
+| 312 | Finland | 12.00 | NA |
+| 313 | Jamaica | 12.00 | NA |
+| 314 | Italy | 12.00 | NA |
+| 315 | Israel | 12.00 | NA |
+| 316 | Isle of Man | 12.00 | NA |
+| 317 | Isle of Man | 12.00 | NA |
+| 318 | Ireland | 12.00 | NA |
+| 319 | Iraq | 12.00 | NA |
+| 320 | Iran | 12.00 | NA |
+| 321 | Indonesia | 12.00 | NA |
+| 322 | India | 12.00 | NA |
+| 323 | Iceland | 12.00 | NA |
+| 324 | Honduras | 12.00 | NA |
+| 325 | Heard Island and McDonald Islands | 12.00 | NA |
+| 326 | Taiwan | 12.00 | NA |
+| 327 | Yemen | 12.00 | NA |
+| 328 | Wallis and Futuna | 12.00 | NA |
+| 329 | Wake Island | 12.00 | NA |
+| 330 | Virgin Islands | 12.00 | NA |
+| 331 | Vietnam | 12.00 | NA |
+| 332 | Venezuela | 12.00 | NA |
+| 333 | Vanuatu | 12.00 | NA |
+| 334 | Uruguay | 12.00 | NA |
+| 335 | United States Pacific Island Wildlife Refuges | 12.00 | NA |
+| 336 | United States | 12.00 | NA |
+| 337 | United Kingdom | 12.00 | NA |
+| 338 | United Arab Emirates | 12.00 | NA |
+| 339 | Ukraine | 12.00 | NA |
+| 340 | Tuvalu | 12.00 | NA |
+| 341 | Turks and Caicos Islands | 12.00 | NA |
+| 342 | Turkey | 12.00 | NA |
+| 343 | Tunisia | 12.00 | NA |
+| 344 | Tunisia | 12.00 | NA |
+| 345 | Trinidad and Tobago | 12.00 | NA |
+| 346 | Tonga | 12.00 | NA |
+| 347 | Tokelau | 12.00 | NA |
+| 348 | Timor-Leste | 12.00 | NA |
+| 349 | Thailand | 12.00 | NA |
+| 350 | Tanzania | 12.00 | NA |
+| 351 | Syria | 12.00 | NA |
+| 352 | Sweden | 12.00 | NA |
+| 353 | Suriname | 12.00 | NA |
+| 354 | Sudan | 12.00 | NA |
+| 355 | Sri Lanka | 12.00 | NA |
+| 356 | Spain | 12.00 | NA |
+| 357 | South Georgia and South Sandwich Islands | 12.00 | NA |
+| 358 | South Africa | 12.00 | NA |
+| 359 | Solomon Islands | 12.00 | NA |
+| 360 | Slovenia | 12.00 | NA |
+| 361 | Sierra Leone | 12.00 | NA |
+| 362 | Seychelles | 12.00 | NA |
+| 363 | Senegal | 12.00 | NA |
+| 364 | Saudi Arabia | 12.00 | NA |
+| 365 | Sao Tome and Principe | 12.00 | NA |
+| 366 | Samoa | 12.00 | NA |
+| 367 | Saint Vincent and the Grenadines | 12.00 | NA |
+| 368 | Saint Pierre and Miquelon | 12.00 | NA |
+| 369 | Saint Lucia | 12.00 | NA |
+| 370 | Saint Kitts and Nevis | 12.00 | NA |
+| 371 | Saint Helena, Ascension, and Tristan da Cunha | 12.00 | NA |
+| 372 | Russia | 12.00 | NA |
+| 373 | Romania | 12.00 | NA |
+| 374 | Qatar | 12.00 | NA |
+| 375 | Puerto Rico | 12.00 | NA |
+| 376 | Portugal | 12.00 | NA |
+| 377 | Poland | 12.00 | NA |
+| 378 | Papua New Guinea | 12.00 | NA |
+| 379 | Panama | 12.00 | NA |
+| 380 | Pakistan | 12.00 | NA |
+| 381 | Oman | 12.00 | NA |
+| 382 | Norway | 12.00 | NA |
+| 383 | Northern Mariana Islands | 12.00 | NA |
+| 384 | Norfolk Island | 12.00 | NA |
+| 385 | Niue | 12.00 | NA |
+| 386 | Nigeria | 12.00 | NA |
+| 387 | Nicaragua | 12.00 | NA |
+| 388 | New Zealand | 12.00 | NA |
+| 389 | New Caledonia | 12.00 | NA |
+| 390 | Netherlands | 12.00 | NA |
+| 391 | Navassa Island | 12.00 | NA |
+| 392 | Morocco | 12.00 | NA |
+| 393 | Montenegro | 12.00 | NA |
+| 394 | Monaco | 12.00 | NA |
+| 395 | Monaco | 12.00 | NA |
+| 396 | Micronesia, Federated States of | 12.00 | NA |
+| 397 | Mexico | 12.00 | NA |
+| 398 | Mayotte | 12.00 | NA |
+| 399 | Mauritius | 12.00 | NA |
+| 400 | Mauritania | 12.00 | NA |
+| 401 | Nauru | 12.00 | NA |
+| 402 | Namibia | 12.00 | NA |
+| 403 | Mozambique | 12.00 | NA |
+| 404 | Marshall Islands | 12.00 | NA |
+| 405 | Malta | 12.00 | NA |
+| 406 | Maldives | 12.00 | NA |
+| 407 | Malaysia | 12.00 | NA |
+| 408 | Madagascar | 12.00 | NA |
+| 409 | Lithuania | 12.00 | NA |
+| 410 | Libya | 12.00 | NA |
+| 411 | Lebanon | 12.00 | NA |
+| 412 | Latvia | 12.00 | NA |
+| 413 | Kuwait | 12.00 | NA |
+| 414 | Korea, South | 12.00 | NA |
+| 415 | Korea, North | 12.00 | NA |
+| 416 | Kiribati | 12.00 | NA |
+| 417 | Kenya | 12.00 | NA |
+| 418 | Jersey | 12.00 | NA |
+| 419 | Japan | 12.00 | NA |
+| 420 | Finland | 12.00 | NA |
+| 421 | Fiji | 12.00 | NA |
+| 422 | Falkland Islands (Islas Malvinas) | 12.00 | NA |
+| 423 | Estonia | 12.00 | NA |
+| 424 | Eritrea | 12.00 | NA |
+| 425 | Equatorial Guinea | 12.00 | NA |
+| 426 | El Salvador | 12.00 | NA |
+| 427 | Egypt | 12.00 | NA |
+| 428 | Ghana | 12.00 | NA |
+| 429 | Germany | 12.00 | NA |
+| 430 | Georgia | 12.00 | NA |
+| 431 | Gambia, The | 12.00 | NA |
+| 432 | Gabon | 12.00 | NA |
+| 433 | French Southern and Antarctic Lands | 12.00 | NA |
+| 434 | French Polynesia | 12.00 | NA |
+| 435 | France | 12.00 | NA |
+| 436 | Dominica | 12.00 | NA |
+| 437 | Djibouti | 12.00 | NA |
+| 438 | Denmark | 12.00 | NA |
+| 439 | Cyprus | 12.00 | NA |
+| 440 | Cuba | 12.00 | NA |
+| 441 | Croatia | 12.00 | NA |
+| 442 | Cote d'Ivoire | 12.00 | NA |
+| 443 | Costa Rica | 12.00 | NA |
+| 444 | China | 12.00 | NA |
+| 445 | Chile | 12.00 | NA |
+| 446 | Cayman Islands | 12.00 | NA |
+| 447 | Cape Verde | 12.00 | NA |
+| 448 | Canada | 12.00 | NA |
+| 449 | Cameroon | 12.00 | NA |
+| 450 | Cambodia | 12.00 | NA |
+| 451 | Ashmore and Cartier Islands | 12.00 | NA |
+| 452 | Aruba | 12.00 | NA |
+| 453 | Argentina | 12.00 | NA |
+| 454 | American Samoa | 12.00 | NA |
+| 455 | Jan Mayen | 10.00 | NA |
+| 456 | Norway | 10.00 | NA |
+| 457 | Dominican Republic | 6.00 | NA |
+| 458 | Turkey | 6.00 | NA |
+| 459 | Bouvet Island | 4.00 | NA |
+| 460 | Jan Mayen | 4.00 | NA |
+| 461 | Svalbard | 4.00 | NA |
+| 462 | Anguilla | 3.00 | NA |
+| 463 | Guernsey | 3.00 | NA |
+| 464 | Singapore | 3.00 | NA |
+| 465 | Pitcairn Islands | 3.00 | NA |
+| 466 | Palau | 3.00 | NA |
+| 467 | Montserrat | 3.00 | NA |
+| 468 | Jordan | 3.00 | NA |
+| 469 | Jersey | 3.00 | NA |
+| 470 | Hong Kong | 3.00 | NA |
+| 471 | Greenland | 3.00 | NA |
+| 472 | British Virgin Islands | 3.00 | NA |
+| 473 | Coral Sea Islands | 3.00 | NA |
+| 474 | Gibraltar | 3.00 | NA |
+| 475 | Faroe Islands | 3.00 | NA |
+| 476 | British Indian Ocean Territory | 3.00 | NA |

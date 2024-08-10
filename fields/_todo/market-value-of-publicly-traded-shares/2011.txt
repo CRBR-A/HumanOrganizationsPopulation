@@ -1,0 +1,124 @@
+CIA - The World Factbook --  Market value of publicly traded shares   
+
+This entry gives the value of shares issued by publicly traded companies at a price determined in the national stock markets on the final day of the period indicated. It is simply the latest price per share multiplied by the total number of outstanding shares, cumulated over all companies listed on the particular exchange.
+
+| Rank | country | Market value of publicly traded shares | Date of Information |
+| --- | --- | --- | --- |
+| 1 | United States | $ 15,080,000,000,000 | 31 December 2009 |
+| 2 | European Union | $ 9,823,000,000,000 | 31 December 2009 |
+| 3 | China | $ 5,008,000,000,000 | 31 December 2009 |
+| 4 | Japan | $ 3,378,000,000,000 | 31 December 2009 |
+| 5 | United Kingdom | $ 2,796,000,000,000 | 31 December 2009 |
+| 6 | Hong Kong | $ 2,292,000,000,000 | 31 December 2009 |
+| 7 | France | $ 1,972,000,000,000 | 31 December 2009 |
+| 8 | Canada | $ 1,681,000,000,000 | 31 December 2009 |
+| 9 | Germany | $ 1,298,000,000,000 | 31 December 2009 |
+| 10 | Spain | $ 1,297,000,000,000 | 31 December 2009 |
+| 11 | Australia | $ 1,258,000,000,000 | 31 December 2009 |
+| 12 | India | $ 1,179,000,000,000 | 31 December 2009 |
+| 13 | Brazil | $ 1,167,000,000,000 | 31 December 2009 |
+| 14 | Switzerland | $ 1,071,000,000,000 | 31 December 2009 |
+| 15 | Russia | $ 861,400,000,000 | 31 December 2009 |
+| 16 | Korea, South | $ 836,500,000,000 | 31 December 2009 |
+| 17 | South Africa | $ 704,800,000,000 | 31 December 2009 |
+| 18 | Taiwan | $ 657,300,000,000 | 31 December 2009 |
+| 19 | Netherlands | $ 542,500,000,000 | 31 December 2009 |
+| 20 | Singapore | $ 474,300,000,000 | 31 December 2009 |
+| 21 | Sweden | $ 432,300,000,000 | 31 December 2009 |
+| 22 | Mexico | $ 340,600,000,000 | 31 December 2009 |
+| 23 | Saudi Arabia | $ 318,800,000,000 | 31 December 2009 |
+| 24 | Italy | $ 317,300,000,000 | 31 December 2009 |
+| 25 | Belgium | $ 261,400,000,000 | 31 December 2009 |
+| 26 | Malaysia | $ 256,000,000,000 | 31 December 2009 |
+| 27 | Norway | $ 227,200,000,000 | 31 December 2009 |
+| 28 | Turkey | $ 225,700,000,000 | 31 December 2009 |
+| 29 | Chile | $ 209,500,000,000 | 31 December 2009 |
+| 30 | Denmark | $ 186,900,000,000 | 31 December 2009 |
+| 31 | Israel | $ 182,100,000,000 | 31 December 2009 |
+| 32 | Indonesia | $ 178,200,000,000 | 31 December 2009 |
+| 33 | Thailand | $ 138,200,000,000 | 31 December 2009 |
+| 34 | Poland | $ 135,300,000,000 | 31 December 2009 |
+| 35 | Colombia | $ 133,300,000,000 | 31 December 2009 |
+| 36 | Philippines | $ 130,500,000,000 | 31 December 2009 |
+| 37 | United Arab Emirates | $ 109,600,000,000 | 31 December 2009 |
+| 38 | Peru | $ 107,300,000,000 | 31 December 2009 |
+| 39 | Austria | $ 107,200,000,000 | 31 December 2009 |
+| 40 | Luxembourg | $ 105,600,000,000 | 31 December 2009 |
+| 41 | Portugal | $ 98,650,000,000 | 31 December 2009 |
+| 42 | Kuwait | $ 95,940,000,000 | 31 December 2009 |
+| 43 | Finland | $ 91,020,000,000 | 31 December 2009 |
+| 44 | Egypt | $ 89,950,000,000 | 31 December 2009 |
+| 45 | Qatar | $ 87,860,000,000 | 31 December 2009 |
+| 46 | Czech Republic | $ 70,260,000,000 | 31 December 2009 |
+| 47 | New Zealand | $ 67,060,000,000 | 31 December 2009 |
+| 48 | Iran | $ 63,300,000,000 | 31 December 2009 |
+| 49 | Morocco | $ 62,910,000,000 | 31 December 2009 |
+| 50 | Ireland | $ 61,700,000,000 | 31 December 2009 |
+| 51 | Kazakhstan | $ 57,660,000,000 | 31 December 2009 |
+| 52 | Greece | $ 54,720,000,000 | 31 December 2009 |
+| 53 | Argentina | $ 48,930,000,000 | 31 December 2009 |
+| 54 | Nigeria | $ 33,320,000,000 | 31 December 2009 |
+| 55 | Pakistan | $ 33,240,000,000 | 31 December 2009 |
+| 56 | Jordan | $ 31,860,000,000 | 31 December 2009 |
+| 57 | Romania | $ 30,320,000,000 | 31 December 2009 |
+| 58 | Hungary | $ 28,290,000,000 | 31 December 2009 |
+| 59 | Croatia | $ 25,640,000,000 | 31 December 2009 |
+| 60 | Vietnam | $ 21,200,000,000 | 31 December 2009 |
+| 61 | Oman | $ 17,300,000,000 | 31 December 2009 |
+| 62 | Bahrain | $ 16,930,000,000 | 31 December 2009 |
+| 63 | Ukraine | $ 16,790,000,000 | 31 December 2009 |
+| 64 | Lebanon | $ 12,890,000,000 | 31 December 2009 |
+| 65 | Slovenia | $ 11,770,000,000 | 31 December 2009 |
+| 66 | Serbia | $ 11,520,000,000 | 31 December 2009 |
+| 67 | Trinidad and Tobago | $ 11,150,000,000 | 31 December 2009 |
+| 68 | Kenya | $ 10,760,000,000 | 31 December 2009 |
+| 69 | Tunisia | $ 9,120,000,000 | 31 December 2009 |
+| 70 | Venezuela | $ 8,860,000,000 | 31 December 2009 |
+| 71 | Sri Lanka | $ 8,133,000,000 | 31 December 2009 |
+| 72 | Panama | $ 8,048,000,000 | 31 December 2009 |
+| 73 | Bulgaria | $ 7,103,000,000 | 31 December 2009 |
+| 74 | Bangladesh | $ 7,068,000,000 | 31 December 2009 |
+| 75 | Papua New Guinea | $ 6,632,000,000 | |
+| 76 | Jamaica | $ 6,201,000,000 | 31 December 2009 |
+| 77 | Cote d'Ivoire | $ 6,141,000,000 | 31 December 2009 |
+| 78 | Nepal | $ 5,485,000,000 | 31 December 2009 |
+| 79 | Zimbabwe | $ 5,333,000,000 | 31 December 2007 |
+| 80 | Cyprus | $ 4,993,000,000 | 31 December 2009 |
+| 81 | Mauritius | $ 4,740,000,000 | 31 December 2009 |
+| 82 | Slovakia | $ 4,672,000,000 | 31 December 2009 |
+| 83 | Lithuania | $ 4,477,000,000 | 31 December 2009 |
+| 84 | El Salvador | $ 4,432,000,000 | 31 December 2009 |
+| 85 | Barbados | $ 4,390,000,000 | 31 December 2009 |
+| 86 | Montenegro | $ 4,289,000,000 | 31 December 2009 |
+| 87 | Ecuador | $ 4,248,000,000 | 31 December 2009 |
+| 88 | Botswana | $ 3,991,000,000 | 31 December 2009 |
+| 89 | Bolivia | $ 2,792,000,000 | 31 December 2009 |
+| 90 | Estonia | $ 2,654,000,000 | 31 December 2009 |
+| 91 | Ghana | $ 2,508,000,000 | 31 December 2009 |
+| 92 | West Bank | $ 2,375,000,000 | 31 December 2009 |
+| 93 | Zambia | $ 2,346,000,000 | 31 December 2007 |
+| 94 | Macau | $ 2,300,000,000 | 31 December 2008 |
+| 95 | Iraq | $ 2,000,000,000 | 31 July 2009 |
+| 96 | Malta | $ 1,982,000,000 | 31 December 2009 |
+| 97 | Latvia | $ 1,824,000,000 | 31 December 2009 |
+| 98 | Fiji | $ 1,607,000,000 | 31 December 2009 |
+| 99 | Costa Rica | $ 1,452,000,000 | 31 December 2009 |
+| 100 | Malawi | $ 1,383,000,000 | 31 December 2009 |
+| 101 | Bermuda | $ 1,360,000,000 | 31 December 2009 |
+| 102 | Tanzania | $ 1,293,000,000 | 31 December 2008 |
+| 103 | Iceland | $ 1,128,000,000 | 31 December 2009 |
+| 104 | Macedonia | $ 922,200,000 | 31 December 2009 |
+| 105 | Namibia | $ 846,300,000 | 31 December 2009 |
+| 106 | Georgia | $ 733,300,000 | 31 December 2009 |
+| 107 | Uzbekistan | $ 715,300,000 | #REF! |
+| 108 | Saint Kitts and Nevis | $ 648,000,000 | 31 December 2009 |
+| 109 | Moldova | $ 573,900,000 | 2004 |
+| 110 | Mongolia | $ 430,200,000 | 31 December 2009 |
+| 111 | Paraguay | $ 409,100,000 | |
+| 112 | Guyana | $ 287,000,000 | 31 December 2009 |
+| 113 | Uruguay | $ 219,000,000 | 31 December 2009 |
+| 114 | Swaziland | $ 203,100,000 | 31 December 2007 |
+| 115 | Cayman Islands | $ 183,500,000 | 31 December 2007 |
+| 116 | Armenia | $ 140,500,000 | 31 December 2009 |
+| 117 | Uganda | $ 116,300,000 | #REF! |
+| 118 | Kyrgyzstan | $ 71,840,000 | 31 December 2009 |

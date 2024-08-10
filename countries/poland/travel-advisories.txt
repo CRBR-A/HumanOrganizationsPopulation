@@ -1,0 +1,14 @@
+| Precautions | Exercise normal precautions in Poland. |
+| | Consult the link below for updates to travel advisories and statements on safety, security, local laws, and special circumstances in this country. |
+| | <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html> |
+| Passport/Visa Requirements | US citizens should make sure their passport will not expire for at least 6 months after they enter the country even if they do not intend to stay that long. No need for blank pages for entry stamp. A visa is not required as long as you do not stay in the country more than 89 days. |
+| Vaccinations | See WHO recommendations  <http://www.who.int/> |
+| US Embassy/Consulate | [48] (22) 504-2000; US Embassy Warsaw, Aleje Ujazdowskie 29/31, 00-540 Warsaw, Poland; acswarsaw@state.gov; https://pl.usembassy.gov/ |
+
+---
+country: Poland
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Poland/travel-facts>
+license: public domain (U.S.)
+...

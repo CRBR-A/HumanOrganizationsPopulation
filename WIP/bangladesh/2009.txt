@@ -1,0 +1,281 @@
+CIA - The World Factbook -- Bangladesh
+page last updated on November 11, 2009
+
+
+| Geography | Bangladesh |
+| --- | --- |
+| Location: | Southern Asia, bordering the Bay of Bengal, between Burma and India |
+| Geographic coordinates: | 24 00 N, 90 00 E |
+| Map references: | Asia |
+| Area: | total: 143,998 sq km |
+| | land: 130,168 sq km |
+| | water: 13,830 sq km |
+| Area - comparative: | slightly smaller than Iowa |
+| Land boundaries: | total: 4,246 km |
+| | border countries: Burma 193 km, India 4,053 km |
+| Coastline: | 580 km |
+| Maritime claims: | territorial sea: 12 nm |
+| | contiguous zone: 18 nm |
+| | exclusive economic zone: 200 nm |
+| | continental shelf: up to the outer limits of the continental margin |
+| Climate: | tropical; mild winter (October to March); hot, humid summer (March to June); humid, warm rainy monsoon (June to October) |
+| Terrain: | mostly flat alluvial plain; hilly in southeast |
+| Elevation extremes: | lowest point: Indian Ocean 0 m |
+| | highest point: Keokradong 1,230 m |
+| Natural resources: | natural gas, arable land, timber, coal |
+| Land use: | arable land: 55.39% |
+| | permanent crops: 3.08% |
+| | other: 41.53% (2005) |
+| Irrigated land: | 47,250 sq km (2003) |
+| Total renewable water resources: | 1,210.6 cu km (1999) |
+| Freshwater withdrawal (domestic/industrial/agricultural): | total: 79.4 cu km/yr (3%/1%/96%) |
+| | per capita: 560 cu m/yr (2000) |
+| Natural hazards: | droughts; cyclones; much of the country routinely inundated during the summer monsoon season |
+| Environment - current issues: | many people are landless and forced to live on and cultivate flood-prone land; waterborne diseases prevalent in surface water; water pollution, especially of fishing areas, results from the use of commercial pesticides; ground water contaminated by naturally occurring arsenic; intermittent water shortages because of falling water tables in the northern and central parts of the country; soil degradation and erosion; deforestation; severe overpopulation |
+| Environment - international agreements: | party to: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands |
+| | signed, but not ratified: none of the selected agreements |
+| Geography - note: | most of the country is situated on deltas of large rivers flowing from the Himalayas: the Ganges unites with the Jamuna (main channel of the Brahmaputra) and later joins the Meghna to eventually empty into the Bay of Bengal |
+
+
+| People | Bangladesh |
+| --- | --- |
+| Population: | 156,050,883 (July 2009 est.) |
+| Age structure: | 0-14 years: 34.6% (male 27,065,625/female 26,913,961) |
+| | 15-64 years: 61.4% (male 45,222,182/female 50,537,052) |
+| | 65 years and over: 4% (male 3,057,255/female 3,254,808) (2009 est.) |
+| Median age: | total: 23.3 years |
+| | male: 22.9 years |
+| | female: 23.5 years (2009 est.) |
+| Population growth rate: | 1.292% (2009 est.) |
+| Birth rate: | 24.68 births/1,000 population (2009 est.) |
+| Death rate: | 9.23 deaths/1,000 population (July 2009 est.) |
+| Net migration rate: | -2.53 migrant(s)/1,000 population (2009 est.) |
+| Urbanization: | urban population: 27% of total population (2008) |
+| | rate of urbanization: 3.5% annual rate of change (2005-10 est.) |
+| Sex ratio: | at birth: 1.04 male(s)/female |
+| | under 15 years: 1.01 male(s)/female |
+| | 15-64 years: 0.9 male(s)/female |
+| | 65 years and over: 0.94 male(s)/female |
+| | total population: 0.93 male(s)/female (2009 est.) |
+| Infant mortality rate: | total: 59.02 deaths/1,000 live births |
+| | male: 66.12 deaths/1,000 live births |
+| | female: 51.64 deaths/1,000 live births (2009 est.) |
+| Life expectancy at birth: | total population: 60.25 years |
+| | male: 57.57 years |
+| | female: 63.03 years (2009 est.) |
+| Total fertility rate: | 2.74 children born/woman (2009 est.) |
+| HIV/AIDS - adult prevalence rate: | less than 0.1% (2001 est.) |
+| HIV/AIDS - people living with HIV/AIDS: | 12,000 (2007 est.) |
+| HIV/AIDS - deaths: | fewer than 500 (2007 est.) |
+| Major infectious diseases: | degree of risk: high |
+| | food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever |
+| | vectorborne diseases: dengue fever and malaria are high risks in some locations |
+| | water contact disease: leptospirosis |
+| | animal contact disease: rabies |
+| | note: highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2009) |
+| Nationality: | noun: Bangladeshi(s) |
+| | adjective: Bangladeshi |
+| Ethnic groups: | Bengali 98%, other 2% (includes tribal groups, non-Bengali Muslims) (1998) |
+| Religions: | Muslim 83%, Hindu 16%, other 1% (1998) |
+| Languages: | Bangla (official, also known as Bengali), English |
+| Literacy: | definition: age 15 and over can read and write |
+| | total population: 47.9% |
+| | male: 54% |
+| | female: 41.4% (2001 Census) |
+| School life expectancy (primary to tertiary education): | total: 8 years |
+| | male: 8 years |
+| | female: 8 years (2004) |
+| Education expenditures: | 2.7% of GDP (2005) |
+
+
+| Government | Bangladesh |
+| --- | --- |
+| Country name: | conventional long form: People's Republic of Bangladesh |
+| | conventional short form: Bangladesh |
+| | local long form: Gana Prajatantri Banladesh |
+| | local short form: Banladesh |
+| | former: East Bengal, East Pakistan |
+| Government type: | parliamentary democracy |
+| Capital: | name: Dhaka |
+| | geographic coordinates: 23 43 N, 90 24 E |
+| | time difference: UTC+6 (11 hours ahead of Washington, DC during Standard Time) |
+| Administrative divisions: | 6 divisions; Barisal, Chittagong, Dhaka, Khulna, Rajshahi, Sylhet |
+| Independence: | 16 December 1971 (from West Pakistan); note - 26 March 1971 is the date of independence from West Pakistan, 16 December 1971 is known as Victory Day and commemorates the official creation of the state of Bangladesh |
+| National holiday: | Independence Day, 26 March (1971); note - 26 March 1971 is the date of independence from West Pakistan, 16 December 1971 is Victory Day and commemorates the official creation of the state of Bangladesh |
+| Constitution: | 4 November 1972; effective 16 December 1972; suspended following coup of 24 March 1982; restored 10 November 1986; amended many times |
+| Legal system: | based on English common law; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Zillur RAHMAN (since 12 February 2009) |
+| | head of government: Prime Minister Sheikh HASINA Wajed (since 6 January 2009) |
+| | cabinet: Cabinet selected by the prime minister and appointed by the president |
+| | elections: president elected by National Parliament for a five-year term (eligible for a second term); last election held on 11 February 2009 (next scheduled election to be held in 2014) |
+| | election results: Zillur RAHMAN declared president-elect by the Election Commission on 11 February 2009 (sworn in on 12 February); he ran unopposed as president; percent of National Parliament vote - NA |
+| Legislative branch: | unicameral National Parliament or Jatiya Sangsad; 300 seats elected by popular vote from single territorial constituencies; members serve five-year terms |
+| | elections: last held 29 December 2008 (next to be held in 2013) |
+| | election results: percent of vote by party - AL 49%, BNP 33.2%, JP 7%, JIB 4.6%, other 6.2%; seats by party - AL 230, BNP 30, JP 27, JIB 2, other 11 |
+| Judicial branch: | Supreme Court (the chief justices and other judges are appointed by the president) |
+| Political parties and leaders: | Awami League or AL [Sheikh HASINA]; Bangladesh Communist Party or BCP [Manjurul A. KHAN]; Bangladesh Nationalist Party or BNP [Khaleda ZIA]; Islami Oikya Jote or IOJ [Mufti Fazlul Haq AMINI]; Jamaat-e-Islami Bangladesh or JIB [Matiur Rahman NIZAMI]; Jatiya Party or JP (Ershad faction) [Hussain Mohammad ERSHAD]; Jatiya Party (Manzur faction) [Naziur Rahman MANZUR]; Liberal Democratic Party or LDP [Badrudozza CHOWDHURY and Oli AHMED] |
+| Political pressure groups and leaders: | Advocacy to End Gender-based Violence through the MoWCA (Ministry of Women's and Children's Affairs) |
+| | other: environmentalists; Islamist groups; religious leaders; teachers; union leaders |
+| International organization participation: | ADB, ARF, BIMSTEC, C, CP, FAO, G-77, IAEA, IBRD, ICAO, ICC, ICCt (signatory), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO, ITSO, ITU, ITUC, MIGA, MINURCAT, MINURSO, MONUC, NAM, OIC, OPCW, SAARC, SACEP, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMIS, UNMIT, UNOCI, UNOMIG, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador (vacant) |
+| | chancery: 3510 International Drive NW, Washington, DC 20008 |
+| | telephone: [1] (202) 244-0183 |
+| | FAX: [1] (202) 244-7830/2771 |
+| | consulate(s) general: Los Angeles, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador James F. MORIARTY |
+| | embassy: Madani Avenue, Baridhara, Dhaka 1212 |
+| | mailing address: G. P. O. Box 323, Dhaka 1000 |
+| | telephone: [880] (2) 885-5500 |
+| | FAX: [880] (2) 882-3744 |
+| Flag description: | green field with a large red disk shifted slightly to the hoist side of center; the red disk represents the rising sun and the sacrifice to achieve independence; the green field symbolizes the lush vegetation of Bangladesh |
+
+
+| Economy | Bangladesh |
+| --- | --- |
+| Economy - overview: | The economy has grown 5-6% per year since 1996 despite inefficient state-owned enterprises, delays in exploiting natural gas resources, insufficient power supplies, and slow implementation of economic reforms. Bangladesh remains a poor, overpopulated, and inefficiently-governed nation. Although more than half of GDP is generated through the service sector, nearly two-thirds of Bangladeshis are employed in the agriculture sector, with rice as the single-most-important product. Garment exports and remittances from Bangladeshis working overseas, mainly in the Middle East and East Asia, fuel economic growth. In 2008 Bangladesh pursued a monetary policy aimed at maintaining high employment, but created higher inflation in the process. |
+| GDP (purchasing power parity): | $226.4 billion (2008 est.) |
+| | $214 billion (2007 est.) |
+| | $201.5 billion (2006 est.) |
+| | note: data are in 2008 US dollars |
+| GDP (official exchange rate): | $84.2 billion (2008 est.) |
+| GDP - real growth rate: | 5.8% (2008 est.) |
+| | 6.2% (2007 est.) |
+| | 6.4% (2006 est.) |
+| GDP - per capita (PPP): | $1,500 (2008 est.) |
+| | $1,400 (2007 est.) |
+| | $1,300 (2006 est.) |
+| | note: data are in 2008 US dollars |
+| GDP - composition by sector: | agriculture: 19.1% |
+| | industry: 28.6% |
+| | services: 52.3% (2008 est.) |
+| Labor force: | 70.86 million |
+| | note: extensive export of labor to Saudi Arabia, Kuwait, UAE, Oman, Qatar, and Malaysia; workers' remittances estimated at $4.8 billion in 2005-06. (2008 est.) |
+| Labor force - by occupation: | agriculture: 63% |
+| | industry: 11% |
+| | services: 26% (FY95/96) |
+| Unemployment rate: | 2.5% (2008 est.) |
+| | 2.5% (2007 est.) |
+| Population below poverty line: | 45% (2004 est.) |
+| Household income or consumption by percentage share: | lowest 10%: 4.3% |
+| | highest 10%: 26.6% (2005) |
+| Distribution of family income - Gini index: | 33.2 (2005) |
+| | 33.6 (1996) |
+| Investment (gross fixed): | 24.3% of GDP (2008 est.) |
+| Budget: | revenues: $8.825 billion |
+| | expenditures: $12.54 billion (2008 est.) |
+| Public debt: | 39.4% of GDP (2008 est.) |
+| | 43% of GDP (2004 est.) |
+| Inflation rate (consumer prices): | 8.9% (2008 est.) |
+| | 9.1% (2007 est.) |
+| Central bank discount rate: | 5% (31 December 2008) |
+| | 5% (31 December 2007) |
+| Commercial bank prime lending rate: | 16.38% (31 December 2008) |
+| | 16% (31 December 2007) |
+| Stock of money: | $9.294 billion (31 December 2008) |
+| | $8.444 billion (31 December 2007) |
+| Stock of quasi money: | $37.98 billion (31 December 2008) |
+| | $32.35 billion (31 December 2007) |
+| Stock of domestic credit: | $47.03 billion (31 December 2008) |
+| | $40.1 billion (31 December 2007) |
+| Market value of publicly traded shares: | $6.671 billion (31 December 2008) |
+| | $6.793 billion (31 December 2007) |
+| | $3.61 billion (31 December 2006) |
+| Agriculture - products: | rice, jute, tea, wheat, sugarcane, potatoes, tobacco, pulses, oilseeds, spices, fruit; beef, milk, poultry |
+| Industries: | cotton textiles, jute, garments, tea processing, paper newsprint, cement, chemical fertilizer, light engineering, sugar |
+| Industrial production growth rate: | 6.9% (2008 est.) |
+| Electricity - production: | 22.99 billion kWh (2007 est.) |
+| Electricity - consumption: | 21.38 billion kWh (2007 est.) |
+| Electricity - exports: | 0 kWh (2008 est.) |
+| Electricity - imports: | 0 kWh (2008 est.) |
+| Oil - production: | 6,426 bbl/day (2008 est.) |
+| Oil - consumption: | 95,000 bbl/day (2008 est.) |
+| Oil - exports: | 2,612 bbl/day (2007 est.) |
+| Oil - imports: | 87,660 bbl/day (2007 est.) |
+| Oil - proved reserves: | 28 million bbl (1 January 2009 est.) |
+| Natural gas - production: | 17.9 billion cu m (2008 est.) |
+| Natural gas - consumption: | 17.9 billion cu m (2008 est.) |
+| Natural gas - exports: | 0 cu m (2008) |
+| Natural gas - imports: | 0 cu m (2008 est.) |
+| Natural gas - proved reserves: | 141.6 billion cu m (1 January 2009 est.) |
+| Current account balance: | $1.032 billion (2008 est.) |
+| | $856.8 million (2007 est.) |
+| Exports: | $15.44 billion (2008 est.) |
+| | $12.47 billion (2007 est.) |
+| Exports - commodities: | garments, jute and jute goods, leather, frozen fish and seafood |
+| Exports - partners: | US 21%, Germany 13.2%, UK 8.6%, France 6.3%, Netherlands 4.7% (2008) |
+| Imports: | $21.51 billion (2008 est.) |
+| | $16.67 billion (2007 est.) |
+| Imports - commodities: | machinery and equipment, chemicals, iron and steel, textiles, foodstuffs, petroleum products, cement |
+| Imports - partners: | China 14.7%, India 14.7%, Kuwait 7.5%, Singapore 7.1%, Japan 4.1% (2008) |
+| Reserves of foreign exchange and gold: | $5.789 billion (31 December 2008 est.) |
+| | $5.278 billion (31 December 2007 est.) |
+| Debt - external: | $22.83 billion (31 December 2008 est.) |
+| | $21.23 billion (31 December 2007 est.) |
+| Stock of direct foreign investment - at home: | $5.971 billion (31 December 2008 est.) |
+| | $5.261 billion (31 December 2007 est.) |
+| Stock of direct foreign investment - abroad: | $97 million (31 December 2008 est.) |
+| Exchange rates: | taka (BDT) per US dollar - 68.554 (2008 est.), 69.893 (2007), 69.031 (2006), 64.328 (2005), 59.513 (2004) |
+
+
+| Communications | Bangladesh |
+| --- | --- |
+| Telephones - main lines in use: | 1.39 million (2009) |
+| Telephones - mobile cellular: | 45.75 million (2009) |
+| Telephone system: | general assessment: inadequate for a modern country; fixed-line telephone density remains less than 1 per 100 persons; mobile-cellular telephone subscribership has been increasing rapidly and has reached 30 per 100 persons |
+| | domestic: modernizing; introducing digital systems; trunk systems include VHF and UHF microwave radio relay links, and some fiber-optic cable in cities |
+| | international: country code - 880; landing point for the SEA-ME-WE-4 fiber-optic submarine cable system that provides links to Europe, the Middle East, and Asia; satellite earth stations - 6; international radiotelephone communications and landline service to neighboring countries (2008) |
+| Radio broadcast stations: | AM 15, FM 13, shortwave 2 (2006) |
+| Television broadcast stations: | 15 (1999) |
+| Internet country code: | .bd |
+| Internet hosts: | 4,209 (2009) |
+| Internet users: | 556,000 (2008) |
+
+
+| Transportation | Bangladesh |
+| --- | --- |
+| Airports: | 17 (2009) |
+| Airports - with paved runways: | total: 15 |
+| | over 3,047 m: 2 |
+| | 2,438 to 3,047 m: 2 |
+| | 1,524 to 2,437 m: 6 |
+| | 914 to 1,523 m: 1 |
+| | under 914 m: 4 (2009) |
+| Airports - with unpaved runways: | total: 2 |
+| | 1,524 to 2,437 m: 1 |
+| | under 914 m: 1 (2009) |
+| Pipelines: | gas 2,597 km (2008) |
+| Railways: | total: 2,768 km |
+| | broad gauge: 946 km 1.676-m gauge |
+| | narrow gauge: 1,822 km 1.000-m gauge (2008) |
+| Roadways: | total: 239,226 km |
+| | paved: 22,726 km |
+| | unpaved: 216,500 km (2003) |
+| Waterways: | 8,370 km |
+| | note: includes up to 3,060 km main cargo routes; network reduced to 5,200 km in dry season (2007) |
+| Merchant marine: | total: 40 |
+| | by type: bulk carrier 3, cargo 27, container 5, passenger/cargo 1, petroleum tanker 4 |
+| | foreign-owned: 1 (China 1) |
+| | registered in other countries: 10 (Comoros 2, Honduras 1, Malta 2, Panama 2, Singapore 2, Togo 1) (2008) |
+| Ports and terminals: | Chittagong, Mongla Port |
+| Transportation - note: | the International Maritime Bureau reports the territorial waters of Bangladesh as high risk for armed robbery against ships; numerous commercial vessels have been attacked both at anchor and while underway; crews have been robbed and stores or cargoes stolen |
+
+
+| Military | Bangladesh |
+| --- | --- |
+| Military branches: | Bangladesh Defense Force: Bangladesh Army (Sena Bahini), Bangladesh Navy (Noh Bahini, BN), Bangladesh Air Force (Biman Bahini, BAF) (2009) |
+| Military service age and obligation: | 16 years of age for voluntary military service; 17 years of age for officers (both with parental consent); conscription legally possible in emergency, but has never been implemented (2008) |
+| Manpower available for military service: | males age 16-49: 41,199,340 (2008 est.) |
+| Manpower fit for military service: | males age 16-49: 24,946,041 |
+| | females age 16-49: 31,409,069 (2009 est.) |
+| Manpower reaching militarily significant age annually: | male: 1,538,865 |
+| | female: 1,666,670 (2009 est.) |
+| Military expenditures: | 1.5% of GDP (2006) |
+
+
+| Transnational Issues | Bangladesh |
+| --- | --- |
+| Disputes - international: | discussions with India remain stalled to delimit a small section of river boundary, exchange territory for 51 small Bangladeshi exclaves in India and 111 small Indian exclaves in Bangladesh, allocate divided villages, and stop illegal cross-border trade, migration, violence, and transit of terrorists through the porous border; Bangladesh protests India's fencing and walling off high-traffic sections of the porous boundary; a joint Bangladesh-India boundary commission resurveyed and reconstructed 92 missing pillars in 2007; dispute with India over New Moore/South Talpatty/Purbasha Island in the Bay of Bengal deters maritime boundary delimitation; after 21 years, Bangladesh resumes talks with Burma on delimiting a maritime boundary |
+| Refugees and internally displaced persons: | refugees (country of origin): 26,268 (Burma) |
+| | IDPs: 65,000 (land conflicts, religious persecution) (2007) |
+| Illicit drugs: | transit country for illegal drugs produced in neighboring countries |

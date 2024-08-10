@@ -1,0 +1,127 @@
+CIA - The World Factbook --  HIV/AIDS - PEOPLE LIVING WITH HIV/AIDS
+
+HIV/AIDS - people living with HIV/AIDS compares all people (adults and children) alive at yearend with HIV infection, whether or not they have developed symptoms of AIDS.
+
+| Rank | Country | HIV/AIDS - PEOPLE LIVING WITH HIV/AIDS | Date of Information |
+| --- | --- | --- | --- |
+| 1 | South Africa | 7,100,000 | 2016 est. |
+| 2 | Nigeria | 3,200,000 | 2016 est. |
+| 3 | India | 2,100,000 | 2016 est. |
+| 4 | Mozambique | 1,800,000 | 2016 est. |
+| 5 | Kenya | 1,600,000 | 2016 est. |
+| 6 | Tanzania | 1,400,000 | 2016 est. |
+| 7 | Uganda | 1,400,000 | 2016 est. |
+| 8 | Zimbabwe | 1,300,000 | 2016 est. |
+| 9 | Zambia | 1,200,000 | 2016 est. |
+| 10 | Malawi | 1,000,000 | 2016 est. |
+| 11 | Brazil | 830,000 | 2016 est. |
+| 12 | Ethiopia | 710,000 | 2016 est. |
+| 13 | Indonesia | 620,000 | 2016 est. |
+| 14 | Cameroon | 560,000 | 2016 est. |
+| 15 | Cote d'Ivoire | 460,000 | 2016 est. |
+| 16 | Thailand | 450,000 | 2016 est. |
+| 17 | Congo, Democratic Republic of the | 370,000 | 2016 est. |
+| 18 | Botswana | 360,000 | 2016 est. |
+| 19 | Lesotho | 330,000 | 2016 est. |
+| 20 | Ghana | 290,000 | 2016 est. |
+| 21 | Angola | 280,000 | 2016 est. |
+| 22 | Vietnam | 250,000 | 2016 est. |
+| 23 | Ukraine | 240,000 | 2016 est. |
+| 24 | Namibia | 230,000 | 2016 est. |
+| 25 | Burma | 230,000 | 2016 est. |
+| 26 | Swaziland | 220,000 | 2016 est. |
+| 27 | Rwanda | 220,000 | 2016 est. |
+| 28 | Mexico | 220,000 | 2016 est. |
+| 29 | South Sudan | 200,000 | 2016 est. |
+| 30 | France | 180,000 | 2016 est. |
+| 31 | Haiti | 150,000 | 2016 est. |
+| 32 | Spain | 140,000 | 2016 est. |
+| 33 | Central African Republic | 130,000 | 2016 est. |
+| 34 | Italy | 130,000 | 2016 est. |
+| 35 | Pakistan | 130,000 | 2016 est. |
+| 36 | Guinea | 120,000 | 2016 est. |
+| 37 | Colombia | 120,000 | 2016 est. |
+| 38 | Argentina | 120,000 | 2016 est. |
+| 39 | Venezuela | 120,000 | 2016 est. |
+| 40 | Mali | 110,000 | 2016 est. |
+| 41 | Chad | 110,000 | 2016 est. |
+| 42 | Togo | 100,000 | 2016 est. |
+| 43 | Malaysia | 97,000 | 2016 est. |
+| 44 | Burkina Faso | 95,000 | 2016 est. |
+| 45 | Congo, Republic of the | 91,000 | 2016 est. |
+| 46 | Burundi | 84,000 | 2016 est. |
+| 47 | Cambodia | 71,000 | 2016 est. |
+| 48 | Peru | 70,000 | 2016 est. |
+| 49 | Dominican Republic | 67,000 | 2016 est. |
+| 50 | Benin | 67,000 | 2016 est. |
+| 51 | Sierra Leone | 67,000 | 2016 est. |
+| 52 | Iran | 66,000 | 2016 est. |
+| 53 | Chile | 61,000 | 2016 est. |
+| 54 | Philippines | 56,000 | 2016 est. |
+| 55 | Sudan | 56,000 | 2016 est. |
+| 56 | Niger | 48,000 | 2016 est. |
+| 57 | Gabon | 48,000 | 2016 est. |
+| 58 | Papua New Guinea | 46,000 | 2016 est. |
+| 59 | Guatemala | 46,000 | 2016 est. |
+| 60 | Liberia | 43,000 | 2016 est. |
+| 61 | Senegal | 41,000 | 2016 est. |
+| 62 | Guinea-Bissau | 36,000 | 2016 est. |
+| 63 | Equatorial Guinea | 35,000 | 2016 est. |
+| 64 | Ecuador | 33,000 | 2016 est. |
+| 65 | Nepal | 32,000 | 2016 est. |
+| 66 | Madagascar | 31,000 | 2016 est. |
+| 67 | Jamaica | 30,000 | 2016 est. |
+| 68 | Kazakhstan | 26,000 | 2016 est. |
+| 69 | Australia | 25,000 | 2016 est. |
+| 70 | Cuba | 25,000 | 2016 est. |
+| 71 | El Salvador | 24,000 | 2016 est. |
+| 72 | Somalia | 24,000 | 2016 est. |
+| 73 | Netherlands | 23,000 | 2016 est. |
+| 74 | Morocco | 22,000 | 2016 est. |
+| 75 | Honduras | 21,000 | 2016 est. |
+| 76 | Panama | 21,000 | 2016 est. |
+| 77 | Gambia, The | 20,000 | 2016 est. |
+| 78 | Bolivia | 19,000 | 2016 est. |
+| 79 | Paraguay | 19,000 | 2016 est. |
+| 80 | Belarus | 19,000 | 2016 est. |
+| 81 | Romania | 16,000 | 2016 est. |
+| 82 | Eritrea | 15,000 | 2016 est. |
+| 83 | Moldova | 15,000 | 2016 est. |
+| 84 | Tajikistan | 14,000 | 2016 est. |
+| 85 | Algeria | 13,000 | 2016 est. |
+| 86 | Costa Rica | 13,000 | 2016 est. |
+| 87 | Bangladesh | 12,000 | 2016 est. |
+| 88 | Uruguay | 12,000 | 2016 est. |
+| 89 | Georgia | 12,000 | 2016 est. |
+| 90 | Egypt | 11,000 | 2016 est. |
+| 91 | Trinidad and Tobago | 11,000 | 2016 est. |
+| 92 | Sweden | 11,000 | 2016 est. |
+| 93 | Mauritania | 11,000 | 2016 est. |
+| 94 | Laos | 11,000 | 2016 est. |
+| 95 | Yemen | 9,900 | 2016 est. |
+| 96 | Azerbaijan | 9,200 | 2016 est. |
+| 97 | Nicaragua | 8,900 | 2016 est. |
+| 98 | Djibouti | 8,600 | 2016 est. |
+| 99 | Guyana | 8,500 | 2016 est. |
+| 100 | Kyrgyzstan | 8,500 | 2016 est. |
+| 101 | Bahamas, The | 8,200 | 2016 est. |
+| 102 | Saudi Arabia | 8,200 | 2016 est. |
+| 103 | Afghanistan | 7,500 | 2016 est. |
+| 104 | Latvia | 6,600 | 2016 est. |
+| 105 | Ireland | 6,200 | 2016 est. |
+| 106 | Suriname | 4,900 | 2016 est. |
+| 107 | Belize | 4,300 | 2016 est. |
+| 108 | Sri Lanka | 4,000 | 2016 est. |
+| 109 | Bulgaria | 3,500 | 2016 est. |
+| 110 | Czechia | 3,400 | 2016 est. |
+| 111 | Armenia | 3,300 | 2016 est. |
+| 112 | Tunisia | 2,900 | 2016 est. |
+| 113 | Lithuania | 2,900 | 2016 est. |
+| 114 | Cabo Verde | 2,800 | 2016 est. |
+| 115 | Serbia | 2,700 | 2016 est. |
+| 116 | Barbados | 2,600 | 2016 est. |
+| 117 | Lebanon | 2,200 | 2016 est. |
+| 118 | Albania | 1,700 | 2016 est. |
+| 119 | Croatia | 1,500 | 2016 est. |
+
+

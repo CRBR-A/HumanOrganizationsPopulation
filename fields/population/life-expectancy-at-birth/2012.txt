@@ -1,0 +1,228 @@
+CIA - The World Factbook --  Life expectancy at birth   
+
+This entry contains the average number of years to be lived by a group of people born in the same year, if mortality at each age remains constant in the future. The entry includes total population as well as the male and female components. Life expectancy at birth is also a measure of overall quality of life in a country and summarizes the mortality at all ages. It can also be thought of as indicating the potential return on investment in human capital and is necessary for the calculation of various actuarial measures.
+
+| Rank | country | (years) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Monaco | 89.68 | 2012 est. |
+| 2 | Macau | 84.43 | 2012 est. |
+| 3 | Japan | 83.91 | 2012 est. |
+| 4 | Singapore | 83.75 | 2012 est. |
+| 5 | San Marino | 83.07 | 2012 est. |
+| 6 | Andorra | 82.50 | 2012 est. |
+| 7 | Guernsey | 82.24 | 2012 est. |
+| 8 | Hong Kong | 82.12 | 2012 est. |
+| 9 | Australia | 81.90 | 2012 est. |
+| 10 | Italy | 81.86 | 2012 est. |
+| 11 | Liechtenstein | 81.50 | 2012 est. |
+| 12 | Canada | 81.48 | 2012 est. |
+| 13 | Jersey | 81.47 | 2012 est. |
+| 14 | France | 81.46 | 2012 est. |
+| 15 | Spain | 81.27 | 2012 est. |
+| 16 | Sweden | 81.18 | 2012 est. |
+| 17 | Switzerland | 81.17 | 2012 est. |
+| 18 | Israel | 81.07 | 2012 est. |
+| 19 | Iceland | 81.00 | 2012 est. |
+| 20 | Anguilla | 80.98 | 2012 est. |
+| 21 | Netherlands | 80.91 | 2012 est. |
+| 22 | Bermuda | 80.82 | 2012 est. |
+| 23 | Cayman Islands | 80.80 | 2012 est. |
+| 24 | Isle of Man | 80.76 | 2012 est. |
+| 25 | New Zealand | 80.71 | 2012 est. |
+| 26 | Ireland | 80.32 | 2012 est. |
+| 27 | Norway | 80.32 | 2012 est. |
+| 28 | Germany | 80.19 | 2012 est. |
+| 29 | Jordan | 80.18 | 2012 est. |
+| 30 | United Kingdom | 80.17 | 2012 est. |
+| 31 | Greece | 80.05 | 2012 est. |
+| 32 | Saint Pierre and Miquelon | 80.00 | 2012 est. |
+| 33 | Austria | 79.91 | 2012 est. |
+| 34 | Faroe Islands | 79.85 | 2012 est. |
+| 35 | Malta | 79.85 | 2012 est. |
+| 36 | European Union | 79.76 | 2012 est. |
+| 37 | Luxembourg | 79.75 | 2012 est. |
+| 38 | Belgium | 79.65 | 2012 est. |
+| 39 | Virgin Islands | 79.47 | 2012 est. |
+| 40 | Finland | 79.41 | 2012 est. |
+| 41 | Korea, South | 79.30 | 2012 est. |
+| 42 | Turks and Caicos Islands | 79.26 | 2012 est. |
+| 43 | Wallis and Futuna | 79.12 | 2012 est. |
+| 44 | Puerto Rico | 79.07 | 2012 est. |
+| 45 | Bosnia and Herzegovina | 78.96 | 2012 est. |
+| 46 | Saint Helena, Ascension, and Tristan da Cunha | 78.91 | 2012 est. |
+| 47 | Gibraltar | 78.83 | 2012 est. |
+| 48 | Denmark | 78.78 | 2012 est. |
+| 49 | Portugal | 78.70 | 2012 est. |
+| 50 | Guam | 78.50 | 2012 est. |
+| 51 | United States | 78.49 | 2012 est. |
+| 52 | Taiwan | 78.48 | 2012 est. |
+| 53 | Bahrain | 78.29 | 2012 est. |
+| 54 | Chile | 78.10 | 2012 est. |
+| 55 | Qatar | 78.09 | 2012 est. |
+| 56 | Cyprus | 78.00 | 2012 est. |
+| 57 | Panama | 77.96 | 2012 est. |
+| 58 | British Virgin Islands | 77.95 | 2012 est. |
+| 59 | Costa Rica | 77.89 | 2012 est. |
+| 60 | Cuba | 77.87 | 2012 est. |
+| 61 | Libya | 77.83 | 2012 est. |
+| 62 | Albania | 77.59 | 2012 est. |
+| 63 | Slovenia | 77.48 | 2012 est. |
+| 64 | Dominican Republic | 77.44 | 2012 est. |
+| 65 | Czech Republic | 77.38 | 2012 est. |
+| 66 | Georgia | 77.32 | 2012 est. |
+| 67 | Kuwait | 77.28 | 2012 est. |
+| 68 | Northern Mariana Islands | 77.27 | 2012 est. |
+| 69 | Argentina | 77.14 | 2012 est. |
+| 70 | Saint Lucia | 77.04 | 2012 est. |
+| 71 | New Caledonia | 76.94 | 2012 est. |
+| 72 | United Arab Emirates | 76.71 | 2012 est. |
+| 73 | Mexico | 76.66 | 2012 est. |
+| 74 | Uruguay | 76.41 | 2012 est. |
+| 75 | Paraguay | 76.40 | 2012 est. |
+| 76 | French Polynesia | 76.39 | 2012 est. |
+| 77 | Brunei | 76.37 | 2012 est. |
+| 78 | Poland | 76.25 | 2012 est. |
+| 79 | Dominica | 76.18 | 2012 est. |
+| 80 | Morocco | 76.11 | 2012 est. |
+| 81 | Slovakia | 76.03 | 2012 est. |
+| 82 | Croatia | 75.99 | 2012 est. |
+| 83 | Sri Lanka | 75.94 | 2012 est. |
+| 84 | Ecuador | 75.94 | 2012 est. |
+| 85 | Aruba | 75.93 | 2012 est. |
+| 86 | Antigua and Barbuda | 75.69 | 2012 est. |
+| 87 | Lithuania | 75.55 | 2012 est. |
+| 88 | Tonga | 75.38 | 2012 est. |
+| 89 | Macedonia | 75.36 | 2012 est. |
+| 90 | West Bank | 75.24 | 2012 est. |
+| 91 | Tunisia | 75.24 | 2012 est. |
+| 92 | Lebanon | 75.23 | 2012 est. |
+| 93 | Hungary | 75.02 | 2012 est. |
+| 94 | Cook Islands | 74.92 | 2012 est. |
+| 95 | Syria | 74.92 | 2012 est. |
+| 96 | China | 74.84 | 2012 est. |
+| 97 | Saint Kitts and Nevis | 74.84 | 2012 est. |
+| 98 | Colombia | 74.79 | 2012 est. |
+| 99 | Algeria | 74.73 | 2012 est. |
+| 100 | Mauritius | 74.71 | 2012 est. |
+| 101 | Maldives | 74.69 | 2012 est. |
+| 102 | Serbia | 74.56 | 2012 est. |
+| 103 | Barbados | 74.52 | 2012 est. |
+| 104 | Oman | 74.47 | 2012 est. |
+| 105 | American Samoa | 74.44 | 2012 est. |
+| 106 | Solomon Islands | 74.42 | 2012 est. |
+| 107 | Saint Vincent and the Grenadines | 74.39 | 2012 est. |
+| 108 | Saudi Arabia | 74.35 | 2012 est. |
+| 109 | Romania | 74.22 | 2012 est. |
+| 110 | Gaza Strip | 74.16 | 2012 est. |
+| 111 | Venezuela | 74.08 | 2012 est. |
+| 112 | Malaysia | 74.04 | 2012 est. |
+| 113 | Bulgaria | 73.84 | 2012 est. |
+| 114 | Thailand | 73.83 | 2012 est. |
+| 115 | Seychelles | 73.77 | 2012 est. |
+| 116 | El Salvador | 73.69 | 2012 est. |
+| 117 | Estonia | 73.58 | 2012 est. |
+| 118 | Armenia | 73.49 | 2012 est. |
+| 119 | Jamaica | 73.43 | 2012 est. |
+| 120 | Montserrat | 73.41 | 2012 est. |
+| 121 | Grenada | 73.30 | 2012 est. |
+| 122 | Egypt | 72.93 | 2012 est. |
+| 123 | Latvia | 72.93 | 2012 est. |
+| 124 | Brazil | 72.79 | 2012 est. |
+| 125 | Turkey | 72.77 | 2012 est. |
+| 126 | Uzbekistan | 72.77 | 2012 est. |
+| 127 | Peru | 72.73 | 2012 est. |
+| 128 | Samoa | 72.66 | 2012 est. |
+| 129 | Vietnam | 72.41 | 2012 est. |
+| 130 | Nicaragua | 72.18 | 2012 est. |
+| 131 | Palau | 72.06 | 2012 est. |
+| 132 | Marshall Islands | 72.03 | 2012 est. |
+| 133 | Philippines | 71.94 | 2012 est. |
+| 134 | Micronesia, Federated States of | 71.80 | 2012 est. |
+| 135 | Trinidad and Tobago | 71.67 | 2012 est. |
+| 136 | Indonesia | 71.62 | 2012 est. |
+| 137 | Fiji | 71.59 | 2012 est. |
+| 138 | Belarus | 71.48 | 2012 est. |
+| 139 | Bahamas, The | 71.44 | 2012 est. |
+| 140 | Azerbaijan | 71.32 | 2012 est. |
+| 141 | Greenland | 71.25 | 2012 est. |
+| 142 | Guatemala | 71.17 | 2012 est. |
+| 143 | Suriname | 71.12 | 2012 est. |
+| 144 | Cape Verde | 71.00 | 2012 est. |
+| 145 | Iraq | 70.85 | 2012 est. |
+| 146 | Honduras | 70.71 | 2012 est. |
+| 147 | Iran | 70.35 | 2012 est. |
+| 148 | Bangladesh | 70.06 | 2012 est. |
+| 149 | Kazakhstan | 69.63 | 2012 est. |
+| 150 | Moldova | 69.51 | 2012 est. |
+| 151 | Kyrgyzstan | 69.45 | 2012 est. |
+| 152 | Korea, North | 69.20 | 2012 est. |
+| 153 | Turkmenistan | 68.84 | 2012 est. |
+| 154 | Ukraine | 68.74 | 2012 est. |
+| 155 | Mongolia | 68.63 | 2012 est. |
+| 156 | Belize | 68.28 | 2012 est. |
+| 157 | Timor-Leste | 68.27 | 2012 est. |
+| 158 | Bolivia | 67.90 | 2012 est. |
+| 159 | Bhutan | 67.88 | 2012 est. |
+| 160 | Guyana | 67.39 | 2012 est. |
+| 161 | India | 67.14 | 2012 est. |
+| 162 | Nepal | 66.51 | 2012 est. |
+| 163 | Papua New Guinea | 66.46 | 2012 est. |
+| 164 | Russia | 66.46 | 2012 est. |
+| 165 | Tajikistan | 66.38 | 2012 est. |
+| 166 | Pakistan | 66.35 | 2012 est. |
+| 167 | Nauru | 65.70 | 2012 est. |
+| 168 | Burma | 65.24 | 2012 est. |
+| 169 | Tuvalu | 65.11 | 2012 est. |
+| 170 | Vanuatu | 65.06 | 2012 est. |
+| 171 | Kiribati | 64.76 | 2012 est. |
+| 172 | Yemen | 64.11 | 2012 est. |
+| 173 | Madagascar | 64.00 | 2012 est. |
+| 174 | Gambia, The | 63.82 | 2012 est. |
+| 175 | Sao Tome and Principe | 63.49 | 2012 est. |
+| 176 | Togo | 63.17 | 2012 est. |
+| 177 | Kenya | 63.07 | 2012 est. |
+| 178 | Cambodia | 63.04 | 2012 est. |
+| 179 | Eritrea | 62.86 | 2012 est. |
+| 180 | Laos | 62.77 | 2012 est. |
+| 181 | Equatorial Guinea | 62.75 | 2012 est. |
+| 182 | Comoros | 62.74 | 2012 est. |
+| 183 | Sudan | 62.57 | 2012 est. |
+| 184 | Haiti | 62.51 | 2012 est. |
+| 185 | Djibouti | 61.57 | 2012 est. |
+| 186 | Mauritania | 61.53 | 2012 est. |
+| 187 | Western Sahara | 61.52 | 2012 est. |
+| 188 | Ghana | 61.45 | 2012 est. |
+| 189 | Benin | 60.26 | 2012 est. |
+| 190 | Senegal | 60.18 | 2012 est. |
+| 191 | Burundi | 59.24 | 2012 est. |
+| 192 | Guinea | 58.61 | 2012 est. |
+| 193 | Rwanda | 58.44 | 2012 est. |
+| 194 | Liberia | 57.41 | 2012 est. |
+| 195 | Cote d'Ivoire | 57.25 | 2012 est. |
+| 196 | Ethiopia | 56.56 | 2012 est. |
+| 197 | Sierra Leone | 56.55 | 2012 est. |
+| 198 | Botswana | 55.74 | 2012 est. |
+| 199 | Congo, Democratic Republic of the | 55.74 | 2012 est. |
+| 200 | Congo, Republic of the | 55.27 | 2012 est. |
+| 201 | Cameroon | 54.71 | 2012 est. |
+| 202 | Angola | 54.59 | 2012 est. |
+| 203 | Burkina Faso | 54.07 | 2012 est. |
+| 204 | Niger | 53.80 | 2012 est. |
+| 205 | Uganda | 53.45 | 2012 est. |
+| 206 | Tanzania | 53.14 | 2012 est. |
+| 207 | Mali | 53.06 | 2012 est. |
+| 208 | Zambia | 52.57 | 2012 est. |
+| 209 | Malawi | 52.31 | 2012 est. |
+| 210 | Gabon | 52.29 | 2012 est. |
+| 211 | Namibia | 52.17 | 2012 est. |
+| 212 | Nigeria | 52.05 | 2012 est. |
+| 213 | Mozambique | 52.02 | 2012 est. |
+| 214 | Lesotho | 51.86 | 2012 est. |
+| 215 | Zimbabwe | 51.82 | 2012 est. |
+| 216 | Somalia | 50.80 | 2012 est. |
+| 217 | Central African Republic | 50.48 | 2012 est. |
+| 218 | Afghanistan | 49.72 | 2012 est. |
+| 219 | Swaziland | 49.42 | 2012 est. |
+| 220 | South Africa | 49.41 | 2012 est. |
+| 221 | Guinea-Bissau | 49.11 | 2012 est. |
+| 222 | Chad | 48.69 | 2012 est. |

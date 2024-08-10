@@ -1,0 +1,198 @@
+CIA - The World Factbook --  Health expenditures   
+
+This entry provides the total expenditure on health as a percentage of GDP. Health expenditures are broadly defined as activities performed either by institutions or individuals through the application of medical, paramedical, and/or nursing knowledge and technology, the primary purpose of which is to promote, restore, or maintain health.
+
+| Rank | country | (% of GDP) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Liberia | 19.50 | 2011 |
+| 2 | Sierra Leone | 18.80 | 2011 |
+| 3 | United States | 17.90 | 2011 |
+| 4 | Tuvalu | 17.30 | 2011 |
+| 5 | Marshall Islands | 16.50 | 2011 |
+| 6 | Niue | 14.60 | 2011 |
+| 7 | Micronesia, Federated States of | 13.40 | 2011 |
+| 8 | Lesotho | 12.80 | 2011 |
+| 9 | Netherlands | 12.00 | 2011 |
+| 10 | France | 11.60 | 2011 |
+| 11 | Moldova | 11.40 | 2011 |
+| 12 | Denmark | 11.20 | 2011 |
+| 13 | Canada | 11.20 | 2011 |
+| 14 | Germany | 11.10 | 2011 |
+| 15 | Switzerland | 10.90 | 2011 |
+| 16 | Costa Rica | 10.90 | 2011 |
+| 17 | Rwanda | 10.80 | 2011 |
+| 18 | Palau | 10.60 | 2011 |
+| 19 | Austria | 10.60 | 2011 |
+| 20 | Belgium | 10.60 | 2011 |
+| 21 | Portugal | 10.40 | 2011 |
+| 22 | Serbia | 10.40 | 2011 |
+| 23 | Bosnia and Herzegovina | 10.20 | 2011 |
+| 24 | New Zealand | 10.10 | 2011 |
+| 25 | Kiribati | 10.10 | 2011 |
+| 26 | Nicaragua | 10.10 | 2009 |
+| 27 | Cuba | 10.00 | 2011 |
+| 28 | Nauru | 9.80 | 2011 |
+| 29 | Paraguay | 9.70 | 2011 |
+| 30 | Afghanistan | 9.60 | 2011 |
+| 31 | Spain | 9.60 | 2010 |
+| 32 | Uganda | 9.50 | 2011 |
+| 33 | Italy | 9.50 | 2011 |
+| 34 | Georgia | 9.40 | 2011 |
+| 35 | Ireland | 9.40 | 2011 |
+| 36 | Sweden | 9.40 | 2011 |
+| 37 | United Kingdom | 9.30 | 2011 |
+| 38 | Japan | 9.30 | 2011 |
+| 39 | Montenegro | 9.30 | 2011 |
+| 40 | Honduras | 9.10 | 2009 |
+| 41 | Iceland | 9.10 | 2011 |
+| 42 | Norway | 9.10 | 2011 |
+| 43 | Slovenia | 9.00 | 2010 |
+| 44 | Slovakia | 9.00 | 2010 |
+| 45 | Greece | 9.00 | 2011 |
+| 46 | Australia | 9.00 | 2011 |
+| 47 | Brazil | 8.90 | 2011 |
+| 48 | Finland | 8.90 | 2011 |
+| 49 | Solomon Islands | 8.80 | 2011 |
+| 50 | Burundi | 8.70 | 2011 |
+| 51 | Malta | 8.50 | 2010 |
+| 52 | Congo, Democratic Republic of the | 8.50 | 2011 |
+| 53 | Maldives | 8.50 | 2011 |
+| 54 | South Africa | 8.50 | 2011 |
+| 55 | Jordan | 8.40 | 2011 |
+| 56 | Malawi | 8.40 | 2011 |
+| 57 | Sudan | 8.40 | 2011 |
+| 58 | Iraq | 8.30 | 2011 |
+| 59 | Panama | 8.20 | 2011 |
+| 60 | Argentina | 8.10 | 2011 |
+| 61 | Uruguay | 8.00 | 2011 |
+| 62 | Togo | 8.00 | 2011 |
+| 63 | Swaziland | 8.00 | 2011 |
+| 64 | Djibouti | 7.90 | 2011 |
+| 65 | Haiti | 7.90 | 2011 |
+| 66 | Croatia | 7.80 | 2010 |
+| 67 | Bahamas, The | 7.70 | 2011 |
+| 68 | Barbados | 7.70 | 2011 |
+| 69 | Sao Tome and Principe | 7.70 | 2011 |
+| 70 | Luxembourg | 7.70 | 2011 |
+| 71 | Israel | 7.70 | 2011 |
+| 72 | Hungary | 7.70 | 2011 |
+| 73 | Bulgaria | 7.60 | 2010 |
+| 74 | Chile | 7.50 | 2011 |
+| 75 | Czech Republic | 7.40 | 2011 |
+| 76 | Cyprus | 7.40 | 2011 |
+| 77 | Ukraine | 7.30 | 2011 |
+| 78 | Tanzania | 7.30 | 2011 |
+| 79 | Ecuador | 7.30 | 2011 |
+| 80 | San Marino | 7.20 | 2010 |
+| 81 | Saint Lucia | 7.20 | 2011 |
+| 82 | Andorra | 7.20 | 2011 |
+| 83 | Korea, South | 7.20 | 2011 |
+| 84 | Samoa | 7.00 | 2011 |
+| 85 | Lithuania | 7.00 | 2010 |
+| 86 | Vietnam | 6.80 | 2011 |
+| 87 | El Salvador | 6.80 | 2011 |
+| 88 | Mali | 6.80 | 2011 |
+| 89 | Cote d'Ivoire | 6.80 | 2011 |
+| 90 | Turkey | 6.70 | 2011 |
+| 91 | Poland | 6.70 | 2011 |
+| 92 | Guatemala | 6.70 | 2011 |
+| 93 | Latvia | 6.70 | 2010 |
+| 94 | Macedonia | 6.60 | 2011 |
+| 95 | Mozambique | 6.60 | 2011 |
+| 96 | Burkina Faso | 6.50 | 2011 |
+| 97 | Mexico | 6.40 | 2009 |
+| 98 | Albania | 6.30 | 2011 |
+| 99 | Guinea-Bissau | 6.30 | 2011 |
+| 100 | Lebanon | 6.30 | 2011 |
+| 101 | Grenada | 6.20 | 2011 |
+| 102 | Kyrgyzstan | 6.20 | 2010 |
+| 103 | Russia | 6.20 | 2011 |
+| 104 | Tunisia | 6.20 | 2011 |
+| 105 | Zambia | 6.10 | 2011 |
+| 106 | Colombia | 6.10 | 2011 |
+| 107 | Senegal | 6.00 | 2011 |
+| 108 | Estonia | 6.00 | 2011 |
+| 109 | Morocco | 6.00 | 2011 |
+| 110 | Iran | 6.00 | 2011 |
+| 111 | Guinea | 6.00 | 2011 |
+| 112 | Antigua and Barbuda | 5.90 | 2011 |
+| 113 | Dominica | 5.90 | 2011 |
+| 114 | Guyana | 5.90 | 2011 |
+| 115 | Mauritius | 5.90 | 2011 |
+| 116 | Romania | 5.90 | 2010 |
+| 117 | Tajikistan | 5.80 | 2011 |
+| 118 | Cambodia | 5.70 | 2011 |
+| 119 | Trinidad and Tobago | 5.70 | 2011 |
+| 120 | Belize | 5.70 | 2011 |
+| 121 | Cook Islands | 5.50 | 2011 |
+| 122 | Yemen | 5.50 | 2011 |
+| 123 | Uzbekistan | 5.40 | 2011 |
+| 124 | Dominican Republic | 5.40 | 2011 |
+| 125 | Mauritania | 5.40 | 2011 |
+| 126 | Nepal | 5.40 | 2011 |
+| 127 | Nigeria | 5.30 | 2011 |
+| 128 | Niger | 5.30 | 2011 |
+| 129 | Mongolia | 5.30 | 2011 |
+| 130 | Comoros | 5.30 | 2011 |
+| 131 | Belarus | 5.30 | 2011 |
+| 132 | Namibia | 5.30 | 2011 |
+| 133 | Tonga | 5.30 | 2011 |
+| 134 | Suriname | 5.30 | 2011 |
+| 135 | China | 5.20 | 2011 |
+| 136 | Azerbaijan | 5.20 | 2011 |
+| 137 | Cameroon | 5.20 | 2011 |
+| 138 | Venezuela | 5.20 | 2011 |
+| 139 | Jamaica | 5.20 | 2010 |
+| 140 | Timor-Leste | 5.10 | 2011 |
+| 141 | Botswana | 5.10 | 2011 |
+| 142 | Saint Vincent and the Grenadines | 4.90 | 2011 |
+| 143 | Egypt | 4.90 | 2011 |
+| 144 | Bolivia | 4.90 | 2011 |
+| 145 | Peru | 4.80 | 2011 |
+| 146 | Cabo Verde | 4.80 | 2011 |
+| 147 | Ghana | 4.80 | 2011 |
+| 148 | Ethiopia | 4.70 | 2011 |
+| 149 | Benin | 4.60 | 2011 |
+| 150 | Singapore | 4.60 | 2011 |
+| 151 | Kenya | 4.50 | 2011 |
+| 152 | Saint Kitts and Nevis | 4.40 | 2011 |
+| 153 | Libya | 4.40 | 2011 |
+| 154 | Gambia, The | 4.40 | 2011 |
+| 155 | Papua New Guinea | 4.30 | 2011 |
+| 156 | Armenia | 4.30 | 2011 |
+| 157 | Monaco | 4.30 | 2011 |
+| 158 | Chad | 4.30 | 2011 |
+| 159 | Philippines | 4.10 | 2011 |
+| 160 | Vanuatu | 4.10 | 2011 |
+| 161 | Madagascar | 4.10 | 2011 |
+| 162 | Bhutan | 4.10 | 2011 |
+| 163 | Thailand | 4.10 | 2011 |
+| 164 | Equatorial Guinea | 4.00 | 2011 |
+| 165 | Kazakhstan | 3.90 | 2011 |
+| 166 | Algeria | 3.90 | 2011 |
+| 167 | India | 3.90 | 2011 |
+| 168 | Bahrain | 3.80 | 2011 |
+| 169 | Fiji | 3.80 | 2011 |
+| 170 | Seychelles | 3.80 | 2011 |
+| 171 | Central African Republic | 3.80 | 2011 |
+| 172 | Syria | 3.70 | 2011 |
+| 173 | Saudi Arabia | 3.70 | 2011 |
+| 174 | Bangladesh | 3.70 | 2011 |
+| 175 | Malaysia | 3.60 | 2011 |
+| 176 | Angola | 3.50 | 2011 |
+| 177 | Sri Lanka | 3.40 | 2011 |
+| 178 | United Arab Emirates | 3.30 | 2011 |
+| 179 | Gabon | 3.20 | 2011 |
+| 180 | Laos | 2.80 | 2011 |
+| 181 | Indonesia | 2.70 | 2011 |
+| 182 | Kuwait | 2.70 | 2011 |
+| 183 | Turkmenistan | 2.70 | 2011 |
+| 184 | Eritrea | 2.60 | 2011 |
+| 185 | Pakistan | 2.50 | 2011 |
+| 186 | Congo, Republic of the | 2.50 | 2011 |
+| 187 | Brunei | 2.50 | 2011 |
+| 188 | Oman | 2.30 | 2011 |
+| 189 | Burma | 2.00 | 2011 |
+| 190 | Qatar | 1.90 | 2011 |
+
+

@@ -1,0 +1,29 @@
+Telephone Code: 975
+Local Emergency Phone - Ambulance: 110
+Local Emergency Phone - Fire: 112
+Local Emergency Phone - Police: 113
+Climate: Varies; tropical in southern plains; cool winters and hot summers in central valleys; severe winters and cool summers in Himalayas
+Currency (Code): Ngultrum (BTN)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, D, G
+Major Languages: Sharchhopka, Dzongkha, Lhotshamkha
+Major Religions: Lamaistic Buddhist 75.3%, Indian-and Nepali-influenced Hinduism 22.1%, other 2.6%
+Time Difference: UTC+6 (11 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Left
+Tourist Destinations: Rinpung Dzong; Chele La Pass; Buddha Dordenma Statue; Dochu La Pass; Paro Taktsang (Tiger's Nest); Phobjikha Valley
+Major Sports: Archery, digor (resembles shot put and horseshoe throwing)
+Cultural Practices: The Bhutanese follow a structure of etiquette called "driglam namzha." This code of conduct governs how to send and receive gifts, speak to those in authority, serve and eat food at public occasions, and dress.
+Tipping Guidelines: A 10% tip is common at restaurants and bars unless a 10% service charge is already added. If hiring a taxi for the day, a tip of 300-500 ngultrums is common. It is also common to tip porters $1-2 (USD) per bag and to tip tour staff $50-80 (USD) at the end of a tour.
+Souvenirs: Carved wooden masks, Thangkas art, woven woolen cloth and native garments, prayer flags, handmade paper
+Traditional Cuisine: Ema datshi --- hot chili peppers and cheese curd made from cow or yak's milk; often served with rice
+
+---
+country: 110021, India |
+date: June 23, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/110021, India |/travel-facts>
+license: public domain (U.S.)
+...

@@ -1,0 +1,29 @@
+Telephone Code: 98
+Local Emergency Phone - Ambulance: 115
+Local Emergency Phone - Fire: 123
+Local Emergency Phone - Police: 110
+Climate: Mostly arid or semiarid, subtropical along Caspian coast
+Currency (Code): Iranian rials (IRR)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, F
+Major Languages: Persian Farsi, Azeri and other Turkic dialects, Kurdish, Gilaki and Mazandarani, Luri, Balochi, Arabic
+Major Religions: Muslim 99.4% (Shia 90-95%, Sunni 5-10%), other (includes Zoroastrian, Jewish, and Christian) 0.3%
+Time Difference: UTC+3.5 (8.5 hours ahead of Washington, DC, during Standard Time); daylight saving time: +1hr, begins fourth Wednesday in March, ends fourth Friday in September
+Potable Water: Yes, but some opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Persepolis; Chogha Zanbil; Anzali Lagoon; Chalus Road; Naqsh-e Jahan Square; Shushtar Historical Hydraulic System; Naqsh-e Rostam
+Major Sports: Varzesh-e-Bastani (martial art), wrestling, polo
+Cultural Practices: In Iran, it is customary to decline food or other offerings even when you want them. The provider will most often insist, whereupon one should humbly accept.
+Tipping Guidelines: Tipping is not common. Offer the bellhop a little something for carrying bags to your room.
+Souvenirs: Hand-carved inlaid wood items, woven carpets and rugs, silks, silver and gold jewelry, ceramics, hand-lettered calligraphy, embroidered slippers
+Traditional Cuisine: Chelo Kebab --- skewered ground meat (lamb or beef) kebabs served with saffron rice and grilled tomatoes
+
+---
+country: Iran
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Iran/travel-facts>
+license: public domain (U.S.)
+...

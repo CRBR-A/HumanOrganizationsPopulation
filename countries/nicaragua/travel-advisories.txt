@@ -1,0 +1,14 @@
+| Precautions | Reconsider Travel to Nicaragua due to limited healthcare availability and arbitrary enforcement of laws. Exercise increased caution in Nicaragua due to crime and wrongful detentions. |
+| | Consult the link below for updates to travel advisories and statements on safety, security, local laws, and special circumstances in this country. |
+| | <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html> |
+| Passport/Visa Requirements | US citizens should make sure their passport is valid at the date of their entering the country and during the length of their entire visit. They should also make sure they have at least 1 blank page in their passport for any entry stamp that will be required. A visa is not required for stays of less than 30 days. You must purchase a tourist card for $10 USD at the airport (exact change recommended), valid for up to a total of 90 days. |
+| Vaccinations | Travelers must show proof of yellow fever vaccination administered at least 10 days before travel in order to be permitted entry to Nicaragua. See WHO recommendations.  <http://www.who.int/> |
+| US Embassy/Consulate | +(505) 2252-7100; US Embassy Managua, Km 5 ½ Carretera Sur, Managua, Nicaragua; ACS.Managua@state.gov; https://ni.usembassy.gov/ |
+
+---
+country: Nicaragua
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Nicaragua/travel-facts>
+license: public domain (U.S.)
+...

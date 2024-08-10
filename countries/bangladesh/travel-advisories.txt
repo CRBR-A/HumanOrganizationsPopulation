@@ -1,0 +1,14 @@
+| Precautions | Exercise increased caution due to crime, terrorism, and kidnapping. |
+| | Consult the link below for updates to travel advisories and statements on safety, security, local laws, and special circumstances in this country. |
+| | <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html> |
+| Passport/Visa Requirements | US citizens should make sure their passport will not expire for at least 6 months after they enter the country even if they do not intend to stay that long. They should also make sure they have at least 1 blank page in their passport for any entry stamp and or visa that will be required. A visa is required. US citizens will need to get in touch with the country's embassy or nearest consulate to obtain a visa prior to visiting the country. |
+| Vaccinations | Hepatitis A and typhoid vaccinations are required; hepatitis B, Japanese encephalitis, and rabies vaccinations recommended. Proof of yellow fever vaccination is required if you are traveling from a country with a risk of yellow fever and are older than one year of age. See WHO recommendations.  <http://www.who.int/> |
+| US Embassy/Consulate | [880] (2) 5566-2000; US Embassy in Dhaka, Madani Avenue, Baridhara, Dhaka -1212, Bangladesh; https://bd.usembassy.gov/; DhakaACS@state.gov |
+
+---
+country: Bangladesh
+date: June 23, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Bangladesh/travel-facts>
+license: public domain (U.S.)
+...

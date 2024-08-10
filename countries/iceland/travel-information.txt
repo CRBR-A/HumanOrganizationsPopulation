@@ -1,0 +1,27 @@
+Telephone Code: 354
+Local Emergency Phone: 112
+Climate: Temperate; moderated by North Atlantic Current; mild, windy winters; damp, cool summers
+Currency (Code): Icelandic kronur (ISK)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, F
+Major Languages: Icelandic, English, Nordic languages, German
+Major Religions: Evangelical Lutheran Church of Iceland (official) 62.3%, Roman Catholic 4%, Reykjavik Free Church 2.7%, Hafnarfjordur Free Church 2%, pagan worship 1.4%, Icelandic Ethical Humanist 1.1%
+Time Difference: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Yes
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Blue Lagoon in Grindavík; Geysers in Strokkur; Thingvellir National Park; Reykjavik; whale watching from Reykjavik; Gullfoss Waterfall; Northern Lights; Landmannalaugar Nature Reserve; Maelifell Volcano; Myrdalsjökull Glacier
+Major Sports: Handball, soccer, track and field, golf, basketball, tennis
+Cultural Practices: Littering is uncommon in Iceland, and visitors are expected to do their part to maintain the pristine natural environment.
+Tipping Guidelines: Tipping is not expected at hotels and restaurants since most bills include a service charge for gratuities. Round up taxi fares.
+Souvenirs: Hand-knit wool items including blankets, sweaters, hats, coats, and mittens; pottery, local spirits, Viking themed items and dolls in traditional costumes; carved fish skin, lava rock, and driftwood items; felt stuffed animal toys
+Traditional Cuisine: Lamb; Hákarl --- cured (fermented) shark meat
+
+---
+country: Iceland
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Iceland/travel-facts>
+license: public domain (U.S.)
+...

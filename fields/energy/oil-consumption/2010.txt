@@ -1,0 +1,213 @@
+CIA - The World Factbook --  Oil - consumption   
+
+This entry is the total oil consumed in barrels per day (bbl/day). The discrepancy between the amount of oil produced and/or imported and the amount consumed and/or exported is due to the omission of stock changes, refinery gains, and other complicating factors.
+
+| Rank | country | (bbl/day) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | United States | 18,690,000 | 2009 est. |
+| 2 | European Union | 13,680,000 | 2009 est. |
+| 3 | China | 8,200,000 | 2009 est. |
+| 4 | Japan | 4,363,000 | 2009 est. |
+| 5 | India | 2,980,000 | 2009 est. |
+| 6 | Russia | 2,740,000 | 2010 est. |
+| 7 | Brazil | 2,460,000 | 2009 est. |
+| 8 | Germany | 2,437,000 | 2009 est. |
+| 9 | Saudi Arabia | 2,430,000 | 2009 est. |
+| 10 | Korea, South | 2,185,000 | 2010 est. |
+| 11 | Canada | 2,151,000 | 2009 est. |
+| 12 | Mexico | 2,078,000 | 2009 est. |
+| 13 | France | 1,875,000 | 2009 est. |
+| 14 | Iran | 1,700,000 | 2009 est. |
+| 15 | United Kingdom | 1,669,000 | 2009 est. |
+| 16 | Italy | 1,537,000 | 2009 est. |
+| 17 | Spain | 1,482,000 | 2009 est. |
+| 18 | Indonesia | 1,115,000 | 2009 est. |
+| 19 | Australia | 946,300 | 2009 est. |
+| 20 | Netherlands | 922,800 | 2009 est. |
+| 21 | Taiwan | 910,000 | 2009 est. |
+| 22 | Singapore | 878,000 | 2009 est. |
+| 23 | Venezuela | 740,000 | 2009 est. |
+| 24 | Iraq | 687,000 | 2009 est. |
+| 25 | Egypt | 683,000 | 2009 est. |
+| 26 | Argentina | 622,000 | 2009 est. |
+| 27 | Belgium | 608,200 | 2009 est. |
+| 28 | Turkey | 579,500 | 2009 est. |
+| 29 | South Africa | 579,000 | 2009 est. |
+| 30 | Poland | 545,400 | 2009 est. |
+| 31 | Malaysia | 536,000 | 2009 est. |
+| 32 | United Arab Emirates | 435,000 | 2009 est. |
+| 33 | Greece | 414,400 | 2009 est. |
+| 34 | Pakistan | 373,000 | 2009 est. |
+| 35 | Hong Kong | 359,000 | 2009 est. |
+| 36 | Thailand | 356,000 | 2009 est. |
+| 37 | Ukraine | 348,000 | 2009 est. |
+| 38 | Sweden | 328,100 | 2009 est. |
+| 39 | Algeria | 325,000 | 2009 est. |
+| 40 | Kuwait | 320,000 | 2009 est. |
+| 41 | Philippines | 313,000 | 2009 est. |
+| 42 | Vietnam | 302,000 | 2009 est. |
+| 43 | Colombia | 288,000 | 2009 est. |
+| 44 | Libya | 280,000 | 2009 est. |
+| 45 | Nigeria | 280,000 | 2009 est. |
+| 46 | Switzerland | 280,000 | 2009 est. |
+| 47 | Chile | 277,000 | 2009 est. |
+| 48 | Austria | 273,700 | 2009 est. |
+| 49 | Portugal | 272,200 | 2009 est. |
+| 50 | Syria | 252,000 | 2009 est. |
+| 51 | Kazakhstan | 241,000 | 2009 est. |
+| 52 | Israel | 231,000 | 2009 est. |
+| 53 | Romania | 214,000 | 2009 est. |
+| 54 | Czech Republic | 207,600 | 2009 est. |
+| 55 | Finland | 206,200 | 2009 est. |
+| 56 | Norway | 204,100 | 2009 est. |
+| 57 | Morocco | 187,000 | 2009 est. |
+| 58 | Ecuador | 181,000 | 2009 est. |
+| 59 | Belarus | 173,000 | 2009 est. |
+| 60 | Cuba | 169,000 | 2009 est. |
+| 61 | Denmark | 166,500 | 2009 est. |
+| 62 | Ireland | 164,600 | 2009 est. |
+| 63 | Puerto Rico | 164,100 | 2009 est. |
+| 64 | Hungary | 158,200 | 2009 est. |
+| 65 | Peru | 157,000 | 2009 est. |
+| 66 | Yemen | 155,000 | 2009 est. |
+| 67 | New Zealand | 154,100 | 2009 est. |
+| 68 | Uzbekistan | 145,000 | 2009 est. |
+| 69 | Qatar | 142,000 | 2009 est. |
+| 70 | Azerbaijan | 136,000 | 2009 est. |
+| 71 | Bulgaria | 125,000 | 2009 est. |
+| 72 | Turkmenistan | 120,000 | 2009 est. |
+| 73 | Dominican Republic | 118,000 | 2009 est. |
+| 74 | Jordan | 108,000 | 2009 est. |
+| 75 | Croatia | 106,000 | 2009 est. |
+| 76 | Bangladesh | 96,000 | 2009 est. |
+| 77 | Panama | 93,000 | 2009 est. |
+| 78 | Lebanon | 90,000 | 2009 est. |
+| 79 | Serbia | 90,000 | 2009 est. |
+| 80 | Sri Lanka | 90,000 | 2009 est. |
+| 81 | Tunisia | 89,000 | 2009 est. |
+| 82 | Virgin Islands | 88,820 | 2009 est. |
+| 83 | Oman | 84,000 | 2009 est. |
+| 84 | Sudan | 84,000 | 2009 est. |
+| 85 | Slovakia | 79,930 | 2009 est. |
+| 86 | Guatemala | 79,000 | 2009 est. |
+| 87 | Jamaica | 77,000 | 2009 est. |
+| 88 | Kenya | 76,000 | 2009 est. |
+| 89 | Lithuania | 74,000 | 2009 est. |
+| 90 | Angola | 70,000 | 2009 est. |
+| 91 | Slovenia | 60,000 | 2009 est. |
+| 92 | Bolivia | 59,000 | 2009 est. |
+| 93 | Cyprus | 59,000 | 2009 est. |
+| 94 | Ghana | 57,000 | 2009 est. |
+| 95 | Honduras | 56,000 | 2009 est. |
+| 96 | Luxembourg | 50,720 | 2009 est. |
+| 97 | Armenia | 49,000 | 2009 est. |
+| 98 | El Salvador | 46,000 | 2009 est. |
+| 99 | Costa Rica | 44,000 | 2009 est. |
+| 100 | Trinidad and Tobago | 43,000 | 2009 est. |
+| 101 | Burma | 42,000 | 2009 est. |
+| 102 | Latvia | 40,000 | 2009 est. |
+| 103 | Uruguay | 40,000 | 2009 est. |
+| 104 | Bahrain | 39,000 | 2009 est. |
+| 105 | Senegal | 39,000 | 2009 est. |
+| 106 | Ethiopia | 38,000 | 2009 est. |
+| 107 | Tajikistan | 38,000 | 2009 est. |
+| 108 | Albania | 36,000 | 2009 est. |
+| 109 | Papua New Guinea | 36,000 | 2009 est. |
+| 110 | Bahamas, The | 36,000 | 2009 est. |
+| 111 | Tanzania | 34,000 | 2009 est. |
+| 112 | Bosnia and Herzegovina | 30,000 | 2009 est. |
+| 113 | Estonia | 30,000 | 2009 est. |
+| 114 | Nicaragua | 29,000 | 2009 est. |
+| 115 | Paraguay | 27,000 | 2009 est. |
+| 116 | Cameroon | 26,000 | 2009 est. |
+| 117 | Cote d'Ivoire | 24,000 | 2009 est. |
+| 118 | West Bank | 24,000 | 2009 est. |
+| 119 | Benin | 23,000 | 2009 est. |
+| 120 | Mauritius | 23,000 | 2009 est. |
+| 121 | Namibia | 22,000 | 2009 est. |
+| 122 | Gibraltar | 21,000 | 2009 est. |
+| 123 | Togo | 21,000 | 2009 est. |
+| 124 | Madagascar | 21,000 | 2009 est. |
+| 125 | Macedonia | 20,000 | 2009 est. |
+| 126 | Mauritania | 20,000 | 2009 est. |
+| 127 | Malta | 19,000 | 2009 est. |
+| 128 | Moldova | 19,000 | 2009 est. |
+| 129 | Iceland | 18,900 | 2009 est. |
+| 130 | Mozambique | 18,000 | 2009 est. |
+| 131 | Nepal | 18,000 | 2009 est. |
+| 132 | Brunei | 16,000 | 2009 est. |
+| 133 | Zambia | 16,000 | 2009 est. |
+| 134 | Mongolia | 16,000 | 2009 est. |
+| 135 | Korea, North | 16,000 | 2009 est. |
+| 136 | Macau | 16,000 | 2009 est. |
+| 137 | Botswana | 15,000 | 2009 est. |
+| 138 | Kyrgyzstan | 15,000 | 2009 est. |
+| 139 | Gabon | 14,000 | 2009 est. |
+| 140 | Suriname | 14,000 | 2009 est. |
+| 141 | Georgia | 13,000 | 2009 est. |
+| 142 | Uganda | 13,000 | 2009 est. |
+| 143 | New Caledonia | 13,000 | 2009 est. |
+| 144 | Djibouti | 12,000 | 2009 est. |
+| 145 | Haiti | 12,000 | 2009 est. |
+| 146 | Fiji | 11,000 | 2009 est. |
+| 147 | Zimbabwe | 11,000 | 2009 est. |
+| 148 | Congo, Democratic Republic of the | 10,000 | 2009 est. |
+| 149 | Guyana | 10,000 | 2009 est. |
+| 150 | Congo, Republic of the | 10,000 | 2009 est. |
+| 151 | Barbados | 9,000 | 2009 est. |
+| 152 | Burkina Faso | 9,000 | 2009 est. |
+| 153 | Sierra Leone | 9,000 | 2009 est. |
+| 154 | Guinea | 9,000 | 2009 est. |
+| 155 | Aruba | 8,000 | 2009 est. |
+| 156 | Malawi | 8,000 | 2009 est. |
+| 157 | Belize | 7,000 | 2009 est. |
+| 158 | Seychelles | 7,000 | 2009 est. |
+| 159 | French Polynesia | 7,000 | 2009 est. |
+| 160 | Maldives | 6,000 | 2009 est. |
+| 161 | Rwanda | 6,000 | 2009 est. |
+| 162 | Niger | 6,000 | 2009 est. |
+| 163 | Mali | 6,000 | 2009 est. |
+| 164 | Afghanistan | 5,000 | 2009 est. |
+| 165 | Antigua and Barbuda | 5,000 | 2009 est. |
+| 166 | Bermuda | 5,000 | 2009 est. |
+| 167 | Somalia | 5,000 | 2009 est. |
+| 168 | Montenegro | 5,000 | 2009 est. |
+| 169 | Faroe Islands | 5,000 | 2009 est. |
+| 170 | Eritrea | 5,000 | 2009 est. |
+| 171 | American Samoa | 4,000 | 2009 est. |
+| 172 | Swaziland | 4,000 | 2009 est. |
+| 173 | Greenland | 4,000 | 2009 est. |
+| 174 | Liberia | 4,000 | 2009 est. |
+| 175 | Cambodia | 4,000 | 2009 est. |
+| 176 | Burundi | 3,000 | 2009 est. |
+| 177 | Cayman Islands | 3,000 | 2009 est. |
+| 178 | Saint Lucia | 3,000 | 2009 est. |
+| 179 | Laos | 3,000 | 2009 est. |
+| 180 | Guinea-Bissau | 3,000 | 2009 est. |
+| 181 | Grenada | 3,000 | 2009 est. |
+| 182 | Timor-Leste | 2,500 | 2009 est. |
+| 183 | Cape Verde | 2,000 | 2009 est. |
+| 184 | Western Sahara | 2,000 | 2009 est. |
+| 185 | Solomon Islands | 2,000 | 2009 est. |
+| 186 | Central African Republic | 2,000 | 2009 est. |
+| 187 | Lesotho | 2,000 | 2009 est. |
+| 188 | Saint Vincent and the Grenadines | 2,000 | 2009 est. |
+| 189 | Gambia, The | 2,000 | 2009 est. |
+| 190 | Bhutan | 1,000 | 2009 est. |
+| 191 | Vanuatu | 1,000 | 2009 est. |
+| 192 | Tonga | 1,000 | 2009 est. |
+| 193 | Sao Tome and Principe | 1,000 | 2009 est. |
+| 194 | Samoa | 1,000 | 2009 est. |
+| 195 | Saint Pierre and Miquelon | 1,000 | 2009 est. |
+| 196 | Saint Kitts and Nevis | 1,000 | 2009 est. |
+| 197 | Nauru | 1,000 | 2009 est. |
+| 198 | Montserrat | 1,000 | 2009 est. |
+| 199 | Cook Islands | 1,000 | 2009 est. |
+| 200 | Equatorial Guinea | 1,000 | 2009 est. |
+| 201 | Dominica | 1,000 | 2009 est. |
+| 202 | Comoros | 1,000 | 2009 est. |
+| 203 | British Virgin Islands | 1,000 | 2009 est. |
+| 204 | Chad | 1,000 | 2009 est. |
+| 205 | Falkland Islands (Islas Malvinas) | 0 | 2009 est. |
+| 206 | Turks and Caicos Islands | 0 | 2009 est. |
+| 207 | Saint Helena, Ascension, and Tristan da Cunha | 0 | 2009 est. |

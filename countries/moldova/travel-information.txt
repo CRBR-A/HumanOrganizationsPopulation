@@ -1,0 +1,27 @@
+Telephone Code: 373
+Local Emergency Phone: Ambulance: 903; Fire: 901; Police; 902
+Climate: Moderate winters, warm summers
+Currency (Code): Moldovan lei (MDL)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, F
+Major Languages: Moldovan/Romanian, Russian, Gagauz, Ukrainian, Bulgarian
+Major Religions: Orthodox 90.1%, other Christian 2.6%
+Time Difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time); daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Orheiul Vechi complex; Saharna Monastery; Milestii Mici Wine Cellar; Chisinau; Republic of Transnistria & Tiraspol
+Major Sports: Soccer, rugby, basketball, cycling
+Cultural Practices: Better to address people with their last name until invited to use their first name.
+Tipping Guidelines: A service charge is often included in restaurant bills, but a further 5-10% is expected. Tips are not customary for taxis, but are appreciated.
+Souvenirs: Woodworking crafts, straw- and wool-knitted items, ceramics, traditional costumes, handmade carpets, wine/brandy
+Traditional Cuisine: Mămăligă --- yellow maize flour porridge cooked to a bread-like consistency; grape or cabbage leaves stuffed with ground meat are a popular accompaniment
+
+---
+country: Moldova
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Moldova/travel-facts>
+license: public domain (U.S.)
+...

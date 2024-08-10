@@ -1,0 +1,27 @@
+Telephone Code: 1-670
+Local Emergency Phone: 911
+Climate: Tropical marine; moderated by northeast trade winds, little seasonal temperature variation; dry season December to June, rainy season July to October
+Currency (Code): US dollar is used
+Electricity: 110 V
+Voltage: 60 Hz
+Plug types(s): A, B
+Major Languages: Philippine languages, Chamorro, English, other Pacific island languages, Chinese, other Asian languages
+Major Religions: Christian (Roman Catholic majority, although traditional beliefs and taboos may still be found)
+Time Difference: UTC+10 (15 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Yes, but some opt for bottled water
+International Driving Permit: Suggested for non-US citizens.
+Road Driving Side: Right
+Tourist Destinations: Saipan Grotto Cave; Managaha Island; American Memorial Park; Saipan Battlefields; Mount Tapochao; Suicide Cliff; Bird Island
+Major Sports: Baseball, basketball, mixed martial arts, ultimate (flying disc)
+Cultural Practices: It is best to ask the waiter or waitress if they are permitted to keep your tip. In some establishments the tips are put back into the company. Some locals do not tip. Leave your tip accordingly.
+Tipping Guidelines: A tip of 10-18% is common in restaurants. Tip taxi drivers about 10% of the fare. Bellboys usually get about $2 (USD) per luggage item.
+Souvenirs: Traditional sarongs, shell jewelry, wishing dolls, coconut- and wood-carved crafts, crab shell crafts
+Traditional Cuisine: Kelaguen --- chicken, meat, or raw seafood marinated in lemon juice, salt, and hot peppers topped with coconut and scallions; the chicken or meat is grilled while the seafood is prepared raw and "cooked" for only a few hours in lemon juice
+
+---
+country: Northern Mariana Islands
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Northern Mariana Islands/travel-facts>
+license: public domain (U.S.)
+...

@@ -1,0 +1,27 @@
+Telephone Code: 507
+Local Emergency Phone: Ambulance: 269-9778; Fire: 103; Police 104
+Climate: Tropical maritime; hot, humid, cloudy; prolonged rainy season (May to January), short dry season (January to May)
+Currency (Code): Balboas (PAB)
+Electricity: 120 V
+Voltage: 60 Hz
+Plug types(s): A, B
+Major Languages: Spanish, indigenous languages, Panamanian English Creole, Arabic, French Creole, other (Yiddish, Hebrew, Korean, Japanese)
+Major Religions: Roman Catholic 48.6%, Evangelical 30.2%, other 4.7%, agnostic 0.2%, atheist 0.2%
+Time Difference: UTC-5 (same time as Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Panama Canal; Bocas Town; Coiba Island; San Blas Islands; Santa Catalina; Panamanian coral reefs
+Major Sports: Baseball, soccer, boxing, basketball
+Cultural Practices: It is considered polite to refer to people by business titles, rather than their surname, when in a professional context.
+Tipping Guidelines: A 10% tip is appropriate at restaurants. Taxi drivers do not expect tips.
+Souvenirs: Mola- and embroidered-cloth items, woven baskets, pre-Columbian inspired gold jewelry
+Traditional Cuisine: Sancocho de Gallina (Chicken Stew) - chicken, corn, and root vegetables such as ñame, yuca, and otoe, flavored with culantro (an herb similar to cilantro); typically served with a side of white rice
+
+---
+country: Panama
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Panama/travel-facts>
+license: public domain (U.S.)
+...

@@ -1,0 +1,223 @@
+CIA - The World Factbook --  Internet Service Providers (ISPs)   
+
+| Rank | country | Internet Service Providers (ISPs) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | United States | 7,000.00 | 2002 est. |
+| 2 | Canada | 760.00 | 2000 est. |
+| 3 | Australia | 571.00 | 2002 |
+| 4 | Russia | 300.00 | June 2000 |
+| 5 | Ukraine | 260.00 | 2001 |
+| 6 | Bulgaria | 200.00 | 2001 |
+| 7 | Germany | 200.00 | 2001 |
+| 8 | South Africa | 150.00 | 2001 |
+| 9 | Iran | 100.00 | 2002 |
+| 10 | Italy | 93.00 | 2000 |
+| 11 | Puerto Rico | 76.00 | 2000 |
+| 12 | Japan | 73.00 | 2000 |
+| 13 | Kenya | 65.00 | 2001 |
+| 14 | France | 62.00 | 2000 |
+| 15 | Belgium | 61.00 | 2000 |
+| 16 | Spain | 56.00 | 2000 |
+| 17 | Netherlands | 52.00 | 2000 |
+| 18 | Mexico | 51.00 | 2000 |
+| 19 | Brazil | 50.00 | 2000 |
+| 20 | Turkey | 50.00 | 2001 |
+| 21 | Virgin Islands | 50.00 | 2000 |
+| 22 | Egypt | 50.00 | 2000 |
+| 23 | Liechtenstein | 44.00 | 2000 |
+| 24 | Switzerland | 44.00 | 2000 |
+| 25 | India | 43.00 | 2000 |
+| 26 | Uzbekistan | 42.00 | 2000 |
+| 27 | Latvia | 41.00 | 2001 |
+| 28 | Estonia | 38.00 | 2001 |
+| 29 | Romania | 38.00 | 2000 |
+| 30 | Austria | 37.00 | 2000 |
+| 31 | New Zealand | 36.00 | 2000 |
+| 32 | Argentina | 33.00 | 2000 |
+| 33 | Philippines | 33.00 | 2000 |
+| 34 | Lithuania | 32.00 | 2001 |
+| 35 | Ecuador | 31.00 | 2001 |
+| 36 | Pakistan | 30.00 | 2000 |
+| 37 | Sweden | 29.00 | 2000 |
+| 38 | Greece | 27.00 | 2000 |
+| 39 | Dominican Republic | 24.00 | 2000 |
+| 40 | Indonesia | 24.00 | 2000 |
+| 41 | Belarus | 23.00 | 2002 |
+| 42 | Ireland | 22.00 | 2000 |
+| 43 | Lebanon | 22.00 | 2000 |
+| 44 | Saudi Arabia | 22.00 | 2003 |
+| 45 | Israel | 21.00 | 2000 |
+| 46 | Jamaica | 21.00 | 2000 |
+| 47 | Bermuda | 20.00 | 2000 |
+| 48 | Iceland | 20.00 | 2001 |
+| 49 | Barbados | 19.00 | 2000 |
+| 50 | Bahamas, The | 19.00 | 2000 |
+| 51 | Poland | 19.00 | 2000 |
+| 52 | Colombia | 18.00 | 2000 |
+| 53 | Hong Kong | 17.00 | 2000 |
+| 54 | Montserrat | 17.00 | 2000 |
+| 55 | Trinidad and Tobago | 17.00 | 2000 |
+| 56 | Antigua and Barbuda | 16.00 | 2000 |
+| 57 | Anguilla | 16.00 | 2000 |
+| 58 | British Virgin Islands | 16.00 | 2000 |
+| 59 | Venezuela | 16.00 | 2000 |
+| 60 | Saint Kitts and Nevis | 16.00 | 2000 |
+| 61 | Portugal | 16.00 | 2000 |
+| 62 | Hungary | 16.00 | 2000 |
+| 63 | Dominica | 16.00 | 2000 |
+| 64 | Cayman Islands | 16.00 | 2000 |
+| 65 | Saint Lucia | 15.00 | 2000 |
+| 66 | Saint Vincent and the Grenadines | 15.00 | 2000 |
+| 67 | Thailand | 15.00 | 2000 |
+| 68 | Grenada | 14.00 | 2000 |
+| 69 | Uruguay | 14.00 | 2001 |
+| 70 | Turks and Caicos Islands | 14.00 | 2000 |
+| 71 | Denmark | 13.00 | 2000 |
+| 72 | Jan Mayen | 13.00 | 2000 |
+| 73 | Mali | 13.00 | 2001 |
+| 74 | Svalbard | 13.00 | 2000 |
+| 75 | Norway | 13.00 | 2000 |
+| 76 | Ghana | 12.00 | 2000 |
+| 77 | Botswana | 11.00 | 2001 |
+| 78 | Slovenia | 11.00 | 2000 |
+| 79 | Nigeria | 11.00 | 2000 |
+| 80 | Mozambique | 11.00 | 2002 |
+| 81 | Korea, South | 11.00 | 2000 |
+| 82 | Albania | 10.00 | 2001 |
+| 83 | Kazakhstan | 10.00 | 2001 |
+| 84 | Peru | 10.00 | 2000 |
+| 85 | Bangladesh | 10.00 | 2000 |
+| 86 | Armenia | 9.00 | 2001 |
+| 87 | Singapore | 9.00 | 2000 |
+| 88 | Bolivia | 9.00 | 2000 |
+| 89 | Croatia | 9.00 | 2000 |
+| 90 | Honduras | 8.00 | 2000 |
+| 91 | Taiwan | 8.00 | 2000 |
+| 92 | West Bank | 8.00 | 1999 |
+| 93 | Morocco | 8.00 | 2000 |
+| 94 | Luxembourg | 8.00 | 2000 |
+| 95 | Chile | 7.00 | 2000 |
+| 96 | Malaysia | 7.00 | 2000 |
+| 97 | Cyprus | 6.00 | 2000 |
+| 98 | Zimbabwe | 6.00 | 2000 |
+| 99 | Tanzania | 6.00 | 2000 |
+| 100 | Panama | 6.00 | 2000 |
+| 101 | Netherlands Antilles | 6.00 | NA |
+| 102 | Nepal | 6.00 | 2000 |
+| 103 | Malta | 6.00 | 2002 |
+| 104 | Macedonia | 6.00 | 2000 |
+| 105 | Slovakia | 6.00 | 2000 |
+| 106 | Georgia | 6.00 | 2000 |
+| 107 | Sri Lanka | 5.00 | 2000 |
+| 108 | Cuba | 5.00 | 2001 |
+| 109 | Guatemala | 5.00 | 2000 |
+| 110 | Zambia | 5.00 | 2001 |
+| 111 | Swaziland | 5.00 | 2002 |
+| 112 | Vietnam | 5.00 | 2000 |
+| 113 | Mauritania | 5.00 | 2001 |
+| 114 | Mongolia | 5.00 | 2001 |
+| 115 | Jordan | 5.00 | 2000 |
+| 116 | Cote d'Ivoire | 5.00 | 2001 |
+| 117 | Eritrea | 5.00 | 2001 |
+| 118 | Benin | 4.00 | 2002 |
+| 119 | Guinea | 4.00 | 2001 |
+| 120 | El Salvador | 4.00 | 2000 |
+| 121 | Tajikistan | 4.00 | 2002 |
+| 122 | Paraguay | 4.00 | 2000 |
+| 123 | Bosnia and Herzegovina | 3.00 | 2000 |
+| 124 | Cook Islands | 3.00 | 2000 |
+| 125 | China | 3.00 | 2000 |
+| 126 | Gaza Strip | 3.00 | 1999 |
+| 127 | Kuwait | 3.00 | 2000 |
+| 128 | Papua New Guinea | 3.00 | 2000 |
+| 129 | Togo | 3.00 | 2001 |
+| 130 | Somalia | 3.00 | 2000 |
+| 131 | Nicaragua | 3.00 | 2000 |
+| 132 | Malawi | 3.00 | 2002 |
+| 133 | Haiti | 3.00 | 2000 |
+| 134 | Guyana | 3.00 | 2000 |
+| 135 | Finland | 3.00 | 2002 |
+| 136 | Costa Rica | 3.00 | 2000 |
+| 137 | Algeria | 2.00 | 2000 |
+| 138 | Samoa | 2.00 | 2000 |
+| 139 | Namibia | 2.00 | 2000 |
+| 140 | Uganda | 2.00 | 2000 |
+| 141 | Tonga | 2.00 | 2000 |
+| 142 | Sudan | 2.00 | 2002 |
+| 143 | San Marino | 2.00 | 2000 |
+| 144 | Liberia | 2.00 | 2001 |
+| 145 | Christmas Island | 2.00 | 2000 |
+| 146 | Gibraltar | 2.00 | 2000 |
+| 147 | Gambia, The | 2.00 | 2001 |
+| 148 | French Polynesia | 2.00 | 2000 |
+| 149 | Faroe Islands | 2.00 | 2000 |
+| 150 | Falkland Islands (Islas Malvinas) | 2.00 | 2000 |
+| 151 | Fiji | 2.00 | 2000 |
+| 152 | Cocos (Keeling) Islands | 2.00 | 2000 |
+| 153 | Rwanda | 2.00 | 2002 |
+| 154 | Guinea-Bissau | 2.00 | 2002 |
+| 155 | Suriname | 2.00 | 2000 |
+| 156 | Norfolk Island | 2.00 | 2000 |
+| 157 | Mauritius | 2.00 | 2000 |
+| 158 | Monaco | 2.00 | 2000 |
+| 159 | Moldova | 2.00 | 1999 |
+| 160 | Madagascar | 2.00 | 2000 |
+| 161 | Cambodia | 2.00 | 2000 |
+| 162 | Brunei | 2.00 | 2000 |
+| 163 | Belize | 2.00 | 2000 |
+| 164 | Azerbaijan | 2.00 | 2000 |
+| 165 | United Arab Emirates | 1.00 | 2000 |
+| 166 | Andorra | 1.00 | 2000 |
+| 167 | Burma | 1.00 | 2000 |
+| 168 | Congo, Republic of the | 1.00 | 2000 |
+| 169 | Yemen | 1.00 | 2000 |
+| 170 | Western Sahara | 1.00 | 2000 |
+| 171 | Wallis and Futuna | 1.00 | 2000 |
+| 172 | Burkina Faso | 1.00 | 2002 |
+| 173 | Tuvalu | 1.00 | 2000 |
+| 174 | Tunisia | 1.00 | 2000 |
+| 175 | Sao Tome and Principe | 1.00 | 2002 |
+| 176 | Tokelau | 1.00 | 2000 |
+| 177 | Syria | 1.00 | 2000 |
+| 178 | Sierra Leone | 1.00 | 2001 |
+| 179 | Palau | 1.00 | 2002 |
+| 180 | Nauru | 1.00 | 2000 |
+| 181 | Vanuatu | 1.00 | 2000 |
+| 182 | Niger | 1.00 | 2002 |
+| 183 | Niue | 1.00 | 2000 |
+| 184 | New Caledonia | 1.00 | 2000 |
+| 185 | Maldives | 1.00 | 2000 |
+| 186 | Oman | 1.00 | 2000 |
+| 187 | Macau | 1.00 | 2000 |
+| 188 | Saint Helena | 1.00 | 2000 |
+| 189 | Senegal | 1.00 | 2002 |
+| 190 | Seychelles | 1.00 | 2000 |
+| 191 | Saint Pierre and Miquelon | 1.00 | 2000 |
+| 192 | Marshall Islands | 1.00 | 2002 |
+| 193 | Qatar | 1.00 | 2000 |
+| 194 | Libya | 1.00 | 2002 |
+| 195 | Lesotho | 1.00 | 2000 |
+| 196 | Laos | 1.00 | 2000 |
+| 197 | Kiribati | 1.00 | 2000 |
+| 198 | Korea, North | 1.00 | 2000 |
+| 199 | Iraq | 1.00 | 2000 |
+| 200 | British Indian Ocean Territory | 1.00 | 2000 |
+| 201 | Ethiopia | 1.00 | 2002 |
+| 202 | Equatorial Guinea | 1.00 | 2002 |
+| 203 | Djibouti | 1.00 | 2000 |
+| 204 | Cape Verde | 1.00 | 2002 |
+| 205 | Central African Republic | 1.00 | 2002 |
+| 206 | Northern Mariana Islands | 1.00 | 2001 |
+| 207 | Comoros | 1.00 | 2000 |
+| 208 | Cameroon | 1.00 | 2002 |
+| 209 | Congo, Democratic Republic of the | 1.00 | 2001 |
+| 210 | Greenland | 1.00 | 2000 |
+| 211 | Gabon | 1.00 | 2001 |
+| 212 | Micronesia, Federated States of | 1.00 | 2000 |
+| 213 | Chad | 1.00 | 2002 |
+| 214 | Burundi | 1.00 | 2000 |
+| 215 | Solomon Islands | 1.00 | 2000 |
+| 216 | Angola | 1.00 | 2000 |
+| 217 | Bahrain | 1.00 | 2000 |
+| 218 | American Samoa | 1.00 | 2000 |
+| 219 | Afghanistan | 1.00 | 2000 |

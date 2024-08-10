@@ -1,0 +1,29 @@
+Telephone Code: 253
+Local Emergency Phone - Ambulance: 351351
+Local Emergency Phone - Fire: 18
+Local Emergency Phone - Police: 17
+Climate: Desert; torrid, dry
+Currency (Code): Djiboutian francs (DJF)
+Electricity: 220 V
+Voltage: 50 Hz
+Plug types(s): C, E
+Major Languages: French, Arabic, Somali, Afar
+Major Religions: Muslim 94%, Christian 6% (mainly foreign born residents)
+Time Difference: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Djibouti City; Lake Assal; Tadjoura; Ali Sabieh; Gulf of Tadjoura; Goba'ad Plain
+Major Sports: Cricket, soccer
+Cultural Practices: Unlike many western countries, the average work week in the country runs from Saturday to Thursday, 8 a.m. to 2 p.m. Many private companies reopen in the afternoon from 4 to 7 p.m.
+Tipping Guidelines: Tipping is customary in Djibouti, with tips in restaurants being about 10%.
+Souvenirs: Malachite and amber beaded items, hammered silver jewelry, traditional African clothing and woven goods, tribal art and daggers, wooden and carved stone items, scented incense, coffee beans
+Traditional Cuisine: Skoudekharis --- a one-pot dish of rice and spices that includes generous portions of lamb
+
+---
+country: Djibouti
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Djibouti/travel-facts>
+license: public domain (U.S.)
+...

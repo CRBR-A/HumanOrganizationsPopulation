@@ -1,0 +1,227 @@
+CIA - The World Factbook --  ELECTRICITY - PRODUCTION
+
+Electricity - production compares the annual electricity generated expressed in kilowatt-hours.
+
+| Rank | Country | (KWH) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | China | 5,169,000,000,000 | 2013 |
+| 2 | United States | 4,048,000,000,000 | 2012 est. |
+| 3 | European Union | 3,260,000,000,000 | 2013 est. |
+| 4 | Russia | 1,054,000,000,000 | 2013 est. |
+| 5 | India | 974,900,000,000 | 2011 est. |
+| 6 | Japan | 963,000,000,000 | 2012 est. |
+| 7 | Canada | 644,100,000,000 | 2012 est. |
+| 8 | Germany | 575,900,000,000 | 2012 est. |
+| 9 | France | 532,000,000,000 | 2012 est. |
+| 10 | Brazil | 530,400,000,000 | 2011 est. |
+| 11 | Korea, South | 494,700,000,000 | 2012 est. |
+| 12 | United Kingdom | 365,700,000,000 | 2013 est. |
+| 13 | Italy | 286,200,000,000 | 2012 est. |
+| 14 | Mexico | 277,600,000,000 | 2012 est. |
+| 15 | Spain | 276,500,000,000 | 2012 est. |
+| 16 | South Africa | 257,900,000,000 | 2012 est. |
+| 17 | Australia | 239,700,000,000 | 2012 est. |
+| 18 | Saudi Arabia | 235,100,000,000 | 2011 est. |
+| 19 | Taiwan | 235,000,000,000 | 2011 est. |
+| 20 | Turkey | 228,100,000,000 | 2012 est. |
+| 21 | Iran | 225,800,000,000 | 2011 est. |
+| 22 | Ukraine | 198,100,000,000 | 2012 est. |
+| 23 | Thailand | 173,300,000,000 | 2012 est. |
+| 24 | Indonesia | 172,700,000,000 | 2011 est. |
+| 25 | Sweden | 162,900,000,000 | 2012 est. |
+| 26 | Egypt | 152,000,000,000 | 2012 est. |
+| 27 | Poland | 150,900,000,000 | 2012 est. |
+| 28 | Norway | 144,700,000,000 | 2012 est. |
+| 29 | Venezuela | 127,600,000,000 | 2012 est. |
+| 30 | Argentina | 123,200,000,000 | 2011 est. |
+| 31 | Malaysia | 118,000,000,000 | 2012 est. |
+| 32 | Vietnam | 117,000,000,000 | 2012 est. |
+| 33 | Netherlands | 98,570,000,000 | 2013 est. |
+| 34 | United Arab Emirates | 97,910,000,000 | 2011 est. |
+| 35 | Kazakhstan | 90,530,000,000 | 2012 est. |
+| 36 | Pakistan | 89,880,000,000 | 2011 est. |
+| 37 | Czech Republic | 81,710,000,000 | 2012 est. |
+| 38 | Belgium | 74,130,000,000 | 2012 est. |
+| 39 | Austria | 69,000,000,000 | 2012 est. |
+| 40 | Finland | 67,690,000,000 | 2012 est. |
+| 41 | Philippines | 66,010,000,000 | 2011 est. |
+| 42 | Switzerland | 65,540,000,000 | 2012 est. |
+| 43 | Israel | 64,440,000,000 | 2014 est. |
+| 44 | Iraq | 62,300,000,000 | 2013 est. |
+| 45 | Chile | 61,850,000,000 | 2011 est. |
+| 46 | Colombia | 59,220,000,000 | 2011 est. |
+| 47 | Paraguay | 57,050,000,000 | 2011 est. |
+| 48 | Romania | 56,710,000,000 | 2012 est. |
+| 49 | Greece | 54,980,000,000 | 2012 est. |
+| 50 | Kuwait | 54,010,000,000 | 2011 est. |
+| 51 | Uzbekistan | 52,530,000,000 | 2012 est. |
+| 52 | Algeria | 48,050,000,000 | 2011 est. |
+| 53 | Singapore | 47,950,000,000 | 2013 est. |
+| 54 | Bulgaria | 46,650,000,000 | 2011 est. |
+| 55 | Portugal | 44,270,000,000 | 2012 est. |
+| 56 | New Zealand | 42,910,000,000 | 2012 est. |
+| 57 | Bangladesh | 42,410,000,000 | 2011 est. |
+| 58 | Hong Kong | 39,970,000,000 | 2013 est. |
+| 59 | Syria | 38,780,000,000 | 2011 est. |
+| 60 | Peru | 38,400,000,000 | 2012 est. |
+| 61 | Serbia | 37,650,000,000 | 2013 est. |
+| 62 | Hungary | 34,280,000,000 | 2012 est. |
+| 63 | Belarus | 30,330,000,000 | 2011 est. |
+| 64 | Denmark | 29,850,000,000 | 2012 est. |
+| 65 | Qatar | 28,870,000,000 | 2011 est. |
+| 66 | Slovakia | 26,420,000,000 | 2012 est. |
+| 67 | Ireland | 26,090,000,000 | 2012 est. |
+| 68 | Libya | 25,960,000,000 | 2011 est. |
+| 69 | Nigeria | 25,700,000,000 | 2011 est. |
+| 70 | Morocco | 23,650,000,000 | 2011 est. |
+| 71 | Azerbaijan | 22,990,000,000 | 2012 est. |
+| 72 | Ecuador | 22,850,000,000 | 2012 est. |
+| 73 | Korea, North | 20,990,000,000 | 2011 est. |
+| 74 | Oman | 20,070,000,000 | 2011 est. |
+| 75 | Puerto Rico | 20,020,000,000 | 2011 est. |
+| 76 | Turkmenistan | 19,970,000,000 | 2013 est. |
+| 77 | Jordan | 17,260,000,000 | 2013 est. |
+| 78 | Iceland | 17,190,000,000 | 2012 est. |
+| 79 | Tajikistan | 17,090,000,000 | 2013 est. |
+| 80 | Cuba | 16,750,000,000 | 2011 est. |
+| 81 | Lebanon | 15,420,000,000 | 2011 est. |
+| 82 | Tunisia | 15,230,000,000 | 2011 est. |
+| 83 | Kyrgyzstan | 14,960,000,000 | 2011 est. |
+| 84 | Mozambique | 14,830,000,000 | 2012 est. |
+| 85 | Slovenia | 14,760,000,000 | 2012 est. |
+| 86 | Croatia | 14,240,000,000 | 2013 est. |
+| 87 | Dominican Republic | 13,090,000,000 | 2011 est. |
+| 88 | Bahrain | 13,000,000,000 | 2011 est. |
+| 89 | Bosnia and Herzegovina | 12,930,000,000 | 2012 est. |
+| 90 | Lithuania | 12,270,000,000 | 2012 est. |
+| 91 | Laos | 12,240,000,000 | 2011 est. |
+| 92 | Sri Lanka | 11,800,000,000 | 2012 est. |
+| 93 | Estonia | 11,660,000,000 | 2012 est. |
+| 94 | Zambia | 11,340,000,000 | 2011 est. |
+| 95 | Ghana | 10,910,000,000 | 2011 est. |
+| 96 | Uruguay | 10,160,000,000 | 2011 est. |
+| 97 | Costa Rica | 9,889,000,000 | 2011 est. |
+| 98 | Georgia | 9,694,000,000 | 2012 est. |
+| 99 | Guatemala | 8,361,000,000 | 2011 est. |
+| 100 | Trinidad and Tobago | 8,355,000,000 | 2011 est. |
+| 101 | Congo, Democratic Republic of the | 7,802,000,000 | 2011 est. |
+| 102 | Panama | 7,642,000,000 | 2011 est. |
+| 103 | Kenya | 7,618,000,000 | 2011 est. |
+| 104 | Bhutan | 7,550,000,000 | 2013 est. |
+| 105 | Bolivia | 7,375,000,000 | 2013 est. |
+| 106 | Zimbabwe | 7,297,000,000 | 2011 est. |
+| 107 | Sudan | 7,193,000,000 | 2010 est. |
+| 108 | Burma | 7,144,000,000 | 2011 est. |
+| 109 | Armenia | 7,075,000,000 | 2011 est. |
+| 110 | Albania | 6,987,000,000 | 2013 est. |
+| 111 | Honduras | 6,713,000,000 | 2011 est. |
+| 112 | El Salvador | 5,992,000,000 | 2011 est. |
+| 113 | Latvia | 5,891,000,000 | 2011 est. |
+| 114 | Cote d'Ivoire | 5,870,000,000 | 2011 est. |
+| 115 | Cameroon | 5,857,000,000 | 2011 est. |
+| 116 | Kosovo | 5,847,000,000 | 2012 |
+| 117 | Yemen | 5,834,000,000 | 2011 est. |
+| 118 | Macedonia | 5,676,000,000 | 2013 est. |
+| 119 | Angola | 5,512,000,000 | 2011 est. |
+| 120 | Moldova | 5,456,000,000 | 2011 est. |
+| 121 | Tanzania | 5,115,000,000 | 2011 est. |
+| 122 | Ethiopia | 5,107,000,000 | 2011 est. |
+| 123 | Jamaica | 4,745,000,000 | 2011 est. |
+| 124 | Mongolia | 4,472,000,000 | 2011 est. |
+| 125 | Cyprus | 4,443,000,000 | 2012 est. |
+| 126 | Nicaragua | 4,159,000,000 | 2013 est. |
+| 127 | Brunei | 3,500,000,000 | 2011 est. |
+| 128 | Nepal | 3,431,000,000 | 2012 est. |
+| 129 | Papua New Guinea | 3,325,000,000 | 2011 est. |
+| 130 | Senegal | 2,801,000,000 | 2011 est. |
+| 131 | Mauritius | 2,628,000,000 | 2011 est. |
+| 132 | Montenegro | 2,557,000,000 | 2011 est. |
+| 133 | Uganda | 2,493,000,000 | 2011 est. |
+| 134 | New Caledonia | 2,430,000,000 | 2011 est. |
+| 135 | Malta | 2,221,000,000 | 2013 |
+| 136 | Luxembourg | 2,211,000,000 | 2012 est. |
+| 137 | Bahamas, The | 2,190,000,000 | 2011 est. |
+| 138 | Malawi | 2,069,000,000 | 2011 est. |
+| 139 | Curacao | 1,785,000,000 | 2012 est. |
+| 140 | Guam | 1,734,000,000 | 2011 est. |
+| 141 | Gabon | 1,702,000,000 | 2011 est. |
+| 142 | Suriname | 1,600,000,000 | 2011 est. |
+| 143 | Madagascar | 1,340,000,000 | 2011 est. |
+| 144 | Namibia | 1,331,000,000 | 2013 est. |
+| 145 | Barbados | 1,002,000,000 | 2011 est. |
+| 146 | Cambodia | 991,200,000 | 2011 est. |
+| 147 | Aruba | 980,000,000 | 2011 est. |
+| 148 | Guinea | 950,000,000 | 2011 est. |
+| 149 | Mauritania | 930,000,000 | 2011 est. |
+| 150 | South Sudan | 881,300,000 | 2010 est. |
+| 151 | Fiji | 836,100,000 | 2011 est. |
+| 152 | Afghanistan | 833,100,000 | 2011 est. |
+| 153 | French Polynesia | 825,000,000 | 2011 est. |
+| 154 | Virgin Islands | 794,000,000 | 2011 est. |
+| 155 | Haiti | 726,000,000 | 2012 est. |
+| 156 | Guyana | 725,000,000 | 2011 est. |
+| 157 | Lesotho | 700,000,000 | 2011 est. |
+| 158 | Bermuda | 674,000,000 | 2011 est. |
+| 159 | Cayman Islands | 594,000,000 | 2011 est. |
+| 160 | Burkina Faso | 579,000,000 | 2011 est. |
+| 161 | Congo, Republic of the | 559,000,000 | 2012 est. |
+| 162 | West Bank | 535,000,000 | 2011 est. |
+| 163 | Mali | 520,000,000 | 2011 est. |
+| 164 | Belize | 452,200,000 | 2011 est. |
+| 165 | Swaziland | 415,000,000 | 2011 est. |
+| 166 | Macau | 413,700,000 | 2013 est. |
+| 167 | Saint Lucia | 362,000,000 | 2011 est. |
+| 168 | Botswana | 350,000,000 | 2011 est. |
+| 169 | Liberia | 335,000,000 | 2011 est. |
+| 170 | Djibouti | 330,000,000 | 2011 est. |
+| 171 | Greenland | 320,000,000 | 2011 est. |
+| 172 | Eritrea | 317,000,000 | 2011 est. |
+| 173 | Antigua and Barbuda | 310,000,000 | 2011 est. |
+| 174 | Somalia | 310,000,000 | 2011 est. |
+| 175 | Cabo Verde | 307,000,000 | 2011 est. |
+| 176 | Sint Maarten | 304,300,000 | 2008 est. |
+| 177 | Seychelles | 304,000,000 | 2011 est. |
+| 178 | Rwanda | 300,200,000 | 2011 est. |
+| 179 | Niger | 300,000,000 | 2011 est. |
+| 180 | Maldives | 265,200,000 | 2011 est. |
+| 181 | Faroe Islands | 261,000,000 | 2011 est. |
+| 182 | Gambia, The | 230,000,000 | 2011 est. |
+| 183 | Chad | 200,000,000 | 2011 est. |
+| 184 | Grenada | 196,000,000 | 2011 est. |
+| 185 | Micronesia, Federated States of | 192,000,000 | 2002 |
+| 186 | Turks and Caicos Islands | 185,000,000 | 2011 est. |
+| 187 | Central African Republic | 175,000,000 | 2011 est. |
+| 188 | Gibraltar | 161,000,000 | 2011 est. |
+| 189 | American Samoa | 155,000,000 | 2011 est. |
+| 190 | Burundi | 152,000,000 | 2011 est. |
+| 191 | Benin | 146,000,000 | 2011 est. |
+| 192 | Liechtenstein | 145,300,000 | 2012 |
+| 193 | Sierra Leone | 145,000,000 | 2011 est. |
+| 194 | Saint Kitts and Nevis | 138,000,000 | 2011 est. |
+| 195 | Togo | 136,000,000 | 2011 est. |
+| 196 | Saint Vincent and the Grenadines | 135,000,000 | 2011 est. |
+| 197 | Timor-Leste | 131,700,000 | 2012 est. |
+| 198 | Samoa | 115,200,000 | 2011 est. |
+| 199 | Dominica | 105,500,000 | 2011 est. |
+| 200 | Equatorial Guinea | 97,000,000 | 2011 est. |
+| 201 | Andorra | 91,240,000 | 2011 |
+| 202 | Western Sahara | 90,000,000 | 2011 est. |
+| 203 | Solomon Islands | 85,000,000 | 2011 est. |
+| 204 | Sao Tome and Principe | 60,000,000 | 2011 est. |
+| 205 | Guinea-Bissau | 55,000,000 | 2011 est. |
+| 206 | Vanuatu | 55,000,000 | 2011 est. |
+| 207 | British Virgin Islands | 53,000,000 | 2011 est. |
+| 208 | Tonga | 48,000,000 | 2011 est. |
+| 209 | Comoros | 43,000,000 | 2011 est. |
+| 210 | Saint Pierre and Miquelon | 42,000,000 | 2011 est. |
+| 211 | Cook Islands | 32,130,000 | 2011 est. |
+| 212 | Kiribati | 25,000,000 | 2011 est. |
+| 213 | Nauru | 25,000,000 | 2011 est. |
+| 214 | Montserrat | 24,000,000 | 2011 est. |
+| 215 | Falkland Islands (Islas Malvinas) | 12,000,000 | 2011 est. |
+| 216 | Saint Helena, Ascension, and Tristan da Cunha | 8,000,000 | 2011 est. |
+| 217 | Niue | 3,000,000 | 2011 est. |
+| 218 | Northern Mariana Islands | 60,600 | January 2009 |
+| 219 | Gaza Strip | 51,000 | 2011 est. |
+
+

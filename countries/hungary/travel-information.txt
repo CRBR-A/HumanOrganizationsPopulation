@@ -1,0 +1,27 @@
+Telephone Code: 36
+Local Emergency Phone: 112
+Climate: Temperate; cold, cloudy, humid winters; warm summers
+Currency (Code): Forints (HUF)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, F
+Major Languages: Hungarian, English, German, Russian, Romanian, French
+Major Religions: Roman Catholic 37.2%, Calvinist 11.6%, Lutheran 2.2%, Greek Catholic 1.8%
+Time Difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time); daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October
+Potable Water: Yes, in the major cities
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Benedictine Abbey in Tihany; Caves of Lillafüred; Eger Castle; Visegrad Royal Palace; Sts. Peter and Paul Cathedral, Pecs; Budapest (includes Parliament Building, Buda Castle District, Hungarian National Museum, Millennium Monument in Heroes Square); Soporon; Esztergom Basilica; Aggtelek National Park
+Major Sports: Soccer, swimming, fencing, athletics (track and field)
+Cultural Practices: Chocolates and flowers are common gifts when invited to a Hungarian household, while wine is less common.
+Tipping Guidelines: For restaurants, it is customary to tip 10-15% of the total bill. Gas station and public washroom attendants expect a 100-200 forints tip. Tip taxi drivers 10% of the fare. Bellhops appreciate 500 forint to carry bags to your room.
+Souvenirs: Paprika and other food items including salami and goose liver; wine and liqueurs; embroidery; pottery and porcelain and ceramic figurines; crystal; goose down items; natural herbal remedies; wooden sculptures
+Traditional Cuisine: Goulash --- a spicy tomato-and-paprika-based stew of beef, noodles, potatoes, and other vegetables
+
+---
+country: Hungary
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Hungary/travel-facts>
+license: public domain (U.S.)
+...

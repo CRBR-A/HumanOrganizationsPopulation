@@ -1,0 +1,211 @@
+CIA - The World Factbook --  Natural gas - proved reserves   
+
+This entry is the stock of proved reserves of natural gas in cubic meters (cu m). Proved reserves are those quantities of natural gas, which, by analysis of geological and engineering data, can be estimated with a high degree of confidence to be commercially recoverable from a given date forward, from known reservoirs and under current economic conditions.
+
+| Rank | country | (cu m) | Date of Information |
+| --- | --- | --- | --- |
+| 1 | Russia | 47,570,000,000,000 | 1 January 2010 est. |
+| 2 | Iran | 29,610,000,000,000 | 1 January 2010 est. |
+| 3 | Qatar | 25,470,000,000,000 | 1 January 2010 est. |
+| 4 | Turkmenistan | 7,504,000,000,000 | 1 January 2010 est. |
+| 5 | Saudi Arabia | 7,461,000,000,000 | 1 January 2010 est. |
+| 6 | United States | 6,928,000,000,000 | 1 January 2010 est. |
+| 7 | United Arab Emirates | 6,071,000,000,000 | 1 January 2010 est. |
+| 8 | Nigeria | 5,246,000,000,000 | 1 January 2010 est. |
+| 9 | Venezuela | 4,983,000,000,000 | 1 January 2010 est. |
+| 10 | Algeria | 4,502,000,000,000 | 1 January 2010 est. |
+| 11 | Iraq | 3,170,000,000,000 | 1 January 2010 est. |
+| 12 | Australia | 3,115,000,000,000 | 1 January 2010 est. |
+| 13 | China | 3,030,000,000,000 | 1 January 2010 est. |
+| 14 | Indonesia | 3,001,000,000,000 | 1 January 2010 est. |
+| 15 | Kazakhstan | 2,407,000,000,000 | 1 January 2010 est. |
+| 16 | Malaysia | 2,350,000,000,000 | 1 January 2010 est. |
+| 17 | Norway | 2,313,000,000,000 | 1 January 2010 est. |
+| 18 | European Union | 2,242,000,000,000 | 1 January 2010 est. |
+| 19 | Uzbekistan | 1,841,000,000,000 | 1 January 2010 est. |
+| 20 | Kuwait | 1,798,000,000,000 | 1 January 2010 est. |
+| 21 | Canada | 1,754,000,000,000 | 1 January 2010 est. |
+| 22 | Egypt | 1,656,000,000,000 | 1 January 2010 est. |
+| 23 | Libya | 1,539,000,000,000 | 1 January 2010 est. |
+| 24 | Netherlands | 1,416,000,000,000 | 1 January 2010 est. |
+| 25 | Ukraine | 1,104,000,000,000 | 1 January 2010 est. |
+| 26 | India | 1,075,000,000,000 | 1 January 2010 est. |
+| 27 | Azerbaijan | 849,500,000,000 | 1 January 2010 est. |
+| 28 | Oman | 849,500,000,000 | 1 January 2010 est. |
+| 29 | Pakistan | 840,200,000,000 | 1 January 2010 est. |
+| 30 | Bolivia | 750,400,000,000 | 1 January 2010 est. |
+| 31 | Vietnam | 610,000,000,000 | 1 January 2009 est. |
+| 32 | Yemen | 478,500,000,000 | 1 January 2010 est. |
+| 33 | Trinidad and Tobago | 436,100,000,000 | 1 January 2010 est. |
+| 34 | Argentina | 398,400,000,000 | 1 January 2010 est. |
+| 35 | Brunei | 390,800,000,000 | 1 January 2010 est. |
+| 36 | Brazil | 364,200,000,000 | 1 January 2010 est. |
+| 37 | Mexico | 359,700,000,000 | 1 January 2010 est. |
+| 38 | Thailand | 342,000,000,000 | 1 January 2010 est. |
+| 39 | Peru | 334,100,000,000 | 1 January 2010 est. |
+| 40 | United Kingdom | 292,000,000,000 | 1 January 2010 est. |
+| 41 | Burma | 283,200,000,000 | 1 January 2010 est. |
+| 42 | Angola | 271,800,000,000 | 1 January 2010 est. |
+| 43 | Syria | 240,700,000,000 | 1 January 2010 est. |
+| 44 | Papua New Guinea | 226,500,000,000 | 1 January 2010 est. |
+| 45 | Timor-Leste | 200,000,000,000 | 1 January 2006 est. |
+| 46 | Bangladesh | 195,400,000,000 | 1 January 2010 est. |
+| 47 | Germany | 175,600,000,000 | 1 January 2010 est. |
+| 48 | Poland | 164,800,000,000 | 1 January 2010 est. |
+| 49 | Cameroon | 135,100,000,000 | 1 January 2010 est. |
+| 50 | Mozambique | 127,400,000,000 | 1 January 2010 est. |
+| 51 | Colombia | 112,000,000,000 | 1 January 2010 est. |
+| 52 | Philippines | 98,540,000,000 | 1 January 2010 est. |
+| 53 | Chile | 97,970,000,000 | 1 January 2010 est. |
+| 54 | Bahrain | 92,030,000,000 | 1 January 2010 est. |
+| 55 | Congo, Republic of the | 90,610,000,000 | 1 January 2010 est. |
+| 56 | Sudan | 84,950,000,000 | 1 January 2010 est. |
+| 57 | Cuba | 70,790,000,000 | 1 January 2010 est. |
+| 58 | Italy | 69,830,000,000 | 1 January 2010 est. |
+| 59 | Tunisia | 65,130,000,000 | 1 January 2010 est. |
+| 60 | Romania | 63,000,000,000 | 1 January 2010 est. |
+| 61 | Namibia | 62,290,000,000 | 1 January 2010 est. |
+| 62 | Denmark | 61,300,000,000 | 1 January 2010 est. |
+| 63 | Rwanda | 56,630,000,000 | 1 January 2010 est. |
+| 64 | Korea, South | 50,000,000,000 | 1 January 2008 est. |
+| 65 | Afghanistan | 49,550,000,000 | 1 January 2010 est. |
+| 66 | Serbia | 48,140,000,000 | 1 January 2010 est. |
+| 67 | Equatorial Guinea | 36,810,000,000 | 1 January 2010 est. |
+| 68 | New Zealand | 33,980,000,000 | 1 January 2010 est. |
+| 69 | Croatia | 30,580,000,000 | 1 January 2010 est. |
+| 70 | Israel | 30,440,000,000 | 1 January 2010 est. |
+| 71 | Cote d'Ivoire | 28,320,000,000 | 1 January 2010 est. |
+| 72 | Mauritania | 28,320,000,000 | 1 January 2010 est. |
+| 73 | Gabon | 28,320,000,000 | 1 January 2010 est. |
+| 74 | Ethiopia | 24,920,000,000 | 1 January 2010 est. |
+| 75 | Ghana | 22,650,000,000 | 1 January 2010 est. |
+| 76 | Japan | 20,900,000,000 | 1 January 2010 est. |
+| 77 | Austria | 16,140,000,000 | 1 January 2010 est. |
+| 78 | Slovakia | 14,160,000,000 | 1 January 2010 est. |
+| 79 | Ireland | 9,911,000,000 | 1 January 2010 est. |
+| 80 | Georgia | 8,495,000,000 | 1 January 2010 est. |
+| 81 | Hungary | 8,098,000,000 | 1 January 2010 est. |
+| 82 | Ecuador | 7,985,000,000 | 1 January 2010 est. |
+| 83 | France | 7,079,000,000 | 1 January 2010 est. |
+| 84 | Tanzania | 6,513,000,000 | 1 January 2010 est. |
+| 85 | Taiwan | 6,229,000,000 | 1 January 2010 est. |
+| 86 | Turkey | 6,088,000,000 | 1 January 2010 est. |
+| 87 | Jordan | 6,031,000,000 | 1 January 2010 est. |
+| 88 | Bulgaria | 5,663,000,000 | 1 January 2010 est. |
+| 89 | Tajikistan | 5,663,000,000 | 1 January 2010 est. |
+| 90 | Kyrgyzstan | 5,663,000,000 | 1 January 2010 est. |
+| 91 | Somalia | 5,663,000,000 | 1 January 2009 est. |
+| 92 | Czech Republic | 3,964,000,000 | 1 January 2010 est. |
+| 93 | Guatemala | 2,960,000,000 | 1 January 2006 est. |
+| 94 | Belarus | 2,832,000,000 | 1 January 2010 est. |
+| 95 | Spain | 2,548,000,000 | 1 January 2010 est. |
+| 96 | Morocco | 1,501,000,000 | 1 January 2010 est. |
+| 97 | Benin | 1,133,000,000 | 1 January 2010 est. |
+| 98 | Congo, Democratic Republic of the | 991,100,000 | 1 January 2010 est. |
+| 99 | Greece | 991,100,000 | 1 January 2010 est. |
+| 100 | Albania | 849,500,000 | 1 January 2010 est. |
+| 101 | Barbados | 113,300,000 | 1 January 2010 est. |
+| 102 | South Africa | 27,160,000 | 1 January 2006 est. |
+| 103 | Macau | 300,000 | 1 January 2008 est. |
+| 104 | American Samoa | 0 | 1 January 2010 est. |
+| 105 | Bermuda | 0 | 1 January 2010 est. |
+| 106 | Bosnia and Herzegovina | 0 | 1 January 2010 est. |
+| 107 | British Virgin Islands | 0 | 1 January 2010 est. |
+| 108 | Saint Helena, Ascension, and Tristan da Cunha | 0 | 1 January 2010 est. |
+| 109 | Puerto Rico | 0 | 1 January 2010 est. |
+| 110 | Portugal | 0 | 1 January 2010 est. |
+| 111 | Paraguay | 0 | 1 January 2010 est. |
+| 112 | Panama | 0 | 1 January 2010 est. |
+| 113 | Niue | 0 | 1 January 2010 est. |
+| 114 | Niger | 0 | 1 January 2010 est. |
+| 115 | Nicaragua | 0 | 1 January 2010 est. |
+| 116 | Montserrat | 0 | 1 January 2010 est. |
+| 117 | Zimbabwe | 0 | 1 January 2010 est. |
+| 118 | Zambia | 0 | 1 January 2010 est. |
+| 119 | Western Sahara | 0 | 1 January 2010 est. |
+| 120 | West Bank | 0 | 1 January 2009 est. |
+| 121 | Virgin Islands | 0 | 1 January 2010 est. |
+| 122 | Vanuatu | 0 | 1 January 2010 est. |
+| 123 | Uruguay | 0 | 1 January 2010 est. |
+| 124 | Uganda | 0 | 1 January 2010 est. |
+| 125 | Turks and Caicos Islands | 0 | 1 January 2010 est. |
+| 126 | Tonga | 0 | 1 January 2010 est. |
+| 127 | Togo | 0 | 1 January 2010 est. |
+| 128 | Sweden | 0 | 1 January 2010 est. |
+| 129 | Swaziland | 0 | 1 January 2010 est. |
+| 130 | Suriname | 0 | 1 January 2010 est. |
+| 131 | Sri Lanka | 0 | 1 January 2010 est. |
+| 132 | Solomon Islands | 0 | 1 January 2010 est. |
+| 133 | Slovenia | 0 | 1 January 2010 est. |
+| 134 | Singapore | 0 | 1 January 2010 est. |
+| 135 | Sierra Leone | 0 | 1 January 2010 est. |
+| 136 | Seychelles | 0 | 1 January 2010 est. |
+| 137 | Sao Tome and Principe | 0 | 1 January 2010 est. |
+| 138 | Samoa | 0 | 1 January 2010 est. |
+| 139 | Saint Vincent and the Grenadines | 0 | 1 January 2010 est. |
+| 140 | Saint Pierre and Miquelon | 0 | 1 January 2010 est. |
+| 141 | Saint Lucia | 0 | 1 January 2010 est. |
+| 142 | Saint Kitts and Nevis | 0 | 1 January 2010 est. |
+| 143 | Montenegro | 0 | 1 January 2010 est. |
+| 144 | Mongolia | 0 | 1 January 2010 est. |
+| 145 | Moldova | 0 | 1 January 2010 est. |
+| 146 | Mauritius | 0 | 1 January 2010 est. |
+| 147 | Malta | 0 | 1 January 2010 est. |
+| 148 | Mali | 0 | 1 January 2010 est. |
+| 149 | Maldives | 0 | 1 January 2010 est. |
+| 150 | Liberia | 0 | 1 January 2010 est. |
+| 151 | New Caledonia | 0 | 1 January 2010 est. |
+| 152 | Nepal | 0 | 1 January 2010 est. |
+| 153 | Nauru | 0 | 1 January 2010 est. |
+| 154 | Lesotho | 0 | 1 January 2010 est. |
+| 155 | Lebanon | 0 | 1 January 2010 est. |
+| 156 | Laos | 0 | 1 January 2010 est. |
+| 157 | Korea, North | 0 | 1 January 2010 est. |
+| 158 | Kiribati | 0 | 1 January 2010 est. |
+| 159 | Kenya | 0 | 1 January 2010 est. |
+| 160 | Jamaica | 0 | 1 January 2010 est. |
+| 161 | Iceland | 0 | 1 January 2010 est. |
+| 162 | Malawi | 0 | 1 January 2010 est. |
+| 163 | Madagascar | 0 | 1 January 2006 est. |
+| 164 | Macedonia | 0 | 1 January 2010 est. |
+| 165 | Luxembourg | 0 | 1 January 2010 est. |
+| 166 | Lithuania | 0 | 1 January 2010 est. |
+| 167 | Hong Kong | 0 | 1 January 2010 est. |
+| 168 | Honduras | 0 | 1 January 2010 est. |
+| 169 | Haiti | 0 | 1 January 2010 est. |
+| 170 | Guyana | 0 | 1 January 2010 est. |
+| 171 | Guinea-Bissau | 0 | 1 January 2010 est. |
+| 172 | Guinea | 0 | 1 January 2010 est. |
+| 173 | Grenada | 0 | 1 January 2010 est. |
+| 174 | Greenland | 0 | 1 January 2010 est. |
+| 175 | Gibraltar | 0 | 1 January 2010 est. |
+| 176 | Gambia, The | 0 | 1 January 2010 est. |
+| 177 | French Polynesia | 0 | 1 January 2010 est. |
+| 178 | Finland | 0 | 1 January 2010 est. |
+| 179 | Fiji | 0 | 1 January 2010 est. |
+| 180 | Faroe Islands | 0 | 1 January 2010 est. |
+| 181 | Falkland Islands (Islas Malvinas) | 0 | 1 January 2010 est. |
+| 182 | Estonia | 0 | 1 January 2010 est. |
+| 183 | Eritrea | 0 | 1 January 2010 est. |
+| 184 | El Salvador | 0 | 1 January 2010 est. |
+| 185 | Dominican Republic | 0 | 1 January 2010 est. |
+| 186 | Dominica | 0 | 1 January 2010 est. |
+| 187 | Djibouti | 0 | 1 January 2010 est. |
+| 188 | Cyprus | 0 | 1 January 2010 est. |
+| 189 | Costa Rica | 0 | 1 January 2010 est. |
+| 190 | Cook Islands | 0 | 1 January 2010 est. |
+| 191 | Comoros | 0 | 1 January 2010 est. |
+| 192 | Chad | 0 | 1 January 2010 est. |
+| 193 | Central African Republic | 0 | 1 January 2010 est. |
+| 194 | Cayman Islands | 0 | 1 January 2010 est. |
+| 195 | Cape Verde | 0 | 1 January 2010 est. |
+| 196 | Cambodia | 0 | 1 January 2010 est. |
+| 197 | Burundi | 0 | 1 January 2010 est. |
+| 198 | Burkina Faso | 0 | 1 January 2010 est. |
+| 199 | Botswana | 0 | 1 January 2010 est. |
+| 200 | Bhutan | 0 | 1 January 2010 est. |
+| 201 | Belize | 0 | 1 January 2010 est. |
+| 202 | Belgium | 0 | 1 January 2010 est. |
+| 203 | Armenia | 0 | 1 January 2010 est. |
+| 204 | Aruba | 0 | 1 January 2010 est. |
+| 205 | Antigua and Barbuda | 0 | 1 January 2010 est. |

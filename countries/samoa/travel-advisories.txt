@@ -1,0 +1,14 @@
+| Precautions | Exercise normal precautions in Samoa. |
+| | Consult the link below for updates to travel advisories and statements on safety, security, local laws, and special circumstances in this country. |
+| | <https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html> |
+| Passport/Visa Requirements | US citizens should make sure their passport is valid at the date of their entering the country. They should also make sure they have at least 1 blank page in their passport for any entry stamp that will be required. A visa is not required as long as you do not stay in the country more than 90 days. |
+| Vaccinations | An International Certificate of Vaccination for yellow fever is required for travelers arriving from countries with a risk of yellow fever transmission and for travelers having transited through the airport of a country with risk of yellow fever transmission. See WHO recommendations.  <http://www.who.int/> |
+| US Embassy/Consulate | +685 21436 / 21631 / 21452 or 22696; EMER: +685 7771776, please leave a message and the Duty Officer will return your call; U S Embassy Samoa, ACC Building, 5th Floor, Matafele Apia, Samoa; ApiaConsular@state.gov; https://ws.usembassy.gov/ |
+
+---
+country: Samoa
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Samoa/travel-facts>
+license: public domain (U.S.)
+...

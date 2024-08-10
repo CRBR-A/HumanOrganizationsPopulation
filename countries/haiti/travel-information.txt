@@ -1,0 +1,27 @@
+Telephone Code: 509
+Local Emergency Phone: Ambulance: 118; Police: 114
+Climate: Tropical; semiarid where mountains in east cut off trade winds
+Currency (Code): Gourdes (HTG)
+Electricity: 110 V
+Voltage: 60 Hz
+Plug types(s): A, B
+Major Languages: French, Creole
+Major Religions: Protestant/Methodist/Adventist/Jehovah's Witness 51.8%, Roman Catholic 35.4%, Vodou 1.7%
+Time Difference: +1hr, begins second Sunday in March; ends first Sunday in November
+Potable Water: Opt for bottled water
+International Driving Permit: Suggested; additionally, if you plan to drive in Haiti, you will need an Inter-American Driving Permit issued by the AAA
+Road Driving Side: Right
+Tourist Destinations: National History Park (includes Sans-Souci Palace, Citadelle Laferriere, Ramiers); Bassin Bleu; Île-à-Rat; Musée du Panthéon National; Promenade du Bord de Mer
+Major Sports: Soccer, basketball
+Cultural Practices: Whistling and pointing are considered rude.
+Tipping Guidelines: Restaurant staff should be tipped around 10% of the bill. Taxi drivers can be given a discretionary tip if they are helpful and efficient.
+Souvenirs: Straw hats, metalwork sculptures, papier-mache items, woodcrafts, voodoo items
+Traditional Cuisine: Griot (or Griyo) --- pork shoulder marinated in citrus, which is braised and then fried; often served with diri ak pwa wouj (red beans and rice)
+
+---
+country: Haiti
+date: May 17, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/Haiti/travel-facts>
+license: public domain (U.S.)
+...

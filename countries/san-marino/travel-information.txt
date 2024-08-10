@@ -1,0 +1,29 @@
+Telephone Code: 378
+Local Emergency Phone - Ambulance: 113
+Local Emergency Phone - Fire: 116
+Local Emergency Phone - Police: 112
+Climate: Mediterranean; mild to cool winters; warm, sunny summers
+Currency (Code): Euros (EUR)
+Electricity: 230 V
+Voltage: 50 Hz
+Plug types(s): C, F, L
+Major Languages: Italian
+Major Religions: Roman Catholic
+Time Difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time); daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October
+Potable Water: Yes
+International Driving Permit: Suggested
+Road Driving Side: Right
+Tourist Destinations: Guaita; cable car ride in Borgo Maggiore & Citta; Palazzo Pubblico; Piazza della Liberta; Cesta Tower
+Major Sports: Soccer, basketball, volleyball, motor cycling, baseball
+Cultural Practices: Greetings are enthusiastic yet rather formal and travelers should wait until invited to use first names. Once a relationship develops, air-kissing on both cheeks, starting with the left, is often added, as well as a pat on the back between men.
+Tipping Guidelines: Tip waiters between 7-13% of the bill according to the service rendered. The average tip for taxi drivers is between 8-20% of the fare. Bellhops usually receive $2 (USD) per luggage item carried to a room.
+Souvenirs: Handmade lace and embroidery items, decorative wrought iron, ceramic tableware, wines and liqueurs, stamps and coins, replica medieval weapons
+Traditional Cuisine: Torta tre monti --- a cake consisting of multiple layers of wafers that are cemented with hazelnut cream and/or chocolate and then coated in chocolate fondant
+
+---
+country: San Marino
+date: May 03, 2023
+author: CIA
+source: <https://www.cia.gov/the-world-factbook/countries/San Marino/travel-facts>
+license: public domain (U.S.)
+...
