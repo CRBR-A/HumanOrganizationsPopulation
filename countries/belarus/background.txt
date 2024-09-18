@@ -1,8 +1,0 @@
-After seven decades as a constituent republic of the USSR, Belarus attained its independence in 1991. It has retained closer political and economic ties to Russia than have any of the other former Soviet republics. Belarus and Russia signed a treaty on a two-state union on 8 December 1999 envisioning greater political and economic integration. Although Belarus agreed to a framework to carry out the accord, serious implementation has yet to take place and current negotiations on further integration have been contentious. Since his election in July 1994 as the country's first and only directly elected president, Aleksandr LUKASHENKO has steadily consolidated his power through authoritarian means and a centralized economic system. Government restrictions on political and civil freedoms, freedom of speech and the press, peaceful assembly, and religion have remained in place.  
-
----
-country: Belarus
-author: CIA
-source: <https://www.cia.gov/the-world-factbook/countries/Belarus/>
-license: public domain (U.S.)
-...

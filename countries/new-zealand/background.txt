@@ -1,8 +1,0 @@
-The Polynesian Maori reached New Zealand sometime between A.D. 1250 and 1300. In 1840, their chieftains entered into a compact with Great Britain, the Treaty of Waitangi, in which they ceded sovereignty to Queen Victoria while retaining territorial rights. That same year, the British began the first organized colonial settlement. A series of land wars between 1843 and 1872 ended with the defeat of the native peoples. The British colony of New Zealand became an independent dominion in 1907 and supported the UK militarily in both world wars. New Zealand's full participation in a number of defense alliances lapsed by the 1980s. In recent years, the government has sought to address longstanding Maori grievances.  
-
----
-country: New Zealand
-author: CIA
-source: <https://www.cia.gov/the-world-factbook/countries/New Zealand/>
-license: public domain (U.S.)
-...

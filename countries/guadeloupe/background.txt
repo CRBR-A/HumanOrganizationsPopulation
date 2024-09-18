@@ -1,8 +1,0 @@
-Guadeloupe has been a French possession since 1635. The island of Saint Martin is shared with the Netherlands; its southern portion is named Sint Maarten and is part of the Netherlands Antilles and its northern portion is named Saint-Martin and is part of Guadeloupe  
-
----
-country: Guadeloupe
-author: CIA
-source: <https://www.cia.gov/the-world-factbook/countries/Guadeloupe/>
-license: public domain (U.S.)
-...

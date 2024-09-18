@@ -1,8 +1,0 @@
-The Futuna island group was discovered by the Dutch in 1616 and Wallis by the British in 1767, but it was the French who declared a protectorate over the islands in 1842, and took official control of them between 1886 and 1888. Notably, Wallis and Futuna was the only French colony to side with the Vichy regime during World War II, a phase that ended in May of 1942 with the arrival of 2,000 American troops. In 1959, the inhabitants of the islands voted to become a French overseas territory and officially assumed that status in 1961. In 2003, Wallis and Futuna's designation changed to that of an overseas collectivity.  
-
----
-country: Wallis and Futuna
-author: CIA
-source: <https://www.cia.gov/the-world-factbook/countries/Wallis and Futuna/>
-license: public domain (U.S.)
-...

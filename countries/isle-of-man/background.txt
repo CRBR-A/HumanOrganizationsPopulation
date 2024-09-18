@@ -1,8 +1,0 @@
-Part of the Norwegian Kingdom of the Hebrides until the 13th century when it was ceded to Scotland, the isle came under the British crown in 1765. Current concerns include reviving the almost extinct Manx Gaelic language. The Isle of Man is a British Crown dependency, which makes it a self-governing possession of the British Crown that is not part of the UK. The UK Government, however, remains constitutionally responsible for its defense and international representation.  
-
----
-country: Isle of Man
-author: CIA
-source: <https://www.cia.gov/the-world-factbook/countries/Isle of Man/>
-license: public domain (U.S.)
-...

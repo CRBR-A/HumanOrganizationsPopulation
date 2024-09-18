@@ -1,8 +1,0 @@
-Settlement of freed slaves from the US in what is today Liberia began in 1822; by 1847, the Americo-Liberians were able to establish a republic. William TUBMAN, president from 1944-71, did much to promote foreign investment and to bridge the economic, social, and political gaps between the descendants of the original settlers and the inhabitants of the interior. In 1980, a military coup led by Samuel DOE ushered in a decade of authoritarian rule. In December 1989, Charles TAYLOR launched a rebellion against DOE's regime that led to a prolonged civil war in which DOE was killed. A period of relative peace in 1997 allowed for an election that brought TAYLOR to power, but major fighting resumed in 2000. An August 2003 peace agreement ended the war and prompted the resignation of former president Charles TAYLOR, who was convicted by the UN-backed Special Court for Sierra Leone in The Hague for his involvement in Sierra Leone's civil war. After two years of rule by a transitional government, democratic elections in late 2005 brought President Ellen JOHNSON SIRLEAF to power. She subsequently won reelection in 2011 but was challenged to rebuild Liberia's economy, particularly following the 2014-15 Ebola epidemic, and to reconcile a nation still recovering from 14 years of fighting. Constitutional term limits barred President JOHNSON SIRLEAF from running for re-election. Legal challenges delayed the 2017 presidential runoff election, which was eventually won by George WEAH. In March 2018, the UN completed its 15-year peacekeeping mission in Liberia.  
-
----
-country: Liberia
-author: CIA
-source: <https://www.cia.gov/the-world-factbook/countries/Liberia/>
-license: public domain (U.S.)
-...

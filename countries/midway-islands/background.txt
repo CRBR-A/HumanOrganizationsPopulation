@@ -1,8 +1,0 @@
-The US took formal possession of the islands in 1867. The laying of the trans-Pacific cable, which passed through the islands, brought the first residents in 1903. Between 1935 and 1947, Midway was used as a refueling stop for trans-Pacific flights. The US naval victory over a Japanese fleet off Midway in 1942 was one of the turning points of World War II. The islands continued to serve as a naval station until closed in 1993. Today the islands are a US National Wildlife Refuge. From 1996 to 2002 and 2008 to 2012 the refuge was open to the public, but it is now closed.  
-
----
-country: Midway Islands
-author: CIA
-source: <https://www.cia.gov/the-world-factbook/countries/Midway Islands/>
-license: public domain (U.S.)
-...

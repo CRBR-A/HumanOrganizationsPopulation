@@ -1,8 +1,0 @@
-There are 27 coral islands in the group. Captain William KEELING discovered the islands in 1609, but they remained uninhabited until the 19th century. From the 1820s to 1978, members of the CLUNIES-ROSS family controlled the islands and the copra produced from local coconuts. Annexed by the UK in 1857, the Cocos Islands were transferred to the Australian Government in 1955. Apart from North Keeling Island, which lies 30 kilometers north of the main group, the islands form a horseshoe-shaped atoll surrounding a lagoon. North Keeling Island was declared a national park in 1995 and is administered by Parks Australia. The population on the two inhabited islands generally is split between the ethnic Europeans on West Island and the ethnic Malays on Home Island.  
-
----
-country: Cocos (Keeling) Islands
-author: CIA
-source: <https://www.cia.gov/the-world-factbook/countries/Cocos (Keeling) Islands/>
-license: public domain (U.S.)
-...

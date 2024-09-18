@@ -1,8 +1,0 @@
-The Slovene lands were part of the Austro-Hungarian Empire until the latter's dissolution at the end of World War I. In 1918, the Slovenes joined the Serbs and Croats in forming a new multinational state, which was named Yugoslavia in 1929. After World War II, Slovenia was one of the republics in the restored Yugoslavia, which, though communist, soon distanced itself from the Soviet Union and spearheaded the Non-Aligned Movement. Dissatisfied with the exercise of power by the majority Serbs, the Slovenes succeeded in establishing their independence in 1991 after a short 10-day war. Historical ties to Western Europe, a growing economy, and a stable democracy have assisted in Slovenia's postcommunist transition. Slovenia acceded to both NATO and the EU in the spring of 2004; it joined the euro zone and the Schengen zone in 2007.  
-
----
-country: Slovenia
-author: CIA
-source: <https://www.cia.gov/the-world-factbook/countries/Slovenia/>
-license: public domain (U.S.)
-...

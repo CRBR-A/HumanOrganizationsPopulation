@@ -1,8 +1,0 @@
-First colonized by the Spanish, the islands came under British control in the early 19th century. The islands' sugar industry was hurt by the emancipation of the slaves in 1834. Manpower was replaced with the importation of contract laborers from India between 1845 and 1917, which boosted sugar production as well as the cocoa industry. The discovery of oil on Trinidad in 1910 added another important export. Independence was attained in 1962. The country is one of the most prosperous in the Caribbean thanks largely to petroleum and natural gas production and processing. Tourism, mostly in Tobago, is targeted for expansion and is growing. The government is struggling to reverse a surge in violent crime.  
-
----
-country: Trinidad and Tobago
-author: CIA
-source: <https://www.cia.gov/the-world-factbook/countries/Trinidad and Tobago/>
-license: public domain (U.S.)
-...

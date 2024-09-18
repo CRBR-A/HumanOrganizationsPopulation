@@ -1,8 +1,0 @@
-The island was uninhabited when first settled by the British in 1627. African slaves worked the sugar plantations established on the island, which initially dominated the Caribbean sugar industry. By 1720 Barbados was no longer a dominant force within the sugar industry, having been surpassed by the Leeward Islands and Jamaica. Slavery was abolished in 1834. The Barbadian economy remained heavily dependent on sugar, rum, and molasses production through most of the 20th century. The gradual introduction of social and political reforms in the 1940s and 1950s led to complete independence from the UK in 1966. In the 1990s, tourism and manufacturing surpassed the sugar industry in economic importance. Barbados plans to remove the British monarch as its head of state by November 2021 and transition to a republic.  
-
----
-country: Barbados
-author: CIA
-source: <https://www.cia.gov/the-world-factbook/countries/Barbados/>
-license: public domain (U.S.)
-...

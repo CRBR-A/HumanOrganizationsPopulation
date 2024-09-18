@@ -1,8 +1,0 @@
-Mainland Tanzania fell under German rule during the late 19th century as part of German East Africa. After World War I, Britain governed the mainland as Tanganyika; the Zanzibar Archipelago remained a separate colonial jurisdiction. Shortly after achieving independence from Britain in the early 1960s, Tanganyika and Zanzibar merged to form the United Republic of Tanzania in 1964. In 1995, the country held its first democratic elections since the 1970s. Zanzibar maintains semi-autonomy and participates in national elections; popular political opposition on the isles led to four contentious elections since 1995, in which the ruling party claimed victory despite international observers' claims of voting irregularities.  
-
----
-country: Tanzania
-author: CIA
-source: <https://www.cia.gov/the-world-factbook/countries/Tanzania/>
-license: public domain (U.S.)
-...

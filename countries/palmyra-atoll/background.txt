@@ -1,8 +1,0 @@
-The Kingdom of Hawaii claimed the atoll in 1862, and the US included it among the Hawaiian Islands when it annexed the archipelago in 1898. The Hawaii Statehood Act of 1959 did not include Palmyra Atoll, which is now part privately owned by the Nature Conservancy and part US Government-owned and administered as a nature preserve. The lagoons and surrounding waters within the 12-nautical-mile US territorial seas were transferred to the US Fish and Wildlife Service and were designated a National Wildlife Refuge in January 2001.  
-
----
-country: Palmyra Atoll
-author: CIA
-source: <https://www.cia.gov/the-world-factbook/countries/Palmyra Atoll/>
-license: public domain (U.S.)
-...

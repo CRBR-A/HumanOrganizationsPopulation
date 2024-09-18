@@ -1,8 +1,0 @@
-Colonized by the Portuguese in the 16th century, Macau was the first European settlement in the Far East. Pursuant to an agreement signed by China and Portugal on 13 April 1987, Macau became the Macau Special Administrative Region of the People's Republic of China on 20 December 1999. In this agreement, China promised that, under its "one country, two systems" formula, China's political and economic system would not be imposed on Macau, and that Macau would enjoy a "high degree of autonomy" in all matters except foreign affairs and defense for the subsequent 50 years.  
-
----
-country: Macau
-author: CIA
-source: <https://www.cia.gov/the-world-factbook/countries/Macau/>
-license: public domain (U.S.)
-...

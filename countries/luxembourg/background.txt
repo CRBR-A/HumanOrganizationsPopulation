@@ -1,8 +1,0 @@
-Founded in 963, Luxembourg became a grand duchy in 1815 and an independent state under the Netherlands. It lost more than half of its territory to Belgium in 1839 but gained a larger measure of autonomy. In 1867, Luxembourg attained full independence under the condition that it promise perpetual neutrality. Overrun by Germany in both world wars, it ended its neutrality in 1948 when it entered into the Benelux Customs Union and when it joined NATO the following year. In 1957, Luxembourg became one of the six founding countries of the EEC (later the EU), and in 1999 it joined the euro currency zone.  
-
----
-country: Luxembourg
-author: CIA
-source: <https://www.cia.gov/the-world-factbook/countries/Luxembourg/>
-license: public domain (U.S.)
-...

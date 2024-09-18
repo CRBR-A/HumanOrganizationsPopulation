@@ -1,8 +1,0 @@
-The Trucial States of the Persian Gulf coast granted the UK control of their defense and foreign affairs in 19th century treaties. In 1971, six of these states - Abu Zaby, 'Ajman, Al Fujayrah, Ash Shariqah, Dubayy, and Umm al Qaywayn - merged to form the United Arab Emirates (UAE). They were joined in 1972 by Ra's al Khaymah. The UAE's per capita GDP is not far below those of leading West European nations. Its generosity with oil revenues and its moderate foreign policy stance have allowed the UAE to play a vital role in the affairs of the region.  
-
----
-country: United Arab Emirates
-author: CIA
-source: <https://www.cia.gov/the-world-factbook/countries/United Arab Emirates/>
-license: public domain (U.S.)
-...

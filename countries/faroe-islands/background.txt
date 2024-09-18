@@ -1,8 +1,0 @@
-The population of the Faroe Islands is largely descended from Viking settlers who arrived in the 9th century. The islands have been connected politically to Denmark since the 14th century. A high degree of self-government was granted the Faroese in 1948, who have autonomy over most internal affairs while Denmark is responsible for justice, defense, and foreign affairs. The Faroe Islands are not part of the European Union.  
-
----
-country: Faroe Islands
-author: CIA
-source: <https://www.cia.gov/the-world-factbook/countries/Faroe Islands/>
-license: public domain (U.S.)
-...

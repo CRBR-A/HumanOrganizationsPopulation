@@ -1,9 +1,0 @@
-A military power during the 17th century, Sweden has not participated in any war for two centuries. An armed neutrality was preserved in both World Wars. Since then, Sweden has pursued a successful economic formula consisting of a capitalist system intermixed with substantial welfare elements. Sweden joined the EU in 1995, but the public rejected the introduction of the euro in a 2003 referendum. The share of Swedenâ€™s population born abroad increased from 11.3% in 2000 to 19.1% in 2018.  
-Â   
-
----
-country: Sweden
-author: CIA
-source: <https://www.cia.gov/the-world-factbook/countries/Sweden/>
-license: public domain (U.S.)
-...

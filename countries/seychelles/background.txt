@@ -1,8 +1,0 @@
-Seychelles was uninhabited prior to being discovered by Europeans early in the 16th century. A lengthy struggle between France and Great Britain for the islands ended in 1814, when they were ceded to the latter. During colonial rule, a plantation-based economy developed that relied on imported labor, primarily from European colonies in Africa. Independence came in 1976. Following a coup dâ€™etat in 1977, the country was a socialist one-party state until adopting a new constitution and holding free elections in 1993. President France-Albert RENE, who had served since 1977, was reelected in 2001, but stepped down in 2004. Vice President James Alix MICHEL took over the presidency and in 2006 was elected to a new five-year term; he was reelected in 2011 and again in 2015. In 2016, James MICHEL resigned and handed over the presidency to his vice-president, Danny FAURE.  
-
----
-country: Seychelles
-author: CIA
-source: <https://www.cia.gov/the-world-factbook/countries/Seychelles/>
-license: public domain (U.S.)
-...

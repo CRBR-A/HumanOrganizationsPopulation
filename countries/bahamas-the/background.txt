@@ -1,8 +1,0 @@
-Lucayan Indians inhabited the islands when Christopher COLUMBUS first set foot in the New World on San Salvador in 1492. British settlement of the islands began in 1647; the islands became a colony in 1783. Piracy thrived in the 17th and 18th centuries because of The Bahamas close proximity to shipping lanes. Since attaining independence from the UK in 1973, The Bahamas has prospered through tourism, international banking, and investment management, which comprise up to 85% of GDP. Because of its proximity to the US - the nearest Bahamian landmass being only 80 km (50 mi) from Florida - the country is a major transshipment point for illicit trafficking, particularly to the US mainland, as well as Europe. US law enforcement agencies cooperate closely with The Bahamas, and the US Coast Guard assists Bahamian authorities in coastal defense through Operation Bahamas, Turks and Caicos, or OPBAT.  
-
----
-country: Bahamas, The
-author: CIA
-source: <https://www.cia.gov/the-world-factbook/countries/Bahamas, The/>
-license: public domain (U.S.)
-...

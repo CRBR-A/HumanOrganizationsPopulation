@@ -1,8 +1,0 @@
-Mayotte was ceded to France along with the other islands of the Comoros group in 1843. It was the only island in the archipelago that voted in 1974 to retain its link with France and forego independence. In March 2009, Mayotte voted overwhelmingly to become France's 101st department - and fifth overseas department - a change scheduled to become official in 2011.  
-
----
-country: Mayotte
-author: CIA
-source: <https://www.cia.gov/the-world-factbook/countries/Mayotte/>
-license: public domain (U.S.)
-...

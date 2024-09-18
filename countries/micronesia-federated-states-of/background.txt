@@ -1,9 +1,0 @@
-The Caroline Islands are a widely scattered archipelago in the western Pacific Ocean; they became part of a UN Trust Territory under US administration following World War II. The eastern four island groups adopted a constitution in 1979 and chose to become the Federated States of Micronesia (FSM). (The westernmost island group became Palau.) Independence came in 1986 under a Compact of Free Association (COFA) with the US, which was amended in 2004. The COFA has been a force for stability and democracy in the FSM since it came into force in 1986. Present concerns include economic uncertainty after 2023 when direct US economic assistance is scheduled to end, large-scale unemployment, overfishing, overdependence on US foreign aid, and state perceptions of inequitable allocation of US aid.  
-As a signatory to the COFA with the US, eligible Micronesians can live, work, and study in any part of the US and its territories without a visa - this privilege reduces stresses on the island economy and the environment. Micronesians serve in the US armed forces and military recruiting from the Federated States of Micronesia, per capita, is higher than many US states.  
-
----
-country: Micronesia, Federated States of
-author: CIA
-source: <https://www.cia.gov/the-world-factbook/countries/Micronesia, Federated States of/>
-license: public domain (U.S.)
-...

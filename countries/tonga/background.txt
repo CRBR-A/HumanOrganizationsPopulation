@@ -1,8 +1,0 @@
-Tonga - unique among Pacific nations - never completely lost its indigenous governance. The archipelagos of "The Friendly Islands" were united into a Polynesian kingdom in 1845. Tonga became a constitutional monarchy in 1875 and a British protectorate in 1900; it withdrew from the protectorate and joined the Commonwealth of Nations in 1970. Tonga remains the only monarchy in the Pacific; in 2008, King George TUPOU V announced he was relinquishing most of his powers leading up to parliamentary elections in 2010. TUPOU died in 2012 and was succeeded by his brother 'Aho'eitu TUPOU VI. Tropical Cyclone Gita, the strongest-ever recorded storm to impact Tonga, hit the islands in February 2018 causing extensive damage.  
-
----
-country: Tonga
-author: CIA
-source: <https://www.cia.gov/the-world-factbook/countries/Tonga/>
-license: public domain (U.S.)
-...

@@ -1,8 +1,0 @@
-British influence in Uganda began in the 1860s with explorers seeking the source of the Nile and expanded in subsequent decades with various trade agreements and the establishment of the Uganda Protectorate in 1894. The colonial boundaries created by Britain to delimit Uganda grouped together a wide range of ethnic groups with different political systems and cultures. These differences complicated the establishment of a working political community after independence was achieved in 1962. The dictatorial regime of Idi AMIN (1971-79) was responsible for the deaths of some 300,000 opponents; guerrilla war and human rights abuses under Milton OBOTE (1980-85) claimed at least another 100,000 lives. The rule of Yoweri MUSEVENI since 1986 has brought relative stability and economic growth to Uganda. In December 2017, parliament approved the removal of presidential age limits, thereby making it possible for MUSEVENI to continue standing for office. Uganda faces numerous challenges, however, that could affect future stability, including explosive population growth, power and infrastructure constraints, corruption, underdeveloped democratic institutions, and human rights deficits.  
-
----
-country: Uganda
-author: CIA
-source: <https://www.cia.gov/the-world-factbook/countries/Uganda/>
-license: public domain (U.S.)
-...

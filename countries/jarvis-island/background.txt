@@ -1,8 +1,0 @@
-First discovered by the British in 1821, the uninhabited island was annexed by the US in 1858 but abandoned in 1879 after tons of guano deposits had been removed for use in producing fertilizer. The UK annexed the island in 1889 but never carried out plans for further exploitation. The US occupied and reclaimed the island in 1935. Abandoned after World War II, the island is currently a National Wildlife Refuge administered by the US Department of the Interior.  
-
----
-country: Jarvis Island
-author: CIA
-source: <https://www.cia.gov/the-world-factbook/countries/Jarvis Island/>
-license: public domain (U.S.)
-...

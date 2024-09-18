@@ -1,8 +1,0 @@
-Geographically the third smallest state in Europe (after the Holy See and Monaco), San Marino also claims to be the world's oldest republic. According to tradition, it was founded by a Christian stonemason named MARINUS in A.D. 301. San Marino's foreign policy is aligned with that of the EU, although it is not a member; social and political trends in the republic track closely with those of its larger neighbor, Italy.  
-
----
-country: San Marino
-author: CIA
-source: <https://www.cia.gov/the-world-factbook/countries/San Marino/>
-license: public domain (U.S.)
-...

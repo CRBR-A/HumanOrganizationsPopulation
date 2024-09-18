@@ -1,8 +1,0 @@
-Originally a Dutch colony in the 17th century, by 1815 Guyana had become a British possession. The abolition of slavery led to settlement of urban areas by former slaves and the importation of indentured servants from India to work the sugar plantations. The resulting ethnocultural divide has persisted and has led to turbulent politics. Guyana achieved independence from the UK in 1966, and since then it has been ruled mostly by socialist-oriented governments. In 1992, Cheddi JAGAN was elected president in what is considered the country's first free and fair election since independence. After his death five years later, his wife, Janet JAGAN, became president but resigned in 1999 due to poor health. Her successor, Bharrat JAGDEO, was elected in 2001 and again in 2006. Early elections held in May 2015 resulted in the first change in governing party and the replacement of President Donald RAMOTAR by current President David GRANGER. After a December 2018 no-confidence vote against the GRANGER government, national elections will be held before the scheduled spring 2020 date.  
-
----
-country: Guyana
-author: CIA
-source: <https://www.cia.gov/the-world-factbook/countries/Guyana/>
-license: public domain (U.S.)
-...

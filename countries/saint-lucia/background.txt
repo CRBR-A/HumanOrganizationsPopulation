@@ -1,8 +1,0 @@
-The island, with its fine natural harbor at Castries and burgeoning sugar industry, was contested between England and France throughout the 17th and early 18th centuries (changing possession 14 times); it was finally ceded to the UK in 1814 and became part of the British Windward Islands colony. Even after the abolition of slavery on its plantations in 1834, Saint Lucia remained an agricultural island, dedicated to producing tropical commodity crops. In the mid-20th century, Saint Lucia joined the West Indies Federation (1958â€“1962) and in 1967 became one of the six members of the West Indies Associated States, with internal self-government. In 1979, Saint Lucia gained full independence.  
-
----
-country: Saint Lucia
-author: CIA
-source: <https://www.cia.gov/the-world-factbook/countries/Saint Lucia/>
-license: public domain (U.S.)
-...

@@ -1,8 +1,0 @@
-A French possession since 1892, the Glorioso Islands are composed of two lushly vegetated coral islands (Ile Glorieuse and Ile du Lys) and three rock islets. A military garrison operates a weather and radio station on Ile Glorieuse.  
-
----
-country: Glorioso Islands
-author: CIA
-source: <https://www.cia.gov/the-world-factbook/countries/Glorioso Islands/>
-license: public domain (U.S.)
-...

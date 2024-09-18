@@ -1,8 +1,0 @@
-A French possession since 1897, the island is heavily wooded; it is the site of a small military garrison that staffs a weather station.  
-
----
-country: Europa Island
-author: CIA
-source: <https://www.cia.gov/the-world-factbook/countries/Europa Island/>
-license: public domain (U.S.)
-...

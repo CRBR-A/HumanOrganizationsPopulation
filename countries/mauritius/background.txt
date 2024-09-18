@@ -1,8 +1,0 @@
-Although known to Arab and Malay sailors as early as the 10th century, the uninhabited island of Mauritius was first explored by the Portuguese in the 16th century and subsequently settled by the Dutch - who named it in honor of Prince Maurits van NASSAU - in the 17th century. The French assumed control in 1715, developing the island into an important naval base overseeing Indian Ocean trade, and establishing a plantation economy of sugar cane. The British captured the island in 1810, during the Napoleonic Wars. Mauritius remained a strategically important British naval base, and later an air station, playing an important role during World War II for anti-submarine and convoy operations, as well as the collection of signals intelligence. Independence from the UK was attained in 1968. A stable democracy with regular free elections and a positive human rights record, the country has attracted considerable foreign investment and has one of Africa's highest per capita incomes. Mauritius claims the French island of Tromelin and the British Chagos Archipelago (British Indian Ocean Territory).  
-
----
-country: Mauritius
-author: CIA
-source: <https://www.cia.gov/the-world-factbook/countries/Mauritius/>
-license: public domain (U.S.)
-...
