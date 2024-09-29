@@ -1,0 +1,49 @@
+| People | Namibia |
+| --- | --- |
+| Population: | 2,128,471 |
+| Population: | note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2010 est.) |
+| Age structure: | 0-14 years: 35.9% (male 381,904/female 375,059) |
+| Age structure: | 15-64 years: 60.2% (male 641,995/female 627,146) |
+| Age structure: | 65 years and over: 3.9% (male 36,894/female 45,667) (2010 est.) |
+| Median age: | total: 21.4 years |
+| Median age: | male: 21.3 years |
+| Median age: | female: 21.4 years (2010 est.) |
+| Population growth rate: | 0.909% (2010 est.) |
+| Birth rate: | 21.82 births/1,000 population (2010 est.) |
+| Death rate: | 12.97 deaths/1,000 population (July 2010 est.) |
+| Net migration rate: | 0.25 migrant(s)/1,000 population (2010 est.) |
+| Urbanization: | urban population: 37% of total population (2008) |
+| Urbanization: | rate of urbanization: 2.9% annual rate of change (2005-10 est.) |
+| Sex ratio: | at birth: 1.03 male(s)/female |
+| Sex ratio: | under 15 years: 1.02 male(s)/female |
+| Sex ratio: | 15-64 years: 1.03 male(s)/female |
+| Sex ratio: | 65 years and over: 0.8 male(s)/female |
+| Sex ratio: | total population: 1.01 male(s)/female (2010 est.) |
+| Infant mortality rate: | total: 45.52 deaths/1,000 live births |
+| Infant mortality rate: | male: 48.89 deaths/1,000 live births |
+| Infant mortality rate: | female: 42.05 deaths/1,000 live births (2010 est.) |
+| Life expectancy at birth: | total population: 51.95 years |
+| Life expectancy at birth: | male: 52.25 years |
+| Life expectancy at birth: | female: 51.64 years (2010 est.) |
+| Total fertility rate: | 2.57 children born/woman (2010 est.) |
+| HIV/AIDS - adult prevalence rate: | 15.3% (2007 est.) |
+| HIV/AIDS - people living with HIV/AIDS: | 200,000 (2007 est.) |
+| HIV/AIDS - deaths: | 5,100 (2007 est.) |
+| Major infectious diseases: | degree of risk: high |
+| Major infectious diseases: | food or waterborne diseases: bacterial diarrhea, hepatitis A, and typhoid fever |
+| Major infectious diseases: | vectorborne disease: malaria |
+| Major infectious diseases: | water contact disease: schistosomiasis (2009) |
+| Nationality: | noun: Namibian(s) |
+| Nationality: | adjective: Namibian |
+| Ethnic groups: | black 87.5%, white 6%, mixed 6.5% |
+| Ethnic groups: | note: about 50% of the population belong to the Ovambo tribe and 9% to the Kavangos tribe; other ethnic groups include Herero 7%, Damara 7%, Nama 5%, Caprivian 4%, Bushmen 3%, Baster 2%, Tswana 0.5% |
+| Religions: | Christian 80% to 90% (Lutheran 50% at least), indigenous beliefs 10% to 20% |
+| Languages: | English 7% (official), Afrikaans common language of most of the population and about 60% of the white population, German 32%, indigenous languages 1% (includes Oshivambo, Herero, Nama) |
+| Literacy: | definition: age 15 and over can read and write |
+| Literacy: | total population: 85% |
+| Literacy: | male: 86.8% |
+| Literacy: | female: 83.5% (2001 census) |
+| School life expectancy (primary to tertiary education): | total: 12 years |
+| School life expectancy (primary to tertiary education): | male: 12 years |
+| School life expectancy (primary to tertiary education): | female: 12 years (2008) |
+| Education expenditures: | 6.9% of GDP (2008) |

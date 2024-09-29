@@ -1,0 +1,44 @@
+| People | Cameroon |
+| --- | --- |
+| Population: | 18,060,382 |
+| Population: | note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2007 est.) |
+| Age structure: | 0-14 years: 41.3% (male 3,763,332/female 3,695,053) |
+| Age structure: | 15-64 years: 55.5% (male 5,029,658/female 4,994,786) |
+| Age structure: | 65 years and over: 3.2% (male 266,616/female 310,937) (2007 est.) |
+| Median age: | total: 18.9 years |
+| Median age: | male: 18.7 years |
+| Median age: | female: 19 years (2007 est.) |
+| Population growth rate: | 2.241% (2007 est.) |
+| Birth rate: | 35.07 births/1,000 population (2007 est.) |
+| Death rate: | 12.66 deaths/1,000 population (2007 est.) |
+| Net migration rate: | 0 migrant(s)/1,000 population (2007 est.) |
+| Sex ratio: | at birth: 1.03 male(s)/female |
+| Sex ratio: | under 15 years: 1.018 male(s)/female |
+| Sex ratio: | 15-64 years: 1.007 male(s)/female |
+| Sex ratio: | 65 years and over: 0.857 male(s)/female |
+| Sex ratio: | total population: 1.007 male(s)/female (2007 est.) |
+| Infant mortality rate: | total: 65.84 deaths/1,000 live births |
+| Infant mortality rate: | male: 70.73 deaths/1,000 live births |
+| Infant mortality rate: | female: 60.79 deaths/1,000 live births (2007 est.) |
+| Life expectancy at birth: | total population: 52.86 years |
+| Life expectancy at birth: | male: 52.15 years |
+| Life expectancy at birth: | female: 53.59 years (2007 est.) |
+| Total fertility rate: | 4.49 children born/woman (2007 est.) |
+| HIV/AIDS - adult prevalence rate: | 6.9% (2003 est.) |
+| HIV/AIDS - people living with HIV/AIDS: | 560,000 (2003 est.) |
+| HIV/AIDS - deaths: | 49,000 (2003 est.) |
+| Major infectious diseases: | degree of risk: very high |
+| Major infectious diseases: | food or waterborne diseases: bacterial diarrhea, hepatitis A, and typhoid fever |
+| Major infectious diseases: | vectorborne diseases: malaria and yellow fever are high risks in some locations |
+| Major infectious diseases: | water contact disease: schistosomiasis |
+| Major infectious diseases: | respiratory disease: meningococcal meningitis |
+| Major infectious diseases: | note: highly pathogenic H5N1 avian influenza has been identified among birds in this country or surrounding region; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2007) |
+| Nationality: | noun: Cameroonian(s) |
+| Nationality: | adjective: Cameroonian |
+| Ethnic groups: | Cameroon Highlanders 31%, Equatorial Bantu 19%, Kirdi 11%, Fulani 10%, Northwestern Bantu 8%, Eastern Nigritic 7%, other African 13%, non-African less than 1% |
+| Religions: | indigenous beliefs 40%, Christian 40%, Muslim 20% |
+| Languages: | 24 major African language groups, English (official), French (official) |
+| Literacy: | definition: age 15 and over can read and write |
+| Literacy: | total population: 67.9% |
+| Literacy: | male: 77% |
+| Literacy: | female: 59.8% (2001 est.) |

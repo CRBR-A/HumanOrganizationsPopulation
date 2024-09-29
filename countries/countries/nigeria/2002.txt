@@ -1,0 +1,33 @@
+| People | Nigeria |
+| --- | --- |
+| Population: | 129,934,911 |
+| Population: | note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2002 est.) |
+| Age structure: | 0-14 years: 43.6% (male 28,503,211; female 28,156,976) |
+| Age structure: | 15-64 years: 53.6% (male 35,418,119; female 34,179,802) |
+| Age structure: | 65 years and over: 2.8% (male 1,832,682; female 1,844,121) (2002 est.) |
+| Population growth rate: | 2.54% (2002 est.) |
+| Birth rate: | 39.22 births/1,000 population (2002 est.) |
+| Death rate: | 14.1 deaths/1,000 population (2002 est.) |
+| Net migration rate: | 0.27 migrant(s)/1,000 population (2002 est.) |
+| Sex ratio: | at birth: 1.03 male(s)/female |
+| Sex ratio: | under 15 years: 1.01 male(s)/female |
+| Sex ratio: | 15-64 years: 1.04 male(s)/female |
+| Sex ratio: | 65 years and over: 0.99 male(s)/female |
+| Sex ratio: | total population: 1.03 male(s)/female (2002 est.) |
+| Infant mortality rate: | 72.49 deaths/1,000 live births (2002 est.) |
+| Life expectancy at birth: | total population: 50.59 years |
+| Life expectancy at birth: | female: 50.6 years (2002 est.) |
+| Life expectancy at birth: | male: 50.58 years |
+| Total fertility rate: | 5.49 children born/woman (2002 est.) |
+| HIV/AIDS - adult prevalence rate: | 5.06% (1999 est.) |
+| HIV/AIDS - people living with HIV/AIDS: | 2.7 million (1999 est.) |
+| HIV/AIDS - deaths: | 250,000 (1999 est.) |
+| Nationality: | noun: Nigerian(s) |
+| Nationality: | adjective: Nigerian |
+| Ethnic groups: | Nigeria, which is Africa's most populous country, is composed of more than 250 ethnic groups; the following are the most populous and politically influential: Hausa and Fulani 29%, Yoruba 21%, Igbo (Ibo) 18%, Ijaw 10%, Kanuri 4%, Ibibio 3.5%, Tiv 2.5% |
+| Religions: | Muslim 50%, Christian 40%, indigenous beliefs 10% |
+| Languages: | English (official), Hausa, Yoruba, Igbo (Ibo), Fulani |
+| Literacy: | definition: age 15 and over can read and write |
+| Literacy: | total population: 57.1% |
+| Literacy: | male: 67.3% |
+| Literacy: | female: 47.3% (1995 est.) |

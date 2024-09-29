@@ -1,0 +1,31 @@
+| People |   |
+| --- | --- |
+| Population: | 15,980,950 |
+| note: | estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2000 est.) |
+| Age structure: | 0-14 years: 46.45% (male 3,726,388; female 3,696,462) |
+| Age structure: | 15-64 years: 51.36% (male 4,222,333; female 3,985,249) |
+| Age structure: | 65 years and over: 2.19% (male 175,606; female 174,912) (2000 est.) |
+| Population growth rate: | 2.58% (2000 est.) |
+| Birth rate: | 40.78 births/1,000 population (2000 est.) |
+| Death rate: | 16.57 deaths/1,000 population (2000 est.) |
+| Net migration rate: | 1.6 migrant(s)/1,000 population (2000 est.) |
+| note: | after Liberia's civil war started in 1990, more than 350,000 refugees fled to Cote d'Ivoire; by the end of 1999 all Liberian refugees were assumed to have returned; the 2000 rate reflects labor in migration |
+| Sex ratio: | at birth: 1.03 male(s)/female |
+| Sex ratio: | under 15 years: 1.01 male(s)/female |
+| Sex ratio: | 15-64 years: 1.06 male(s)/female |
+| Sex ratio: | 65 years and over: 1 male(s)/female |
+| Sex ratio: | total population: 1.03 male(s)/female (2000 est.) |
+| Infant mortality rate: | 95.06 deaths/1,000 live births (2000 est.) |
+| Life expectancy at birth: | total population: 45.15 years |
+| Life expectancy at birth: | male: 43.72 years |
+| Life expectancy at birth: | female: 46.63 years (2000 est.) |
+| Total fertility rate: | 5.8 children born/woman (2000 est.) |
+| Nationality: | noun: Ivorian(s) |
+| Nationality: | adjective: Ivorian |
+| Ethnic groups: | Baoule 23%, Bete 18%, Senoufou 15%, Malinke 11%, Agni, Africans from other countries (mostly Burkinabe and Malians, about 3 million), non-Africans 130,000 to 330,000 (French 30,000 and Lebanese 100,000 to 300,000) |
+| Religions: | Muslim 60%, Christian 22%, indigenous 18% (some of these are also numbered among the Christians and Muslims) |
+| Languages: | French (official), 60 native dialects with Dioula the most widely spoken |
+| Literacy: | definition: age 15 and over can read and write |
+| Literacy: | total population: 48.5% |
+| Literacy: | male: 57% |
+| Literacy: | female: 40% |

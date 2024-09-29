@@ -1,0 +1,36 @@
+| People | World |
+| --- | --- |
+| Population: | 6,525,170,264 (July 2006 est.) |
+| Age structure: | 0-14 years: 27.4% (male 919,219,446/female 870,242,271) |
+| Age structure: | 15-64 years: 65.2% (male 2,152,066,888/female 2,100,334,722) |
+| Age structure: | 65 years and over: 7.4% (male 213,160,216/female 270,146,721) |
+| Age structure: | note: some countries do not maintain age structure information, thus a slight discrepancy exists between the total world population and the total for world age structure (2006 est.) |
+| Median age: | total: 27.6 years |
+| Median age: | male: 27 years |
+| Median age: | female: 28.2 years (2006 est.) |
+| Population growth rate: | 1.14% (2006 est.) |
+| Birth rate: | 20.05 births/1,000 population (2006 est.) |
+| Death rate: | 8.67 deaths/1,000 population (2006 est.) |
+| Sex ratio: | at birth: 1.06 male(s)/female |
+| Sex ratio: | under 15 years: 1.06 male(s)/female |
+| Sex ratio: | 15-64 years: 1.03 male(s)/female |
+| Sex ratio: | 65 years and over: 0.79 male(s)/female |
+| Sex ratio: | total population: 1.01 male(s)/female (2006 est.) |
+| Infant mortality rate: | total: 48.87 deaths/1,000 live births |
+| Infant mortality rate: | male: 50.98 deaths/1,000 live births |
+| Infant mortality rate: | female: 46.65 deaths/1,000 live births (2006 est.) |
+| Life expectancy at birth: | total population: 64.77 years |
+| Life expectancy at birth: | male: 63.16 years |
+| Life expectancy at birth: | female: 66.47 years (2006 est.) |
+| Total fertility rate: | 2.59 children born/woman (2006 est.) |
+| HIV/AIDS - adult prevalence rate: | NA |
+| HIV/AIDS - people living with HIV/AIDS: | NA |
+| HIV/AIDS - deaths: | NA |
+| Religions: | Christians 33.03% (of which Roman Catholics 17.33%, Protestants 5.8%, Orthodox 3.42%, Anglicans 1.23%), Muslims 20.12%, Hindus 13.34%, Buddhists 5.89%, Sikhs 0.39%, Jews 0.23%, other religions 12.61%, non-religious 12.03%, atheists 2.36% (2004 est.) |
+| Languages: | Mandarin Chinese 13.69%, Spanish 5.05%, English 4.84%, Hindi 2.82%, Portuguese 2.77%, Bengali 2.68%, Russian 2.27%, Japanese 1.99%, Standard German 1.49%, Wu Chinese 1.21% (2004 est.) |
+| Languages: | note: percents are for "first language" speakers only |
+| Literacy: | definition: age 15 and over can read and write |
+| Literacy: | total population: 82% |
+| Literacy: | male: 87% |
+| Literacy: | female: 77% |
+| Literacy: | note: over two-thirds of the world's 785 million illiterate adults are found in only eight countries (India, China, Bangladesh, Pakistan, Nigeria, Ethiopia, Indonesia, and Egypt); of all the illiterate adults in the world, two-thirds are women; extremely low literacy rates are concentrated in three regions, South and West Asia, Sub-Saharan Africa, and the Arab states, where around one-third of the men and half of all women are illiterate (2005 est.) |

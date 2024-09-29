@@ -1,0 +1,30 @@
+| People |   |
+| --- | --- |
+| Population: | 2,143,141 |
+| note: | estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2000 est.) |
+| Age structure: | 0-14 years: 40% (male 426,556; female 421,563) |
+| Age structure: | 15-64 years: 56% (male 575,580; female 619,280) |
+| Age structure: | 65 years and over: 4% (male 42,274; female 57,888) (2000 est.) |
+| Population growth rate: | 1.65% (2000 est.) |
+| Birth rate: | 31.74 births/1,000 population (2000 est.) |
+| Death rate: | 14.59 deaths/1,000 population (2000 est.) |
+| Net migration rate: | -0.64 migrant(s)/1,000 population (2000 est.) |
+| Sex ratio: | at birth: 1.03 male(s)/female |
+| Sex ratio: | under 15 years: 1.01 male(s)/female |
+| Sex ratio: | 15-64 years: 0.93 male(s)/female |
+| Sex ratio: | 65 years and over: 0.73 male(s)/female |
+| Sex ratio: | total population: 0.95 male(s)/female (2000 est.) |
+| Infant mortality rate: | 82.97 deaths/1,000 live births (2000 est.) |
+| Life expectancy at birth: | total population: 50.79 years |
+| Life expectancy at birth: | male: 49.78 years |
+| Life expectancy at birth: | female: 51.84 years (2000 est.) |
+| Total fertility rate: | 4.15 children born/woman (2000 est.) |
+| Nationality: | noun: Mosotho (singular), Basotho (plural) |
+| Nationality: | adjective: Basotho |
+| Ethnic groups: | Sotho 99.7%, Europeans, Asians, and other 0.3%, |
+| Religions: | Christian 80%, indigenous beliefs 20% |
+| Languages: | Sesotho (southern Sotho), English (official), Zulu, Xhosa |
+| Literacy: | definition: age 15 and over can read and write |
+| Literacy: | total population: 71.3% |
+| Literacy: | male: 81.1% |
+| Literacy: | female: 62.3% (1995 est.) |

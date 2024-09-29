@@ -1,0 +1,30 @@
+| People |   |
+| --- | --- |
+| Population: | 11,946,065 |
+| note: | estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2000 est.) |
+| Age structure: | 0-14 years: 48% (male 2,866,361; female 2,822,990) |
+| Age structure: | 15-64 years: 49% (male 2,808,797; female 3,097,048) |
+| Age structure: | 65 years and over: 3% (male 149,474; female 201,395) (2000 est.) |
+| Population growth rate: | 2.71% (2000 est.) |
+| Birth rate: | 45.26 births/1,000 population (2000 est.) |
+| Death rate: | 17.04 deaths/1,000 population (2000 est.) |
+| Net migration rate: | -1.1 migrant(s)/1,000 population (2000 est.) |
+| Sex ratio: | at birth: 1.03 male(s)/female |
+| Sex ratio: | under 15 years: 1.02 male(s)/female |
+| Sex ratio: | 15-64 years: 0.91 male(s)/female |
+| Sex ratio: | 65 years and over: 0.74 male(s)/female |
+| Sex ratio: | total population: 0.95 male(s)/female (2000 est.) |
+| Infant mortality rate: | 108.53 deaths/1,000 live births (2000 est.) |
+| Life expectancy at birth: | total population: 46.73 years |
+| Life expectancy at birth: | male: 46.29 years |
+| Life expectancy at birth: | female: 47.18 years (2000 est.) |
+| Total fertility rate: | 6.44 children born/woman (2000 est.) |
+| Nationality: | noun: Burkinabe (singular and plural) |
+| Nationality: | adjective: Burkinabe |
+| Ethnic groups: | Mossi over 40%, Gurunsi, Senufo, Lobi, Bobo, Mande, Fulani |
+| Religions: | indigenous beliefs 40%, Muslim 50%, Christian (mainly Roman Catholic) 10% |
+| Languages: | French (official), native African languages belonging to Sudanic family spoken by 90% of the population |
+| Literacy: | definition: age 15 and over can read and write |
+| Literacy: | total population: 19.2% |
+| Literacy: | male: 29.5% |
+| Literacy: | female: 9.2% (1995 est.) |

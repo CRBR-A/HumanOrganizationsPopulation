@@ -1,0 +1,33 @@
+| People | Cameroon |
+| --- | --- |
+| Population: | 16,184,748 |
+| Population: | note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2002 est.) |
+| Age structure: | 0-14 years: 42.1% (male 3,443,505; female 3,367,571) |
+| Age structure: | 15-64 years: 54.5% (male 4,431,524; female 4,392,155) |
+| Age structure: | 65 years and over: 3.4% (male 253,242; female 296,751) (2002 est.) |
+| Population growth rate: | 2.36% (2002 est.) |
+| Birth rate: | 35.66 births/1,000 population (2002 est.) |
+| Death rate: | 12.08 deaths/1,000 population (2002 est.) |
+| Net migration rate: | NA migrant(s)/1,000 population (2002 est.) |
+| Sex ratio: | at birth: 1.03 male(s)/female |
+| Sex ratio: | under 15 years: 1.02 male(s)/female |
+| Sex ratio: | 15-64 years: 1.01 male(s)/female |
+| Sex ratio: | 65 years and over: 0.85 male(s)/female |
+| Sex ratio: | total population: 1.01 male(s)/female (2002 est.) |
+| Infant mortality rate: | 68.79 deaths/1,000 live births (2002 est.) |
+| Life expectancy at birth: | total population: 54.36 years |
+| Life expectancy at birth: | female: 55.23 years (2002 est.) |
+| Life expectancy at birth: | male: 53.51 years |
+| Total fertility rate: | 4.72 children born/woman (2002 est.) |
+| HIV/AIDS - adult prevalence rate: | 7.73% (1999 est.) |
+| HIV/AIDS - people living with HIV/AIDS: | 540,000 (1999 est.) |
+| HIV/AIDS - deaths: | 52,000 (1999 est.) |
+| Nationality: | noun: Cameroonian(s) |
+| Nationality: | adjective: Cameroonian |
+| Ethnic groups: | Cameroon Highlanders 31%, Equatorial Bantu 19%, Kirdi 11%, Fulani 10%, Northwestern Bantu 8%, Eastern Nigritic 7%, other African 13%, non-African less than 1% |
+| Religions: | indigenous beliefs 40%, Christian 40%, Muslim 20% |
+| Languages: | 24 major African language groups, English (official), French (official) |
+| Literacy: | definition: age 15 and over can read and write |
+| Literacy: | total population: 63.4% |
+| Literacy: | male: 75% |
+| Literacy: | female: 52.1% (1995 est.) |

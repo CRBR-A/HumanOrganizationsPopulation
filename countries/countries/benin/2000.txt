@@ -1,0 +1,30 @@
+| People |   |
+| --- | --- |
+| Population: | 6,395,919 |
+| note: | estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2000 est.) |
+| Age structure: | 0-14 years: 47% (male 1,531,636; female 1,503,552) |
+| Age structure: | 15-64 years: 50% (male 1,551,867; female 1,660,845) |
+| Age structure: | 65 years and over: 3% (male 63,717; female 84,302) (2000 est.) |
+| Population growth rate: | 3.03% (2000 est.) |
+| Birth rate: | 44.81 births/1,000 population (2000 est.) |
+| Death rate: | 14.51 deaths/1,000 population (2000 est.) |
+| Net migration rate: | 0 migrant(s)/1,000 population (2000 est.) |
+| Sex ratio: | at birth: 1.03 male(s)/female |
+| Sex ratio: | under 15 years: 1.02 male(s)/female |
+| Sex ratio: | 15-64 years: 0.93 male(s)/female |
+| Sex ratio: | 65 years and over: 0.76 male(s)/female |
+| Sex ratio: | total population: 0.97 male(s)/female (2000 est.) |
+| Infant mortality rate: | 90.84 deaths/1,000 live births (2000 est.) |
+| Life expectancy at birth: | total population: 50.18 years |
+| Life expectancy at birth: | male: 49.24 years |
+| Life expectancy at birth: | female: 51.16 years (2000 est.) |
+| Total fertility rate: | 6.32 children born/woman (2000 est.) |
+| Nationality: | noun: Beninese (singular and plural) |
+| Nationality: | adjective: Beninese |
+| Ethnic groups: | African 99% (42 ethnic groups, most important being Fon, Adja, Yoruba, Bariba), Europeans 5,500 |
+| Religions: | indigenous beliefs 70%, Muslim 15%, Christian 15% |
+| Languages: | French (official), Fon and Yoruba (most common vernaculars in south), tribal languages (at least six major ones in north) |
+| Literacy: | definition: age 15 and over can read and write |
+| Literacy: | total population: 37% |
+| Literacy: | male: 48.7% |
+| Literacy: | female: 25.8% (1995 est.) |

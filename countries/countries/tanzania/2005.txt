@@ -1,0 +1,43 @@
+| People | Tanzania |
+| --- | --- |
+| Population: | 36,766,356 |
+| Population: | note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2005 est.) |
+| Age structure: | 0-14 years: 44% (male 8,100,216/female 8,074,171) |
+| Age structure: | 15-64 years: 53.4% (male 9,665,957/female 9,963,772) |
+| Age structure: | 65 years and over: 2.6% (male 418,080/female 544,160) (2005 est.) |
+| Median age: | total: 17.62 years |
+| Median age: | male: 17.36 years |
+| Median age: | female: 17.89 years (2005 est.) |
+| Population growth rate: | 1.83% (2005 est.) |
+| Birth rate: | 38.16 births/1,000 population (2005 est.) |
+| Death rate: | 16.71 deaths/1,000 population (2005 est.) |
+| Net migration rate: | -3.11 migrant(s)/1,000 population (2005 est.) |
+| Sex ratio: | at birth: 1.03 male(s)/female |
+| Sex ratio: | under 15 years: 1 male(s)/female |
+| Sex ratio: | 15-64 years: 0.97 male(s)/female |
+| Sex ratio: | 65 years and over: 0.77 male(s)/female |
+| Sex ratio: | total population: 0.98 male(s)/female (2005 est.) |
+| Infant mortality rate: | total: 98.54 deaths/1,000 live births |
+| Infant mortality rate: | male: 107.85 deaths/1,000 live births |
+| Infant mortality rate: | female: 88.95 deaths/1,000 live births (2005 est.) |
+| Life expectancy at birth: | total population: 45.24 years |
+| Life expectancy at birth: | male: 44.56 years |
+| Life expectancy at birth: | female: 45.94 years (2005 est.) |
+| Total fertility rate: | 5.06 children born/woman (2005 est.) |
+| HIV/AIDS - adult prevalence rate: | 8.8% (2003 est.) |
+| HIV/AIDS - people living with HIV/AIDS: | 1.6 million (2003 est.) |
+| HIV/AIDS - deaths: | 160,000 (2003 est.) |
+| Major infectious diseases: | degree of risk: very high |
+| Major infectious diseases: | food or waterborne diseases: bacterial diarrhea, hepatitis A, and typhoid fever |
+| Major infectious diseases: | vectorborne diseases: malaria, Rift Valley fever and plague are high risks in some locations |
+| Major infectious diseases: | water contact disease: schistosomiasis (2004) |
+| Nationality: | noun: Tanzanian(s) |
+| Nationality: | adjective: Tanzanian |
+| Ethnic groups: | mainland - native African 99% (of which 95% are Bantu consisting of more than 130 tribes), other 1% (consisting of Asian, European, and Arab); Zanzibar - Arab, native African, mixed Arab and native African |
+| Religions: | mainland - Christian 30%, Muslim 35%, indigenous beliefs 35%; Zanzibar - more than 99% Muslim |
+| Languages: | Kiswahili or Swahili (official), Kiunguja (name for Swahili in Zanzibar), English (official, primary language of commerce, administration, and higher education), Arabic (widely spoken in Zanzibar), many local languages |
+| Languages: | note: Kiswahili (Swahili) is the mother tongue of the Bantu people living in Zanzibar and nearby coastal Tanzania; although Kiswahili is Bantu in structure and origin, its vocabulary draws on a variety of sources, including Arabic and English, and it has become the lingua franca of central and eastern Africa; the first language of most people is one of the local languages |
+| Literacy: | definition: age 15 and over can read and write Kiswahili (Swahili), English, or Arabic |
+| Literacy: | total population: 78.2% |
+| Literacy: | male: 85.9% |
+| Literacy: | female: 70.7% (2003 est.) |

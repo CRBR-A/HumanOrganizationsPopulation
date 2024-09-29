@@ -1,0 +1,32 @@
+| People | World |
+| --- | --- |
+| Population: | 6,379,157,361 (July 2004 est.) |
+| Age structure: | 0-14 years: 28.2% (male 925,276,767; female 875,567,830) |
+| Age structure: | 15-64 years: 64.5% (male 2,083,789,165; female 2,033,226,759) |
+| Age structure: | 65 years and over: 7.2% (male 203,286,504; female 257,705,851) |
+| Age structure: | note: some countries do not maintain age structure information, thus a slight discrepancy exists between the total world population and the total for world age structure (2004 est.) |
+| Population growth rate: | 1.14% (2004 est.) |
+| Birth rate: | 20.24 births/1,000 population (2004 est.) |
+| Death rate: | 8.86 deaths/1,000 population (2004 est.) |
+| Sex ratio: | at birth: 1.06 male(s)/female |
+| Sex ratio: | under 15 years: 1.06 male(s)/female |
+| Sex ratio: | 15-64 years: 1.03 male(s)/female |
+| Sex ratio: | 65 years and over: 0.79 male(s)/female |
+| Sex ratio: | total population: 1.01 male(s)/female (2004 est.) |
+| Infant mortality rate: | total: 50.31 deaths/1,000 live births |
+| Infant mortality rate: | male: 52.17 deaths/1,000 live births |
+| Infant mortality rate: | female: 48.33 deaths/1,000 live births (2004 est.) |
+| Life expectancy at birth: | total population: 64.05 years |
+| Life expectancy at birth: | male: 62.48 years |
+| Life expectancy at birth: | female: 65.7 years (2004 est.) |
+| Total fertility rate: | 2.62 children born/woman (2004 est.) |
+| HIV/AIDS - adult prevalence rate: | NA |
+| HIV/AIDS - people living with HIV/AIDS: | NA |
+| HIV/AIDS - deaths: | NA |
+| Religions: | Christians 32.71% (of which Roman Catholics 17.28%, Protestants 5.61%, Orthodox 3.49%, Anglicans 1.31%), Muslims 19.67%, Hindus 13.28%, Buddhists 5.84%, Sikhs 0.38%, Jews 0.23%, other religions 13.05%, non-religious 12.43%, atheists 2.41% (2002 est.) |
+| Languages: | Chinese, Mandarin 14.37%, Hindi 6.02%, English 5.61%, Spanish 5.59%, Bengali 3.4%, Portuguese 2.63%, Russian 2.75%, Japanese 2.06%, German, Standard 1.64%, Korean 1.28%, French 1.27% (2000 est.) |
+| Languages: | note: percents are for "first language" speakers only |
+| Literacy: | definition: age 15 and over can read and write |
+| Literacy: | total population: 77% |
+| Literacy: | male: 83% |
+| Literacy: | female: 71% (1995 est.) |

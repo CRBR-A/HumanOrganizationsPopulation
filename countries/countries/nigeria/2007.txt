@@ -1,0 +1,43 @@
+| People | Nigeria |
+| --- | --- |
+| Population: | 135,031,164 |
+| Population: | note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2007 est.) || Age structure:   |-14 years: 42.2% (male 28,726,380/female 28,301,729) |
+| Population: | note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2007 est.) || Age structure:   | 15-64 years: 54.7% (male 37,543,678/female 36,277,038) |
+| Population: | note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2007 est.) || Age structure:   | 65 years and over: 3.1% (male 1,987,521/female 2,194,818) (2007 est.) |
+| Median age: | total: 18.7 years |
+| Median age: | male: 18.8 years |
+| Median age: | female: 18.6 years (2007 est.) |
+| Population growth rate: | 2.379% (2007 est.) |
+| Birth rate: | 40.2 births/1,000 population (2007 est.) |
+| Death rate: | 16.68 deaths/1,000 population (2007 est.) |
+| Net migration rate: | 0.26 migrant(s)/1,000 population (2007 est.) |
+| Sex ratio: | at birth: 1.03 male(s)/female |
+| Sex ratio: | under 15 years: 1.015 male(s)/female |
+| Sex ratio: | 15-64 years: 1.035 male(s)/female |
+| Sex ratio: | 65 years and over: 0.906 male(s)/female |
+| Sex ratio: | total population: 1.022 male(s)/female (2007 est.) |
+| Infant mortality rate: | total: 95.52 deaths/1,000 live births |
+| Infant mortality rate: | male: 102.44 deaths/1,000 live births |
+| Infant mortality rate: | female: 88.38 deaths/1,000 live births (2007 est.) |
+| Life expectancy at birth: | total population: 47.44 years |
+| Life expectancy at birth: | male: 46.83 years |
+| Life expectancy at birth: | female: 48.07 years (2007 est.) |
+| Total fertility rate: | 5.45 children born/woman (2007 est.) |
+| HIV/AIDS - adult prevalence rate: | 5.4% (2003 est.) |
+| HIV/AIDS - people living with HIV/AIDS: | 3.6 million (2003 est.) |
+| HIV/AIDS - deaths: | 310,000 (2003 est.) |
+| Major infectious diseases: | degree of risk: very high |
+| Major infectious diseases: | food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| Major infectious diseases: | vectorborne disease: malaria |
+| Major infectious diseases: | respiratory disease: meningococcal meningitis |
+| Major infectious diseases: | aerosolized dust or soil contact disease: one of the most highly endemic areas for Lassa fever |
+| Major infectious diseases: | note: highly pathogenic H5N1 avian influenza has been identified among birds in this country or surrounding region; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2007) |
+| Nationality: | noun: Nigerian(s) |
+| Nationality: | adjective: Nigerian |
+| Ethnic groups: | Nigeria, Africa's most populous country, is composed of more than 250 ethnic groups; the following are the most populous and politically influential: Hausa and Fulani 29%, Yoruba 21%, Igbo (Ibo) 18%, Ijaw 10%, Kanuri 4%, Ibibio 3.5%, Tiv 2.5% |
+| Religions: | Muslim 50%, Christian 40%, indigenous beliefs 10% |
+| Languages: | English (official), Hausa, Yoruba, Igbo (Ibo), Fulani |
+| Literacy: | definition: age 15 and over can read and write |
+| Literacy: | total population: 68% |
+| Literacy: | male: 75.7% |
+| Literacy: | female: 60.6% (2003 est.) |

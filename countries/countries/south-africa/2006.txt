@@ -1,0 +1,39 @@
+| People | South Africa |
+| --- | --- |
+| Population: | 44,187,637 |
+| Population: | note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2006 est.) |
+| Age structure: | 0-14 years: 29.7% (male 6,603,220/female 6,525,810) |
+| Age structure: | 15-64 years: 65% (male 13,955,950/female 14,766,843) |
+| Age structure: | 65 years and over: 5.3% (male 905,870/female 1,429,944) (2006 est.) |
+| Median age: | total: 24.1 years |
+| Median age: | male: 23.3 years |
+| Median age: | female: 25 years (2006 est.) |
+| Population growth rate: | -0.4% (2006 est.) |
+| Birth rate: | 18.2 births/1,000 population (2006 est.) |
+| Death rate: | 22 deaths/1,000 population (2006 est.) |
+| Net migration rate: | -0.16 migrant(s)/1,000 population |
+| Net migration rate: | note: there is an increasing flow of Zimbabweans into South Africa and Botswana in search of better economic opportunities (2006 est.) |
+| Sex ratio: | at birth: 1.02 male(s)/female |
+| Sex ratio: | under 15 years: 1.01 male(s)/female |
+| Sex ratio: | 15-64 years: 0.95 male(s)/female |
+| Sex ratio: | 65 years and over: 0.63 male(s)/female |
+| Sex ratio: | total population: 0.95 male(s)/female (2006 est.) |
+| Infant mortality rate: | total: 60.66 deaths/1,000 live births |
+| Infant mortality rate: | male: 64.31 deaths/1,000 live births |
+| Infant mortality rate: | female: 56.92 deaths/1,000 live births (2006 est.) |
+| Life expectancy at birth: | total population: 42.73 years |
+| Life expectancy at birth: | male: 43.25 years |
+| Life expectancy at birth: | female: 42.19 years (2006 est.) |
+| Total fertility rate: | 2.2 children born/woman (2006 est.) |
+| HIV/AIDS - adult prevalence rate: | 21.5% (2003 est.) |
+| HIV/AIDS - people living with HIV/AIDS: | 5.3 million (2003 est.) |
+| HIV/AIDS - deaths: | 370,000 (2003 est.) |
+| Nationality: | noun: South African(s) |
+| Nationality: | adjective: South African |
+| Ethnic groups: | black African 79%, white 9.6%, colored 8.9%, Indian/Asian 2.5% (2001 census) |
+| Religions: | Zion Christian 11.1%, Pentecostal/Charismatic 8.2%, Catholic 7.1%, Methodist 6.8%, Dutch Reformed 6.7%, Anglican 3.8%, other Christian 36%, Islam 1.5%, other 2.3%, unspecified 1.4%, none 15.1% (2001 census) |
+| Languages: | IsiZulu 23.8%, IsiXhosa 17.6%, Afrikaans 13.3%, Sepedi 9.4%, English 8.2%, Setswana 8.2%, Sesotho 7.9%, Xitsonga 4.4%, other 7.2% (2001 census) |
+| Literacy: | definition: age 15 and over can read and write |
+| Literacy: | total population: 86.4% |
+| Literacy: | male: 87% |
+| Literacy: | female: 85.7% (2003 est.) |

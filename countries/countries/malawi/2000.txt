@@ -1,0 +1,30 @@
+| People |   |
+| --- | --- |
+| Population: | 10,385,849 |
+| note: | estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2000 est.) |
+| Age structure: | 0-14 years: 45% (male 2,335,440; female 2,324,012) |
+| Age structure: | 15-64 years: 52% (male 2,671,580; female 2,766,560) |
+| Age structure: | 65 years and over: 3% (male 117,932; female 170,325) (2000 est.) |
+| Population growth rate: | 1.61% (2000 est.) |
+| Birth rate: | 38.49 births/1,000 population (2000 est.) |
+| Death rate: | 22.44 deaths/1,000 population (2000 est.) |
+| Net migration rate: | 0 migrant(s)/1,000 population (2000 est.) |
+| Sex ratio: | at birth: 1.03 male(s)/female |
+| Sex ratio: | under 15 years: 1 male(s)/female |
+| Sex ratio: | 15-64 years: 0.97 male(s)/female |
+| Sex ratio: | 65 years and over: 0.69 male(s)/female |
+| Sex ratio: | total population: 0.97 male(s)/female (2000 est.) |
+| Infant mortality rate: | 122.28 deaths/1,000 live births (2000 est.) |
+| Life expectancy at birth: | total population: 37.58 years |
+| Life expectancy at birth: | male: 37.2 years |
+| Life expectancy at birth: | female: 37.98 years (2000 est.) |
+| Total fertility rate: | 5.33 children born/woman (2000 est.) |
+| Nationality: | noun: Malawian(s) |
+| Nationality: | adjective: Malawian |
+| Ethnic groups: | Chewa, Nyanja, Tumbuko, Yao, Lomwe, Sena, Tonga, Ngoni, Ngonde, Asian, European |
+| Religions: | Protestant 55%, Roman Catholic 20%, Muslim 20%, indigenous beliefs |
+| Languages: | English (official), Chichewa (official), other languages important regionally |
+| Literacy: | definition: age 15 and over can read and write |
+| Literacy: | total population: 58% |
+| Literacy: | male: 72.8% |
+| Literacy: | female: 43.4% (1999 est.) |

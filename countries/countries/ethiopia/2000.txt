@@ -1,0 +1,31 @@
+| People |   |
+| --- | --- |
+| Population: | 64,117,452 |
+| note: | estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2000 est.) |
+| Age structure: | 0-14 years: 47% (male 15,167,395; female 14,977,346) |
+| Age structure: | 15-64 years: 50% (male 16,195,637; female 15,987,089) |
+| Age structure: | 65 years and over: 3% (male 816,011; female 973,974) (2000 est.) |
+| Population growth rate: | 2.76% (2000 est.) |
+| Birth rate: | 45.13 births/1,000 population (2000 est.) |
+| Death rate: | 17.63 deaths/1,000 population (2000 est.) |
+| Net migration rate: | 0.14 migrant(s)/1,000 population (2000 est.) |
+| note: | repatriation of Ethiopians who fled to Sudan for refuge from war and famine in earlier years is expected to continue for several years; small numbers of Sudanese and Somali refugees, who fled to Ethiopia from the fighting or famine in their own countries, continue to return to their homes |
+| Sex ratio: | at birth: 1.03 male(s)/female |
+| Sex ratio: | under 15 years: 1.01 male(s)/female |
+| Sex ratio: | 15-64 years: 1.01 male(s)/female |
+| Sex ratio: | 65 years and over: 0.84 male(s)/female |
+| Sex ratio: | total population: 1.01 male(s)/female (2000 est.) |
+| Infant mortality rate: | 101.29 deaths/1,000 live births (2000 est.) |
+| Life expectancy at birth: | total population: 45.17 years |
+| Life expectancy at birth: | male: 44.41 years |
+| Life expectancy at birth: | female: 45.94 years (2000 est.) |
+| Total fertility rate: | 7.07 children born/woman (2000 est.) |
+| Nationality: | noun: Ethiopian(s) |
+| Nationality: | adjective: Ethiopian |
+| Ethnic groups: | Oromo 40%, Amhara and Tigre 32%, Sidamo 9%, Shankella 6%, Somali 6%, Afar 4%, Gurage 2%, other 1% |
+| Religions: | Muslim 45%-50%, Ethiopian Orthodox 35%-40%, animist 12%, other 3%-8% |
+| Languages: | Amharic, Tigrinya, Orominga, Guaraginga, Somali, Arabic, other local languages, English (major foreign language taught in schools) |
+| Literacy: | definition: age 15 and over can read and write |
+| Literacy: | total population: 35.5% |
+| Literacy: | male: 45.5% |
+| Literacy: | female: 25.3% (1995 est.) |

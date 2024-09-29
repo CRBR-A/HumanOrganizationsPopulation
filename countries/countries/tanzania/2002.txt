@@ -1,0 +1,34 @@
+| People | Tanzania |
+| --- | --- |
+| Population: | 37,187,939 |
+| Population: | note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2002 est.) |
+| Age structure: | 0-14 years: 44.6% (male 8,338,764; female 8,247,789) |
+| Age structure: | 15-64 years: 52.5% (male 9,674,951; female 9,847,084) |
+| Age structure: | 65 years and over: 2.9% (male 483,760; female 595,591) (2002 est.) |
+| Population growth rate: | 2.6% (2002 est.) |
+| Birth rate: | 39.12 births/1,000 population (2002 est.) |
+| Death rate: | 13.02 deaths/1,000 population (2002 est.) |
+| Net migration rate: | -0.08 migrant(s)/1,000 population (2002 est.) |
+| Sex ratio: | at birth: 1.03 male(s)/female |
+| Sex ratio: | under 15 years: 1.01 male(s)/female |
+| Sex ratio: | 15-64 years: 0.98 male(s)/female |
+| Sex ratio: | 65 years and over: 0.81 male(s)/female |
+| Sex ratio: | total population: 0.99 male(s)/female (2002 est.) |
+| Infant mortality rate: | 77.85 deaths/1,000 live births (2002 est.) |
+| Life expectancy at birth: | total population: 51.7 years |
+| Life expectancy at birth: | female: 52.67 years (2002 est.) |
+| Life expectancy at birth: | male: 50.76 years |
+| Total fertility rate: | 5.33 children born/woman (2002 est.) |
+| HIV/AIDS - adult prevalence rate: | 8.09% (1999 est.) |
+| HIV/AIDS - people living with HIV/AIDS: | 1.3 million (1999 est.) |
+| HIV/AIDS - deaths: | 140,000 (1999 est.) |
+| Nationality: | noun: Tanzanian(s) |
+| Nationality: | adjective: Tanzanian |
+| Ethnic groups: | mainland - native African 99% (of which 95% are Bantu consisting of more than 130 tribes), other 1% (consisting of Asian, European, and Arab); Zanzibar - Arab, native African, mixed Arab and native African |
+| Religions: | mainland - Christian 30%, Muslim 35%, indigenous beliefs 35%; Zanzibar - more than 99% Muslim |
+| Languages: | Kiswahili or Swahili (official), Kiunguju (name for Swahili in Zanzibar), English (official, primary language of commerce, administration, and higher education), Arabic (widely spoken in Zanzibar), many local languages |
+| Languages: | note: Kiswahili (Swahili) is the mother tongue of the Bantu people living in Zanzibar and nearby coastal Tanzania; although Kiswahili is Bantu in structure and origin, its vocabulary draws on a variety of sources, including Arabic and English, and it has become the lingua franca of central and eastern Africa; the first language of most people is one of the local languages |
+| Literacy: | definition: age 15 and over can read and write Kiswahili (Swahili), English, or Arabic |
+| Literacy: | total population: 67.8% |
+| Literacy: | male: 79.4% |
+| Literacy: | female: 56.8% (1995 est.) |

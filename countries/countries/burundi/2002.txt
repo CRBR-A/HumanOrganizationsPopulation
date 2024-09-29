@@ -1,0 +1,33 @@
+| People | Burundi |
+| --- | --- |
+| Population: | 6,373,002 |
+| Population: | note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2002 est.) |
+| Age structure: | 0-14 years: 46.5% (male 1,497,865; female 1,466,455) |
+| Age structure: | 15-64 years: 50.7% (male 1,592,253; female 1,640,254) |
+| Age structure: | 65 years and over: 2.8% (male 71,915; female 104,260) (2002 est.) |
+| Population growth rate: | 2.36% (2002 est.) |
+| Birth rate: | 39.87 births/1,000 population (2002 est.) |
+| Death rate: | 16.3 deaths/1,000 population (2002 est.) |
+| Net migration rate: | 0 migrant(s)/1,000 population (2002 est.) |
+| Sex ratio: | at birth: 1.03 male(s)/female |
+| Sex ratio: | under 15 years: 1.02 male(s)/female |
+| Sex ratio: | 15-64 years: 0.97 male(s)/female |
+| Sex ratio: | 65 years and over: 0.69 male(s)/female |
+| Sex ratio: | total population: 0.99 male(s)/female (2002 est.) |
+| Infant mortality rate: | 69.97 deaths/1,000 live births (2002 est.) |
+| Life expectancy at birth: | total population: 45.94 years |
+| Life expectancy at birth: | female: 46.83 years (2002 est.) |
+| Life expectancy at birth: | male: 45.08 years |
+| Total fertility rate: | 6.07 children born/woman (2002 est.) |
+| HIV/AIDS - adult prevalence rate: | 11.32% (1999 est.) |
+| HIV/AIDS - people living with HIV/AIDS: | 360,000 (1999 est.) |
+| HIV/AIDS - deaths: | 39,000 (1999 est.) |
+| Nationality: | noun: Burundian(s) |
+| Nationality: | adjective: Burundi |
+| Ethnic groups: | Hutu (Bantu) 85%, Tutsi (Hamitic) 14%, Twa (Pygmy) 1%, Europeans 3,000, South Asians 2,000 |
+| Religions: | Christian 67% (Roman Catholic 62%, Protestant 5%), indigenous beliefs 23%, Muslim 10% |
+| Languages: | Kirundi (official), French (official), Swahili (along Lake Tanganyika and in the Bujumbura area) |
+| Literacy: | definition: age 15 and over can read and write |
+| Literacy: | total population: 35.3% |
+| Literacy: | male: 49.3% |
+| Literacy: | female: 22.5% (1995 est.) |

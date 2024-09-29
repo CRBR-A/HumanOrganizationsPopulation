@@ -1,0 +1,51 @@
+| People | Burkina Faso |
+| --- | --- |
+| Population: | 15,746,232 |
+| Population: | note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2009 est.) |
+| Age structure: | 0-14 years: 46.2% (male 3,646,661/female 3,621,648) |
+| Age structure: | 15-64 years: 51.3% (male 4,025,917/female 4,054,865) |
+| Age structure: | 65 years and over: 2.5% (male 156,895/female 240,246) (2009 est.) |
+| Median age: | total: 16.8 years |
+| Median age: | male: 16.6 years |
+| Median age: | female: 17 years (2009 est.) |
+| Population growth rate: | 3.103% (2009 est.) |
+| Birth rate: | 44.33 births/1,000 population (2009 est.) |
+| Death rate: | 13.3 deaths/1,000 population (July 2009 est.) |
+| Net migration rate: | NA |
+| Urbanization: | urban population: 20% of total population (2008) |
+| Urbanization: | rate of urbanization: 5% annual rate of change (2005-10 est.) |
+| Sex ratio: | at birth: 1.03 male(s)/female |
+| Sex ratio: | under 15 years: 1.01 male(s)/female |
+| Sex ratio: | 15-64 years: 0.99 male(s)/female |
+| Sex ratio: | 65 years and over: 0.65 male(s)/female |
+| Sex ratio: | total population: 0.99 male(s)/female (2009 est.) |
+| Infant mortality rate: | total: 84.49 deaths/1,000 live births |
+| Infant mortality rate: | male: 92.09 deaths/1,000 live births |
+| Infant mortality rate: | female: 76.66 deaths/1,000 live births (2009 est.) |
+| Life expectancy at birth: | total population: 52.95 years |
+| Life expectancy at birth: | male: 51.04 years |
+| Life expectancy at birth: | female: 54.91 years (2009 est.) |
+| Total fertility rate: | 6.28 children born/woman (2009 est.) |
+| HIV/AIDS - adult prevalence rate: | 1.6% (2007 est.) |
+| HIV/AIDS - people living with HIV/AIDS: | 130,000 (2007 est.) |
+| HIV/AIDS - deaths: | 9,200 (2007 est.) |
+| Major infectious diseases: | degree of risk: very high |
+| Major infectious diseases: | food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| Major infectious diseases: | vectorborne disease: malaria and yellow fever |
+| Major infectious diseases: | water contact disease: schistosomiasis |
+| Major infectious diseases: | respiratory disease: meningococcal meningitis |
+| Major infectious diseases: | animal contact disease: rabies |
+| Major infectious diseases: | note: highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2009) |
+| Nationality: | noun: Burkinabe (singular and plural) |
+| Nationality: | adjective: Burkinabe |
+| Ethnic groups: | Mossi over 40%, other approximately 60% (includes Gurunsi, Senufo, Lobi, Bobo, Mande, and Fulani) |
+| Religions: | Muslim 50%, indigenous beliefs 40%, Christian (mainly Roman Catholic) 10% |
+| Languages: | French (official), native African languages belonging to Sudanic family spoken by 90% of the population |
+| Literacy: | definition: age 15 and over can read and write |
+| Literacy: | total population: 21.8% |
+| Literacy: | male: 29.4% |
+| Literacy: | female: 15.2% (2003 est.) |
+| School life expectancy (primary to tertiary education): | total: 5 years |
+| School life expectancy (primary to tertiary education): | male: 5 years |
+| School life expectancy (primary to tertiary education): | female: 4 years (2006) |
+| Education expenditures: | 4.2% of GDP (2006) |

@@ -1,0 +1,42 @@
+| People | Lesotho |
+| --- | --- |
+| Population: | 2,128,180 |
+| Population: | note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2008 est.) |
+| Age structure: | 0-14 years: 35.3% (male 377,784/female 372,840) |
+| Age structure: | 15-64 years: 59.8% (male 621,687/female 649,981) |
+| Age structure: | 65 years and over: 5% (male 42,348/female 63,540) (2008 est.) |
+| Median age: | total: 21.2 years |
+| Median age: | male: 20.6 years |
+| Median age: | female: 21.8 years (2008 est.) |
+| Population growth rate: | 0.129% (2008 est.) |
+| Birth rate: | 24.41 births/1,000 population (2008 est.) |
+| Death rate: | 22.33 deaths/1,000 population (2008 est.) |
+| Net migration rate: | -0.78 migrant(s)/1,000 population (2008 est.) |
+| Sex ratio: | at birth: 1.03 male(s)/female |
+| Sex ratio: | under 15 years: 1.01 male(s)/female |
+| Sex ratio: | 15-64 years: 0.96 male(s)/female |
+| Sex ratio: | 65 years and over: 0.67 male(s)/female |
+| Sex ratio: | total population: 0.96 male(s)/female (2008 est.) |
+| Infant mortality rate: | total: 78.59 deaths/1,000 live births |
+| Infant mortality rate: | male: 83.01 deaths/1,000 live births |
+| Infant mortality rate: | female: 74.03 deaths/1,000 live births (2008 est.) |
+| Life expectancy at birth: | total population: 40.17 years |
+| Life expectancy at birth: | male: 40.97 years |
+| Life expectancy at birth: | female: 39.34 years (2008 est.) |
+| Total fertility rate: | 3.13 children born/woman (2008 est.) |
+| HIV/AIDS - adult prevalence rate: | 28.9% (2003 est.) |
+| HIV/AIDS - people living with HIV/AIDS: | 320,000 (2003 est.) |
+| HIV/AIDS - deaths: | 29,000 (2003 est.) |
+| Nationality: | noun: Mosotho (singular), Basotho (plural) |
+| Nationality: | adjective: Basotho |
+| Ethnic groups: | Sotho 99.7%, Europeans, Asians, and other 0.3%, |
+| Religions: | Christian 80%, indigenous beliefs 20% |
+| Languages: | Sesotho (southern Sotho), English (official), Zulu, Xhosa |
+| Literacy: | definition: age 15 and over can read and write |
+| Literacy: | total population: 84.8% |
+| Literacy: | male: 74.5% |
+| Literacy: | female: 94.5% (2003 est.) |
+| School life expectancy (primary to tertiary education): | total: 10 years |
+| School life expectancy (primary to tertiary education): | male: 10 years |
+| School life expectancy (primary to tertiary education): | female: 10 years (2006) |
+| Education expenditures: | 13% of GDP (2006) |

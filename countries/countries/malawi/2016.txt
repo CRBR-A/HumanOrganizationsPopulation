@@ -1,0 +1,88 @@
+| People and Society | MALAWI |
+| --- | --- |
+| Population: | 18,570,321 |
+| Population: | note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2016 est.) |
+| Nationality: | noun: Malawian(s) |
+| Nationality: | adjective: Malawian |
+| Ethnic groups: | Chewa 32.6%, Lomwe 17.6%, Yao 13.5%, Ngoni 11.5%, Tumbuka 8.8%, Nyanja 5.8%, Sena 3.6%, Tonga 2.1%, Ngonde 1%, other 3.5% |
+| Languages: | English (official), Chichewa (common), Chinyanja, Chiyao, Chitumbuka, Chilomwe, Chinkhonde, Chingoni, Chisena, Chitonga, Chinyakyusa, Chilambya |
+| Religions: | Christian 82.6%, Muslim 13%, other 1.9%, none 2.5% (2008 est.) |
+| Demographic profile: | Malawi has made great improvements in maternal and child health, but has made less progress in reducing its high fertility rate. In both rural and urban areas, very high proportions of mothers are receiving prenatal care and skilled birth assistance, and most children are being vaccinated. Malawi’s fertility rate, however, has only declined slowly, decreasing from more than 7 children per woman in the 1980s to about 5.5 today. Nonetheless, Malawians prefer smaller families than in the past, and women are increasingly using contraceptives to prevent or space pregnancies. Rapid population growth and high population density is putting pressure on Malawi’s land, water, and forest resources. Reduced plot sizes and increasing vulnerability to climate change, further threaten the sustainability of Malawi’s agriculturally based economy and will worsen food shortages. About 80% of the population is employed in agriculture. |
+| Demographic profile: | Historically, Malawians migrated abroad in search of work, primarily to South Africa and present-day Zimbabwe, but international migration became uncommon after the 1970s, and most migration in recent years has been internal. During the colonial period, Malawians regularly migrated to southern Africa as contract farm laborers, miners, and domestic servants. In the decade and a half after independence in 1964, the Malawian Government sought to transform its economy from one dependent on small-scale farms to one based on estate agriculture. The resulting demand for wage labor induced more than 300,000 Malawians to return home between the mid-1960s and the mid-1970s. In recent times, internal migration has generally been local, motivated more by marriage than economic reasons. |
+| Age structure: | 0-14 years: 46.53% (male 4,299,076/female 4,341,129) |
+| Age structure: | 15-24 years: 20.49% (male 1,889,240/female 1,915,843) |
+| Age structure: | 25-54 years: 27.26% (male 2,512,247/female 2,549,766) |
+| Age structure: | 55-64 years: 3.03% (male 268,691/female 294,713) |
+| Age structure: | 65 years and over: 2.69% (male 220,608/female 279,008) (2016 est.) |
+| Dependency ratios: | total dependency ratio: 94.5% |
+| Dependency ratios: | youth dependency ratio: 87.9% |
+| Dependency ratios: | elderly dependency ratio: 6.7% |
+| Dependency ratios: | potential support ratio: 14.9% (2015 est.) |
+| Median age: | total: 16.5 years |
+| Median age: | male: 16.3 years |
+| Median age: | female: 16.6 years (2016 est.) |
+| Population growth rate: | 3.32% (2016 est.) |
+| Birth rate: | 41.3 births/1,000 population (2016 est.) |
+| Death rate: | 8.1 deaths/1,000 population (2016 est.) |
+| Net migration rate: | 0 migrant(s)/1,000 population (2016 est.) |
+| Urbanization: | urban population: 16.3% of total population (2015) |
+| Urbanization: | rate of urbanization: 3.77% annual rate of change (2010-15 est.) |
+| Major urban areas - population: | LILONGWE (capital) 905,000; Blantyre-Limbe 808,000 (2015) |
+| Sex ratio: | at birth: 1.02 male(s)/female |
+| Sex ratio: | 0-14 years: 0.99 male(s)/female |
+| Sex ratio: | 15-24 years: 0.99 male(s)/female |
+| Sex ratio: | 25-54 years: 0.99 male(s)/female |
+| Sex ratio: | 55-64 years: 0.91 male(s)/female |
+| Sex ratio: | 65 years and over: 0.79 male(s)/female |
+| Sex ratio: | total population: 0.98 male(s)/female (2016 est.) |
+| Mother's mean age at first birth: | 18.9 |
+| Mother's mean age at first birth: | note: median age at first birth among women 25-29 (2010 est.) |
+| Maternal mortality rate: | 634 deaths/100,000 live births (2015 est.) |
+| Infant mortality rate: | total: 44.8 deaths/1,000 live births |
+| Infant mortality rate: | male: 51.5 deaths/1,000 live births |
+| Infant mortality rate: | female: 38 deaths/1,000 live births (2016 est.) |
+| Life expectancy at birth: | total population: 61.2 years |
+| Life expectancy at birth: | male: 59.2 years |
+| Life expectancy at birth: | female: 63.2 years (2016 est.) |
+| Total fertility rate: | 5.54 children born/woman (2016 est.) |
+| Contraceptive prevalence rate: | 46.1% (2010) |
+| Health expenditures: | 11.4% of GDP (2014) |
+| Physicians density: | 0.02 physicians/1,000 population (2009) |
+| Hospital bed density: | 1.3 beds/1,000 population (2011) |
+| Drinking water source: | improved: |
+| Drinking water source: | urban: 95.7% of population |
+| Drinking water source: | rural: 89.1% of population |
+| Drinking water source: | total: 90.2% of population |
+| unimproved: | urban: 4.3% of population |
+| unimproved: | rural: 10.9% of population |
+| unimproved: | total: 9.8% of population (2015 est.) |
+| Sanitation facility access: | improved: |
+| Sanitation facility access: | urban: 47.3% of population |
+| Sanitation facility access: | rural: 39.8% of population |
+| Sanitation facility access: | total: 41% of population |
+| unimproved: | urban: 52.7% of population |
+| unimproved: | rural: 60.2% of population |
+| unimproved: | total: 59% of population (2015 est.) |
+| HIV/AIDS - adult prevalence rate: | 9.11% (2015 est.) |
+| HIV/AIDS - people living with HIV/AIDS: | 976,300 (2015 est.) |
+| HIV/AIDS - deaths: | 26,700 (2015 est.) |
+| Major infectious diseases: | degree of risk: very high |
+| Major infectious diseases: | food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| Major infectious diseases: | vectorborne diseases: malaria and dengue fever |
+| Major infectious diseases: | water contact disease: schistosomiasis |
+| Major infectious diseases: | animal contact disease: rabies (2016) |
+| Obesity - adult prevalence rate: | 4.3% (2014) |
+| Children under the age of 5 years underweight: | 16.7% (2014) |
+| Education expenditures: | 6.9% of GDP (2014) |
+| Literacy: | definition: age 15 and over can read and write |
+| Literacy: | total population: 65.8% |
+| Literacy: | male: 73% |
+| Literacy: | female: 58.6% (2015 est.) |
+| School life expectancy (primary to tertiary education): | total: 11 years |
+| School life expectancy (primary to tertiary education): | male: 11 years |
+| School life expectancy (primary to tertiary education): | female: 11 years (2011) |
+| Child labor - children ages 5-14: | total number: 993,318 |
+| Child labor - children ages 5-14: | percentage: 26% (2006 est.) |
+| Unemployment, youth ages 15-24: | total: 8.6% |
+| Unemployment, youth ages 15-24: | male: 9.1% |
+| Unemployment, youth ages 15-24: | female: 8.2% (2013 est.) |

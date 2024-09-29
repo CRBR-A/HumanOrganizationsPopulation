@@ -1,0 +1,38 @@
+| People | South Africa |
+| --- | --- |
+| Population: | 44,344,136 |
+| Population: | note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2005 est.) |
+| Age structure: | 0-14 years: 30.3% (male 6,760,137/female 6,682,013) |
+| Age structure: | 15-64 years: 64.5% (male 13,860,727/female 14,750,496) |
+| Age structure: | 65 years and over: 5.2% (male 893,360/female 1,397,403) (2005 est.) |
+| Median age: | total: 23.98 years |
+| Median age: | male: 23.12 years |
+| Median age: | female: 24.86 years (2005 est.) |
+| Population growth rate: | -0.31% (2005 est.) |
+| Birth rate: | 18.48 births/1,000 population (2005 est.) |
+| Death rate: | 21.32 deaths/1,000 population (2005 est.) |
+| Net migration rate: | -0.22 migrant(s)/1,000 population (2005 est.) |
+| Sex ratio: | at birth: 1.02 male(s)/female |
+| Sex ratio: | under 15 years: 1.01 male(s)/female |
+| Sex ratio: | 15-64 years: 0.94 male(s)/female |
+| Sex ratio: | 65 years and over: 0.64 male(s)/female |
+| Sex ratio: | total population: 0.94 male(s)/female (2005 est.) |
+| Infant mortality rate: | total: 61.81 deaths/1,000 live births |
+| Infant mortality rate: | male: 65.6 deaths/1,000 live births |
+| Infant mortality rate: | female: 57.93 deaths/1,000 live births (2005 est.) |
+| Life expectancy at birth: | total population: 43.27 years |
+| Life expectancy at birth: | male: 43.47 years |
+| Life expectancy at birth: | female: 43.06 years (2005 est.) |
+| Total fertility rate: | 2.24 children born/woman (2005 est.) |
+| HIV/AIDS - adult prevalence rate: | 21.5% (2003 est.) |
+| HIV/AIDS - people living with HIV/AIDS: | 5.3 million (2003 est.) |
+| HIV/AIDS - deaths: | 370,000 (2003 est.) |
+| Nationality: | noun: South African(s) |
+| Nationality: | adjective: South African |
+| Ethnic groups: | black African 79%, white 9.6%, colored 8.9%, Indian/Asian 2.5% (2001 census) |
+| Religions: | Zion Christian 11.1%, Pentecostal/Charismatic 8.2%, Catholic 7.1%, Methodist 6.8%, Dutch Reformed 6.7%, Anglican 3.8%, other Christian 36%, Islam 1.5%, other 2.3%, unspecified 1.4%, none 15.1% (2001 census) |
+| Languages: | IsiZulu 23.8%, IsiXhosa 17.6%, Afrikaans 13.3%, Sepedi 9.4%, English 8.2%, Setswana 8.2%, Sesotho 7.9%, Xitsonga 4.4%, other 7.2% (2001 census) |
+| Literacy: | definition: age 15 and over can read and write |
+| Literacy: | total population: 86.4% |
+| Literacy: | male: 87% |
+| Literacy: | female: 85.7% (2003 est.) |

@@ -1,0 +1,30 @@
+| People |   |
+| --- | --- |
+| Population: | 123,337,822 |
+| note: | estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2000 est.) |
+| Age structure: | 0-14 years: 44% (male 27,181,020; female 26,872,317) |
+| Age structure: | 15-64 years: 53% (male 33,495,794; female 32,337,193) |
+| Age structure: | 65 years and over: 3% (male 1,729,149; female 1,722,349) (2000 est.) |
+| Population growth rate: | 2.67% (2000 est.) |
+| Birth rate: | 40.16 births/1,000 population (2000 est.) |
+| Death rate: | 13.72 deaths/1,000 population (2000 est.) |
+| Net migration rate: | 0.28 migrant(s)/1,000 population (2000 est.) |
+| Sex ratio: | at birth: 1.03 male(s)/female |
+| Sex ratio: | under 15 years: 1.01 male(s)/female |
+| Sex ratio: | 15-64 years: 1.04 male(s)/female |
+| Sex ratio: | 65 years and over: 1 male(s)/female |
+| Sex ratio: | total population: 1.02 male(s)/female (2000 est.) |
+| Infant mortality rate: | 74.18 deaths/1,000 live births (2000 est.) |
+| Life expectancy at birth: | total population: 51.56 years |
+| Life expectancy at birth: | male: 51.58 years |
+| Life expectancy at birth: | female: 51.55 years (2000 est.) |
+| Total fertility rate: | 5.66 children born/woman (2000 est.) |
+| Nationality: | noun: Nigerian(s) |
+| Nationality: | adjective: Nigerian |
+| Ethnic groups: Nigeria, which is Africa's most populous country, is composed of more than 250 ethnic groups; the following are the most populous and politically influential: | Hausa and Fulani 29%, Yoruba 21%, Igbo (Ibo) 18%, Ijaw 10%, Kanuri 4%, Ibibio 3.5%, Tiv 2.5% |
+| Religions: | Muslim 50%, Christian 40%, indigenous beliefs 10% |
+| Languages: | English (official), Hausa, Yoruba, Igbo (Ibo), Fulani |
+| Literacy: | definition: age 15 and over can read and write |
+| Literacy: | total population: 57.1% |
+| Literacy: | male: 67.3% |
+| Literacy: | female: 47.3% (1995 est.) |

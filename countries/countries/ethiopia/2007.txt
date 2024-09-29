@@ -1,0 +1,45 @@
+| People | Ethiopia |
+| --- | --- |
+| Population: | 76,511,887 |
+| Population: | note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2007 est.) |
+| Age structure: | 0-14 years: 43.4% (male 16,657,155/female 16,553,812) |
+| Age structure: | 15-64 years: 53.8% (male 20,558,026/female 20,639,076) |
+| Age structure: | 65 years and over: 2.7% (male 953,832/female 1,149,986) (2007 est.) |
+| Median age: | total: 18 years |
+| Median age: | male: 17.8 years |
+| Median age: | female: 18.1 years (2007 est.) |
+| Population growth rate: | 2.272% (2007 est.) |
+| Birth rate: | 37.39 births/1,000 population (2007 est.) |
+| Death rate: | 14.67 deaths/1,000 population (2007 est.) |
+| Net migration rate: | 0 migrant(s)/1,000 population |
+| Net migration rate: | note: repatriation of Ethiopian refugees residing in Sudan is expected to continue for several years; some Sudanese, Somali, and Eritrean refugees, who fled to Ethiopia from the fighting or famine in their own countries, continue to return to their homes (2007 est.) |
+| Sex ratio: | at birth: 1.03 male(s)/female |
+| Sex ratio: | under 15 years: 1.006 male(s)/female |
+| Sex ratio: | 15-64 years: 0.996 male(s)/female |
+| Sex ratio: | 65 years and over: 0.829 male(s)/female |
+| Sex ratio: | total population: 0.995 male(s)/female (2007 est.) |
+| Infant mortality rate: | total: 91.92 deaths/1,000 live births |
+| Infant mortality rate: | male: 101.57 deaths/1,000 live births |
+| Infant mortality rate: | female: 81.99 deaths/1,000 live births (2007 est.) |
+| Life expectancy at birth: | total population: 49.23 years |
+| Life expectancy at birth: | male: 48.06 years |
+| Life expectancy at birth: | female: 50.44 years (2007 est.) |
+| Total fertility rate: | 5.1 children born/woman (2007 est.) |
+| HIV/AIDS - adult prevalence rate: | 4.4% (2003 est.) |
+| HIV/AIDS - people living with HIV/AIDS: | 1.5 million (2003 est.) |
+| HIV/AIDS - deaths: | 120,000 (2003 est.) |
+| Major infectious diseases: | degree of risk: very high |
+| Major infectious diseases: | food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever |
+| Major infectious diseases: | vectorborne diseases: malaria and cutaneous leishmaniasis are high risks in some locations |
+| Major infectious diseases: | respiratory disease: meningococcal meningitis |
+| Major infectious diseases: | animal contact disease: rabies |
+| Major infectious diseases: | water contact disease: schistosomiasis (2007) |
+| Nationality: | noun: Ethiopian(s) |
+| Nationality: | adjective: Ethiopian |
+| Ethnic groups: | Oromo 32.1%, Amara 30.1%, Tigraway 6.2%, Somalie 5.9%, Guragie 4.3%, Sidama 3.5%, Welaita 2.4%, other 15.4% (1994 census) |
+| Religions: | Christian 60.8% (Orthodox 50.6%, Protestant 10.2%), Muslim 32.8%, traditional 4.6%, other 1.8% (1994 census) |
+| Languages: | Amarigna 32.7%, Oromigna 31.6%, Tigrigna 6.1%, Somaligna 6%, Guaragigna 3.5%, Sidamigna 3.5%, Hadiyigna 1.7%, other 14.8%, English (major foreign language taught in schools) (1994 census) |
+| Literacy: | definition: age 15 and over can read and write |
+| Literacy: | total population: 42.7% |
+| Literacy: | male: 50.3% |
+| Literacy: | female: 35.1% (2003 est.) |

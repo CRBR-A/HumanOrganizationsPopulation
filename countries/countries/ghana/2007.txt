@@ -1,0 +1,43 @@
+| People | Ghana |
+| --- | --- |
+| Population: | 22,931,299 |
+| Population: | note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2007 est.) |
+| Age structure: | 0-14 years: 38.2% (male 4,438,308/female 4,329,293) |
+| Age structure: | 15-64 years: 58.2% (male 6,661,512/female 6,687,738) |
+| Age structure: | 65 years and over: 3.6% (male 380,495/female 433,953) (2007 est.) |
+| Median age: | total: 20.2 years |
+| Median age: | male: 19.9 years |
+| Median age: | female: 20.4 years (2007 est.) |
+| Population growth rate: | 1.972% (2007 est.) |
+| Birth rate: | 29.85 births/1,000 population (2007 est.) |
+| Death rate: | 9.55 deaths/1,000 population (2007 est.) |
+| Net migration rate: | -0.58 migrant(s)/1,000 population (2007 est.) |
+| Sex ratio: | at birth: 1.03 male(s)/female |
+| Sex ratio: | under 15 years: 1.025 male(s)/female |
+| Sex ratio: | 15-64 years: 0.996 male(s)/female |
+| Sex ratio: | 65 years and over: 0.877 male(s)/female |
+| Sex ratio: | total population: 1.003 male(s)/female (2007 est.) |
+| Infant mortality rate: | total: 53.56 deaths/1,000 live births |
+| Infant mortality rate: | male: 58 deaths/1,000 live births |
+| Infant mortality rate: | female: 48.99 deaths/1,000 live births (2007 est.) |
+| Life expectancy at birth: | total population: 59.12 years |
+| Life expectancy at birth: | male: 58.31 years |
+| Life expectancy at birth: | female: 59.95 years (2007 est.) |
+| Total fertility rate: | 3.89 children born/woman (2007 est.) |
+| HIV/AIDS - adult prevalence rate: | 3.1% (2003 est.) |
+| HIV/AIDS - people living with HIV/AIDS: | 350,000 (2003 est.) |
+| HIV/AIDS - deaths: | 30,000 (2003 est.) |
+| Major infectious diseases: | degree of risk: very high |
+| Major infectious diseases: | food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever |
+| Major infectious diseases: | vectorborne diseases: malaria and yellow fever are high risks in some locations |
+| Major infectious diseases: | water contact disease: schistosomiasis |
+| Major infectious diseases: | respiratory disease: meningococcal meningitis (2007) |
+| Nationality: | noun: Ghanaian(s) |
+| Nationality: | adjective: Ghanaian |
+| Ethnic groups: | Akan 45.3%, Mole-Dagbon 15.2%, Ewe 11.7%, Ga-Dangme 7.3%, Guan 4%, Gurma 3.6%, Grusi 2.6%, Mande-Busanga 1%, other tribes 1.4%, other 7.8% (2000 census) |
+| Religions: | Christian 68.8% (Pentecostal/Charismatic 24.1%, Protestant 18.6%, Catholic 15.1%, other 11%), Muslim 15.9%, traditional 8.5%, other 0.7%, none 6.1% (2000 census) |
+| Languages: | Asante 14.8%, Ewe 12.7%, Fante 9.9%, Boron (Brong) 4.6%, Dagomba 4.3%, Dangme 4.3%, Dagarte (Dagaba) 3.7%, Akyem 3.4%, Ga 3.4%, Akuapem 2.9%, other 36.1% (includes English (official)) (2000 census) |
+| Literacy: | definition: age 15 and over can read and write |
+| Literacy: | total population: 57.9% |
+| Literacy: | male: 66.4% |
+| Literacy: | female: 49.8% (2000 census) |
